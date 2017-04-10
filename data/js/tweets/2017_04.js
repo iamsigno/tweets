@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 09:27:23 +0000 2017",
+		"id": 851365986364264400,
+		"id_str": "851365986364264448",
+		"text": "【 #SMTOWN_NOW 】 TAEYEON https://t.co/gcpBe3FOTc https://t.co/CFZUPCv1Q2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_NOW",
+					"indices": [
+						2,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gcpBe3FOTc",
+					"expanded_url": "http://now.smtown.com/Show/5979",
+					"display_url": "now.smtown.com/Show/5979",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 851365984292286500,
+					"id_str": "851365984292286466",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Co2huXsAIFVWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Co2huXsAIFVWX.jpg",
+					"url": "https://t.co/CFZUPCv1Q2",
+					"display_url": "pic.twitter.com/CFZUPCv1Q2",
+					"expanded_url": "https://twitter.com/dcsigno/status/851365986364264448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851365984292286500,
+					"id_str": "851365984292286466",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Co2huXsAIFVWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Co2huXsAIFVWX.jpg",
+					"url": "https://t.co/CFZUPCv1Q2",
+					"display_url": "pic.twitter.com/CFZUPCv1Q2",
+					"expanded_url": "https://twitter.com/dcsigno/status/851365986364264448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "dcsigno",
+			"location": "",
+			"description": "Girls' Generation S❤NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 652,
+			"friends_count": 506,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1995,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25856,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl"
+	},
+	{
+		"created_at": "Mon Apr 10 09:27:20 +0000 2017",
+		"id": 851365974632779800,
+		"id_str": "851365974632779780",
+		"text": "【 #SMTOWN_NOW 】 SEOHYUN https://t.co/hyXnCkcuOR https://t.co/68L3EIrHnt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_NOW",
+					"indices": [
+						2,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hyXnCkcuOR",
+					"expanded_url": "http://now.smtown.com/Show/5976",
+					"display_url": "now.smtown.com/Show/5976",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 851365972007104500,
+					"id_str": "851365972007104512",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Co1z9WsAAutRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Co1z9WsAAutRe.jpg",
+					"url": "https://t.co/68L3EIrHnt",
+					"display_url": "pic.twitter.com/68L3EIrHnt",
+					"expanded_url": "https://twitter.com/dcsigno/status/851365974632779780/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 851365972007104500,
+					"id_str": "851365972007104512",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/C9Co1z9WsAAutRe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9Co1z9WsAAutRe.jpg",
+					"url": "https://t.co/68L3EIrHnt",
+					"display_url": "pic.twitter.com/68L3EIrHnt",
+					"expanded_url": "https://twitter.com/dcsigno/status/851365974632779780/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "dcsigno",
+			"location": "",
+			"description": "Girls' Generation S❤NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 652,
+			"friends_count": 506,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1995,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25856,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
 		"created_at": "Fri Apr 07 08:23:04 +0000 2017",
 		"id": 850262638047121400,
 		"id_str": "850262638047121409",
