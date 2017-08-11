@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Fri Aug 11 06:09:14 +0000 2017",
+		"id": 895889829606457300,
+		"id_str": "895889829606457344",
+		"text": "【 #SMTOWN_NOW 】 SOOYOUNG https://t.co/QBRvf56pIs https://t.co/wzHUL8JlsL",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_NOW",
+					"indices": [
+						2,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QBRvf56pIs",
+					"expanded_url": "http://now.smtown.com/Show/6225",
+					"display_url": "now.smtown.com/Show/6225",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 895889827689775100,
+					"id_str": "895889827689775105",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DG7XDTlVwAEI7cz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG7XDTlVwAEI7cz.jpg",
+					"url": "https://t.co/wzHUL8JlsL",
+					"display_url": "pic.twitter.com/wzHUL8JlsL",
+					"expanded_url": "https://twitter.com/dcsigno/status/895889829606457344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 895889827689775100,
+					"id_str": "895889827689775105",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/DG7XDTlVwAEI7cz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DG7XDTlVwAEI7cz.jpg",
+					"url": "https://t.co/wzHUL8JlsL",
+					"display_url": "pic.twitter.com/wzHUL8JlsL",
+					"expanded_url": "https://twitter.com/dcsigno/status/895889829606457344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 899,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "dcsigno",
+			"location": "",
+			"description": "Girls' Generation S❤NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 637,
+			"friends_count": 505,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1985,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25917,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in"
+	},
+	{
+		"created_at": "Fri Aug 11 05:46:11 +0000 2017",
+		"id": 895884027424456700,
+		"id_str": "895884027424456704",
+		"text": "【 #SNSD_Notice 】 8월 13일 (일) SBS 인기가요 - 사전녹화 참여안내! https://t.co/9SmgMMDPte",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNSD_Notice",
+					"indices": [
+						2,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9SmgMMDPte",
+					"expanded_url": "http://m.smtown.com/Board/Details/7278157",
+					"display_url": "m.smtown.com/Board/Details/…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "dcsigno",
+			"location": "",
+			"description": "Girls' Generation S❤NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 637,
+			"friends_count": 505,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1985,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25917,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
+		"created_at": "Fri Aug 11 05:46:10 +0000 2017",
+		"id": 895884024157057000,
+		"id_str": "895884024157057025",
+		"text": "【 #SNSD_Notice 】 8월 12일 (토) MBC 쇼! 음악중심 - 사전녹화 참여안내! https://t.co/HGJk4NYncn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNSD_Notice",
+					"indices": [
+						2,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HGJk4NYncn",
+					"expanded_url": "http://m.smtown.com/Board/Details/7278156",
+					"display_url": "m.smtown.com/Board/Details/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "dcsigno",
+			"location": "",
+			"description": "Girls' Generation S❤NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 637,
+			"friends_count": 505,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1985,
+			"utc_offset": 32400,
+			"time_zone": "Seoul",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25917,
+			"lang": "ko",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/690080728147738624/A9UadOVJ.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko"
+	},
+	{
 		"created_at": "Thu Aug 10 11:46:12 +0000 2017",
 		"id": 895612240191160300,
 		"id_str": "895612240191160322",
