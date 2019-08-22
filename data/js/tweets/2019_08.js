@@ -1,6 +1,386 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 22 11:21:06 +0000 2019",
+		"id": 1164490173108723700,
+		"id_str": "1164497721312645122",
+		"full_text": "&gt; 태연, 써니와 함께하는 &lt;SM 슈퍼아이돌리그&gt; 시즌4\n잠시 후 저녁 8시(KST)에 후야TV에서 방송됩니다.\n \n태연👉https://t.co/zOWxfia8Gw\n써니👉https://t.co/0Bl6GObJKZ\n\n#태연 #TAEYEON #써니 #SUNNY #소녀시대 #GirlsGeneration https://t.co/WnEbuuLAym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zOWxfia8Gw",
+					"expanded_url": "http://www.huya.com/660220",
+					"display_url": "huya.com/660220",
+					"indices": [
+						77,
+						100
+					]
+				},
+				{
+					"url": "https://t.co/0Bl6GObJKZ",
+					"expanded_url": "http://www.huya.com/660221",
+					"display_url": "huya.com/660221",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1164490140544168000,
+					"id_str": "1164490140544167937",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ECkZnPOUcAE6IXw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECkZnPOUcAE6IXw.jpg",
+					"url": "https://t.co/WnEbuuLAym",
+					"display_url": "pic.twitter.com/WnEbuuLAym",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1164490173108723712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1164490140544168000,
+					"id_str": "1164490140544167937",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ECkZnPOUcAE6IXw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECkZnPOUcAE6IXw.jpg",
+					"url": "https://t.co/WnEbuuLAym",
+					"display_url": "pic.twitter.com/WnEbuuLAym",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1164490173108723712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1164490158982324200,
+					"id_str": "1164490158982324225",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/ECkZoT6UYAE4KRE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ECkZoT6UYAE4KRE.jpg",
+					"url": "https://t.co/WnEbuuLAym",
+					"display_url": "pic.twitter.com/WnEbuuLAym",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1164490173108723712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3464370,
+			"friends_count": 4,
+			"listed_count": 5787,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2382,
+		"favorite_count": 5849,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&gt; 태연, 써니와 함께하는 &lt;SM 슈퍼아이돌리그&gt; 시즌4\n잠시 후 저녁 8시(KST)에 후야TV에서 방송됩니다.\n \n태연👉https://t.co/zOWxfia8Gw\n써니👉https://t.co/0Bl6GObJKZ\n\n#태연 #TAEYEON #써니 #SUNNY #소녀시대 #GirlsGeneration https://t.co/WnEbuuLAym"
+	},
+	{
+		"created_at": "Thu Aug 22 00:21:35 +0000 2019",
+		"id": 1164331747217162200,
+		"id_str": "1164331747217162240",
+		"full_text": "【 #SNSD_CF 】 :: 윤아의 코랄MLBB #코랄리룩 - NEW코튼잉크 https://t.co/7wBB33bdhI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNSD_CF",
+					"indices": [
+						2,
+						10
+					]
+				},
+				{
+					"text": "코랄리룩",
+					"indices": [
+						27,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7wBB33bdhI",
+					"expanded_url": "https://www.youtube.com/watch?v=bywzD2DVQoc",
+					"display_url": "youtube.com/watch?v=bywzD2…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "dcsigno",
+			"location": "",
+			"description": "Girls' Generation S❤NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 539,
+			"friends_count": 485,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "【 #SNSD_CF 】 :: 윤아의 코랄MLBB #코랄리룩 - NEW코튼잉크 https://t.co/7wBB33bdhI"
+	},
+	{
 		"created_at": "Mon Aug 19 03:21:06 +0000 2019",
 		"id": 1163283327886823400,
 		"id_str": "1163289761785815042",
