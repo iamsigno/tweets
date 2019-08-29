@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 29 02:21:06 +0000 2019",
+		"id": 1166895620944097300,
+		"id_str": "1166898540976758787",
+		"full_text": "Actress LIM YOONA became the hit guaranteed actress by breaking recording 8.5 million accumulated audiences in her first starring movie ‘EXIT’! 👏 Please keep looking forward to LIM YOONA’s endless growth!💖\n\n#임윤아 #LIMYOONA #엑시트 #EXIT #윤아 #YOONA #GirlsGeneration #소녀시대 https://t.co/l0t6xkFpXB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						212,
+						221
+					]
+				},
+				{
+					"text": "엑시트",
+					"indices": [
+						222,
+						226
+					]
+				},
+				{
+					"text": "EXIT",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						233,
+						236
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						237,
+						243
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						244,
+						260
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						261,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1166895607899836400,
+					"id_str": "1166895607899836416",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EDGlX3bVUAAxYbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDGlX3bVUAAxYbK.jpg",
+					"url": "https://t.co/l0t6xkFpXB",
+					"display_url": "pic.twitter.com/l0t6xkFpXB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1166895620944097282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166895607899836400,
+					"id_str": "1166895607899836416",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EDGlX3bVUAAxYbK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDGlX3bVUAAxYbK.jpg",
+					"url": "https://t.co/l0t6xkFpXB",
+					"display_url": "pic.twitter.com/l0t6xkFpXB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1166895620944097282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1166895607941750800,
+					"id_str": "1166895607941750784",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EDGlX3lU4AAmCND.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDGlX3lU4AAmCND.jpg",
+					"url": "https://t.co/l0t6xkFpXB",
+					"display_url": "pic.twitter.com/l0t6xkFpXB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1166895620944097282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1166895607987892200,
+					"id_str": "1166895607987892224",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/EDGlX3wU8AAOumM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDGlX3wU8AAOumM.jpg",
+					"url": "https://t.co/l0t6xkFpXB",
+					"display_url": "pic.twitter.com/l0t6xkFpXB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1166895620944097282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1408,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7769519,
+			"friends_count": 46,
+			"listed_count": 9521,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4938,
+		"favorite_count": 13954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Actress LIM YOONA became the hit guaranteed actress by breaking recording 8.5 million accumulated audiences in her first starring movie ‘EXIT’! 👏 Please keep looking forward to LIM YOONA’s endless growth!💖\n\n#임윤아 #LIMYOONA #엑시트 #EXIT #윤아 #YOONA #GirlsGeneration #소녀시대 https://t.co/l0t6xkFpXB"
+	},
+	{
 		"created_at": "Thu Aug 22 11:21:06 +0000 2019",
 		"id": 1164490173108723700,
 		"id_str": "1164497721312645122",
