@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 08:21:06 +0000 2019",
+		"id": 1167340160301711400,
+		"id_str": "1167351525901066240",
+		"full_text": "오늘 저녁 9시! JTBC ‘비긴어게인3’에 드디어 태연이 찾아옵니다!\n베를린, 암스테르담에서도 울려 퍼질 ‘믿듣탱’의 버스킹 여정! \n그 첫 번째 이야기를 바로 오늘 만나보세요🎵\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #비긴어게인3 https://t.co/qfc29sv8R8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "비긴어게인3",
+					"indices": [
+						138,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1167340150306697200,
+					"id_str": "1167340150306697216",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EDM5ro8U8AAk6H0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDM5ro8U8AAk6H0.jpg",
+					"url": "https://t.co/qfc29sv8R8",
+					"display_url": "pic.twitter.com/qfc29sv8R8",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1167340160301711360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 537,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 917,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 304,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167340150306697200,
+					"id_str": "1167340150306697216",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EDM5ro8U8AAk6H0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDM5ro8U8AAk6H0.jpg",
+					"url": "https://t.co/qfc29sv8R8",
+					"display_url": "pic.twitter.com/qfc29sv8R8",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1167340160301711360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 537,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 917,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 304,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1167340150222835700,
+					"id_str": "1167340150222835713",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EDM5rooVUAEb6H-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDM5rooVUAEb6H-.jpg",
+					"url": "https://t.co/qfc29sv8R8",
+					"display_url": "pic.twitter.com/qfc29sv8R8",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1167340160301711360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1699,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3466595,
+			"friends_count": 4,
+			"listed_count": 5785,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4899,
+		"favorite_count": 9504,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 저녁 9시! JTBC ‘비긴어게인3’에 드디어 태연이 찾아옵니다!\n베를린, 암스테르담에서도 울려 퍼질 ‘믿듣탱’의 버스킹 여정! \n그 첫 번째 이야기를 바로 오늘 만나보세요🎵\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #비긴어게인3 https://t.co/qfc29sv8R8"
+	},
+	{
 		"created_at": "Thu Aug 29 02:21:06 +0000 2019",
 		"id": 1166895620944097300,
 		"id_str": "1166898540976758787",
