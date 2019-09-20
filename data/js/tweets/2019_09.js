@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 13:21:06 +0000 2019",
+		"id": 1175031859216035800,
+		"id_str": "1175037168873549826",
+		"full_text": "HYO ‘BADSTER’ TOUR @ OQTAGON, CEBU\n\n📍 OQTAGON, CEBU\n\nDJ HYO’s official Instagram\n👉https://t.co/xADoUioCMq\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #Badster https://t.co/l2NabIUs99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						140,
+						156
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "Badster",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xADoUioCMq",
+					"expanded_url": "https://instagram.com/dj_hyo_x.x",
+					"display_url": "instagram.com/dj_hyo_x.x",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1174973925970677800,
+					"id_str": "1174973925970677761",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EE5ZNGBUYAAQsxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE5ZNGBUYAAQsxw.jpg",
+					"url": "https://t.co/l2NabIUs99",
+					"display_url": "pic.twitter.com/l2NabIUs99",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1175031859216035840/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174973925970677800,
+					"id_str": "1174973925970677761",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EE5ZNGBUYAAQsxw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE5ZNGBUYAAQsxw.jpg",
+					"url": "https://t.co/l2NabIUs99",
+					"display_url": "pic.twitter.com/l2NabIUs99",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1175031859216035840/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42250,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1174973925970677761/vid/640x360/iM81DJKcvcAdLxmw.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1174973925970677761/vid/1280x720/maAJmB_sJaSFoMsQ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1174973925970677761/pl/O9hopWu-9GOTQM_r.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1174973925970677761/vid/480x270/JfTq0NaCkd0bGFeu.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3475123,
+			"friends_count": 4,
+			"listed_count": 5809,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2036,
+		"favorite_count": 4368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "HYO ‘BADSTER’ TOUR @ OQTAGON, CEBU\n\n📍 OQTAGON, CEBU\n\nDJ HYO’s official Instagram\n👉https://t.co/xADoUioCMq\n\n#HYO #HYOYEON #효연 @Hyoyeon_djhyo #GirlsGeneration #소녀시대 #Badster https://t.co/l2NabIUs99"
+	},
+	{
 		"created_at": "Thu Sep 12 14:21:06 +0000 2019",
 		"id": 1172147759341719600,
 		"id_str": "1172153165116059648",
