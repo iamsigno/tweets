@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 20 17:21:09 +0000 2019",
+		"id": 1175083063174262800,
+		"id_str": "1175097578511360000",
+		"full_text": "'비긴어게인3' 속 태연 모아보기 👀👇\n\nhttps://t.co/yAVQSeUhzf\nhttps://t.co/Xy8wYPqyMD\nhttps://t.co/7WhBOi1aK9\nhttps://t.co/AzMIrfa9Nc\nhttps://t.co/kV1dOkZba9\nhttps://t.co/kW07ourvMC\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #비긴어게인3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				},
+				{
+					"text": "비긴어게인3",
+					"indices": [
+						204,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAVQSeUhzf",
+					"expanded_url": "https://tv.naver.com/v/9928234",
+					"display_url": "tv.naver.com/v/9928234",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/Xy8wYPqyMD",
+					"expanded_url": "https://tv.naver.com/v/9928237",
+					"display_url": "tv.naver.com/v/9928237",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/7WhBOi1aK9",
+					"expanded_url": "https://tv.naver.com/v/9928293",
+					"display_url": "tv.naver.com/v/9928293",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/AzMIrfa9Nc",
+					"expanded_url": "https://tv.naver.com/v/9928442",
+					"display_url": "tv.naver.com/v/9928442",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/kV1dOkZba9",
+					"expanded_url": "https://tv.naver.com/v/9928497",
+					"display_url": "tv.naver.com/v/9928497",
+					"indices": [
+						119,
+						142
+					]
+				},
+				{
+					"url": "https://t.co/kW07ourvMC",
+					"expanded_url": "https://tv.naver.com/v/9928499",
+					"display_url": "tv.naver.com/v/9928499",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3475210,
+			"friends_count": 4,
+			"listed_count": 5811,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1563614074",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2680,
+		"favorite_count": 6088,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'비긴어게인3' 속 태연 모아보기 👀👇\n\nhttps://t.co/yAVQSeUhzf\nhttps://t.co/Xy8wYPqyMD\nhttps://t.co/7WhBOi1aK9\nhttps://t.co/AzMIrfa9Nc\nhttps://t.co/kV1dOkZba9\nhttps://t.co/kW07ourvMC\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #비긴어게인3"
+	},
+	{
 		"created_at": "Fri Sep 20 13:21:06 +0000 2019",
 		"id": 1175031859216035800,
 		"id_str": "1175037168873549826",
