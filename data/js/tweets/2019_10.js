@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 30 12:13:18 +0000 2019",
+		"id": 1189515617814171600,
+		"id_str": "1189515617814171648",
+		"full_text": "#SMTOWN_YouTube #TAEYEON\nTAEYEON 태연 '불티 (Spark)' Dance Practice\nhttps://t.co/Dw0X2FZP7K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_YouTube",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dw0X2FZP7K",
+					"expanded_url": "https://www.youtube.com/watch?v=AB1N_ahk3C8",
+					"display_url": "youtube.com/watch?v=AB1N_a…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "dcsigno",
+			"location": "",
+			"description": "Girls' Generation S❤NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": true,
+			"followers_count": 534,
+			"friends_count": 484,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/602843767272386560/rOg4bt0i_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SMTOWN_YouTube #TAEYEON\nTAEYEON 태연 '불티 (Spark)' Dance Practice\nhttps://t.co/Dw0X2FZP7K"
+	},
+	{
+		"created_at": "Wed Oct 30 11:21:06 +0000 2019",
+		"id": 1189497379981971500,
+		"id_str": "1189502484311674880",
+		"full_text": "TAEYEON 태연 '불티 (Spark)' Dance Practice\n\nFull Ver👉https://t.co/FfGnjtW5wX\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #불티 #Spark https://t.co/0Idnu9M541",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						87,
+						92
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "불티",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "Spark",
+					"indices": [
+						123,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FfGnjtW5wX",
+					"expanded_url": "https://youtu.be/AB1N_ahk3C8",
+					"display_url": "youtu.be/AB1N_ahk3C8",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189495594978443300,
+					"id_str": "1189495594978443265",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EIHwbqQUYAEfL4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIHwbqQUYAEfL4y.jpg",
+					"url": "https://t.co/0Idnu9M541",
+					"display_url": "pic.twitter.com/0Idnu9M541",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1189497379981971456/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189495594978443300,
+					"id_str": "1189495594978443265",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EIHwbqQUYAEfL4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIHwbqQUYAEfL4y.jpg",
+					"url": "https://t.co/0Idnu9M541",
+					"display_url": "pic.twitter.com/0Idnu9M541",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1189497379981971456/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55622,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1189495594978443265/pl/UF-4-NPLnVL5rThn.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189495594978443265/vid/1280x720/vhAmgzAH15p2u-op.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189495594978443265/vid/480x270/pj7fajR_9Hlc32ns.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1189495594978443265/vid/640x360/gEp3S9YY8S1r_LuK.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3502478,
+			"friends_count": 4,
+			"listed_count": 5881,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16959,
+		"favorite_count": 22542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON 태연 '불티 (Spark)' Dance Practice\n\nFull Ver👉https://t.co/FfGnjtW5wX\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #불티 #Spark https://t.co/0Idnu9M541"
+	},
+	{
+		"created_at": "Wed Oct 30 07:21:06 +0000 2019",
+		"id": 1189436774092656600,
+		"id_str": "1189442087093231616",
+		"full_text": "[TAEYEON 태연] ‘Purpose’ Album Jacket Photoshoot | Location Ver. 🌾💥\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #불티 #Spark https://t.co/bKHFIDnrYU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "불티",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "Spark",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188729933494771700,
+					"id_str": "1188729933494771717",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EH84RE3UUAEsRSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH84RE3UUAEsRSL.jpg",
+					"url": "https://t.co/bKHFIDnrYU",
+					"display_url": "pic.twitter.com/bKHFIDnrYU",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1189436774092656640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188729933494771700,
+					"id_str": "1188729933494771717",
+					"indices": [
+						123,
+						146
+					],
+					"media_url": "http://pbs.twimg.com/media/EH84RE3UUAEsRSL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH84RE3UUAEsRSL.jpg",
+					"url": "https://t.co/bKHFIDnrYU",
+					"display_url": "pic.twitter.com/bKHFIDnrYU",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1189436774092656640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42809,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1188729933494771717/vid/640x360/jJNEdyjv82eiNr4S.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1188729933494771717/vid/1280x720/KFY4bSII2d-yTV5W.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1188729933494771717/vid/480x270/I1GtyAtMB_x40HJ-.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1188729933494771717/pl/cTTlvsBIbQRQByOB.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3502478,
+			"friends_count": 4,
+			"listed_count": 5881,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7499,
+		"favorite_count": 14968,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[TAEYEON 태연] ‘Purpose’ Album Jacket Photoshoot | Location Ver. 🌾💥\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #불티 #Spark https://t.co/bKHFIDnrYU"
+	},
+	{
 		"created_at": "Tue Oct 29 09:21:06 +0000 2019",
 		"id": 1189104585761144800,
 		"id_str": "1189109897645973505",
