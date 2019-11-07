@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 11:21:22 +0000 2019",
+		"id": 1192398413213495300,
+		"id_str": "1192401654013943808",
+		"full_text": "#태연 #TAEYEON [숨겨진 세상 Into the Unknown (From '#Frozen2')]\n\n🎧Melon: https://t.co/4Ig8IypmHA\n🎧genie: https://t.co/mkrZpcPzw8\n🎧FLO: https://t.co/TXvMXPfCDj\n🎧NAVER MUSIC: https://t.co/rQnoGGwl4P\n\nMV Teaser 👉https://t.co/Uo8E9VDrjp\n\n#소녀시대 #GirlsGeneration #겨울왕국2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						4,
+						12
+					]
+				},
+				{
+					"text": "Frozen2",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						233,
+						249
+					]
+				},
+				{
+					"text": "겨울왕국2",
+					"indices": [
+						250,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Ig8IypmHA",
+					"expanded_url": "https://www.melon.com/song/detail.htm?songId=32152459",
+					"display_url": "melon.com/song/detail.ht…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/mkrZpcPzw8",
+					"expanded_url": "https://www.genie.co.kr/detail/songInfo?xgnm=89551206",
+					"display_url": "genie.co.kr/detail/songInf…",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/TXvMXPfCDj",
+					"expanded_url": "http://flomuz.io/s/b.DuuHo",
+					"display_url": "flomuz.io/s/b.DuuHo",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/rQnoGGwl4P",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=3405049",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/Uo8E9VDrjp",
+					"expanded_url": "https://youtu.be/-KFPae8IZIM",
+					"display_url": "youtu.be/-KFPae8IZIM",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3508163,
+			"friends_count": 4,
+			"listed_count": 5886,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3379,
+		"favorite_count": 5566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#태연 #TAEYEON [숨겨진 세상 Into the Unknown (From '#Frozen2')]\n\n🎧Melon: https://t.co/4Ig8IypmHA\n🎧genie: https://t.co/mkrZpcPzw8\n🎧FLO: https://t.co/TXvMXPfCDj\n🎧NAVER MUSIC: https://t.co/rQnoGGwl4P\n\nMV Teaser 👉https://t.co/Uo8E9VDrjp\n\n#소녀시대 #GirlsGeneration #겨울왕국2"
+	},
+	{
+		"created_at": "Thu Nov 07 11:21:12 +0000 2019",
+		"id": 1192393852167999500,
+		"id_str": "1192401609566932992",
+		"full_text": "‘Guaranteed Vocal Queen’ #TAEYEON’s official Korean cover song ‘#IntoTheUnknown End Credit Version’ for the movie ‘#Frozen2’ has been released! \nCheck out her magical and powerful vocals via the song and the movie coming out on Nov. 21! ❄️\n\n#태연 #소녀시대 #GirlsGeneration https://t.co/fU1IM66ydk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "IntoTheUnknown",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"text": "Frozen2",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						241,
+						244
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						245,
+						250
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						251,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192393837185921000,
+					"id_str": "1192393837185921029",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EIw74JnU8AUKqBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIw74JnU8AUKqBO.jpg",
+					"url": "https://t.co/fU1IM66ydk",
+					"display_url": "pic.twitter.com/fU1IM66ydk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1192393852167999488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 155,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1117,
+									"y": 355,
+									"h": 462,
+									"w": 462
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 265,
+									"h": 345,
+									"w": 345
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 277,
+									"y": 88,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192393837185921000,
+					"id_str": "1192393837185921029",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EIw74JnU8AUKqBO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIw74JnU8AUKqBO.jpg",
+					"url": "https://t.co/fU1IM66ydk",
+					"display_url": "pic.twitter.com/fU1IM66ydk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1192393852167999488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 489,
+									"y": 155,
+									"h": 202,
+									"w": 202
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1117,
+									"y": 355,
+									"h": 462,
+									"w": 462
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 835,
+									"y": 265,
+									"h": 345,
+									"w": 345
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 277,
+									"y": 88,
+									"h": 114,
+									"w": 114
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7916057,
+			"friends_count": 47,
+			"listed_count": 9596,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3380,
+		"favorite_count": 7979,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Guaranteed Vocal Queen’ #TAEYEON’s official Korean cover song ‘#IntoTheUnknown End Credit Version’ for the movie ‘#Frozen2’ has been released! \nCheck out her magical and powerful vocals via the song and the movie coming out on Nov. 21! ❄️\n\n#태연 #소녀시대 #GirlsGeneration https://t.co/fU1IM66ydk"
+	},
+	{
 		"created_at": "Tue Nov 05 09:21:07 +0000 2019",
 		"id": 1191641300208013300,
 		"id_str": "1191646613753741312",
