@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 02:21:07 +0000 2019",
+		"id": 1194795340009894000,
+		"id_str": "1194802408829964289",
+		"full_text": "소녀시대 써니가 11월 15일 서울 시청광장에서 진행되는 ‘카페 아세안’ 커피 트럭 이벤트에 일일 바리스타로 변신하여 정상 회의의 성공적인 개최를 응원할 예정입니다! ☕️ (커피 트럭은 11월 27일까지 전국 주요 지역을 돌며 한시적으로 운영됩니다.)\n\n#SUNNY #써니 #소녀시대 #GirlsGeneration https://t.co/fRvEtalU64",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUNNY",
+					"indices": [
+						142,
+						148
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1194795325766033400,
+					"id_str": "1194795325766033409",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EJTEBLuU4AEqWst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJTEBLuU4AEqWst.jpg",
+					"url": "https://t.co/fRvEtalU64",
+					"display_url": "pic.twitter.com/fRvEtalU64",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1194795340009893888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 340,
+									"y": 1370,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 496,
+									"y": 228,
+									"h": 386,
+									"w": 386
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 199,
+									"y": 802,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 290,
+									"y": 133,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 454,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 164,
+									"y": 75,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 680,
+									"y": 2740,
+									"h": 344,
+									"w": 344
+								},
+								{
+									"x": 992,
+									"y": 456,
+									"h": 772,
+									"w": 772
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194795325766033400,
+					"id_str": "1194795325766033409",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EJTEBLuU4AEqWst.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJTEBLuU4AEqWst.jpg",
+					"url": "https://t.co/fRvEtalU64",
+					"display_url": "pic.twitter.com/fRvEtalU64",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1194795340009893888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 340,
+									"y": 1370,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 496,
+									"y": 228,
+									"h": 386,
+									"w": 386
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 199,
+									"y": 802,
+									"h": 100,
+									"w": 100
+								},
+								{
+									"x": 290,
+									"y": 133,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 454,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 164,
+									"y": 75,
+									"h": 128,
+									"w": 128
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 680,
+									"y": 2740,
+									"h": 344,
+									"w": 344
+								},
+								{
+									"x": 992,
+									"y": 456,
+									"h": 772,
+									"w": 772
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3510741,
+			"friends_count": 4,
+			"listed_count": 5903,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4238,
+		"favorite_count": 12983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 써니가 11월 15일 서울 시청광장에서 진행되는 ‘카페 아세안’ 커피 트럭 이벤트에 일일 바리스타로 변신하여 정상 회의의 성공적인 개최를 응원할 예정입니다! ☕️ (커피 트럭은 11월 27일까지 전국 주요 지역을 돌며 한시적으로 운영됩니다.)\n\n#SUNNY #써니 #소녀시대 #GirlsGeneration https://t.co/fRvEtalU64"
+	},
+	{
 		"created_at": "Sat Nov 09 10:21:06 +0000 2019",
 		"id": 1193101025994891300,
 		"id_str": "1193111263380987906",
