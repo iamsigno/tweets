@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 09:21:07 +0000 2019",
+		"id": 1197797500553285600,
+		"id_str": "1197807207074684929",
+		"full_text": "제 40회 청룡영화상에서 ‘청정원 인기스타상’을 수상한 출구 없는 매력의 배우 임윤아!\n축하합니다! 👏\n\n#임윤아 #LIMYOONA #윤아 #YOONA #소녀시대 #GirlsGeneration https://t.co/8fnO6laKBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						64,
+						73
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197797488167538700,
+					"id_str": "1197797488167538688",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ9ueCMU0AAm_A2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ9ueCMU0AAm_A2.jpg",
+					"url": "https://t.co/8fnO6laKBr",
+					"display_url": "pic.twitter.com/8fnO6laKBr",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1197797500553285632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 173,
+									"h": 189,
+									"w": 189
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 625,
+									"y": 295,
+									"h": 323,
+									"w": 323
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 98,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1064,
+									"y": 503,
+									"h": 551,
+									"w": 551
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197797488167538700,
+					"id_str": "1197797488167538688",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ9ueCMU0AAm_A2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ9ueCMU0AAm_A2.jpg",
+					"url": "https://t.co/8fnO6laKBr",
+					"display_url": "pic.twitter.com/8fnO6laKBr",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1197797500553285632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 366,
+									"y": 173,
+									"h": 189,
+									"w": 189
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 625,
+									"y": 295,
+									"h": 323,
+									"w": 323
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 98,
+									"h": 107,
+									"w": 107
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1064,
+									"y": 503,
+									"h": 551,
+									"w": 551
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3512734,
+			"friends_count": 4,
+			"listed_count": 5916,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5093,
+		"favorite_count": 12296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "제 40회 청룡영화상에서 ‘청정원 인기스타상’을 수상한 출구 없는 매력의 배우 임윤아!\n축하합니다! 👏\n\n#임윤아 #LIMYOONA #윤아 #YOONA #소녀시대 #GirlsGeneration https://t.co/8fnO6laKBr"
+	},
+	{
 		"created_at": "Mon Nov 18 04:05:57 +0000 2019",
 		"id": 1196264107109965800,
 		"id_str": "1196278344368570369",
