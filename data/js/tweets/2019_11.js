@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 13:25:42 +0000 2019",
+		"id": 1199662345795989500,
+		"id_str": "1199680698400960512",
+		"full_text": "テヨンの12/25に発売する映像作品「The Signal Gift＜完全限定生産BOX ”Gift Box”＞」にコンパイルされている新曲「I Do」のティザー映像を公開しました！\n#TAEYEON #テヨン #Signal\n▼ご予約はこちら\nhttps://t.co/GaRnVHc3vB\n▼詳細はこちら\nhttps://t.co/udOi0DjS50 https://t.co/GZr6vgLDp7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "Signal",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GaRnVHc3vB",
+					"expanded_url": "https://umj.lnk.to/TheSignalGift",
+					"display_url": "umj.lnk.to/TheSignalGift",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/udOi0DjS50",
+					"expanded_url": "http://taeyeon.girls-generation.jp/news/i-do-teaser/",
+					"display_url": "taeyeon.girls-generation.jp/news/i-do-teas…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199662313101353000,
+					"id_str": "1199662313101352960",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199662313101352960/pu/img/HkryDNINxhzxu0NV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199662313101352960/pu/img/HkryDNINxhzxu0NV.jpg",
+					"url": "https://t.co/GZr6vgLDp7",
+					"display_url": "pic.twitter.com/GZr6vgLDp7",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1199662345795989504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199662313101353000,
+					"id_str": "1199662313101352960",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1199662313101352960/pu/img/HkryDNINxhzxu0NV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1199662313101352960/pu/img/HkryDNINxhzxu0NV.jpg",
+					"url": "https://t.co/GZr6vgLDp7",
+					"display_url": "pic.twitter.com/GZr6vgLDp7",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1199662345795989504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15061,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1199662313101352960/pu/pl/F3VkLafrXrnZsJpz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199662313101352960/pu/vid/640x360/VeUBjlseT_6S55KV.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199662313101352960/pu/vid/480x270/2F3xSbxUfh9UV-IW.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1199662313101352960/pu/vid/1280x720/ItqiGX359uV7EUeI.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "2007年8月韓国デビュー。 2009年には韓国の音楽番組KBS MUSIC BANKで9週連続1位の新記録を樹立するなど、トップガールズグループとして君臨。 また、台湾、タイ、フィリピンの各種音楽チャートでも1位を獲得、中国などでもアジアツアーを行うなどアジア全域でNO.1グループとして活躍している。",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102696,
+			"friends_count": 0,
+			"listed_count": 565,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715444904894160896/QY-Dhker_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1666,
+		"favorite_count": 2150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨンの12/25に発売する映像作品「The Signal Gift＜完全限定生産BOX ”Gift Box”＞」にコンパイルされている新曲「I Do」のティザー映像を公開しました！\n#TAEYEON #テヨン #Signal\n▼ご予約はこちら\nhttps://t.co/GaRnVHc3vB\n▼詳細はこちら\nhttps://t.co/udOi0DjS50 https://t.co/GZr6vgLDp7"
+	},
+	{
 		"created_at": "Fri Nov 22 09:21:07 +0000 2019",
 		"id": 1197797500553285600,
 		"id_str": "1197807207074684929",
