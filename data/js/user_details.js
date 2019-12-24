@@ -1,5 +1,5 @@
 var user_details =  {
-  "screen_name" : "dcsigno",
+  "screen_name" : "iamsigno",
   "full_name" : "SIGNO",
   "bio" : "Girls' Generation S\u2764NE",
   "id" : "270405347",
