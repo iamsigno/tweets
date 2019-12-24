@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 24 14:11:05 +0000 2019",
+		"id": 1209462619167326200,
+		"id_str": "1209476592264605702",
+		"full_text": "&lt;2019 MBC 가요대제전&gt;\n윤아와 은우가 함께하는👫\n12월 31일, wavve 동시 생중계!\n#가요대제전도_다_웨이브다\n🎥💿🎶✨\n\n#2019_MBC가요대제전도_웨이브에서\n실시간 동시 생중계 바로보기는?\n👉https://t.co/xWdSgaMCFN https://t.co/Ygw6hjZbIZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가요대제전도_다_웨이브다",
+					"indices": [
+						60,
+						74
+					]
+				},
+				{
+					"text": "2019_MBC가요대제전도_웨이브에서",
+					"indices": [
+						81,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xWdSgaMCFN",
+					"expanded_url": "http://bit.ly/34T93s2",
+					"display_url": "bit.ly/34T93s2",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1209462563970273300,
+					"id_str": "1209462563970273280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209462563970273280/pu/img/46Yuas098ogYnwSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209462563970273280/pu/img/46Yuas098ogYnwSt.jpg",
+					"url": "https://t.co/Ygw6hjZbIZ",
+					"display_url": "pic.twitter.com/Ygw6hjZbIZ",
+					"expanded_url": "https://twitter.com/wavve_official/status/1209462619167326208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209462563970273300,
+					"id_str": "1209462563970273280",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1209462563970273280/pu/img/46Yuas098ogYnwSt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1209462563970273280/pu/img/46Yuas098ogYnwSt.jpg",
+					"url": "https://t.co/Ygw6hjZbIZ",
+					"display_url": "pic.twitter.com/Ygw6hjZbIZ",
+					"expanded_url": "https://twitter.com/wavve_official/status/1209462619167326208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 13096,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209462563970273280/pu/vid/1280x720/WHnjhDYsL6oyBFVN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1209462563970273280/pu/pl/3NhgQkIv8H1i1la7.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209462563970273280/pu/vid/480x270/KuWAgvuKyGI9Wlbe.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1209462563970273280/pu/vid/640x360/AO-ooujHkCzJ8mOA.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 859926865972043800,
+			"id_str": "859926865972043776",
+			"name": "wavve(웨이브)",
+			"screen_name": "wavve_official",
+			"location": "",
+			"description": "다. wavve(웨이브) 다.\n\n22만 편이 넘는 다양한 콘텐츠를 \n최대 4명까지 초고화질로 즐기세요:)\n최신 드라마부터 미드, 영화, 스포츠까지\n내가 원하는 콘텐츠가 다 있다.\n\nwavve(웨이브)_재미의 파도를 타다🌊",
+			"url": "https://t.co/V4TEH63yD4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V4TEH63yD4",
+							"expanded_url": "http://www.wavve.com",
+							"display_url": "wavve.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2124,
+			"friends_count": 0,
+			"listed_count": 14,
+			"created_at": "Thu May 04 00:25:16 +0000 2017",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169409926252257280/rcNHbQ-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169409926252257280/rcNHbQ-5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/859926865972043776/1568771725",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 795,
+		"favorite_count": 661,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2019 MBC 가요대제전&gt;\n윤아와 은우가 함께하는👫\n12월 31일, wavve 동시 생중계!\n#가요대제전도_다_웨이브다\n🎥💿🎶✨\n\n#2019_MBC가요대제전도_웨이브에서\n실시간 동시 생중계 바로보기는?\n👉https://t.co/xWdSgaMCFN https://t.co/Ygw6hjZbIZ"
+	},
+	{
 		"created_at": "Tue Dec 24 07:33:43 +0000 2019",
 		"id": 1209376591882707000,
 		"id_str": "1209376591882706944",
@@ -1066,7 +1300,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Sun Dec 22 10:00:45 +0000 2019",
 		"id": 1208044468013850600,
 		"id_str": "1208688817286176768",
-		"full_text": "[WEIBO] LIMYOONA90: 怎么样😎 ​ https://t.co/BHuRIirzVr (4P) #yoongstagram https://t.co/rZw3RNaTRh",
+		"full_text": "[WEIBO] LIMYOONA90: 怎么样😎  https://t.co/BHuRIirzVr (4P) #yoongstagram https://t.co/rZw3RNaTRh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1515,7 +1749,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "zh",
-		"text": "[WEIBO] LIMYOONA90: 怎么样😎 ​ https://t.co/BHuRIirzVr (4P) #yoongstagram https://t.co/rZw3RNaTRh"
+		"text": "[WEIBO] LIMYOONA90: 怎么样😎  https://t.co/BHuRIirzVr (4P) #yoongstagram https://t.co/rZw3RNaTRh"
 	},
 	{
 		"created_at": "Sun Dec 22 10:00:38 +0000 2019",
@@ -12308,7 +12542,7 @@ Grailbird.data.tweets_2019_12 =
 		"created_at": "Wed Dec 18 18:11:21 +0000 2019",
 		"id": 1207194341187305500,
 		"id_str": "1207362730014830593",
-		"full_text": "#NYLON_JAN\n📔1월호 커버, #남주혁\n🍎 보다 더 잘하고 싶은 #서현\n👨‍👦스웨그 날 함께한 #김지석 #김강훈\n💫 오늘도 내일도 반짝이는 #나은\n🎤 쇼미더머니 8의 우승자 #펀치넬로\n📷 낯설지만 익숙한 #기도훈\n🎸 차분히 음악을 이어가는 #퍼플레인\n💚 청춘의 얼굴 #CIX\n-\n나일론 #1월호 와 함께 해요 https://t.co/bLKniFatyG",
+		"full_text": "#NYLON_JAN\n📔1월호 커버, #남주혁\n🍎 보다 더 잘하고 싶은 #서현\n👨👦스웨그 날 함께한 #김지석 #김강훈\n💫 오늘도 내일도 반짝이는 #나은\n🎤 쇼미더머니 8의 우승자 #펀치넬로\n📷 낯설지만 익숙한 #기도훈\n🎸 차분히 음악을 이어가는 #퍼플레인\n💚 청춘의 얼굴 #CIX\n-\n나일론 #1월호 와 함께 해요 https://t.co/bLKniFatyG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -12589,13 +12823,13 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "ko",
-		"text": "#NYLON_JAN\n📔1월호 커버, #남주혁\n🍎 보다 더 잘하고 싶은 #서현\n👨‍👦스웨그 날 함께한 #김지석 #김강훈\n💫 오늘도 내일도 반짝이는 #나은\n🎤 쇼미더머니 8의 우승자 #펀치넬로\n📷 낯설지만 익숙한 #기도훈\n🎸 차분히 음악을 이어가는 #퍼플레인\n💚 청춘의 얼굴 #CIX\n-\n나일론 #1월호 와 함께 해요 https://t.co/bLKniFatyG"
+		"text": "#NYLON_JAN\n📔1월호 커버, #남주혁\n🍎 보다 더 잘하고 싶은 #서현\n👨👦스웨그 날 함께한 #김지석 #김강훈\n💫 오늘도 내일도 반짝이는 #나은\n🎤 쇼미더머니 8의 우승자 #펀치넬로\n📷 낯설지만 익숙한 #기도훈\n🎸 차분히 음악을 이어가는 #퍼플레인\n💚 청춘의 얼굴 #CIX\n-\n나일론 #1월호 와 함께 해요 https://t.co/bLKniFatyG"
 	},
 	{
 		"created_at": "Wed Dec 18 18:10:49 +0000 2019",
 		"id": 1206763512933965800,
 		"id_str": "1207362598225625088",
-		"full_text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻‍🦰 ⚪️ #흰색정장 🤩🥳🤤 7P /2 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/Qi0ecWfCiG",
+		"full_text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻🦰 ⚪️ #흰색정장 🤩🥳🤤 7P /2 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/Qi0ecWfCiG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -13125,13 +13359,13 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻‍🦰 ⚪️ #흰색정장 🤩🥳🤤 7P /2 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/Qi0ecWfCiG"
+		"text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻🦰 ⚪️ #흰색정장 🤩🥳🤤 7P /2 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/Qi0ecWfCiG"
 	},
 	{
 		"created_at": "Wed Dec 18 18:10:46 +0000 2019",
 		"id": 1206763497238872000,
 		"id_str": "1207362582736035840",
-		"full_text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻‍🦰 🎊축하해🎉 7P /1 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/xujIdhsVZZ",
+		"full_text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻🦰 🎊축하해🎉 7P /1 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/xujIdhsVZZ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -13500,7 +13734,7 @@ Grailbird.data.tweets_2019_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻‍🦰 🎊축하해🎉 7P /1 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/xujIdhsVZZ"
+		"text": "🔍191216 \"제20회 여성영화인상\" 신인 연기상 ‧ 배우 임윤아 👩🏻🦰 🎊축하해🎉 7P /1 #YOONA #윤아 #LIMYOONA #林允儿 #임윤아 Cr: #findyoona https://t.co/xujIdhsVZZ"
 	},
 	{
 		"created_at": "Wed Dec 18 18:03:07 +0000 2019",
