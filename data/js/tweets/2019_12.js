@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 06:56:38 +0000 2019",
+		"id": 1207927511767666700,
+		"id_str": "1209729646838865922",
+		"full_text": "[#서현] 서현 \"치열하게 살았던 지난 시간, 30대는 여유 생길 것 같다\" [화보] \nhttps://t.co/RPr7g0Snfr https://t.co/CudZkMt3ca",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RPr7g0Snfr",
+					"expanded_url": "http://naver.me/FzNZlMvz",
+					"display_url": "naver.me/FzNZlMvz",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207927503949484000,
+					"id_str": "1207927503949484032",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207927503949484000,
+					"id_str": "1207927503949484032",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqjtVUAAFd-9.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1207927504188498000,
+					"id_str": "1207927504188497925",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqkmUYAUBaMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqkmUYAUBaMx.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 196,
+									"y": 79,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 346,
+									"y": 139,
+									"h": 186,
+									"w": 186
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 426,
+									"y": 172,
+									"h": 230,
+									"w": 230
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 426,
+									"y": 172,
+									"h": 230,
+									"w": 230
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1207927503957840000,
+					"id_str": "1207927503957839874",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/EMNrqjvU0AI2UiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMNrqjvU0AI2UiJ.jpg",
+					"url": "https://t.co/CudZkMt3ca",
+					"display_url": "pic.twitter.com/CudZkMt3ca",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1207927511767666689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 1476,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 226,
+									"y": 554,
+									"h": 288,
+									"w": 288
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 183,
+									"y": 450,
+									"h": 234,
+									"w": 234
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 104,
+									"y": 255,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 226,
+									"y": 554,
+									"h": 288,
+									"w": 288
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28410,
+			"friends_count": 11,
+			"listed_count": 212,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 697,
+		"favorite_count": 866,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] 서현 \"치열하게 살았던 지난 시간, 30대는 여유 생길 것 같다\" [화보] \nhttps://t.co/RPr7g0Snfr https://t.co/CudZkMt3ca"
+	},
+	{
 		"created_at": "Wed Dec 25 05:50:37 +0000 2019",
 		"id": 1209339953420759000,
 		"id_str": "1209713036350459904",
