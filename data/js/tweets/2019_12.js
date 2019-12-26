@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 03:56:37 +0000 2019",
+		"id": 1210033016069714000,
+		"id_str": "1210046735206227968",
+		"full_text": "[V ORIGINAL] 제로를 위한 힐링코스 그 두번째는 바로‼️ 지친 제로의 몸과 마음을 달래 줄 마사지입니다🐶❣️ 선생님의 손에서 뭉친 근육과 피로를 푸는 제로~💓 옆에서 열심히 배운 우리 탱구도 잘 할 수 있겠죠⁉️😍\n\n▶ https://t.co/6j4eaHMd0l\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6j4eaHMd0l",
+					"expanded_url": "https://www.vlive.tv/video/166667/playlist/157709",
+					"display_url": "vlive.tv/video/166667/p…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3414096,
+			"friends_count": 169,
+			"listed_count": 1906,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 635,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 제로를 위한 힐링코스 그 두번째는 바로‼️ 지친 제로의 몸과 마음을 달래 줄 마사지입니다🐶❣️ 선생님의 손에서 뭉친 근육과 피로를 푸는 제로~💓 옆에서 열심히 배운 우리 탱구도 잘 할 수 있겠죠⁉️😍\n\n▶ https://t.co/6j4eaHMd0l\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
 		"created_at": "Thu Dec 26 02:45:37 +0000 2019",
 		"id": 1210019296287613000,
 		"id_str": "1210028866863063040",
