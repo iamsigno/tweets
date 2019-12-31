@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 12:37:53 +0000 2019",
+		"id": 1211951825672274000,
+		"id_str": "1211989854524862464",
+		"full_text": "[INSTAGRAM] taeyeon_ss : 안 좋았던 기억들을 되짚어 보는 일은 너무나도 힘겹고 가혹하기에 최대한 좋았던 기억을 떠올려 보지만 왜 자꾸 흉이 남아서 눈에 보이고 짠하고 아픈건지 . 2020년엔 재생치료에 좀 더 신경쓰고😂 날 토닥여 줄\nhttps://t.co/asQwZMEuf9\nhttps://t.co/RvUalOxrIe https://t.co/2y9BKcqHbr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/asQwZMEuf9",
+					"expanded_url": "https://www.instagram.com/p/B6u5ubABJXt",
+					"display_url": "instagram.com/p/B6u5ubABJXt",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/RvUalOxrIe",
+					"expanded_url": "https://instagram.ftpe3-2.fna.fbcdn.net/v/t51.2885-15/e35/81818925_154890462468734_711546319377114597_n.jpg?_nc_ht=instagram.ftpe3-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=CBaRa6ZF4SIAX-h5gof&se=7&oh=cfad748628fdaa008bb704e50a379a15&oe=5EAA4B83&ig_cache_key=MjIxMDk1ODM0NTgyMzg4NDc4MQ%3D%3D.2",
+					"display_url": "instagram.ftpe3-2.fna.fbcdn.net/v/t51.2885-15/…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1211951822849446000,
+					"id_str": "1211951822849445888",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ENG3wv3UEAA2u4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENG3wv3UEAA2u4O.jpg",
+					"url": "https://t.co/2y9BKcqHbr",
+					"display_url": "pic.twitter.com/2y9BKcqHbr",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1211951825672273920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211951822849446000,
+					"id_str": "1211951822849445888",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/ENG3wv3UEAA2u4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENG3wv3UEAA2u4O.jpg",
+					"url": "https://t.co/2y9BKcqHbr",
+					"display_url": "pic.twitter.com/2y9BKcqHbr",
+					"expanded_url": "https://twitter.com/taengstagram_39/status/1211951825672273920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://github.com/taeyeonssupdate\" rel=\"nofollow\">taengstagram_39</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144258562094456800,
+			"id_str": "1144258562094456832",
+			"name": "taengstagram",
+			"screen_name": "taengstagram_39",
+			"location": "I Do",
+			"description": "TaeYeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3596,
+			"friends_count": 0,
+			"listed_count": 75,
+			"created_at": "Thu Jun 27 14:57:55 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 894,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186623809538838528/Qm8uM_VZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144258562094456832/1571748139",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 328,
+		"favorite_count": 346,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM] taeyeon_ss : 안 좋았던 기억들을 되짚어 보는 일은 너무나도 힘겹고 가혹하기에 최대한 좋았던 기억을 떠올려 보지만 왜 자꾸 흉이 남아서 눈에 보이고 짠하고 아픈건지 . 2020년엔 재생치료에 좀 더 신경쓰고😂 날 토닥여 줄\nhttps://t.co/asQwZMEuf9\nhttps://t.co/RvUalOxrIe https://t.co/2y9BKcqHbr"
+	},
+	{
 		"created_at": "Tue Dec 31 09:16:29 +0000 2019",
 		"id": 1211939168651292700,
 		"id_str": "1211939168651292673",
