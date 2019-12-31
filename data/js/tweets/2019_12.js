@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 03:56:37 +0000 2019",
+		"id": 1211844449669533700,
+		"id_str": "1211858674706239490",
+		"full_text": "[V ORIGINAL] 펫 프렌들리 쇼핑몰에서 시작된 제로를 위한(❓) 탱구의 쇼핑~❣️💗 끝나지 않을 것 같았던 신나는 쇼핑 후에는 맛있는 저녁식사가 기다리구 있다구요‼️😮 12월의 마지막도 탱구&amp;제로 남매와 함께 해주실거죠~❓💖\n\n▶ https://t.co/uRKi8Z3CYo\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						186,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uRKi8Z3CYo",
+					"expanded_url": "https://www.vlive.tv/video/167856/playlist/157709",
+					"display_url": "vlive.tv/video/167856/p…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3432942,
+			"friends_count": 169,
+			"listed_count": 1905,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 171,
+		"favorite_count": 608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 펫 프렌들리 쇼핑몰에서 시작된 제로를 위한(❓) 탱구의 쇼핑~❣️💗 끝나지 않을 것 같았던 신나는 쇼핑 후에는 맛있는 저녁식사가 기다리구 있다구요‼️😮 12월의 마지막도 탱구&amp;제로 남매와 함께 해주실거죠~❓💖\n\n▶ https://t.co/uRKi8Z3CYo\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
 		"created_at": "Tue Dec 31 03:03:16 +0000 2019",
 		"id": 1211845245295562800,
 		"id_str": "1211845245295562752",
