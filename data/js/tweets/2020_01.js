@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 05 04:45:38 +0000 2020",
+		"id": 1213677039607144400,
+		"id_str": "1213682945849999361",
+		"full_text": "#본대로말하라 #차수영 #2월1일첫방 https://t.co/VN15BKfeBs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "차수영",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "2월1일첫방",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1213676985811009500,
+					"id_str": "1213676985811009536",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"url": "https://t.co/VN15BKfeBs",
+					"display_url": "pic.twitter.com/VN15BKfeBs",
+					"expanded_url": "https://twitter.com/sychoiofficial/status/1213677039607144450/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1213676985811009500,
+					"id_str": "1213676985811009536",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1213676985811009536/pu/img/FqwRaWuYFfX4d1Xy.jpg",
+					"url": "https://t.co/VN15BKfeBs",
+					"display_url": "pic.twitter.com/VN15BKfeBs",
+					"expanded_url": "https://twitter.com/sychoiofficial/status/1213677039607144450/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30292,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213676985811009536/pu/vid/480x270/eNhUuh0D6aqOt_Kh.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1213676985811009536/pu/pl/p87hH4ywcFsSj9bI.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1213676985811009536/pu/vid/640x360/WllSoTHjPC46qaGH.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075285323016335400,
+			"id_str": "1075285323016335360",
+			"name": "sooyoung choi",
+			"screen_name": "sychoiofficial",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55975,
+			"friends_count": 4,
+			"listed_count": 234,
+			"created_at": "Wed Dec 19 07:02:53 +0000 2018",
+			"favourites_count": 23,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075285465853419521/TxH_pRQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075285465853419521/TxH_pRQZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 897,
+		"favorite_count": 1218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#본대로말하라 #차수영 #2월1일첫방 https://t.co/VN15BKfeBs"
+	},
+	{
 		"created_at": "Sat Jan 04 09:23:12 +0000 2020",
 		"id": 1212689998002016300,
 		"id_str": "1213390413005897729",
