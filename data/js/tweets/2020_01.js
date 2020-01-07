@@ -1,6 +1,424 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 03:56:38 +0000 2020",
+		"id": 1214381148924571600,
+		"id_str": "1214395390025519104",
+		"full_text": "[V ORIGINAL] 🚨단독취재🚨 연일 화제가 되고 있는 펫셔니스타 탱구의 A부터 Z까지를 전부 담은 제파라치 취재 영상이 드디어 공개됩니다‼️ 본 영상에선 공개되지 않았던 탱구와 제로의 비하인드를 지금 바로 만나보세요😘❣️\n\n▶ https://t.co/LiHRB8Q79Z\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						179,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LiHRB8Q79Z",
+					"expanded_url": "https://www.vlive.tv/video/168657/playlist/157709",
+					"display_url": "vlive.tv/video/168657/p…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3460099,
+			"friends_count": 169,
+			"listed_count": 1912,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 🚨단독취재🚨 연일 화제가 되고 있는 펫셔니스타 탱구의 A부터 Z까지를 전부 담은 제파라치 취재 영상이 드디어 공개됩니다‼️ 본 영상에선 공개되지 않았던 탱구와 제로의 비하인드를 지금 바로 만나보세요😘❣️\n\n▶ https://t.co/LiHRB8Q79Z\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Tue Jan 07 03:45:37 +0000 2020",
+		"id": 1214381761787912200,
+		"id_str": "1214392621092741120",
+		"full_text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 11 제파라치 - 누나의 꿈 (Zeparazzi) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV) \n\n👉🏻https://t.co/G8Alb871aG\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						165,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/G8Alb871aG",
+					"expanded_url": "http://naver.me/xxXb9v1X",
+					"display_url": "naver.me/xxXb9v1X",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3533874,
+			"friends_count": 4,
+			"listed_count": 5956,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 893,
+		"favorite_count": 1856,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 11 제파라치 - 누나의 꿈 (Zeparazzi) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV) \n\n👉🏻https://t.co/G8Alb871aG\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구"
+	},
+	{
+		"created_at": "Tue Jan 07 03:33:20 +0000 2020",
+		"id": 1214389529622257700,
+		"id_str": "1214389529622257665",
+		"full_text": "#GirlsGeneration #소녀시대\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 11...\nhttps://t.co/6O0p2hedm4\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6O0p2hedm4",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3023605580992720",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1454603900",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 11...\nhttps://t.co/6O0p2hedm4\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Mon Jan 06 20:25:17 +0000 2020",
 		"id": 1214281805995659300,
 		"id_str": "1214281805995659264",
