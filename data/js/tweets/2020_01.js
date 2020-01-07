@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 10:56:38 +0000 2020",
+		"id": 1214490295246585900,
+		"id_str": "1214501086645620736",
+		"full_text": "TAEYEON : The UNSEEN TICKET EVENT 💓\n\n믿듣탱! 태연의 4번째 단독 콘서트 ‘The UNSEEN’으로 초대합니다.\n지정 상품 포함 3만원 이상 구매 후, 응모 댓글을 남기면 추첨을 통해 태연 콘서트 티켓을 증정해 드립니다! 😍 \n\n✔ 응모 기간 및 참여 방법 보러 가기 \nhttps://t.co/aTuGZu68lr https://t.co/asXNIYABrr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTuGZu68lr",
+					"expanded_url": "https://bit.ly/35tKORq",
+					"display_url": "bit.ly/35tKORq",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214490282445529000,
+					"id_str": "1214490282445529088",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"url": "https://t.co/asXNIYABrr",
+					"display_url": "pic.twitter.com/asXNIYABrr",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1214490295246585857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 453,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214490282445529000,
+					"id_str": "1214490282445529088",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENq8eixUYAAoN4D.jpg",
+					"url": "https://t.co/asXNIYABrr",
+					"display_url": "pic.twitter.com/asXNIYABrr",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1214490295246585857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 95,
+									"y": 453,
+									"h": 74,
+									"w": 74
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 801,
+									"h": 132,
+									"w": 132
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26646,
+			"friends_count": 0,
+			"listed_count": 96,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON : The UNSEEN TICKET EVENT 💓\n\n믿듣탱! 태연의 4번째 단독 콘서트 ‘The UNSEEN’으로 초대합니다.\n지정 상품 포함 3만원 이상 구매 후, 응모 댓글을 남기면 추첨을 통해 태연 콘서트 티켓을 증정해 드립니다! 😍 \n\n✔ 응모 기간 및 참여 방법 보러 가기 \nhttps://t.co/aTuGZu68lr https://t.co/asXNIYABrr"
+	},
+	{
 		"created_at": "Tue Jan 07 09:45:38 +0000 2020",
 		"id": 1214471736869171200,
 		"id_str": "1214483219522953216",
