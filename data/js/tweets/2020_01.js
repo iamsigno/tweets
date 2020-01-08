@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 05:56:37 +0000 2020",
+		"id": 1214773391468576800,
+		"id_str": "1214787976645038080",
+		"full_text": "#TAEYEON ประกาศปล่อยอัลบั้มรีแพ็คเกจชุดที่ 2 ‘#Purpose’ 15 มกราคมนี้!\n\nในปี 2020 ก็จะพิสูจน์ให้เห็นถึงพลังของ ‘TAENG ที่เชื่อใจ และรับฟังเพลงได้’ อีกครั้ง พร้อมโชว์เสน่ห์อันหลากหลายมากขึ้นใน 15 เพลง ที่จะมีเพลงใหม่ถึง 3 เพลง!!\n\n#믿듣탱 #GirlsGeneration\n\n[https://t.co/v74lp6mNMj] https://t.co/n0AwnUY4tJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						228,
+						232
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						233,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v74lp6mNMj",
+					"expanded_url": "http://facebook.com/smtruethailand/photos/a.212571838790772/2713035282077736",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1214773381184118800,
+					"id_str": "1214773381184118784",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ENu99DwUYAAY4i_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENu99DwUYAAY4i_.jpg",
+					"url": "https://t.co/n0AwnUY4tJ",
+					"display_url": "pic.twitter.com/n0AwnUY4tJ",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1214773391468576768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 305,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 120,
+									"y": 220,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 716,
+									"y": 817,
+									"h": 376,
+									"w": 376
+								},
+								{
+									"x": 321,
+									"y": 590,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 472,
+									"y": 538,
+									"h": 247,
+									"w": 247
+								},
+								{
+									"x": 211,
+									"y": 388,
+									"h": 205,
+									"w": 205
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 716,
+									"y": 817,
+									"h": 376,
+									"w": 376
+								},
+								{
+									"x": 321,
+									"y": 590,
+									"h": 312,
+									"w": 312
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214773381184118800,
+					"id_str": "1214773381184118784",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/ENu99DwUYAAY4i_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENu99DwUYAAY4i_.jpg",
+					"url": "https://t.co/n0AwnUY4tJ",
+					"display_url": "pic.twitter.com/n0AwnUY4tJ",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1214773391468576768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 267,
+									"y": 305,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 120,
+									"y": 220,
+									"h": 116,
+									"w": 116
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 716,
+									"y": 817,
+									"h": 376,
+									"w": 376
+								},
+								{
+									"x": 321,
+									"y": 590,
+									"h": 312,
+									"w": 312
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 472,
+									"y": 538,
+									"h": 247,
+									"w": 247
+								},
+								{
+									"x": 211,
+									"y": 388,
+									"h": 205,
+									"w": 205
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 716,
+									"y": 817,
+									"h": 376,
+									"w": 376
+								},
+								{
+									"x": 321,
+									"y": 590,
+									"h": 312,
+									"w": 312
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59790,
+			"friends_count": 45,
+			"listed_count": 51,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 611,
+		"favorite_count": 179,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#TAEYEON ประกาศปล่อยอัลบั้มรีแพ็คเกจชุดที่ 2 ‘#Purpose’ 15 มกราคมนี้!\n\nในปี 2020 ก็จะพิสูจน์ให้เห็นถึงพลังของ ‘TAENG ที่เชื่อใจ และรับฟังเพลงได้’ อีกครั้ง พร้อมโชว์เสน่ห์อันหลากหลายมากขึ้นใน 15 เพลง ที่จะมีเพลงใหม่ถึง 3 เพลง!!\n\n#믿듣탱 #GirlsGeneration\n\n[https://t.co/v74lp6mNMj] https://t.co/n0AwnUY4tJ"
+	},
+	{
 		"created_at": "Wed Jan 08 02:25:12 +0000 2020",
 		"id": 1214734770883715000,
 		"id_str": "1214734770883715074",
