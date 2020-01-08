@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 10:56:38 +0000 2020",
+		"id": 1214860514624360400,
+		"id_str": "1214863474377084928",
+		"full_text": "[📸 #SMTOWN #TAEYEON #NCTDREAM]\n\nTAEYEON and NCT DREAM at The 9th GAONCHART Music Awards! 👏🏻\n\n#태연 #소녀시대 #GirlsGeneration @GirlsGeneration #NCTDREAM @NCTsmtown_DREAM #NCT #가온차트뮤직어워즈 #GaonChartMusicAwards https://t.co/1PBa9l4yMz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "가온차트뮤직어워즈",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "GaonChartMusicAwards",
+					"indices": [
+						180,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"screen_name": "NCTsmtown_DREAM",
+					"name": "NCT DREAM",
+					"id": 870188817537355800,
+					"id_str": "870188817537355776",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214860504964796400,
+					"id_str": "1214860504964796417",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ENwNMVIUEAEW4wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENwNMVIUEAEW4wy.jpg",
+					"url": "https://t.co/1PBa9l4yMz",
+					"display_url": "pic.twitter.com/1PBa9l4yMz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1214860514624360448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 995,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "870188817537355776",
+									"screen_name": "NCTsmtown_DREAM",
+									"name": "NCT DREAM"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1008,
+									"y": 150,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 502,
+									"y": 210,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 124,
+									"y": 140,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 675,
+									"y": 147,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 324,
+									"y": 139,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 85,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 284,
+									"y": 119,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 70,
+									"y": 79,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 382,
+									"y": 83,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 183,
+									"y": 78,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1681,
+									"y": 251,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 837,
+									"y": 351,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 207,
+									"y": 234,
+									"h": 177,
+									"w": 177
+								},
+								{
+									"x": 1125,
+									"y": 246,
+									"h": 162,
+									"w": 162
+								},
+								{
+									"x": 541,
+									"y": 232,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1681,
+									"y": 251,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 837,
+									"y": 351,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 207,
+									"y": 234,
+									"h": 177,
+									"w": 177
+								},
+								{
+									"x": 1125,
+									"y": 246,
+									"h": 162,
+									"w": 162
+								},
+								{
+									"x": 541,
+									"y": 232,
+									"h": 169,
+									"w": 169
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214860504964796400,
+					"id_str": "1214860504964796417",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ENwNMVIUEAEW4wy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENwNMVIUEAEW4wy.jpg",
+					"url": "https://t.co/1PBa9l4yMz",
+					"display_url": "pic.twitter.com/1PBa9l4yMz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1214860514624360448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 597,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 995,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "870188817537355776",
+									"screen_name": "NCTsmtown_DREAM",
+									"name": "NCT DREAM"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1008,
+									"y": 150,
+									"h": 93,
+									"w": 93
+								},
+								{
+									"x": 502,
+									"y": 210,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 124,
+									"y": 140,
+									"h": 106,
+									"w": 106
+								},
+								{
+									"x": 675,
+									"y": 147,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 324,
+									"y": 139,
+									"h": 101,
+									"w": 101
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 571,
+									"y": 85,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 284,
+									"y": 119,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 70,
+									"y": 79,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 382,
+									"y": 83,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 183,
+									"y": 78,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1681,
+									"y": 251,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 837,
+									"y": 351,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 207,
+									"y": 234,
+									"h": 177,
+									"w": 177
+								},
+								{
+									"x": 1125,
+									"y": 246,
+									"h": 162,
+									"w": 162
+								},
+								{
+									"x": 541,
+									"y": 232,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1681,
+									"y": 251,
+									"h": 156,
+									"w": 156
+								},
+								{
+									"x": 837,
+									"y": 351,
+									"h": 140,
+									"w": 140
+								},
+								{
+									"x": 207,
+									"y": 234,
+									"h": 177,
+									"w": 177
+								},
+								{
+									"x": 1125,
+									"y": 246,
+									"h": 162,
+									"w": 162
+								},
+								{
+									"x": 541,
+									"y": 232,
+									"h": 169,
+									"w": 169
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8071984,
+			"friends_count": 49,
+			"listed_count": 9738,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7806,
+		"favorite_count": 9945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[📸 #SMTOWN #TAEYEON #NCTDREAM]\n\nTAEYEON and NCT DREAM at The 9th GAONCHART Music Awards! 👏🏻\n\n#태연 #소녀시대 #GirlsGeneration @GirlsGeneration #NCTDREAM @NCTsmtown_DREAM #NCT #가온차트뮤직어워즈 #GaonChartMusicAwards https://t.co/1PBa9l4yMz"
+	},
+	{
 		"created_at": "Wed Jan 08 09:45:37 +0000 2020",
 		"id": 1214834124743155700,
 		"id_str": "1214845606147088385",
