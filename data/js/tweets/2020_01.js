@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 08 00:45:37 +0000 2020",
+		"id": 1214703064273211400,
+		"id_str": "1214709710215110656",
+		"full_text": "태연 정규 2집 리패키지 앨범 ‘Purpose’ 1월 15일 공개! 태연이 2020년에도 ‘믿듣탱’ 파워를 입증하며, 신곡 3곡을 추가한 총 15개 트랙으로 다채로운 매력 발산을 예고하고 있습니다!\n\n #태연 #믿듣탱 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #퍼포즈 https://t.co/VHopywCdfe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "퍼포즈",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214703051824496600,
+					"id_str": "1214703051824496641",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ENt9_WeVAAEViZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENt9_WeVAAEViZv.jpg",
+					"url": "https://t.co/VHopywCdfe",
+					"display_url": "pic.twitter.com/VHopywCdfe",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1214703064273211397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 470,
+									"h": 314,
+									"w": 314
+								},
+								{
+									"x": 327,
+									"y": 595,
+									"h": 302,
+									"w": 302
+								},
+								{
+									"x": 714,
+									"y": 817,
+									"h": 378,
+									"w": 378
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 470,
+									"h": 314,
+									"w": 314
+								},
+								{
+									"x": 327,
+									"y": 595,
+									"h": 302,
+									"w": 302
+								},
+								{
+									"x": 714,
+									"y": 817,
+									"h": 378,
+									"w": 378
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 309,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 215,
+									"y": 392,
+									"h": 199,
+									"w": 199
+								},
+								{
+									"x": 470,
+									"y": 538,
+									"h": 249,
+									"w": 249
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 94,
+									"y": 175,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 122,
+									"y": 222,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 266,
+									"y": 305,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214703051824496600,
+					"id_str": "1214703051824496641",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/ENt9_WeVAAEViZv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENt9_WeVAAEViZv.jpg",
+					"url": "https://t.co/VHopywCdfe",
+					"display_url": "pic.twitter.com/VHopywCdfe",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1214703064273211397/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 470,
+									"h": 314,
+									"w": 314
+								},
+								{
+									"x": 327,
+									"y": 595,
+									"h": 302,
+									"w": 302
+								},
+								{
+									"x": 714,
+									"y": 817,
+									"h": 378,
+									"w": 378
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 470,
+									"h": 314,
+									"w": 314
+								},
+								{
+									"x": 327,
+									"y": 595,
+									"h": 302,
+									"w": 302
+								},
+								{
+									"x": 714,
+									"y": 817,
+									"h": 378,
+									"w": 378
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 309,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 215,
+									"y": 392,
+									"h": 199,
+									"w": 199
+								},
+								{
+									"x": 470,
+									"y": 538,
+									"h": 249,
+									"w": 249
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 94,
+									"y": 175,
+									"h": 117,
+									"w": 117
+								},
+								{
+									"x": 122,
+									"y": 222,
+									"h": 112,
+									"w": 112
+								},
+								{
+									"x": 266,
+									"y": 305,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3534253,
+			"friends_count": 4,
+			"listed_count": 5958,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4599,
+		"favorite_count": 6932,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 정규 2집 리패키지 앨범 ‘Purpose’ 1월 15일 공개! 태연이 2020년에도 ‘믿듣탱’ 파워를 입증하며, 신곡 3곡을 추가한 총 15개 트랙으로 다채로운 매력 발산을 예고하고 있습니다!\n\n #태연 #믿듣탱 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #퍼포즈 https://t.co/VHopywCdfe"
+	},
+	{
 		"created_at": "Tue Jan 07 10:56:38 +0000 2020",
 		"id": 1214490295246585900,
 		"id_str": "1214501086645620736",
