@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 19:45:38 +0000 2020",
+		"id": 1215357917420908500,
+		"id_str": "1215358989648781313",
+		"full_text": "prep week ☕️ for open hearts eve pt 2 , taipei, tokyo , manila can’t believe im seeing you this month https://t.co/6Ntd586U0r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215357895908282400,
+					"id_str": "1215357895908282368",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EN3RkSyUUAAeSKA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN3RkSyUUAAeSKA.jpg",
+					"url": "https://t.co/6Ntd586U0r",
+					"display_url": "pic.twitter.com/6Ntd586U0r",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1215357917420908544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 247,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 924,
+									"y": 745,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 541,
+									"y": 436,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1155,
+									"y": 932,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215357895908282400,
+					"id_str": "1215357895908282368",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EN3RkSyUUAAeSKA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN3RkSyUUAAeSKA.jpg",
+					"url": "https://t.co/6Ntd586U0r",
+					"display_url": "pic.twitter.com/6Ntd586U0r",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1215357917420908544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 306,
+									"y": 247,
+									"h": 41,
+									"w": 41
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 924,
+									"y": 745,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 541,
+									"y": 436,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1155,
+									"y": 932,
+									"h": 155,
+									"w": 155
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215357899981017000,
+					"id_str": "1215357899981017088",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EN3Rkh9VUAAKUDP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN3Rkh9VUAAKUDP.jpg",
+					"url": "https://t.co/6Ntd586U0r",
+					"display_url": "pic.twitter.com/6Ntd586U0r",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1215357917420908544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 314,
+									"h": 244,
+									"w": 244
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 228,
+									"y": 104,
+									"h": 81,
+									"w": 81
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 314,
+									"h": 244,
+									"w": 244
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 183,
+									"h": 142,
+									"w": 142
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 334368,
+			"friends_count": 176,
+			"listed_count": 1001,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 762,
+		"favorite_count": 1954,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "prep week ☕️ for open hearts eve pt 2 , taipei, tokyo , manila can’t believe im seeing you this month https://t.co/6Ntd586U0r"
+	},
+	{
 		"created_at": "Thu Jan 09 16:01:09 +0000 2020",
 		"id": 1215302499546038300,
 		"id_str": "1215302499546038273",
