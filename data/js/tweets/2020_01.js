@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 00:45:38 +0000 2020",
+		"id": 1215069168820572200,
+		"id_str": "1215072099385204736",
+		"full_text": "#태연 정규 2집 리패키지 앨범 ‘#Purpose’ 트랙리스트 공개 화제! 자신을 더욱 믿고 사랑하자는 메시지를 담은 따뜻한 발라드 타이틀 곡 ‘내게 들려주고 싶은 말’ 외 ‘월식’ 과 ‘너를 그리는 시간’ 등 신곡 3곡이 포함 된 이번 앨범을 1월 15일 오후 6시에 함께 들어요! 🎵💜\n\n#믿듣탱 #TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						168,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3535336,
+			"friends_count": 4,
+			"listed_count": 5961,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1101,
+		"favorite_count": 2015,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#태연 정규 2집 리패키지 앨범 ‘#Purpose’ 트랙리스트 공개 화제! 자신을 더욱 믿고 사랑하자는 메시지를 담은 따뜻한 발라드 타이틀 곡 ‘내게 들려주고 싶은 말’ 외 ‘월식’ 과 ‘너를 그리는 시간’ 등 신곡 3곡이 포함 된 이번 앨범을 1월 15일 오후 6시에 함께 들어요! 🎵💜\n\n#믿듣탱 #TAEYEON"
+	},
+	{
 		"created_at": "Wed Jan 08 21:11:42 +0000 2020",
 		"id": 1215018261139665000,
 		"id_str": "1215018261139664897",
