@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 05:56:38 +0000 2020",
+		"id": 1215147818022625300,
+		"id_str": "1215150364829372416",
+		"full_text": "#TAEYEON กำลังเป็นที่น่าจับตามอง จากการปล่อย Track List ของอัลบั้มรีแพ็คเกจชุดที่ 2 #Purpose💜\n\nมารอฟังเพลงเปิดตัวแนวบัลลาดแสนอบอุ่น ‘Dear Me’ ที่มาพร้อมข้อความเชิงบวกเกี่ยวกับการเชื่อมั่น และรักตัวเองให้มากขึ้น ในวันที่ 15 ม.ค.นี้ 4 โมงเย็นไทย🎵\n\n#믿듣탱\n\nhttps://t.co/UeQ20h8BGT https://t.co/25MmZnzm8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						246,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UeQ20h8BGT",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/2715212415193356",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215147806802886700,
+					"id_str": "1215147806802886658",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0Sff4UwAIBIH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0Sff4UwAIBIH-.jpg",
+					"url": "https://t.co/25MmZnzm8t",
+					"display_url": "pic.twitter.com/25MmZnzm8t",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1215147818022625280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 1112,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 697,
+									"y": 1510,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 831,
+									"y": 1508,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 1112,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 697,
+									"y": 1510,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 831,
+									"y": 1508,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 391,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 245,
+									"y": 531,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 292,
+									"y": 531,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 365,
+									"y": 691,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 938,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 516,
+									"y": 937,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215147806802886700,
+					"id_str": "1215147806802886658",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0Sff4UwAIBIH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0Sff4UwAIBIH-.jpg",
+					"url": "https://t.co/25MmZnzm8t",
+					"display_url": "pic.twitter.com/25MmZnzm8t",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1215147818022625280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 1112,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 697,
+									"y": 1510,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 831,
+									"y": 1508,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 588,
+									"y": 1112,
+									"h": 69,
+									"w": 69
+								},
+								{
+									"x": 697,
+									"y": 1510,
+									"h": 167,
+									"w": 167
+								},
+								{
+									"x": 831,
+									"y": 1508,
+									"h": 171,
+									"w": 171
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 207,
+									"y": 391,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 245,
+									"y": 531,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 292,
+									"y": 531,
+									"h": 60,
+									"w": 60
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 365,
+									"y": 691,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 433,
+									"y": 938,
+									"h": 103,
+									"w": 103
+								},
+								{
+									"x": 516,
+									"y": 937,
+									"h": 106,
+									"w": 106
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215147806819668000,
+					"id_str": "1215147806819667969",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0Sff8U0AEy6Hl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0Sff8U0AEy6Hl.jpg",
+					"url": "https://t.co/25MmZnzm8t",
+					"display_url": "pic.twitter.com/25MmZnzm8t",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1215147818022625280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 808,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1931,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 417,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 167,
+									"y": 465,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 36,
+									"y": 568,
+									"h": 38,
+									"w": 38
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 735,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 295,
+									"y": 820,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 65,
+									"y": 1003,
+									"h": 67,
+									"w": 67
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 475,
+									"y": 1184,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 475,
+									"y": 1320,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 105,
+									"y": 1614,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 475,
+									"y": 1184,
+									"h": 88,
+									"w": 88
+								},
+								{
+									"x": 475,
+									"y": 1320,
+									"h": 109,
+									"w": 109
+								},
+								{
+									"x": 105,
+									"y": 1614,
+									"h": 109,
+									"w": 109
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59881,
+			"friends_count": 45,
+			"listed_count": 51,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 202,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#TAEYEON กำลังเป็นที่น่าจับตามอง จากการปล่อย Track List ของอัลบั้มรีแพ็คเกจชุดที่ 2 #Purpose💜\n\nมารอฟังเพลงเปิดตัวแนวบัลลาดแสนอบอุ่น ‘Dear Me’ ที่มาพร้อมข้อความเชิงบวกเกี่ยวกับการเชื่อมั่น และรักตัวเองให้มากขึ้น ในวันที่ 15 ม.ค.นี้ 4 โมงเย็นไทย🎵\n\n#믿듣탱\n\nhttps://t.co/UeQ20h8BGT https://t.co/25MmZnzm8t"
+	},
+	{
 		"created_at": "Thu Jan 09 04:45:37 +0000 2020",
 		"id": 1215121220414238700,
 		"id_str": "1215132496351973376",
