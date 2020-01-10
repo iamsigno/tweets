@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 13:56:38 +0000 2020",
+		"id": 1215622790973288400,
+		"id_str": "1215633552504696832",
+		"full_text": "วันนี้วันสุดท้ายของการ Pre-Order อัลบั้มรีแพ็คเกจชุดที่ 2 ‘#Purpose’ ของ #TAEYEON นะคะโซวอน~💜\n\n🎧 เลือกได้ 2 เวอร์ชั่น; Purple Ver. และ Beige Ver.\n\n🎧 อัลบั้มละ 600฿ (รับโปส) / 540฿ (ไม่รับโปส)\n\n🎧 สั่งได้ถึง 10 ม.ค. เวลา 23.59 น. ทาง https://t.co/WCIqokSdtm https://t.co/664tnIjk0Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Purpose",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						73,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCIqokSdtm",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						232,
+						255
+					]
+				},
+				{
+					"url": "https://t.co/664tnIjk0Q",
+					"expanded_url": "https://twitter.com/smtruethailand/status/1214865348035403776",
+					"display_url": "twitter.com/smtruethailand…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60196,
+			"friends_count": 45,
+			"listed_count": 52,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214865348035403800,
+		"quoted_status_id_str": "1214865348035403776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/664tnIjk0Q",
+			"expanded": "https://twitter.com/smtruethailand/status/1214865348035403776",
+			"display": "twitter.com/smtruethailand…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jan 08 11:04:04 +0000 2020",
+			"id": 1214865348035403800,
+			"id_str": "1214865348035403776",
+			"full_text": "[🎉] เปิด Pre-Order อัลบั้มรีแพ็คเกจชุดที่ 2 ‘#Purpose’ ของโวคอล ควีนที่เชื่อใจได้ #TAEYEON\n\n🎧เลือกได้ 2 เวอร์; Purple Ver. / Beige Ver.\n🎧600฿ (รับโปส) / 540฿ (ไม่รับโปส)\n🎧สั่งได้ถึง 10 ม.ค. เวลา 23.59 น. ทาง https://t.co/WCIqokSdtm\n🎧ได้ของไม่เกิน 31 ม.ค.\n🎧ยอดเข้าชาร์ต Gaon https://t.co/immjcSiniA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Purpose",
+						"indices": [
+							45,
+							53
+						]
+					},
+					{
+						"text": "TAEYEON",
+						"indices": [
+							82,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WCIqokSdtm",
+						"expanded_url": "http://store.weloveshopping.com/thsumstore",
+						"display_url": "store.weloveshopping.com/thsumstore",
+						"indices": [
+							208,
+							231
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1214865340569538600,
+						"id_str": "1214865340569538561",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/ENwRlzKU0AEoxn5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENwRlzKU0AEoxn5.jpg",
+						"url": "https://t.co/immjcSiniA",
+						"display_url": "pic.twitter.com/immjcSiniA",
+						"expanded_url": "https://twitter.com/SMTrueThailand/status/1214865348035403776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1105,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1105,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 630,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1214865340569538600,
+						"id_str": "1214865340569538561",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/ENwRlzKU0AEoxn5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ENwRlzKU0AEoxn5.jpg",
+						"url": "https://t.co/immjcSiniA",
+						"display_url": "pic.twitter.com/immjcSiniA",
+						"expanded_url": "https://twitter.com/SMTrueThailand/status/1214865348035403776/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1105,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1105,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 630,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1093456514700828700,
+				"id_str": "1093456514700828672",
+				"name": "SM True",
+				"screen_name": "SMTrueThailand",
+				"location": "Bangkok, Thailand",
+				"description": "SM True Official Twitter Page",
+				"url": "https://t.co/fe1MwqbQdx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fe1MwqbQdx",
+								"expanded_url": "https://www.facebook.com/smtruethailand",
+								"display_url": "facebook.com/smtruethailand",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 60196,
+				"friends_count": 45,
+				"listed_count": 52,
+				"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1665,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 706,
+			"favorite_count": 380,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "th"
+		},
+		"retweet_count": 126,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "วันนี้วันสุดท้ายของการ Pre-Order อัลบั้มรีแพ็คเกจชุดที่ 2 ‘#Purpose’ ของ #TAEYEON นะคะโซวอน~💜\n\n🎧 เลือกได้ 2 เวอร์ชั่น; Purple Ver. และ Beige Ver.\n\n🎧 อัลบั้มละ 600฿ (รับโปส) / 540฿ (ไม่รับโปส)\n\n🎧 สั่งได้ถึง 10 ม.ค. เวลา 23.59 น. ทาง https://t.co/WCIqokSdtm https://t.co/664tnIjk0Q"
+	},
+	{
 		"created_at": "Fri Jan 10 11:56:44 +0000 2020",
 		"id": 1215589832119873500,
 		"id_str": "1215603378493054981",
