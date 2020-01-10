@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 11:56:44 +0000 2020",
+		"id": 1215589832119873500,
+		"id_str": "1215603378493054981",
+		"full_text": "เวลาอันแสนวิเศษของ #TAEYEON ที่จะกลับมาสร้างความประทับใจอีกครั้ง ด้วยการสื่อสารบทเพลงอันเต็มไปด้วยเรื่องราวที่เธออยากให้ทุกคนได้รับฟัง ในคอนเสิร์ต #TAEYEON_TheUNSEENinBKK เสาร์ 22 (18.00 น.)~อาทิตย์ 23 (17.00 น.) ก.พ. 63 \n\n💜 https://t.co/gzI5zG6Qa3\n\n🎧 https://t.co/7jK3cNwx9D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "TAEYEON_TheUNSEENinBKK",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gzI5zG6Qa3",
+					"expanded_url": "https://www.facebook.com/212568845457738/posts/2717703908277540/",
+					"display_url": "facebook.com/21256884545773…",
+					"indices": [
+						225,
+						248
+					]
+				},
+				{
+					"url": "https://t.co/7jK3cNwx9D",
+					"expanded_url": "http://allticket.com/event/TAEYEONConcertTheUNSEENinBKK",
+					"display_url": "allticket.com/event/TAEYEONC…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215589444197044200,
+		"in_reply_to_status_id_str": "1215589444197044224",
+		"in_reply_to_user_id": 1093456514700828700,
+		"in_reply_to_user_id_str": "1093456514700828672",
+		"in_reply_to_screen_name": "SMTrueThailand",
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60101,
+			"friends_count": 45,
+			"listed_count": 52,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1172,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "เวลาอันแสนวิเศษของ #TAEYEON ที่จะกลับมาสร้างความประทับใจอีกครั้ง ด้วยการสื่อสารบทเพลงอันเต็มไปด้วยเรื่องราวที่เธออยากให้ทุกคนได้รับฟัง ในคอนเสิร์ต #TAEYEON_TheUNSEENinBKK เสาร์ 22 (18.00 น.)~อาทิตย์ 23 (17.00 น.) ก.พ. 63 \n\n💜 https://t.co/gzI5zG6Qa3\n\n🎧 https://t.co/7jK3cNwx9D"
+	},
+	{
 		"created_at": "Fri Jan 10 09:52:57 +0000 2020",
 		"id": 1215182660097601500,
 		"id_str": "1215572225404719105",
