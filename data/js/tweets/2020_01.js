@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 09:52:57 +0000 2020",
+		"id": 1215182660097601500,
+		"id_str": "1215572225404719105",
+		"full_text": "200108 #태연 #TAEYEON https://t.co/kM74Yn1jcZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215182574164689000,
+					"id_str": "1215182574164688901",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0yHOZUwAUqGex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0yHOZUwAUqGex.jpg",
+					"url": "https://t.co/kM74Yn1jcZ",
+					"display_url": "pic.twitter.com/kM74Yn1jcZ",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1215182660097601537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 284,
+									"h": 264,
+									"w": 264
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 427,
+									"h": 397,
+									"w": 397
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 427,
+									"h": 397,
+									"w": 397
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 161,
+									"h": 149,
+									"w": 149
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215182574164689000,
+					"id_str": "1215182574164688901",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0yHOZUwAUqGex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0yHOZUwAUqGex.jpg",
+					"url": "https://t.co/kM74Yn1jcZ",
+					"display_url": "pic.twitter.com/kM74Yn1jcZ",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1215182660097601537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 62,
+									"y": 284,
+									"h": 264,
+									"w": 264
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 427,
+									"h": 397,
+									"w": 397
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 427,
+									"h": 397,
+									"w": 397
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 35,
+									"y": 161,
+									"h": 149,
+									"w": 149
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215182579680215000,
+					"id_str": "1215182579680215047",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0yHi8VAAc6KL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0yHi8VAAc6KL3.jpg",
+					"url": "https://t.co/kM74Yn1jcZ",
+					"display_url": "pic.twitter.com/kM74Yn1jcZ",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1215182660097601537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 256,
+									"h": 254,
+									"w": 254
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 451,
+									"y": 256,
+									"h": 254,
+									"w": 254
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 170,
+									"h": 169,
+									"w": 169
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 170,
+									"y": 96,
+									"h": 95,
+									"w": 95
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215182574164725800,
+					"id_str": "1215182574164725761",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0yHOZVUAEfy3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0yHOZVUAEfy3Z.jpg",
+					"url": "https://t.co/kM74Yn1jcZ",
+					"display_url": "pic.twitter.com/kM74Yn1jcZ",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1215182660097601537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 650,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 249,
+									"y": 650,
+									"h": 87,
+									"w": 87
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 166,
+									"y": 433,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 93,
+									"y": 245,
+									"h": 32,
+									"w": 32
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215182575037141000,
+					"id_str": "1215182575037140992",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0yHRpVUAAxIgn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0yHRpVUAAxIgn.jpg",
+					"url": "https://t.co/kM74Yn1jcZ",
+					"display_url": "pic.twitter.com/kM74Yn1jcZ",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1215182660097601537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 297,
+									"y": 326,
+									"h": 186,
+									"w": 186
+								},
+								{
+									"x": 251,
+									"y": 525,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 434,
+									"y": 246,
+									"h": 267,
+									"w": 267
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 297,
+									"y": 326,
+									"h": 186,
+									"w": 186
+								},
+								{
+									"x": 251,
+									"y": 525,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 434,
+									"y": 246,
+									"h": 267,
+									"w": 267
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 112,
+									"y": 123,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 94,
+									"y": 198,
+									"h": 72,
+									"w": 72
+								},
+								{
+									"x": 163,
+									"y": 92,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 198,
+									"y": 217,
+									"h": 124,
+									"w": 124
+								},
+								{
+									"x": 167,
+									"y": 350,
+									"h": 127,
+									"w": 127
+								},
+								{
+									"x": 289,
+									"y": 164,
+									"h": 178,
+									"w": 178
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3247398667,
+			"id_str": "3247398667",
+			"name": "Alluring voice",
+			"screen_name": "alluring_voice",
+			"location": "𝗣𝘂𝗿𝗽𝗼𝘀𝗲",
+			"description": "",
+			"url": "https://t.co/0Hbtw9STT5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hbtw9STT5",
+							"expanded_url": "http://taeyeon.smtown.com",
+							"display_url": "taeyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33704,
+			"friends_count": 5,
+			"listed_count": 1057,
+			"created_at": "Wed Jun 17 02:13:44 +0000 2015",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215476794142253056/soEUHBVv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215476794142253056/soEUHBVv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3247398667/1570721950",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2713,
+		"favorite_count": 3084,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "200108 #태연 #TAEYEON https://t.co/kM74Yn1jcZ"
+	},
+	{
 		"created_at": "Fri Jan 10 08:45:37 +0000 2020",
 		"id": 1215551091753926700,
 		"id_str": "1215555281784057857",
