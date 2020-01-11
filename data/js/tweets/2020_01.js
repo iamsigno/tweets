@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 11 09:34:59 +0000 2020",
+		"id": 1215913084826439700,
+		"id_str": "1215930090250358784",
+		"full_text": "China's Chendgu TV highlighted producer SOOMAN LEE as \"the pioneer of Korea's entertainment industry\"!\n\nWatch: https://t.co/2rGRS5cvju\n\n#SOOMANLEE #SMEntertainment #ChengduTV https://t.co/wRfnr95oWm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"text": "SMEntertainment",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"text": "ChengduTV",
+					"indices": [
+						164,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2rGRS5cvju",
+					"expanded_url": "https://youtu.be/1wah-dMCRTo",
+					"display_url": "youtu.be/1wah-dMCRTo",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215913071505395700,
+					"id_str": "1215913071505395712",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"url": "https://t.co/wRfnr95oWm",
+					"display_url": "pic.twitter.com/wRfnr95oWm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215913084826439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 245,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 433,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 582,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 123,
+									"y": 161,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 65,
+									"y": 239,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 116,
+									"y": 623,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 57,
+									"y": 617,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1030,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 219,
+									"y": 284,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 116,
+									"y": 423,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 205,
+									"y": 1102,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 101,
+									"y": 1090,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215913071505395700,
+					"id_str": "1215913071505395712",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN_KfxDVUAAhvjJ.jpg",
+					"url": "https://t.co/wRfnr95oWm",
+					"display_url": "pic.twitter.com/wRfnr95oWm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1215913084826439680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 245,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 739,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 433,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 582,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 123,
+									"y": 161,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 65,
+									"y": 239,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 116,
+									"y": 623,
+									"h": 35,
+									"w": 35
+								},
+								{
+									"x": 57,
+									"y": 617,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 492,
+									"y": 1758,
+									"h": 68,
+									"w": 68
+								},
+								{
+									"x": 374,
+									"y": 486,
+									"h": 102,
+									"w": 102
+								},
+								{
+									"x": 198,
+									"y": 722,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 350,
+									"y": 1882,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 174,
+									"y": 1862,
+									"h": 172,
+									"w": 172
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 288,
+									"y": 1030,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 219,
+									"y": 284,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 116,
+									"y": 423,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 205,
+									"y": 1102,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 101,
+									"y": 1090,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8083311,
+			"friends_count": 49,
+			"listed_count": 9754,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 512,
+		"favorite_count": 2137,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "China's Chendgu TV highlighted producer SOOMAN LEE as \"the pioneer of Korea's entertainment industry\"!\n\nWatch: https://t.co/2rGRS5cvju\n\n#SOOMANLEE #SMEntertainment #ChengduTV https://t.co/wRfnr95oWm"
+	},
+	{
 		"created_at": "Sat Jan 11 02:53:07 +0000 2020",
 		"id": 1215828959260303400,
 		"id_str": "1215828959260303360",
