@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 12 04:45:37 +0000 2020",
+		"id": 1216209302190317600,
+		"id_str": "1216219660020015105",
+		"full_text": "사랑하는 사람과 함께 하는 평범한 일상 속에 찾아오는 눈부신 순간을 담은 #태연 의 발라드 곡 ‘너를 그리는 시간 (Drawing Our Moments)’의 하이라이트 클립이 공개되었습니다! 오늘 자정에는 태연의 이미지 티저와 ‘Mood Sampler #2’ 영상을 만나보세요! 💜\n\n#TAEYEON #Purpose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						168,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3538026,
+			"friends_count": 4,
+			"listed_count": 5969,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1193,
+		"favorite_count": 2643,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사랑하는 사람과 함께 하는 평범한 일상 속에 찾아오는 눈부신 순간을 담은 #태연 의 발라드 곡 ‘너를 그리는 시간 (Drawing Our Moments)’의 하이라이트 클립이 공개되었습니다! 오늘 자정에는 태연의 이미지 티저와 ‘Mood Sampler #2’ 영상을 만나보세요! 💜\n\n#TAEYEON #Purpose"
+	},
+	{
 		"created_at": "Sat Jan 11 15:53:28 +0000 2020",
 		"id": 1216025338486100000,
 		"id_str": "1216025338486099968",
