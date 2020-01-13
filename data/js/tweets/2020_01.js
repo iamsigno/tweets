@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 01:45:38 +0000 2020",
+		"id": 1216526234978373600,
+		"id_str": "1216536750446862337",
+		"full_text": "태연 단독 콘서트 D-4! 정규 2집 리패키지 ‘Purpose’ 타이틀 곡 ‘내게 들려주고 싶은 말 (Dear Me)’ 무대 최초 공개! 태연의 이번 앨범을 1월 15일 오후 6시 각종 음원 사이트에서 만나보세요! ✨💖\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #THE_UNSEEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						143,
+						159
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "THE_UNSEEN",
+					"indices": [
+						169,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3538574,
+			"friends_count": 4,
+			"listed_count": 5961,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1878,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 996,
+		"favorite_count": 2298,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "태연 단독 콘서트 D-4! 정규 2집 리패키지 ‘Purpose’ 타이틀 곡 ‘내게 들려주고 싶은 말 (Dear Me)’ 무대 최초 공개! 태연의 이번 앨범을 1월 15일 오후 6시 각종 음원 사이트에서 만나보세요! ✨💖\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #THE_UNSEEN"
+	},
+	{
 		"created_at": "Sun Jan 12 20:34:11 +0000 2020",
 		"id": 1216458372242911200,
 		"id_str": "1216458372242911234",
