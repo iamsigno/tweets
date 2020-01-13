@@ -1,6 +1,1445 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 08:02:14 +0000 2020",
+		"id": 1216631524734505000,
+		"id_str": "1216631524734504960",
+		"full_text": "#TAEYEON #태연\n태연 단독 콘서트 D-4! 타이틀 곡 ‘내게 들려주고 싶은 말’ 무대 최초 공개!\nhttps://t.co/GPedJBR8hC\n#SMTOWN #Artist_News https://t.co/gzipHSZZO1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GPedJBR8hC",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3085",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216631523673366500,
+					"id_str": "1216631523673366528",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJX7L8X4AA6ca_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJX7L8X4AA6ca_.jpg",
+					"url": "https://t.co/gzipHSZZO1",
+					"display_url": "pic.twitter.com/gzipHSZZO1",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216631524734504960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216631523673366500,
+					"id_str": "1216631523673366528",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJX7L8X4AA6ca_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJX7L8X4AA6ca_.jpg",
+					"url": "https://t.co/gzipHSZZO1",
+					"display_url": "pic.twitter.com/gzipHSZZO1",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216631524734504960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TAEYEON #태연\n태연 단독 콘서트 D-4! 타이틀 곡 ‘내게 들려주고 싶은 말’ 무대 최초 공개!\nhttps://t.co/GPedJBR8hC\n#SMTOWN #Artist_News https://t.co/gzipHSZZO1"
+	},
+	{
+		"created_at": "Mon Jan 13 08:02:12 +0000 2020",
+		"id": 1216631516266160000,
+		"id_str": "1216631516266160129",
+		"full_text": "#TAEYEON #태연\n태연, 정규 2집 리패키지 신곡 ‘너를 그리는 시간’ 하이라이트 클립 공개\nhttps://t.co/YubpojKx3g\n#SMTOWN #Artist_News https://t.co/qAH5fsQIuI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						87,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YubpojKx3g",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3080",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216631514806521900,
+					"id_str": "1216631514806521856",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJX6q6WkAAuccv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJX6q6WkAAuccv.jpg",
+					"url": "https://t.co/qAH5fsQIuI",
+					"display_url": "pic.twitter.com/qAH5fsQIuI",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216631516266160129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216631514806521900,
+					"id_str": "1216631514806521856",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJX6q6WkAAuccv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJX6q6WkAAuccv.jpg",
+					"url": "https://t.co/qAH5fsQIuI",
+					"display_url": "pic.twitter.com/qAH5fsQIuI",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216631516266160129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TAEYEON #태연\n태연, 정규 2집 리패키지 신곡 ‘너를 그리는 시간’ 하이라이트 클립 공개\nhttps://t.co/YubpojKx3g\n#SMTOWN #Artist_News https://t.co/qAH5fsQIuI"
+	},
+	{
+		"created_at": "Mon Jan 13 08:02:08 +0000 2020",
+		"id": 1216631502806683600,
+		"id_str": "1216631502806683650",
+		"full_text": "#TAEYEON #태연\n태연, 정규 2집 리패키지 앨범 ‘Purpose’ 미리듣기 순차 공개!\nhttps://t.co/uPTtgRR3vm\n#SMTOWN #Artist_News https://t.co/Yo4NsgXrK2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPTtgRR3vm",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3078",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216631501678313500,
+					"id_str": "1216631501678313472",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJX56AWAAA49u_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJX56AWAAA49u_.jpg",
+					"url": "https://t.co/Yo4NsgXrK2",
+					"display_url": "pic.twitter.com/Yo4NsgXrK2",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216631502806683650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216631501678313500,
+					"id_str": "1216631501678313472",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJX56AWAAA49u_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJX56AWAAA49u_.jpg",
+					"url": "https://t.co/Yo4NsgXrK2",
+					"display_url": "pic.twitter.com/Yo4NsgXrK2",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216631502806683650/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TAEYEON #태연\n태연, 정규 2집 리패키지 앨범 ‘Purpose’ 미리듣기 순차 공개!\nhttps://t.co/uPTtgRR3vm\n#SMTOWN #Artist_News https://t.co/Yo4NsgXrK2"
+	},
+	{
+		"created_at": "Mon Jan 13 07:20:30 +0000 2020",
+		"id": 1216621025951207400,
+		"id_str": "1216621025951207424",
+		"full_text": "#GirlsGeneration #소녀시대\n태연 단독 콘서트 D-4! 타이틀 곡 ‘내게 들려주고 싶은 말’ 무대 최초 공개!\nhttps://t.co/GPedJBR8hC\n#SMTOWN #Artist_News https://t.co/2ZXZSYBhtY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						101,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GPedJBR8hC",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3085",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216621024621494300,
+					"id_str": "1216621024621494272",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJOYD7WAAA2zMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJOYD7WAAA2zMo.jpg",
+					"url": "https://t.co/2ZXZSYBhtY",
+					"display_url": "pic.twitter.com/2ZXZSYBhtY",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216621025951207424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216621024621494300,
+					"id_str": "1216621024621494272",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJOYD7WAAA2zMo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJOYD7WAAA2zMo.jpg",
+					"url": "https://t.co/2ZXZSYBhtY",
+					"display_url": "pic.twitter.com/2ZXZSYBhtY",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216621025951207424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 22,
+									"h": 73,
+									"w": 73
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n태연 단독 콘서트 D-4! 타이틀 곡 ‘내게 들려주고 싶은 말’ 무대 최초 공개!\nhttps://t.co/GPedJBR8hC\n#SMTOWN #Artist_News https://t.co/2ZXZSYBhtY"
+	},
+	{
+		"created_at": "Mon Jan 13 07:20:28 +0000 2020",
+		"id": 1216621014022545400,
+		"id_str": "1216621014022545410",
+		"full_text": "#GirlsGeneration #소녀시대\n태연, 정규 2집 리패키지 신곡 ‘너를 그리는 시간’ 하이라이트 클립 공개\nhttps://t.co/YubpojKx3g\n#SMTOWN #Artist_News https://t.co/5TN0a6OZGm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YubpojKx3g",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3080",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216621012873359400,
+					"id_str": "1216621012873359360",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJOXYKXsAAh-Ov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJOXYKXsAAh-Ov.jpg",
+					"url": "https://t.co/5TN0a6OZGm",
+					"display_url": "pic.twitter.com/5TN0a6OZGm",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216621014022545410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216621012873359400,
+					"id_str": "1216621012873359360",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/EOJOXYKXsAAh-Ov.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOJOXYKXsAAh-Ov.jpg",
+					"url": "https://t.co/5TN0a6OZGm",
+					"display_url": "pic.twitter.com/5TN0a6OZGm",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1216621014022545410/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 128,
+									"y": 35,
+									"h": 80,
+									"w": 80
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n태연, 정규 2집 리패키지 신곡 ‘너를 그리는 시간’ 하이라이트 클립 공개\nhttps://t.co/YubpojKx3g\n#SMTOWN #Artist_News https://t.co/5TN0a6OZGm"
+	},
+	{
 		"created_at": "Mon Jan 13 01:45:38 +0000 2020",
 		"id": 1216526234978373600,
 		"id_str": "1216536750446862337",
