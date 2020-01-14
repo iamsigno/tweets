@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 06:45:37 +0000 2020",
+		"id": 1216961267044274200,
+		"id_str": "1216974635113373696",
+		"full_text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 13 누나랑 같이 (Fire Ⅱ) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV) \n\n👉🏻https://t.co/sB0xpnCeZ0\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						156,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sB0xpnCeZ0",
+					"expanded_url": "http://naver.me/GfdmQx4E",
+					"display_url": "naver.me/GfdmQx4E",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3540193,
+			"friends_count": 4,
+			"listed_count": 5960,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 959,
+		"favorite_count": 2205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 13 누나랑 같이 (Fire Ⅱ) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV) \n\n👉🏻https://t.co/sB0xpnCeZ0\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구"
+	},
+	{
 		"created_at": "Tue Jan 14 03:56:37 +0000 2020",
 		"id": 1216917871516766200,
 		"id_str": "1216932104522563585",
