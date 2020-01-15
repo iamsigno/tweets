@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 08:56:38 +0000 2020",
+		"id": 1217365321121583000,
+		"id_str": "1217369990384488449",
+		"full_text": "태연의 정규 2집 리패키지 앨범 'Purpose'가 베일을 벗습니다.\n금일 오후 6시 음원과 타이틀곡 '내게 들려주고 싶은 말'의 뮤직비디오가 공개될 예정입니다.\n\nTaeyeon's 2nd album repackage 'Purpose' will be released at 6pm along with the title song music video.\n\n#taeyeon #billboardkorea https://t.co/yCBaQxOkRM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "taeyeon",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "billboardkorea",
+					"indices": [
+						205,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217365309624995800,
+					"id_str": "1217365309624995840",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"url": "https://t.co/yCBaQxOkRM",
+					"display_url": "pic.twitter.com/yCBaQxOkRM",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1217365321121583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217365309624995800,
+					"id_str": "1217365309624995840",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOTzTJoU0AApwfo.jpg",
+					"url": "https://t.co/yCBaQxOkRM",
+					"display_url": "pic.twitter.com/yCBaQxOkRM",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1217365321121583104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1066,
+							"h": 1493,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19002,
+			"friends_count": 8,
+			"listed_count": 77,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 49,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1578991623",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연의 정규 2집 리패키지 앨범 'Purpose'가 베일을 벗습니다.\n금일 오후 6시 음원과 타이틀곡 '내게 들려주고 싶은 말'의 뮤직비디오가 공개될 예정입니다.\n\nTaeyeon's 2nd album repackage 'Purpose' will be released at 6pm along with the title song music video.\n\n#taeyeon #billboardkorea https://t.co/yCBaQxOkRM"
+	},
+	{
 		"created_at": "Wed Jan 15 06:49:04 +0000 2020",
 		"id": 1217337887831797800,
 		"id_str": "1217337887831797760",
