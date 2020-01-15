@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 00:45:38 +0000 2020",
+		"id": 1217240652066410500,
+		"id_str": "1217246426423615488",
+		"full_text": "태연, 정규 2집 리패키지 ‘Purpose’ 오늘 베일 벗는다! 오후 6시 전곡 음원 &amp; 타이틀 곡 ‘내게 들려주고 싶은 말’ MV 공개!\n태연표 짙은 감성 발라드로 따뜻한 위로를 예고하고 있습니다!💌✨  \n \n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #태연이가들려주고싶은말",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "태연이가들려주고싶은말",
+					"indices": [
+						167,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3540831,
+			"friends_count": 4,
+			"listed_count": 5961,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1572253253",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1005,
+		"favorite_count": 2056,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "태연, 정규 2집 리패키지 ‘Purpose’ 오늘 베일 벗는다! 오후 6시 전곡 음원 &amp; 타이틀 곡 ‘내게 들려주고 싶은 말’ MV 공개!\n태연표 짙은 감성 발라드로 따뜻한 위로를 예고하고 있습니다!💌✨  \n \n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Purpose #태연이가들려주고싶은말"
+	},
+	{
 		"created_at": "Tue Jan 14 16:01:06 +0000 2020",
 		"id": 1217114425238356000,
 		"id_str": "1217114425238355969",
