@@ -1,6 +1,673 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 10:56:46 +0000 2020",
+		"id": 1217386787179397000,
+		"id_str": "1217400224542547968",
+		"full_text": "แฟนชาวไทยสามารถฟังอัลบั้มรีแพ็คเกจชุดที่ 2 ‘#Purpose’ ของ #TAEYEON ได้ทาง;\n\n🎧 TrueID Music: https://t.co/Eq85BOzb6n\n🎧 JOOX: https://t.co/KugGfou01i\n\n🎬 TAEYEON '#Dear_Me' MV: https://t.co/rDGHN3LtlL\n\n#태연 #소녀시대 #GirlsGeneration #내게들려주고싶은말  #태연이가들려주고싶은말 https://t.co/4K8y1UqHRP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Purpose",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "Dear_Me",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						199,
+						202
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						209,
+						225
+					]
+				},
+				{
+					"text": "내게들려주고싶은말",
+					"indices": [
+						226,
+						236
+					]
+				},
+				{
+					"text": "태연이가들려주고싶은말",
+					"indices": [
+						238,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Eq85BOzb6n",
+					"expanded_url": "http://bit.ly/2u0Kpco",
+					"display_url": "bit.ly/2u0Kpco",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/KugGfou01i",
+					"expanded_url": "http://bit.ly/2tj32rS",
+					"display_url": "bit.ly/2tj32rS",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/rDGHN3LtlL",
+					"expanded_url": "https://youtu.be/bho0m505qVA",
+					"display_url": "youtu.be/bho0m505qVA",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217386779906474000,
+					"id_str": "1217386779906473985",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EOUG04qVAAENGqk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOUG04qVAAENGqk.jpg",
+					"url": "https://t.co/4K8y1UqHRP",
+					"display_url": "pic.twitter.com/4K8y1UqHRP",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1217386787179397120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217386779906474000,
+					"id_str": "1217386779906473985",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EOUG04qVAAENGqk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOUG04qVAAENGqk.jpg",
+					"url": "https://t.co/4K8y1UqHRP",
+					"display_url": "pic.twitter.com/4K8y1UqHRP",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1217386787179397120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 175,
+									"y": 68,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 154,
+									"y": 11,
+									"h": 400,
+									"w": 400
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1217383388937511000,
+		"in_reply_to_status_id_str": "1217383388937510912",
+		"in_reply_to_user_id": 1093456514700828700,
+		"in_reply_to_user_id_str": "1093456514700828672",
+		"in_reply_to_screen_name": "SMTrueThailand",
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61337,
+			"friends_count": 45,
+			"listed_count": 52,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "แฟนชาวไทยสามารถฟังอัลบั้มรีแพ็คเกจชุดที่ 2 ‘#Purpose’ ของ #TAEYEON ได้ทาง;\n\n🎧 TrueID Music: https://t.co/Eq85BOzb6n\n🎧 JOOX: https://t.co/KugGfou01i\n\n🎬 TAEYEON '#Dear_Me' MV: https://t.co/rDGHN3LtlL\n\n#태연 #소녀시대 #GirlsGeneration #내게들려주고싶은말  #태연이가들려주고싶은말 https://t.co/4K8y1UqHRP"
+	},
+	{
+		"created_at": "Wed Jan 15 10:51:11 +0000 2020",
+		"id": 1217398817978568700,
+		"id_str": "1217398817978568704",
+		"full_text": "#少女時代 #GirlsGeneration_JP\nTAEYEON New Album「Purpose – The 2nd Album Repackage」配信スタート♪\nhttps://t.co/9UrQ5DWcCG\n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "GirlsGeneration_JP",
+					"indices": [
+						6,
+						25
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						110,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9UrQ5DWcCG",
+					"expanded_url": "http://girls-generation.jp/gg/news/taeyeon-new-album%e3%80%8cpurpose-the-2nd-album-repackage%e3%80%8d%e9%85%8d%e4%bf%a1%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e2%99%aa.html",
+					"display_url": "girls-generation.jp/gg/news/taeyeo…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #GirlsGeneration_JP\nTAEYEON New Album「Purpose – The 2nd Album Repackage」配信スタート♪\nhttps://t.co/9UrQ5DWcCG\n#GirlsGeneration #소녀시대"
+	},
+	{
+		"created_at": "Wed Jan 15 10:21:21 +0000 2020",
+		"id": 1217391310916718600,
+		"id_str": "1217391310916718593",
+		"full_text": "#GirlsGeneration #소녀시대\nTAEYEON’s Digital Booklet with EXCLUSIVE PHOTOs &amp; Hand Written Comments!...\nhttps://t.co/pXQQX1mR1L\n#Instagram #인스타그램",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Instagram",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "인스타그램",
+					"indices": [
+						138,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pXQQX1mR1L",
+					"expanded_url": "https://www.instagram.com/p/B7VetJSBeZN/",
+					"display_url": "instagram.com/p/B7VetJSBeZN/",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\nTAEYEON’s Digital Booklet with EXCLUSIVE PHOTOs &amp; Hand Written Comments!...\nhttps://t.co/pXQQX1mR1L\n#Instagram #인스타그램"
+	},
+	{
 		"created_at": "Wed Jan 15 09:56:44 +0000 2020",
 		"id": 1217373362214695000,
 		"id_str": "1217385115954839553",
