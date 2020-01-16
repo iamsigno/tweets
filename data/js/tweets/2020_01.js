@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 07:56:38 +0000 2020",
+		"id": 1217708289728774100,
+		"id_str": "1217717279129067520",
+		"full_text": "@sakurai__yuri さんは、周りに調和をもたらすムードメーカー⁉️\n\n📝 \"龍が如く\" な能力値は…\n攻撃力：🔥🔥🔥\n守備力：🛡🛡\n瞬発力：🏃🏃🏃🏃\n器用さ：🖐🖐🖐🖐🖐\n\nおねだり上手なあなたは、澤村遥のプレイリストで今日もハッピーに⬇️\nhttps://t.co/KOE3ozhDNX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sakurai__yuri",
+					"name": "癒璃",
+					"id": 1630094516,
+					"id_str": "1630094516",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KOE3ozhDNX",
+					"expanded_url": "https://spoti.fi/ryugagotoku_sawamura",
+					"display_url": "spoti.fi/ryugagotoku_sa…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter-auth.flag-web.jp/\" rel=\"nofollow\">Campaign Management System</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1630094516,
+		"in_reply_to_user_id_str": "1630094516",
+		"in_reply_to_screen_name": "sakurai__yuri",
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "🎧いつでも、どこでも、音楽を🎧 世界で2億4800万人以上の音楽ファンに選ばれている、無料でも聴ける公式音楽アプリSpotify (スポティファイ)。カスタマーサポート: @SpotifyCaresJP",
+			"url": "https://t.co/KwyTrhDr0X",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KwyTrhDr0X",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 155168,
+			"friends_count": 1523,
+			"listed_count": 863,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 7845,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 90197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1577807489",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "@sakurai__yuri さんは、周りに調和をもたらすムードメーカー⁉️\n\n📝 \"龍が如く\" な能力値は…\n攻撃力：🔥🔥🔥\n守備力：🛡🛡\n瞬発力：🏃🏃🏃🏃\n器用さ：🖐🖐🖐🖐🖐\n\nおねだり上手なあなたは、澤村遥のプレイリストで今日もハッピーに⬇️\nhttps://t.co/KOE3ozhDNX"
+	},
+	{
+		"created_at": "Thu Jan 16 07:48:03 +0000 2020",
+		"id": 1217715121801322500,
+		"id_str": "1217715121801322496",
+		"full_text": "#GirlsGeneration #소녀시대\n갓태연 컴백하셔 만들어본 김태연 예능모음ZIP....\nhttps://t.co/6N4lnqQaKM\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6N4lnqQaKM",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3044894832197128",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n갓태연 컴백하셔 만들어본 김태연 예능모음ZIP....\nhttps://t.co/6N4lnqQaKM\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Thu Jan 16 06:43:09 +0000 2020",
 		"id": 1217698788195946500,
 		"id_str": "1217698788195946496",
