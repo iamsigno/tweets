@@ -1,6 +1,989 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 09:56:44 +0000 2020",
+		"id": 1217743614261915600,
+		"id_str": "1217747503640195073",
+		"full_text": "[V LIVE] 오늘 하루도 힘들었다면 여기로 달려오세요‼️💗 우리의 믿.듣 탱구의 '내게 들려주고 싶은 말' 뮤비 메이킹이 여러분을 기다리고 있습니다😘 보기만해도 힐링되는 탱구의 메이킹 영상과 함께❣️ 자신에게도 말해주세요 I love myself~🎵\n\n▶ https://t.co/EMWEMpGY3i\n\n#태연 #TAEYEON #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						183,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EMWEMpGY3i",
+					"expanded_url": "https://www.vlive.tv/video/170639",
+					"display_url": "vlive.tv/video/170639",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3494342,
+			"friends_count": 169,
+			"listed_count": 1921,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 270,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V LIVE] 오늘 하루도 힘들었다면 여기로 달려오세요‼️💗 우리의 믿.듣 탱구의 '내게 들려주고 싶은 말' 뮤비 메이킹이 여러분을 기다리고 있습니다😘 보기만해도 힐링되는 탱구의 메이킹 영상과 함께❣️ 자신에게도 말해주세요 I love myself~🎵\n\n▶ https://t.co/EMWEMpGY3i\n\n#태연 #TAEYEON #VLIVE"
+	},
+	{
+		"created_at": "Thu Jan 16 09:48:02 +0000 2020",
+		"id": 1217745314989445000,
+		"id_str": "1217745314989445120",
+		"full_text": "#GirlsGeneration #소녀시대\nTAEYEON 태연 ‘내게 들려주고 싶은 말 (Dear Me)’ MV...\nhttps://t.co/6NBYrUZwdT\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						89,
+						98
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6NBYrUZwdT",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3045055472181064",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\nTAEYEON 태연 ‘내게 들려주고 싶은 말 (Dear Me)’ MV...\nhttps://t.co/6NBYrUZwdT\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Thu Jan 16 09:45:46 +0000 2020",
+		"id": 1217738353182822400,
+		"id_str": "1217744744459251712",
+		"full_text": "TAEYEON 태연 ‘내게 들려주고 싶은 말 (Dear Me)’ MV Making Film\n\n👉🏻https://t.co/uqoBtYvKhX\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "내게들려주고싶은말",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"text": "Dear_Me",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "태연이가들려주고싶은말",
+					"indices": [
+						144,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uqoBtYvKhX",
+					"expanded_url": "https://www.vlive.tv/video/170639",
+					"display_url": "vlive.tv/video/170639",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542370,
+			"friends_count": 4,
+			"listed_count": 5962,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1151,
+		"favorite_count": 1816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON 태연 ‘내게 들려주고 싶은 말 (Dear Me)’ MV Making Film\n\n👉🏻https://t.co/uqoBtYvKhX\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #Dear_Me #태연이가들려주고싶은말"
+	},
+	{
+		"created_at": "Thu Jan 16 09:45:38 +0000 2020",
+		"id": 1217733306457837600,
+		"id_str": "1217744710414032896",
+		"full_text": "네게 보여주고 싶은 #Dear_Me MV Behind Photos 🧡\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #태연이가들려주고싶은말 https://t.co/5LUwH7M0h2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_Me",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "내게들려주고싶은말",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"text": "태연이가들려주고싶은말",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217733254301675500,
+					"id_str": "1217733254301675521",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZB8WXU8AEIGxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZB8WXU8AEIGxO.jpg",
+					"url": "https://t.co/5LUwH7M0h2",
+					"display_url": "pic.twitter.com/5LUwH7M0h2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1217733306457837569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1374,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 906,
+									"y": 780,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 530,
+									"y": 456,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 906,
+									"y": 780,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 258,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217733254301675500,
+					"id_str": "1217733254301675521",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZB8WXU8AEIGxO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZB8WXU8AEIGxO.jpg",
+					"url": "https://t.co/5LUwH7M0h2",
+					"display_url": "pic.twitter.com/5LUwH7M0h2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1217733306457837569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1374,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 906,
+									"y": 780,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 530,
+									"y": 456,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 906,
+									"y": 780,
+									"h": 108,
+									"w": 108
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 300,
+									"y": 258,
+									"h": 35,
+									"w": 35
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1217733254310060000,
+					"id_str": "1217733254310060034",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZB8WZU4AIpdlT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZB8WZU4AIpdlT.jpg",
+					"url": "https://t.co/5LUwH7M0h2",
+					"display_url": "pic.twitter.com/5LUwH7M0h2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1217733306457837569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 582,
+									"h": 246,
+									"w": 246
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 616,
+									"y": 582,
+									"h": 246,
+									"w": 246
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 360,
+									"y": 340,
+									"h": 144,
+									"w": 144
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 204,
+									"y": 193,
+									"h": 81,
+									"w": 81
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1217733254301663200,
+					"id_str": "1217733254301663232",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZB8WXUwAASz8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZB8WXUwAASz8_.jpg",
+					"url": "https://t.co/5LUwH7M0h2",
+					"display_url": "pic.twitter.com/5LUwH7M0h2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1217733306457837569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 260,
+									"y": 122,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 786,
+									"y": 368,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 786,
+									"y": 368,
+									"h": 270,
+									"w": 270
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 460,
+									"y": 215,
+									"h": 158,
+									"w": 158
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1217733254297448400,
+					"id_str": "1217733254297448448",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EOZB8WWUcAAgu7e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOZB8WWUcAAgu7e.jpg",
+					"url": "https://t.co/5LUwH7M0h2",
+					"display_url": "pic.twitter.com/5LUwH7M0h2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1217733306457837569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 301,
+									"y": 143,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 532,
+									"y": 253,
+									"h": 134,
+									"w": 134
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 908,
+									"y": 432,
+									"h": 230,
+									"w": 230
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 908,
+									"y": 432,
+									"h": 230,
+									"w": 230
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542370,
+			"friends_count": 4,
+			"listed_count": 5962,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2328,
+		"favorite_count": 3951,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "네게 보여주고 싶은 #Dear_Me MV Behind Photos 🧡\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #내게들려주고싶은말 #태연이가들려주고싶은말 https://t.co/5LUwH7M0h2"
+	},
+	{
 		"created_at": "Thu Jan 16 08:45:45 +0000 2020",
 		"id": 1217717070013427700,
 		"id_str": "1217729639969325056",
