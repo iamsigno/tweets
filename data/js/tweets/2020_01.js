@@ -1,6 +1,474 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 16 03:56:37 +0000 2020",
+		"id": 1217642942514380800,
+		"id_str": "1217656880400621568",
+		"full_text": "[V ORIGINAL] 제로의 견생 최초 비행기 탑승의 순간이 바로 어제 같은데‼️🐶 벌써 오늘이 제로&amp;탱구 남매 LA여행의 마지막날이래요😮🤭 날씨마저 화창하게 반겨주는 이들 여행의 마지막 페이지도 함께 해줄거죠⁉️💖\n\n▶ https://t.co/OGDyy3D8lS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OGDyy3D8lS",
+					"expanded_url": "https://www.vlive.tv/video/169851/playlist/157709",
+					"display_url": "vlive.tv/video/169851/p…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3493541,
+			"friends_count": 169,
+			"listed_count": 1919,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 643,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 제로의 견생 최초 비행기 탑승의 순간이 바로 어제 같은데‼️🐶 벌써 오늘이 제로&amp;탱구 남매 LA여행의 마지막날이래요😮🤭 날씨마저 화창하게 반겨주는 이들 여행의 마지막 페이지도 함께 해줄거죠⁉️💖\n\n▶ https://t.co/OGDyy3D8lS\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Jan 16 03:25:26 +0000 2020",
+		"id": 1217612717286019000,
+		"id_str": "1217649029468672000",
+		"full_text": "\"보이는 건 모두 사진처럼 떠올릴 수 있어요.\"\n모든 것을 기억하는 형사👁️👁️\n차수영│최수영\n\n오감 서스펜스 &lt;본대로말하라&gt;\n2월 1일 첫방송 l 토일 오리지널\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/f4biwBBE1s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장혁",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						116,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1217612714794635300,
+					"id_str": "1217612714794635264",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXUUBtVUAAmlwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXUUBtVUAAmlwr.jpg",
+					"url": "https://t.co/f4biwBBE1s",
+					"display_url": "pic.twitter.com/f4biwBBE1s",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1217612717286019072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 64,
+									"h": 237,
+									"w": 237
+								},
+								{
+									"x": 396,
+									"y": 176,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 32,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 199,
+									"y": 88,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 64,
+									"h": 237,
+									"w": 237
+								},
+								{
+									"x": 396,
+									"y": 176,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 88,
+									"y": 56,
+									"h": 210,
+									"w": 210
+								},
+								{
+									"x": 351,
+									"y": 156,
+									"h": 311,
+									"w": 311
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217612714794635300,
+					"id_str": "1217612714794635264",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EOXUUBtVUAAmlwr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOXUUBtVUAAmlwr.jpg",
+					"url": "https://t.co/f4biwBBE1s",
+					"display_url": "pic.twitter.com/f4biwBBE1s",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1217612717286019072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 952,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 64,
+									"h": 237,
+									"w": 237
+								},
+								{
+									"x": 396,
+									"y": 176,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 32,
+									"h": 119,
+									"w": 119
+								},
+								{
+									"x": 199,
+									"y": 88,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 64,
+									"h": 237,
+									"w": 237
+								},
+								{
+									"x": 396,
+									"y": 176,
+									"h": 350,
+									"w": 350
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 88,
+									"y": 56,
+									"h": 210,
+									"w": 210
+								},
+								{
+									"x": 351,
+									"y": 156,
+									"h": 311,
+									"w": 311
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 2/1 첫방송 #장혁 #본대로말하라 \n🔜 2020 수목 밤 11시 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44417,
+			"friends_count": 0,
+			"listed_count": 247,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1578301055",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"보이는 건 모두 사진처럼 떠올릴 수 있어요.\"\n모든 것을 기억하는 형사👁️👁️\n차수영│최수영\n\n오감 서스펜스 &lt;본대로말하라&gt;\n2월 1일 첫방송 l 토일 오리지널\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/f4biwBBE1s"
+	},
+	{
 		"created_at": "Thu Jan 16 02:52:06 +0000 2020",
 		"id": 1217640643704623000,
 		"id_str": "1217640643704623109",
