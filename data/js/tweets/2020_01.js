@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 08:41:45 +0000 2020",
+		"id": 1216231787958952000,
+		"id_str": "1218091023307440129",
+		"full_text": "TAEYEON Concert 'The UNSEEN' Brochure \n\n👉 https://t.co/H6DJwamYpL \n\n#TAEYEON #THE_UNSEEN https://t.co/9mJ1dEtlUs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "THE_UNSEEN",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H6DJwamYpL",
+					"expanded_url": "https://www.instagram.com/p/B7NT27Nh_uq",
+					"display_url": "instagram.com/p/B7NT27Nh_uq",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1216231774218375200,
+					"id_str": "1216231774218375168",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EODsWtLUUAAOju3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EODsWtLUUAAOju3.jpg",
+					"url": "https://t.co/9mJ1dEtlUs",
+					"display_url": "pic.twitter.com/9mJ1dEtlUs",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1216231787958951936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 881,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 954,
+									"y": 992,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 881,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 954,
+									"y": 992,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 762,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 825,
+									"y": 858,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 92,
+									"y": 432,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 468,
+									"y": 486,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1216231774218375200,
+					"id_str": "1216231774218375168",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/EODsWtLUUAAOju3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EODsWtLUUAAOju3.jpg",
+					"url": "https://t.co/9mJ1dEtlUs",
+					"display_url": "pic.twitter.com/9mJ1dEtlUs",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1216231787958951936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 935,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 530,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 881,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 954,
+									"y": 992,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 189,
+									"y": 881,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 954,
+									"y": 992,
+									"h": 83,
+									"w": 83
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 163,
+									"y": 762,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 825,
+									"y": 858,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 92,
+									"y": 432,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 468,
+									"y": 486,
+									"h": 40,
+									"w": 40
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "#GG4EVA 꿈꾸듯 함께한 10년~ 영원히 함께할 우리의 꿈. 👀",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12771,
+			"friends_count": 9,
+			"listed_count": 301,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1578791830",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1386,
+		"favorite_count": 1994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON Concert 'The UNSEEN' Brochure \n\n👉 https://t.co/H6DJwamYpL \n\n#TAEYEON #THE_UNSEEN https://t.co/9mJ1dEtlUs"
+	},
+	{
 		"created_at": "Fri Jan 17 06:44:10 +0000 2020",
 		"id": 1218061431721156600,
 		"id_str": "1218061431721156608",
