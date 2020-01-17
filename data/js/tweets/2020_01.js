@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 20:45:37 +0000 2020",
+		"id": 1218215888094146600,
+		"id_str": "1218273191371706368",
+		"full_text": "🖤 always https://t.co/zcx6Ez9vkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zcx6Ez9vkU",
+					"expanded_url": "https://twitter.com/InterviewMag/status/1217870418876534786",
+					"display_url": "twitter.com/InterviewMag/s…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335960,
+			"friends_count": 176,
+			"listed_count": 999,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1217870418876534800,
+		"quoted_status_id_str": "1217870418876534786",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zcx6Ez9vkU",
+			"expanded": "https://twitter.com/InterviewMag/status/1217870418876534786",
+			"display": "twitter.com/InterviewMag/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 16 18:05:09 +0000 2020",
+			"id": 1217870418876534800,
+			"id_str": "1217870418876534786",
+			"full_text": "\"The most important thing for me is that I’m going to let my music and creativity lead the way.\" https://t.co/OFnTfN2hOD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				120
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OFnTfN2hOD",
+						"expanded_url": "https://www.interviewmagazine.com/music/tiffany-young-pop-star-lips-on-lips-glenn-interview",
+						"display_url": "interviewmagazine.com/music/tiffany-…",
+						"indices": [
+							97,
+							120
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23605284,
+				"id_str": "23605284",
+				"name": "Interview Magazine",
+				"screen_name": "InterviewMag",
+				"location": "New York, NY",
+				"description": "",
+				"url": "https://t.co/vmrxdAkdxt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vmrxdAkdxt",
+								"expanded_url": "http://www.interviewmagazine.com",
+								"display_url": "interviewmagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 286267,
+				"friends_count": 241,
+				"listed_count": 4647,
+				"created_at": "Tue Mar 10 15:32:12 +0000 2009",
+				"favourites_count": 2175,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20274,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "919191",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204043671475232774/aCiEuoaf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204043671475232774/aCiEuoaf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23605284/1575901357",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C9C5C5",
+				"profile_text_color": "030303",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 433,
+			"favorite_count": 679,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1068,
+		"favorite_count": 2615,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🖤 always https://t.co/zcx6Ez9vkU"
+	},
+	{
 		"created_at": "Fri Jan 17 15:45:38 +0000 2020",
 		"id": 1218187366348787700,
 		"id_str": "1218197694994440193",
