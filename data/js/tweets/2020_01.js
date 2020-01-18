@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 15:56:38 +0000 2020",
+		"id": 1218551639134457900,
+		"id_str": "1218562851197083649",
+		"full_text": "[📸 #TAEYEON &amp; #XIAOJUN &amp; #HENDERY &amp; #KUN &amp; #SOOMANLEE &amp; #TEN &amp; #WINWIN ]\n\n为了应援泰妍《TAEYEON CONCERT – THE UNSEEN》 的第二场演出#WayV 与李秀满老师到了演唱会现场～💟\n⠀ https://t.co/dOm8dMLYZl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "XIAOJUN",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "HENDERY",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "KUN",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "WINWIN",
+					"indices": [
+						87,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218551621409337300,
+					"id_str": "1218551621409337345",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EOkqPlaUcAEIRki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOkqPlaUcAEIRki.jpg",
+					"url": "https://t.co/dOm8dMLYZl",
+					"display_url": "pic.twitter.com/dOm8dMLYZl",
+					"expanded_url": "https://twitter.com/WayV_official/status/1218551639134457857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 199,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 395,
+									"y": 120,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 690,
+									"y": 136,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 835,
+									"y": 142,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 1065,
+									"y": 86,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 216,
+									"y": 101,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 113,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 224,
+									"y": 68,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 391,
+									"y": 77,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 473,
+									"y": 80,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 603,
+									"y": 48,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 122,
+									"y": 57,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218551621409337300,
+					"id_str": "1218551621409337345",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EOkqPlaUcAEIRki.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOkqPlaUcAEIRki.jpg",
+					"url": "https://t.co/dOm8dMLYZl",
+					"display_url": "pic.twitter.com/dOm8dMLYZl",
+					"expanded_url": "https://twitter.com/WayV_official/status/1218551639134457857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 199,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 395,
+									"y": 120,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 690,
+									"y": 136,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 835,
+									"y": 142,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 1065,
+									"y": 86,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 216,
+									"y": 101,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 113,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 224,
+									"y": 68,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 391,
+									"y": 77,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 473,
+									"y": 80,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 603,
+									"y": 48,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 122,
+									"y": 57,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1033994695595065300,
+			"id_str": "1033994695595065347",
+			"name": "WayV",
+			"screen_name": "WayV_official",
+			"location": "",
+			"description": "WayV Official twitter page",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 795247,
+			"friends_count": 0,
+			"listed_count": 4843,
+			"created_at": "Mon Aug 27 08:28:40 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188380694814179328/sty2Qgdt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188380694814179328/sty2Qgdt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1033994695595065347/1572167014",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12437,
+		"favorite_count": 22060,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zh",
+		"text": "[📸 #TAEYEON &amp; #XIAOJUN &amp; #HENDERY &amp; #KUN &amp; #SOOMANLEE &amp; #TEN &amp; #WINWIN ]\n\n为了应援泰妍《TAEYEON CONCERT – THE UNSEEN》 的第二场演出#WayV 与李秀满老师到了演唱会现场～💟\n⠀ https://t.co/dOm8dMLYZl"
+	},
+	{
 		"created_at": "Sat Jan 18 14:56:38 +0000 2020",
 		"id": 1218541998732267500,
 		"id_str": "1218547752344465408",
