@@ -1,6 +1,692 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 09:00:11 +0000 2020",
+		"id": 1218176062955217000,
+		"id_str": "1218458049624457217",
+		"full_text": "200117 Better Babe #태연 #TAEYEON https://t.co/IazkWDFlVS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218175865772601300,
+					"id_str": "1218175865772601344",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218175865772601344/pu/img/k1MF1nJOGQVLZxRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218175865772601344/pu/img/k1MF1nJOGQVLZxRZ.jpg",
+					"url": "https://t.co/IazkWDFlVS",
+					"display_url": "pic.twitter.com/IazkWDFlVS",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218176062955216896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218175865772601300,
+					"id_str": "1218175865772601344",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218175865772601344/pu/img/k1MF1nJOGQVLZxRZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218175865772601344/pu/img/k1MF1nJOGQVLZxRZ.jpg",
+					"url": "https://t.co/IazkWDFlVS",
+					"display_url": "pic.twitter.com/IazkWDFlVS",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218176062955216896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 65901,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218175865772601344/pu/vid/320x320/OPzX85Ju3wk8ewcW.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218175865772601344/pu/vid/720x720/vW2_wg9K2rF4Ve2T.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218175865772601344/pu/vid/480x480/tldxmqmxHjAZkFUp.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218175865772601344/pu/pl/hMW8ma6AvGAkr3RN.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37455,
+			"friends_count": 1,
+			"listed_count": 1000,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6244,
+		"favorite_count": 6212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "200117 Better Babe #태연 #TAEYEON https://t.co/IazkWDFlVS"
+	},
+	{
+		"created_at": "Sat Jan 18 09:00:03 +0000 2020",
+		"id": 1218169533044650000,
+		"id_str": "1218458016434937859",
+		"full_text": "200117 LOL #태연 #TAEYEON https://t.co/kFJfVCUx0T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218169341750829000,
+					"id_str": "1218169341750829058",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218169341750829058/pu/img/gqiCKkpjfmhakF5h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218169341750829058/pu/img/gqiCKkpjfmhakF5h.jpg",
+					"url": "https://t.co/kFJfVCUx0T",
+					"display_url": "pic.twitter.com/kFJfVCUx0T",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218169533044649985/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218169341750829000,
+					"id_str": "1218169341750829058",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218169341750829058/pu/img/gqiCKkpjfmhakF5h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218169341750829058/pu/img/gqiCKkpjfmhakF5h.jpg",
+					"url": "https://t.co/kFJfVCUx0T",
+					"display_url": "pic.twitter.com/kFJfVCUx0T",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218169533044649985/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 76989,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218169341750829058/pu/vid/320x320/NYQ5_xPvrjTLFUmf.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218169341750829058/pu/pl/0wkJv-yRGmAn5kPa.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218169341750829058/pu/vid/480x480/Ebq6cWuNpVOp3YzS.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218169341750829058/pu/vid/720x720/0XLtZrXC0V2iWcl9.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37455,
+			"friends_count": 1,
+			"listed_count": 1000,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4116,
+		"favorite_count": 3906,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "200117 LOL #태연 #TAEYEON https://t.co/kFJfVCUx0T"
+	},
+	{
+		"created_at": "Sat Jan 18 08:59:48 +0000 2020",
+		"id": 1218216771246674000,
+		"id_str": "1218457953067364352",
+		"full_text": "200117 태연 - 불티(Spark) @ The UNSEEN https://t.co/YGvfGxLrYS @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YGvfGxLrYS",
+					"expanded_url": "https://youtu.be/VDkUEE_lHkA",
+					"display_url": "youtu.be/VDkUEE_lHkA",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37455,
+			"friends_count": 1,
+			"listed_count": 1000,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1278,
+		"favorite_count": 1309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200117 태연 - 불티(Spark) @ The UNSEEN https://t.co/YGvfGxLrYS @YouTube 님이 공유"
+	},
+	{
+		"created_at": "Sat Jan 18 08:59:43 +0000 2020",
+		"id": 1218374993437872000,
+		"id_str": "1218457932347523072",
+		"full_text": "200117 태연 - Better Babe @ The UNSEEN https://t.co/Qqs6FFwvf3 - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qqs6FFwvf3",
+					"expanded_url": "https://youtu.be/7YsvnPz3I4c",
+					"display_url": "youtu.be/7YsvnPz3I4c",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37455,
+			"friends_count": 1,
+			"listed_count": 1000,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 591,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1047,
+		"favorite_count": 978,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "200117 태연 - Better Babe @ The UNSEEN https://t.co/Qqs6FFwvf3 - @YouTube"
+	},
+	{
 		"created_at": "Sat Jan 18 03:45:37 +0000 2020",
 		"id": 1218364820984082400,
 		"id_str": "1218378887350059008",
