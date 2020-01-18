@@ -1,6 +1,644 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sat Jan 18 14:56:38 +0000 2020",
+		"id": 1218541998732267500,
+		"id_str": "1218547752344465408",
+		"full_text": "[📸 #TAEYEON &amp; #XIAOJUN &amp; #HENDERY &amp; #KUN &amp; #SOOMANLEE &amp; #TEN &amp; #WINWIN ]\n\n#태연 콘서트 'TAEYEON CONCERT – THE UNSEEN'의 두번째 공연을 응원하러 온 #이수만 선생님과 #WayV #샤오쥔, #헨드리, #쿤, #텐, #윈윈! \n내일 공연도 많이 기대해주세요!💟 https://t.co/NA0TkE4dkT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "XIAOJUN",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "HENDERY",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "KUN",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "SOOMANLEE",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "WINWIN",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "이수만",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "샤오쥔",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "헨드리",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "쿤",
+					"indices": [
+						181,
+						183
+					]
+				},
+				{
+					"text": "텐",
+					"indices": [
+						185,
+						187
+					]
+				},
+				{
+					"text": "윈윈",
+					"indices": [
+						189,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218541989471256600,
+					"id_str": "1218541989471256576",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EOkhe7pVAAAj1ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOkhe7pVAAAj1ed.jpg",
+					"url": "https://t.co/NA0TkE4dkT",
+					"display_url": "pic.twitter.com/NA0TkE4dkT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1218541998732267527/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "1033994695595065347",
+									"screen_name": "WayV_official",
+									"name": "WayV"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 199,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 395,
+									"y": 120,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 690,
+									"y": 136,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 835,
+									"y": 142,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 1065,
+									"y": 86,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 216,
+									"y": 101,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 113,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 224,
+									"y": 68,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 391,
+									"y": 77,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 473,
+									"y": 80,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 603,
+									"y": 48,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 122,
+									"y": 57,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218541989471256600,
+					"id_str": "1218541989471256576",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EOkhe7pVAAAj1ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOkhe7pVAAAj1ed.jpg",
+					"url": "https://t.co/NA0TkE4dkT",
+					"display_url": "pic.twitter.com/NA0TkE4dkT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1218541998732267527/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "1033994695595065347",
+									"screen_name": "WayV_official",
+									"name": "WayV"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 569,
+									"y": 199,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 395,
+									"y": 120,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 690,
+									"y": 136,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 835,
+									"y": 142,
+									"h": 90,
+									"w": 90
+								},
+								{
+									"x": 1065,
+									"y": 86,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 216,
+									"y": 101,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 607,
+									"y": 213,
+									"h": 82,
+									"w": 82
+								},
+								{
+									"x": 422,
+									"y": 128,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 736,
+									"y": 146,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 891,
+									"y": 152,
+									"h": 97,
+									"w": 97
+								},
+								{
+									"x": 1136,
+									"y": 92,
+									"h": 105,
+									"w": 105
+								},
+								{
+									"x": 231,
+									"y": 108,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 113,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 224,
+									"y": 68,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 391,
+									"y": 77,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 473,
+									"y": 80,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 603,
+									"y": 48,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 122,
+									"y": 57,
+									"h": 60,
+									"w": 60
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8118239,
+			"friends_count": 49,
+			"listed_count": 9776,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10613,
+		"favorite_count": 14069,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #TAEYEON &amp; #XIAOJUN &amp; #HENDERY &amp; #KUN &amp; #SOOMANLEE &amp; #TEN &amp; #WINWIN ]\n\n#태연 콘서트 'TAEYEON CONCERT – THE UNSEEN'의 두번째 공연을 응원하러 온 #이수만 선생님과 #WayV #샤오쥔, #헨드리, #쿤, #텐, #윈윈! \n내일 공연도 많이 기대해주세요!💟 https://t.co/NA0TkE4dkT"
+	},
+	{
 		"created_at": "Sat Jan 18 11:19:40 +0000 2020",
 		"id": 1218202119536144400,
 		"id_str": "1218493151180025857",
