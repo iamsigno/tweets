@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 06:40:45 +0000 2020",
+		"id": 1218783804795441200,
+		"id_str": "1218785345669517312",
+		"full_text": "~~ 긴급 오늘의 이벤트 안내입니다 ~~\n\n공연 시작 전 종이비행기를 미리 접어주세요!\n\n마지막 엔딩 곡 반주가 끝나고, 꽃가루가 터지는 동시에 종이비행기를 날려주세요. 성공적인 이벤트 진행을 위하여 본인이 타이밍을 잘 아시겠다 하시는 분들은 주변 사람들에게도 공유해주세요. https://t.co/e9WCvJ7MEX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218783796113199000,
+					"id_str": "1218783796113199104",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EOn9Z7lUUAAgfzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOn9Z7lUUAAgfzD.jpg",
+					"url": "https://t.co/e9WCvJ7MEX",
+					"display_url": "pic.twitter.com/e9WCvJ7MEX",
+					"expanded_url": "https://twitter.com/taeyeon_union/status/1218783804795441152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1531,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 96,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 356,
+									"y": 290,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 208,
+									"y": 169,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 356,
+									"y": 290,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218783796113199000,
+					"id_str": "1218783796113199104",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EOn9Z7lUUAAgfzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOn9Z7lUUAAgfzD.jpg",
+					"url": "https://t.co/e9WCvJ7MEX",
+					"display_url": "pic.twitter.com/e9WCvJ7MEX",
+					"expanded_url": "https://twitter.com/taeyeon_union/status/1218783804795441152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1531,
+							"h": 2048,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 118,
+									"y": 96,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 356,
+									"y": 290,
+									"h": 96,
+									"w": 96
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 208,
+									"y": 169,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 356,
+									"y": 290,
+									"h": 96,
+									"w": 96
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2282361409,
+			"id_str": "2282361409",
+			"name": "태연팬연합",
+			"screen_name": "taeyeon_union",
+			"location": "taeyeonunion@naver.com",
+			"description": "TAEYEON FAN UNION",
+			"url": "https://t.co/2MpqVQay58",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2MpqVQay58",
+							"expanded_url": "http://Instagram.com/taeyeon_union",
+							"display_url": "Instagram.com/taeyeon_union",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39324,
+			"friends_count": 2,
+			"listed_count": 385,
+			"created_at": "Wed Jan 08 16:18:24 +0000 2014",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803327130754945024/HW90_Rla_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803327130754945024/HW90_Rla_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2282361409/1480363801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 361,
+		"favorite_count": 168,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "~~ 긴급 오늘의 이벤트 안내입니다 ~~\n\n공연 시작 전 종이비행기를 미리 접어주세요!\n\n마지막 엔딩 곡 반주가 끝나고, 꽃가루가 터지는 동시에 종이비행기를 날려주세요. 성공적인 이벤트 진행을 위하여 본인이 타이밍을 잘 아시겠다 하시는 분들은 주변 사람들에게도 공유해주세요. https://t.co/e9WCvJ7MEX"
+	},
+	{
 		"created_at": "Sun Jan 19 01:45:38 +0000 2020",
 		"id": 1218700118091686000,
 		"id_str": "1218711077225103361",
