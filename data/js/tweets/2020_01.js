@@ -1,6 +1,895 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 12:57:01 +0000 2020",
+		"id": 1218877620370018300,
+		"id_str": "1218880039250485249",
+		"full_text": "[📸 #TAEYEON &amp; #YERI]\n\n#태연 콘서트 'TAEYEON CONCERT – THE UNSEEN'의 마지막 공연을 응원하러 온 #RedVelvet #예리! \n3일간의 콘서트 함께해주신 여러분 모두 진심으로 감사드립니다💜\n\n#THE_UNSEEN #SMTOWN #SMmakesIT #MAKEsIT https://t.co/6cgvcS6FRZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "THE_UNSEEN",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "SMmakesIT",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "MAKEsIT",
+					"indices": [
+						165,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218877609154510800,
+					"id_str": "1218877609154510849",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EOpSukZVAAE9aAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOpSukZVAAE9aAf.jpg",
+					"url": "https://t.co/6cgvcS6FRZ",
+					"display_url": "pic.twitter.com/6cgvcS6FRZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1218877620370018305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1231,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 936,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 150,
+									"h": 229,
+									"w": 229
+								},
+								{
+									"x": 201,
+									"y": 346,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 82,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 111,
+									"y": 191,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 150,
+									"h": 229,
+									"w": 229
+								},
+								{
+									"x": 201,
+									"y": 346,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 146,
+									"h": 223,
+									"w": 223
+								},
+								{
+									"x": 195,
+									"y": 337,
+									"h": 220,
+									"w": 220
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218877609154510800,
+					"id_str": "1218877609154510849",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EOpSukZVAAE9aAf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOpSukZVAAE9aAf.jpg",
+					"url": "https://t.co/6cgvcS6FRZ",
+					"display_url": "pic.twitter.com/6cgvcS6FRZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1218877620370018305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 530,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1231,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 936,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 150,
+									"h": 229,
+									"w": 229
+								},
+								{
+									"x": 201,
+									"y": 346,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 328,
+									"y": 82,
+									"h": 126,
+									"w": 126
+								},
+								{
+									"x": 111,
+									"y": 191,
+									"h": 124,
+									"w": 124
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 595,
+									"y": 150,
+									"h": 229,
+									"w": 229
+								},
+								{
+									"x": 201,
+									"y": 346,
+									"h": 226,
+									"w": 226
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 580,
+									"y": 146,
+									"h": 223,
+									"w": 223
+								},
+								{
+									"x": 195,
+									"y": 337,
+									"h": 220,
+									"w": 220
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8122313,
+			"friends_count": 49,
+			"listed_count": 9775,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3357,
+		"favorite_count": 5980,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #TAEYEON &amp; #YERI]\n\n#태연 콘서트 'TAEYEON CONCERT – THE UNSEEN'의 마지막 공연을 응원하러 온 #RedVelvet #예리! \n3일간의 콘서트 함께해주신 여러분 모두 진심으로 감사드립니다💜\n\n#THE_UNSEEN #SMTOWN #SMmakesIT #MAKEsIT https://t.co/6cgvcS6FRZ"
+	},
+	{
+		"created_at": "Sun Jan 19 12:56:51 +0000 2020",
+		"id": 1218877196372082700,
+		"id_str": "1218879996409925634",
+		"full_text": "[📸 #TAEYEON &amp; #DOYOUNG &amp; #KEY]\n\n#태연 콘서트 'TAEYEON CONCERT – THE UNSEEN'의 마지막 공연을 응원하러 온 #NCT #도영 과 #SHINee #키 ! \n3일간의 콘서트 함께해주신 여러분 모두 진심으로 감사드립니다💜\n\n#THE_UNSEEN #SMTOWN #SMmakesIT #MAKEsIT https://t.co/X34ZWE02TB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "DOYOUNG",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "도영",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						114,
+						116
+					]
+				},
+				{
+					"text": "THE_UNSEEN",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "SMmakesIT",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "MAKEsIT",
+					"indices": [
+						187,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218877185651462100,
+					"id_str": "1218877185651462145",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EOpSV6uVUAEbVtE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOpSV6uVUAEbVtE.jpg",
+					"url": "https://t.co/X34ZWE02TB",
+					"display_url": "pic.twitter.com/X34ZWE02TB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1218877196372082688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4811011050",
+									"screen_name": "NCTsmtown",
+									"name": "NCT"
+								},
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "887973863824306176",
+									"screen_name": "SHINee",
+									"name": "SHINee"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 451,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 506,
+									"y": 1050,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 618,
+									"y": 360,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 239,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 268,
+									"y": 557,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 328,
+									"y": 191,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 379,
+									"y": 422,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 474,
+									"y": 984,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 579,
+									"y": 337,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 451,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 506,
+									"y": 1050,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 618,
+									"y": 360,
+									"h": 176,
+									"w": 176
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218877185651462100,
+					"id_str": "1218877185651462145",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EOpSV6uVUAEbVtE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOpSV6uVUAEbVtE.jpg",
+					"url": "https://t.co/X34ZWE02TB",
+					"display_url": "pic.twitter.com/X34ZWE02TB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1218877196372082688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "4811011050",
+									"screen_name": "NCTsmtown",
+									"name": "NCT"
+								},
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "887973863824306176",
+									"screen_name": "SHINee",
+									"name": "SHINee"
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 451,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 506,
+									"y": 1050,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 618,
+									"y": 360,
+									"h": 176,
+									"w": 176
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 215,
+									"y": 239,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 268,
+									"y": 557,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 328,
+									"y": 191,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 379,
+									"y": 422,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 474,
+									"y": 984,
+									"h": 107,
+									"w": 107
+								},
+								{
+									"x": 579,
+									"y": 337,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 405,
+									"y": 451,
+									"h": 132,
+									"w": 132
+								},
+								{
+									"x": 506,
+									"y": 1050,
+									"h": 115,
+									"w": 115
+								},
+								{
+									"x": 618,
+									"y": 360,
+									"h": 176,
+									"w": 176
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8122313,
+			"friends_count": 49,
+			"listed_count": 9775,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7514,
+		"favorite_count": 10542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #TAEYEON &amp; #DOYOUNG &amp; #KEY]\n\n#태연 콘서트 'TAEYEON CONCERT – THE UNSEEN'의 마지막 공연을 응원하러 온 #NCT #도영 과 #SHINee #키 ! \n3일간의 콘서트 함께해주신 여러분 모두 진심으로 감사드립니다💜\n\n#THE_UNSEEN #SMTOWN #SMmakesIT #MAKEsIT https://t.co/X34ZWE02TB"
+	},
+	{
 		"created_at": "Sun Jan 19 06:40:45 +0000 2020",
 		"id": 1218783804795441200,
 		"id_str": "1218785345669517312",
