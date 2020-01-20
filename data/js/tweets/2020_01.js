@@ -1,6 +1,1300 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 01:56:41 +0000 2020",
+		"id": 1219068227801632800,
+		"id_str": "1219076246241456130",
+		"full_text": "#믿듣탱 #태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #THE_UNSEEN https://t.co/SnUXQockEt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "믿듣탱",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "THE_UNSEEN",
+					"indices": [
+						50,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219068216867115000,
+					"id_str": "1219068216867115009",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsAFZdVUAEc9-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsAFZdVUAEc9-j.jpg",
+					"url": "https://t.co/SnUXQockEt",
+					"display_url": "pic.twitter.com/SnUXQockEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068227801632769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1950,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 391,
+									"y": 192,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 108,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 636,
+									"y": 312,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 636,
+									"y": 312,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219068216867115000,
+					"id_str": "1219068216867115009",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsAFZdVUAEc9-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsAFZdVUAEc9-j.jpg",
+					"url": "https://t.co/SnUXQockEt",
+					"display_url": "pic.twitter.com/SnUXQockEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068227801632769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1950,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 391,
+									"y": 192,
+									"h": 97,
+									"w": 97
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 108,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 636,
+									"y": 312,
+									"h": 159,
+									"w": 159
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 636,
+									"y": 312,
+									"h": 159,
+									"w": 159
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1219068219098419200,
+					"id_str": "1219068219098419200",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsAFhxUUAALww3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsAFhxUUAALww3.jpg",
+					"url": "https://t.co/SnUXQockEt",
+					"display_url": "pic.twitter.com/SnUXQockEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068227801632769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 442,
+									"y": 265,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 744,
+									"y": 273,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 588,
+									"y": 336,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 735,
+									"y": 391,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 400,
+									"y": 396,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 553,
+									"y": 332,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 930,
+									"y": 342,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 736,
+									"y": 420,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 919,
+									"y": 489,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 500,
+									"y": 496,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 150,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 421,
+									"y": 155,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 333,
+									"y": 190,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 416,
+									"y": 221,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 226,
+									"y": 224,
+									"h": 25,
+									"w": 25
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 553,
+									"y": 332,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 930,
+									"y": 342,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 736,
+									"y": 420,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 919,
+									"y": 489,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 500,
+									"y": 496,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1219068219807301600,
+					"id_str": "1219068219807301632",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsAFkaVAAAZ3hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsAFkaVAAAZ3hQ.jpg",
+					"url": "https://t.co/SnUXQockEt",
+					"display_url": "pic.twitter.com/SnUXQockEt",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068227801632769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1107,
+									"y": 49,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 697,
+									"y": 52,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 597,
+									"y": 319,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1086,
+									"y": 391,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 574,
+									"y": 512,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 663,
+									"y": 402,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1072,
+									"y": 234,
+									"h": 142,
+									"w": 142
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 501,
+									"y": 22,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 315,
+									"y": 23,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 270,
+									"y": 144,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 492,
+									"y": 177,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 260,
+									"y": 232,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 300,
+									"y": 182,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 485,
+									"y": 106,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 885,
+									"y": 39,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 557,
+									"y": 41,
+									"h": 39,
+									"w": 39
+								},
+								{
+									"x": 477,
+									"y": 255,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 868,
+									"y": 312,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 459,
+									"y": 409,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 530,
+									"y": 321,
+									"h": 56,
+									"w": 56
+								},
+								{
+									"x": 857,
+									"y": 187,
+									"h": 113,
+									"w": 113
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1107,
+									"y": 49,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 697,
+									"y": 52,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 597,
+									"y": 319,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1086,
+									"y": 391,
+									"h": 67,
+									"w": 67
+								},
+								{
+									"x": 574,
+									"y": 512,
+									"h": 70,
+									"w": 70
+								},
+								{
+									"x": 663,
+									"y": 402,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 1072,
+									"y": 234,
+									"h": 142,
+									"w": 142
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1219068210684645400,
+		"in_reply_to_status_id_str": "1219068210684645378",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3545030,
+			"friends_count": 4,
+			"listed_count": 5963,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1779,
+		"favorite_count": 2735,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#믿듣탱 #태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #THE_UNSEEN https://t.co/SnUXQockEt"
+	},
+	{
+		"created_at": "Mon Jan 20 01:45:37 +0000 2020",
+		"id": 1219068210684645400,
+		"id_str": "1219073464465854465",
+		"full_text": "‘역시 믿듣탱’ 태연, 네 번째 단독 콘서트 대성황! 독보적 디바 입증한 완벽 가창력, 강렬 퍼포먼스, 화려한 무대 연출로 1만 5천 관객을 열광시켰습니다!👸🏻💫💜\n\n#믿듣탱 #태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #THE_UNSEEN https://t.co/3IL9xEYNLl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "믿듣탱",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "Purpose",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "THE_UNSEEN",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219068168779382800,
+					"id_str": "1219068168779382784",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsACmUUwAAnWPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsACmUUwAAnWPE.jpg",
+					"url": "https://t.co/3IL9xEYNLl",
+					"display_url": "pic.twitter.com/3IL9xEYNLl",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068210684645378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 861,
+									"y": 301,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 851,
+									"y": 849,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 861,
+									"y": 301,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 851,
+									"y": 849,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 136,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 385,
+									"y": 384,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 240,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 680,
+									"y": 679,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219068168779382800,
+					"id_str": "1219068168779382784",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsACmUUwAAnWPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsACmUUwAAnWPE.jpg",
+					"url": "https://t.co/3IL9xEYNLl",
+					"display_url": "pic.twitter.com/3IL9xEYNLl",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068210684645378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 861,
+									"y": 301,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 851,
+									"y": 849,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 861,
+									"y": 301,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 851,
+									"y": 849,
+									"h": 55,
+									"w": 55
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 136,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 385,
+									"y": 384,
+									"h": 24,
+									"w": 24
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 688,
+									"y": 240,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 680,
+									"y": 679,
+									"h": 44,
+									"w": 44
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1219068169475616800,
+					"id_str": "1219068169475616769",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsACo6UcAE-6ar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsACo6UcAE-6ar.jpg",
+					"url": "https://t.co/3IL9xEYNLl",
+					"display_url": "pic.twitter.com/3IL9xEYNLl",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068210684645378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1219068169475608600,
+					"id_str": "1219068169475608579",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsACo6UUAMAdAN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsACo6UUAMAdAN.jpg",
+					"url": "https://t.co/3IL9xEYNLl",
+					"display_url": "pic.twitter.com/3IL9xEYNLl",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068210684645378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 999,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 839,
+									"y": 276,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 1042,
+									"y": 178,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 839,
+									"y": 276,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 1042,
+									"y": 178,
+									"h": 77,
+									"w": 77
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 380,
+									"y": 125,
+									"h": 23,
+									"w": 23
+								},
+								{
+									"x": 472,
+									"y": 80,
+									"h": 34,
+									"w": 34
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 671,
+									"y": 220,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 833,
+									"y": 142,
+									"h": 61,
+									"w": 61
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1219068169475616800,
+					"id_str": "1219068169475616768",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EOsACo6UcAAabv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOsACo6UcAAabv2.jpg",
+					"url": "https://t.co/3IL9xEYNLl",
+					"display_url": "pic.twitter.com/3IL9xEYNLl",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1219068210684645378/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1951,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 699,
+									"y": 489,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 243,
+									"y": 170,
+									"h": 39,
+									"w": 39
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 699,
+									"y": 489,
+									"h": 112,
+									"w": 112
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 430,
+									"y": 300,
+									"h": 68,
+									"w": 68
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3545030,
+			"friends_count": 4,
+			"listed_count": 5963,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2677,
+		"favorite_count": 4232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘역시 믿듣탱’ 태연, 네 번째 단독 콘서트 대성황! 독보적 디바 입증한 완벽 가창력, 강렬 퍼포먼스, 화려한 무대 연출로 1만 5천 관객을 열광시켰습니다!👸🏻💫💜\n\n#믿듣탱 #태연 #TAEYEON #소녀시대 #GirlsGeneration #Purpose #THE_UNSEEN https://t.co/3IL9xEYNLl"
+	},
+	{
 		"created_at": "Sun Jan 19 14:52:19 +0000 2020",
 		"id": 1218909053709144000,
 		"id_str": "1218909053709144064",
