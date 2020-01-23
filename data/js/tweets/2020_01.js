@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 06:45:38 +0000 2020",
+		"id": 1220227820061909000,
+		"id_str": "1220236128260849664",
+		"full_text": "짜잔~\n안녕드라큘라 티저가 나왔쟌나😊 \n2월17일,18일 밤 9시30분!!JTBC에서 방송됩니다~!조금만 기다려주세요🖤\n#안녕드라큘라 \n#지안나 #쟌나 보고싶쟌나 https://t.co/3MSwHkHr56",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안녕드라큘라",
+					"indices": [
+						67,
+						74
+					]
+				},
+				{
+					"text": "지안나",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "쟌나",
+					"indices": [
+						81,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3MSwHkHr56",
+					"expanded_url": "https://www.instagram.com/p/B7pst4KBk9e/?igshid=fs86999nngpr",
+					"display_url": "instagram.com/p/B7pst4KBk9e/…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1395102,
+			"friends_count": 31,
+			"listed_count": 3345,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "짜잔~\n안녕드라큘라 티저가 나왔쟌나😊 \n2월17일,18일 밤 9시30분!!JTBC에서 방송됩니다~!조금만 기다려주세요🖤\n#안녕드라큘라 \n#지안나 #쟌나 보고싶쟌나 https://t.co/3MSwHkHr56"
+	},
+	{
 		"created_at": "Thu Jan 23 05:56:38 +0000 2020",
 		"id": 1220221254818418700,
 		"id_str": "1220223795530752001",
