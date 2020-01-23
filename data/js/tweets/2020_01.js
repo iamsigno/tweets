@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 09:56:38 +0000 2020",
+		"id": 1220273863545639000,
+		"id_str": "1220284192799580161",
+		"full_text": "[📸 #YOONA &amp; #SUHO]\n\n#윤아🦌가 뮤지컬 &lt;웃는 남자&gt; '그윈플렌'역의 #수호 를 응원하러가서 함께한 순간 포착!💛\n멋짐가득 무대 위의 #면윈플렌 을 예술의전당 오페라극장에서 만나보세요!🤡\n\n#SMTOWN #엑소 #EXO #그윈플렌 #Gwynplaine #웃는남자 #TheManWhoLaughs #소녀시대 #GirlsGeneration https://t.co/CZjmytNHDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						3,
+						9
+					]
+				},
+				{
+					"text": "SUHO",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "수호",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "면윈플렌",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "그윈플렌",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "Gwynplaine",
+					"indices": [
+						147,
+						158
+					]
+				},
+				{
+					"text": "웃는남자",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "TheManWhoLaughs",
+					"indices": [
+						165,
+						181
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220273852959219700,
+					"id_str": "1220273852959219712",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EO9Imp5U4AAxhYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO9Imp5U4AAxhYE.jpg",
+					"url": "https://t.co/CZjmytNHDc",
+					"display_url": "pic.twitter.com/CZjmytNHDc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1220273863545638912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 837,
+							"h": 851,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 837,
+							"h": 851,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220273852959219700,
+					"id_str": "1220273852959219712",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EO9Imp5U4AAxhYE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO9Imp5U4AAxhYE.jpg",
+					"url": "https://t.co/CZjmytNHDc",
+					"display_url": "pic.twitter.com/CZjmytNHDc",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1220273863545638912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 837,
+							"h": 851,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 837,
+							"h": 851,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 669,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "873115441303924736",
+									"screen_name": "weareoneEXO",
+									"name": "EXO"
+								},
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8132900,
+			"friends_count": 49,
+			"listed_count": 9773,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 515,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8345,
+		"favorite_count": 12543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #YOONA &amp; #SUHO]\n\n#윤아🦌가 뮤지컬 &lt;웃는 남자&gt; '그윈플렌'역의 #수호 를 응원하러가서 함께한 순간 포착!💛\n멋짐가득 무대 위의 #면윈플렌 을 예술의전당 오페라극장에서 만나보세요!🤡\n\n#SMTOWN #엑소 #EXO #그윈플렌 #Gwynplaine #웃는남자 #TheManWhoLaughs #소녀시대 #GirlsGeneration https://t.co/CZjmytNHDc"
+	},
+	{
 		"created_at": "Thu Jan 23 06:45:38 +0000 2020",
 		"id": 1220227820061909000,
 		"id_str": "1220236128260849664",
