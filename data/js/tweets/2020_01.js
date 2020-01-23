@@ -1,6 +1,2023 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 22 23:39:39 +0000 2020",
+		"id": 1218724881489002500,
+		"id_str": "1220128924878770176",
+		"full_text": "200117~18 태연 - 하하하(LOL) @ The UNSEEN https://t.co/Ac3R4NmNm6 - @YouTube https://t.co/gsnuFtgjgq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ac3R4NmNm6",
+					"expanded_url": "https://youtu.be/1LnyEmLM-FU",
+					"display_url": "youtu.be/1LnyEmLM-FU",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218724874312487000,
+					"id_str": "1218724874312486913",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnH0OxUEAEnWJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnH0OxUEAEnWJ0.jpg",
+					"url": "https://t.co/gsnuFtgjgq",
+					"display_url": "pic.twitter.com/gsnuFtgjgq",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218724881489002496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218724874312487000,
+					"id_str": "1218724874312486913",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EOnH0OxUEAEnWJ0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOnH0OxUEAEnWJ0.jpg",
+					"url": "https://t.co/gsnuFtgjgq",
+					"display_url": "pic.twitter.com/gsnuFtgjgq",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218724881489002496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1617,
+		"favorite_count": 1712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200117~18 태연 - 하하하(LOL) @ The UNSEEN https://t.co/Ac3R4NmNm6 - @YouTube https://t.co/gsnuFtgjgq"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:36 +0000 2020",
+		"id": 1219632430979543000,
+		"id_str": "1220128912597909504",
+		"full_text": "200117~18 태연 - Night @ The UNSEEN https://t.co/dIuYkt9d9F https://t.co/d19WldiFcN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dIuYkt9d9F",
+					"expanded_url": "https://youtu.be/dqxNPntYrpg",
+					"display_url": "youtu.be/dqxNPntYrpg",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219631975721513000,
+					"id_str": "1219631975721512960",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219631975721512960/pu/img/8XKBhJwAyTog4wcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219631975721512960/pu/img/8XKBhJwAyTog4wcU.jpg",
+					"url": "https://t.co/d19WldiFcN",
+					"display_url": "pic.twitter.com/d19WldiFcN",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219632430979543040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219631975721513000,
+					"id_str": "1219631975721512960",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219631975721512960/pu/img/8XKBhJwAyTog4wcU.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219631975721512960/pu/img/8XKBhJwAyTog4wcU.jpg",
+					"url": "https://t.co/d19WldiFcN",
+					"display_url": "pic.twitter.com/d19WldiFcN",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219632430979543040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37971,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219631975721512960/pu/vid/640x360/7v9yPccJQbd18lGi.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219631975721512960/pu/vid/480x270/SlafzSjiV7jccoDc.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1219631975721512960/pu/pl/VlRSGyM7ayT55aLc.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219631975721512960/pu/vid/1280x720/Q27XtAisAIEAViyY.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1560,
+		"favorite_count": 2043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200117~18 태연 - Night @ The UNSEEN https://t.co/dIuYkt9d9F https://t.co/d19WldiFcN"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:29 +0000 2020",
+		"id": 1219629050223661000,
+		"id_str": "1220128885020356609",
+		"full_text": "200117~18 태연 - Something New @ The UNSEEN https://t.co/JDtvE5QgTk https://t.co/qqoDUyfUUz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JDtvE5QgTk",
+					"expanded_url": "https://youtu.be/pD2YgqzB6e4",
+					"display_url": "youtu.be/pD2YgqzB6e4",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219628693598769200,
+					"id_str": "1219628693598769152",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219628693598769152/pu/img/sltIGBwXafKstBlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219628693598769152/pu/img/sltIGBwXafKstBlQ.jpg",
+					"url": "https://t.co/qqoDUyfUUz",
+					"display_url": "pic.twitter.com/qqoDUyfUUz",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219629050223661057/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219628693598769200,
+					"id_str": "1219628693598769152",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219628693598769152/pu/img/sltIGBwXafKstBlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219628693598769152/pu/img/sltIGBwXafKstBlQ.jpg",
+					"url": "https://t.co/qqoDUyfUUz",
+					"display_url": "pic.twitter.com/qqoDUyfUUz",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219629050223661057/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32065,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219628693598769152/pu/vid/640x360/Ae9xqakPR6lGz0MV.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219628693598769152/pu/vid/1280x720/s-7BUQRAGjXY8a3C.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1219628693598769152/pu/pl/8A28rsnLCYopHxSn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219628693598769152/pu/vid/480x270/3acHabJ_szFtLx8M.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1975,
+		"favorite_count": 2705,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "200117~18 태연 - Something New @ The UNSEEN https://t.co/JDtvE5QgTk https://t.co/qqoDUyfUUz"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:27 +0000 2020",
+		"id": 1219125449307017200,
+		"id_str": "1220128874706587649",
+		"full_text": "@YouTube https://t.co/AwV0BT2Kb6",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219125383909404700,
+					"id_str": "1219125383909404673",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EOs0E9SU8AEs256.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOs0E9SU8AEs256.jpg",
+					"url": "https://t.co/AwV0BT2Kb6",
+					"display_url": "pic.twitter.com/AwV0BT2Kb6",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219125449307017217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 706,
+									"y": 150,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 1177,
+									"y": 765,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 706,
+									"y": 150,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 1177,
+									"y": 765,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 93,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 735,
+									"y": 478,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 53,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 416,
+									"y": 270,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219125383909404700,
+					"id_str": "1219125383909404673",
+					"indices": [
+						9,
+						32
+					],
+					"media_url": "http://pbs.twimg.com/media/EOs0E9SU8AEs256.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOs0E9SU8AEs256.jpg",
+					"url": "https://t.co/AwV0BT2Kb6",
+					"display_url": "pic.twitter.com/AwV0BT2Kb6",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219125449307017217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 706,
+									"y": 150,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 1177,
+									"y": 765,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 706,
+									"y": 150,
+									"h": 123,
+									"w": 123
+								},
+								{
+									"x": 1177,
+									"y": 765,
+									"h": 150,
+									"w": 150
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 441,
+									"y": 93,
+									"h": 76,
+									"w": 76
+								},
+								{
+									"x": 735,
+									"y": 478,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 53,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 416,
+									"y": 270,
+									"h": 53,
+									"w": 53
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1219125172625531000,
+		"in_reply_to_status_id_str": "1219125172625530880",
+		"in_reply_to_user_id": 706826422518566900,
+		"in_reply_to_user_id_str": "706826422518566912",
+		"in_reply_to_screen_name": "BAEKSSUEL",
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 457,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@YouTube https://t.co/AwV0BT2Kb6"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:20 +0000 2020",
+		"id": 1219125172625531000,
+		"id_str": "1220128844792745985",
+		"full_text": "200118 태연 - I @ The UNSEEN https://t.co/r4NH86Hsni @YouTube 님이 공유 https://t.co/9Kn6KWLQGz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/r4NH86Hsni",
+					"expanded_url": "https://youtu.be/lFKu2uqMCE4",
+					"display_url": "youtu.be/lFKu2uqMCE4",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219124829485355000,
+					"id_str": "1219124829485355009",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219124829485355009/pu/img/DooyX36lGaNfc_T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219124829485355009/pu/img/DooyX36lGaNfc_T_.jpg",
+					"url": "https://t.co/9Kn6KWLQGz",
+					"display_url": "pic.twitter.com/9Kn6KWLQGz",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219125172625530880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219124829485355000,
+					"id_str": "1219124829485355009",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219124829485355009/pu/img/DooyX36lGaNfc_T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219124829485355009/pu/img/DooyX36lGaNfc_T_.jpg",
+					"url": "https://t.co/9Kn6KWLQGz",
+					"display_url": "pic.twitter.com/9Kn6KWLQGz",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1219125172625530880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26126,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219124829485355009/pu/vid/640x360/jnQRUbayrmr-X5WU.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219124829485355009/pu/vid/1280x720/t8W6U_0_Q0cGGMs1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1219124829485355009/pu/pl/KW64fdWOOOHRJMaD.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1219124829485355009/pu/vid/480x270/OgpgUZGxmv95byAy.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1111,
+		"favorite_count": 1518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200118 태연 - I @ The UNSEEN https://t.co/r4NH86Hsni @YouTube 님이 공유 https://t.co/9Kn6KWLQGz"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:17 +0000 2020",
+		"id": 1218869785884119000,
+		"id_str": "1220128832079876096",
+		"full_text": "200117~18 태연 - I GOT LOVE @ The UNSEEN https://t.co/lpTtanh35o - @YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lpTtanh35o",
+					"expanded_url": "https://youtu.be/8tfypn24RQU",
+					"display_url": "youtu.be/8tfypn24RQU",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 663,
+		"favorite_count": 624,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200117~18 태연 - I GOT LOVE @ The UNSEEN https://t.co/lpTtanh35o - @YouTube"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:15 +0000 2020",
+		"id": 1218558093476257800,
+		"id_str": "1220128823909347328",
+		"full_text": "200118 태연 - TIME LAPSE @ The UNSEEN https://t.co/leUXu1V41o @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						60,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/leUXu1V41o",
+					"expanded_url": "https://youtu.be/_82Xm2Tik9I",
+					"display_url": "youtu.be/_82Xm2Tik9I",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 894,
+		"favorite_count": 908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200118 태연 - TIME LAPSE @ The UNSEEN https://t.co/leUXu1V41o @YouTube 님이 공유"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:13 +0000 2020",
+		"id": 1218546539213115400,
+		"id_str": "1220128817529753600",
+		"full_text": "200118 태연 - INTO THE UNKNOWN @ The UNSEEN https://t.co/zfdsN4bxL6 @YouTube 님이 공유",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YouTube",
+					"name": "YouTube",
+					"id": 10228272,
+					"id_str": "10228272",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zfdsN4bxL6",
+					"expanded_url": "https://youtu.be/BYkKd2wqho8",
+					"display_url": "youtu.be/BYkKd2wqho8",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 844,
+		"favorite_count": 837,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200118 태연 - INTO THE UNKNOWN @ The UNSEEN https://t.co/zfdsN4bxL6 @YouTube 님이 공유"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:04 +0000 2020",
+		"id": 1218519417480339500,
+		"id_str": "1220128780468903936",
+		"full_text": "200118 오늘의 LOL #태연 #TAEYEON https://t.co/3XlgSPd1vl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218519153184661500,
+					"id_str": "1218519153184661506",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218519153184661506/pu/img/Iw7OxZaaGPuIrMpv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218519153184661506/pu/img/Iw7OxZaaGPuIrMpv.jpg",
+					"url": "https://t.co/3XlgSPd1vl",
+					"display_url": "pic.twitter.com/3XlgSPd1vl",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218519417480339461/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218519153184661500,
+					"id_str": "1218519153184661506",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218519153184661506/pu/img/Iw7OxZaaGPuIrMpv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218519153184661506/pu/img/Iw7OxZaaGPuIrMpv.jpg",
+					"url": "https://t.co/3XlgSPd1vl",
+					"display_url": "pic.twitter.com/3XlgSPd1vl",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218519417480339461/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 70521,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218519153184661506/pu/vid/480x480/iJPCPfC8cjriLroh.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218519153184661506/pu/vid/720x720/54Piik_nF5pjQpHr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218519153184661506/pu/pl/Dd1jYqJdw9tB2xMW.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218519153184661506/pu/vid/320x320/nUxE5J5YnwBP9Wpv.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3985,
+		"favorite_count": 4068,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200118 오늘의 LOL #태연 #TAEYEON https://t.co/3XlgSPd1vl"
+	},
+	{
+		"created_at": "Wed Jan 22 23:39:02 +0000 2020",
+		"id": 1218505925356474400,
+		"id_str": "1220128771551838208",
+		"full_text": "200118 킹갓럽 #태연 #TAEYEON https://t.co/HZRYo1K4eu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218505669206130700,
+					"id_str": "1218505669206130688",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218505669206130688/pu/img/ZwwgWxo1YPHXv-cN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218505669206130688/pu/img/ZwwgWxo1YPHXv-cN.jpg",
+					"url": "https://t.co/HZRYo1K4eu",
+					"display_url": "pic.twitter.com/HZRYo1K4eu",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218505925356474368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218505669206130700,
+					"id_str": "1218505669206130688",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1218505669206130688/pu/img/ZwwgWxo1YPHXv-cN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1218505669206130688/pu/img/ZwwgWxo1YPHXv-cN.jpg",
+					"url": "https://t.co/HZRYo1K4eu",
+					"display_url": "pic.twitter.com/HZRYo1K4eu",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1218505925356474368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 71595,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218505669206130688/pu/vid/480x480/8iJTmER9RD5ZtCIT.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218505669206130688/pu/vid/720x720/Z4SV8AaMyw9f86WD.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1218505669206130688/pu/pl/lBAG9CBVZ3hifYUZ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1218505669206130688/pu/vid/320x320/hSs8HqpwOZv68_ja.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38052,
+			"friends_count": 1,
+			"listed_count": 1012,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2590,
+		"favorite_count": 2607,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200118 킹갓럽 #태연 #TAEYEON https://t.co/HZRYo1K4eu"
+	},
+	{
 		"created_at": "Wed Jan 22 11:45:37 +0000 2020",
 		"id": 1219938052950220800,
 		"id_str": "1219949234704846848",
