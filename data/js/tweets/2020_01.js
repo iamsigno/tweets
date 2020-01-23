@@ -1,6 +1,842 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 03:58:23 +0000 2020",
+		"id": 1220194038743294000,
+		"id_str": "1220194038743293954",
+		"full_text": "#GirlsGeneration #소녀시대\nDear Me, From TAEYEON💌 | 태연이 전해드립니다...\nhttps://t.co/gq0eA2sWfU\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gq0eA2sWfU",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3059989644020980",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\nDear Me, From TAEYEON💌 | 태연이 전해드립니다...\nhttps://t.co/gq0eA2sWfU\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Thu Jan 23 03:58:23 +0000 2020",
+		"id": 1220194037069766700,
+		"id_str": "1220194037069766657",
+		"full_text": "#GirlsGeneration #소녀시대\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 16 불티...\nhttps://t.co/aYikzL5Equ\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aYikzL5Equ",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3059985814021363",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 16 불티...\nhttps://t.co/aYikzL5Equ\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Thu Jan 23 03:56:38 +0000 2020",
+		"id": 1220179674266919000,
+		"id_str": "1220193596265111552",
+		"full_text": "[V ORIGINAL] 탱장금이 LA에서 만든게 한식 뿐만이 아니다⁉️😮 넥타이까지 멋있게 차려입은 울 제로를 위해😍 사랑이 가득 담긴 마성의 스튜까지 보글보글 완성했다구요🥘 지금 바로 탱구&amp;제로 남매의 LA 저녁파티와 함께해요🎊\n\n▶ https://t.co/mYv9Lp8W9p\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						185,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mYv9Lp8W9p",
+					"expanded_url": "https://www.vlive.tv/video/170872/playlist/157709",
+					"display_url": "vlive.tv/video/170872/p…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3514067,
+			"friends_count": 169,
+			"listed_count": 1931,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 645,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 탱장금이 LA에서 만든게 한식 뿐만이 아니다⁉️😮 넥타이까지 멋있게 차려입은 울 제로를 위해😍 사랑이 가득 담긴 마성의 스튜까지 보글보글 완성했다구요🥘 지금 바로 탱구&amp;제로 남매의 LA 저녁파티와 함께해요🎊\n\n▶ https://t.co/mYv9Lp8W9p\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Jan 23 03:45:45 +0000 2020",
+		"id": 1220187209849901000,
+		"id_str": "1220190860710744065",
+		"full_text": "Dear Me, From TAEYEON💌 | 태연이 전해드립니다\n\n👉🏻https://t.co/HUccLpxRqd\n\n#태연 #믿듣탱 #내게_들려주고_싶은_말 #Dear_Me_From_TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "내게_들려주고_싶은_말",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"text": "Dear_Me_From_TAEYEON",
+					"indices": [
+						87,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HUccLpxRqd",
+					"expanded_url": "https://youtu.be/mKXUUzEMtV8",
+					"display_url": "youtu.be/mKXUUzEMtV8",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546872,
+			"friends_count": 4,
+			"listed_count": 5972,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1011,
+		"favorite_count": 1680,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Dear Me, From TAEYEON💌 | 태연이 전해드립니다\n\n👉🏻https://t.co/HUccLpxRqd\n\n#태연 #믿듣탱 #내게_들려주고_싶은_말 #Dear_Me_From_TAEYEON"
+	},
+	{
+		"created_at": "Thu Jan 23 03:45:37 +0000 2020",
+		"id": 1220186335178178600,
+		"id_str": "1220190826623533058",
+		"full_text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 16  불티 (Spark) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV) \n\n👉🏻https://t.co/vuPYKLk8nB\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						135,
+						151
+					]
+				},
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						152,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vuPYKLk8nB",
+					"expanded_url": "http://naver.me/GqOFTSRT",
+					"display_url": "naver.me/GqOFTSRT",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3546872,
+			"friends_count": 4,
+			"listed_count": 5972,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 650,
+		"favorite_count": 1309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 16  불티 (Spark) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV) \n\n👉🏻https://t.co/vuPYKLk8nB\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구"
+	},
+	{
+		"created_at": "Thu Jan 23 03:32:24 +0000 2020",
+		"id": 1220187499345121300,
+		"id_str": "1220187499345121282",
+		"full_text": "#TAEYEON #태연\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 16 불티 (Spark)\nhttps://t.co/T55RK0kBiW\n#펫셔니스타탱구 #펫셔니스타 #탱구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "펫셔니스타",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						101,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T55RK0kBiW",
+					"expanded_url": "http://www.vlive.tv/video/170872",
+					"display_url": "vlive.tv/video/170872",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 543,
+			"friends_count": 490,
+			"listed_count": 7,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#TAEYEON #태연\n[펫셔니스타 탱구┃Petionista Taengoo] EP. 16 불티 (Spark)\nhttps://t.co/T55RK0kBiW\n#펫셔니스타탱구 #펫셔니스타 #탱구"
+	},
+	{
 		"created_at": "Thu Jan 23 02:45:37 +0000 2020",
 		"id": 1220167756370391000,
 		"id_str": "1220175727338889217",
