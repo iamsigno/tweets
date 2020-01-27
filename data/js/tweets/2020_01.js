@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 02:44:56 +0000 2020",
+		"id": 1221613553745985500,
+		"id_str": "1221625107547938818",
+		"full_text": "ill never forget this https://t.co/5OEu9MheRS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5OEu9MheRS",
+					"expanded_url": "https://twitter.com/its_all_abt_tif/status/1221447386171502598",
+					"display_url": "twitter.com/its_all_abt_ti…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 337843,
+			"friends_count": 176,
+			"listed_count": 1003,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221447386171502600,
+		"quoted_status_id_str": "1221447386171502598",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5OEu9MheRS",
+			"expanded": "https://twitter.com/its_all_abt_tif/status/1221447386171502598",
+			"display": "twitter.com/its_all_abt_ti…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 26 14:58:44 +0000 2020",
+			"id": 1221447386171502600,
+			"id_str": "1221447386171502598",
+			"full_text": "this is so satisfying to watch 😭😍\n\n@tiffanyyoung #TiffanyYoung #TiffanyYoungInMNL \nhttps://t.co/Dg5OAKzO6x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TiffanyYoung",
+						"indices": [
+							49,
+							62
+						]
+					},
+					{
+						"text": "TiffanyYoungInMNL",
+						"indices": [
+							63,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tiffanyyoung",
+						"name": "TIFFANY YOUNG",
+						"id": 971130819518476300,
+						"id_str": "971130819518476289",
+						"indices": [
+							35,
+							48
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1221423101910700000,
+						"id_str": "1221423101910700032",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221423101910700032/pu/img/CD9mzwwZATVS7L-0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221423101910700032/pu/img/CD9mzwwZATVS7L-0.jpg",
+						"url": "https://t.co/Dg5OAKzO6x",
+						"display_url": "pic.twitter.com/Dg5OAKzO6x",
+						"expanded_url": "https://twitter.com/ChinguWorld/status/1221424526698917889/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1221424526698918000,
+						"source_status_id_str": "1221424526698917889",
+						"source_user_id": 1088408992794079200,
+						"source_user_id_str": "1088408992794079232",
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221423101910700000,
+						"id_str": "1221423101910700032",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221423101910700032/pu/img/CD9mzwwZATVS7L-0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221423101910700032/pu/img/CD9mzwwZATVS7L-0.jpg",
+						"url": "https://t.co/Dg5OAKzO6x",
+						"display_url": "pic.twitter.com/Dg5OAKzO6x",
+						"expanded_url": "https://twitter.com/ChinguWorld/status/1221424526698917889/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1221424526698918000,
+						"source_status_id_str": "1221424526698917889",
+						"source_user_id": 1088408992794079200,
+						"source_user_id_str": "1088408992794079232",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 17012,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1221423101910700032/pu/vid/1280x720/8qGs-yavri1MdylZ.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1221423101910700032/pu/pl/dkHTotIgfO6wNHpe.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1221423101910700032/pu/vid/480x270/briE3Z4YrPXopmmt.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1221423101910700032/pu/vid/640x360/Wl0YDZZOuCXj8VCy.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1088408992794079200,
+								"id_str": "1088408992794079232",
+								"name": "Kdrama and kpop updates",
+								"screen_name": "ChinguWorld",
+								"location": "National Capital Region, Republic of the Philippines",
+								"description": "Get first dibs on all kpop and kdrama news here. Follow us for updates and leads and step up your fan journey",
+								"url": "https://t.co/ugV45TUTGd",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/ugV45TUTGd",
+												"expanded_url": "http://www.chingutotheworld.com",
+												"display_url": "chingutotheworld.com",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 2501,
+								"friends_count": 189,
+								"listed_count": 0,
+								"created_at": "Thu Jan 24 12:11:40 +0000 2019",
+								"favourites_count": 390,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 2515,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1088409177829957632/fvtSWle4_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088409177829957632/fvtSWle4_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088408992794079232/1579861572",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"can_media_tag": false,
+								"followed_by": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859549669776437200,
+				"id_str": "859549669776437249",
+				"name": "Mumshiee тιƒƒαηу",
+				"screen_name": "its_all_abt_tif",
+				"location": "",
+				"description": "I LOVE TIFFANY YOUNG 😍 and KIM TAEHYUNG 😍",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 826,
+				"friends_count": 211,
+				"listed_count": 1,
+				"created_at": "Tue May 02 23:26:25 +0000 2017",
+				"favourites_count": 42098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54046,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1220305295420710912/ZuFNXotu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220305295420710912/ZuFNXotu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859549669776437249/1572187504",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 312,
+			"favorite_count": 1075,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1633,
+		"favorite_count": 4139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "ill never forget this https://t.co/5OEu9MheRS"
+	},
+	{
 		"created_at": "Mon Jan 27 01:44:59 +0000 2020",
 		"id": 1221604521933099000,
 		"id_str": "1221610020032348166",
