@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 01:44:59 +0000 2020",
+		"id": 1221604521933099000,
+		"id_str": "1221610020032348166",
+		"full_text": "my heart 😢❤️ #GG4EVA  thank you for this https://t.co/acy7X0O9Jv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GG4EVA",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221604502144352300,
+					"id_str": "1221604502144352257",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQC0oZVAAExxdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQC0oZVAAExxdW.jpg",
+					"url": "https://t.co/acy7X0O9Jv",
+					"display_url": "pic.twitter.com/acy7X0O9Jv",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1221604521933099008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 953,
+									"y": 1125,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1145,
+									"y": 1155,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 399,
+									"y": 1383,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 439,
+									"y": 1173,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 1195,
+									"y": 1361,
+									"h": 139,
+									"w": 139
+								},
+								{
+									"x": 661,
+									"y": 1369,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 1437,
+									"y": 1361,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 667,
+									"y": 1251,
+									"h": 257,
+									"w": 257
+								},
+								{
+									"x": 151,
+									"y": 337,
+									"h": 283,
+									"w": 283
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1408,
+									"y": 1662,
+									"h": 141,
+									"w": 141
+								},
+								{
+									"x": 1692,
+									"y": 1706,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 590,
+									"y": 2043,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 649,
+									"y": 1733,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1765,
+									"y": 2011,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 977,
+									"y": 2022,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 2123,
+									"y": 2011,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 986,
+									"y": 1848,
+									"h": 380,
+									"w": 380
+								},
+								{
+									"x": 224,
+									"y": 499,
+									"h": 419,
+									"w": 419
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 316,
+									"y": 373,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 380,
+									"y": 383,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 132,
+									"y": 459,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 145,
+									"y": 389,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 396,
+									"y": 452,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 219,
+									"y": 454,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 477,
+									"y": 452,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 221,
+									"y": 415,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 50,
+									"y": 112,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 558,
+									"y": 659,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 671,
+									"y": 676,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 234,
+									"y": 810,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 257,
+									"y": 687,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 700,
+									"y": 798,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 387,
+									"y": 802,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 842,
+									"y": 798,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 391,
+									"y": 733,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 88,
+									"y": 198,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221604502144352300,
+					"id_str": "1221604502144352257",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQC0oZVAAExxdW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQC0oZVAAExxdW.jpg",
+					"url": "https://t.co/acy7X0O9Jv",
+					"display_url": "pic.twitter.com/acy7X0O9Jv",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1221604521933099008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 953,
+									"y": 1125,
+									"h": 95,
+									"w": 95
+								},
+								{
+									"x": 1145,
+									"y": 1155,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 399,
+									"y": 1383,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 439,
+									"y": 1173,
+									"h": 129,
+									"w": 129
+								},
+								{
+									"x": 1195,
+									"y": 1361,
+									"h": 139,
+									"w": 139
+								},
+								{
+									"x": 661,
+									"y": 1369,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 1437,
+									"y": 1361,
+									"h": 143,
+									"w": 143
+								},
+								{
+									"x": 667,
+									"y": 1251,
+									"h": 257,
+									"w": 257
+								},
+								{
+									"x": 151,
+									"y": 337,
+									"h": 283,
+									"w": 283
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1408,
+									"y": 1662,
+									"h": 141,
+									"w": 141
+								},
+								{
+									"x": 1692,
+									"y": 1706,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 590,
+									"y": 2043,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 649,
+									"y": 1733,
+									"h": 191,
+									"w": 191
+								},
+								{
+									"x": 1765,
+									"y": 2011,
+									"h": 206,
+									"w": 206
+								},
+								{
+									"x": 977,
+									"y": 2022,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 2123,
+									"y": 2011,
+									"h": 212,
+									"w": 212
+								},
+								{
+									"x": 986,
+									"y": 1848,
+									"h": 380,
+									"w": 380
+								},
+								{
+									"x": 224,
+									"y": 499,
+									"h": 419,
+									"w": 419
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 316,
+									"y": 373,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 380,
+									"y": 383,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 132,
+									"y": 459,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 145,
+									"y": 389,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 396,
+									"y": 452,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 219,
+									"y": 454,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 477,
+									"y": 452,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 221,
+									"y": 415,
+									"h": 85,
+									"w": 85
+								},
+								{
+									"x": 50,
+									"y": 112,
+									"h": 94,
+									"w": 94
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 558,
+									"y": 659,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 671,
+									"y": 676,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 234,
+									"y": 810,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 257,
+									"y": 687,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 700,
+									"y": 798,
+									"h": 81,
+									"w": 81
+								},
+								{
+									"x": 387,
+									"y": 802,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 842,
+									"y": 798,
+									"h": 84,
+									"w": 84
+								},
+								{
+									"x": 391,
+									"y": 733,
+									"h": 150,
+									"w": 150
+								},
+								{
+									"x": 88,
+									"y": 198,
+									"h": 166,
+									"w": 166
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 337797,
+			"friends_count": 176,
+			"listed_count": 1002,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4632,
+		"favorite_count": 7945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "my heart 😢❤️ #GG4EVA  thank you for this https://t.co/acy7X0O9Jv"
+	},
+	{
 		"created_at": "Mon Jan 27 00:44:56 +0000 2020",
 		"id": 1221586574657446000,
 		"id_str": "1221594907762208768",
