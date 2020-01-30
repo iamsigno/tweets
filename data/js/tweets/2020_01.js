@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 03:56:43 +0000 2020",
+		"id": 1222717947921064000,
+		"id_str": "1222730331989651458",
+		"full_text": "[V ORIGINAL] 오늘의 펫셔니스타 탱구도 아주 스페-셜한 게스트들과 함께합니다‼️🔥 탱구가 손수 준비한 단체복도 맞춰 입고 재밌는 게임까지 펼쳐졌다구요🥳💖 탱구와 제로의 좌충우돌 단합대회.. 안 만나 볼 수 없겠죠⁉️🐶❣️\n\n▶ https://t.co/H5NEtC5z4z\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "VORIGINAL",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						181,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H5NEtC5z4z",
+					"expanded_url": "https://www.vlive.tv/video/172326/playlist/157709",
+					"display_url": "vlive.tv/video/172326/p…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3539466,
+			"friends_count": 169,
+			"listed_count": 1934,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 466,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 오늘의 펫셔니스타 탱구도 아주 스페-셜한 게스트들과 함께합니다‼️🔥 탱구가 손수 준비한 단체복도 맞춰 입고 재밌는 게임까지 펼쳐졌다구요🥳💖 탱구와 제로의 좌충우돌 단합대회.. 안 만나 볼 수 없겠죠⁉️🐶❣️\n\n▶ https://t.co/H5NEtC5z4z\n\n#펫셔니스타탱구 #태연 #VORIGINAL #VLIVE"
+	},
+	{
+		"created_at": "Thu Jan 30 03:44:57 +0000 2020",
+		"id": 1222716569366618000,
+		"id_str": "1222727371838644225",
+		"full_text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 18  우리 함께 (Adrenaline) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV)\n\n👉🏻https://t.co/0Wv9uPBZQR\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						142,
+						158
+					]
+				},
+				{
+					"text": "펫셔니스타탱구",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Wv9uPBZQR",
+					"expanded_url": "http://naver.me/FR75lDlV",
+					"display_url": "naver.me/FR75lDlV",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3549625,
+			"friends_count": 4,
+			"listed_count": 5972,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035111738041982977/z1sKPIX-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1579096765",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 744,
+		"favorite_count": 1589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[펫셔니스타 탱구┃Petionista Taengoo]  EP. 18  우리 함께 (Adrenaline) (출처 : 펫셔니스타 탱구 - SM CCC LAB | 네이버TV)\n\n👉🏻https://t.co/0Wv9uPBZQR\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #펫셔니스타탱구"
+	},
+	{
 		"created_at": "Thu Jan 30 02:56:37 +0000 2020",
 		"id": 1222706588504318000,
 		"id_str": "1222715210642984962",
