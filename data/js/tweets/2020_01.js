@@ -1,6 +1,991 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 15:56:38 +0000 2020",
+		"id": 1222900179168219100,
+		"id_str": "1222911505164898304",
+		"full_text": "[📸 #SUPERJUNIOR &amp; #TAEYEON &amp; #RedVelvet &amp; #NCTDREAM]\n\nSUPER JUNIOR, TAEYEON, Red Velvet and NCT DREAM!👏 Congratulations!\n\n#슈퍼주니어 @SJofficial #태연 #소녀시대 #GirlsGeneration @GirlsGeneration #레드벨벳 @RVsmtown #NCT @NCTsmtown_DREAM @NCTsmtown #SMTOWN https://t.co/7ZZYzIkUkO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						163,
+						179
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						213,
+						217
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						246,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SJofficial",
+					"name": "SUPER JUNIOR",
+					"id": 965487301722701800,
+					"id_str": "965487301722701826",
+					"indices": [
+						141,
+						152
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						203,
+						212
+					]
+				},
+				{
+					"screen_name": "NCTsmtown_DREAM",
+					"name": "NCT DREAM",
+					"id": 870188817537355800,
+					"id_str": "870188817537355776",
+					"indices": [
+						218,
+						234
+					]
+				},
+				{
+					"screen_name": "NCTsmtown",
+					"name": "NCT",
+					"id": 4811011050,
+					"id_str": "4811011050",
+					"indices": [
+						235,
+						245
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222900164987211800,
+					"id_str": "1222900164987211777",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EPidOInUUAE3QrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPidOInUUAE3QrN.jpg",
+					"url": "https://t.co/7ZZYzIkUkO",
+					"display_url": "pic.twitter.com/7ZZYzIkUkO",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1222900179168219137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 992,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "965487301722701826",
+									"screen_name": "SJofficial",
+									"name": "SUPER JUNIOR"
+								},
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								},
+								{
+									"type": "user",
+									"user_id": "870188817537355776",
+									"screen_name": "NCTsmtown_DREAM",
+									"name": "NCT DREAM"
+								},
+								{
+									"type": "user",
+									"user_id": "4811011050",
+									"screen_name": "NCTsmtown",
+									"name": "NCT"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 76,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 431,
+									"y": 79,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 98,
+									"y": 35,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 567,
+									"y": 42,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 284,
+									"y": 73,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 235,
+									"y": 79,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 322,
+									"y": 220,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 505,
+									"y": 205,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 258,
+									"y": 218,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 403,
+									"y": 200,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 29,
+									"y": 203,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 128,
+									"y": 233,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 631,
+									"y": 134,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 761,
+									"y": 139,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 174,
+									"y": 62,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 1001,
+									"y": 75,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 501,
+									"y": 128,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 416,
+									"y": 139,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 569,
+									"y": 389,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 891,
+									"y": 363,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 457,
+									"y": 385,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 711,
+									"y": 353,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 51,
+									"y": 358,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 227,
+									"y": 411,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 230,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 1300,
+									"y": 238,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 298,
+									"y": 106,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1710,
+									"y": 128,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 856,
+									"y": 220,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 710,
+									"y": 238,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 972,
+									"y": 664,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 1522,
+									"y": 620,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 780,
+									"y": 658,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 1214,
+									"y": 604,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 88,
+									"y": 612,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 388,
+									"y": 702,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 230,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 1300,
+									"y": 238,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 298,
+									"y": 106,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1710,
+									"y": 128,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 856,
+									"y": 220,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 710,
+									"y": 238,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 972,
+									"y": 664,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 1522,
+									"y": 620,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 780,
+									"y": 658,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 1214,
+									"y": 604,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 88,
+									"y": 612,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 388,
+									"y": 702,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222900164987211800,
+					"id_str": "1222900164987211777",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EPidOInUUAE3QrN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPidOInUUAE3QrN.jpg",
+					"url": "https://t.co/7ZZYzIkUkO",
+					"display_url": "pic.twitter.com/7ZZYzIkUkO",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1222900179168219137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 581,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 992,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "965487301722701826",
+									"screen_name": "SJofficial",
+									"name": "SUPER JUNIOR"
+								},
+								{
+									"type": "user",
+									"user_id": "391115625",
+									"screen_name": "GirlsGeneration",
+									"name": "Girls' Generation"
+								},
+								{
+									"type": "user",
+									"user_id": "873092428755894272",
+									"screen_name": "RVsmtown",
+									"name": "Red Velvet"
+								},
+								{
+									"type": "user",
+									"user_id": "870188817537355776",
+									"screen_name": "NCTsmtown_DREAM",
+									"name": "NCT DREAM"
+								},
+								{
+									"type": "user",
+									"user_id": "4811011050",
+									"screen_name": "NCTsmtown",
+									"name": "NCT"
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 357,
+									"y": 76,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 431,
+									"y": 79,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 98,
+									"y": 35,
+									"h": 37,
+									"w": 37
+								},
+								{
+									"x": 567,
+									"y": 42,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 284,
+									"y": 73,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 235,
+									"y": 79,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 322,
+									"y": 220,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 505,
+									"y": 205,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 258,
+									"y": 218,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 403,
+									"y": 200,
+									"h": 50,
+									"w": 50
+								},
+								{
+									"x": 29,
+									"y": 203,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 128,
+									"y": 233,
+									"h": 50,
+									"w": 50
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 631,
+									"y": 134,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 761,
+									"y": 139,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 174,
+									"y": 62,
+									"h": 66,
+									"w": 66
+								},
+								{
+									"x": 1001,
+									"y": 75,
+									"h": 64,
+									"w": 64
+								},
+								{
+									"x": 501,
+									"y": 128,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 416,
+									"y": 139,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 569,
+									"y": 389,
+									"h": 79,
+									"w": 79
+								},
+								{
+									"x": 891,
+									"y": 363,
+									"h": 78,
+									"w": 78
+								},
+								{
+									"x": 457,
+									"y": 385,
+									"h": 75,
+									"w": 75
+								},
+								{
+									"x": 711,
+									"y": 353,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 51,
+									"y": 358,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 227,
+									"y": 411,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 230,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 1300,
+									"y": 238,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 298,
+									"y": 106,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1710,
+									"y": 128,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 856,
+									"y": 220,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 710,
+									"y": 238,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 972,
+									"y": 664,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 1522,
+									"y": 620,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 780,
+									"y": 658,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 1214,
+									"y": 604,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 88,
+									"y": 612,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 388,
+									"y": 702,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1078,
+									"y": 230,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 1300,
+									"y": 238,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 298,
+									"y": 106,
+									"h": 114,
+									"w": 114
+								},
+								{
+									"x": 1710,
+									"y": 128,
+									"h": 110,
+									"w": 110
+								},
+								{
+									"x": 856,
+									"y": 220,
+									"h": 104,
+									"w": 104
+								},
+								{
+									"x": 710,
+									"y": 238,
+									"h": 98,
+									"w": 98
+								},
+								{
+									"x": 972,
+									"y": 664,
+									"h": 136,
+									"w": 136
+								},
+								{
+									"x": 1522,
+									"y": 620,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 780,
+									"y": 658,
+									"h": 128,
+									"w": 128
+								},
+								{
+									"x": 1214,
+									"y": 604,
+									"h": 152,
+									"w": 152
+								},
+								{
+									"x": 88,
+									"y": 612,
+									"h": 148,
+									"w": 148
+								},
+								{
+									"x": 388,
+									"y": 702,
+									"h": 152,
+									"w": 152
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8134417,
+			"friends_count": 49,
+			"listed_count": 9794,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 525,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7026,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16589,
+		"favorite_count": 19284,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "[📸 #SUPERJUNIOR &amp; #TAEYEON &amp; #RedVelvet &amp; #NCTDREAM]\n\nSUPER JUNIOR, TAEYEON, Red Velvet and NCT DREAM!👏 Congratulations!\n\n#슈퍼주니어 @SJofficial #태연 #소녀시대 #GirlsGeneration @GirlsGeneration #레드벨벳 @RVsmtown #NCT @NCTsmtown_DREAM @NCTsmtown #SMTOWN https://t.co/7ZZYzIkUkO"
+	},
+	{
 		"created_at": "Thu Jan 30 14:44:57 +0000 2020",
 		"id": 1222890105372758000,
 		"id_str": "1222893467547815942",
