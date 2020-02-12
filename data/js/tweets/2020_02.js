@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 12 10:53:33 +0000 2020",
+		"id": 1227228202768068600,
+		"id_str": "1227546277153345536",
+		"full_text": "저녁의 이유 🌇\nfrom. ‘s\n\n📺 full; https://t.co/d5CZ3uQozC\n\n#쓱콘의추억 https://t.co/cMru8Tarc6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쓱콘의추억",
+					"indices": [
+						52,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d5CZ3uQozC",
+					"expanded_url": "http://youtu.be/vGk9pYdQjFk",
+					"display_url": "youtu.be/vGk9pYdQjFk",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227227973788393500,
+					"id_str": "1227227973788393472",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227227973788393472/pu/img/grqJQ8NU7om3O-fb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227227973788393472/pu/img/grqJQ8NU7om3O-fb.jpg",
+					"url": "https://t.co/cMru8Tarc6",
+					"display_url": "pic.twitter.com/cMru8Tarc6",
+					"expanded_url": "https://twitter.com/flying_petals/status/1227228202768068608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227227973788393500,
+					"id_str": "1227227973788393472",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227227973788393472/pu/img/grqJQ8NU7om3O-fb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227227973788393472/pu/img/grqJQ8NU7om3O-fb.jpg",
+					"url": "https://t.co/cMru8Tarc6",
+					"display_url": "pic.twitter.com/cMru8Tarc6",
+					"expanded_url": "https://twitter.com/flying_petals/status/1227228202768068608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 56299,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227227973788393472/pu/pl/0TNV_7xO9TixaUxR.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227227973788393472/pu/vid/480x270/Quq_B9CeAUQkhQtY.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227227973788393472/pu/vid/640x360/5xebm-r0FpszuPQ8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227227973788393472/pu/vid/1280x720/AFTBYSqPrmOwFzi7.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 244189114,
+			"id_str": "244189114",
+			"name": "flying petals",
+			"screen_name": "flying_petals",
+			"location": "",
+			"description": "only for taeyeon",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207757,
+			"friends_count": 0,
+			"listed_count": 2161,
+			"created_at": "Fri Jan 28 18:44:19 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228333805/1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228333805/1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/244189114/1390653932",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3392,
+		"favorite_count": 3790,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "저녁의 이유 🌇\nfrom. ‘s\n\n📺 full; https://t.co/d5CZ3uQozC\n\n#쓱콘의추억 https://t.co/cMru8Tarc6"
+	},
+	{
+		"created_at": "Wed Feb 12 10:53:29 +0000 2020",
+		"id": 1227319566109495300,
+		"id_str": "1227546258027368453",
+		"full_text": "다들 안주무시는거 같아서 탐랩 보시고 들으시라구 짧게 편집 해왔어뇨💜 https://t.co/ztb0G7VgqI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227318898917171200,
+					"id_str": "1227318898917171200",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"url": "https://t.co/ztb0G7VgqI",
+					"display_url": "pic.twitter.com/ztb0G7VgqI",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1227319566109495297/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227318898917171200,
+					"id_str": "1227318898917171200",
+					"indices": [
+						39,
+						62
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227318898917171200/pu/img/nxgQ7-t26qv3Qlca.jpg",
+					"url": "https://t.co/ztb0G7VgqI",
+					"display_url": "pic.twitter.com/ztb0G7VgqI",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1227319566109495297/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 96000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/pl/e-JenIjE-HVockCT.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/vid/480x270/V32Iyd9TUTEafteu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/vid/640x360/r7u5rHVmhwcOwtRt.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1227318898917171200/pu/vid/854x480/4KWoKIaBChn_Fiuy.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3247398667,
+			"id_str": "3247398667",
+			"name": "Alluring voice",
+			"screen_name": "alluring_voice",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/0Hbtw9STT5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hbtw9STT5",
+							"expanded_url": "http://taeyeon.smtown.com",
+							"display_url": "taeyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34673,
+			"friends_count": 4,
+			"listed_count": 1078,
+			"created_at": "Wed Jun 17 02:13:44 +0000 2015",
+			"favourites_count": 231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217379575044296704/ZGLkDC1z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217379575044296704/ZGLkDC1z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3247398667/1579081147",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1367,
+		"favorite_count": 1847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "다들 안주무시는거 같아서 탐랩 보시고 들으시라구 짧게 편집 해왔어뇨💜 https://t.co/ztb0G7VgqI"
+	},
+	{
+		"created_at": "Wed Feb 12 10:44:39 +0000 2020",
+		"id": 1227149939404198000,
+		"id_str": "1227544037445390337",
+		"full_text": "MEDIA &amp;P!CK &lt;펫셔니스타 탱구&gt;🐶❤️\n\n제로의 아이템을 모은 ZERO BOX를 지금 SMTOWN &amp;STORE에서 만나보세요!💖\n\n🔸ZERO BOX 구성 : 펫셔니스타 옷 + 노즈워크 볼 + 닥터설 트릿\n✔ZERO BOX 구매 시, 제로X태연 포토카드 증정\n✔EVENT PERIOD : 02. 11 (TUE) ~ 02. 17 (MON)\n\nhttps://t.co/TtIQaAhPgx https://t.co/g2AO3ZFHuE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TtIQaAhPgx",
+					"expanded_url": "http://bit.ly/2HdEBj6",
+					"display_url": "bit.ly/2HdEBj6",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1227149930453553200,
+					"id_str": "1227149930453553153",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe2XCrUUAEtgHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe2XCrUUAEtgHO.jpg",
+					"url": "https://t.co/g2AO3ZFHuE",
+					"display_url": "pic.twitter.com/g2AO3ZFHuE",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1227149939404197888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227149930453553200,
+					"id_str": "1227149930453553153",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe2XCrUUAEtgHO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe2XCrUUAEtgHO.jpg",
+					"url": "https://t.co/g2AO3ZFHuE",
+					"display_url": "pic.twitter.com/g2AO3ZFHuE",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1227149939404197888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227149930566844400,
+					"id_str": "1227149930566844417",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EQe2XDGVAAE4KVG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQe2XDGVAAE4KVG.jpg",
+					"url": "https://t.co/g2AO3ZFHuE",
+					"display_url": "pic.twitter.com/g2AO3ZFHuE",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1227149939404197888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30921,
+			"friends_count": 0,
+			"listed_count": 110,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 258,
+		"favorite_count": 438,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MEDIA &amp;P!CK &lt;펫셔니스타 탱구&gt;🐶❤️\n\n제로의 아이템을 모은 ZERO BOX를 지금 SMTOWN &amp;STORE에서 만나보세요!💖\n\n🔸ZERO BOX 구성 : 펫셔니스타 옷 + 노즈워크 볼 + 닥터설 트릿\n✔ZERO BOX 구매 시, 제로X태연 포토카드 증정\n✔EVENT PERIOD : 02. 11 (TUE) ~ 02. 17 (MON)\n\nhttps://t.co/TtIQaAhPgx https://t.co/g2AO3ZFHuE"
+	},
+	{
 		"created_at": "Wed Feb 12 09:44:57 +0000 2020",
 		"id": 1227521571180310500,
 		"id_str": "1227529010046959623",
