@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 13 08:44:56 +0000 2020",
+		"id": 1227864297209917400,
+		"id_str": "1227876297528967171",
+		"full_text": "Ny @prabalgurung 🖤 https://t.co/BiJpmcg1jZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prabalgurung",
+					"name": "Prabal Gurung",
+					"id": 37046756,
+					"id_str": "37046756",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1227864265874239500,
+					"id_str": "1227864265874239489",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpAC1fUcAELtzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpAC1fUcAELtzo.jpg",
+					"url": "https://t.co/BiJpmcg1jZ",
+					"display_url": "pic.twitter.com/BiJpmcg1jZ",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1227864297209917441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1227864265874239500,
+					"id_str": "1227864265874239489",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpAC1fUcAELtzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpAC1fUcAELtzo.jpg",
+					"url": "https://t.co/BiJpmcg1jZ",
+					"display_url": "pic.twitter.com/BiJpmcg1jZ",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1227864297209917441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227864266343977000,
+					"id_str": "1227864266343976960",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpAC3PUEAAxykk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpAC3PUEAAxykk.jpg",
+					"url": "https://t.co/BiJpmcg1jZ",
+					"display_url": "pic.twitter.com/BiJpmcg1jZ",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1227864297209917441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1227864266734092300,
+					"id_str": "1227864266734092288",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/EQpAC4sUwAARu6Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQpAC4sUwAARu6Y.jpg",
+					"url": "https://t.co/BiJpmcg1jZ",
+					"display_url": "pic.twitter.com/BiJpmcg1jZ",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1227864297209917441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341143,
+			"friends_count": 176,
+			"listed_count": 1005,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1545,
+		"favorite_count": 3047,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Ny @prabalgurung 🖤 https://t.co/BiJpmcg1jZ"
+	},
+	{
 		"created_at": "Thu Feb 13 04:58:24 +0000 2020",
 		"id": 1227819289165680600,
 		"id_str": "1227819289165680643",
