@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 10:59:28 +0000 2020",
+		"id": 1110403313986465800,
+		"id_str": "1228272540331606023",
+		"full_text": "190323 ~ 24  🌊 BLUE\n\n➖\nFULL - https://t.co/RhyA9VB4fv\n\n#태연 #TAEYEON https://t.co/dcsyDOxD4v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RhyA9VB4fv",
+					"expanded_url": "https://youtu.be/_cBNef6Z5lE",
+					"display_url": "youtu.be/_cBNef6Z5lE",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110402233823187000,
+					"id_str": "1110402233823186945",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110402233823186945/pu/img/XMn9rGjFfnFjIRnN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110402233823186945/pu/img/XMn9rGjFfnFjIRnN.jpg",
+					"url": "https://t.co/dcsyDOxD4v",
+					"display_url": "pic.twitter.com/dcsyDOxD4v",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1110403313986465792/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110402233823187000,
+					"id_str": "1110402233823186945",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110402233823186945/pu/img/XMn9rGjFfnFjIRnN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110402233823186945/pu/img/XMn9rGjFfnFjIRnN.jpg",
+					"url": "https://t.co/dcsyDOxD4v",
+					"display_url": "pic.twitter.com/dcsyDOxD4v",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1110403313986465792/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 55084,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1110402233823186945/pu/vid/854x480/J9su0br2J3o_2V1N.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1110402233823186945/pu/pl/YvAgDCiyEBoKoTV2.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1110402233823186945/pu/vid/640x360/i6T1hcKNyMexKnhW.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1110402233823186945/pu/vid/320x180/S_0XtguWfVuMuihU.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3247398667,
+			"id_str": "3247398667",
+			"name": "Alluring voice",
+			"screen_name": "alluring_voice",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/0Hbtw9STT5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hbtw9STT5",
+							"expanded_url": "http://taeyeon.smtown.com",
+							"display_url": "taeyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34757,
+			"friends_count": 4,
+			"listed_count": 1079,
+			"created_at": "Wed Jun 17 02:13:44 +0000 2015",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1217379575044296704/ZGLkDC1z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217379575044296704/ZGLkDC1z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3247398667/1579081147",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2767,
+		"favorite_count": 2882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "190323 ~ 24  🌊 BLUE\n\n➖\nFULL - https://t.co/RhyA9VB4fv\n\n#태연 #TAEYEON https://t.co/dcsyDOxD4v"
+	},
+	{
 		"created_at": "Thu Feb 13 09:37:37 +0000 2020",
 		"id": 1227820695377154000,
 		"id_str": "1227889553664430080",
