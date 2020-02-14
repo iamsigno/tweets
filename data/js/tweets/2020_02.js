@@ -1,6 +1,814 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 14 15:28:36 +0000 2020",
+		"id": 1228265330369151000,
+		"id_str": "1228340268484587520",
+		"full_text": "&lt;본말&gt; 배우들과 함께하는 주접 댓글 읽기!\n신박한 댓글에 뒷목 잡았다는데..!😂🤣\n\n풀버전이 보고싶다면?\n👉OCN YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/dsq9XYIj54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228265270394802200,
+					"id_str": "1228265270394802178",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"url": "https://t.co/dsq9XYIj54",
+					"display_url": "pic.twitter.com/dsq9XYIj54",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1228265330369150977/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228265270394802200,
+					"id_str": "1228265270394802178",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228265270394802178/pu/img/m_VtnURUcX558Evq.jpg",
+					"url": "https://t.co/dsq9XYIj54",
+					"display_url": "pic.twitter.com/dsq9XYIj54",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1228265330369150977/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 49750,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228265270394802178/pu/vid/480x270/L9r23pWIjqChx2NR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1228265270394802178/pu/vid/720x404/Uw2eg27Ki_9C7oPH.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1228265270394802178/pu/pl/53fMd3rq1lBSNuCF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44662,
+			"friends_count": 0,
+			"listed_count": 249,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 157,
+		"favorite_count": 223,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;본말&gt; 배우들과 함께하는 주접 댓글 읽기!\n신박한 댓글에 뒷목 잡았다는데..!😂🤣\n\n풀버전이 보고싶다면?\n👉OCN YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/dsq9XYIj54"
+	},
+	{
+		"created_at": "Fri Feb 14 15:28:34 +0000 2020",
+		"id": 1228167262571356200,
+		"id_str": "1228340261694009354",
+		"full_text": "&lt;본대로 말하라&gt; Q&amp;A 전격 공개!\n답변을 좀 더 자세하게 보고 싶다면\n#네이버TV #YOUTUBE 에서 시청가능!!\n\n당첨자 확인은👉 OCN 인스타에서!\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/zwxzrf68nB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버TV",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						159,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1228167260281327600,
+					"id_str": "1228167260281327617",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EQtTnbnVUAEt4Gx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQtTnbnVUAEt4Gx.jpg",
+					"url": "https://t.co/zwxzrf68nB",
+					"display_url": "pic.twitter.com/zwxzrf68nB",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1228167262571356166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228167260281327600,
+					"id_str": "1228167260281327617",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EQtTnbnVUAEt4Gx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQtTnbnVUAEt4Gx.jpg",
+					"url": "https://t.co/zwxzrf68nB",
+					"display_url": "pic.twitter.com/zwxzrf68nB",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1228167262571356166/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 607,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44662,
+			"friends_count": 0,
+			"listed_count": 249,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;본대로 말하라&gt; Q&amp;A 전격 공개!\n답변을 좀 더 자세하게 보고 싶다면\n#네이버TV #YOUTUBE 에서 시청가능!!\n\n당첨자 확인은👉 OCN 인스타에서!\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/zwxzrf68nB"
+	},
+	{
+		"created_at": "Fri Feb 14 15:28:32 +0000 2020",
+		"id": 1228149255400910800,
+		"id_str": "1228340253364117505",
+		"full_text": "[#서현] 오늘 오후 2시 서현 배우에게 빠져들 시간🥳\nJTBC &lt;안녕 드라큘라&gt; 온라인 생중계 함께 보면 좋쟌나♥\n https://t.co/cbzDpJJJ4F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cbzDpJJJ4F",
+					"expanded_url": "https://www.youtube.com/jtbcdrama",
+					"display_url": "youtube.com/jtbcdrama",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28706,
+			"friends_count": 11,
+			"listed_count": 214,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] 오늘 오후 2시 서현 배우에게 빠져들 시간🥳\nJTBC &lt;안녕 드라큘라&gt; 온라인 생중계 함께 보면 좋쟌나♥\n https://t.co/cbzDpJJJ4F"
+	},
+	{
+		"created_at": "Fri Feb 14 15:28:26 +0000 2020",
+		"id": 1228137795660611600,
+		"id_str": "1228340228269592577",
+		"full_text": "[#서현] 전현무X서현, 2년 연속 '더팩트 뮤직 어워즈' 공동 MC 확정\nhttps://t.co/4MmP828oAG https://t.co/kRc4tTqZT3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4MmP828oAG",
+					"expanded_url": "http://naver.me/5uuEqpcZ",
+					"display_url": "naver.me/5uuEqpcZ",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1228137786877722600,
+					"id_str": "1228137786877722625",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EQs4z2oUwAEVzL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQs4z2oUwAEVzL4.jpg",
+					"url": "https://t.co/kRc4tTqZT3",
+					"display_url": "pic.twitter.com/kRc4tTqZT3",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1228137795660611584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 343,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 343,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1228137786877722600,
+					"id_str": "1228137786877722625",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EQs4z2oUwAEVzL4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EQs4z2oUwAEVzL4.jpg",
+					"url": "https://t.co/kRc4tTqZT3",
+					"display_url": "pic.twitter.com/kRc4tTqZT3",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1228137795660611584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 343,
+							"h": 448,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 343,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 343,
+							"h": 448,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28706,
+			"friends_count": 11,
+			"listed_count": 214,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 537,
+		"favorite_count": 634,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] 전현무X서현, 2년 연속 '더팩트 뮤직 어워즈' 공동 MC 확정\nhttps://t.co/4MmP828oAG https://t.co/kRc4tTqZT3"
+	},
+	{
 		"created_at": "Fri Feb 14 10:59:28 +0000 2020",
 		"id": 1110403313986465800,
 		"id_str": "1228272540331606023",
