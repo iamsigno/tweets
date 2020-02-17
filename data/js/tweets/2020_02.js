@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 17 03:41:10 +0000 2020",
+		"id": 1229239629577998300,
+		"id_str": "1229249400297443328",
+		"full_text": "드디어 밝혀진 [본말] 그놈?! #김바다\n5-6화 메이킹 속 계획적인(?) 액션씬\n지금 바로 확인하세요!😎\n\n풀버전은👉 #네이버tv #YOUTUBE\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/btcX7XOVux",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김바다",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "네이버tv",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						153,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1229239234071941000,
+					"id_str": "1229239234071941120",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229239234071941120/pu/img/zJdficVOSgBPoK06.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229239234071941120/pu/img/zJdficVOSgBPoK06.jpg",
+					"url": "https://t.co/btcX7XOVux",
+					"display_url": "pic.twitter.com/btcX7XOVux",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1229239629577998338/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229239234071941000,
+					"id_str": "1229239234071941120",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229239234071941120/pu/img/zJdficVOSgBPoK06.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229239234071941120/pu/img/zJdficVOSgBPoK06.jpg",
+					"url": "https://t.co/btcX7XOVux",
+					"display_url": "pic.twitter.com/btcX7XOVux",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1229239629577998338/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 59093,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229239234071941120/pu/vid/1278x720/HQNnqPKdTaVR71wH.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229239234071941120/pu/vid/638x360/vNu9YPPg_edV0AIq.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1229239234071941120/pu/vid/478x270/33OgnceaqKMyEMFy.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1229239234071941120/pu/pl/oom5IxSJygfau9ZX.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44692,
+			"friends_count": 1,
+			"listed_count": 249,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 밝혀진 [본말] 그놈?! #김바다\n5-6화 메이킹 속 계획적인(?) 액션씬\n지금 바로 확인하세요!😎\n\n풀버전은👉 #네이버tv #YOUTUBE\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/btcX7XOVux"
+	},
+	{
 		"created_at": "Mon Feb 17 02:41:10 +0000 2020",
 		"id": 1229227664189214700,
 		"id_str": "1229234301436407810",
