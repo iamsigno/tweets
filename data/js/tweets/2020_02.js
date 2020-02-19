@@ -1,10 +1,229 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 19 02:41:10 +0000 2020",
+		"id": 1229951457220120600,
+		"id_str": "1229959076865548289",
+		"full_text": "[#서현] ‘안녕 드라큘라’ 서현 “온 마음 다해 연기, 섭섭하고 아쉬워” 종영소감 \nhttps://t.co/dyqTylXgPS https://t.co/UBFHVIlMY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dyqTylXgPS",
+					"expanded_url": "http://naver.me/GZCcytWn",
+					"display_url": "naver.me/GZCcytWn",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1229951434566717400,
+					"id_str": "1229951434566717440",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ERGqUCxU0AAGY-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERGqUCxU0AAGY-Z.jpg",
+					"url": "https://t.co/UBFHVIlMY9",
+					"display_url": "pic.twitter.com/UBFHVIlMY9",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1229951457220120576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1229951434566717400,
+					"id_str": "1229951434566717440",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ERGqUCxU0AAGY-Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERGqUCxU0AAGY-Z.jpg",
+					"url": "https://t.co/UBFHVIlMY9",
+					"display_url": "pic.twitter.com/UBFHVIlMY9",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1229951457220120576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 456,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 456,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28754,
+			"friends_count": 11,
+			"listed_count": 216,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] ‘안녕 드라큘라’ 서현 “온 마음 다해 연기, 섭섭하고 아쉬워” 종영소감 \nhttps://t.co/dyqTylXgPS https://t.co/UBFHVIlMY9"
+	},
+	{
 		"created_at": "Tue Feb 18 12:41:18 +0000 2020",
 		"id": 1229740138827153400,
 		"id_str": "1229747720912605185",
-		"full_text": "[본말 다-큐]류승수의 아름다운TV 얼굴 #최수영편 #류승수편\n\n장꾸미 최상, 배꼽주의 대환장 인터뷰🤦‍♀️\n#깜짝_게스트도_놓치지마세요\n\n풀버전은 #네이버TV #YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/5Ou3BQSUPJ",
+		"full_text": "[본말 다-큐]류승수의 아름다운TV 얼굴 #최수영편 #류승수편\n\n장꾸미 최상, 배꼽주의 대환장 인터뷰🤦♀️\n#깜짝_게스트도_놓치지마세요\n\n풀버전은 #네이버TV #YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/5Ou3BQSUPJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -268,7 +487,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[본말 다-큐]류승수의 아름다운TV 얼굴 #최수영편 #류승수편\n\n장꾸미 최상, 배꼽주의 대환장 인터뷰🤦‍♀️\n#깜짝_게스트도_놓치지마세요\n\n풀버전은 #네이버TV #YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/5Ou3BQSUPJ"
+		"text": "[본말 다-큐]류승수의 아름다운TV 얼굴 #최수영편 #류승수편\n\n장꾸미 최상, 배꼽주의 대환장 인터뷰🤦♀️\n#깜짝_게스트도_놓치지마세요\n\n풀버전은 #네이버TV #YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/5Ou3BQSUPJ"
 	},
 	{
 		"created_at": "Tue Feb 18 06:41:09 +0000 2020",
