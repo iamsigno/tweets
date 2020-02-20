@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 12:41:09 +0000 2020",
+		"id": 1230462291549638700,
+		"id_str": "1230472459037675520",
+		"full_text": "[본말클립] 감찰에 당당히 징계받는 진서연!\n'책임지겠습니다' #고구마엔_사이다투척\n\n더 많은 클립이 보고싶다면\n👉#본대로말하라_네이버tv로\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/lhJb8VF045",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고구마엔_사이다투척",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"text": "본대로말하라_네이버tv로",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						149,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230462126969344000,
+					"id_str": "1230462126969344000",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230462126969344000/pu/img/WcB-xgijDrmC56mH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230462126969344000/pu/img/WcB-xgijDrmC56mH.jpg",
+					"url": "https://t.co/lhJb8VF045",
+					"display_url": "pic.twitter.com/lhJb8VF045",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1230462291549638656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230462126969344000,
+					"id_str": "1230462126969344000",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1230462126969344000/pu/img/WcB-xgijDrmC56mH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1230462126969344000/pu/img/WcB-xgijDrmC56mH.jpg",
+					"url": "https://t.co/lhJb8VF045",
+					"display_url": "pic.twitter.com/lhJb8VF045",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1230462291549638656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 59093,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1230462126969344000/pu/pl/gU4XCW51gu_yY7Bl.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230462126969344000/pu/vid/1278x720/aETDAuOeEaV1di0O.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230462126969344000/pu/vid/478x270/IuZ5NyNAvkNxiCaC.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1230462126969344000/pu/vid/638x360/IrO7R5aAzz6TwjnQ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44725,
+			"friends_count": 1,
+			"listed_count": 250,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[본말클립] 감찰에 당당히 징계받는 진서연!\n'책임지겠습니다' #고구마엔_사이다투척\n\n더 많은 클립이 보고싶다면\n👉#본대로말하라_네이버tv로\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/lhJb8VF045"
+	},
+	{
 		"created_at": "Thu Feb 20 07:41:09 +0000 2020",
 		"id": 1230388132471685000,
 		"id_str": "1230396961666277382",
