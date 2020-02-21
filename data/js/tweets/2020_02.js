@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 01:41:09 +0000 2020",
+		"id": 1230665331053449200,
+		"id_str": "1230668751894405121",
+		"full_text": "[#서현] [#김효진] 서현X고경표X김효진, '사생활' 캐스팅 확정…하반기 방송[공식] \nhttps://t.co/v1oRvWSXQ7 https://t.co/BoK1d2YhuG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						7,
+						11
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v1oRvWSXQ7",
+					"expanded_url": "http://naver.me/xotvVYKh",
+					"display_url": "naver.me/xotvVYKh",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1230665169539403800,
+					"id_str": "1230665169539403777",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/ERQzc4vXkAEJYcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERQzc4vXkAEJYcd.jpg",
+					"url": "https://t.co/BoK1d2YhuG",
+					"display_url": "pic.twitter.com/BoK1d2YhuG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1230665331053449216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 999,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1705,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230665169539403800,
+					"id_str": "1230665169539403777",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/ERQzc4vXkAEJYcd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERQzc4vXkAEJYcd.jpg",
+					"url": "https://t.co/BoK1d2YhuG",
+					"display_url": "pic.twitter.com/BoK1d2YhuG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1230665331053449216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 999,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1705,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1230665190510739500,
+					"id_str": "1230665190510739456",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/ERQzeG3UwAAsAw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERQzeG3UwAAsAw7.jpg",
+					"url": "https://t.co/BoK1d2YhuG",
+					"display_url": "pic.twitter.com/BoK1d2YhuG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1230665331053449216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1993,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28759,
+			"friends_count": 11,
+			"listed_count": 217,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] [#김효진] 서현X고경표X김효진, '사생활' 캐스팅 확정…하반기 방송[공식] \nhttps://t.co/v1oRvWSXQ7 https://t.co/BoK1d2YhuG"
+	},
+	{
 		"created_at": "Thu Feb 20 12:41:09 +0000 2020",
 		"id": 1230462291549638700,
 		"id_str": "1230472459037675520",
