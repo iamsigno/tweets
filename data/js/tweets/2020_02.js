@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 01:41:10 +0000 2020",
+		"id": 1231747394905104400,
+		"id_str": "1231755916325859328",
+		"full_text": "내가 죽였어!\"\n거짓 된 자수를 한 용의자!🤬\n그는 왜 48시간이 필요했을까?\n\n비하인드 스틸로 8화 복습하기\n더 많은 고화질 스틸은▶️본말_공홈에서\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/paA82J7Gf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장혁",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						154,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1231747383752441900,
+					"id_str": "1231747383752441858",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgLuC2UwAIZtA0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgLuC2UwAIZtA0.jpg",
+					"url": "https://t.co/paA82J7Gf3",
+					"display_url": "pic.twitter.com/paA82J7Gf3",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231747394905104384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1231747383752441900,
+					"id_str": "1231747383752441858",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgLuC2UwAIZtA0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgLuC2UwAIZtA0.jpg",
+					"url": "https://t.co/paA82J7Gf3",
+					"display_url": "pic.twitter.com/paA82J7Gf3",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231747394905104384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231747386642272300,
+					"id_str": "1231747386642272256",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgLuNnUEAA0dzm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgLuNnUEAA0dzm.jpg",
+					"url": "https://t.co/paA82J7Gf3",
+					"display_url": "pic.twitter.com/paA82J7Gf3",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231747394905104384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231747389553172500,
+					"id_str": "1231747389553172483",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgLuYdU4AMa9Gg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgLuYdU4AMa9Gg.jpg",
+					"url": "https://t.co/paA82J7Gf3",
+					"display_url": "pic.twitter.com/paA82J7Gf3",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231747394905104384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1231747392728256500,
+					"id_str": "1231747392728256513",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/ERgLukSU0AEQBz2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERgLukSU0AEQBz2.jpg",
+					"url": "https://t.co/paA82J7Gf3",
+					"display_url": "pic.twitter.com/paA82J7Gf3",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1231747394905104384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44761,
+			"friends_count": 1,
+			"listed_count": 251,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내가 죽였어!\"\n거짓 된 자수를 한 용의자!🤬\n그는 왜 48시간이 필요했을까?\n\n비하인드 스틸로 8화 복습하기\n더 많은 고화질 스틸은▶️본말_공홈에서\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/paA82J7Gf3"
+	},
+	{
 		"created_at": "Sun Feb 23 09:41:09 +0000 2020",
 		"id": 1231504131501654000,
 		"id_str": "1231514323769548801",
