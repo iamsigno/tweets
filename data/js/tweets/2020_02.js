@@ -1,6 +1,147 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 06:41:10 +0000 2020",
+		"id": 1231820622906347500,
+		"id_str": "1231831414108303360",
+		"full_text": "[#서현] 지난주 월요일을 사랑하게 만든 🔥인간 핫팩🔥 서현 배우\n&lt;안녕 드라큘라&gt; 촬영 비하인드 포스트 함께 보러가현🥳\nhttps://t.co/luBV9zRo0d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						1,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/luBV9zRo0d",
+					"expanded_url": "http://naver.me/Fq9FqMWc",
+					"display_url": "naver.me/Fq9FqMWc",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 트위터\r\n\r\nhttp://t.co/yYyL4E7frq\r\nhttp://t.co/SbBo274lvv\r\nhttp://t.co/2P1PJW3Cwq",
+			"url": "http://t.co/Qkvc5dtQFO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Qkvc5dtQFO",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "http://t.co/yYyL4E7frq",
+							"expanded_url": "http://www.facebook.com/namooactors",
+							"display_url": "facebook.com/namooactors",
+							"indices": [
+								22,
+								44
+							]
+						},
+						{
+							"url": "http://t.co/SbBo274lvv",
+							"expanded_url": "http://www.youtube.com/namooofficial",
+							"display_url": "youtube.com/namooofficial",
+							"indices": [
+								46,
+								68
+							]
+						},
+						{
+							"url": "http://t.co/2P1PJW3Cwq",
+							"expanded_url": "http://www.namooactors.com",
+							"display_url": "namooactors.com",
+							"indices": [
+								70,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28781,
+			"friends_count": 11,
+			"listed_count": 218,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12722,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 225,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#서현] 지난주 월요일을 사랑하게 만든 🔥인간 핫팩🔥 서현 배우\n&lt;안녕 드라큘라&gt; 촬영 비하인드 포스트 함께 보러가현🥳\nhttps://t.co/luBV9zRo0d"
+	},
+	{
 		"created_at": "Mon Feb 24 01:41:10 +0000 2020",
 		"id": 1231747394905104400,
 		"id_str": "1231755916325859328",
