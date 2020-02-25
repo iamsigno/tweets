@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 09:58:04 +0000 2020",
+		"id": 1232243354550853600,
+		"id_str": "1232243354550853632",
+		"full_text": "#TAEYEON #태연\n💎🌨。𖤐🤍blue\nhttps://t.co/FuGzUx07Ih\n#Instagram #인스타그램 #탱스타그램",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Instagram",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"text": "인스타그램",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "탱스타그램",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FuGzUx07Ih",
+					"expanded_url": "https://www.instagram.com/p/B8_Bi67hYFl/",
+					"display_url": "instagram.com/p/B8_Bi67hYFl/",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 538,
+			"friends_count": 489,
+			"listed_count": 0,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAEYEON #태연\n💎🌨。𖤐🤍blue\nhttps://t.co/FuGzUx07Ih\n#Instagram #인스타그램 #탱스타그램"
+	},
+	{
+		"created_at": "Tue Feb 25 09:41:10 +0000 2020",
+		"id": 1232229046634680300,
+		"id_str": "1232239100822016000",
+		"full_text": "[본말 다-큐]류승수의 아름다운TV 얼굴\n#장혁편 #장현성편 눈물의 마지막 인터뷰😂\n\n풀버전은👉 #네이버tv #youtube\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/YvmqFuYszN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장혁편",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "장현성편",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "네이버tv",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						131,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232228816870789000,
+					"id_str": "1232228816870789122",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232228816870789122/pu/img/dvVffA0bbtANeZrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232228816870789122/pu/img/dvVffA0bbtANeZrs.jpg",
+					"url": "https://t.co/YvmqFuYszN",
+					"display_url": "pic.twitter.com/YvmqFuYszN",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1232229046634680320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232228816870789000,
+					"id_str": "1232228816870789122",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232228816870789122/pu/img/dvVffA0bbtANeZrs.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232228816870789122/pu/img/dvVffA0bbtANeZrs.jpg",
+					"url": "https://t.co/YvmqFuYszN",
+					"display_url": "pic.twitter.com/YvmqFuYszN",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1232229046634680320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 59126,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1232228816870789122/pu/pl/DGd-KPGuvqi-inNz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232228816870789122/pu/vid/478x270/mwfkK3vWOS-PlaKr.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232228816870789122/pu/vid/1278x720/rfxsrR-ZAe1KTbHn.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232228816870789122/pu/vid/638x360/QEyeTD8lIJ_SuZ7H.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44768,
+			"friends_count": 1,
+			"listed_count": 252,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[본말 다-큐]류승수의 아름다운TV 얼굴\n#장혁편 #장현성편 눈물의 마지막 인터뷰😂\n\n풀버전은👉 #네이버tv #youtube\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/YvmqFuYszN"
+	},
+	{
 		"created_at": "Tue Feb 25 06:41:09 +0000 2020",
 		"id": 1232183688038899700,
 		"id_str": "1232193801453699073",
