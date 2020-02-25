@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 06:41:09 +0000 2020",
+		"id": 1232183688038899700,
+		"id_str": "1232193801453699073",
+		"full_text": "[본말클립] 과거 폭발사건의 또 다른 진실?!\n#다음주까지_어떻게_기다리나요😭\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n #장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/8YsxKLZeJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다음주까지_어떻게_기다리나요",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232183509478822000,
+					"id_str": "1232183509478821888",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232183509478821888/pu/img/nllhUQkjqmqzw0uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232183509478821888/pu/img/nllhUQkjqmqzw0uf.jpg",
+					"url": "https://t.co/8YsxKLZeJy",
+					"display_url": "pic.twitter.com/8YsxKLZeJy",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1232183688038899713/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232183509478822000,
+					"id_str": "1232183509478821888",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232183509478821888/pu/img/nllhUQkjqmqzw0uf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232183509478821888/pu/img/nllhUQkjqmqzw0uf.jpg",
+					"url": "https://t.co/8YsxKLZeJy",
+					"display_url": "pic.twitter.com/8YsxKLZeJy",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1232183688038899713/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 59460,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232183509478821888/pu/vid/638x360/5_Q35q87QuZGY_P1.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232183509478821888/pu/vid/478x270/mFHKoooFb-lTOg9p.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1232183509478821888/pu/pl/kbhpjdSevgvw9rWX.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232183509478821888/pu/vid/1278x720/pU4P8QnaTPND2Xvp.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44767,
+			"friends_count": 1,
+			"listed_count": 252,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14986,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[본말클립] 과거 폭발사건의 또 다른 진실?!\n#다음주까지_어떻게_기다리나요😭\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n #장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/8YsxKLZeJy"
+	},
+	{
 		"created_at": "Mon Feb 24 09:41:09 +0000 2020",
 		"id": 1231867141525082000,
 		"id_str": "1231876711521947654",
