@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 03:41:10 +0000 2020",
+		"id": 1232500774355099600,
+		"id_str": "1232510891549241345",
+		"full_text": "당신은 정말로, 이미 '그놈'을 목격했다👀\n박하사탕 연쇄 살인마의 실체는?!🤫\n#모든걸_의심하고 #본_대로_말하라\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/NZZS2fhe7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모든걸_의심하고",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"text": "본_대로_말하라",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						134,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232500596499865600,
+					"id_str": "1232500596499865601",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232500596499865601/pu/img/TP1Mswbnfj3G0haG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232500596499865601/pu/img/TP1Mswbnfj3G0haG.jpg",
+					"url": "https://t.co/NZZS2fhe7X",
+					"display_url": "pic.twitter.com/NZZS2fhe7X",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1232500774355099648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232500596499865600,
+					"id_str": "1232500596499865601",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232500596499865601/pu/img/TP1Mswbnfj3G0haG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232500596499865601/pu/img/TP1Mswbnfj3G0haG.jpg",
+					"url": "https://t.co/NZZS2fhe7X",
+					"display_url": "pic.twitter.com/NZZS2fhe7X",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1232500774355099648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1278,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 49049,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232500596499865601/pu/vid/638x360/QO7RnY3hSkW3N0J6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1232500596499865601/pu/pl/-Mv9HG3zWqsGXRE1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232500596499865601/pu/vid/478x270/-UN57v4Juh8dRBka.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1232500596499865601/pu/vid/1278x720/DsBQbZFSzIf1f23N.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "토/일 밤 10:50 #장혁 #본대로말하라 \n🔜 2020 3/16 첫방송. 월화 밤 10:50 #최진혁 #루갈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44762,
+			"friends_count": 1,
+			"listed_count": 252,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "당신은 정말로, 이미 '그놈'을 목격했다👀\n박하사탕 연쇄 살인마의 실체는?!🤫\n#모든걸_의심하고 #본_대로_말하라\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/NZZS2fhe7X"
+	},
+	{
 		"created_at": "Tue Feb 25 09:58:04 +0000 2020",
 		"id": 1232243354550853600,
 		"id_str": "1232243354550853632",
