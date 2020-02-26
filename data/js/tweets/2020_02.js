@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 06:41:09 +0000 2020",
+		"id": 1232548318368194600,
+		"id_str": "1232556189134868483",
+		"full_text": "Guess who's on a soshi throwback party. These songs are classic. Thanks @SpotifyKDaebak for finally adding the queens @GirlsGeneration #소녀시대 https://t.co/VBlJA0nrN7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKDaebak",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						118,
+						134
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232548277104578600,
+					"id_str": "1232548277104578560",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ERrkILFWkAA3DUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERrkILFWkAA3DUF.jpg",
+					"url": "https://t.co/VBlJA0nrN7",
+					"display_url": "pic.twitter.com/VBlJA0nrN7",
+					"expanded_url": "https://twitter.com/chweleesoz/status/1232548318368194560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 998,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232548277104578600,
+					"id_str": "1232548277104578560",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ERrkILFWkAA3DUF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERrkILFWkAA3DUF.jpg",
+					"url": "https://t.co/VBlJA0nrN7",
+					"display_url": "pic.twitter.com/VBlJA0nrN7",
+					"expanded_url": "https://twitter.com/chweleesoz/status/1232548318368194560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 998,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 566,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1298,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232548287842001000,
+					"id_str": "1232548287842000896",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ERrkIzFWoAAdfXq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERrkIzFWoAAdfXq.jpg",
+					"url": "https://t.co/VBlJA0nrN7",
+					"display_url": "pic.twitter.com/VBlJA0nrN7",
+					"expanded_url": "https://twitter.com/chweleesoz/status/1232548318368194560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1275,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232548297195368400,
+					"id_str": "1232548297195368449",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ERrkJV7XsAEzrDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERrkJV7XsAEzrDn.jpg",
+					"url": "https://t.co/VBlJA0nrN7",
+					"display_url": "pic.twitter.com/VBlJA0nrN7",
+					"expanded_url": "https://twitter.com/chweleesoz/status/1232548318368194560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 998,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 565,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1298,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232548309203660800,
+					"id_str": "1232548309203660801",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ERrkKCqXsAEb-b2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERrkKCqXsAEb-b2.jpg",
+					"url": "https://t.co/VBlJA0nrN7",
+					"display_url": "pic.twitter.com/VBlJA0nrN7",
+					"expanded_url": "https://twitter.com/chweleesoz/status/1232548318368194560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 563,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1305,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 993,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1144956344312537100,
+			"id_str": "1144956344312537088",
+			"name": "𝔠𝔥𝔦𝔩𝔩𝔦 𝔭𝔦𝔭𝔢𝔯𝔰",
+			"screen_name": "chweleesoz",
+			"location": "Dubai, United Arab Emirates",
+			"description": "PSPSPSPSPSSS GUO CHENG BOYFRIEND FOR PIPES.\n(SVT|ATZ|CQL|MXTX)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 975,
+			"friends_count": 752,
+			"listed_count": 14,
+			"created_at": "Sat Jun 29 13:10:39 +0000 2019",
+			"favourites_count": 37032,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1230094521712730112/roodyIgz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230094521712730112/roodyIgz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1144956344312537088/1581521521",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Guess who's on a soshi throwback party. These songs are classic. Thanks @SpotifyKDaebak for finally adding the queens @GirlsGeneration #소녀시대 https://t.co/VBlJA0nrN7"
+	},
+	{
 		"created_at": "Wed Feb 26 03:41:10 +0000 2020",
 		"id": 1232500774355099600,
 		"id_str": "1232510891549241345",
