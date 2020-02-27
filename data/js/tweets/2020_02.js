@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 27 19:39:43 +0000 2020",
+		"id": 1233032641974165500,
+		"id_str": "1233114506479276032",
+		"full_text": "TAEYEON - The UNSEEN (4p)\n\nscan\n\n#TAEYEON #태연 #The_UNSEEN https://t.co/sR8hSK4R4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "The_UNSEEN",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1233032631433879600,
+					"id_str": "1233032631433879553",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ERycpTkU4AEWLWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERycpTkU4AEWLWT.jpg",
+					"url": "https://t.co/sR8hSK4R4Q",
+					"display_url": "pic.twitter.com/sR8hSK4R4Q",
+					"expanded_url": "https://twitter.com/MCTY39/status/1233032641974165504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1233032631433879600,
+					"id_str": "1233032631433879553",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ERycpTkU4AEWLWT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERycpTkU4AEWLWT.jpg",
+					"url": "https://t.co/sR8hSK4R4Q",
+					"display_url": "pic.twitter.com/sR8hSK4R4Q",
+					"expanded_url": "https://twitter.com/MCTY39/status/1233032641974165504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1233032631551291400,
+					"id_str": "1233032631551291392",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ERycpUAUcAAPPnG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERycpUAUcAAPPnG.jpg",
+					"url": "https://t.co/sR8hSK4R4Q",
+					"display_url": "pic.twitter.com/sR8hSK4R4Q",
+					"expanded_url": "https://twitter.com/MCTY39/status/1233032641974165504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1233032631597449200,
+					"id_str": "1233032631597449222",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ERycpULUwAYmEDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERycpULUwAYmEDn.jpg",
+					"url": "https://t.co/sR8hSK4R4Q",
+					"display_url": "pic.twitter.com/sR8hSK4R4Q",
+					"expanded_url": "https://twitter.com/MCTY39/status/1233032641974165504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1233032631647735800,
+					"id_str": "1233032631647735810",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ERycpUXUEAIkwIR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERycpUXUEAIkwIR.jpg",
+					"url": "https://t.co/sR8hSK4R4Q",
+					"display_url": "pic.twitter.com/sR8hSK4R4Q",
+					"expanded_url": "https://twitter.com/MCTY39/status/1233032641974165504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 840,
+							"h": 1175,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1053186706810167300,
+			"id_str": "1053186706810167296",
+			"name": "민트초코",
+			"screen_name": "MCTY39",
+			"location": "𝗞𝗜𝗠 𝗧𝗔𝗘𝗬𝗘𝗢𝗡",
+			"description": "TAEYEON 태연",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4283,
+			"friends_count": 29,
+			"listed_count": 148,
+			"created_at": "Fri Oct 19 07:30:52 +0000 2018",
+			"favourites_count": 4372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233025506317987841/yg77uKwq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233025506317987841/yg77uKwq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1053186706810167296/1582700016",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 538,
+		"favorite_count": 973,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON - The UNSEEN (4p)\n\nscan\n\n#TAEYEON #태연 #The_UNSEEN https://t.co/sR8hSK4R4Q"
+	},
+	{
 		"created_at": "Wed Feb 26 08:26:11 +0000 2020",
 		"id": 1232582621189824500,
 		"id_str": "1232582621189824514",
