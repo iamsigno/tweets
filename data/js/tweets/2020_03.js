@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 01 15:41:09 +0000 2020",
+		"id": 1234138992968269800,
+		"id_str": "1234141635908374528",
+		"full_text": "[11화예고] 수영, 엄마를 죽인 뺑소니의 진실과 대면하다?\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/ezEfNFUolv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234138848440934400,
+					"id_str": "1234138848440934400",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"url": "https://t.co/ezEfNFUolv",
+					"display_url": "pic.twitter.com/ezEfNFUolv",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234138992968269824/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234138848440934400,
+					"id_str": "1234138848440934400",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234138848440934400/pu/img/ENHzWSttBlo8jbKZ.jpg",
+					"url": "https://t.co/ezEfNFUolv",
+					"display_url": "pic.twitter.com/ezEfNFUolv",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234138992968269824/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/pl/WpFHro8waNDRyTXh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/vid/1282x720/rQfDANZLflwr5OpZ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/vid/480x270/IwH8A28LCREsDDsM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234138848440934400/pu/vid/640x360/5kuDsuFn51zSw0X8.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44804,
+			"friends_count": 1,
+			"listed_count": 253,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174583128486100993/b2ih4oQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1580714884",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 82,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[11화예고] 수영, 엄마를 죽인 뺑소니의 진실과 대면하다?\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/ezEfNFUolv"
+	},
+	{
 		"created_at": "Sun Mar 01 09:41:10 +0000 2020",
 		"id": 1234040799576223700,
 		"id_str": "1234051039709581312",
