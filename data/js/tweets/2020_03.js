@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 02 06:41:09 +0000 2020",
+		"id": 1234358299404800000,
+		"id_str": "1234368128035020800",
+		"full_text": "[메이킹] ㄴ상상도 못한 수영 깜짝 생파ㄱ\n#9_10_비하인드 #오늘도_화목한_본대로팀😘\n\n풀버전이 보고싶다면?\n▶️ #네이버TV #OCN_YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/AQSS2Z7LHT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "9_10_비하인드",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"text": "오늘도_화목한_본대로팀",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"text": "네이버TV",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "OCN_YOUTUBE",
+					"indices": [
+						73,
+						85
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						147,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1234357876182810600,
+					"id_str": "1234357876182810625",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234357876182810625/pu/img/uDUXqLRJyExUPbnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234357876182810625/pu/img/uDUXqLRJyExUPbnM.jpg",
+					"url": "https://t.co/AQSS2Z7LHT",
+					"display_url": "pic.twitter.com/AQSS2Z7LHT",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234358299404800001/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1234357876182810600,
+					"id_str": "1234357876182810625",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234357876182810625/pu/img/uDUXqLRJyExUPbnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234357876182810625/pu/img/uDUXqLRJyExUPbnM.jpg",
+					"url": "https://t.co/AQSS2Z7LHT",
+					"display_url": "pic.twitter.com/AQSS2Z7LHT",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1234358299404800001/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 58325,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1234357876182810625/pu/pl/5NJTH0JQN0WwuAmC.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234357876182810625/pu/vid/1282x720/dOXRhly2xnvaAdhR.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234357876182810625/pu/vid/640x360/PNJ0UPjPABWxgyN7.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1234357876182810625/pu/vid/480x270/rCgbDG_EPKg2Qu97.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44813,
+			"friends_count": 1,
+			"listed_count": 251,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583131356",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[메이킹] ㄴ상상도 못한 수영 깜짝 생파ㄱ\n#9_10_비하인드 #오늘도_화목한_본대로팀😘\n\n풀버전이 보고싶다면?\n▶️ #네이버TV #OCN_YOUTUBE\n\n오감 서스펜스 #본대로말하라\n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/AQSS2Z7LHT"
+	},
+	{
 		"created_at": "Mon Mar 02 02:41:09 +0000 2020",
 		"id": 1234297493455663000,
 		"id_str": "1234307730371989504",
