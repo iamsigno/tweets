@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 05 01:41:10 +0000 2020",
+		"id": 1235374588042698800,
+		"id_str": "1235379794927288320",
+		"full_text": "태연, 신곡 ‘Happy’ 발매 기념 네이버 V 라이브 9일 오후 7시 생방송!\n신곡 소개와 다채로운 토크로 팬들과 가깝게 소통할 예정이니 모두 3월 9일 오후 7시에 만나요!\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/kX2nf9bwVK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						136,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1235374576109904000,
+					"id_str": "1235374576109903872",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ESTuobWUYAA4TZK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESTuobWUYAA4TZK.jpg",
+					"url": "https://t.co/kX2nf9bwVK",
+					"display_url": "pic.twitter.com/kX2nf9bwVK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1235374588042698752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1235374576109904000,
+					"id_str": "1235374576109903872",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ESTuobWUYAA4TZK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESTuobWUYAA4TZK.jpg",
+					"url": "https://t.co/kX2nf9bwVK",
+					"display_url": "pic.twitter.com/kX2nf9bwVK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1235374588042698752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1235374576499953700,
+					"id_str": "1235374576499953665",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/ESTuoczUEAEtHVz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ESTuoczUEAEtHVz.jpg",
+					"url": "https://t.co/kX2nf9bwVK",
+					"display_url": "pic.twitter.com/kX2nf9bwVK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1235374588042698752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3551467,
+			"friends_count": 4,
+			"listed_count": 6016,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2928,
+		"favorite_count": 5385,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연, 신곡 ‘Happy’ 발매 기념 네이버 V 라이브 9일 오후 7시 생방송!\n신곡 소개와 다채로운 토크로 팬들과 가깝게 소통할 예정이니 모두 3월 9일 오후 7시에 만나요!\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/kX2nf9bwVK"
+	},
+	{
 		"created_at": "Thu Mar 05 00:32:16 +0000 2020",
 		"id": 1235362457960550400,
 		"id_str": "1235362457960550400",
