@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 16:07:31 +0000 2020",
+		"id": 1236819257641422800,
+		"id_str": "1237047374628786181",
+		"full_text": "진짜 날개는 태연이 아니면 누가 부를수 있어🥺🥺 올라가는거 너무 편안해서 더 놀라워😭😭😭\n#HAPPYTAEYEONDAY\n#TAEYEON https://t.co/gwZWUbc43o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPYTAEYEONDAY",
+					"indices": [
+						50,
+						66
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						67,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1236819139634880500,
+					"id_str": "1236819139634880512",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"url": "https://t.co/gwZWUbc43o",
+					"display_url": "pic.twitter.com/gwZWUbc43o",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1236819257641422848/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236819139634880500,
+					"id_str": "1236819139634880512",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236819139634880512/pu/img/q_OgijYqk-XxSgVH.jpg",
+					"url": "https://t.co/gwZWUbc43o",
+					"display_url": "pic.twitter.com/gwZWUbc43o",
+					"expanded_url": "https://twitter.com/alluring_voice/status/1236819257641422848/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42688,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/vid/640x360/AOnfmv54WksSgAQg.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/vid/480x270/CnIHrreT-bX_67_E.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/pl/fwB2GngE5Wu4QuSN.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236819139634880512/pu/vid/1280x720/Tzr6z1ZpkHtulO2E.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3247398667,
+			"id_str": "3247398667",
+			"name": "Alluring voice",
+			"screen_name": "alluring_voice",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/0Hbtw9STT5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Hbtw9STT5",
+							"expanded_url": "http://taeyeon.smtown.com",
+							"display_url": "taeyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34951,
+			"friends_count": 4,
+			"listed_count": 1091,
+			"created_at": "Wed Jun 17 02:13:44 +0000 2015",
+			"favourites_count": 229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1236669784114126848/8gdjcEiO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236669784114126848/8gdjcEiO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3247398667/1582536459",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1412,
+		"favorite_count": 1757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜 날개는 태연이 아니면 누가 부를수 있어🥺🥺 올라가는거 너무 편안해서 더 놀라워😭😭😭\n#HAPPYTAEYEONDAY\n#TAEYEON https://t.co/gwZWUbc43o"
+	},
+	{
 		"created_at": "Mon Mar 09 11:02:26 +0000 2020",
 		"id": 1236970594358431700,
 		"id_str": "1236970594358431744",
