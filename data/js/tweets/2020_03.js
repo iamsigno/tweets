@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 13:45:12 +0000 2020",
+		"id": 1236896971656278000,
+		"id_str": "1237736331930791937",
+		"full_text": "태연아 생일 축하해🥳💜\nFULL: https://t.co/9IhoOhsD94\n\n#HAPPYTaeyeonDay https://t.co/1PrriOAQSt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HAPPYTaeyeonDay",
+					"indices": [
+						44,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9IhoOhsD94",
+					"expanded_url": "https://youtu.be/nk1-JncQ2fI",
+					"display_url": "youtu.be/nk1-JncQ2fI",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1236896887371755500,
+					"id_str": "1236896887371755520",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236896887371755520/pu/img/uuQV-Xk0hoxMU-H7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236896887371755520/pu/img/uuQV-Xk0hoxMU-H7.jpg",
+					"url": "https://t.co/1PrriOAQSt",
+					"display_url": "pic.twitter.com/1PrriOAQSt",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1236896971656278019/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1236896887371755500,
+					"id_str": "1236896887371755520",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236896887371755520/pu/img/uuQV-Xk0hoxMU-H7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236896887371755520/pu/img/uuQV-Xk0hoxMU-H7.jpg",
+					"url": "https://t.co/1PrriOAQSt",
+					"display_url": "pic.twitter.com/1PrriOAQSt",
+					"expanded_url": "https://twitter.com/BAEKSSUEL/status/1236896971656278019/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14248,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236896887371755520/pu/vid/480x270/5ZU_Z2mgr6W1Gs7Y.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236896887371755520/pu/vid/1280x720/sUIQalQ4kWNYLp5R.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1236896887371755520/pu/pl/YToCVVDuvFRRMIGn.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1236896887371755520/pu/vid/640x360/bNn6Hbs2Dvt3uBnD.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706826422518566900,
+			"id_str": "706826422518566912",
+			"name": "백셜",
+			"screen_name": "BAEKSSUEL",
+			"location": "",
+			"description": "#태연 #TAEYEON #テヨン",
+			"url": "https://t.co/nXKgtyNhc2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXKgtyNhc2",
+							"expanded_url": "http://bs309.com",
+							"display_url": "bs309.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38204,
+			"friends_count": 1,
+			"listed_count": 1026,
+			"created_at": "Mon Mar 07 12:58:46 +0000 2016",
+			"favourites_count": 67,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/988476300196102144/qFmrKlRj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706826422518566912/1573102121",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 827,
+		"favorite_count": 1450,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연아 생일 축하해🥳💜\nFULL: https://t.co/9IhoOhsD94\n\n#HAPPYTaeyeonDay https://t.co/1PrriOAQSt"
+	},
+	{
 		"created_at": "Tue Mar 10 07:41:09 +0000 2020",
 		"id": 1237272557499207700,
 		"id_str": "1237282330722611201",
