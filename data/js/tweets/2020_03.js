@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 22:41:10 +0000 2020",
+		"id": 1238956790269669400,
+		"id_str": "1238958375599329281",
+		"full_text": "[14화 예고] 얽히고설킨 비밀, 수면위로 드러나다!\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n오늘 밤 10시 50분 14화 본방송\n\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/QC7q2X7oZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장혁",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						97,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238956664184803300,
+					"id_str": "1238956664184803328",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238956664184803328/pu/img/x_qaGR3NeA1qj2iv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238956664184803328/pu/img/x_qaGR3NeA1qj2iv.jpg",
+					"url": "https://t.co/QC7q2X7oZY",
+					"display_url": "pic.twitter.com/QC7q2X7oZY",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1238956790269669376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238956664184803300,
+					"id_str": "1238956664184803328",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238956664184803328/pu/img/x_qaGR3NeA1qj2iv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238956664184803328/pu/img/x_qaGR3NeA1qj2iv.jpg",
+					"url": "https://t.co/QC7q2X7oZY",
+					"display_url": "pic.twitter.com/QC7q2X7oZY",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1238956790269669376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 29930,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238956664184803328/pu/pl/juplUL2D9yKcQf9U.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238956664184803328/pu/vid/478x270/9RkDck03BVJGiB43.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238956664184803328/pu/vid/720x406/PWGelalUB8_Sj1cf.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44830,
+			"friends_count": 1,
+			"listed_count": 252,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583151463",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[14화 예고] 얽히고설킨 비밀, 수면위로 드러나다!\n\n오감 서스펜스 &lt;본 대로 말하라&gt;\n오늘 밤 10시 50분 14화 본방송\n\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/QC7q2X7oZY"
+	},
+	{
 		"created_at": "Sat Mar 14 14:18:31 +0000 2020",
 		"id": 1238789376697483300,
 		"id_str": "1238831880184549376",
