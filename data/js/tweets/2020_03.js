@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 14 09:41:10 +0000 2020",
+		"id": 1238751844102361000,
+		"id_str": "1238762082084032512",
+		"full_text": "👉&lt;본 대로 말하라&gt; 13화 미리보기👉\n점점 좁혀져가는 용의자 리스트\n황 팀장은 '그놈'👤을 특정해 나가고,\n\n수영은 현재의 위험한 계획을 눈치채는데!\n\n오감 서스펜스 #본대로말하라 \n오늘 밤 10시 50분 13화 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/WJzFXPdQlL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						149,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238751832773546000,
+					"id_str": "1238751832773545984",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDuOo1U0AASagU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDuOo1U0AASagU.jpg",
+					"url": "https://t.co/WJzFXPdQlL",
+					"display_url": "pic.twitter.com/WJzFXPdQlL",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1238751844102361089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238751832773546000,
+					"id_str": "1238751832773545984",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDuOo1U0AASagU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDuOo1U0AASagU.jpg",
+					"url": "https://t.co/WJzFXPdQlL",
+					"display_url": "pic.twitter.com/WJzFXPdQlL",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1238751844102361089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238751835894104000,
+					"id_str": "1238751835894104065",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDuO0dUwAEPAew.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDuO0dUwAEPAew.jpg",
+					"url": "https://t.co/WJzFXPdQlL",
+					"display_url": "pic.twitter.com/WJzFXPdQlL",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1238751844102361089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238751839127920600,
+					"id_str": "1238751839127920641",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDuPAgU4AE2KJk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDuPAgU4AE2KJk.jpg",
+					"url": "https://t.co/WJzFXPdQlL",
+					"display_url": "pic.twitter.com/WJzFXPdQlL",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1238751844102361089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1238751841967411200,
+					"id_str": "1238751841967411202",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/ETDuPLFUEAItHoV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETDuPLFUEAItHoV.jpg",
+					"url": "https://t.co/WJzFXPdQlL",
+					"display_url": "pic.twitter.com/WJzFXPdQlL",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1238751844102361089/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44838,
+			"friends_count": 1,
+			"listed_count": 252,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15028,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583151463",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👉&lt;본 대로 말하라&gt; 13화 미리보기👉\n점점 좁혀져가는 용의자 리스트\n황 팀장은 '그놈'👤을 특정해 나가고,\n\n수영은 현재의 위험한 계획을 눈치채는데!\n\n오감 서스펜스 #본대로말하라 \n오늘 밤 10시 50분 13화 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/WJzFXPdQlL"
+	},
+	{
 		"created_at": "Sat Mar 14 04:27:40 +0000 2020",
 		"id": 1238649419664244700,
 		"id_str": "1238683187674361856",
