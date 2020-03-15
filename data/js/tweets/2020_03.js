@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 12:32:50 +0000 2020",
+		"id": 1238908591127421000,
+		"id_str": "1239167673914646528",
+		"full_text": "내가 너를 사랑했을까 https://t.co/c2Av4zfK2G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1238908453831102500,
+					"id_str": "1238908453831102464",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238908453831102464/pu/img/Id7OdLOFpju9QaSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238908453831102464/pu/img/Id7OdLOFpju9QaSA.jpg",
+					"url": "https://t.co/c2Av4zfK2G",
+					"display_url": "pic.twitter.com/c2Av4zfK2G",
+					"expanded_url": "https://twitter.com/Rk59GW2ORe5ddxI/status/1238908591127420928/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1238908453831102500,
+					"id_str": "1238908453831102464",
+					"indices": [
+						12,
+						35
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238908453831102464/pu/img/Id7OdLOFpju9QaSA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238908453831102464/pu/img/Id7OdLOFpju9QaSA.jpg",
+					"url": "https://t.co/c2Av4zfK2G",
+					"display_url": "pic.twitter.com/c2Av4zfK2G",
+					"expanded_url": "https://twitter.com/Rk59GW2ORe5ddxI/status/1238908591127420928/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30883,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1238908453831102464/pu/pl/omzAaKWurlFSb_TV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238908453831102464/pu/vid/1280x720/c-qS7GglU117Z4Wl.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238908453831102464/pu/vid/480x270/VOigOLp4kzSj23RD.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1238908453831102464/pu/vid/640x360/PPAF6L7g5Vo3bbd5.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1150258204602822700,
+			"id_str": "1150258204602822656",
+			"name": "내가 좋아하는 여자 영상",
+			"screen_name": "Rk59GW2ORe5ddxI",
+			"location": "",
+			"description": "아이돌 위주 사심 가득",
+			"url": "https://t.co/x71GcQXcOh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x71GcQXcOh",
+							"expanded_url": "https://asked.kr/pbs1l7nx",
+							"display_url": "asked.kr/pbs1l7nx",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14796,
+			"friends_count": 0,
+			"listed_count": 61,
+			"created_at": "Sun Jul 14 04:18:21 +0000 2019",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1209950621727514624/k-1y3Yi5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209950621727514624/k-1y3Yi5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1150258204602822656/1565606787",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "내가 너를 사랑했을까 https://t.co/c2Av4zfK2G"
+	},
+	{
 		"created_at": "Sun Mar 15 09:41:10 +0000 2020",
 		"id": 1239114276767273000,
 		"id_str": "1239124470025072640",
