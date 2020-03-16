@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 16 03:41:21 +0000 2020",
+		"id": 1239386201141866500,
+		"id_str": "1239396307963437056",
+		"full_text": "※14화 에필로그 공개※ ㄴ상상도 못한 엔딩ㄱ\n최부장, 양형사를 죽임으로써\n광수대에 선전포고한 그 놈!🤬\n\n풀버전은 #네이버TV #YOUTUBE\n\n오감 서스펜스 #본대로말하라 \n이번주 OCN 최종화 절대 놓치지 마세요!\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/bCZKN2XQCx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "네이버TV",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "YOUTUBE",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1239386007285297200,
+					"id_str": "1239386007285297154",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239386007285297154/pu/img/8rm8FCd14MMYqq7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239386007285297154/pu/img/8rm8FCd14MMYqq7i.jpg",
+					"url": "https://t.co/bCZKN2XQCx",
+					"display_url": "pic.twitter.com/bCZKN2XQCx",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1239386201141866496/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1239386007285297200,
+					"id_str": "1239386007285297154",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1239386007285297154/pu/img/8rm8FCd14MMYqq7i.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1239386007285297154/pu/img/8rm8FCd14MMYqq7i.jpg",
+					"url": "https://t.co/bCZKN2XQCx",
+					"display_url": "pic.twitter.com/bCZKN2XQCx",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1239386201141866496/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 56657,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239386007285297154/pu/vid/480x270/iDxL4c6dov5hPqcM.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239386007285297154/pu/vid/640x360/pedpMdw7Z-OcbxyB.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1239386007285297154/pu/vid/1282x720/_kufFafcAc2IiYy_.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1239386007285297154/pu/pl/dgZO_Eny1U067xC9.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44802,
+			"friends_count": 2,
+			"listed_count": 253,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583151463",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "※14화 에필로그 공개※ ㄴ상상도 못한 엔딩ㄱ\n최부장, 양형사를 죽임으로써\n광수대에 선전포고한 그 놈!🤬\n\n풀버전은 #네이버TV #YOUTUBE\n\n오감 서스펜스 #본대로말하라 \n이번주 OCN 최종화 절대 놓치지 마세요!\n#장혁 #최수영 #진서연 #장현성 #류승수 https://t.co/bCZKN2XQCx"
+	},
+	{
+		"created_at": "Mon Mar 16 03:41:14 +0000 2020",
+		"id": 1239385313589391400,
+		"id_str": "1239396277999276032",
+		"full_text": "유랑마켓 속 효연 모아보기👀👇🏻\n\nhttps://t.co/E7e9Nvwvxo\nhttps://t.co/RikbaT2hxZ\nhttps://t.co/jxFbYs7aQr\nhttps://t.co/KgZv80HdJu\nhttps://t.co/h8KXw47Ehm\nhttps://t.co/f1DP4hQRRR\nhttps://t.co/wiK38YXUjU\n\n#HYOYEON #효연 #소녀시대 #GirlsGeneration #유랑마켓",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						201,
+						206
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						207,
+						223
+					]
+				},
+				{
+					"text": "유랑마켓",
+					"indices": [
+						224,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E7e9Nvwvxo",
+					"expanded_url": "https://tv.naver.com/v/12642875",
+					"display_url": "tv.naver.com/v/12642875",
+					"indices": [
+						19,
+						42
+					]
+				},
+				{
+					"url": "https://t.co/RikbaT2hxZ",
+					"expanded_url": "https://tv.naver.com/v/12624445",
+					"display_url": "tv.naver.com/v/12624445",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/jxFbYs7aQr",
+					"expanded_url": "https://tv.naver.com/v/12624324",
+					"display_url": "tv.naver.com/v/12624324",
+					"indices": [
+						67,
+						90
+					]
+				},
+				{
+					"url": "https://t.co/KgZv80HdJu",
+					"expanded_url": "https://tv.naver.com/v/12624300",
+					"display_url": "tv.naver.com/v/12624300",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/h8KXw47Ehm",
+					"expanded_url": "https://tv.naver.com/v/12624118",
+					"display_url": "tv.naver.com/v/12624118",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/f1DP4hQRRR",
+					"expanded_url": "https://tv.naver.com/v/12624053",
+					"display_url": "tv.naver.com/v/12624053",
+					"indices": [
+						139,
+						162
+					]
+				},
+				{
+					"url": "https://t.co/wiK38YXUjU",
+					"expanded_url": "https://tv.naver.com/v/12623888",
+					"display_url": "tv.naver.com/v/12623888",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3561835,
+			"friends_count": 4,
+			"listed_count": 6063,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 903,
+		"favorite_count": 2173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유랑마켓 속 효연 모아보기👀👇🏻\n\nhttps://t.co/E7e9Nvwvxo\nhttps://t.co/RikbaT2hxZ\nhttps://t.co/jxFbYs7aQr\nhttps://t.co/KgZv80HdJu\nhttps://t.co/h8KXw47Ehm\nhttps://t.co/f1DP4hQRRR\nhttps://t.co/wiK38YXUjU\n\n#HYOYEON #효연 #소녀시대 #GirlsGeneration #유랑마켓"
+	},
+	{
+		"created_at": "Mon Mar 16 03:29:17 +0000 2020",
+		"id": 1239393273699086300,
+		"id_str": "1239393273699086343",
+		"full_text": "#GirlsGeneration #소녀시대\n유랑마켓 속 효연 모아보기👀👇🏻...\nhttps://t.co/NXOSOxvekC\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NXOSOxvekC",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3182231015130175",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/Y6UBFaq0CK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y6UBFaq0CK",
+							"expanded_url": "http://girlsgeneration.xyz/",
+							"display_url": "girlsgeneration.xyz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 535,
+			"friends_count": 489,
+			"listed_count": 0,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n유랑마켓 속 효연 모아보기👀👇🏻...\nhttps://t.co/NXOSOxvekC\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Mon Mar 16 02:44:57 +0000 2020",
 		"id": 1239381094018900000,
 		"id_str": "1239382113444651009",
