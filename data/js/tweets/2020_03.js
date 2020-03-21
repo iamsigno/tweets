@@ -1,10 +1,252 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 15:41:10 +0000 2020",
+		"id": 1241386770907844600,
+		"id_str": "1241389394118021127",
+		"full_text": "[최종화예고] ‘그 놈’👤 vs 오현재😎,\n최후의 결전이 시작된다!\n-\n오감 서스펜스 #본대로말하라 \n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/CH2oG4r2kx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본대로말하라",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "음문석",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241386641853255700,
+					"id_str": "1241386641853255681",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241386641853255681/pu/img/6jz3Zhhg0xvgdPA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241386641853255681/pu/img/6jz3Zhhg0xvgdPA5.jpg",
+					"url": "https://t.co/CH2oG4r2kx",
+					"display_url": "pic.twitter.com/CH2oG4r2kx",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1241386770907844609/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241386641853255700,
+					"id_str": "1241386641853255681",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241386641853255681/pu/img/6jz3Zhhg0xvgdPA5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241386641853255681/pu/img/6jz3Zhhg0xvgdPA5.jpg",
+					"url": "https://t.co/CH2oG4r2kx",
+					"display_url": "pic.twitter.com/CH2oG4r2kx",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1241386770907844609/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241386641853255681/pu/vid/640x360/h7iZatpyQWYlHWUd.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241386641853255681/pu/pl/AHzSEuI9h5lGmLUt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241386641853255681/pu/vid/480x270/WkIrCp1i9YOrutZ9.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241386641853255681/pu/vid/1282x720/1cyH6_MXrs7-Uc71.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44777,
+			"friends_count": 2,
+			"listed_count": 254,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583151463",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[최종화예고] ‘그 놈’👤 vs 오현재😎,\n최후의 결전이 시작된다!\n-\n오감 서스펜스 #본대로말하라 \n매주 토/일 밤 10시 50분 OCN 본방송\n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/CH2oG4r2kx"
+	},
+	{
 		"created_at": "Sat Mar 21 09:41:10 +0000 2020",
 		"id": 1241288678686646300,
 		"id_str": "1241298799190048768",
-		"full_text": "'그놈'의 정체를 알게 된 광수팀\n모두 그놈을 체포하기 위해 달려가고!🏃‍♀️🏃‍♂️\n\n한편 '그놈'은 상황을 뒤집기 위해\n뜻밖의 사람을 만나는데..!👥\n\n오감 서스펜스 #본대로말하라\n이번주 토/일 밤 10시 50분 최종화\n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/S5oPz4bcca",
+		"full_text": "'그놈'의 정체를 알게 된 광수팀\n모두 그놈을 체포하기 위해 달려가고!🏃♀️🏃♂️\n\n한편 '그놈'은 상황을 뒤집기 위해\n뜻밖의 사람을 만나는데..!👥\n\n오감 서스펜스 #본대로말하라\n이번주 토/일 밤 10시 50분 최종화\n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/S5oPz4bcca",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -317,7 +559,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "'그놈'의 정체를 알게 된 광수팀\n모두 그놈을 체포하기 위해 달려가고!🏃‍♀️🏃‍♂️\n\n한편 '그놈'은 상황을 뒤집기 위해\n뜻밖의 사람을 만나는데..!👥\n\n오감 서스펜스 #본대로말하라\n이번주 토/일 밤 10시 50분 최종화\n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/S5oPz4bcca"
+		"text": "'그놈'의 정체를 알게 된 광수팀\n모두 그놈을 체포하기 위해 달려가고!🏃♀️🏃♂️\n\n한편 '그놈'은 상황을 뒤집기 위해\n뜻밖의 사람을 만나는데..!👥\n\n오감 서스펜스 #본대로말하라\n이번주 토/일 밤 10시 50분 최종화\n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/S5oPz4bcca"
 	},
 	{
 		"created_at": "Fri Mar 20 14:41:06 +0000 2020",
