@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 13:03:07 +0000 2020",
+		"id": 1242398842462425000,
+		"id_str": "1242436783599575041",
+		"full_text": "[메이킹]눈물이 앞을 가려..최종화!\n#이제_tv에_안_나오는_거에요😭\n\n풀버전은👉 #네이버tv #youtube\n잠시후 공개될 종영소감도 기다려주세요!\n\n오감 서스펜스 #본대로말하라 \n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/kR6R3NPxT3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이제_tv에_안_나오는_거에요",
+					"indices": [
+						21,
+						38
+					]
+				},
+				{
+					"text": "네이버tv",
+					"indices": [
+						47,
+						53
+					]
+				},
+				{
+					"text": "youtube",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "본대로말하라",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "장혁",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "장현성",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "류승수",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "음문석",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242398436000841700,
+					"id_str": "1242398436000841729",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242398436000841729/pu/img/GK6qyKgOilE2CRJK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242398436000841729/pu/img/GK6qyKgOilE2CRJK.jpg",
+					"url": "https://t.co/kR6R3NPxT3",
+					"display_url": "pic.twitter.com/kR6R3NPxT3",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1242398842462425091/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242398436000841700,
+					"id_str": "1242398436000841729",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242398436000841729/pu/img/GK6qyKgOilE2CRJK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242398436000841729/pu/img/GK6qyKgOilE2CRJK.jpg",
+					"url": "https://t.co/kR6R3NPxT3",
+					"display_url": "pic.twitter.com/kR6R3NPxT3",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1242398842462425091/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1282,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							641,
+							360
+						],
+						"duration_millis": 59093,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1242398436000841729/pu/pl/ngGp1d4qm9dsUMDd.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242398436000841729/pu/vid/480x270/yJ5vYrP9xpVnEXd8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242398436000841729/pu/vid/1282x720/yFiqV3qci6Me-AOi.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1242398436000841729/pu/vid/640x360/BSnIYyqPxePOZciU.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "🔜 2020 3/28 첫방송. 토일 밤 10:50 #루갈\n⚠️🎥coming soon.. #번외수사 #트레인 #써치",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44759,
+			"friends_count": 2,
+			"listed_count": 253,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234360771728965632/RQw40aYk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1583151463",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[메이킹]눈물이 앞을 가려..최종화!\n#이제_tv에_안_나오는_거에요😭\n\n풀버전은👉 #네이버tv #youtube\n잠시후 공개될 종영소감도 기다려주세요!\n\n오감 서스펜스 #본대로말하라 \n#장혁 #최수영 #진서연 #장현성 #류승수 #음문석 https://t.co/kR6R3NPxT3"
+	},
+	{
 		"created_at": "Tue Mar 24 11:41:09 +0000 2020",
 		"id": 1242413936583905300,
 		"id_str": "1242416158613135360",
