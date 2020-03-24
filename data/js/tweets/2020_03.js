@@ -1,6 +1,556 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 01:41:13 +0000 2020",
+		"id": 1242256276060422100,
+		"id_str": "1242265179104186368",
+		"full_text": "#YOONA #윤아 #소녀시대 #GirlsGeneration https://t.co/5K8pkjvPFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						7,
+						10
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242256267038429200,
+					"id_str": "1242256267038429184",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hfjzUEAALFYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hfjzUEAALFYO.jpg",
+					"url": "https://t.co/5K8pkjvPFv",
+					"display_url": "pic.twitter.com/5K8pkjvPFv",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256276060422144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242256267038429200,
+					"id_str": "1242256267038429184",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hfjzUEAALFYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hfjzUEAALFYO.jpg",
+					"url": "https://t.co/5K8pkjvPFv",
+					"display_url": "pic.twitter.com/5K8pkjvPFv",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256276060422144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1242256266044424200,
+					"id_str": "1242256266044424193",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hfgGUwAEF1pi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hfgGUwAEF1pi.jpg",
+					"url": "https://t.co/5K8pkjvPFv",
+					"display_url": "pic.twitter.com/5K8pkjvPFv",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256276060422144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1639,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242256260579217400,
+		"in_reply_to_status_id_str": "1242256260579217408",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3563052,
+			"friends_count": 4,
+			"listed_count": 6073,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1515,
+		"favorite_count": 3014,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#YOONA #윤아 #소녀시대 #GirlsGeneration https://t.co/5K8pkjvPFv"
+	},
+	{
+		"created_at": "Tue Mar 24 01:41:10 +0000 2020",
+		"id": 1242256260579217400,
+		"id_str": "1242265165896257541",
+		"full_text": "윤아 &lt;로피시엘 YK 에디션&gt; 2020년 봄·여름호 표지 장식!\n윤아의 감각적인 화보와 인터뷰를 3월 31일 발행되는 &lt;로피시엘 YK에디션&gt; 2020년 봄·여름호에서 만나보세요! 🦌💛\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration https://t.co/a7HQLrUr8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242256231885992000,
+					"id_str": "1242256231885991936",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hdg2UcAA4_KS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hdg2UcAA4_KS.jpg",
+					"url": "https://t.co/a7HQLrUr8C",
+					"display_url": "pic.twitter.com/a7HQLrUr8C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256260579217408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 925,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242256231885992000,
+					"id_str": "1242256231885991936",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hdg2UcAA4_KS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hdg2UcAA4_KS.jpg",
+					"url": "https://t.co/a7HQLrUr8C",
+					"display_url": "pic.twitter.com/a7HQLrUr8C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256260579217408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 925,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1242256231890182100,
+					"id_str": "1242256231890182144",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hdg3UYAAC9P6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hdg3UYAAC9P6.jpg",
+					"url": "https://t.co/a7HQLrUr8C",
+					"display_url": "pic.twitter.com/a7HQLrUr8C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256260579217408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 925,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1242256231881834500,
+					"id_str": "1242256231881834496",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hdg1VAAAinvZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hdg1VAAAinvZ.jpg",
+					"url": "https://t.co/a7HQLrUr8C",
+					"display_url": "pic.twitter.com/a7HQLrUr8C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256260579217408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 524,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1578,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 925,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1242256231886012400,
+					"id_str": "1242256231886012416",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/ET1hdg2UwAAsCQj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET1hdg2UwAAsCQj.jpg",
+					"url": "https://t.co/a7HQLrUr8C",
+					"display_url": "pic.twitter.com/a7HQLrUr8C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1242256260579217408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1586,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 929,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3563052,
+			"friends_count": 4,
+			"listed_count": 6073,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2864,
+		"favorite_count": 5678,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "윤아 &lt;로피시엘 YK 에디션&gt; 2020년 봄·여름호 표지 장식!\n윤아의 감각적인 화보와 인터뷰를 3월 31일 발행되는 &lt;로피시엘 YK에디션&gt; 2020년 봄·여름호에서 만나보세요! 🦌💛\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration https://t.co/a7HQLrUr8C"
+	},
+	{
 		"created_at": "Sun Mar 22 15:41:10 +0000 2020",
 		"id": 1241746570757861400,
 		"id_str": "1241751783640379395",
