@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 25 01:41:10 +0000 2020",
+		"id": 1242616109825544200,
+		"id_str": "1242627552600080384",
+		"full_text": "LIMYOONA has been cast as the main character in the JTBC drama series ‘Hush'(working title)!\nStay tuned for the 'Box-Office Queen' LIMYOONA's acting as the role of intern reporter Lee Jisoo!🦌💛\n\n#LIMYOONA #YOONA #윤아 #소녀시대 #GirlsGeneration #허쉬 #Hush #이지수 #Leejisoo https://t.co/9mbJfsIkY2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						194,
+						203
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						211,
+						214
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						221,
+						237
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						238,
+						241
+					]
+				},
+				{
+					"text": "Hush",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						248,
+						252
+					]
+				},
+				{
+					"text": "Leejisoo",
+					"indices": [
+						253,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1242616099780231200,
+					"id_str": "1242616099780231168",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/ET6owlOVAAAXp6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET6owlOVAAAXp6A.jpg",
+					"url": "https://t.co/9mbJfsIkY2",
+					"display_url": "pic.twitter.com/9mbJfsIkY2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1242616109825544193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1242616099780231200,
+					"id_str": "1242616099780231168",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/ET6owlOVAAAXp6A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ET6owlOVAAAXp6A.jpg",
+					"url": "https://t.co/9mbJfsIkY2",
+					"display_url": "pic.twitter.com/9mbJfsIkY2",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1242616109825544193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SM Entertainment Group Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8103725,
+			"friends_count": 49,
+			"listed_count": 10153,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1407,
+		"favorite_count": 3217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "LIMYOONA has been cast as the main character in the JTBC drama series ‘Hush'(working title)!\nStay tuned for the 'Box-Office Queen' LIMYOONA's acting as the role of intern reporter Lee Jisoo!🦌💛\n\n#LIMYOONA #YOONA #윤아 #소녀시대 #GirlsGeneration #허쉬 #Hush #이지수 #Leejisoo https://t.co/9mbJfsIkY2"
+	},
+	{
 		"created_at": "Tue Mar 24 13:03:07 +0000 2020",
 		"id": 1242398842462425000,
 		"id_str": "1242436783599575041",
