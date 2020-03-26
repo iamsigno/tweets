@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 26 11:41:10 +0000 2020",
+		"id": 1243129585585098800,
+		"id_str": "1243140935283806209",
+		"full_text": "[V ORIGINAL] 다가오는 수시 그리고 쌓여가는 오해들 속에서🤯 유리와 진아에게도 위기가 찾아왔대요😭💦 입시와 우정 그 무엇하나 쉽사리 얻어지지 않는 고3‼️ 그들의 이야기가 궁금하다면 지금 바로 언어의 온도를 만나보세요✔️\n\n▶️ https://t.co/CMcfts2zF3\n\n#V_ORIGINAL #언어의온도 #VLIVE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "V_ORIGINAL",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"text": "언어의온도",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CMcfts2zF3",
+					"expanded_url": "https://www.vlive.tv/video/177106/playlist/175017",
+					"display_url": "vlive.tv/video/177106/p…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3683719,
+			"friends_count": 167,
+			"listed_count": 2009,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 348,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V ORIGINAL] 다가오는 수시 그리고 쌓여가는 오해들 속에서🤯 유리와 진아에게도 위기가 찾아왔대요😭💦 입시와 우정 그 무엇하나 쉽사리 얻어지지 않는 고3‼️ 그들의 이야기가 궁금하다면 지금 바로 언어의 온도를 만나보세요✔️\n\n▶️ https://t.co/CMcfts2zF3\n\n#V_ORIGINAL #언어의온도 #VLIVE"
+	},
+	{
 		"created_at": "Wed Mar 25 10:32:49 +0000 2020",
 		"id": 1242758135036641300,
 		"id_str": "1242761349739868161",
