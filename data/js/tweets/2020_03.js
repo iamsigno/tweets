@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 30 10:58:20 +0000 2020",
+		"id": 1244565028692537300,
+		"id_str": "1244579707707768836",
+		"full_text": "이태원 클라쓰부터 아이유, 태연까지🎶 K-드라마 띵곡 OST 매쉬업!\nK-Drama OST Mashup! #MusicCircle #뮤직써클\n\n🎙Vocals by. 가호 &amp; 린지 https://t.co/TLAutSvMra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MusicCircle",
+					"indices": [
+						59,
+						71
+					]
+				},
+				{
+					"text": "뮤직써클",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244498235068014600,
+					"id_str": "1244498235068014593",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1244498235068014593/img/UKPvgNRpkHnvmAJj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1244498235068014593/img/UKPvgNRpkHnvmAJj.jpg",
+					"url": "https://t.co/TLAutSvMra",
+					"display_url": "pic.twitter.com/TLAutSvMra",
+					"expanded_url": "https://twitter.com/1theK/status/1244565028692537346/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244498235068014600,
+					"id_str": "1244498235068014593",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1244498235068014593/img/UKPvgNRpkHnvmAJj.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1244498235068014593/img/UKPvgNRpkHnvmAJj.jpg",
+					"url": "https://t.co/TLAutSvMra",
+					"display_url": "pic.twitter.com/TLAutSvMra",
+					"expanded_url": "https://twitter.com/1theK/status/1244565028692537346/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 213447,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1244498235068014593/vid/640x360/L4P2H9vjGCxioxIJ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1244498235068014593/pl/Nel69eBiVLvpTOlM.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1244498235068014593/vid/1280x720/O2qT58ibh1Aguw4G.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1244498235068014593/vid/480x270/JgZLEz1YiWXubCpc.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[Music Circle] K-Drama OST Mashup",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/rJ0emVIu2Eo"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1858254,
+			"friends_count": 813,
+			"listed_count": 2777,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1575125308",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 131,
+		"favorite_count": 285,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이태원 클라쓰부터 아이유, 태연까지🎶 K-드라마 띵곡 OST 매쉬업!\nK-Drama OST Mashup! #MusicCircle #뮤직써클\n\n🎙Vocals by. 가호 &amp; 린지 https://t.co/TLAutSvMra"
+	},
+	{
 		"created_at": "Sat Mar 28 21:06:57 +0000 2020",
 		"id": 1242982647338434600,
 		"id_str": "1244008098815078400",
