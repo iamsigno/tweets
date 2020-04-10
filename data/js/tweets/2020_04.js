@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 15:38:34 +0000 2020",
+		"id": 1248537116696404000,
+		"id_str": "1248636498682900486",
+		"full_text": "𝑻𝑯𝑬 𝑼𝑵𝑺𝑬𝑬𝑵\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration https://t.co/3t4gBd6ef7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1248536942385324000,
+					"id_str": "1248536942385324032",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOxu-vUYAAZ53k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOxu-vUYAAZ53k.jpg",
+					"url": "https://t.co/3t4gBd6ef7",
+					"display_url": "pic.twitter.com/3t4gBd6ef7",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1248537116696403968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248536942385324000,
+					"id_str": "1248536942385324032",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOxu-vUYAAZ53k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOxu-vUYAAZ53k.jpg",
+					"url": "https://t.co/3t4gBd6ef7",
+					"display_url": "pic.twitter.com/3t4gBd6ef7",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1248537116696403968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248536957895848000,
+					"id_str": "1248536957895847939",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOxv4hUMAMk_Fz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOxv4hUMAMk_Fz.jpg",
+					"url": "https://t.co/3t4gBd6ef7",
+					"display_url": "pic.twitter.com/3t4gBd6ef7",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1248537116696403968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248536982055088000,
+					"id_str": "1248536982055088130",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOxxShU8AI_aOB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOxxShU8AI_aOB.jpg",
+					"url": "https://t.co/3t4gBd6ef7",
+					"display_url": "pic.twitter.com/3t4gBd6ef7",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1248537116696403968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248536993719406600,
+					"id_str": "1248536993719406592",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/media/EVOxx9-UUAAb3pR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVOxx9-UUAAb3pR.jpg",
+					"url": "https://t.co/3t4gBd6ef7",
+					"display_url": "pic.twitter.com/3t4gBd6ef7",
+					"expanded_url": "https://twitter.com/raisondetre309/status/1248537116696403968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1032287231325560800,
+			"id_str": "1032287231325560833",
+			"name": "raison d'être",
+			"screen_name": "raisondetre309",
+			"location": "",
+			"description": "-존재의 이유-",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5663,
+			"friends_count": 1,
+			"listed_count": 304,
+			"created_at": "Wed Aug 22 15:23:49 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1186829109332078593/_-Hq30uI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186829109332078593/_-Hq30uI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1032287231325560833/1578923303",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1000,
+		"favorite_count": 1632,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "𝑻𝑯𝑬 𝑼𝑵𝑺𝑬𝑬𝑵\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration https://t.co/3t4gBd6ef7"
+	},
+	{
 		"created_at": "Fri Apr 10 10:17:26 +0000 2020",
 		"id": 1247860364609384400,
 		"id_str": "1248555683542417408",
