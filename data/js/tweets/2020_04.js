@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 03:58:30 +0000 2020",
+		"id": 1248956524266807300,
+		"id_str": "1249185095774285830",
+		"full_text": "태연 비긴어게인3 음원추출 앨범 (총20곡)\n#태연 #TAEYEON \n\n🔗 https://t.co/44MXJIHddO https://t.co/iuui5hXQcv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						25,
+						28
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/44MXJIHddO",
+					"expanded_url": "http://bitly.kr/DnFHnyTy",
+					"display_url": "bitly.kr/DnFHnyTy",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1248956516704477200,
+					"id_str": "1248956516704477187",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EVUvVa4UYAMEG34.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVUvVa4UYAMEG34.jpg",
+					"url": "https://t.co/iuui5hXQcv",
+					"display_url": "pic.twitter.com/iuui5hXQcv",
+					"expanded_url": "https://twitter.com/309xoxo/status/1248956524266807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1248956516704477200,
+					"id_str": "1248956516704477187",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EVUvVa4UYAMEG34.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVUvVa4UYAMEG34.jpg",
+					"url": "https://t.co/iuui5hXQcv",
+					"display_url": "pic.twitter.com/iuui5hXQcv",
+					"expanded_url": "https://twitter.com/309xoxo/status/1248956524266807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 724,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1248956516704465000,
+					"id_str": "1248956516704464897",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/EVUvVa4UMAEm0Vb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVUvVa4UMAEm0Vb.jpg",
+					"url": "https://t.co/iuui5hXQcv",
+					"display_url": "pic.twitter.com/iuui5hXQcv",
+					"expanded_url": "https://twitter.com/309xoxo/status/1248956524266807297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 982,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 652,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 982,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1109369472601587700,
+			"id_str": "1109369472601587712",
+			"name": "🅑🅤🅝🅝🅨",
+			"screen_name": "309xoxo",
+			"location": "",
+			"description": "🎃🐠🦋💜💫✨",
+			"url": "https://t.co/ynpAJL0hLO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ynpAJL0hLO",
+							"expanded_url": "https://peing.net/ko/309xoxo",
+							"display_url": "peing.net/ko/309xoxo",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 894,
+			"friends_count": 43,
+			"listed_count": 10,
+			"created_at": "Sat Mar 23 08:21:08 +0000 2019",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247402481732055041/6T-P_zjZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247402481732055041/6T-P_zjZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1109369472601587712/1585465988",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1275,
+		"favorite_count": 1590,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 비긴어게인3 음원추출 앨범 (총20곡)\n#태연 #TAEYEON \n\n🔗 https://t.co/44MXJIHddO https://t.co/iuui5hXQcv"
+	},
+	{
 		"created_at": "Sat Apr 11 12:54:06 +0000 2020",
 		"id": 1248957498637406200,
 		"id_str": "1248957498637406210",
