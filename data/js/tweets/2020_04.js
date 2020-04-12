@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 12 12:31:36 +0000 2020",
+		"id": 1249305384126464000,
+		"id_str": "1249314224368545792",
+		"full_text": "[INSTAGRAM CAROUSEL] yoona__lim: 쨘 https://t.co/JoT4jioClf (3P) #yoongstagram https://t.co/1FyqdQINFg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yoongstagram",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JoT4jioClf",
+					"expanded_url": "https://www.instagram.com/p/B-4UIYCHEMq/",
+					"display_url": "instagram.com/p/B-4UIYCHEMq/",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1249305377382043600,
+					"id_str": "1249305377382043649",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsnyLXkAEfduB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsnyLXkAEfduB.jpg",
+					"url": "https://t.co/1FyqdQINFg",
+					"display_url": "pic.twitter.com/1FyqdQINFg",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1249305384126464005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1249305377382043600,
+					"id_str": "1249305377382043649",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsnyLXkAEfduB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsnyLXkAEfduB.jpg",
+					"url": "https://t.co/1FyqdQINFg",
+					"display_url": "pic.twitter.com/1FyqdQINFg",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1249305384126464005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249305379995095000,
+					"id_str": "1249305379995095040",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsn76XkAAbGLu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsn76XkAAbGLu.jpg",
+					"url": "https://t.co/1FyqdQINFg",
+					"display_url": "pic.twitter.com/1FyqdQINFg",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1249305384126464005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1249305382637441000,
+					"id_str": "1249305382637441025",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EVZsoFwWkAEDkmG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVZsoFwWkAEDkmG.jpg",
+					"url": "https://t.co/1FyqdQINFg",
+					"display_url": "pic.twitter.com/1FyqdQINFg",
+					"expanded_url": "https://twitter.com/yoongstagrm/status/1249305384126464005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1124,
+							"h": 1124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://yoona.soshistagram.com\" rel=\"nofollow\">Yoongstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2446652564,
+			"id_str": "2446652564",
+			"name": "Yoongstagram",
+			"screen_name": "yoongstagrm",
+			"location": "",
+			"description": "Bot tweeting Yoona's updates and comments on Instagram. Built by @thegoguma. Also @yulstagrm @seostagrm @miyoungstagram @syoungstagram @sicafeed",
+			"url": "https://t.co/4tDvSU72JC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4tDvSU72JC",
+							"expanded_url": "https://yoongstagrm.tumblr.com/",
+							"display_url": "yoongstagrm.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39374,
+			"friends_count": 0,
+			"listed_count": 734,
+			"created_at": "Wed Apr 16 06:13:24 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/648018860801585153/Uv9Gqcpc_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1209,
+		"favorite_count": 949,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[INSTAGRAM CAROUSEL] yoona__lim: 쨘 https://t.co/JoT4jioClf (3P) #yoongstagram https://t.co/1FyqdQINFg"
+	},
+	{
 		"created_at": "Sun Apr 12 03:58:30 +0000 2020",
 		"id": 1248956524266807300,
 		"id_str": "1249185095774285830",
