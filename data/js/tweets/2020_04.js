@@ -1,6 +1,953 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 18 17:49:42 +0000 2020",
+		"id": 1251443221344870400,
+		"id_str": "1251568603687600129",
+		"full_text": "📸 '어떤 옷을 입어도 이게 바로 나, 임윤아!'라는 문장에 걸맞게 강렬하게 혹은 고혹적으로 그 어느 때보다 다채롭게 변신한 모습을 선보인 임윤아의 커버 촬영 현장 영상. \n\n#YOONA #LOFFICIEL https://t.co/94Ms85zqFl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						98,
+						104
+					]
+				},
+				{
+					"text": "LOFFICIEL",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251443144278720500,
+					"id_str": "1251443144278720513",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251443144278720513/pu/img/i7SJMMrV2Lm0vxeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251443144278720513/pu/img/i7SJMMrV2Lm0vxeR.jpg",
+					"url": "https://t.co/94Ms85zqFl",
+					"display_url": "pic.twitter.com/94Ms85zqFl",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251443221344870401/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251443144278720500,
+					"id_str": "1251443144278720513",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251443144278720513/pu/img/i7SJMMrV2Lm0vxeR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251443144278720513/pu/img/i7SJMMrV2Lm0vxeR.jpg",
+					"url": "https://t.co/94Ms85zqFl",
+					"display_url": "pic.twitter.com/94Ms85zqFl",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251443221344870401/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37405,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1251443144278720513/pu/pl/mQX0aCDd0y0NGMfB.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251443144278720513/pu/vid/1280x720/lkYFGXqwdH0GLwfu.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251443144278720513/pu/vid/640x360/WaLEKLMOfDD886Jc.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1251443144278720513/pu/vid/480x270/FxO_DFMoCqkO6ojV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1251440390244200400,
+		"in_reply_to_status_id_str": "1251440390244200450",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13336,
+			"friends_count": 9,
+			"listed_count": 314,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1586687622",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📸 '어떤 옷을 입어도 이게 바로 나, 임윤아!'라는 문장에 걸맞게 강렬하게 혹은 고혹적으로 그 어느 때보다 다채롭게 변신한 모습을 선보인 임윤아의 커버 촬영 현장 영상. \n\n#YOONA #LOFFICIEL https://t.co/94Ms85zqFl"
+	},
+	{
+		"created_at": "Sat Apr 18 17:49:28 +0000 2020",
+		"id": 1251441264542638000,
+		"id_str": "1251568545357430784",
+		"full_text": "COVER STORY 긍정의 마음이 지금의 윤아를 만들었다. 가장 행복했던 기억들도 너무 많다고 말하는 그녀. LIM YOONA 지금, 여기, 임윤아 \n\n💛 소녀시대? \"나에게는 여전히 늘 가장 특별하고 편한 사람들이다.\" \n👉🏻 https://t.co/TUiCrHkV0f \n\n#윤아 #임윤아 #로피시엘 #YOONA #LOFFICIEL https://t.co/OyrcSQ8TYD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "로피시엘",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "LOFFICIEL",
+					"indices": [
+						177,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TUiCrHkV0f",
+					"expanded_url": "https://bit.ly/2URv3AE",
+					"display_url": "bit.ly/2URv3AE",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251441136972918800,
+					"id_str": "1251441136972918784",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4DFWqU8AAFvEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4DFWqU8AAFvEU.jpg",
+					"url": "https://t.co/OyrcSQ8TYD",
+					"display_url": "pic.twitter.com/OyrcSQ8TYD",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251441264542638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 915,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1561,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251441136972918800,
+					"id_str": "1251441136972918784",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4DFWqU8AAFvEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4DFWqU8AAFvEU.jpg",
+					"url": "https://t.co/OyrcSQ8TYD",
+					"display_url": "pic.twitter.com/OyrcSQ8TYD",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251441264542638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 915,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1561,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 518,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251441176789389300,
+					"id_str": "1251441176789389312",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4DHq_UEAAwPAU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4DHq_UEAAwPAU.jpg",
+					"url": "https://t.co/OyrcSQ8TYD",
+					"display_url": "pic.twitter.com/OyrcSQ8TYD",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251441264542638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1555,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251441210406789000,
+					"id_str": "1251441210406789120",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4DJoOU4AAOhE8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4DJoOU4AAOhE8.jpg",
+					"url": "https://t.co/OyrcSQ8TYD",
+					"display_url": "pic.twitter.com/OyrcSQ8TYD",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251441264542638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 845,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1442,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251441243525009400,
+					"id_str": "1251441243525009409",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4DLjmU0AENT52.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4DLjmU0AENT52.jpg",
+					"url": "https://t.co/OyrcSQ8TYD",
+					"display_url": "pic.twitter.com/OyrcSQ8TYD",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251441264542638080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1441,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1251440390244200400,
+		"in_reply_to_status_id_str": "1251440390244200450",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13336,
+			"friends_count": 9,
+			"listed_count": 314,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1586687622",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 315,
+		"favorite_count": 336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "COVER STORY 긍정의 마음이 지금의 윤아를 만들었다. 가장 행복했던 기억들도 너무 많다고 말하는 그녀. LIM YOONA 지금, 여기, 임윤아 \n\n💛 소녀시대? \"나에게는 여전히 늘 가장 특별하고 편한 사람들이다.\" \n👉🏻 https://t.co/TUiCrHkV0f \n\n#윤아 #임윤아 #로피시엘 #YOONA #LOFFICIEL https://t.co/OyrcSQ8TYD"
+	},
+	{
+		"created_at": "Sat Apr 18 17:48:24 +0000 2020",
+		"id": 1251440390244200400,
+		"id_str": "1251568277232336896",
+		"full_text": "YOONA L’OFFICIEL YK EDITION SPRING-SUMMER 2020 \n\n✔️ ME AS I AM 어떤 옷을 입어도 이게 바로 나, 윤아. STAY HERE, NOW 지금, 여기, 임윤아 \n👉🏻 https://t.co/TUiCrHkV0f \n\n#윤아 #임윤아 #소녀시대 #로피시엘 #YOONA #GirlsGeneration #LOFFICIEL https://t.co/csTQ3jQX2f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "로피시엘",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "LOFFICIEL",
+					"indices": [
+						188,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TUiCrHkV0f",
+					"expanded_url": "https://bit.ly/2URv3AE",
+					"display_url": "bit.ly/2URv3AE",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1251440171922321400,
+					"id_str": "1251440171922321410",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4CNLkVcAI1uwF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4CNLkVcAI1uwF.jpg",
+					"url": "https://t.co/csTQ3jQX2f",
+					"display_url": "pic.twitter.com/csTQ3jQX2f",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251440390244200450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1555,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251440171922321400,
+					"id_str": "1251440171922321410",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4CNLkVcAI1uwF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4CNLkVcAI1uwF.jpg",
+					"url": "https://t.co/csTQ3jQX2f",
+					"display_url": "pic.twitter.com/csTQ3jQX2f",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251440390244200450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1555,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251440191031570400,
+					"id_str": "1251440191031570433",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4COSwVcAEbPvy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4COSwVcAEbPvy.jpg",
+					"url": "https://t.co/csTQ3jQX2f",
+					"display_url": "pic.twitter.com/csTQ3jQX2f",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251440390244200450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1558,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 913,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251440216570605600,
+					"id_str": "1251440216570605569",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4CPx5UMAEGcw7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4CPx5UMAEGcw7.jpg",
+					"url": "https://t.co/csTQ3jQX2f",
+					"display_url": "pic.twitter.com/csTQ3jQX2f",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251440390244200450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1556,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 912,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 517,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1251440361815195600,
+					"id_str": "1251440361815195648",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/EV4CYO-UwAAbQQk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EV4CYO-UwAAbQQk.jpg",
+					"url": "https://t.co/csTQ3jQX2f",
+					"display_url": "pic.twitter.com/csTQ3jQX2f",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1251440390244200450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1445,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 847,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13336,
+			"friends_count": 9,
+			"listed_count": 314,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1586687622",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 944,
+		"favorite_count": 1171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YOONA L’OFFICIEL YK EDITION SPRING-SUMMER 2020 \n\n✔️ ME AS I AM 어떤 옷을 입어도 이게 바로 나, 윤아. STAY HERE, NOW 지금, 여기, 임윤아 \n👉🏻 https://t.co/TUiCrHkV0f \n\n#윤아 #임윤아 #소녀시대 #로피시엘 #YOONA #GirlsGeneration #LOFFICIEL https://t.co/csTQ3jQX2f"
+	},
+	{
 		"created_at": "Fri Apr 17 05:41:10 +0000 2020",
 		"id": 1251022674349809700,
 		"id_str": "1251022871083827206",
