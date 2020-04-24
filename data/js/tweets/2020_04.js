@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 05:05:12 +0000 2020",
+		"id": 1253228430360903700,
+		"id_str": "1253550537066246145",
+		"full_text": "[단독] 소녀시대 효연, 엠넷 新 힙합 뮤직쇼 ˙굿 걸˙ 출격 (출처 : 이데일리 | 네이버 TV연예) \n\n📰https://t.co/mAtu0JP7iB\n\n#효연 #Hyoyeon #소녀시대 #GOODGIRL https://t.co/fYg9SqRh7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "Hyoyeon",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						105,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mAtu0JP7iB",
+					"expanded_url": "http://naver.me/xitPXqEH",
+					"display_url": "naver.me/xitPXqEH",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1253228320117801000,
+					"id_str": "1253228320117800960",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRchGsUwAAw5U2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRchGsUwAAw5U2.jpg",
+					"url": "https://t.co/fYg9SqRh7I",
+					"display_url": "pic.twitter.com/fYg9SqRh7I",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1253228430360903680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 670,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253228320117801000,
+					"id_str": "1253228320117800960",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/EWRchGsUwAAw5U2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWRchGsUwAAw5U2.jpg",
+					"url": "https://t.co/fYg9SqRh7I",
+					"display_url": "pic.twitter.com/fYg9SqRh7I",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1253228430360903680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 377,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 670,
+							"h": 377,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 377,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "대한민국",
+			"description": "지금은, 앞으로도, 영원히 소녀시대",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37365,
+			"friends_count": 60,
+			"listed_count": 240,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26480,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244803235069620224/zGT21zAb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244803235069620224/zGT21zAb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173447107/1548207558",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 660,
+		"favorite_count": 400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[단독] 소녀시대 효연, 엠넷 新 힙합 뮤직쇼 ˙굿 걸˙ 출격 (출처 : 이데일리 | 네이버 TV연예) \n\n📰https://t.co/mAtu0JP7iB\n\n#효연 #Hyoyeon #소녀시대 #GOODGIRL https://t.co/fYg9SqRh7I"
+	},
+	{
 		"created_at": "Wed Apr 22 06:41:10 +0000 2020",
 		"id": 1252835333927927800,
 		"id_str": "1252849910321344513",
