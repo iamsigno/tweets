@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 25 05:45:28 +0000 2020",
+		"id": 1253708996248125400,
+		"id_str": "1253923060165382145",
+		"full_text": "SEOHYUN Esquire Korea May 2020 \n\n🌸 봄 햇살 같은 그녀, 서현. 연기자 서현 그리고 그녀의 '사생활' \n👉🏻 https://t.co/TgCiihoKOE \n\n#서현 #서주현 #소녀시대 #에스콰이어 #SEOHYUN #GirlsGeneration #Esquire #ESQUIREKOREA https://t.co/m9Xk0YuUDb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "서주현",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "에스콰이어",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"text": "Esquire",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "ESQUIREKOREA",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TgCiihoKOE",
+					"expanded_url": "https://www.facebook.com/ggpm2012/posts/2700489956729658",
+					"display_url": "facebook.com/ggpm2012/posts…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1253708971820503000,
+					"id_str": "1253708971820503041",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYRqt0U0AEg3Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYRqt0U0AEg3Z7.jpg",
+					"url": "https://t.co/m9Xk0YuUDb",
+					"display_url": "pic.twitter.com/m9Xk0YuUDb",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1253708996248125441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253708971820503000,
+					"id_str": "1253708971820503041",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYRqt0U0AEg3Z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYRqt0U0AEg3Z7.jpg",
+					"url": "https://t.co/m9Xk0YuUDb",
+					"display_url": "pic.twitter.com/m9Xk0YuUDb",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1253708996248125441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1422,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1253708982985752600,
+					"id_str": "1253708982985752578",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYRrXaVAAIzwLG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYRrXaVAAIzwLG.jpg",
+					"url": "https://t.co/m9Xk0YuUDb",
+					"display_url": "pic.twitter.com/m9Xk0YuUDb",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1253708996248125441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 938,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1381,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13341,
+			"friends_count": 9,
+			"listed_count": 318,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1587743821",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 372,
+		"favorite_count": 647,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SEOHYUN Esquire Korea May 2020 \n\n🌸 봄 햇살 같은 그녀, 서현. 연기자 서현 그리고 그녀의 '사생활' \n👉🏻 https://t.co/TgCiihoKOE \n\n#서현 #서주현 #소녀시대 #에스콰이어 #SEOHYUN #GirlsGeneration #Esquire #ESQUIREKOREA https://t.co/m9Xk0YuUDb"
+	},
+	{
 		"created_at": "Fri Apr 24 16:50:42 +0000 2020",
 		"id": 1253674568784310300,
 		"id_str": "1253728081509888000",
