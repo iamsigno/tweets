@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 01:41:17 +0000 2020",
+		"id": 1255307328980729900,
+		"id_str": "1255311157298171904",
+		"full_text": "사랑스런 '믿듣탱’ 태연의 신곡 ‘Happy’! \n5월 4일에 만날 수 있어요!\n\n📌발매기념 네이버 V라이브 : 5월 4일 오후7시\n\n설렘과 행복을 담은 '힐링송’을 선사하는 태연의 'Happy' 5월 4일 오후 6시에 우리 함께 들어요!💜\n\n#태연 #믿듣탱 #TAEYEON #소녀시대 #GirlsGeneration #Happy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						160,
+						176
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560143,
+			"friends_count": 4,
+			"listed_count": 6046,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 553,
+		"favorite_count": 929,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "사랑스런 '믿듣탱’ 태연의 신곡 ‘Happy’! \n5월 4일에 만날 수 있어요!\n\n📌발매기념 네이버 V라이브 : 5월 4일 오후7시\n\n설렘과 행복을 담은 '힐링송’을 선사하는 태연의 'Happy' 5월 4일 오후 6시에 우리 함께 들어요!💜\n\n#태연 #믿듣탱 #TAEYEON #소녀시대 #GirlsGeneration #Happy"
+	},
+	{
 		"created_at": "Tue Apr 28 15:41:10 +0000 2020",
 		"id": 1255149777437683700,
 		"id_str": "1255160132989829120",
