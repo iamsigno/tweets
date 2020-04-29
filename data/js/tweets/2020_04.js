@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 29 03:41:10 +0000 2020",
+		"id": 1255311745926692900,
+		"id_str": "1255341327224578050",
+		"full_text": "권유리, MBC FM4U ‘꿈꾸는 라디오’ \n5일간의 스페셜 DJ💕!\n\n📌4/29, 4/30, 5/1, 5/2, 5/3 오후 8시~10시\n\n깜짝 라디오 나들이로 글로벌 팬들의 관심을 집중시킨 유리의 DJ 활약을 오늘부터 5월 3일까지 매일 오후 8시 함께 만나요!🙂\n\n#KWONYURI #권유리 #꿈꾸는라디오 https://t.co/pR1AQJ8ERo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "꿈꾸는라디오",
+					"indices": [
+						165,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255311735420063700,
+					"id_str": "1255311735420063745",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EWvDX1gXkAEQtPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWvDX1gXkAEQtPW.jpg",
+					"url": "https://t.co/pR1AQJ8ERo",
+					"display_url": "pic.twitter.com/pR1AQJ8ERo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1255311745926692867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1519,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 948,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255311735420063700,
+					"id_str": "1255311735420063745",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EWvDX1gXkAEQtPW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWvDX1gXkAEQtPW.jpg",
+					"url": "https://t.co/pR1AQJ8ERo",
+					"display_url": "pic.twitter.com/pR1AQJ8ERo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1255311745926692867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1519,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 948,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560217,
+			"friends_count": 4,
+			"listed_count": 6048,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1584,
+		"favorite_count": 3289,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "권유리, MBC FM4U ‘꿈꾸는 라디오’ \n5일간의 스페셜 DJ💕!\n\n📌4/29, 4/30, 5/1, 5/2, 5/3 오후 8시~10시\n\n깜짝 라디오 나들이로 글로벌 팬들의 관심을 집중시킨 유리의 DJ 활약을 오늘부터 5월 3일까지 매일 오후 8시 함께 만나요!🙂\n\n#KWONYURI #권유리 #꿈꾸는라디오 https://t.co/pR1AQJ8ERo"
+	},
+	{
 		"created_at": "Wed Apr 29 02:09:07 +0000 2020",
 		"id": 1255318163962712000,
 		"id_str": "1255318163962712064",
