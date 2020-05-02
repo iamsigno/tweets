@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 02 03:41:09 +0000 2020",
+		"id": 1256412693960904700,
+		"id_str": "1256428489982558208",
+		"full_text": "#태연 신곡 ‘#Happy’ MV 티저 영상 다들 보셨나요?🥰\n\n좋은건 두번 세번 보아요!💜💜💜\n👉🏻https://t.co/35FgdsIfFZ\n\n💟 2020. 5. 4. 오후 6시 : 태연 신곡 'Happy' 음원 &amp; MV 공개!\n💟 2020. 5. 4. 오후 7시 : 네이버 V 라이브 'Happy for TAEYEON' 진행!\n\n#소녀시대 https://t.co/PU6xX7VRZG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						8,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						190,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/35FgdsIfFZ",
+					"expanded_url": "https://youtu.be/iitQsXTv4-Y",
+					"display_url": "youtu.be/iitQsXTv4-Y",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1256412684695662600,
+					"id_str": "1256412684695662594",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-srhKUcAIT4tv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-srhKUcAIT4tv.jpg",
+					"url": "https://t.co/PU6xX7VRZG",
+					"display_url": "pic.twitter.com/PU6xX7VRZG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1256412693960904706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 730,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256412684695662600,
+					"id_str": "1256412684695662594",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-srhKUcAIT4tv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW-srhKUcAIT4tv.jpg",
+					"url": "https://t.co/PU6xX7VRZG",
+					"display_url": "pic.twitter.com/PU6xX7VRZG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1256412693960904706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 428,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 730,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560160,
+			"friends_count": 4,
+			"listed_count": 6068,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3498,
+		"favorite_count": 5854,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#태연 신곡 ‘#Happy’ MV 티저 영상 다들 보셨나요?🥰\n\n좋은건 두번 세번 보아요!💜💜💜\n👉🏻https://t.co/35FgdsIfFZ\n\n💟 2020. 5. 4. 오후 6시 : 태연 신곡 'Happy' 음원 &amp; MV 공개!\n💟 2020. 5. 4. 오후 7시 : 네이버 V 라이브 'Happy for TAEYEON' 진행!\n\n#소녀시대 https://t.co/PU6xX7VRZG"
+	},
+	{
 		"created_at": "Sat May 02 02:49:31 +0000 2020",
 		"id": 1256415494422311000,
 		"id_str": "1256415494422310913",
