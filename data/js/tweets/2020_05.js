@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 04:41:15 +0000 2020",
+		"id": 1257115769638273000,
+		"id_str": "1257168387836436480",
+		"full_text": "‘믿듣탱’ D-DAY!🌼🌸🌺\n태연, 신곡 ‘Happy’ 오늘 발매!🎉\n\n💟 오늘 오후 6시 : 태연 신곡 'Happy' 음원 &amp; MV 공개!\n💟 오늘 오후 7시 : 네이버 V 라이브 'Happy for TAEYEON' 진행!\n\nMV 티저 보며 우리 함께 기다려요!🥰\n👉🏻https://t.co/35FgdsIfFZ\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						193,
+						198
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						216,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/35FgdsIfFZ",
+					"expanded_url": "https://youtu.be/iitQsXTv4-Y",
+					"display_url": "youtu.be/iitQsXTv4-Y",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3559900,
+			"friends_count": 4,
+			"listed_count": 6075,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2771,
+		"favorite_count": 4555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "‘믿듣탱’ D-DAY!🌼🌸🌺\n태연, 신곡 ‘Happy’ 오늘 발매!🎉\n\n💟 오늘 오후 6시 : 태연 신곡 'Happy' 음원 &amp; MV 공개!\n💟 오늘 오후 7시 : 네이버 V 라이브 'Happy for TAEYEON' 진행!\n\nMV 티저 보며 우리 함께 기다려요!🥰\n👉🏻https://t.co/35FgdsIfFZ\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy"
+	},
+	{
 		"created_at": "Mon May 04 03:51:17 +0000 2020",
 		"id": 1257155814130884600,
 		"id_str": "1257155814130884609",
