@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 08:41:10 +0000 2020",
+		"id": 1257218425232830500,
+		"id_str": "1257228764657958912",
+		"full_text": "#TAEYEON #태연 'Happy' MV Premiering at 6PM(KST)!!!\n잠시 후 6시, 태연의 'Happy' 뮤직비디오 최초 공개!\nYouTube SMTOWN 채널에서 가장 먼저 만나보세요 :)\n\n 🎥 #Happy MV (2020.05.04. 6PM KST)\n 👉🏻 https://t.co/CyM9OVafRo\n\n#소녀시대 #GirlsGeneration #태연이를_보면_소원은_HAPPY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						190,
+						206
+					]
+				},
+				{
+					"text": "태연이를_보면_소원은_HAPPY",
+					"indices": [
+						207,
+						225
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CyM9OVafRo",
+					"expanded_url": "https://youtu.be/Raj-AuQgCTg",
+					"display_url": "youtu.be/Raj-AuQgCTg",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560234,
+			"friends_count": 4,
+			"listed_count": 6075,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3543,
+		"favorite_count": 4109,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#TAEYEON #태연 'Happy' MV Premiering at 6PM(KST)!!!\n잠시 후 6시, 태연의 'Happy' 뮤직비디오 최초 공개!\nYouTube SMTOWN 채널에서 가장 먼저 만나보세요 :)\n\n 🎥 #Happy MV (2020.05.04. 6PM KST)\n 👉🏻 https://t.co/CyM9OVafRo\n\n#소녀시대 #GirlsGeneration #태연이를_보면_소원은_HAPPY"
+	},
+	{
 		"created_at": "Mon May 04 07:41:22 +0000 2020",
 		"id": 1257205560241356800,
 		"id_str": "1257213714857689089",
