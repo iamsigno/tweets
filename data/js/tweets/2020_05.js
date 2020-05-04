@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 07:41:22 +0000 2020",
+		"id": 1257205560241356800,
+		"id_str": "1257213714857689089",
+		"full_text": "[VLIVE] 🌊 이번 주 스페셜 라이브 라인업 🌊\n어느덧 찾아 온 5월에도 VLIVE와 함께하고 반짝반짝 스페셜한 한 주 보내세요✨❣️\n\n🌊 This week's special VLIVE 🌊\n\nIf you don't want to miss it, schedule broadcast alerts in advance ✨❣️\n\n#태연 #아스트로 #TAEYEON #ASTRO #VLIVE https://t.co/ZuBwnEKbpE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257205487629553700,
+					"id_str": "1257205487629553668",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EXJ9uuPU0AQk4nx.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXJ9uuPU0AQk4nx.png",
+					"url": "https://t.co/ZuBwnEKbpE",
+					"display_url": "pic.twitter.com/ZuBwnEKbpE",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1257205560241356801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257205487629553700,
+					"id_str": "1257205487629553668",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EXJ9uuPU0AQk4nx.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXJ9uuPU0AQk4nx.png",
+					"url": "https://t.co/ZuBwnEKbpE",
+					"display_url": "pic.twitter.com/ZuBwnEKbpE",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1257205560241356801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1257205550397321200,
+					"id_str": "1257205550397321217",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EXJ9yYEU8AEfAfm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXJ9yYEU8AEfAfm.png",
+					"url": "https://t.co/ZuBwnEKbpE",
+					"display_url": "pic.twitter.com/ZuBwnEKbpE",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1257205560241356801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845069,
+			"friends_count": 166,
+			"listed_count": 2046,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 70,
+		"favorite_count": 752,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VLIVE] 🌊 이번 주 스페셜 라이브 라인업 🌊\n어느덧 찾아 온 5월에도 VLIVE와 함께하고 반짝반짝 스페셜한 한 주 보내세요✨❣️\n\n🌊 This week's special VLIVE 🌊\n\nIf you don't want to miss it, schedule broadcast alerts in advance ✨❣️\n\n#태연 #아스트로 #TAEYEON #ASTRO #VLIVE https://t.co/ZuBwnEKbpE"
+	},
+	{
+		"created_at": "Mon May 04 07:41:16 +0000 2020",
+		"id": 1257130946316259300,
+		"id_str": "1257213689159180288",
+		"full_text": "May 4, 2020 (KST),\nGIRLS’ GENERATION's bubble starts now!\n\nA private messaging between your bias and yourself, \ndon’t miss the artist’s first message🙂\n\n📱Android https://t.co/uRaEWZESjj\n📱iOS https://t.co/Ei9S0aVc5P\n\n#Dear_U_bubble #Lysn #디어유 #버블 \n#소녀시대 #GirlsGeneration https://t.co/VT5wVCi2fh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Dear_U_bubble",
+					"indices": [
+						215,
+						229
+					]
+				},
+				{
+					"text": "Lysn",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "디어유",
+					"indices": [
+						236,
+						240
+					]
+				},
+				{
+					"text": "버블",
+					"indices": [
+						241,
+						244
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						246,
+						251
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						252,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uRaEWZESjj",
+					"expanded_url": "https://bit.ly/2RzesBM",
+					"display_url": "bit.ly/2RzesBM",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/Ei9S0aVc5P",
+					"expanded_url": "https://apple.co/2F9HnpN",
+					"display_url": "apple.co/2F9HnpN",
+					"indices": [
+						190,
+						213
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257130931686486000,
+					"id_str": "1257130931686486018",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXI56_tUMAIbRSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXI56_tUMAIbRSG.jpg",
+					"url": "https://t.co/VT5wVCi2fh",
+					"display_url": "pic.twitter.com/VT5wVCi2fh",
+					"expanded_url": "https://twitter.com/lysn_official/status/1257130946316259328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257130931686486000,
+					"id_str": "1257130931686486018",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EXI56_tUMAIbRSG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EXI56_tUMAIbRSG.jpg",
+					"url": "https://t.co/VT5wVCi2fh",
+					"display_url": "pic.twitter.com/VT5wVCi2fh",
+					"expanded_url": "https://twitter.com/lysn_official/status/1257130946316259328/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EXI56_tUMAIbRSG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1257130873712853000,
+		"in_reply_to_status_id_str": "1257130873712852992",
+		"in_reply_to_user_id": 1073401702512906200,
+		"in_reply_to_user_id_str": "1073401702512906240",
+		"in_reply_to_screen_name": "lysn_official",
+		"user": {
+			"id": 1073401702512906200,
+			"id_str": "1073401702512906240",
+			"name": "Lysn",
+			"screen_name": "lysn_official",
+			"location": "",
+			"description": "이 세상 어느 커뮤니티보다 내 관심사에 대해 자유롭게 이야기할 수 있는 공간. 당신은 어떤 이야기를 나누고 싶나요?",
+			"url": "https://t.co/1Rc5cWj5Zb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Rc5cWj5Zb",
+							"expanded_url": "https://www.lysn.com/",
+							"display_url": "lysn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5116,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Fri Dec 14 02:18:03 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076015181090582529/oBMqBCQ2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073401702512906240/1548383663",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 694,
+		"favorite_count": 652,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "May 4, 2020 (KST),\nGIRLS’ GENERATION's bubble starts now!\n\nA private messaging between your bias and yourself, \ndon’t miss the artist’s first message🙂\n\n📱Android https://t.co/uRaEWZESjj\n📱iOS https://t.co/Ei9S0aVc5P\n\n#Dear_U_bubble #Lysn #디어유 #버블 \n#소녀시대 #GirlsGeneration https://t.co/VT5wVCi2fh"
+	},
+	{
 		"created_at": "Mon May 04 06:46:32 +0000 2020",
 		"id": 1257199916214091800,
 		"id_str": "1257199916214091778",
