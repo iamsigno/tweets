@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 02:41:10 +0000 2020",
+		"id": 1257126907738329000,
+		"id_str": "1257138166756184069",
+		"full_text": "#오늘의발매_BK🎵\n🎧2020.May.04 - Today's Release🎧\nASTRO - Mini Album 'GATEWAY'\n태연 Taeyeon - Happy\n\n#ASTRO #아스트로 #GATEWAY #Knock #널찾아가\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/mihJQ9zeMc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의발매_BK",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "GATEWAY",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "Knock",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "널찾아가",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						163,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257126119246971000,
+					"id_str": "1257126119246970881",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EXI1i3-UwAELX10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXI1i3-UwAELX10.jpg",
+					"url": "https://t.co/mihJQ9zeMc",
+					"display_url": "pic.twitter.com/mihJQ9zeMc",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1257126907738329088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257126119246971000,
+					"id_str": "1257126119246970881",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EXI1i3-UwAELX10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXI1i3-UwAELX10.jpg",
+					"url": "https://t.co/mihJQ9zeMc",
+					"display_url": "pic.twitter.com/mihJQ9zeMc",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1257126907738329088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. 팔로우를 통해 더 많은 KPOP 소식을 받아보세요! Follow us to get more KPOP news, chart and events! #KPOPHOT100",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30526,
+			"friends_count": 20,
+			"listed_count": 83,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 46,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1585706963",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#오늘의발매_BK🎵\n🎧2020.May.04 - Today's Release🎧\nASTRO - Mini Album 'GATEWAY'\n태연 Taeyeon - Happy\n\n#ASTRO #아스트로 #GATEWAY #Knock #널찾아가\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Happy https://t.co/mihJQ9zeMc"
+	},
+	{
 		"created_at": "Mon May 04 01:41:16 +0000 2020",
 		"id": 1257123094587736000,
 		"id_str": "1257123094587736067",
