@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 08 20:50:23 +0000 2020",
+		"id": 1258685166802722800,
+		"id_str": "1258861829368893440",
+		"full_text": "[#굿걸] 10 QUESTIONS with GG I #효연(#HYOYEON)\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n5월 14일 (목) 밤 9시 30분 첫 방송\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 https://t.co/fPZA6vRVaG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						147,
+						166
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258684966361133000,
+					"id_str": "1258684966361133064",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258684966361133064/pu/img/d-p78RYC1cniFCg9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258684966361133064/pu/img/d-p78RYC1cniFCg9.jpg",
+					"url": "https://t.co/fPZA6vRVaG",
+					"display_url": "pic.twitter.com/fPZA6vRVaG",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1258685166802722816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258684966361133000,
+					"id_str": "1258684966361133064",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258684966361133064/pu/img/d-p78RYC1cniFCg9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258684966361133064/pu/img/d-p78RYC1cniFCg9.jpg",
+					"url": "https://t.co/fPZA6vRVaG",
+					"display_url": "pic.twitter.com/fPZA6vRVaG",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1258685166802722816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 73473,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258684966361133064/pu/vid/720x720/sqvKHKvOFV8AA_CA.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1258684966361133064/pu/pl/rH7hZjBR4TTv1kI1.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258684966361133064/pu/vid/320x320/OrruiiHXqr52-Dfe.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1258684966361133064/pu/vid/480x480/pTln03_02nHwfCEx.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n-\n5월 14일 (목) 밤 9시 30분 첫 방송 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196620,
+			"friends_count": 2556,
+			"listed_count": 261,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1587977697",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 621,
+		"favorite_count": 737,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] 10 QUESTIONS with GG I #효연(#HYOYEON)\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n5월 14일 (목) 밤 9시 30분 첫 방송\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 https://t.co/fPZA6vRVaG"
+	},
+	{
 		"created_at": "Fri May 08 07:44:06 +0000 2020",
 		"id": 1258663956064977000,
 		"id_str": "1258663956064976897",
