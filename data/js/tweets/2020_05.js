@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 09 09:41:10 +0000 2020",
+		"id": 1259053288118317000,
+		"id_str": "1259055802196860928",
+		"full_text": "5/11 ~ 5/17 #아이돌라디오 출연진\n\n11(월) 달수빈, 하진, 나띠\n12(화) NCT DREAM \n13(수) 소녀시대 효연, 레이든, DJ 펌킨, DJ 웨건\n14(목) 우아!\n15(금) 엘리스\n16(토) 우주소녀 수빈&amp;엑시\n17(일) 우주소녀 수빈&amp;엑시 https://t.co/QeM5ZywjxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259053280698630100,
+					"id_str": "1259053280698630145",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"url": "https://t.co/QeM5ZywjxG",
+					"display_url": "pic.twitter.com/QeM5ZywjxG",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259053288118317056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259053280698630100,
+					"id_str": "1259053280698630145",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXkOSb1VAAE_28M.jpg",
+					"url": "https://t.co/QeM5ZywjxG",
+					"display_url": "pic.twitter.com/QeM5ZywjxG",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259053288118317056/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65296,
+			"friends_count": 3,
+			"listed_count": 210,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1983,
+		"favorite_count": 910,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "5/11 ~ 5/17 #아이돌라디오 출연진\n\n11(월) 달수빈, 하진, 나띠\n12(화) NCT DREAM \n13(수) 소녀시대 효연, 레이든, DJ 펌킨, DJ 웨건\n14(목) 우아!\n15(금) 엘리스\n16(토) 우주소녀 수빈&amp;엑시\n17(일) 우주소녀 수빈&amp;엑시 https://t.co/QeM5ZywjxG"
+	},
+	{
 		"created_at": "Fri May 08 20:50:23 +0000 2020",
 		"id": 1258685166802722800,
 		"id_str": "1258861829368893440",
