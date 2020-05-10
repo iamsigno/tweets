@@ -1,6 +1,675 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 11:52:43 +0000 2020",
+		"id": 1259402582142914600,
+		"id_str": "1259451298019078145",
+		"full_text": "[INSTAGRAM STORY VIDEO] sooyoungchoi:  https://t.co/dfymsr281j https://t.co/2fHJkaDnJM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dfymsr281j",
+					"expanded_url": "https://scontent-dfw5-1.cdninstagram.com/v/t72.14836-16/76754501_188694702187275_2448380389244069858_n.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6InZ0c192b2RfdXJsZ2VuLjcyMC5zdG9yeSJ9&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=103&_nc_ohc=u9DV2zJCHPEAX9qehm4&vs=17910677881436962_2926053137&_nc_vs=HBksFQAYJEdFVXVrd1FMNDdIb25hc0FBT0xuN08tOVpQb2hidlE1QUFBRhUAAsgBABUAGCRHUG9DTkFVQTRRRVNnQklEQUpseC1hU3NLdnhRYnZRNUFBQUYVAgLIAQAoABgAGwGIB3VzZV9vaWwBMRUAABgAFsTj9pHU6tA%2FFQIoAkMzLBdAIGZmZmZmZhgSZGFzaF9iYXNlbGluZV8xX3YxEQB16AcA&_nc_rid=13e88d5232&oe=5EB9CA2E&oh=19a445d7b0e2062284b1239d762acca8",
+					"display_url": "scontent-dfw5-1.cdninstagram.com/v/t72.14836-16…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259402557862150100,
+					"id_str": "1259402557862150144",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"url": "https://t.co/2fHJkaDnJM",
+					"display_url": "pic.twitter.com/2fHJkaDnJM",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402582142914560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259402557862150100,
+					"id_str": "1259402557862150144",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402557862150144/pu/img/iZmEesJ3RT9GSLJA.jpg",
+					"url": "https://t.co/2fHJkaDnJM",
+					"display_url": "pic.twitter.com/2fHJkaDnJM",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402582142914560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 8200,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/vid/720x1280/kblKQLvmWyzSyqXr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/pl/WjvWqH1Wfy5e0mtf.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/vid/320x568/CmqytgLThPQ0QxIN.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402557862150144/pu/vid/360x640/rdLhDgvbhylrmdk1.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://soo.soshistagram.com\" rel=\"nofollow\">Syoungstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2345049169,
+			"id_str": "2345049169",
+			"name": "Syoungstagram",
+			"screen_name": "syoungstagram",
+			"location": "Sooyoung's phone",
+			"description": "Bot tweeting Sooyoung's updates & comments on Instagram & Weibo. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @sicafeed",
+			"url": "https://t.co/WNNnY2W84j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNNnY2W84j",
+							"expanded_url": "https://syoungstagram.tumblr.com/",
+							"display_url": "syoungstagram.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38485,
+			"friends_count": 0,
+			"listed_count": 680,
+			"created_at": "Sat Feb 15 12:17:41 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11365,
+		"favorite_count": 9002,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "[INSTAGRAM STORY VIDEO] sooyoungchoi:  https://t.co/dfymsr281j https://t.co/2fHJkaDnJM"
+	},
+	{
+		"created_at": "Sun May 10 11:52:40 +0000 2020",
+		"id": 1259402591211073500,
+		"id_str": "1259451285503279106",
+		"full_text": "[INSTAGRAM STORY VIDEO] sooyoungchoi: 축가인데 \n왜때문에 \n가스펠느낌이야 \n애들아 https://t.co/uAuNkoZ0lK https://t.co/DExFJBna1g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uAuNkoZ0lK",
+					"expanded_url": "https://scontent-dfw5-1.cdninstagram.com/v/t50.12441-16/97147345_620404032160369_3874898679795401147_n.mp4?_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=101&_nc_ohc=B2uHQuoFB9gAX90bjoK&oe=5EB9F030&oh=40f16bd502ac46bd122e6a836f54c19a",
+					"display_url": "scontent-dfw5-1.cdninstagram.com/v/t50.12441-16…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259402555144224800,
+					"id_str": "1259402555144224768",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"url": "https://t.co/DExFJBna1g",
+					"display_url": "pic.twitter.com/DExFJBna1g",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402591211073536/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259402555144224800,
+					"id_str": "1259402555144224768",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259402555144224768/pu/img/UIqh0YIQcCDc_3bE.jpg",
+					"url": "https://t.co/DExFJBna1g",
+					"display_url": "pic.twitter.com/DExFJBna1g",
+					"expanded_url": "https://twitter.com/syoungstagram/status/1259402591211073536/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/vid/640x1136/6Vuj3w7QOuUKfHOo.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/vid/360x638/6-sr1RQdfCUL7rDI.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/vid/320x568/R2mIAf-bc7boE-0Q.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259402555144224768/pu/pl/Ix6BCSdX6QGAwN-m.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://soo.soshistagram.com\" rel=\"nofollow\">Syoungstagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2345049169,
+			"id_str": "2345049169",
+			"name": "Syoungstagram",
+			"screen_name": "syoungstagram",
+			"location": "Sooyoung's phone",
+			"description": "Bot tweeting Sooyoung's updates & comments on Instagram & Weibo. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @sicafeed",
+			"url": "https://t.co/WNNnY2W84j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNNnY2W84j",
+							"expanded_url": "https://syoungstagram.tumblr.com/",
+							"display_url": "syoungstagram.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38485,
+			"friends_count": 0,
+			"listed_count": 680,
+			"created_at": "Sat Feb 15 12:17:41 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/526240876712845313/nDqoGt2W_normal.png",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8793,
+		"favorite_count": 7145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM STORY VIDEO] sooyoungchoi: 축가인데 \n왜때문에 \n가스펠느낌이야 \n애들아 https://t.co/uAuNkoZ0lK https://t.co/DExFJBna1g"
+	},
+	{
+		"created_at": "Sun May 10 11:52:37 +0000 2020",
+		"id": 1259408603632619500,
+		"id_str": "1259451270949027840",
+		"full_text": "[INSTAGRAM CAROUSEL] 515sunnyday: #소녀시대 #GG4EVA 성우오빠 결혼 축하해요!!!!! https://t.co/sLQviqfJbd (2P) #sunnystagram https://t.co/ZwyF1eD7i2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "sunnystagram",
+					"indices": [
+						95,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sLQviqfJbd",
+					"expanded_url": "https://www.instagram.com/p/CAAGgx8jFGZ/",
+					"display_url": "instagram.com/p/CAAGgx8jFGZ/",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259408599077568500,
+					"id_str": "1259408599077568513",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"url": "https://t.co/ZwyF1eD7i2",
+					"display_url": "pic.twitter.com/ZwyF1eD7i2",
+					"expanded_url": "https://twitter.com/sunnystagram/status/1259408603632619520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259408599077568500,
+					"id_str": "1259408599077568513",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpRcr8XQAEx2wc.jpg",
+					"url": "https://t.co/ZwyF1eD7i2",
+					"display_url": "pic.twitter.com/ZwyF1eD7i2",
+					"expanded_url": "https://twitter.com/sunnystagram/status/1259408603632619520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1259408601719943200,
+					"id_str": "1259408601719943173",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EXpRc1yWsAU1j6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXpRc1yWsAU1j6K.jpg",
+					"url": "https://t.co/ZwyF1eD7i2",
+					"display_url": "pic.twitter.com/ZwyF1eD7i2",
+					"expanded_url": "https://twitter.com/sunnystagram/status/1259408603632619520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.sunnystagram.com\" rel=\"nofollow\">Sunnystagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1574442308,
+			"id_str": "1574442308",
+			"name": "Sunnystagram.com",
+			"screen_name": "sunnystagram",
+			"location": "Sunny's cupcake",
+			"description": "Bot tweeting Sunny's Instagram updates and comments. Built by @thegoguma. Also @yulstagrm @yoongstagrm @seostagrm @miyoungstagram @sicafeed @syoungstagram",
+			"url": "https://t.co/GtgSAZhAPu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GtgSAZhAPu",
+							"expanded_url": "https://sunnystagramcom.tumblr.com/",
+							"display_url": "sunnystagramcom.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37356,
+			"friends_count": 2,
+			"listed_count": 542,
+			"created_at": "Sun Jul 07 06:07:40 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000613069510/5e5f6ea2c7906a0e49d8c837338ab7c0_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000613069510/5e5f6ea2c7906a0e49d8c837338ab7c0_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4327,
+		"favorite_count": 3371,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM CAROUSEL] 515sunnyday: #소녀시대 #GG4EVA 성우오빠 결혼 축하해요!!!!! https://t.co/sLQviqfJbd (2P) #sunnystagram https://t.co/ZwyF1eD7i2"
+	},
+	{
 		"created_at": "Sun May 10 09:56:08 +0000 2020",
 		"id": 1259407089593614300,
 		"id_str": "1259421960582205441",
