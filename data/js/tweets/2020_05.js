@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 10 14:21:08 +0000 2020",
+		"id": 1259456115470827500,
+		"id_str": "1259488648350728192",
+		"full_text": "200510 소녀시대 Complete💫\nFULL 🔗 https://t.co/6GhFfPQvHq https://t.co/fpkkHF74KT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6GhFfPQvHq",
+					"expanded_url": "https://bit.ly/2SR5vmW",
+					"display_url": "bit.ly/2SR5vmW",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259455968632438800,
+					"id_str": "1259455968632438784",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259455968632438784/pu/img/Q1xuBlFw6PQoTQmF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259455968632438784/pu/img/Q1xuBlFw6PQoTQmF.jpg",
+					"url": "https://t.co/fpkkHF74KT",
+					"display_url": "pic.twitter.com/fpkkHF74KT",
+					"expanded_url": "https://twitter.com/801_81/status/1259456115470827520/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259455968632438800,
+					"id_str": "1259455968632438784",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1259455968632438784/pu/img/Q1xuBlFw6PQoTQmF.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1259455968632438784/pu/img/Q1xuBlFw6PQoTQmF.jpg",
+					"url": "https://t.co/fpkkHF74KT",
+					"display_url": "pic.twitter.com/fpkkHF74KT",
+					"expanded_url": "https://twitter.com/801_81/status/1259456115470827520/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 1136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 58362,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259455968632438784/pu/vid/320x568/T1rv0v5fkvN3cx9S.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259455968632438784/pu/vid/640x1136/IRhnszAYMgOWLFzt.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1259455968632438784/pu/pl/KN1-A3y-XxYyQaox.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1259455968632438784/pu/vid/360x638/H5rPzAkY3hcIT0MC.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 472651492,
+			"id_str": "472651492",
+			"name": "삼월",
+			"screen_name": "801_81",
+			"location": "",
+			"description": "#태연 너 이렇게 사랑받는다고",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4903,
+			"friends_count": 190,
+			"listed_count": 69,
+			"created_at": "Tue Jan 24 05:02:21 +0000 2012",
+			"favourites_count": 566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18304,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231901534641745920/yJScNeT4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231901534641745920/yJScNeT4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/472651492/1588862109",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1139,
+		"favorite_count": 1113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200510 소녀시대 Complete💫\nFULL 🔗 https://t.co/6GhFfPQvHq https://t.co/fpkkHF74KT"
+	},
+	{
 		"created_at": "Sun May 10 11:52:43 +0000 2020",
 		"id": 1259402582142914600,
 		"id_str": "1259451298019078145",
