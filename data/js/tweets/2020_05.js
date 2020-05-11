@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 01:41:10 +0000 2020",
+		"id": 1259653769626677200,
+		"id_str": "1259659782224400384",
+		"full_text": "[#아이돌라디오 핫차트 #아핫!] \n5월 1주\n\n#IDOLRADIO #에이프릴 #APRIL #엑소 #EXO #위너 #강승윤 #나띠 #NATTY #태연 #TAEYEON #아이유 #IU #방탄소년단 #BTS #슈가 #SUGA #볼빨간사춘기 #BOL4 #백현 #갓세븐 #GOT7 #영재 #네이처 #NATURE #마마무 #MAMAMOO #휘인 #아스트로 #ASTRO #NCTDREAM https://t.co/OOyUSZPaIQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아핫",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "IDOLRADIO",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "APRIL",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "위너",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "강승윤",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "나띠",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "NATTY",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "슈가",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "SUGA",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "볼빨간사춘기",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "BOL4",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "백현",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "갓세븐",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "GOT7",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "영재",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "네이처",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "NATURE",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "마마무",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "휘인",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "ASTRO",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						201,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1259653026337353700,
+					"id_str": "1259653026337353729",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"url": "https://t.co/OOyUSZPaIQ",
+					"display_url": "pic.twitter.com/OOyUSZPaIQ",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259653769626677249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259653026337353700,
+					"id_str": "1259653026337353729",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXsvwOcVcAEkBsk.jpg",
+					"url": "https://t.co/OOyUSZPaIQ",
+					"display_url": "pic.twitter.com/OOyUSZPaIQ",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1259653769626677249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66372,
+			"friends_count": 3,
+			"listed_count": 196,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4382,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌라디오 핫차트 #아핫!] \n5월 1주\n\n#IDOLRADIO #에이프릴 #APRIL #엑소 #EXO #위너 #강승윤 #나띠 #NATTY #태연 #TAEYEON #아이유 #IU #방탄소년단 #BTS #슈가 #SUGA #볼빨간사춘기 #BOL4 #백현 #갓세븐 #GOT7 #영재 #네이처 #NATURE #마마무 #MAMAMOO #휘인 #아스트로 #ASTRO #NCTDREAM https://t.co/OOyUSZPaIQ"
+	},
+	{
 		"created_at": "Sun May 10 14:21:08 +0000 2020",
 		"id": 1259456115470827500,
 		"id_str": "1259488648350728192",
