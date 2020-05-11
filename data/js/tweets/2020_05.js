@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 09:41:09 +0000 2020",
+		"id": 1259773530486435800,
+		"id_str": "1259780577676361728",
+		"full_text": "* 아돌라 CAM / IDOL RADIO STAGE CAM\n(5/11 MON) #달수빈 #나띠 #하진\n(5/12 TUE) #NCTDREAM\n(5/13 WED) #레이든 #소녀시대 #효연 #DJ펌킨 #DJ웨건\n(5/14 THU) #우아!\n(5/15 FRI) #엘리스\n\n* 보라돌 / BORA-DOL\n(5/14 THU 정희) #아스트로\n\n#MBC라디오 #아이돌플래닛 #아이돌라디오 #정오의희망곡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "달수빈",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "나띠",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "하진",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						68,
+						77
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "DJ펌킨",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "DJ웨건",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "우아",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "엘리스",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "MBC라디오",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "아이돌플래닛",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						211,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1259773528821215200,
+		"in_reply_to_status_id_str": "1259773528821215235",
+		"in_reply_to_user_id": 145925496,
+		"in_reply_to_user_id_str": "145925496",
+		"in_reply_to_screen_name": "radiombc",
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "IDOL PLANET",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO with K-POP IDOL😍 #MBC라디오 #아이돌플래닛",
+			"url": "https://t.co/UeCqZJeLS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeCqZJeLS4",
+							"expanded_url": "https://www.youtube.com/c/idolplanet",
+							"display_url": "youtube.com/c/idolplanet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73245,
+			"friends_count": 44,
+			"listed_count": 628,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214119624360357888/3gXs-HLn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214119624360357888/3gXs-HLn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1578303673",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "* 아돌라 CAM / IDOL RADIO STAGE CAM\n(5/11 MON) #달수빈 #나띠 #하진\n(5/12 TUE) #NCTDREAM\n(5/13 WED) #레이든 #소녀시대 #효연 #DJ펌킨 #DJ웨건\n(5/14 THU) #우아!\n(5/15 FRI) #엘리스\n\n* 보라돌 / BORA-DOL\n(5/14 THU 정희) #아스트로\n\n#MBC라디오 #아이돌플래닛 #아이돌라디오 #정오의희망곡"
+	},
+	{
 		"created_at": "Mon May 11 01:41:10 +0000 2020",
 		"id": 1259653769626677200,
 		"id_str": "1259659782224400384",
@@ -338,7 +546,7 @@ Grailbird.data.tweets_2020_05 =
 			"name": "MBC 아이돌라디오 (공식계정)",
 			"screen_name": "idolradiokorea",
 			"location": "최애찾아삼만리",
-			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼♂️",
 			"url": "https://t.co/weA2TATSpl",
 			"entities": {
 				"url": {
