@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 11:41:09 +0000 2020",
+		"id": 1260172767082643500,
+		"id_str": "1260173164228861954",
+		"full_text": "[#굿걸] Watch Out, Mnet! I GOOD GIRL 선전포고\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n5월 14일 (목) 밤 9시 30분 첫 방송\n\n#Mnet #엠넷 #HYOYEON #효연 #CHEETAH #치타 #AILEE #에일리 #JAMIE #제이미 https://t.co/dk5R8XWWt0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "CHEETAH",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "AILEE",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "에일리",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "JAMIE",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						148,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260172758194913300,
+					"id_str": "1260172758194913281",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260172758194913300,
+					"id_str": "1260172758194913281",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmfVAAEI8SV.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260172758190747600,
+					"id_str": "1260172758190747653",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmeVcAU9bUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmeVcAU9bUW.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260172758194913300,
+					"id_str": "1260172758194913280",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmfVAAAJYt9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmfVAAAJYt9.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260172758199054300,
+					"id_str": "1260172758199054338",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/EX0IcmgUMAIGDBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX0IcmgUMAIGDBb.jpg",
+					"url": "https://t.co/dk5R8XWWt0",
+					"display_url": "pic.twitter.com/dk5R8XWWt0",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1260172767082643456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n-\n5월 14일 (목) 밤 9시 30분 첫 방송 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196712,
+			"friends_count": 2554,
+			"listed_count": 224,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1587977697",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 379,
+		"favorite_count": 413,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] Watch Out, Mnet! I GOOD GIRL 선전포고\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n5월 14일 (목) 밤 9시 30분 첫 방송\n\n#Mnet #엠넷 #HYOYEON #효연 #CHEETAH #치타 #AILEE #에일리 #JAMIE #제이미 https://t.co/dk5R8XWWt0"
+	},
+	{
 		"created_at": "Tue May 12 07:41:10 +0000 2020",
 		"id": 1260090348342096000,
 		"id_str": "1260112766838456320",
