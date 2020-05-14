@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 07:41:10 +0000 2020",
+		"id": 1260826163649233000,
+		"id_str": "1260837542573850624",
+		"full_text": "[📹 #아돌라CAM / IDOL RADIO STAGE]\n\n200513 #DJHYO #효연 #소녀시대\n\n★디제잉 퍼포먼스★ 👉 https://t.co/a88Elzjm7J\n\n#MBC라디오 #아이돌플래닛 #아이돌라디오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아돌라CAM",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"text": "DJHYO",
+					"indices": [
+						39,
+						45
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "MBC라디오",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "아이돌플래닛",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						111,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a88Elzjm7J",
+					"expanded_url": "https://youtu.be/wTs-2vJ4ee4",
+					"display_url": "youtu.be/wTs-2vJ4ee4",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "IDOL PLANET",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO with K-POP IDOL😍 #MBC라디오 #아이돌플래닛",
+			"url": "https://t.co/UeCqZJeLS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UeCqZJeLS4",
+							"expanded_url": "https://www.youtube.com/c/idolplanet",
+							"display_url": "youtube.com/c/idolplanet",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73208,
+			"friends_count": 44,
+			"listed_count": 599,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214119624360357888/3gXs-HLn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214119624360357888/3gXs-HLn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1578303673",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📹 #아돌라CAM / IDOL RADIO STAGE]\n\n200513 #DJHYO #효연 #소녀시대\n\n★디제잉 퍼포먼스★ 👉 https://t.co/a88Elzjm7J\n\n#MBC라디오 #아이돌플래닛 #아이돌라디오"
+	},
+	{
 		"created_at": "Thu May 14 06:41:10 +0000 2020",
 		"id": 1260821878618247200,
 		"id_str": "1260822444044140548",
