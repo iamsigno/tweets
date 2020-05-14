@@ -1,10 +1,508 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 09:41:19 +0000 2020",
+		"id": 1260843131680878600,
+		"id_str": "1260867780464775168",
+		"full_text": "From. #HYOYEON 💌\n\n#SMTOWN 여러분 오랜만이죠?🙋🏻‍♀️\n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello SMTOWN friends, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #소녀시대 #GirlsGeneration #굿걸 https://t.co/TfZBnoAydE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						196,
+						199
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						206,
+						222
+					]
+				},
+				{
+					"text": "굿걸",
+					"indices": [
+						223,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260842913593913300,
+					"id_str": "1260842913593913347",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9p8x5VcAM4VVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9p8x5VcAM4VVI.jpg",
+					"url": "https://t.co/TfZBnoAydE",
+					"display_url": "pic.twitter.com/TfZBnoAydE",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1260843131680878592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260842913593913300,
+					"id_str": "1260842913593913347",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9p8x5VcAM4VVI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9p8x5VcAM4VVI.jpg",
+					"url": "https://t.co/TfZBnoAydE",
+					"display_url": "pic.twitter.com/TfZBnoAydE",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1260843131680878592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8106915,
+			"friends_count": 49,
+			"listed_count": 7983,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 803,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 844,
+		"favorite_count": 3336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "From. #HYOYEON 💌\n\n#SMTOWN 여러분 오랜만이죠?🙋🏻‍♀️\n오늘 밤 오후 9시 30분 첫 방송되는 '굿걸 : 누가 방송국을 털었나'에서 만나요!💖\n\nHello SMTOWN friends, long time no see!🙋🏻‍♀️\nCheck me out at '굿걸 : 누가 방송국을 털었나' today at 9:30 PM KST!💖\n\n#효연 #소녀시대 #GirlsGeneration #굿걸 https://t.co/TfZBnoAydE"
+	},
+	{
+		"created_at": "Thu May 14 09:41:17 +0000 2020",
+		"id": 1260857668542972000,
+		"id_str": "1260867771602219010",
+		"full_text": "오늘의 꿀팁✌️\n광합성을 하고 싶을 땐 서현 배우를 보면 된다😎\n\n#서현 #Seohyun #매거진 #에스콰이어 #비하인드 https://t.co/ss0Km9Adwn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						41,
+						49
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "에스콰이어",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						62,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260857629548544000,
+					"id_str": "1260857629548544001",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EX93VXGVAAEX0hj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX93VXGVAAEX0hj.jpg",
+					"url": "https://t.co/ss0Km9Adwn",
+					"display_url": "pic.twitter.com/ss0Km9Adwn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260857668542971904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260857629548544000,
+					"id_str": "1260857629548544001",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EX93VXGVAAEX0hj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX93VXGVAAEX0hj.jpg",
+					"url": "https://t.co/ss0Km9Adwn",
+					"display_url": "pic.twitter.com/ss0Km9Adwn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260857668542971904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260857629208801300,
+					"id_str": "1260857629208801283",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EX93VV1U8AMrUI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX93VV1U8AMrUI-.jpg",
+					"url": "https://t.co/ss0Km9Adwn",
+					"display_url": "pic.twitter.com/ss0Km9Adwn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260857668542971904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260857656035569700,
+					"id_str": "1260857656035569664",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/EX93W5xU8AAV0yy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX93W5xU8AAV0yy.jpg",
+					"url": "https://t.co/ss0Km9Adwn",
+					"display_url": "pic.twitter.com/ss0Km9Adwn",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1260857668542971904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29418,
+			"friends_count": 11,
+			"listed_count": 186,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 626,
+		"favorite_count": 573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 꿀팁✌️\n광합성을 하고 싶을 땐 서현 배우를 보면 된다😎\n\n#서현 #Seohyun #매거진 #에스콰이어 #비하인드 https://t.co/ss0Km9Adwn"
+	},
+	{
 		"created_at": "Thu May 14 08:31:07 +0000 2020",
 		"id": 1260850116619047000,
 		"id_str": "1260850116619046912",
-		"full_text": "#GirlsGeneration #소녀시대\nFrom. #HYOYEON 💌 여러분 오랜만이죠?🙋🏻‍♀️...\nhttps://t.co/ZvtcyJ5ek3\n#Facebook #페이스북",
+		"full_text": "#GirlsGeneration #소녀시대\nFrom. #HYOYEON 💌 여러분 오랜만이죠?🙋🏻♀️...\nhttps://t.co/ZvtcyJ5ek3\n#Facebook #페이스북",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -140,7 +638,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#GirlsGeneration #소녀시대\nFrom. #HYOYEON 💌 여러분 오랜만이죠?🙋🏻‍♀️...\nhttps://t.co/ZvtcyJ5ek3\n#Facebook #페이스북"
+		"text": "#GirlsGeneration #소녀시대\nFrom. #HYOYEON 💌 여러분 오랜만이죠?🙋🏻♀️...\nhttps://t.co/ZvtcyJ5ek3\n#Facebook #페이스북"
 	},
 	{
 		"created_at": "Thu May 14 07:41:10 +0000 2020",
