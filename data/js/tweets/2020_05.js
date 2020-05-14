@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 06:41:10 +0000 2020",
+		"id": 1260821878618247200,
+		"id_str": "1260822444044140548",
+		"full_text": "Happy Birthday SUNNY💘\n\nGirls' Generation 써니 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나보실 수 있습니다.\n5월 탄생석 에메랄드 컬러 크리스탈 스톤으로 포인트를 준 제품입니다.\n\n🔸5월 탄생석 의미 : 행복, 행운\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/hz1gfVvJx4 https://t.co/knpNvlu3mc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hz1gfVvJx4",
+					"expanded_url": "http://SMTOWNandSTORE.com",
+					"display_url": "SMTOWNandSTORE.com",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260821067930546200,
+					"id_str": "1260821067930546178",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9WFMdUMAI35qy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9WFMdUMAI35qy.jpg",
+					"url": "https://t.co/knpNvlu3mc",
+					"display_url": "pic.twitter.com/knpNvlu3mc",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1260821878618247173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1773,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260821067930546200,
+					"id_str": "1260821067930546178",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9WFMdUMAI35qy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EX9WFMdUMAI35qy.jpg",
+					"url": "https://t.co/knpNvlu3mc",
+					"display_url": "pic.twitter.com/knpNvlu3mc",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1260821878618247173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1773,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1260821072322023400,
+					"id_str": "1260821072322023434",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EX9WFc0U0AosM9w.png",
+					"media_url_https": "https://pbs.twimg.com/media/EX9WFc0U0AosM9w.png",
+					"url": "https://t.co/knpNvlu3mc",
+					"display_url": "pic.twitter.com/knpNvlu3mc",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1260821878618247173/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45851,
+			"friends_count": 0,
+			"listed_count": 103,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 201,
+		"favorite_count": 236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Happy Birthday SUNNY💘\n\nGirls' Generation 써니 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나보실 수 있습니다.\n5월 탄생석 에메랄드 컬러 크리스탈 스톤으로 포인트를 준 제품입니다.\n\n🔸5월 탄생석 의미 : 행복, 행운\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/hz1gfVvJx4 https://t.co/knpNvlu3mc"
+	},
+	{
 		"created_at": "Thu May 14 05:41:18 +0000 2020",
 		"id": 1260805964116050000,
 		"id_str": "1260807380784361476",
