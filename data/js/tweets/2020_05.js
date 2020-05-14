@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 05:41:18 +0000 2020",
+		"id": 1260805964116050000,
+		"id_str": "1260807380784361476",
+		"full_text": "[#굿걸/1회선공개] 효연을 당황시킨 영지의 인싸 화법?! (feat. 굿걸 크루의 첫 만남)\n\n＜#GOODGIRL : #누가방송국을털었나&gt;\n오늘 밤 9시 30분 첫 방송\n\nNAVER TV\n 👉https://t.co/4Jx91jflYQ\nYOUTUBE \n 👉https://t.co/3B4kCllect https://t.co/oBZGhRVXNV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						67,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Jx91jflYQ",
+					"expanded_url": "https://tv.naver.com/v/13793038",
+					"display_url": "tv.naver.com/v/13793038",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/3B4kCllect",
+					"expanded_url": "https://youtu.be/ZxPivtzcBfo",
+					"display_url": "youtu.be/ZxPivtzcBfo",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1260805823996891100,
+					"id_str": "1260805823996891136",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260805823996891136/pu/img/rpzMivs79icRK1JJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260805823996891136/pu/img/rpzMivs79icRK1JJ.jpg",
+					"url": "https://t.co/oBZGhRVXNV",
+					"display_url": "pic.twitter.com/oBZGhRVXNV",
+					"expanded_url": "https://twitter.com/MnetKR/status/1260805964116049920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260805823996891100,
+					"id_str": "1260805823996891136",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260805823996891136/pu/img/rpzMivs79icRK1JJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260805823996891136/pu/img/rpzMivs79icRK1JJ.jpg",
+					"url": "https://t.co/oBZGhRVXNV",
+					"display_url": "pic.twitter.com/oBZGhRVXNV",
+					"expanded_url": "https://twitter.com/MnetKR/status/1260805964116049920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60027,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260805823996891136/pu/vid/320x320/wiVNMg9xiMMpRxTc.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260805823996891136/pu/vid/480x480/5XAlcvSuFcv2TeSU.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1260805823996891136/pu/pl/8KEcbClcshyOx8Mt.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1260805823996891136/pu/vid/720x720/Um6HRSJ2Bgo13nm0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2715474,
+			"friends_count": 21852,
+			"listed_count": 2681,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸/1회선공개] 효연을 당황시킨 영지의 인싸 화법?! (feat. 굿걸 크루의 첫 만남)\n\n＜#GOODGIRL : #누가방송국을털었나&gt;\n오늘 밤 9시 30분 첫 방송\n\nNAVER TV\n 👉https://t.co/4Jx91jflYQ\nYOUTUBE \n 👉https://t.co/3B4kCllect https://t.co/oBZGhRVXNV"
+	},
+	{
 		"created_at": "Thu May 14 03:01:39 +0000 2020",
 		"id": 1260767200807436300,
 		"id_str": "1260767200807436289",
