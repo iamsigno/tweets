@@ -1,6 +1,921 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 16:35:28 +0000 2020",
+		"id": 1261167987882471400,
+		"id_str": "1261334394486181889",
+		"full_text": "[#아이돌라디오 앨범 20200513] \n \nep#589. 요~디제이'흥'디스파뤼\n스페셜 DJ 우주소녀 엑시&amp;수빈 with 레이든,효연,DJ 펌킨,DJ 웨건\n\n#IDOLRADIO #효연 #HYOYEON #DJHYO https://t.co/eRYCaplbFM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "IDOLRADIO",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "DJHYO",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261166908310605800,
+					"id_str": "1261166908310605830",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQnwRU0AY7VTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQnwRU0AY7VTC.jpg",
+					"url": "https://t.co/eRYCaplbFM",
+					"display_url": "pic.twitter.com/eRYCaplbFM",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167987882471424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261166908310605800,
+					"id_str": "1261166908310605830",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQnwRU0AY7VTC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQnwRU0AY7VTC.jpg",
+					"url": "https://t.co/eRYCaplbFM",
+					"display_url": "pic.twitter.com/eRYCaplbFM",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167987882471424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261166908318953500,
+					"id_str": "1261166908318953472",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQnwTUMAAf038.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQnwTUMAAf038.jpg",
+					"url": "https://t.co/eRYCaplbFM",
+					"display_url": "pic.twitter.com/eRYCaplbFM",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167987882471424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261166908574859300,
+					"id_str": "1261166908574859265",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQnxQVAAEmPWM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQnxQVAAEmPWM.jpg",
+					"url": "https://t.co/eRYCaplbFM",
+					"display_url": "pic.twitter.com/eRYCaplbFM",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167987882471424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1333,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1261167984585740300,
+		"in_reply_to_status_id_str": "1261167984585740293",
+		"in_reply_to_user_id": 1012698432757100500,
+		"in_reply_to_user_id_str": "1012698432757100545",
+		"in_reply_to_screen_name": "idolradiokorea",
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67608,
+			"friends_count": 3,
+			"listed_count": 183,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 313,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌라디오 앨범 20200513] \n \nep#589. 요~디제이'흥'디스파뤼\n스페셜 DJ 우주소녀 엑시&amp;수빈 with 레이든,효연,DJ 펌킨,DJ 웨건\n\n#IDOLRADIO #효연 #HYOYEON #DJHYO https://t.co/eRYCaplbFM"
+	},
+	{
+		"created_at": "Fri May 15 16:35:20 +0000 2020",
+		"id": 1261167981649727500,
+		"id_str": "1261334360952725504",
+		"full_text": "[#아이돌라디오 앨범 20200513] \n \nep#589. 요~디제이'흥'디스파뤼\n스페셜 DJ 우주소녀 엑시&amp;수빈 with 레이든,효연,DJ 펌킨,DJ 웨건\n\n#IDOLRADIO #우주소녀 #WJSN #엑시 #수빈 #레이든 #Raiden #효연 #HYOYEON #DJHYO #DJ펌킨 #DJPumkin #DJ웨건 #DJWegun https://t.co/r9xpYi0Kis",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "IDOLRADIO",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "WJSN",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "엑시",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "수빈",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "DJHYO",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "DJ펌킨",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "DJPumkin",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "DJ웨건",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "DJWegun",
+					"indices": [
+						179,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261166737396916200,
+					"id_str": "1261166737396916225",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQdzkU4AEjG3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQdzkU4AEjG3r.jpg",
+					"url": "https://t.co/r9xpYi0Kis",
+					"display_url": "pic.twitter.com/r9xpYi0Kis",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167981649727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261166737396916200,
+					"id_str": "1261166737396916225",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQdzkU4AEjG3r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQdzkU4AEjG3r.jpg",
+					"url": "https://t.co/r9xpYi0Kis",
+					"display_url": "pic.twitter.com/r9xpYi0Kis",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167981649727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261166737401118700,
+					"id_str": "1261166737401118727",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQdzlVAAcouqi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQdzlVAAcouqi.jpg",
+					"url": "https://t.co/r9xpYi0Kis",
+					"display_url": "pic.twitter.com/r9xpYi0Kis",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167981649727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261166737401081900,
+					"id_str": "1261166737401081858",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQdzlUcAIFXsb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQdzlUcAIFXsb.jpg",
+					"url": "https://t.co/r9xpYi0Kis",
+					"display_url": "pic.twitter.com/r9xpYi0Kis",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167981649727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261166737401106400,
+					"id_str": "1261166737401106432",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCQdzlU0AAJUHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCQdzlU0AAJUHz.jpg",
+					"url": "https://t.co/r9xpYi0Kis",
+					"display_url": "pic.twitter.com/r9xpYi0Kis",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1261167981649727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1333,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️",
+			"url": "https://t.co/weA2TATSpl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/weA2TATSpl",
+							"expanded_url": "http://www.vlive.tv/channels/C6571B",
+							"display_url": "vlive.tv/channels/C6571B",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67608,
+			"friends_count": 3,
+			"listed_count": 183,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 375,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌라디오 앨범 20200513] \n \nep#589. 요~디제이'흥'디스파뤼\n스페셜 DJ 우주소녀 엑시&amp;수빈 with 레이든,효연,DJ 펌킨,DJ 웨건\n\n#IDOLRADIO #우주소녀 #WJSN #엑시 #수빈 #레이든 #Raiden #효연 #HYOYEON #DJHYO #DJ펌킨 #DJPumkin #DJ웨건 #DJWegun https://t.co/r9xpYi0Kis"
+	},
+	{
+		"created_at": "Fri May 15 16:35:15 +0000 2020",
+		"id": 1261162074949869600,
+		"id_str": "1261334340782321664",
+		"full_text": "인간의 3대 욕구: 식욕, 수면욕, 레드현 사랑해욕😍\n\n#서현 #Seohyun #매거진 #에스콰이어 #비하인드 https://t.co/y7eZF5YoVH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						35,
+						43
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "에스콰이어",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "비하인드",
+					"indices": [
+						56,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261161971388305400,
+					"id_str": "1261161971388305408",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCMIYzU0AAY_bE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCMIYzU0AAY_bE.jpg",
+					"url": "https://t.co/y7eZF5YoVH",
+					"display_url": "pic.twitter.com/y7eZF5YoVH",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1261162074949869570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261161971388305400,
+					"id_str": "1261161971388305408",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCMIYzU0AAY_bE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCMIYzU0AAY_bE.jpg",
+					"url": "https://t.co/y7eZF5YoVH",
+					"display_url": "pic.twitter.com/y7eZF5YoVH",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1261162074949869570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261161980125040600,
+					"id_str": "1261161980125040646",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCMI5WU0AYMBKk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCMI5WU0AYMBKk.jpg",
+					"url": "https://t.co/y7eZF5YoVH",
+					"display_url": "pic.twitter.com/y7eZF5YoVH",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1261162074949869570/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29530,
+			"friends_count": 11,
+			"listed_count": 189,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1611,
+		"favorite_count": 2226,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인간의 3대 욕구: 식욕, 수면욕, 레드현 사랑해욕😍\n\n#서현 #Seohyun #매거진 #에스콰이어 #비하인드 https://t.co/y7eZF5YoVH"
+	},
+	{
 		"created_at": "Fri May 15 09:41:17 +0000 2020",
 		"id": 1261229110262521900,
 		"id_str": "1261230158981165056",
