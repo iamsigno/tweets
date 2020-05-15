@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 09:41:17 +0000 2020",
+		"id": 1261229110262521900,
+		"id_str": "1261230158981165056",
+		"full_text": "[CELEB &amp;P!CK] YSNEAKERS 💛\n\n소녀시대, EXO-CBX가 직접 디자인한 프리미엄 스니커즈! 👟\nSMTOWN &amp;STORE 온라인에서 YSNEAKERS X ASTELL&amp;ASPR을 149,000원 균일가전으로 만나보세요! (최대 68% 할인)\n\n✔예약판매 : 2020. 05. 15 (FRI) ~ 05. 21 (THU)\n\nhttps://t.co/75iZazgBuT https://t.co/oJRETwDUzo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/75iZazgBuT",
+					"expanded_url": "https://bit.ly/2WYZuG8",
+					"display_url": "bit.ly/2WYZuG8",
+					"indices": [
+						199,
+						222
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261229100766650400,
+					"id_str": "1261229100766650369",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EYDJL1OU4AEgESv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYDJL1OU4AEgESv.jpg",
+					"url": "https://t.co/oJRETwDUzo",
+					"display_url": "pic.twitter.com/oJRETwDUzo",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1261229110262521857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261229100766650400,
+					"id_str": "1261229100766650369",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EYDJL1OU4AEgESv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYDJL1OU4AEgESv.jpg",
+					"url": "https://t.co/oJRETwDUzo",
+					"display_url": "pic.twitter.com/oJRETwDUzo",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1261229110262521857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1261229100640821200,
+					"id_str": "1261229100640821249",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EYDJL0wU4AEUaL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYDJL0wU4AEUaL3.jpg",
+					"url": "https://t.co/oJRETwDUzo",
+					"display_url": "pic.twitter.com/oJRETwDUzo",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1261229110262521857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1261229097767727000,
+		"in_reply_to_status_id_str": "1261229097767727112",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45988,
+			"friends_count": 0,
+			"listed_count": 102,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CELEB &amp;P!CK] YSNEAKERS 💛\n\n소녀시대, EXO-CBX가 직접 디자인한 프리미엄 스니커즈! 👟\nSMTOWN &amp;STORE 온라인에서 YSNEAKERS X ASTELL&amp;ASPR을 149,000원 균일가전으로 만나보세요! (최대 68% 할인)\n\n✔예약판매 : 2020. 05. 15 (FRI) ~ 05. 21 (THU)\n\nhttps://t.co/75iZazgBuT https://t.co/oJRETwDUzo"
+	},
+	{
 		"created_at": "Fri May 15 08:41:10 +0000 2020",
 		"id": 1261211360672788500,
 		"id_str": "1261215030923665409",
