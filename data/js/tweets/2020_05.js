@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 02:56:14 +0000 2020",
+		"id": 1261128226270822400,
+		"id_str": "1261128226270822403",
+		"full_text": "#GirlsGeneration #소녀시대\n윤아, ‘빅이슈’ 커버 장식! 홈리스를 위한 재능 기부 ‘훈훈’\nhttps://t.co/Qxx6W0YMBE\n#SMTOWN #Artist_News https://t.co/hONp1zqoRv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						91,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qxx6W0YMBE",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3516",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1261128225163526100,
+					"id_str": "1261128225163526144",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBtcGUXQAAkrPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBtcGUXQAAkrPG.jpg",
+					"url": "https://t.co/hONp1zqoRv",
+					"display_url": "pic.twitter.com/hONp1zqoRv",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1261128226270822403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261128225163526100,
+					"id_str": "1261128225163526144",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBtcGUXQAAkrPG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBtcGUXQAAkrPG.jpg",
+					"url": "https://t.co/hONp1zqoRv",
+					"display_url": "pic.twitter.com/hONp1zqoRv",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1261128226270822403/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 461,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n윤아, ‘빅이슈’ 커버 장식! 홈리스를 위한 재능 기부 ‘훈훈’\nhttps://t.co/Qxx6W0YMBE\n#SMTOWN #Artist_News https://t.co/hONp1zqoRv"
+	},
+	{
+		"created_at": "Fri May 15 02:50:32 +0000 2020",
+		"id": 1261126792502485000,
+		"id_str": "1261126792502484994",
+		"full_text": "#GirlsGeneration #소녀시대\n#HappySUNNYDay 🎂🎉...\nhttps://t.co/ktcYx7r9Yn\n#Instagram #인스타그램",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "HappySUNNYDay",
+					"indices": [
+						23,
+						37
+					]
+				},
+				{
+					"text": "Instagram",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "인스타그램",
+					"indices": [
+						79,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ktcYx7r9Yn",
+					"expanded_url": "https://www.instagram.com/p/CAMMHk2gb2S/",
+					"display_url": "instagram.com/p/CAMMHk2gb2S/",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 461,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#GirlsGeneration #소녀시대\n#HappySUNNYDay 🎂🎉...\nhttps://t.co/ktcYx7r9Yn\n#Instagram #인스타그램"
+	},
+	{
+		"created_at": "Fri May 15 02:41:20 +0000 2020",
+		"id": 1261109740672708600,
+		"id_str": "1261124476210741248",
+		"full_text": "#HappySUNNYDay 🎂🎉\n\n#200515 #SUNNY #써니 https://t.co/Bg7CLWQECA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappySUNNYDay",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						34,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261109727909609500,
+					"id_str": "1261109727909609473",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBcnarXgAEvWOy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBcnarXgAEvWOy.jpg",
+					"url": "https://t.co/Bg7CLWQECA",
+					"display_url": "pic.twitter.com/Bg7CLWQECA",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1261109740672708608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261109727909609500,
+					"id_str": "1261109727909609473",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EYBcnarXgAEvWOy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYBcnarXgAEvWOy.jpg",
+					"url": "https://t.co/Bg7CLWQECA",
+					"display_url": "pic.twitter.com/Bg7CLWQECA",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1261109740672708608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3560097,
+			"friends_count": 4,
+			"listed_count": 5076,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7395,
+		"favorite_count": 11663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "und",
+		"text": "#HappySUNNYDay 🎂🎉\n\n#200515 #SUNNY #써니 https://t.co/Bg7CLWQECA"
+	},
+	{
 		"created_at": "Fri May 15 02:01:09 +0000 2020",
 		"id": 1261114366210068500,
 		"id_str": "1261114366210068480",
