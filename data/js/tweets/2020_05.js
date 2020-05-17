@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 01:39:00 +0000 2020",
+		"id": 1261582163318681600,
+		"id_str": "1261833564556935169",
+		"full_text": "💌 \"팬들에게 고맙고 또 너무 좋다. 내가 직접 하는 것도 좋지만 응원해주는 분들이 힘을 합쳐서 나의 팬이라는 이름으로 좋은 일을 해주시는데, 이 또한 나에 대한 애정이 느껴져 정말 감사하다. 팬들의 마음이 너무너무 예쁜 거 같다. 서로 예쁜 마음으로 살자는 에너지를 준다.\" \n\n#윤아 #빅이슈 https://t.co/bwCyrJ8ej2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						161,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261582146512105500,
+					"id_str": "1261582146512105472",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EYIKRzHUMAArZ5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYIKRzHUMAArZ5Y.jpg",
+					"url": "https://t.co/bwCyrJ8ej2",
+					"display_url": "pic.twitter.com/bwCyrJ8ej2",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1261582163318681600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261582146512105500,
+					"id_str": "1261582146512105472",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/EYIKRzHUMAArZ5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYIKRzHUMAArZ5Y.jpg",
+					"url": "https://t.co/bwCyrJ8ej2",
+					"display_url": "pic.twitter.com/bwCyrJ8ej2",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1261582163318681600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1261581091648884700,
+		"in_reply_to_status_id_str": "1261581091648884737",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13372,
+			"friends_count": 9,
+			"listed_count": 217,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1589558189",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 418,
+		"favorite_count": 555,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 \"팬들에게 고맙고 또 너무 좋다. 내가 직접 하는 것도 좋지만 응원해주는 분들이 힘을 합쳐서 나의 팬이라는 이름으로 좋은 일을 해주시는데, 이 또한 나에 대한 애정이 느껴져 정말 감사하다. 팬들의 마음이 너무너무 예쁜 거 같다. 서로 예쁜 마음으로 살자는 에너지를 준다.\" \n\n#윤아 #빅이슈 https://t.co/bwCyrJ8ej2"
+	},
+	{
 		"created_at": "Sat May 16 02:41:09 +0000 2020",
 		"id": 1261479006282678300,
 		"id_str": "1261486820220710912",
