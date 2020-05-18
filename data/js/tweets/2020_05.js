@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 12:56:38 +0000 2020",
+		"id": 1262187237908725800,
+		"id_str": "1262366483927031808",
+		"full_text": "YOONA BIGISSUE 227 '믿고 보는 윤아'라는 대중의 평판을 얻기까지 윤아는 쉴 틈 없이 달려왔다. 윤아의 입지를 돌아보는 건 이제 무의미하다. 윤아는 그냥, 우리가 사랑하는 윤아이기 때문에. 💛🦌 \n\n👉🏻 https://t.co/IJnEjgzjue \n\n#윤아 #소녀시대 #빅이슈 #YOONA #GirlsGeneration #BIGISSUE https://t.co/EQvOI2WqaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						170,
+						186
+					]
+				},
+				{
+					"text": "BIGISSUE",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IJnEjgzjue",
+					"expanded_url": "https://bit.ly/2Z5hMbr",
+					"display_url": "bit.ly/2Z5hMbr",
+					"indices": [
+						122,
+						145
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1262187183672197000,
+					"id_str": "1262187183672197120",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EYQwjmLVAAAubvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYQwjmLVAAAubvb.jpg",
+					"url": "https://t.co/EQvOI2WqaQ",
+					"display_url": "pic.twitter.com/EQvOI2WqaQ",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1262187237908725761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1343,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262187183672197000,
+					"id_str": "1262187183672197120",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EYQwjmLVAAAubvb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYQwjmLVAAAubvb.jpg",
+					"url": "https://t.co/EQvOI2WqaQ",
+					"display_url": "pic.twitter.com/EQvOI2WqaQ",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1262187237908725761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 446,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 787,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1343,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262187199539232800,
+					"id_str": "1262187199539232768",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EYQwkhSUwAA_ywk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYQwkhSUwAA_ywk.jpg",
+					"url": "https://t.co/EQvOI2WqaQ",
+					"display_url": "pic.twitter.com/EQvOI2WqaQ",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1262187237908725761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1456,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1262187216740085800,
+					"id_str": "1262187216740085760",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EYQwlhXU8AAVje4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYQwlhXU8AAVje4.jpg",
+					"url": "https://t.co/EQvOI2WqaQ",
+					"display_url": "pic.twitter.com/EQvOI2WqaQ",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1262187237908725761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 965,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 547,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1990,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13387,
+			"friends_count": 9,
+			"listed_count": 219,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1589739070",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 977,
+		"favorite_count": 1412,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "YOONA BIGISSUE 227 '믿고 보는 윤아'라는 대중의 평판을 얻기까지 윤아는 쉴 틈 없이 달려왔다. 윤아의 입지를 돌아보는 건 이제 무의미하다. 윤아는 그냥, 우리가 사랑하는 윤아이기 때문에. 💛🦌 \n\n👉🏻 https://t.co/IJnEjgzjue \n\n#윤아 #소녀시대 #빅이슈 #YOONA #GirlsGeneration #BIGISSUE https://t.co/EQvOI2WqaQ"
+	},
+	{
 		"created_at": "Mon May 18 04:51:32 +0000 2020",
 		"id": 1262223647663505400,
 		"id_str": "1262244405001326592",
