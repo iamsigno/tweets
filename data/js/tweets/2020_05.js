@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 04:51:32 +0000 2020",
+		"id": 1262223647663505400,
+		"id_str": "1262244405001326592",
+		"full_text": "[SMTOWN@coexartium 영업 종료 안내]\n-\n지난 6년동안 SMTOWN@coexartium에게 보내주신 관심과 성원에 감사드립니다. SMTOWN@coexartium 임대 계약 만료에 따라 아래와 같이 마지막으로 영업을 종료합니다. 새로운 모습으로 다시 찾아뵙겠습니다. 감사합니다.\n-\n#SMTOWN #SMTOWNcoexartium https://t.co/bReC4laZk3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "SMTOWNcoexartium",
+					"indices": [
+						173,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1262223452309565400,
+					"id_str": "1262223452309565441",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EYRRitYUMAEiLKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYRRitYUMAEiLKn.jpg",
+					"url": "https://t.co/bReC4laZk3",
+					"display_url": "pic.twitter.com/bReC4laZk3",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1262223647663505413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1262223452309565400,
+					"id_str": "1262223452309565441",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EYRRitYUMAEiLKn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYRRitYUMAEiLKn.jpg",
+					"url": "https://t.co/bReC4laZk3",
+					"display_url": "pic.twitter.com/bReC4laZk3",
+					"expanded_url": "https://twitter.com/smtownmuseum/status/1262223647663505413/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3117705989,
+			"id_str": "3117705989",
+			"name": "SMTOWN MUSEUM",
+			"screen_name": "smtownmuseum",
+			"location": "SMTOWN@coexartium 3F",
+			"description": "2018.05.04 - OPEN RUN",
+			"url": "https://t.co/pku5W4lfLk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pku5W4lfLk",
+							"expanded_url": "http://www.smtownland.com",
+							"display_url": "smtownland.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84817,
+			"friends_count": 4,
+			"listed_count": 145,
+			"created_at": "Thu Mar 26 08:33:41 +0000 2015",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/927456698318561281/ms0i2VXB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/927456698318561281/ms0i2VXB_normal.jpg",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8256,
+		"favorite_count": 3173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[SMTOWN@coexartium 영업 종료 안내]\n-\n지난 6년동안 SMTOWN@coexartium에게 보내주신 관심과 성원에 감사드립니다. SMTOWN@coexartium 임대 계약 만료에 따라 아래와 같이 마지막으로 영업을 종료합니다. 새로운 모습으로 다시 찾아뵙겠습니다. 감사합니다.\n-\n#SMTOWN #SMTOWNcoexartium https://t.co/bReC4laZk3"
+	},
+	{
 		"created_at": "Mon May 18 04:04:17 +0000 2020",
 		"id": 1262232514082545700,
 		"id_str": "1262232514082545664",
