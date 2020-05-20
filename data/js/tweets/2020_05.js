@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 06:07:15 +0000 2020",
+		"id": 1262975928168308700,
+		"id_str": "1262988236823150599",
+		"full_text": "[#굿걸/2회선공개] 특별관객을 놀라게 한 효연의 무대?! (긴장x100) I 목요일 밤 9시 30분\n\n＜#GOODGIRL : #누가방송국을털었나&gt;\n내일 밤 9시 30분 #Mnet 본/방/사/수\n\nNAVER TV\n👉https://t.co/nGSHfdk1UG\nYOUTUBE \n👉https://t.co/jUthtAF4Wg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						98,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nGSHfdk1UG",
+					"expanded_url": "https://tv.naver.com/v/13884107",
+					"display_url": "tv.naver.com/v/13884107",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/jUthtAF4Wg",
+					"expanded_url": "https://youtu.be/PqYMCGJHz8s",
+					"display_url": "youtu.be/PqYMCGJHz8s",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2716683,
+			"friends_count": 21845,
+			"listed_count": 2679,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸/2회선공개] 특별관객을 놀라게 한 효연의 무대?! (긴장x100) I 목요일 밤 9시 30분\n\n＜#GOODGIRL : #누가방송국을털었나&gt;\n내일 밤 9시 30분 #Mnet 본/방/사/수\n\nNAVER TV\n👉https://t.co/nGSHfdk1UG\nYOUTUBE \n👉https://t.co/jUthtAF4Wg"
+	},
+	{
 		"created_at": "Wed May 20 03:16:10 +0000 2020",
 		"id": 1262916033666572300,
 		"id_str": "1262945182955249665",
