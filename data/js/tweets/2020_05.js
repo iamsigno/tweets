@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 03:16:10 +0000 2020",
+		"id": 1262916033666572300,
+		"id_str": "1262945182955249665",
+		"full_text": "드.디.어\n#어퓨 #본투비매드프루프마스카라\n온라인 정식 오픈!👏👏👏👏👏\n-\n💜본투비 연예인 #태연 도 인정\n🕵 #1000명 정예요원도 인정\n쓰는 사람마다 인정한 본투비 매드프루프 마스카라\n-\nNO번짐 NO처짐 NO뭉침\n내 것처럼 FIT하게, 끝까지 FIX!\n쉿!, 번지면 들켜",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어퓨",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "본투비매드프루프마스카라",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "1000명",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7162,
+			"friends_count": 0,
+			"listed_count": 20,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1589870791",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 834,
+		"favorite_count": 969,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "드.디.어\n#어퓨 #본투비매드프루프마스카라\n온라인 정식 오픈!👏👏👏👏👏\n-\n💜본투비 연예인 #태연 도 인정\n🕵 #1000명 정예요원도 인정\n쓰는 사람마다 인정한 본투비 매드프루프 마스카라\n-\nNO번짐 NO처짐 NO뭉침\n내 것처럼 FIT하게, 끝까지 FIX!\n쉿!, 번지면 들켜"
+	},
+	{
 		"created_at": "Tue May 19 09:55:29 +0000 2020",
 		"id": 1262683286943473700,
 		"id_str": "1262683286943473665",
