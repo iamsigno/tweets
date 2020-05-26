@@ -1,6 +1,552 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 03:07:20 +0000 2020",
+		"id": 1265116287824347100,
+		"id_str": "1265117285183901697",
+		"full_text": "新型コロナウイルス感染症の影響により見送りとさせていただいておりました『TAEYEON JAPAN TOUR 2020（仮）』全11公演を中止させて頂く事になりました。\n公演を楽しみにされていた皆様にはご迷惑をお掛け致しますが、何卒ご理解賜りますようお願い致します。\n▼詳細はこちら\nhttps://t.co/l0FnPvwERv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l0FnPvwERv",
+					"expanded_url": "http://taeyeon.girls-generation.jp/news/tour2020cancel/",
+					"display_url": "taeyeon.girls-generation.jp/news/tour2020c…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103144,
+			"friends_count": 0,
+			"listed_count": 473,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 211,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "新型コロナウイルス感染症の影響により見送りとさせていただいておりました『TAEYEON JAPAN TOUR 2020（仮）』全11公演を中止させて頂く事になりました。\n公演を楽しみにされていた皆様にはご迷惑をお掛け致しますが、何卒ご理解賜りますようお願い致します。\n▼詳細はこちら\nhttps://t.co/l0FnPvwERv"
+	},
+	{
+		"created_at": "Tue May 26 03:07:12 +0000 2020",
+		"id": 1265115762752020500,
+		"id_str": "1265117251121922054",
+		"full_text": "TAEYEON Concert -The UNSEEN KiT Video ❤️\n\n태연의 네 번째 단독 콘서트 'The UNSEEN'의 공연 실황이 담긴 키트 비디오가 출시됩니다.\n'UNSEEN' 키트 비디오를 지금 바로 SMTOWN &amp;STORE에서 예약 판매로 만나 보세요! ✨\n오프라인은 6월 23일에 만나보실 수 있습니다. \n\nhttps://t.co/sgRdTh0AWs https://t.co/svscQGznv2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sgRdTh0AWs",
+					"expanded_url": "https://bit.ly/3d4jL3I",
+					"display_url": "bit.ly/3d4jL3I",
+					"indices": [
+						186,
+						209
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265115286035824600,
+					"id_str": "1265115286035824646",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6XplgVAAYI-ZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6XplgVAAYI-ZP.jpg",
+					"url": "https://t.co/svscQGznv2",
+					"display_url": "pic.twitter.com/svscQGznv2",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1265115762752020480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265115286035824600,
+					"id_str": "1265115286035824646",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6XplgVAAYI-ZP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6XplgVAAYI-ZP.jpg",
+					"url": "https://t.co/svscQGznv2",
+					"display_url": "pic.twitter.com/svscQGznv2",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1265115762752020480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48226,
+			"friends_count": 0,
+			"listed_count": 100,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON Concert -The UNSEEN KiT Video ❤️\n\n태연의 네 번째 단독 콘서트 'The UNSEEN'의 공연 실황이 담긴 키트 비디오가 출시됩니다.\n'UNSEEN' 키트 비디오를 지금 바로 SMTOWN &amp;STORE에서 예약 판매로 만나 보세요! ✨\n오프라인은 6월 23일에 만나보실 수 있습니다. \n\nhttps://t.co/sgRdTh0AWs https://t.co/svscQGznv2"
+	},
+	{
+		"created_at": "Tue May 26 03:07:08 +0000 2020",
+		"id": 1265113786068828200,
+		"id_str": "1265117238048276488",
+		"full_text": "#태연, 네 번째 단독 콘서트 ‘#The_UNSEEN’ 키트 비디오 6월 23일 출시!\n\n🗓오늘 예약 판매 시작!\n\n공연 실황부터 메이킹 영상, 포토북까지 콘서트의 감동을 다시 만나 보세요!🧚\n\nTAEYEON Concert - The UNSEEN 키트 비디오 TEASER\n\n👉🏻https://t.co/KslVjd7BIx\n\n#TAEYEON #소녀시대 #GirlsGeneration https://t.co/G9o4gphBeq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "The_UNSEEN",
+					"indices": [
+						18,
+						29
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						189,
+						194
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						195,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KslVjd7BIx",
+					"expanded_url": "https://youtu.be/KeCB9n09KIc",
+					"display_url": "youtu.be/KeCB9n09KIc",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265113770562445300,
+					"id_str": "1265113770562445314",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6WRX7UYAIplBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6WRX7UYAIplBb.jpg",
+					"url": "https://t.co/G9o4gphBeq",
+					"display_url": "pic.twitter.com/G9o4gphBeq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1265113786068828161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265113770562445300,
+					"id_str": "1265113770562445314",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6WRX7UYAIplBb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6WRX7UYAIplBb.jpg",
+					"url": "https://t.co/G9o4gphBeq",
+					"display_url": "pic.twitter.com/G9o4gphBeq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1265113786068828161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265113770562482200,
+					"id_str": "1265113770562482177",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6WRX7U8AE7ZSC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6WRX7U8AE7ZSC.jpg",
+					"url": "https://t.co/G9o4gphBeq",
+					"display_url": "pic.twitter.com/G9o4gphBeq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1265113786068828161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3555895,
+			"friends_count": 4,
+			"listed_count": 4994,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1182,
+		"favorite_count": 1891,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#태연, 네 번째 단독 콘서트 ‘#The_UNSEEN’ 키트 비디오 6월 23일 출시!\n\n🗓오늘 예약 판매 시작!\n\n공연 실황부터 메이킹 영상, 포토북까지 콘서트의 감동을 다시 만나 보세요!🧚\n\nTAEYEON Concert - The UNSEEN 키트 비디오 TEASER\n\n👉🏻https://t.co/KslVjd7BIx\n\n#TAEYEON #소녀시대 #GirlsGeneration https://t.co/G9o4gphBeq"
+	},
+	{
 		"created_at": "Mon May 25 05:07:09 +0000 2020",
 		"id": 1264775355207831600,
 		"id_str": "1264785050408759296",
