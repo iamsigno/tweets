@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 04:07:27 +0000 2020",
+		"id": 1265130540409057300,
+		"id_str": "1265132414155751424",
+		"full_text": "[#퀴음사/ 9회 맛보기 퀴즈] 소녀시대가 뮤직비디오에서 시도하지 않았던 콘셉트는?\n\n정답은 오늘 저녁 8시 엠넷에서 공개됩니다!\n\n논스톱 레트로 뮤직 퀴즈쇼 &lt;퀴즈와 음악사이&gt;\n매주 화요일 저녁8시 Mnet 본방사수\n#Mnet #엠넷 #퀴즈와음악사이 #노홍철 #신지 #김나영 #이국주 #배순탁 #소녀시대 https://t.co/zKidYxjiWn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀴음사",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "퀴즈와음악사이",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "노홍철",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "신지",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "김나영",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "이국주",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "배순탁",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265107885157085200,
+					"id_str": "1265107885157085190",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6TfkOUYAAVy3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6TfkOUYAAVy3a.jpg",
+					"url": "https://t.co/zKidYxjiWn",
+					"display_url": "pic.twitter.com/zKidYxjiWn",
+					"expanded_url": "https://twitter.com/MnetKR/status/1265130540409057281/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1673,
+							"h": 942,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265107885157085200,
+					"id_str": "1265107885157085190",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EY6TfkOUYAAVy3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY6TfkOUYAAVy3a.jpg",
+					"url": "https://t.co/zKidYxjiWn",
+					"display_url": "pic.twitter.com/zKidYxjiWn",
+					"expanded_url": "https://twitter.com/MnetKR/status/1265130540409057281/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1673,
+							"h": 942,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 295696,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1265107885157085190/vid/640x360/UqmAEedBIXl-mIm4.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1265107885157085190/pl/QNulQoS3_TX6y1rG.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1265107885157085190/vid/480x270/VUMr5QI3iIndG_8b.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1265107885157085190/vid/1280x720/5-bMx04QWqXUtIa0.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2718491,
+			"friends_count": 21824,
+			"listed_count": 2661,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 93,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀴음사/ 9회 맛보기 퀴즈] 소녀시대가 뮤직비디오에서 시도하지 않았던 콘셉트는?\n\n정답은 오늘 저녁 8시 엠넷에서 공개됩니다!\n\n논스톱 레트로 뮤직 퀴즈쇼 &lt;퀴즈와 음악사이&gt;\n매주 화요일 저녁8시 Mnet 본방사수\n#Mnet #엠넷 #퀴즈와음악사이 #노홍철 #신지 #김나영 #이국주 #배순탁 #소녀시대 https://t.co/zKidYxjiWn"
+	},
+	{
+		"created_at": "Tue May 26 04:07:24 +0000 2020",
+		"id": 1265113788564467700,
+		"id_str": "1265132401111564290",
+		"full_text": "💜Buy via links below!💜\n1. 핫트랙스 - https://t.co/2KIHB5VdXR\n\n2. YES24 - https://t.co/uoBt2Ff3mS\n\n3. 알라딘 - https://t.co/P5GujgVREb\n\n4. 인터파크 - https://t.co/JTlIpkYUyT\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #The_UNSEEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						182,
+						198
+					]
+				},
+				{
+					"text": "The_UNSEEN",
+					"indices": [
+						199,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2KIHB5VdXR",
+					"expanded_url": "http://www.hottracks.co.kr/ht/record/detail/8809718443329",
+					"display_url": "hottracks.co.kr/ht/record/deta…",
+					"indices": [
+						33,
+						56
+					]
+				},
+				{
+					"url": "https://t.co/uoBt2Ff3mS",
+					"expanded_url": "http://www.yes24.com/Product/Goods/90375481?scode=032&OzSrank=16",
+					"display_url": "yes24.com/Product/Goods/…",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/P5GujgVREb",
+					"expanded_url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=241369784",
+					"display_url": "aladin.co.kr/shop/wproduct.…",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/JTlIpkYUyT",
+					"expanded_url": "http://shopping.interpark.com/product/productInfo.do?prdNo=7223590547&dispNo=008001082&pis1=shop&pis2=product",
+					"display_url": "shopping.interpark.com/product/produc…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1265113786068828200,
+		"in_reply_to_status_id_str": "1265113786068828161",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3555858,
+			"friends_count": 4,
+			"listed_count": 4993,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 609,
+		"favorite_count": 1076,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "💜Buy via links below!💜\n1. 핫트랙스 - https://t.co/2KIHB5VdXR\n\n2. YES24 - https://t.co/uoBt2Ff3mS\n\n3. 알라딘 - https://t.co/P5GujgVREb\n\n4. 인터파크 - https://t.co/JTlIpkYUyT\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #The_UNSEEN"
+	},
+	{
+		"created_at": "Tue May 26 03:52:33 +0000 2020",
+		"id": 1265128664510972000,
+		"id_str": "1265128664510971904",
+		"full_text": "#GirlsGeneration #소녀시대\n태연, 네 번째 단독 콘서트 ‘The UNSEEN’ 키트...\nhttps://t.co/MCrmVVLcW0\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MCrmVVLcW0",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3367531629933445",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 524,
+			"friends_count": 461,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n태연, 네 번째 단독 콘서트 ‘The UNSEEN’ 키트...\nhttps://t.co/MCrmVVLcW0\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Tue May 26 03:07:20 +0000 2020",
 		"id": 1265116287824347100,
 		"id_str": "1265117285183901697",
