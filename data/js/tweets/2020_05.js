@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 10:07:09 +0000 2020",
+		"id": 1265578355727822800,
+		"id_str": "1265585322735415297",
+		"full_text": "[#퀴즈와음악사이] 9회 희귀자료 풀버전 대방출\n\n무대 풀버전 영상을 지금 바로 온라인에서 확인해보세요!\n유튜브▶ https://t.co/PrAcPFVTaX \n네이버▶ https://t.co/RhHAvDlPy7 \n\n&lt;퀴즈와 음악사이&gt; 화요일 저녁8시\n#엠넷 #Mnet #소녀시대 #윤종신 #서태지와아이들 #박효신 #박진영 #아이유 #넥스트 https://t.co/DUNrpve1nD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀴즈와음악사이",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "윤종신",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "서태지와아이들",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "박효신",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "박진영",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						186,
+						190
+					]
+				},
+				{
+					"text": "넥스트",
+					"indices": [
+						191,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PrAcPFVTaX",
+					"expanded_url": "https://bit.ly/2ZI7Vsi",
+					"display_url": "bit.ly/2ZI7Vsi",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/RhHAvDlPy7",
+					"expanded_url": "https://tv.naver.com/cjenm.quizmusic",
+					"display_url": "tv.naver.com/cjenm.quizmusic",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265578033093566500,
+					"id_str": "1265578033093566465",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EZA8hAoUYAEzXzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZA8hAoUYAEzXzA.jpg",
+					"url": "https://t.co/DUNrpve1nD",
+					"display_url": "pic.twitter.com/DUNrpve1nD",
+					"expanded_url": "https://twitter.com/MnetKR/status/1265578355727822848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265578033093566500,
+					"id_str": "1265578033093566465",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EZA8hAoUYAEzXzA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZA8hAoUYAEzXzA.jpg",
+					"url": "https://t.co/DUNrpve1nD",
+					"display_url": "pic.twitter.com/DUNrpve1nD",
+					"expanded_url": "https://twitter.com/MnetKR/status/1265578355727822848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2718603,
+			"friends_count": 21818,
+			"listed_count": 2656,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#퀴즈와음악사이] 9회 희귀자료 풀버전 대방출\n\n무대 풀버전 영상을 지금 바로 온라인에서 확인해보세요!\n유튜브▶ https://t.co/PrAcPFVTaX \n네이버▶ https://t.co/RhHAvDlPy7 \n\n&lt;퀴즈와 음악사이&gt; 화요일 저녁8시\n#엠넷 #Mnet #소녀시대 #윤종신 #서태지와아이들 #박효신 #박진영 #아이유 #넥스트 https://t.co/DUNrpve1nD"
+	},
+	{
 		"created_at": "Wed May 27 07:44:57 +0000 2020",
 		"id": 1265536846655819800,
 		"id_str": "1265549538280046594",
