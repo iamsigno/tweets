@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 07:44:57 +0000 2020",
+		"id": 1265536846655819800,
+		"id_str": "1265549538280046594",
+		"full_text": "보고싶어어어모두우우우💖 https://t.co/C53aq1wHES",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C53aq1wHES",
+					"expanded_url": "https://www.instagram.com/p/CArpY1xBoZ4/?igshid=1pf5n8acyf2xw",
+					"display_url": "instagram.com/p/CArpY1xBoZ4/…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1387732,
+			"friends_count": 31,
+			"listed_count": 2869,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 353,
+		"favorite_count": 753,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보고싶어어어모두우우우💖 https://t.co/C53aq1wHES"
+	},
+	{
 		"created_at": "Tue May 26 07:32:04 +0000 2020",
 		"id": 1265183908569788400,
 		"id_str": "1265183908569788418",
