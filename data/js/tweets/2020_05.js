@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 15:07:09 +0000 2020",
+		"id": 1266009900032815000,
+		"id_str": "1266023208089722883",
+		"full_text": "[3회] #슬릭 X #효연 - #BlindingLights @베스트 유닛 결정전\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 #Mnet\n\n#GOODGIRL_누가방송국을털었나\nhttps://t.co/hoYDRuwG8C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "BlindingLights",
+					"indices": [
+						17,
+						32
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						145,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hoYDRuwG8C",
+					"expanded_url": "https://tv.naver.com/v/14021512",
+					"display_url": "tv.naver.com/v/14021512",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 9시 30분 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196967,
+			"friends_count": 2548,
+			"listed_count": 209,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5429,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1589882575",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[3회] #슬릭 X #효연 - #BlindingLights @베스트 유닛 결정전\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 #Mnet\n\n#GOODGIRL_누가방송국을털었나\nhttps://t.co/hoYDRuwG8C"
+	},
+	{
+		"created_at": "Thu May 28 14:15:14 +0000 2020",
+		"id": 1265904948543320000,
+		"id_str": "1266010143935750146",
+		"full_text": "#BigIssue No. 227 which was with #Yoona in the #SNSD has been restocked for Yoona's birthday.👏\n\nThanks to Yoona's good influence and support from fans, the sale was quick and it was a big help to our vendors❤️\n\nIt's a tough time with Corona19, but thank you for your support.🙋‍♀️🙋‍♂️ https://t.co/IbtPZwYutJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BigIssue",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "Yoona",
+					"indices": [
+						33,
+						39
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265904871632322600,
+					"id_str": "1265904871632322561",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFlxhEUwAElpl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFlxhEUwAElpl9.jpg",
+					"url": "https://t.co/IbtPZwYutJ",
+					"display_url": "pic.twitter.com/IbtPZwYutJ",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265904948543320064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265904871632322600,
+					"id_str": "1265904871632322561",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFlxhEUwAElpl9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFlxhEUwAElpl9.jpg",
+					"url": "https://t.co/IbtPZwYutJ",
+					"display_url": "pic.twitter.com/IbtPZwYutJ",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265904948543320064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265904886853460000,
+					"id_str": "1265904886853459968",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFlyZxU4AA_j97.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFlyZxU4AA_j97.jpg",
+					"url": "https://t.co/IbtPZwYutJ",
+					"display_url": "pic.twitter.com/IbtPZwYutJ",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265904948543320064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265904899289571300,
+					"id_str": "1265904899289571329",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFlzIGU4AEWUce.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFlzIGU4AEWUce.jpg",
+					"url": "https://t.co/IbtPZwYutJ",
+					"display_url": "pic.twitter.com/IbtPZwYutJ",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265904948543320064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113791386,
+			"id_str": "113791386",
+			"name": "빅이슈코리아",
+			"screen_name": "bigissuekorea",
+			"location": "Seoul",
+			"description": "‘빈곤해체’를 미션으로 하는 사회적기업, #빅이슈코리아 홈리스의 자립을 돕는 매거진, 《빅이슈》를 발행합니다. ➡️https://t.co/2i4ZznYcuO 🌐https://t.co/ilh2yqsux7",
+			"url": "https://t.co/tBu9Yv20O4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tBu9Yv20O4",
+							"expanded_url": "http://www.bigissue.kr",
+							"display_url": "bigissue.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2i4ZznYcuO",
+							"expanded_url": "http://www.bigissue2.kr",
+							"display_url": "bigissue2.kr",
+							"indices": [
+								64,
+								87
+							]
+						},
+						{
+							"url": "https://t.co/ilh2yqsux7",
+							"expanded_url": "http://bit.ly/2WasLQB",
+							"display_url": "bit.ly/2WasLQB",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10956,
+			"friends_count": 9789,
+			"listed_count": 395,
+			"created_at": "Sat Feb 13 02:11:09 +0000 2010",
+			"favourites_count": 1436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113791386/1589510727",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 603,
+		"favorite_count": 806,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BigIssue No. 227 which was with #Yoona in the #SNSD has been restocked for Yoona's birthday.👏\n\nThanks to Yoona's good influence and support from fans, the sale was quick and it was a big help to our vendors❤️\n\nIt's a tough time with Corona19, but thank you for your support.🙋‍♀️🙋‍♂️ https://t.co/IbtPZwYutJ"
+	},
+	{
+		"created_at": "Thu May 28 14:15:11 +0000 2020",
+		"id": 1265902626815635500,
+		"id_str": "1266010131826790400",
+		"full_text": "#소녀시대 #윤아 님의 재능기부로 진행되었던 #빅이슈 227호가 윤아님의 생일을 맞이해 재입고 되었습니다👏\n\n윤아님의 선한 영향력과 팬들의 성원으로 빠르게 판매가 이뤄져 홈리스 판매원님들에게 큰 힘이 될 수 있었어요❤️\n\n코로나19로 힘든 시기지만 보내주신 응원에 감사드립니다🙋‍♀️🙋‍♂️\n\n#YOONA https://t.co/baUvqKyNve",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "빅이슈",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						164,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265902527800766500,
+					"id_str": "1265902527800766464",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFjpFnVcAAL0yN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFjpFnVcAAL0yN.jpg",
+					"url": "https://t.co/baUvqKyNve",
+					"display_url": "pic.twitter.com/baUvqKyNve",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265902626815635457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265902527800766500,
+					"id_str": "1265902527800766464",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFjpFnVcAAL0yN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFjpFnVcAAL0yN.jpg",
+					"url": "https://t.co/baUvqKyNve",
+					"display_url": "pic.twitter.com/baUvqKyNve",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265902626815635457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265902541759328300,
+					"id_str": "1265902541759328256",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFjp5nUMAA-ArT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFjp5nUMAA-ArT.jpg",
+					"url": "https://t.co/baUvqKyNve",
+					"display_url": "pic.twitter.com/baUvqKyNve",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265902626815635457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1265902558138085400,
+					"id_str": "1265902558138085377",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EZFjq2oUMAEMv1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZFjq2oUMAEMv1i.jpg",
+					"url": "https://t.co/baUvqKyNve",
+					"display_url": "pic.twitter.com/baUvqKyNve",
+					"expanded_url": "https://twitter.com/bigissuekorea/status/1265902626815635457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113791386,
+			"id_str": "113791386",
+			"name": "빅이슈코리아",
+			"screen_name": "bigissuekorea",
+			"location": "Seoul",
+			"description": "‘빈곤해체’를 미션으로 하는 사회적기업, #빅이슈코리아 홈리스의 자립을 돕는 매거진, 《빅이슈》를 발행합니다. ➡️https://t.co/2i4ZznYcuO 🌐https://t.co/ilh2yqsux7",
+			"url": "https://t.co/tBu9Yv20O4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tBu9Yv20O4",
+							"expanded_url": "http://www.bigissue.kr",
+							"display_url": "bigissue.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2i4ZznYcuO",
+							"expanded_url": "http://www.bigissue2.kr",
+							"display_url": "bigissue2.kr",
+							"indices": [
+								64,
+								87
+							]
+						},
+						{
+							"url": "https://t.co/ilh2yqsux7",
+							"expanded_url": "http://bit.ly/2WasLQB",
+							"display_url": "bit.ly/2WasLQB",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10956,
+			"friends_count": 9789,
+			"listed_count": 395,
+			"created_at": "Sat Feb 13 02:11:09 +0000 2010",
+			"favourites_count": 1436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090083669178347520/hLsqDmc4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113791386/1589510727",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 706,
+		"favorite_count": 816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#소녀시대 #윤아 님의 재능기부로 진행되었던 #빅이슈 227호가 윤아님의 생일을 맞이해 재입고 되었습니다👏\n\n윤아님의 선한 영향력과 팬들의 성원으로 빠르게 판매가 이뤄져 홈리스 판매원님들에게 큰 힘이 될 수 있었어요❤️\n\n코로나19로 힘든 시기지만 보내주신 응원에 감사드립니다🙋‍♀️🙋‍♂️\n\n#YOONA https://t.co/baUvqKyNve"
+	},
+	{
 		"created_at": "Thu May 28 11:07:16 +0000 2020",
 		"id": 1265956373596168200,
 		"id_str": "1265962839795208192",
