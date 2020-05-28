@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 11:07:16 +0000 2020",
+		"id": 1265956373596168200,
+		"id_str": "1265962839795208192",
+		"full_text": "@JOnefirst สวัสดีค่ะ ขออนุญาตเรียนแจ้งให้ทราบว่า ทางเราไม่ได้เปิด Pre-Order สินค้า KIT Video คอนเสิร์ต The UNSEEN ของ TAEYEON ค่ะ\n\nต้องขออภัยมา ณ ที่นี้ด้วยนะคะ\n\nขอบคุณค่ะ",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JOnefirst",
+					"name": "☆onefirsTY★#GG4EVA",
+					"id": 1014173503,
+					"id_str": "1014173503",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265877186721968000,
+		"in_reply_to_status_id_str": "1265877186721968129",
+		"in_reply_to_user_id": 1014173503,
+		"in_reply_to_user_id_str": "1014173503",
+		"in_reply_to_screen_name": "JOnefirst",
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74477,
+			"friends_count": 46,
+			"listed_count": 117,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "th",
+		"text": "@JOnefirst สวัสดีค่ะ ขออนุญาตเรียนแจ้งให้ทราบว่า ทางเราไม่ได้เปิด Pre-Order สินค้า KIT Video คอนเสิร์ต The UNSEEN ของ TAEYEON ค่ะ\n\nต้องขออภัยมา ณ ที่นี้ด้วยนะคะ\n\nขอบคุณค่ะ"
+	},
+	{
+		"created_at": "Thu May 28 11:07:12 +0000 2020",
+		"id": 1265956332471025700,
+		"id_str": "1265962826679582721",
+		"full_text": "@PiscesRAIN สวัสดีค่ะ ขออนุญาตเรียนแจ้งให้ทราบว่า ทางเราไม่ได้เปิด Pre-Order สินค้า KIT Video คอนเสิร์ต The UNSEEN ของ TAEYEON ค่ะ\n\nต้องขออภัยมา ณ ที่นี้ด้วยนะคะ\n\nขอบคุณค่ะ",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PiscesRAIN",
+					"name": "PiscesRAIN ♓",
+					"id": 3324589976,
+					"id_str": "3324589976",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1265476613153554400,
+		"in_reply_to_status_id_str": "1265476613153554432",
+		"in_reply_to_user_id": 3324589976,
+		"in_reply_to_user_id_str": "3324589976",
+		"in_reply_to_screen_name": "PiscesRAIN",
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74477,
+			"friends_count": 46,
+			"listed_count": 117,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "th",
+		"text": "@PiscesRAIN สวัสดีค่ะ ขออนุญาตเรียนแจ้งให้ทราบว่า ทางเราไม่ได้เปิด Pre-Order สินค้า KIT Video คอนเสิร์ต The UNSEEN ของ TAEYEON ค่ะ\n\nต้องขออภัยมา ณ ที่นี้ด้วยนะคะ\n\nขอบคุณค่ะ"
+	},
+	{
 		"created_at": "Thu May 28 09:07:18 +0000 2020",
 		"id": 1265928246371053600,
 		"id_str": "1265932650105262081",
