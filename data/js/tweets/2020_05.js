@@ -1,10 +1,152 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 28 09:07:18 +0000 2020",
+		"id": 1265928246371053600,
+		"id_str": "1265932650105262081",
+		"full_text": "[굿걸/3회선공개] 효연 뷰티샵 효과?! (※반전주의※) #슬릭 X #효연 유닛 공연!\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n오늘 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 https://t.co/y8ooz85cvf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬릭",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						147,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y8ooz85cvf",
+					"expanded_url": "https://tv.naver.com/v/14016382",
+					"display_url": "tv.naver.com/v/14016382",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2719064,
+			"friends_count": 21816,
+			"listed_count": 2659,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[굿걸/3회선공개] 효연 뷰티샵 효과?! (※반전주의※) #슬릭 X #효연 유닛 공연!\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n오늘 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 https://t.co/y8ooz85cvf"
+	},
+	{
 		"created_at": "Wed May 27 14:07:08 +0000 2020",
 		"id": 1265635471662518300,
 		"id_str": "1265645720121589761",
-		"full_text": "◝(⁰▿⁰)◜자막 확인해야하는데\n자꾸 탱구얼굴만 보게돼서\n309번 돌려보고 보고한 영상🤦🏻‍♀\n#그럴만하죠?\n.\n🌿#마데카소사이드앰플\n🤫#본투비매드프루프마스카라 #태연마스카라\n🍑#과즙팡스파클링틴트\n☀#슈퍼에어핏마일드선크림\n💧#마데카소사이드수분젤크림\n.\n#본분망각 #우오가 #탱퓨 #taeyeon https://t.co/k8tYlMtRb0",
+		"full_text": "◝(⁰▿⁰)◜자막 확인해야하는데\n자꾸 탱구얼굴만 보게돼서\n309번 돌려보고 보고한 영상🤦🏻♀\n#그럴만하죠?\n.\n🌿#마데카소사이드앰플\n🤫#본투비매드프루프마스카라 #태연마스카라\n🍑#과즙팡스파클링틴트\n☀#슈퍼에어핏마일드선크림\n💧#마데카소사이드수분젤크림\n.\n#본분망각 #우오가 #탱퓨 #taeyeon https://t.co/k8tYlMtRb0",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -281,7 +423,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "◝(⁰▿⁰)◜자막 확인해야하는데\n자꾸 탱구얼굴만 보게돼서\n309번 돌려보고 보고한 영상🤦🏻‍♀\n#그럴만하죠?\n.\n🌿#마데카소사이드앰플\n🤫#본투비매드프루프마스카라 #태연마스카라\n🍑#과즙팡스파클링틴트\n☀#슈퍼에어핏마일드선크림\n💧#마데카소사이드수분젤크림\n.\n#본분망각 #우오가 #탱퓨 #taeyeon https://t.co/k8tYlMtRb0"
+		"text": "◝(⁰▿⁰)◜자막 확인해야하는데\n자꾸 탱구얼굴만 보게돼서\n309번 돌려보고 보고한 영상🤦🏻♀\n#그럴만하죠?\n.\n🌿#마데카소사이드앰플\n🤫#본투비매드프루프마스카라 #태연마스카라\n🍑#과즙팡스파클링틴트\n☀#슈퍼에어핏마일드선크림\n💧#마데카소사이드수분젤크림\n.\n#본분망각 #우오가 #탱퓨 #taeyeon https://t.co/k8tYlMtRb0"
 	},
 	{
 		"created_at": "Wed May 27 10:07:09 +0000 2020",
