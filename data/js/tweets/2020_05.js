@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 07:07:17 +0000 2020",
+		"id": 1266256422917959700,
+		"id_str": "1266264837035704320",
+		"full_text": "'GOOD GIRL : 누가 방송국을 털었나' 속 효연 모아보기👀🖤\n\nhttps://t.co/VS76pTxJh4\nhttps://t.co/HNAPLiawYS\nhttps://t.co/NSK1fpJK4Q\nhttps://t.co/e87asvjUXA\nhttps://t.co/DJjy9aScPz\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "굿걸",
+					"indices": [
+						196,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VS76pTxJh4",
+					"expanded_url": "https://tv.naver.com/v/14016382",
+					"display_url": "tv.naver.com/v/14016382",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/HNAPLiawYS",
+					"expanded_url": "https://tv.naver.com/v/14021377",
+					"display_url": "tv.naver.com/v/14021377",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/NSK1fpJK4Q",
+					"expanded_url": "https://tv.naver.com/v/14021512",
+					"display_url": "tv.naver.com/v/14021512",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/e87asvjUXA",
+					"expanded_url": "https://tv.naver.com/v/14021813",
+					"display_url": "tv.naver.com/v/14021813",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/DJjy9aScPz",
+					"expanded_url": "https://tv.naver.com/v/14021982",
+					"display_url": "tv.naver.com/v/14021982",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3554595,
+			"friends_count": 4,
+			"listed_count": 0,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1994,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 628,
+		"favorite_count": 1415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "'GOOD GIRL : 누가 방송국을 털었나' 속 효연 모아보기👀🖤\n\nhttps://t.co/VS76pTxJh4\nhttps://t.co/HNAPLiawYS\nhttps://t.co/NSK1fpJK4Q\nhttps://t.co/e87asvjUXA\nhttps://t.co/DJjy9aScPz\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸"
+	},
+	{
+		"created_at": "Fri May 29 07:07:09 +0000 2020",
+		"id": 1266252664980992000,
+		"id_str": "1266264802860519428",
+		"full_text": "Happy Birthday YOONA❤️\n\nGirls' Generation 윤아 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나 보실 수 있습니다.\n5월 탄생석 에메랄드 컬러 크리스탈 스톤으로 포인트 준 제품입니다.\n\n🔸5월 탄생석 의미 : 행복, 행운\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/THLLxkmG5V https://t.co/aJlxZtLqEn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/THLLxkmG5V",
+					"expanded_url": "http://www.SMTOWNandSTORE.com",
+					"display_url": "SMTOWNandSTORE.com",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266252293378158600,
+					"id_str": "1266252293378158595",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKhwH7UMAMrAjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKhwH7UMAMrAjq.jpg",
+					"url": "https://t.co/aJlxZtLqEn",
+					"display_url": "pic.twitter.com/aJlxZtLqEn",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1266252664980992000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266252293378158600,
+					"id_str": "1266252293378158595",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKhwH7UMAMrAjq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKhwH7UMAMrAjq.jpg",
+					"url": "https://t.co/aJlxZtLqEn",
+					"display_url": "pic.twitter.com/aJlxZtLqEn",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1266252664980992000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266252303058653200,
+					"id_str": "1266252303058653197",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKhwr_U0A0hFIE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EZKhwr_U0A0hFIE.png",
+					"url": "https://t.co/aJlxZtLqEn",
+					"display_url": "pic.twitter.com/aJlxZtLqEn",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1266252664980992000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1772,
+							"h": 1772,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48692,
+			"friends_count": 0,
+			"listed_count": 102,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 402,
+		"favorite_count": 509,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Happy Birthday YOONA❤️\n\nGirls' Generation 윤아 생일을 맞아, ARTIST BIRTHDAY NECKLACE를 SMTOWN &amp;STORE에서 만나 보실 수 있습니다.\n5월 탄생석 에메랄드 컬러 크리스탈 스톤으로 포인트 준 제품입니다.\n\n🔸5월 탄생석 의미 : 행복, 행운\n🔸소재 : METAL, CRYSTAL STONE\n\nhttps://t.co/THLLxkmG5V https://t.co/aJlxZtLqEn"
+	},
+	{
 		"created_at": "Thu May 28 15:07:09 +0000 2020",
 		"id": 1266009900032815000,
 		"id_str": "1266023208089722883",
@@ -147,7 +545,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Thu May 28 14:15:14 +0000 2020",
 		"id": 1265904948543320000,
 		"id_str": "1266010143935750146",
-		"full_text": "#BigIssue No. 227 which was with #Yoona in the #SNSD has been restocked for Yoona's birthday.👏\n\nThanks to Yoona's good influence and support from fans, the sale was quick and it was a big help to our vendors❤️\n\nIt's a tough time with Corona19, but thank you for your support.🙋‍♀️🙋‍♂️ https://t.co/IbtPZwYutJ",
+		"full_text": "#BigIssue No. 227 which was with #Yoona in the #SNSD has been restocked for Yoona's birthday.👏\n\nThanks to Yoona's good influence and support from fans, the sale was quick and it was a big help to our vendors❤️\n\nIt's a tough time with Corona19, but thank you for your support.🙋♀️🙋♂️ https://t.co/IbtPZwYutJ",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -428,13 +826,13 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "#BigIssue No. 227 which was with #Yoona in the #SNSD has been restocked for Yoona's birthday.👏\n\nThanks to Yoona's good influence and support from fans, the sale was quick and it was a big help to our vendors❤️\n\nIt's a tough time with Corona19, but thank you for your support.🙋‍♀️🙋‍♂️ https://t.co/IbtPZwYutJ"
+		"text": "#BigIssue No. 227 which was with #Yoona in the #SNSD has been restocked for Yoona's birthday.👏\n\nThanks to Yoona's good influence and support from fans, the sale was quick and it was a big help to our vendors❤️\n\nIt's a tough time with Corona19, but thank you for your support.🙋♀️🙋♂️ https://t.co/IbtPZwYutJ"
 	},
 	{
 		"created_at": "Thu May 28 14:15:11 +0000 2020",
 		"id": 1265902626815635500,
 		"id_str": "1266010131826790400",
-		"full_text": "#소녀시대 #윤아 님의 재능기부로 진행되었던 #빅이슈 227호가 윤아님의 생일을 맞이해 재입고 되었습니다👏\n\n윤아님의 선한 영향력과 팬들의 성원으로 빠르게 판매가 이뤄져 홈리스 판매원님들에게 큰 힘이 될 수 있었어요❤️\n\n코로나19로 힘든 시기지만 보내주신 응원에 감사드립니다🙋‍♀️🙋‍♂️\n\n#YOONA https://t.co/baUvqKyNve",
+		"full_text": "#소녀시대 #윤아 님의 재능기부로 진행되었던 #빅이슈 227호가 윤아님의 생일을 맞이해 재입고 되었습니다👏\n\n윤아님의 선한 영향력과 팬들의 성원으로 빠르게 판매가 이뤄져 홈리스 판매원님들에게 큰 힘이 될 수 있었어요❤️\n\n코로나19로 힘든 시기지만 보내주신 응원에 감사드립니다🙋♀️🙋♂️\n\n#YOONA https://t.co/baUvqKyNve",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -722,7 +1120,7 @@ Grailbird.data.tweets_2020_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#소녀시대 #윤아 님의 재능기부로 진행되었던 #빅이슈 227호가 윤아님의 생일을 맞이해 재입고 되었습니다👏\n\n윤아님의 선한 영향력과 팬들의 성원으로 빠르게 판매가 이뤄져 홈리스 판매원님들에게 큰 힘이 될 수 있었어요❤️\n\n코로나19로 힘든 시기지만 보내주신 응원에 감사드립니다🙋‍♀️🙋‍♂️\n\n#YOONA https://t.co/baUvqKyNve"
+		"text": "#소녀시대 #윤아 님의 재능기부로 진행되었던 #빅이슈 227호가 윤아님의 생일을 맞이해 재입고 되었습니다👏\n\n윤아님의 선한 영향력과 팬들의 성원으로 빠르게 판매가 이뤄져 홈리스 판매원님들에게 큰 힘이 될 수 있었어요❤️\n\n코로나19로 힘든 시기지만 보내주신 응원에 감사드립니다🙋♀️🙋♂️\n\n#YOONA https://t.co/baUvqKyNve"
 	},
 	{
 		"created_at": "Thu May 28 11:07:16 +0000 2020",
