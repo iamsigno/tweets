@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 08:10:53 +0000 2020",
+		"id": 1266265987772321800,
+		"id_str": "1266280840792731648",
+		"full_text": "🎂윤아 생일 축하 인스타 스토리 광고🎂\n#YOONA #윤아 #임윤아 https://t.co/VdKSv1CNoE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						29,
+						32
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						33,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266265968092655600,
+					"id_str": "1266265968092655616",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKuMGNUMAAcCva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKuMGNUMAAcCva.jpg",
+					"url": "https://t.co/VdKSv1CNoE",
+					"display_url": "pic.twitter.com/VdKSv1CNoE",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1266265987772321792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266265968092655600,
+					"id_str": "1266265968092655616",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKuMGNUMAAcCva.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKuMGNUMAAcCva.jpg",
+					"url": "https://t.co/VdKSv1CNoE",
+					"display_url": "pic.twitter.com/VdKSv1CNoE",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1266265987772321792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1266265968570798000,
+					"id_str": "1266265968570798083",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EZKuMH_UEAMChBy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZKuMH_UEAMChBy.jpg",
+					"url": "https://t.co/VdKSv1CNoE",
+					"display_url": "pic.twitter.com/VdKSv1CNoE",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1266265987772321792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37982,
+			"friends_count": 60,
+			"listed_count": 186,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1262228697290964992/o1NiOuUN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262228697290964992/o1NiOuUN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/173447107/1548207558",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 236,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎂윤아 생일 축하 인스타 스토리 광고🎂\n#YOONA #윤아 #임윤아 https://t.co/VdKSv1CNoE"
+	},
+	{
 		"created_at": "Fri May 29 07:07:17 +0000 2020",
 		"id": 1266256422917959700,
 		"id_str": "1266264837035704320",
