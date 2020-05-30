@@ -1,6 +1,393 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 14:07:09 +0000 2020",
+		"id": 1266720660455174100,
+		"id_str": "1266732885127639040",
+		"full_text": "오늘 융디와 함께한 ‘YOONA의 ♡NE Day Radio_90.530MHz’ 모두 즐거우셨나요?🥰\n함께 해주신 여러분 모두 감사드려요!🦌💛\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration\n#윤아의원데이라디오 #디제이융디 #융디 #융프로디테 #꽃사슴 #최고야 #사랑해 https://t.co/mFzMPCjtq4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						80,
+						86
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"text": "윤아의원데이라디오",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "디제이융디",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"text": "융디",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "융프로디테",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "꽃사슴",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "최고야",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "사랑해",
+					"indices": [
+						153,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266720647670952000,
+					"id_str": "1266720647670951936",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EZRLt7oUcAAK6UL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZRLt7oUcAAK6UL.jpg",
+					"url": "https://t.co/mFzMPCjtq4",
+					"display_url": "pic.twitter.com/mFzMPCjtq4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1266720660455174144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266720647670952000,
+					"id_str": "1266720647670951936",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/EZRLt7oUcAAK6UL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZRLt7oUcAAK6UL.jpg",
+					"url": "https://t.co/mFzMPCjtq4",
+					"display_url": "pic.twitter.com/mFzMPCjtq4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1266720660455174144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3556490,
+			"friends_count": 4,
+			"listed_count": 5001,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3430,
+		"favorite_count": 6484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "오늘 융디와 함께한 ‘YOONA의 ♡NE Day Radio_90.530MHz’ 모두 즐거우셨나요?🥰\n함께 해주신 여러분 모두 감사드려요!🦌💛\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration\n#윤아의원데이라디오 #디제이융디 #융디 #융프로디테 #꽃사슴 #최고야 #사랑해 https://t.co/mFzMPCjtq4"
+	},
+	{
+		"created_at": "Sat May 30 14:02:27 +0000 2020",
+		"id": 1266731704363999200,
+		"id_str": "1266731704363999232",
+		"full_text": "#GirlsGeneration #소녀시대\n오늘 융디와 함께한 ‘YOONA의 ♡NE Day Radio_90.530MHz’ 모두 즐거우셨나요?🥰...\nhttps://t.co/UgQRA6uDU2\n#Instagram #인스타그램",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Instagram",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"text": "인스타그램",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UgQRA6uDU2",
+					"expanded_url": "https://www.instagram.com/p/CA0D7imAo7-/",
+					"display_url": "instagram.com/p/CA0D7imAo7-/",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 458,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n오늘 융디와 함께한 ‘YOONA의 ♡NE Day Radio_90.530MHz’ 모두 즐거우셨나요?🥰...\nhttps://t.co/UgQRA6uDU2\n#Instagram #인스타그램"
+	},
+	{
 		"created_at": "Sat May 30 08:07:31 +0000 2020",
 		"id": 1266640602222846000,
 		"id_str": "1266642381413191681",
