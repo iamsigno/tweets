@@ -1,6 +1,826 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 30 08:07:31 +0000 2020",
+		"id": 1266640602222846000,
+		"id_str": "1266642381413191681",
+		"full_text": "[YOONA’s ♡NE Day Radio_90.530MHz] \n\n📻 ♡NE Day Radio_90.530MHz ของ YOONA\n\n💛 วันนี้ (30 พ.ค.) เวลา 4 โมงเย็นไทย มาพบกับ ‘DJ YOONA’ กันนะคะโซวอน!💛\n\n👉🏻 https://t.co/hhSvmFk3mW\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration\n#윤아의원데이라디오 #디제이융디 #융디 https://t.co/tsNGQ9T9L3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						180,
+						183
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						190,
+						206
+					]
+				},
+				{
+					"text": "윤아의원데이라디오",
+					"indices": [
+						207,
+						217
+					]
+				},
+				{
+					"text": "디제이융디",
+					"indices": [
+						218,
+						224
+					]
+				},
+				{
+					"text": "융디",
+					"indices": [
+						225,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hhSvmFk3mW",
+					"expanded_url": "http://vlive.tv/video/193500",
+					"display_url": "vlive.tv/video/193500",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266640580261511200,
+					"id_str": "1266640580261511168",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EZQC5ZSVAAA4eDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZQC5ZSVAAA4eDp.jpg",
+					"url": "https://t.co/tsNGQ9T9L3",
+					"display_url": "pic.twitter.com/tsNGQ9T9L3",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1266640602222845953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266640580261511200,
+					"id_str": "1266640580261511168",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/EZQC5ZSVAAA4eDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZQC5ZSVAAA4eDp.jpg",
+					"url": "https://t.co/tsNGQ9T9L3",
+					"display_url": "pic.twitter.com/tsNGQ9T9L3",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1266640602222845953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74787,
+			"friends_count": 46,
+			"listed_count": 116,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[YOONA’s ♡NE Day Radio_90.530MHz] \n\n📻 ♡NE Day Radio_90.530MHz ของ YOONA\n\n💛 วันนี้ (30 พ.ค.) เวลา 4 โมงเย็นไทย มาพบกับ ‘DJ YOONA’ กันนะคะโซวอน!💛\n\n👉🏻 https://t.co/hhSvmFk3mW\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration\n#윤아의원데이라디오 #디제이융디 #융디 https://t.co/tsNGQ9T9L3"
+	},
+	{
+		"created_at": "Sat May 30 08:07:27 +0000 2020",
+		"id": 1266638207858270200,
+		"id_str": "1266642364174667777",
+		"full_text": "[VLIVE] 오늘 저녁 6시! 융데이에 융디제이와 함께하는 특별한 시간이 찾아옵니다😍 근데 갑자기 화가 나네..윤아 생일은 왜 1년에 한번밖에 없는 거죠?? 1년 내내 융이 생일 해주라!!🎁 \n\n#HappyYOONADay 🎂🎉 #YOONA #윤아 #소녀시대 #GirlsGeneration\n\nhttps://t.co/BsknvWbRQv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyYOONADay",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						145,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BsknvWbRQv",
+					"expanded_url": "http://www.vlive.tv/video/193500",
+					"display_url": "vlive.tv/video/193500",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3963736,
+			"friends_count": 167,
+			"listed_count": 1372,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13308,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 573,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[VLIVE] 오늘 저녁 6시! 융데이에 융디제이와 함께하는 특별한 시간이 찾아옵니다😍 근데 갑자기 화가 나네..윤아 생일은 왜 1년에 한번밖에 없는 거죠?? 1년 내내 융이 생일 해주라!!🎁 \n\n#HappyYOONADay 🎂🎉 #YOONA #윤아 #소녀시대 #GirlsGeneration\n\nhttps://t.co/BsknvWbRQv"
+	},
+	{
+		"created_at": "Sat May 30 08:07:21 +0000 2020",
+		"id": 1266637037337104400,
+		"id_str": "1266642338471968768",
+		"full_text": "🎂 HAPPY BIRTHDAY TO #YOONA\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n🎉💖 30.05.2020 💖🎉\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n#HappyYOONADay #GirlsGeneration #윤아 #소녀시대 https://t.co/caVOhelRI1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "HappyYOONADay",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266637019649724400,
+					"id_str": "1266637019649724416",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EZP_qI-U0AA1KIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZP_qI-U0AA1KIA.jpg",
+					"url": "https://t.co/caVOhelRI1",
+					"display_url": "pic.twitter.com/caVOhelRI1",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1266637037337104386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266637019649724400,
+					"id_str": "1266637019649724416",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/EZP_qI-U0AA1KIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZP_qI-U0AA1KIA.jpg",
+					"url": "https://t.co/caVOhelRI1",
+					"display_url": "pic.twitter.com/caVOhelRI1",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1266637037337104386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74787,
+			"friends_count": 46,
+			"listed_count": 116,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 402,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🎂 HAPPY BIRTHDAY TO #YOONA\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n🎉💖 30.05.2020 💖🎉\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n#HappyYOONADay #GirlsGeneration #윤아 #소녀시대 https://t.co/caVOhelRI1"
+	},
+	{
+		"created_at": "Sat May 30 08:07:16 +0000 2020",
+		"id": 1266619564093091800,
+		"id_str": "1266642316917383168",
+		"full_text": "[YOONA의 ♡NE Day Radio_90.530MHz] \n\n📻윤아의 원데이라디오 90.530MHz\n\n💛바로 오늘 오후 여섯시 ‘융디’와 만나보세요!💛(Today 6PM KST)\n\n👉🏻https://t.co/BGBL2BJeAl\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration\n#윤아의원데이라디오 #디제이융디 #융디 https://t.co/PsGFFUBlPd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "윤아의원데이라디오",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"text": "디제이융디",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "융디",
+					"indices": [
+						181,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BGBL2BJeAl",
+					"expanded_url": "https://www.vlive.tv/video/193500",
+					"display_url": "vlive.tv/video/193500",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1266619554848891000,
+					"id_str": "1266619554848890880",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EZPvxjhU4AAHaDI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZPvxjhU4AAHaDI.jpg",
+					"url": "https://t.co/PsGFFUBlPd",
+					"display_url": "pic.twitter.com/PsGFFUBlPd",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1266619564093091840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266619554848891000,
+					"id_str": "1266619554848890880",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EZPvxjhU4AAHaDI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZPvxjhU4AAHaDI.jpg",
+					"url": "https://t.co/PsGFFUBlPd",
+					"display_url": "pic.twitter.com/PsGFFUBlPd",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1266619564093091840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8107335,
+			"friends_count": 49,
+			"listed_count": 7894,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 755,
+		"favorite_count": 2524,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[YOONA의 ♡NE Day Radio_90.530MHz] \n\n📻윤아의 원데이라디오 90.530MHz\n\n💛바로 오늘 오후 여섯시 ‘융디’와 만나보세요!💛(Today 6PM KST)\n\n👉🏻https://t.co/BGBL2BJeAl\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration\n#윤아의원데이라디오 #디제이융디 #융디 https://t.co/PsGFFUBlPd"
+	},
+	{
 		"created_at": "Sat May 30 07:02:20 +0000 2020",
 		"id": 1266625975669928000,
 		"id_str": "1266625975669927943",
