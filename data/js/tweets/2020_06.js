@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 03 05:07:08 +0000 2020",
+		"id": 1268028417745645600,
+		"id_str": "1268046540062498816",
+		"full_text": "어서오세요, 융DJ🎙의 라디오 부스에📻 (Feat. HBD 윤아🎂)\n\n👉🏻https://t.co/8yP0Qz1co4\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration #디제이융 #융디",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						66,
+						72
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						83,
+						99
+					]
+				},
+				{
+					"text": "디제이융",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "융디",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8yP0Qz1co4",
+					"expanded_url": "http://naver.me/5X3kz9og",
+					"display_url": "naver.me/5X3kz9og",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3554059,
+			"friends_count": 4,
+			"listed_count": 5006,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1252,
+		"favorite_count": 2665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "어서오세요, 융DJ🎙의 라디오 부스에📻 (Feat. HBD 윤아🎂)\n\n👉🏻https://t.co/8yP0Qz1co4\n\n#YOONA #윤아 #소녀시대 #GirlsGeneration #디제이융 #융디"
+	},
+	{
 		"created_at": "Tue Jun 02 06:12:23 +0000 2020",
 		"id": 1267700570120425500,
 		"id_str": "1267700570120425474",
