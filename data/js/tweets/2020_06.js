@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 14:07:09 +0000 2020",
+		"id": 1268544683908751400,
+		"id_str": "1268544824761860097",
+		"full_text": "[4회] #치타 X #효연 - #털어(TURL) @첫 번째 퀘스트 3R\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 #Mnet\n\n#GOODGIRL_누가방송국을털었나 \nhttps://t.co/MY2yvTEyGf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "치타",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "털어",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						140,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MY2yvTEyGf",
+					"expanded_url": "https://tv.naver.com/v/14133040",
+					"display_url": "tv.naver.com/v/14133040",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 9시 30분 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196942,
+			"friends_count": 2542,
+			"listed_count": 211,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1589882575",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[4회] #치타 X #효연 - #털어(TURL) @첫 번째 퀘스트 3R\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n매주 목요일 밤 9시 30분 #Mnet\n\n#GOODGIRL_누가방송국을털었나 \nhttps://t.co/MY2yvTEyGf"
+	},
+	{
 		"created_at": "Thu Jun 04 05:07:09 +0000 2020",
 		"id": 1268402796467912700,
 		"id_str": "1268408928733401088",
