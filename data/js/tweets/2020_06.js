@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 04:07:09 +0000 2020",
+		"id": 1268386065846419500,
+		"id_str": "1268393828639219714",
+		"full_text": "[#굿걸] 첫 번째 퀘스트 D-DAY! 3라운드 라인업 공개\n\n#효연 X #치타 vs #스윙스 X #한요한\n\n&lt;GOOD GIRL : 누가 방송국을 털었나&gt;\n오늘 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 https://t.co/iNibAjOzkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						41,
+						44
+					]
+				},
+				{
+					"text": "스윙스",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "한요한",
+					"indices": [
+						55,
+						59
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						114,
+						133
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						161,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268386059550769200,
+					"id_str": "1268386059550769155",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EZo2ZqWUwAMy5wp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZo2ZqWUwAMy5wp.jpg",
+					"url": "https://t.co/iNibAjOzkC",
+					"display_url": "pic.twitter.com/iNibAjOzkC",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1268386065846419457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268386059550769200,
+					"id_str": "1268386059550769155",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EZo2ZqWUwAMy5wp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZo2ZqWUwAMy5wp.jpg",
+					"url": "https://t.co/iNibAjOzkC",
+					"display_url": "pic.twitter.com/iNibAjOzkC",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1268386065846419457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 9시 30분 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196905,
+			"friends_count": 2543,
+			"listed_count": 210,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5442,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1589882575",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] 첫 번째 퀘스트 D-DAY! 3라운드 라인업 공개\n\n#효연 X #치타 vs #스윙스 X #한요한\n\n&lt;GOOD GIRL : 누가 방송국을 털었나&gt;\n오늘 밤 9시 30분 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 https://t.co/iNibAjOzkC"
+	},
+	{
 		"created_at": "Wed Jun 03 14:07:09 +0000 2020",
 		"id": 1268169129439060000,
 		"id_str": "1268182438364282880",
