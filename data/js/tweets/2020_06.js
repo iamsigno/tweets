@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 12:07:14 +0000 2020",
+		"id": 1268870439863873500,
+		"id_str": "1268877033683193857",
+		"full_text": "왔어요 왔어! 소문난 코덕 태연의 뷰티로그가 왔어요😗❤ 인생이 화보인 탱구의 찐 화보 촬영 현장 with #어퓨💄 잠시 후 9시 최초공개! #태연 #TAEYEON #소녀시대 #GirlsGeneration @GirlsGeneration @Apieu_official\n\n▶ https://t.co/53oNUy2Cqy https://t.co/31ftpXWs5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "어퓨",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"screen_name": "Apieu_official",
+					"name": "어퓨",
+					"id": 64162171,
+					"id_str": "64162171",
+					"indices": [
+						131,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/53oNUy2Cqy",
+					"expanded_url": "https://youtu.be/7FXPxrxeiio",
+					"display_url": "youtu.be/7FXPxrxeiio",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1268844411728752600,
+					"id_str": "1268844411728752640",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvXRRRU8AAEoQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvXRRRU8AAEoQn.jpg",
+					"url": "https://t.co/31ftpXWs5Y",
+					"display_url": "pic.twitter.com/31ftpXWs5Y",
+					"expanded_url": "https://twitter.com/M2MPD/status/1268870439863873537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1591,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268844411728752600,
+					"id_str": "1268844411728752640",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EZvXRRRU8AAEoQn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZvXRRRU8AAEoQn.jpg",
+					"url": "https://t.co/31ftpXWs5Y",
+					"display_url": "pic.twitter.com/31ftpXWs5Y",
+					"expanded_url": "https://twitter.com/M2MPD/status/1268870439863873537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 664,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1591,
+							"h": 880,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1010199,
+			"friends_count": 348,
+			"listed_count": 1124,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15557,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1244928381088456704/xAs_Z6mQ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 396,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "왔어요 왔어! 소문난 코덕 태연의 뷰티로그가 왔어요😗❤ 인생이 화보인 탱구의 찐 화보 촬영 현장 with #어퓨💄 잠시 후 9시 최초공개! #태연 #TAEYEON #소녀시대 #GirlsGeneration @GirlsGeneration @Apieu_official\n\n▶ https://t.co/53oNUy2Cqy https://t.co/31ftpXWs5Y"
+	},
+	{
 		"created_at": "Fri Jun 05 09:35:57 +0000 2020",
 		"id": 1268732649264214000,
 		"id_str": "1268838963084587010",
