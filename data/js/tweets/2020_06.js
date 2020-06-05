@@ -1,6 +1,728 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 05 09:35:57 +0000 2020",
+		"id": 1268732649264214000,
+		"id_str": "1268838963084587010",
+		"full_text": "[ENG SUB/ 1stLook Dae-Det] 탱잘알 모여라! 태연(TAEYEON) 집콕 일상을 들어봤습니다🧐\n\n👉🏻https://t.co/cLeP4kMLch \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cLeP4kMLch",
+					"expanded_url": "https://youtu.be/N6af5qDlCbs",
+					"display_url": "youtu.be/N6af5qDlCbs",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3553114,
+			"friends_count": 4,
+			"listed_count": 5011,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1420,
+		"favorite_count": 3145,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[ENG SUB/ 1stLook Dae-Det] 탱잘알 모여라! 태연(TAEYEON) 집콕 일상을 들어봤습니다🧐\n\n👉🏻https://t.co/cLeP4kMLch \n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Jun 05 09:35:53 +0000 2020",
+		"id": 1268731646087270400,
+		"id_str": "1268838945502015489",
+		"full_text": "'GOOD GIRL : 누가 방송국을 털었나' 속 효연 모아보기👀💜\n\nhttps://t.co/b180YiaEhy\nhttps://t.co/DYMkwP8lSy\nhttps://t.co/AVmV56zNGv\nhttps://t.co/WNa7KI7X8i\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "굿걸",
+					"indices": [
+						172,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b180YiaEhy",
+					"expanded_url": "https://tv.naver.com/v/14132846",
+					"display_url": "tv.naver.com/v/14132846",
+					"indices": [
+						39,
+						62
+					]
+				},
+				{
+					"url": "https://t.co/DYMkwP8lSy",
+					"expanded_url": "https://tv.naver.com/v/14133040",
+					"display_url": "tv.naver.com/v/14133040",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/AVmV56zNGv",
+					"expanded_url": "https://tv.naver.com/v/14133041",
+					"display_url": "tv.naver.com/v/14133041",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/WNa7KI7X8i",
+					"expanded_url": "https://tv.naver.com/v/14133264",
+					"display_url": "tv.naver.com/v/14133264",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3553114,
+			"friends_count": 4,
+			"listed_count": 5011,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1373,
+		"favorite_count": 3228,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "'GOOD GIRL : 누가 방송국을 털었나' 속 효연 모아보기👀💜\n\nhttps://t.co/b180YiaEhy\nhttps://t.co/DYMkwP8lSy\nhttps://t.co/AVmV56zNGv\nhttps://t.co/WNa7KI7X8i\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸"
+	},
+	{
+		"created_at": "Fri Jun 05 09:35:49 +0000 2020",
+		"id": 1268727322493902800,
+		"id_str": "1268838930834583552",
+		"full_text": "Mnet ‘굿걸’ 효연, 여유로운 무대 매너로 현장 장악…‘톱 클래스’의 위엄 (출처 : 스포츠동아 | 네이버 TV연예) \n\n👉🏻https://t.co/eT5SNjvcbF \n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "굿걸",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eT5SNjvcbF",
+					"expanded_url": "http://naver.me/GCMMirPH",
+					"display_url": "naver.me/GCMMirPH",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3553114,
+			"friends_count": 4,
+			"listed_count": 5011,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1102,
+		"favorite_count": 3199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "Mnet ‘굿걸’ 효연, 여유로운 무대 매너로 현장 장악…‘톱 클래스’의 위엄 (출처 : 스포츠동아 | 네이버 TV연예) \n\n👉🏻https://t.co/eT5SNjvcbF \n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸"
+	},
+	{
+		"created_at": "Fri Jun 05 09:35:04 +0000 2020",
+		"id": 1268099064471535600,
+		"id_str": "1268838740757102592",
+		"full_text": "[#굿걸/4회선공개] 머니게임의 시작! #스윙스 X #한요한 VS #치타 X #효연, 그 결과는?! I 내일 밤 9시 30분\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n내일 밤 9시 30분 #Mnet\n\n#GOODGIRL_누가방송국을털었나 #엠넷 https://t.co/Wjdk43KoaT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "스윙스",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "한요한",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						135,
+						145
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						166,
+						185
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						186,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1268098814172258300,
+					"id_str": "1268098814172258304",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268098814172258304/pu/img/W9M66L3r80cqiSu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268098814172258304/pu/img/W9M66L3r80cqiSu1.jpg",
+					"url": "https://t.co/Wjdk43KoaT",
+					"display_url": "pic.twitter.com/Wjdk43KoaT",
+					"expanded_url": "https://twitter.com/MnetKR/status/1268099064471535619/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1268098814172258300,
+					"id_str": "1268098814172258304",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268098814172258304/pu/img/W9M66L3r80cqiSu1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268098814172258304/pu/img/W9M66L3r80cqiSu1.jpg",
+					"url": "https://t.co/Wjdk43KoaT",
+					"display_url": "pic.twitter.com/Wjdk43KoaT",
+					"expanded_url": "https://twitter.com/MnetKR/status/1268099064471535619/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55088,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268098814172258304/pu/vid/480x270/XA9BG_5TZHNu_a7C.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1268098814172258304/pu/pl/WHmWm0Kyt09QtpEw.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268098814172258304/pu/vid/640x360/Ubx8BPJiu68y5UDG.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1268098814172258304/pu/vid/1280x720/7LaffhJHLZm9EM4z.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2722141,
+			"friends_count": 21792,
+			"listed_count": 2660,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸/4회선공개] 머니게임의 시작! #스윙스 X #한요한 VS #치타 X #효연, 그 결과는?! I 내일 밤 9시 30분\n\nGOOD GIRL vs Mnet\n'센' 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜#GOODGIRL : #누가방송국을털었나＞\n내일 밤 9시 30분 #Mnet\n\n#GOODGIRL_누가방송국을털었나 #엠넷 https://t.co/Wjdk43KoaT"
+	},
+	{
 		"created_at": "Fri Jun 05 07:32:20 +0000 2020",
 		"id": 1268807856461156400,
 		"id_str": "1268807856461156357",
