@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 00:30:23 +0000 2020",
+		"id": 1269056463101497300,
+		"id_str": "1269064053550276608",
+		"full_text": "[로드 투 킹덤]&lt;#로드투킹덤 X #이니스프리&gt;이벤트 응모 기간 종료 D-1!\n\n#RoadtoKingdom X #innisfree 파이널 방청권 응모 이벤트 혜택이 비공개 온라인 팬미팅으로 변경됐습니다.\n※이니스프리 매장과 홈페이지에서 구매금액 1만원 당 응모 기회 1회가 주어집니다(~6/7).\n\n#그린티씨드세럼 #씨드세럼 https://t.co/5CvcmvQZOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "로드투킹덤",
+					"indices": [
+						13,
+						19
+					]
+				},
+				{
+					"text": "이니스프리",
+					"indices": [
+						22,
+						28
+					]
+				},
+				{
+					"text": "RoadtoKingdom",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"text": "innisfree",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"text": "그린티씨드세럼",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "씨드세럼",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1269054483260010500,
+					"id_str": "1269054483260010496",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"url": "https://t.co/5CvcmvQZOf",
+					"display_url": "pic.twitter.com/5CvcmvQZOf",
+					"expanded_url": "https://twitter.com/MnetKR/status/1269056463101497344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269054483260010500,
+					"id_str": "1269054483260010496",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZyWVCtUcAAPcjb.jpg",
+					"url": "https://t.co/5CvcmvQZOf",
+					"display_url": "pic.twitter.com/5CvcmvQZOf",
+					"expanded_url": "https://twitter.com/MnetKR/status/1269056463101497344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EZyWVCtUcAAPcjb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2721987,
+			"friends_count": 21789,
+			"listed_count": 2655,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231746734524485633/4fxo-s0U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1583761892",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[로드 투 킹덤]&lt;#로드투킹덤 X #이니스프리&gt;이벤트 응모 기간 종료 D-1!\n\n#RoadtoKingdom X #innisfree 파이널 방청권 응모 이벤트 혜택이 비공개 온라인 팬미팅으로 변경됐습니다.\n※이니스프리 매장과 홈페이지에서 구매금액 1만원 당 응모 기회 1회가 주어집니다(~6/7).\n\n#그린티씨드세럼 #씨드세럼 https://t.co/5CvcmvQZOf"
+	},
+	{
 		"created_at": "Fri Jun 05 13:12:08 +0000 2020",
 		"id": 1268893369905922000,
 		"id_str": "1268893369905922050",
