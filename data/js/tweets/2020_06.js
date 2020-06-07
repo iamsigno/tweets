@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 03:07:13 +0000 2020",
+		"id": 1269444682473304000,
+		"id_str": "1269465910923931648",
+		"full_text": "#온앤오프 속 #윤아 모아보기 🦌💛\n\nhttps://t.co/Ht2PuNLt8M\nhttps://t.co/vRrUG4ZU4D\nhttps://t.co/aWe4iDE0P1\nhttps://t.co/TkL7VQ9GWX\nhttps://t.co/5SgTOzppHq\nhttps://t.co/jSkBfptNx0\nhttps://t.co/UMM0WnsYsI\nhttps://t.co/p6GoYf0vMY\nhttps://t.co/2ENk5BIAJS\n\n#YOONA #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "온앤오프",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						238,
+						244
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						245,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ht2PuNLt8M",
+					"expanded_url": "http://naver.me/GYp2amY3",
+					"display_url": "naver.me/GYp2amY3",
+					"indices": [
+						21,
+						44
+					]
+				},
+				{
+					"url": "https://t.co/vRrUG4ZU4D",
+					"expanded_url": "http://naver.me/G9b9OCok",
+					"display_url": "naver.me/G9b9OCok",
+					"indices": [
+						45,
+						68
+					]
+				},
+				{
+					"url": "https://t.co/aWe4iDE0P1",
+					"expanded_url": "http://naver.me/5rLsbLTY",
+					"display_url": "naver.me/5rLsbLTY",
+					"indices": [
+						69,
+						92
+					]
+				},
+				{
+					"url": "https://t.co/TkL7VQ9GWX",
+					"expanded_url": "http://naver.me/xBD41YS3",
+					"display_url": "naver.me/xBD41YS3",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/5SgTOzppHq",
+					"expanded_url": "http://naver.me/I5jFgmes",
+					"display_url": "naver.me/I5jFgmes",
+					"indices": [
+						117,
+						140
+					]
+				},
+				{
+					"url": "https://t.co/jSkBfptNx0",
+					"expanded_url": "http://naver.me/5O5noka1",
+					"display_url": "naver.me/5O5noka1",
+					"indices": [
+						141,
+						164
+					]
+				},
+				{
+					"url": "https://t.co/UMM0WnsYsI",
+					"expanded_url": "http://naver.me/GOxuZqhP",
+					"display_url": "naver.me/GOxuZqhP",
+					"indices": [
+						165,
+						188
+					]
+				},
+				{
+					"url": "https://t.co/p6GoYf0vMY",
+					"expanded_url": "http://naver.me/5Zu03I3Y",
+					"display_url": "naver.me/5Zu03I3Y",
+					"indices": [
+						189,
+						212
+					]
+				},
+				{
+					"url": "https://t.co/2ENk5BIAJS",
+					"expanded_url": "http://naver.me/x25PxoUl",
+					"display_url": "naver.me/x25PxoUl",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3551996,
+			"friends_count": 4,
+			"listed_count": 5012,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 820,
+		"favorite_count": 1884,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#온앤오프 속 #윤아 모아보기 🦌💛\n\nhttps://t.co/Ht2PuNLt8M\nhttps://t.co/vRrUG4ZU4D\nhttps://t.co/aWe4iDE0P1\nhttps://t.co/TkL7VQ9GWX\nhttps://t.co/5SgTOzppHq\nhttps://t.co/jSkBfptNx0\nhttps://t.co/UMM0WnsYsI\nhttps://t.co/p6GoYf0vMY\nhttps://t.co/2ENk5BIAJS\n\n#YOONA #소녀시대"
+	},
+	{
+		"created_at": "Sun Jun 07 03:07:09 +0000 2020",
+		"id": 1269446683722580000,
+		"id_str": "1269465893555376128",
+		"full_text": "'온앤오프' 윤아, 무결점 민낯부터 셀프 인테리어까지..다재다능 OFF 일상 화제 (출처 : 헤럴드POP | 네이버 TV연예) \n\n👉🏻https://t.co/MqZqjCkwEQ \n\n#윤아 #YOONA #소녀시대 #GirlsGeneration #온앤오프",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						135,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MqZqjCkwEQ",
+					"expanded_url": "http://naver.me/GvFkYYmZ",
+					"display_url": "naver.me/GvFkYYmZ",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3551996,
+			"friends_count": 4,
+			"listed_count": 5012,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 716,
+		"favorite_count": 1928,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "'온앤오프' 윤아, 무결점 민낯부터 셀프 인테리어까지..다재다능 OFF 일상 화제 (출처 : 헤럴드POP | 네이버 TV연예) \n\n👉🏻https://t.co/MqZqjCkwEQ \n\n#윤아 #YOONA #소녀시대 #GirlsGeneration #온앤오프"
+	},
+	{
+		"created_at": "Sun Jun 07 02:52:27 +0000 2020",
+		"id": 1269462197010346000,
+		"id_str": "1269462197010345985",
+		"full_text": "#GirlsGeneration #소녀시대\n'온앤오프' 윤아, 무결점 민낯부터 셀프...\nhttps://t.co/CZifvvdvqq\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						83,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CZifvvdvqq",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3401746136511994",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521,
+			"friends_count": 458,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27101,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n'온앤오프' 윤아, 무결점 민낯부터 셀프...\nhttps://t.co/CZifvvdvqq\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Sat Jun 06 00:30:23 +0000 2020",
 		"id": 1269056463101497300,
 		"id_str": "1269064053550276608",
