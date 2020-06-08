@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 07:32:17 +0000 2020",
+		"id": 1269895005902196700,
+		"id_str": "1269895005902196736",
+		"full_text": "#GirlsGeneration #소녀시대\n‘온앤오프’ 임윤아(소녀시대 윤아), 다재다능 매력 빛났다!\nhttps://t.co/OrCtRnuL64\n#SMTOWN #Artist_News https://t.co/NEqh957LZq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						89,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OrCtRnuL64",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3628",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269895004983636000,
+					"id_str": "1269895004983635969",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-Sx2IXsAER8Xu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-Sx2IXsAER8Xu.jpg",
+					"url": "https://t.co/NEqh957LZq",
+					"display_url": "pic.twitter.com/NEqh957LZq",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1269895005902196736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269895004983636000,
+					"id_str": "1269895004983635969",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ-Sx2IXsAER8Xu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ-Sx2IXsAER8Xu.jpg",
+					"url": "https://t.co/NEqh957LZq",
+					"display_url": "pic.twitter.com/NEqh957LZq",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1269895005902196736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 522,
+			"friends_count": 458,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n‘온앤오프’ 임윤아(소녀시대 윤아), 다재다능 매력 빛났다!\nhttps://t.co/OrCtRnuL64\n#SMTOWN #Artist_News https://t.co/NEqh957LZq"
+	},
+	{
 		"created_at": "Mon Jun 08 07:07:08 +0000 2020",
 		"id": 1269882949379350500,
 		"id_str": "1269888678165430272",
