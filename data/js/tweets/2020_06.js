@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 11 14:52:13 +0000 2020",
+		"id": 1271069229173874700,
+		"id_str": "1271092882204549121",
+		"full_text": "[INSTAGRAM CAROUSEL] yulyulk: TOMFORD Scarlet Rouge  이거 이쁘다 🖤 https://t.co/XKcXsP60c8 (3P) #yulstagram https://t.co/VarqRkvGOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "yulstagram",
+					"indices": [
+						91,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XKcXsP60c8",
+					"expanded_url": "https://www.instagram.com/p/CBS9MTjBVjN/",
+					"display_url": "instagram.com/p/CBS9MTjBVjN/",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1271069222018351000,
+					"id_str": "1271069222018351107",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EaO-uRdWAAMxj5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaO-uRdWAAMxj5S.jpg",
+					"url": "https://t.co/VarqRkvGOf",
+					"display_url": "pic.twitter.com/VarqRkvGOf",
+					"expanded_url": "https://twitter.com/yulstagrm/status/1271069229173874688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1271069222018351000,
+					"id_str": "1271069222018351107",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EaO-uRdWAAMxj5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaO-uRdWAAMxj5S.jpg",
+					"url": "https://t.co/VarqRkvGOf",
+					"display_url": "pic.twitter.com/VarqRkvGOf",
+					"expanded_url": "https://twitter.com/yulstagrm/status/1271069229173874688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271069224891490300,
+					"id_str": "1271069224891490305",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EaO-ucKWoAE7BOW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaO-ucKWoAE7BOW.jpg",
+					"url": "https://t.co/VarqRkvGOf",
+					"display_url": "pic.twitter.com/VarqRkvGOf",
+					"expanded_url": "https://twitter.com/yulstagrm/status/1271069229173874688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1271069227575894000,
+					"id_str": "1271069227575894016",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/EaO-umKXYAAqHOx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaO-umKXYAAqHOx.jpg",
+					"url": "https://t.co/VarqRkvGOf",
+					"display_url": "pic.twitter.com/VarqRkvGOf",
+					"expanded_url": "https://twitter.com/yulstagrm/status/1271069229173874688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://yuri.soshistagram.com\" rel=\"nofollow\">yuri.soshistagram.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1694104099,
+			"id_str": "1694104099",
+			"name": "Yulstagram",
+			"screen_name": "yulstagrm",
+			"location": "Yuri's Phone",
+			"description": "Bot tweeting Yuri's updates & comments on Instagram & Weibo. Built by @thegoguma. Also @yoongstagrm @seostagrm @miyoungstagram @syoungstagram @sicafeed",
+			"url": "https://t.co/Hb0s3sE4YJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hb0s3sE4YJ",
+							"expanded_url": "https://yulstagrm.tumblr.com/",
+							"display_url": "yulstagrm.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17874,
+			"friends_count": 0,
+			"listed_count": 326,
+			"created_at": "Fri Aug 23 15:05:26 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/516214677689208832/C4N6hJE8_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/516214677689208832/C4N6hJE8_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1360,
+		"favorite_count": 1198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[INSTAGRAM CAROUSEL] yulyulk: TOMFORD Scarlet Rouge  이거 이쁘다 🖤 https://t.co/XKcXsP60c8 (3P) #yulstagram https://t.co/VarqRkvGOf"
+	},
+	{
 		"created_at": "Thu Jun 11 12:07:09 +0000 2020",
 		"id": 1271027338092806100,
 		"id_str": "1271051339708215298",
