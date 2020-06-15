@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 08:07:08 +0000 2020",
+		"id": 1272430570052542500,
+		"id_str": "1272440493016780801",
+		"full_text": "#월요병퇴치짤 모음ღ'ᴗ'ღ\n삭막한 월요일에\n싱그러운 탱구 웃음 뿌리기💜\n.\n근데 선배님🙋‍♀\n메일 첨부파일에서 사심이 느껴집니다?ㅋㅋㅋ\n#지상에내려오다 #커밍쑨 .\n#태연 #taeyeon #어퓨 #apieu https://t.co/O3Gm8VB7wS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "월요병퇴치짤",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "지상에내려오다",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "커밍쑨",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "어퓨",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "apieu",
+					"indices": [
+						110,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272430391639437300,
+					"id_str": "1272430391639437315",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1272430391639437315/img/4amF2lqRfIydqoiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1272430391639437315/img/4amF2lqRfIydqoiX.jpg",
+					"url": "https://t.co/O3Gm8VB7wS",
+					"display_url": "pic.twitter.com/O3Gm8VB7wS",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1272430570052542465/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272430391639437300,
+					"id_str": "1272430391639437315",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1272430391639437315/img/4amF2lqRfIydqoiX.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1272430391639437315/img/4amF2lqRfIydqoiX.jpg",
+					"url": "https://t.co/O3Gm8VB7wS",
+					"display_url": "pic.twitter.com/O3Gm8VB7wS",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1272430570052542465/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21500,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272430391639437315/vid/320x320/e_RA2Jtj2SQvla7q.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272430391639437315/vid/480x480/cQDmTMl5qDXTNQ_M.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1272430391639437315/pl/hzAwjGTwfh1nKNMS.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272430391639437315/vid/640x640/Dj-PF1fyy1ITocip.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7601,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 214,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1589870791",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 511,
+		"favorite_count": 510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#월요병퇴치짤 모음ღ'ᴗ'ღ\n삭막한 월요일에\n싱그러운 탱구 웃음 뿌리기💜\n.\n근데 선배님🙋‍♀\n메일 첨부파일에서 사심이 느껴집니다?ㅋㅋㅋ\n#지상에내려오다 #커밍쑨 .\n#태연 #taeyeon #어퓨 #apieu https://t.co/O3Gm8VB7wS"
+	},
+	{
 		"created_at": "Thu Jun 11 14:52:13 +0000 2020",
 		"id": 1271069229173874700,
 		"id_str": "1271092882204549121",
