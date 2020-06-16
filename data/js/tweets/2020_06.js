@@ -1,10 +1,268 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 07:07:09 +0000 2020",
+		"id": 1272787412146516000,
+		"id_str": "1272787782352723968",
+		"full_text": "[🎥 Message from #YURI ]\n\n&lt;유리한 식탁&gt;으로 새롭게 여러분을 찾아온 소녀시대 유리! 👩🏻‍🍳🍽\n\n📺 6월 17일부터 매주 수요일 오후 6시 Youtube &lt;유리한TV&gt; 채널에서 만나보세요❤\n\n#유리 #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration #SMTOWN https://t.co/XGC0OPdvHF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272786741414396000,
+					"id_str": "1272786741414395905",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EanZFboUwAQfmnA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EanZFboUwAQfmnA.jpg",
+					"url": "https://t.co/XGC0OPdvHF",
+					"display_url": "pic.twitter.com/XGC0OPdvHF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1272787412146515968/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272786741414396000,
+					"id_str": "1272786741414395905",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/EanZFboUwAQfmnA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EanZFboUwAQfmnA.jpg",
+					"url": "https://t.co/XGC0OPdvHF",
+					"display_url": "pic.twitter.com/XGC0OPdvHF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1272787412146515968/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 39800,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1272786741414395905/pl/AK8xX_9Tk8_cnUSn.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272786741414395905/vid/360x270/M3UDb_yZQX6JsMmG.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272786741414395905/vid/960x720/OUCFFLqtgyBWCyOk.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1272786741414395905/vid/480x360/En4DlDJC_fcVxyxv.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8107338,
+			"friends_count": 49,
+			"listed_count": 7932,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 324,
+		"favorite_count": 851,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[🎥 Message from #YURI ]\n\n&lt;유리한 식탁&gt;으로 새롭게 여러분을 찾아온 소녀시대 유리! 👩🏻‍🍳🍽\n\n📺 6월 17일부터 매주 수요일 오후 6시 Youtube &lt;유리한TV&gt; 채널에서 만나보세요❤\n\n#유리 #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration #SMTOWN https://t.co/XGC0OPdvHF"
+	},
+	{
 		"created_at": "Mon Jun 15 08:07:08 +0000 2020",
 		"id": 1272430570052542500,
 		"id_str": "1272440493016780801",
-		"full_text": "#월요병퇴치짤 모음ღ'ᴗ'ღ\n삭막한 월요일에\n싱그러운 탱구 웃음 뿌리기💜\n.\n근데 선배님🙋‍♀\n메일 첨부파일에서 사심이 느껴집니다?ㅋㅋㅋ\n#지상에내려오다 #커밍쑨 .\n#태연 #taeyeon #어퓨 #apieu https://t.co/O3Gm8VB7wS",
+		"full_text": "#월요병퇴치짤 모음ღ'ᴗ'ღ\n삭막한 월요일에\n싱그러운 탱구 웃음 뿌리기💜\n.\n근데 선배님🙋♀\n메일 첨부파일에서 사심이 느껴집니다?ㅋㅋㅋ\n#지상에내려오다 #커밍쑨 .\n#태연 #taeyeon #어퓨 #apieu https://t.co/O3Gm8VB7wS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -256,7 +514,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "#월요병퇴치짤 모음ღ'ᴗ'ღ\n삭막한 월요일에\n싱그러운 탱구 웃음 뿌리기💜\n.\n근데 선배님🙋‍♀\n메일 첨부파일에서 사심이 느껴집니다?ㅋㅋㅋ\n#지상에내려오다 #커밍쑨 .\n#태연 #taeyeon #어퓨 #apieu https://t.co/O3Gm8VB7wS"
+		"text": "#월요병퇴치짤 모음ღ'ᴗ'ღ\n삭막한 월요일에\n싱그러운 탱구 웃음 뿌리기💜\n.\n근데 선배님🙋♀\n메일 첨부파일에서 사심이 느껴집니다?ㅋㅋㅋ\n#지상에내려오다 #커밍쑨 .\n#태연 #taeyeon #어퓨 #apieu https://t.co/O3Gm8VB7wS"
 	},
 	{
 		"created_at": "Thu Jun 11 14:52:13 +0000 2020",
