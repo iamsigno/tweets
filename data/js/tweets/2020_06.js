@@ -1,10 +1,268 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 06:07:09 +0000 2020",
+		"id": 1273134941006594000,
+		"id_str": "1273135070895800320",
+		"full_text": "인증됨\n천상계 사람 맞는 듯\n와 진짜 ๑°ㅁ°๑\n다른 말이 필요 없다 ๑°ㅁ°๑\n.\n#지상에내려오다\n#어퓨 #슈퍼에어핏선크림 #광고입니다\n#탱퓨 #태연 #taeyeon https://t.co/QwUBn5BFLf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지상에내려오다",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "어퓨",
+					"indices": [
+						56,
+						59
+					]
+				},
+				{
+					"text": "슈퍼에어핏선크림",
+					"indices": [
+						60,
+						69
+					]
+				},
+				{
+					"text": "광고입니다",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "탱퓨",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273134869908983800,
+					"id_str": "1273134869908983811",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1273134869908983811/img/dWNi6UbUXnb0lNn0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273134869908983811/img/dWNi6UbUXnb0lNn0.jpg",
+					"url": "https://t.co/QwUBn5BFLf",
+					"display_url": "pic.twitter.com/QwUBn5BFLf",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1273134941006594048/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273134869908983800,
+					"id_str": "1273134869908983811",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1273134869908983811/img/dWNi6UbUXnb0lNn0.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1273134869908983811/img/dWNi6UbUXnb0lNn0.jpg",
+					"url": "https://t.co/QwUBn5BFLf",
+					"display_url": "pic.twitter.com/QwUBn5BFLf",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1273134941006594048/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 6667,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1273134869908983811/vid/640x640/jOKkLOaHcuyChWUO.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1273134869908983811/vid/320x320/KJMsVgIG2HwowU5b.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1273134869908983811/vid/480x480/XKeTtliE_wwSHeBi.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1273134869908983811/pl/zIFyYbrwEl_MkljM.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7686,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인증됨\n천상계 사람 맞는 듯\n와 진짜 ๑°ㅁ°๑\n다른 말이 필요 없다 ๑°ㅁ°๑\n.\n#지상에내려오다\n#어퓨 #슈퍼에어핏선크림 #광고입니다\n#탱퓨 #태연 #taeyeon https://t.co/QwUBn5BFLf"
+	},
+	{
 		"created_at": "Wed Jun 17 02:07:09 +0000 2020",
 		"id": 1273062538188488700,
 		"id_str": "1273074672008081408",
-		"full_text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻‍🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8",
+		"full_text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -201,7 +459,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": true,
 		"lang": "en",
-		"text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻‍🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8"
+		"text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8"
 	},
 	{
 		"created_at": "Tue Jun 16 07:52:24 +0000 2020",
