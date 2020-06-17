@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 02:07:09 +0000 2020",
+		"id": 1273062538188488700,
+		"id_str": "1273074672008081408",
+		"full_text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻‍🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						247,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273062527253921800,
+					"id_str": "1273062527253921792",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"url": "https://t.co/Ao5cyJhkJ8",
+					"display_url": "pic.twitter.com/Ao5cyJhkJ8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1273062538188488706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273062527253921800,
+					"id_str": "1273062527253921792",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EarTn6HUwAAVyXc.jpg",
+					"url": "https://t.co/Ao5cyJhkJ8",
+					"display_url": "pic.twitter.com/Ao5cyJhkJ8",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1273062538188488706/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1214,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 711,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 403,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8107889,
+			"friends_count": 49,
+			"listed_count": 7939,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1167,
+		"favorite_count": 3531,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "#YURI opened ‘#유리한식탁’ via YouTube ‘#유리한TV’ Channel!👩🏻‍🍳🎉\n\n‘유리한 식탁’ will be with special guests, from her close acquaintances to celebrities, and YURI will reveal '유리한 Recipe' that anyone would be interested in!\n\nMeet ‘유리한 식탁’ today at 6PM KST!❤️\n\n#유리 https://t.co/Ao5cyJhkJ8"
+	},
+	{
 		"created_at": "Tue Jun 16 07:52:24 +0000 2020",
 		"id": 1272799169393066000,
 		"id_str": "1272799169393065984",
