@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 18 16:09:33 +0000 2020",
+		"id": 1273637518622089200,
+		"id_str": "1273649057408471045",
+		"full_text": "[6회] #장예은 X #전지우 X #제이미 X #치타 X #효연 - #마녀사냥(#WITCH) @두 번째 퀘스트 4R\n\nGOOD GIRL vs Mnet\n′센′ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n매주 목요일 밤 11시 #Mnet\n\n#GOODGIRL_누가방송국을털었나 https://t.co/JlrduIboab",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "장예은",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "전지우",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						19,
+						23
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "마녀사냥",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "WITCH",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						163,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JlrduIboab",
+					"expanded_url": "https://tv.naver.com/v/14366446",
+					"display_url": "tv.naver.com/v/14366446",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 11시 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197053,
+			"friends_count": 2537,
+			"listed_count": 212,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1592214877",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 721,
+		"favorite_count": 759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[6회] #장예은 X #전지우 X #제이미 X #치타 X #효연 - #마녀사냥(#WITCH) @두 번째 퀘스트 4R\n\nGOOD GIRL vs Mnet\n′센′ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n매주 목요일 밤 11시 #Mnet\n\n#GOODGIRL_누가방송국을털었나 https://t.co/JlrduIboab"
+	},
+	{
 		"created_at": "Thu Jun 18 10:32:16 +0000 2020",
 		"id": 1273564176838013000,
 		"id_str": "1273564176838012933",
