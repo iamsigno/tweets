@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 04:07:09 +0000 2020",
+		"id": 1273816023917932500,
+		"id_str": "1273829647797620737",
+		"full_text": "[굿걸] Episode 3 '두 번째 퀘스트' 음원 공개\n\n🎧#마녀사냥 (#WITCH) - #장예은 X #전지우 X #제이미 X #치타 X #효연\n\n지금 바로 모든 음원 사이트에서 확인하세요!\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n매주 목요일 밤 11시 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL https://t.co/pkfsidzVgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마녀사냥",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "WITCH",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "장예은",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "전지우",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "제이미",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						157,
+						176
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						177,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273816017907507200,
+					"id_str": "1273816017907507201",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea2A61iUYAE1bpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea2A61iUYAE1bpJ.jpg",
+					"url": "https://t.co/pkfsidzVgT",
+					"display_url": "pic.twitter.com/pkfsidzVgT",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1273816023917932544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273816017907507200,
+					"id_str": "1273816017907507201",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea2A61iUYAE1bpJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea2A61iUYAE1bpJ.jpg",
+					"url": "https://t.co/pkfsidzVgT",
+					"display_url": "pic.twitter.com/pkfsidzVgT",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1273816023917932544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 11시 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197058,
+			"friends_count": 2537,
+			"listed_count": 212,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1592214877",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 319,
+		"favorite_count": 638,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[굿걸] Episode 3 '두 번째 퀘스트' 음원 공개\n\n🎧#마녀사냥 (#WITCH) - #장예은 X #전지우 X #제이미 X #치타 X #효연\n\n지금 바로 모든 음원 사이트에서 확인하세요!\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n매주 목요일 밤 11시 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL https://t.co/pkfsidzVgT"
+	},
+	{
 		"created_at": "Fri Jun 19 02:52:24 +0000 2020",
 		"id": 1273810838751592400,
 		"id_str": "1273810838751592448",
