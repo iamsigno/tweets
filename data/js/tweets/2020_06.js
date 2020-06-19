@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 02:07:08 +0000 2020",
+		"id": 1273786075207463000,
+		"id_str": "1273799447462412288",
+		"full_text": "#RT #이벤트\n본투비카라 5행시 짓고 \n태연 친필 싸인 KIT 받아가세요!🎁\n.\n본투비 매드프루프 라인 전컬러와 \n전용 리무버패드까지 빵빵하게 구성되어 있는 KIT!\n♥자세한 구성은 타래 영상 참고♥\n.\n➭ 기간: ~6/21(일)\n➭ 당첨자 발표: 6/23(화)\n➭ 참여 방법: 아래 어퓨 인스타 계정에서 확인!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RT",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "이벤트",
+					"indices": [
+						4,
+						8
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7700,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 199,
+		"favorite_count": 220,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "#RT #이벤트\n본투비카라 5행시 짓고 \n태연 친필 싸인 KIT 받아가세요!🎁\n.\n본투비 매드프루프 라인 전컬러와 \n전용 리무버패드까지 빵빵하게 구성되어 있는 KIT!\n♥자세한 구성은 타래 영상 참고♥\n.\n➭ 기간: ~6/21(일)\n➭ 당첨자 발표: 6/23(화)\n➭ 참여 방법: 아래 어퓨 인스타 계정에서 확인!"
+	},
+	{
 		"created_at": "Thu Jun 18 16:09:33 +0000 2020",
 		"id": 1273637518622089200,
 		"id_str": "1273649057408471045",
