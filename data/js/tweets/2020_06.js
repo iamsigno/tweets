@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 12:07:09 +0000 2020",
+		"id": 1273465488199291000,
+		"id_str": "1273950444289753089",
+		"full_text": "We have a special message from Yoona of #SNSD!\nClick below to watch the video. ✨\n\n🔹 Watch now: https://t.co/GmwlZQjqXO https://t.co/zcNKzFle5K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SNSD",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GmwlZQjqXO",
+					"expanded_url": "https://youtu.be/9NS436lFiy0",
+					"display_url": "youtu.be/9NS436lFiy0",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273465486714572800,
+					"id_str": "1273465486714572800",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EaxCHPFXkAAjn38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaxCHPFXkAAjn38.jpg",
+					"url": "https://t.co/zcNKzFle5K",
+					"display_url": "pic.twitter.com/zcNKzFle5K",
+					"expanded_url": "https://twitter.com/KoreanTravel/status/1273465488199290882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273465486714572800,
+					"id_str": "1273465486714572800",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EaxCHPFXkAAjn38.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaxCHPFXkAAjn38.jpg",
+					"url": "https://t.co/zcNKzFle5K",
+					"display_url": "pic.twitter.com/zcNKzFle5K",
+					"expanded_url": "https://twitter.com/KoreanTravel/status/1273465488199290882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56257681,
+			"id_str": "56257681",
+			"name": "VisitKorea",
+			"screen_name": "KoreanTravel",
+			"location": "Seoul, Korea",
+			"description": "The official twitter account of the Korea Tourism Organization. Your source for up-to-date travel news, guides, and more. Visit Korea!",
+			"url": "https://t.co/LzQ8IWCvfh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LzQ8IWCvfh",
+							"expanded_url": "http://english.visitkorea.or.kr/",
+							"display_url": "english.visitkorea.or.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126208,
+			"friends_count": 1776,
+			"listed_count": 1177,
+			"created_at": "Mon Jul 13 02:10:39 +0000 2009",
+			"favourites_count": 8706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/491503216442368001/CScDlRI1_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/491503216442368001/CScDlRI1_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56257681/1590975476",
+			"profile_link_color": "0021DB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "8E6D86",
+			"profile_text_color": "E7B63A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1173,
+		"favorite_count": 2152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have a special message from Yoona of #SNSD!\nClick below to watch the video. ✨\n\n🔹 Watch now: https://t.co/GmwlZQjqXO https://t.co/zcNKzFle5K"
+	},
+	{
 		"created_at": "Fri Jun 19 06:32:11 +0000 2020",
 		"id": 1273866148216438800,
 		"id_str": "1273866148216438784",
