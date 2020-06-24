@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 07:07:13 +0000 2020",
+		"id": 1275682187875139600,
+		"id_str": "1275686902587326466",
+		"full_text": "[#굿걸/7회선공개] 게스트 전원 기립! #에일리 X #전지우 X #효연 세 번째 퀘스트가 시작된다! I 내일 밤 11시\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n내일 밤 11시 #Mnet 본/방/사/수\nhttps://t.co/omyW1DasHj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "에일리",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "전지우",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						37,
+						40
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						155,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/omyW1DasHj",
+					"expanded_url": "https://tv.naver.com/v/14450742",
+					"display_url": "tv.naver.com/v/14450742",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2735914,
+			"friends_count": 21758,
+			"listed_count": 2665,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸/7회선공개] 게스트 전원 기립! #에일리 X #전지우 X #효연 세 번째 퀘스트가 시작된다! I 내일 밤 11시\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n내일 밤 11시 #Mnet 본/방/사/수\nhttps://t.co/omyW1DasHj"
+	},
+	{
+		"created_at": "Wed Jun 24 07:07:09 +0000 2020",
+		"id": 1275681893632147500,
+		"id_str": "1275686885369827333",
+		"full_text": "[7회/선공개] 게스트 전원 기립! #에일리 X #전지우 X #효연 세 번째 퀘스트가 시작된다! I 내일 밤 11시\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n내일 밤 11시 #Mnet 본/방/사/수\nhttps://t.co/Wltd7gaOBT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "에일리",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "전지우",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						34,
+						37
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wltd7gaOBT",
+					"expanded_url": "https://tv.naver.com/v/14450742",
+					"display_url": "tv.naver.com/v/14450742",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 11시 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197062,
+			"friends_count": 2537,
+			"listed_count": 208,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1592214877",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[7회/선공개] 게스트 전원 기립! #에일리 X #전지우 X #효연 세 번째 퀘스트가 시작된다! I 내일 밤 11시\n\nGOOD GIRL vs Mnet\n‘센’ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n내일 밤 11시 #Mnet 본/방/사/수\nhttps://t.co/Wltd7gaOBT"
+	},
+	{
 		"created_at": "Wed Jun 24 06:07:08 +0000 2020",
 		"id": 1275665520788979700,
 		"id_str": "1275671784747151360",
