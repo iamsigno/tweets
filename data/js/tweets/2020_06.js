@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 03:52:20 +0000 2020",
+		"id": 1275637859685408800,
+		"id_str": "1275637859685408770",
+		"full_text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)Station[#STATION] 🎬 태연 'Happy (Summer Version)' Live video : 2020.06.26 6PM (KST) #TAEYEON #태연...\nhttps://t.co/onuESFlrle\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/onuESFlrle",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3451827311503876",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521,
+			"friends_count": 457,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)Station[#STATION] 🎬 태연 'Happy (Summer Version)' Live video : 2020.06.26 6PM (KST) #TAEYEON #태연...\nhttps://t.co/onuESFlrle\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Wed Jun 24 03:52:20 +0000 2020",
+		"id": 1275637857902825500,
+		"id_str": "1275637857902825472",
+		"full_text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)Station[#STATION] 🎬 태연 'Happy (Summer Version)' Live Video : 2020.06.26 6PM (KST) #TAEYEON #태연...\nhttps://t.co/me1HLtg6xN\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/me1HLtg6xN",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3451826941503913",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 521,
+			"friends_count": 457,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)Station[#STATION] 🎬 태연 'Happy (Summer Version)' Live Video : 2020.06.26 6PM (KST) #TAEYEON #태연...\nhttps://t.co/me1HLtg6xN\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Wed Jun 24 03:07:16 +0000 2020",
 		"id": 1275624939807289300,
 		"id_str": "1275626516685246465",
