@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 02:07:26 +0000 2020",
+		"id": 1276329730401132500,
+		"id_str": "1276336236941238274",
+		"full_text": "🛎🛎나왔다 나왔어🛎🛎\n태연언니 얼굴 박힌 제품이 나왔어요!!\n(동네방네 자랑자랑)ヽ(^o^)丿\n\n👉오직 랄라블라에서 판매되는 이것은\n#매드프루프 #리퀴드라이너 1+1기획팩!\n\n좋은건 크게 봐야한다고 인쇄된 태연언니도 보고\n1+1 기획팩도 만나고 이것이 바로 1석2조😎😎\n▶ https://t.co/nvrUQ8NzA1 https://t.co/qhr5pz6b3Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "매드프루프",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "리퀴드라이너",
+					"indices": [
+						81,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nvrUQ8NzA1",
+					"expanded_url": "https://bit.ly/3eAA8G9",
+					"display_url": "bit.ly/3eAA8G9",
+					"indices": [
+						153,
+						176
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276329422405001200,
+					"id_str": "1276329422405001218",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EbZu2O7UYAI-Nfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbZu2O7UYAI-Nfj.jpg",
+					"url": "https://t.co/qhr5pz6b3Z",
+					"display_url": "pic.twitter.com/qhr5pz6b3Z",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1276329730401132544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276329422405001200,
+					"id_str": "1276329422405001218",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EbZu2O7UYAI-Nfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbZu2O7UYAI-Nfj.jpg",
+					"url": "https://t.co/qhr5pz6b3Z",
+					"display_url": "pic.twitter.com/qhr5pz6b3Z",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1276329730401132544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7694,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🛎🛎나왔다 나왔어🛎🛎\n태연언니 얼굴 박힌 제품이 나왔어요!!\n(동네방네 자랑자랑)ヽ(^o^)丿\n\n👉오직 랄라블라에서 판매되는 이것은\n#매드프루프 #리퀴드라이너 1+1기획팩!\n\n좋은건 크게 봐야한다고 인쇄된 태연언니도 보고\n1+1 기획팩도 만나고 이것이 바로 1석2조😎😎\n▶ https://t.co/nvrUQ8NzA1 https://t.co/qhr5pz6b3Z"
+	},
+	{
+		"created_at": "Fri Jun 26 02:07:09 +0000 2020",
+		"id": 1276324114433634300,
+		"id_str": "1276336164023209990",
+		"full_text": "Summer version Live Video of vocal queen TAEYEON’s ‘Happy’ will be released today at 6PM KST!🐬🐚💗\n\nCheck out TAEYEON’s fresh vioce and mysterious visual, that you can feel summer vibes, via SM STATION youtube channel!💜\n\n#TAEYEON #태연 #Happy #소녀시대 #GirlsGeneration https://t.co/ENzhRd0bDm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						219,
+						227
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						228,
+						231
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						239,
+						244
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						245,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1276324101808771000,
+					"id_str": "1276324101808771073",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EbZqAiKU0AEp5cQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbZqAiKU0AEp5cQ.jpg",
+					"url": "https://t.co/ENzhRd0bDm",
+					"display_url": "pic.twitter.com/ENzhRd0bDm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1276324114433634305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1390,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276324101808771000,
+					"id_str": "1276324101808771073",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EbZqAiKU0AEp5cQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbZqAiKU0AEp5cQ.jpg",
+					"url": "https://t.co/ENzhRd0bDm",
+					"display_url": "pic.twitter.com/ENzhRd0bDm",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1276324114433634305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1390,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8108115,
+			"friends_count": 49,
+			"listed_count": 7963,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2298,
+		"favorite_count": 5235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Summer version Live Video of vocal queen TAEYEON’s ‘Happy’ will be released today at 6PM KST!🐬🐚💗\n\nCheck out TAEYEON’s fresh vioce and mysterious visual, that you can feel summer vibes, via SM STATION youtube channel!💜\n\n#TAEYEON #태연 #Happy #소녀시대 #GirlsGeneration https://t.co/ENzhRd0bDm"
+	},
+	{
 		"created_at": "Thu Jun 25 16:07:09 +0000 2020",
 		"id": 1276171371291312000,
 		"id_str": "1276185168265523200",
