@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 19:26:53 +0000 2020",
+		"id": 1276160323763011600,
+		"id_str": "1277322598708174848",
+		"full_text": "[Preview] TAEYEON Concert 'The UNSEEN' KiT Video \n\n➜ PHOTOBOOK \n➜ After watching the preview. Please purchase KiT Video 'The UNSEEN'. \n\n🔗 https://t.co/SCfMsmcWrf \n\n#태연 #김태연 #소녀시대 #TAEYEON #GirlsGeneration #THE_UNSEEN https://t.co/vFdhVUbHjt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "김태연",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						188,
+						204
+					]
+				},
+				{
+					"text": "THE_UNSEEN",
+					"indices": [
+						205,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SCfMsmcWrf",
+					"expanded_url": "https://www.facebook.com/ggpm2012/posts/2851259894985996",
+					"display_url": "facebook.com/ggpm2012/posts…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1276160208679641000,
+					"id_str": "1276160208679641089",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EbXU8srWoAEQrOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbXU8srWoAEQrOs.jpg",
+					"url": "https://t.co/vFdhVUbHjt",
+					"display_url": "pic.twitter.com/vFdhVUbHjt",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1276160323763011585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1276160208679641000,
+					"id_str": "1276160208679641089",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EbXU8srWoAEQrOs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbXU8srWoAEQrOs.jpg",
+					"url": "https://t.co/vFdhVUbHjt",
+					"display_url": "pic.twitter.com/vFdhVUbHjt",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1276160323763011585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1513,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276160230380974000,
+					"id_str": "1276160230380974080",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EbXU99hWsAAa5jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbXU99hWsAAa5jc.jpg",
+					"url": "https://t.co/vFdhVUbHjt",
+					"display_url": "pic.twitter.com/vFdhVUbHjt",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1276160323763011585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276160245614641200,
+					"id_str": "1276160245614641152",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EbXU-2RWAAAAH3v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbXU-2RWAAAAH3v.jpg",
+					"url": "https://t.co/vFdhVUbHjt",
+					"display_url": "pic.twitter.com/vFdhVUbHjt",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1276160323763011585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 818,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 464,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1584,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1276160264694632400,
+					"id_str": "1276160264694632453",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/EbXU_9WXkAU8Adv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbXU_9WXkAU8Adv.jpg",
+					"url": "https://t.co/vFdhVUbHjt",
+					"display_url": "pic.twitter.com/vFdhVUbHjt",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1276160323763011585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1381,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 938,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13831,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1593023951",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1906,
+		"favorite_count": 2757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Preview] TAEYEON Concert 'The UNSEEN' KiT Video \n\n➜ PHOTOBOOK \n➜ After watching the preview. Please purchase KiT Video 'The UNSEEN'. \n\n🔗 https://t.co/SCfMsmcWrf \n\n#태연 #김태연 #소녀시대 #TAEYEON #GirlsGeneration #THE_UNSEEN https://t.co/vFdhVUbHjt"
+	},
+	{
 		"created_at": "Sun Jun 28 02:07:09 +0000 2020",
 		"id": 1277060210943758300,
 		"id_str": "1277060939095977985",
