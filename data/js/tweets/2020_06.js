@@ -1,6 +1,858 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 07:07:24 +0000 2020",
+		"id": 1277491400515309600,
+		"id_str": "1277498888363130880",
+		"full_text": "[📸 #YURI &amp; #YERI] 💜 \n\n율&amp;옒 케미 보러가기👀\n\n[EN] 유리하고 예리해! '예리한 방'에 찾아온 소녀시대 유리 [EP.4-1]\n👉 https://t.co/AXkuTQvTGM\n\n#예리 #레드벨벳 #RedVelvet #유리 #소녀시대 #GirlsGeneration #예리한방 https://t.co/grZaUKPtP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						164,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AXkuTQvTGM",
+					"expanded_url": "https://youtu.be/KenDWX2dvIM",
+					"display_url": "youtu.be/KenDWX2dvIM",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277489946459123700,
+					"id_str": "1277489946459123713",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqOVn7UMAEWi5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqOVn7UMAEWi5A.jpg",
+					"url": "https://t.co/grZaUKPtP7",
+					"display_url": "pic.twitter.com/grZaUKPtP7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1277491400515309568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277489946459123700,
+					"id_str": "1277489946459123713",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqOVn7UMAEWi5A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqOVn7UMAEWi5A.jpg",
+					"url": "https://t.co/grZaUKPtP7",
+					"display_url": "pic.twitter.com/grZaUKPtP7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1277491400515309568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277489946454929400,
+					"id_str": "1277489946454929409",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqOVn6UMAELs3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqOVn6UMAELs3W.jpg",
+					"url": "https://t.co/grZaUKPtP7",
+					"display_url": "pic.twitter.com/grZaUKPtP7",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1277491400515309568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/tNi01kT3r4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tNi01kT3r4",
+							"expanded_url": "https://youtu.be/uR8Mrt1IpXg",
+							"display_url": "youtu.be/uR8Mrt1IpXg",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2749756,
+			"friends_count": 2,
+			"listed_count": 5888,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5310,
+		"favorite_count": 13465,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[📸 #YURI &amp; #YERI] 💜 \n\n율&amp;옒 케미 보러가기👀\n\n[EN] 유리하고 예리해! '예리한 방'에 찾아온 소녀시대 유리 [EP.4-1]\n👉 https://t.co/AXkuTQvTGM\n\n#예리 #레드벨벳 #RedVelvet #유리 #소녀시대 #GirlsGeneration #예리한방 https://t.co/grZaUKPtP7"
+	},
+	{
+		"created_at": "Mon Jun 29 07:07:17 +0000 2020",
+		"id": 1277492914692579300,
+		"id_str": "1277498857816035328",
+		"full_text": "[📸 #YURI &amp; #YERI] 💜 \n\n율&amp;옒 케미 보러가기👀\n\n[EN] 유리하고 예리해! '예리한 방'에 찾아온 소녀시대 유리 [EP.4-1]\n👉 https://t.co/HanCvEdllF\n\n#예리 #레드벨벳 #유리 #소녀시대 #GirlsGeneration #RedVelvet #예리한방 https://t.co/XYr1cZCIaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						136,
+						152
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						164,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HanCvEdllF",
+					"expanded_url": "https://youtu.be/KenDWX2dvIM",
+					"display_url": "youtu.be/KenDWX2dvIM",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277492757775282200,
+					"id_str": "1277492757775282176",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqQ5Q5UcAAmm_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqQ5Q5UcAAmm_7.jpg",
+					"url": "https://t.co/XYr1cZCIaQ",
+					"display_url": "pic.twitter.com/XYr1cZCIaQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1277492914692579328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277492757775282200,
+					"id_str": "1277492757775282176",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqQ5Q5UcAAmm_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqQ5Q5UcAAmm_7.jpg",
+					"url": "https://t.co/XYr1cZCIaQ",
+					"display_url": "pic.twitter.com/XYr1cZCIaQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1277492914692579328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277492757775310800,
+					"id_str": "1277492757775310850",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqQ5Q5U4AIgnlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqQ5Q5U4AIgnlg.jpg",
+					"url": "https://t.co/XYr1cZCIaQ",
+					"display_url": "pic.twitter.com/XYr1cZCIaQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1277492914692579328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8109052,
+			"friends_count": 49,
+			"listed_count": 7953,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 901,
+		"favorite_count": 2779,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[📸 #YURI &amp; #YERI] 💜 \n\n율&amp;옒 케미 보러가기👀\n\n[EN] 유리하고 예리해! '예리한 방'에 찾아온 소녀시대 유리 [EP.4-1]\n👉 https://t.co/HanCvEdllF\n\n#예리 #레드벨벳 #유리 #소녀시대 #GirlsGeneration #RedVelvet #예리한방 https://t.co/XYr1cZCIaQ"
+	},
+	{
+		"created_at": "Mon Jun 29 07:07:09 +0000 2020",
+		"id": 1277492294170472400,
+		"id_str": "1277498823737311232",
+		"full_text": "[📸 #YURI &amp; #YERI] 💜 \n\n율&amp;옒 케미 보러가기👀\n\n[EN] 유리하고 예리해! '예리한 방'에 찾아온 소녀시대 유리 [EP.4-1]\n👉 https://t.co/fJhryEM4IZ\n\n #유리 #소녀시대 #GirlsGeneration #예리 #레드벨벳 #RedVelvet #예리한방 https://t.co/nEN4z4Xwps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						3,
+						8
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						117,
+						120
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						127,
+						143
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJhryEM4IZ",
+					"expanded_url": "https://youtu.be/KenDWX2dvIM",
+					"display_url": "youtu.be/KenDWX2dvIM",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277492115119894500,
+					"id_str": "1277492115119894529",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqQT20VcAEjd4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqQT20VcAEjd4Z.jpg",
+					"url": "https://t.co/nEN4z4Xwps",
+					"display_url": "pic.twitter.com/nEN4z4Xwps",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1277492294170472449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277492115119894500,
+					"id_str": "1277492115119894529",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqQT20VcAEjd4Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqQT20VcAEjd4Z.jpg",
+					"url": "https://t.co/nEN4z4Xwps",
+					"display_url": "pic.twitter.com/nEN4z4Xwps",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1277492294170472449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277492115128242200,
+					"id_str": "1277492115128242176",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqQT22U0AAbS0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqQT22U0AAbS0o.jpg",
+					"url": "https://t.co/nEN4z4Xwps",
+					"display_url": "pic.twitter.com/nEN4z4Xwps",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1277492294170472449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543690,
+			"friends_count": 4,
+			"listed_count": 5006,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1518,
+		"favorite_count": 2595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[📸 #YURI &amp; #YERI] 💜 \n\n율&amp;옒 케미 보러가기👀\n\n[EN] 유리하고 예리해! '예리한 방'에 찾아온 소녀시대 유리 [EP.4-1]\n👉 https://t.co/fJhryEM4IZ\n\n #유리 #소녀시대 #GirlsGeneration #예리 #레드벨벳 #RedVelvet #예리한방 https://t.co/nEN4z4Xwps"
+	},
+	{
 		"created_at": "Mon Jun 29 04:07:39 +0000 2020",
 		"id": 1277436629750349800,
 		"id_str": "1277453652253454337",
