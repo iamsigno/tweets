@@ -1,10 +1,653 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 04:07:39 +0000 2020",
+		"id": 1277436629750349800,
+		"id_str": "1277453652253454337",
+		"full_text": "[HAPPY CAM] ~🐚TAEYEON being 'HAPPY' at the Aquarium🐬~\n \n[ENG CC] 👉🏻 https://t.co/fwAXKfTx7r\n\n#TAEYEON #태연 #Happy #소녀시대 #GirlsGeneration https://t.co/IrBwGrJZW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						119,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fwAXKfTx7r",
+					"expanded_url": "https://youtu.be/zQ1qybF8xxg",
+					"display_url": "youtu.be/zQ1qybF8xxg",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277431696468480000,
+					"id_str": "1277431696468480000",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpZsNNVAAAQt6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpZsNNVAAAQt6K.jpg",
+					"url": "https://t.co/IrBwGrJZW3",
+					"display_url": "pic.twitter.com/IrBwGrJZW3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1277436629750349835/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277431696468480000,
+					"id_str": "1277431696468480000",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpZsNNVAAAQt6K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpZsNNVAAAQt6K.jpg",
+					"url": "https://t.co/IrBwGrJZW3",
+					"display_url": "pic.twitter.com/IrBwGrJZW3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1277436629750349835/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 129396,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277431696468480000/vid/480x270/j9JuvKXYKdMB50eV.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1277431696468480000/pl/Xd2OSHmB8xR7jdf3.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277431696468480000/vid/1280x720/bd_2It_uQCGAxFTk.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277431696468480000/vid/640x360/ozT0eemlzPdz9Ik5.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8108982,
+			"friends_count": 49,
+			"listed_count": 7956,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1012,
+		"favorite_count": 2861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "[HAPPY CAM] ~🐚TAEYEON being 'HAPPY' at the Aquarium🐬~\n \n[ENG CC] 👉🏻 https://t.co/fwAXKfTx7r\n\n#TAEYEON #태연 #Happy #소녀시대 #GirlsGeneration https://t.co/IrBwGrJZW3"
+	},
+	{
+		"created_at": "Mon Jun 29 04:07:34 +0000 2020",
+		"id": 1277436628252815400,
+		"id_str": "1277453630778589184",
+		"full_text": "[HAPPY CAM] ~🐚TAEYEON being 'HAPPY' at the Aquarium🐬~\n \n[ENG CC] 👉🏻 https://t.co/qoL3XKdOuG\n\n#TAEYEON #태연 #Happy #소녀시대 #GirlsGeneration https://t.co/RUMO2tf3UW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						93,
+						101
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "Happy",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						119,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qoL3XKdOuG",
+					"expanded_url": "https://youtu.be/zQ1qybF8xxg",
+					"display_url": "youtu.be/zQ1qybF8xxg",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277419450086486000,
+					"id_str": "1277419450086486017",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpOzXVVAAAkvm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpOzXVVAAAkvm7.jpg",
+					"url": "https://t.co/RUMO2tf3UW",
+					"display_url": "pic.twitter.com/RUMO2tf3UW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1277436628252815361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277419450086486000,
+					"id_str": "1277419450086486017",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpOzXVVAAAkvm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpOzXVVAAAkvm7.jpg",
+					"url": "https://t.co/RUMO2tf3UW",
+					"display_url": "pic.twitter.com/RUMO2tf3UW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1277436628252815361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 129396,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277419450086486017/vid/1280x720/dDI2c3_-7s3j2Do7.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277419450086486017/vid/480x270/6gmO6PPbk01qH7un.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277419450086486017/vid/640x360/GoejbMZhsuBHd0_S.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1277419450086486017/pl/AJ9d_odabBUz523S.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543691,
+			"friends_count": 4,
+			"listed_count": 5007,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3169,
+		"favorite_count": 5133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "[HAPPY CAM] ~🐚TAEYEON being 'HAPPY' at the Aquarium🐬~\n \n[ENG CC] 👉🏻 https://t.co/qoL3XKdOuG\n\n#TAEYEON #태연 #Happy #소녀시대 #GirlsGeneration https://t.co/RUMO2tf3UW"
+	},
+	{
+		"created_at": "Mon Jun 29 03:52:24 +0000 2020",
+		"id": 1277449816369516500,
+		"id_str": "1277449816369516544",
+		"full_text": "#GirlsGeneration #소녀시대\n[HAPPY CAM] ~🐚TAEYEON being 'HAPPY' at the...\nhttps://t.co/dVKMMQpDBW\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dVKMMQpDBW",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/videos/304152334096299/",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520,
+			"friends_count": 457,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\n[HAPPY CAM] ~🐚TAEYEON being 'HAPPY' at the...\nhttps://t.co/dVKMMQpDBW\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Mon Jun 29 02:07:09 +0000 2020",
 		"id": 1277421622610112500,
 		"id_str": "1277423326516989959",
-		"full_text": "[#예리한방] 9, 10화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n⚠️ 공복 주의! 군침 주의 ⚠️\n스타 셰프👩‍🍳 #유리 와 함께하는\n먹방 끝판왕~ #예리 한 먹방😋💕\n\n📌매주 월요일 11시 '예리한방'\n#Seezn 앱에서 무료 선공개!\n\n#Seezn오리지널 #레드벨벳 #YERI #소녀시대 #YURI #덤덤스튜디오 https://t.co/lHXrkcFb8u",
+		"full_text": "[#예리한방] 9, 10화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n⚠️ 공복 주의! 군침 주의 ⚠️\n스타 셰프👩🍳 #유리 와 함께하는\n먹방 끝판왕~ #예리 한 먹방😋💕\n\n📌매주 월요일 11시 '예리한방'\n#Seezn 앱에서 무료 선공개!\n\n#Seezn오리지널 #레드벨벳 #YERI #소녀시대 #YURI #덤덤스튜디오 https://t.co/lHXrkcFb8u",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -325,7 +968,7 @@ Grailbird.data.tweets_2020_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#예리한방] 9, 10화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n⚠️ 공복 주의! 군침 주의 ⚠️\n스타 셰프👩‍🍳 #유리 와 함께하는\n먹방 끝판왕~ #예리 한 먹방😋💕\n\n📌매주 월요일 11시 '예리한방'\n#Seezn 앱에서 무료 선공개!\n\n#Seezn오리지널 #레드벨벳 #YERI #소녀시대 #YURI #덤덤스튜디오 https://t.co/lHXrkcFb8u"
+		"text": "[#예리한방] 9, 10화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n⚠️ 공복 주의! 군침 주의 ⚠️\n스타 셰프👩🍳 #유리 와 함께하는\n먹방 끝판왕~ #예리 한 먹방😋💕\n\n📌매주 월요일 11시 '예리한방'\n#Seezn 앱에서 무료 선공개!\n\n#Seezn오리지널 #레드벨벳 #YERI #소녀시대 #YURI #덤덤스튜디오 https://t.co/lHXrkcFb8u"
 	},
 	{
 		"created_at": "Sun Jun 28 19:26:53 +0000 2020",
