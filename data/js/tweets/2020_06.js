@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 02:07:09 +0000 2020",
+		"id": 1277421622610112500,
+		"id_str": "1277423326516989959",
+		"full_text": "[#예리한방] 9, 10화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n⚠️ 공복 주의! 군침 주의 ⚠️\n스타 셰프👩‍🍳 #유리 와 함께하는\n먹방 끝판왕~ #예리 한 먹방😋💕\n\n📌매주 월요일 11시 '예리한방'\n#Seezn 앱에서 무료 선공개!\n\n#Seezn오리지널 #레드벨벳 #YERI #소녀시대 #YURI #덤덤스튜디오 https://t.co/lHXrkcFb8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "예리한방",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "Seezn",
+					"indices": [
+						127,
+						133
+					]
+				},
+				{
+					"text": "Seezn오리지널",
+					"indices": [
+						147,
+						157
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "덤덤스튜디오",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8zPMy9VfiF",
+					"expanded_url": "http://bit.ly/yeri_room",
+					"display_url": "bit.ly/yeri_room",
+					"indices": [
+						24,
+						47
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277421569434775600,
+					"id_str": "1277421569434775553",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpQJjqU8AEzmNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpQJjqU8AEzmNo.jpg",
+					"url": "https://t.co/lHXrkcFb8u",
+					"display_url": "pic.twitter.com/lHXrkcFb8u",
+					"expanded_url": "https://twitter.com/my_seezn/status/1277421622610112512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277421569434775600,
+					"id_str": "1277421569434775553",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpQJjqU8AEzmNo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpQJjqU8AEzmNo.jpg",
+					"url": "https://t.co/lHXrkcFb8u",
+					"display_url": "pic.twitter.com/lHXrkcFb8u",
+					"expanded_url": "https://twitter.com/my_seezn/status/1277421622610112512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277421588283965400,
+					"id_str": "1277421588283965442",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpQKp4UwAI0lsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpQKp4UwAI0lsj.jpg",
+					"url": "https://t.co/lHXrkcFb8u",
+					"display_url": "pic.twitter.com/lHXrkcFb8u",
+					"expanded_url": "https://twitter.com/my_seezn/status/1277421622610112512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277421606822744000,
+					"id_str": "1277421606822744064",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EbpQLu8UEAApKv8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbpQLu8UEAApKv8.jpg",
+					"url": "https://t.co/lHXrkcFb8u",
+					"display_url": "pic.twitter.com/lHXrkcFb8u",
+					"expanded_url": "https://twitter.com/my_seezn/status/1277421622610112512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194503596139671600,
+			"id_str": "1194503596139671558",
+			"name": "Seezn(시즌)",
+			"screen_name": "my_seezn",
+			"location": "대한민국 어디서나",
+			"description": "올레 tv 모바일🔁Seezn(시즌)의 공식 계정입니다!\n　\n👉Seezn_오리지널_라인업: #아이돌다방 #NCT_LIFE #아이랜드_비하인드 #싱스테이 #몬스타엑스_지금은휴가중 #예리한방 #아이돌_예병대캠프 #우석이의_언박싱 #예술의전당포 #우정즈의인싸투어 #고막메이트 #히든트랙",
+			"url": "https://t.co/VKdApr6Qgk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VKdApr6Qgk",
+							"expanded_url": "http://www.myseezn.com",
+							"display_url": "myseezn.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14807,
+			"friends_count": 5,
+			"listed_count": 29,
+			"created_at": "Wed Nov 13 06:34:16 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245010163850870786/Lf56Mf63_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194503596139671558/1588914430",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#예리한방] 9, 10화 공개💜\n보러가기🤳https://t.co/8zPMy9VfiF\n\n⚠️ 공복 주의! 군침 주의 ⚠️\n스타 셰프👩‍🍳 #유리 와 함께하는\n먹방 끝판왕~ #예리 한 먹방😋💕\n\n📌매주 월요일 11시 '예리한방'\n#Seezn 앱에서 무료 선공개!\n\n#Seezn오리지널 #레드벨벳 #YERI #소녀시대 #YURI #덤덤스튜디오 https://t.co/lHXrkcFb8u"
+	},
+	{
 		"created_at": "Sun Jun 28 19:26:53 +0000 2020",
 		"id": 1276160323763011600,
 		"id_str": "1277322598708174848",
