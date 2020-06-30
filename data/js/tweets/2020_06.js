@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 00:07:09 +0000 2020",
+		"id": 1277754732912668700,
+		"id_str": "1277755515712475136",
+		"full_text": "마지막 #태연포카 드래곤볼 미션이 오픈됩니다.\n🔈#롭스 #태연마스카라 입점!\n\n✔ 온라인(7/1 00시 OPEN)\n➡ 본투비 매드프루프 라인 1개 구매 시,\n태연 포토카드 1장 랜덤증정(1:1 증정)\n\n✔ 오프라인\n➡ 본투비 매드 프루프 라인 포함  \n어퓨 제품 1만원 이상 구매 시 포토카드 1장 증정 https://t.co/c5M86snYDC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연포카",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "롭스",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "태연마스카라",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277754137380180000,
+					"id_str": "1277754137380179968",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebt-njzU0AA17ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebt-njzU0AA17ab.jpg",
+					"url": "https://t.co/c5M86snYDC",
+					"display_url": "pic.twitter.com/c5M86snYDC",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1277754732912668672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277754137380180000,
+					"id_str": "1277754137380179968",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Ebt-njzU0AA17ab.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ebt-njzU0AA17ab.jpg",
+					"url": "https://t.co/c5M86snYDC",
+					"display_url": "pic.twitter.com/c5M86snYDC",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1277754732912668672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7690,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마지막 #태연포카 드래곤볼 미션이 오픈됩니다.\n🔈#롭스 #태연마스카라 입점!\n\n✔ 온라인(7/1 00시 OPEN)\n➡ 본투비 매드프루프 라인 1개 구매 시,\n태연 포토카드 1장 랜덤증정(1:1 증정)\n\n✔ 오프라인\n➡ 본투비 매드 프루프 라인 포함  \n어퓨 제품 1만원 이상 구매 시 포토카드 1장 증정 https://t.co/c5M86snYDC"
+	},
+	{
 		"created_at": "Mon Jun 29 07:07:24 +0000 2020",
 		"id": 1277491400515309600,
 		"id_str": "1277498888363130880",
