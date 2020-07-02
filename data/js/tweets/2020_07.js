@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 06:07:12 +0000 2020",
+		"id": 1278562830719938600,
+		"id_str": "1278570901131464712",
+		"full_text": "[#굿걸/8회선공개] '랩 몽둥이' #이영지 X #효연 VS '보컬 몽둥이' #에일리 X #윤훼이, GOOD GIRL의 마지막 무대! I 오늘 밤 11시\n\n＜#GOODGIRL : #누가방송국을털었나＞\n오늘 밤 11시 #Mnet 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #엠넷 https://t.co/v8WS3dXMH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "이영지",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "에일리",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "윤훼이",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						100,
+						110
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						136,
+						155
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						156,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278562347972321300,
+					"id_str": "1278562347972321281",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278562347972321281/pu/img/vgCgLTnJD7ATNNGN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278562347972321281/pu/img/vgCgLTnJD7ATNNGN.jpg",
+					"url": "https://t.co/v8WS3dXMH4",
+					"display_url": "pic.twitter.com/v8WS3dXMH4",
+					"expanded_url": "https://twitter.com/MnetKR/status/1278562830719938560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278562347972321300,
+					"id_str": "1278562347972321281",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278562347972321281/pu/img/vgCgLTnJD7ATNNGN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278562347972321281/pu/img/vgCgLTnJD7ATNNGN.jpg",
+					"url": "https://t.co/v8WS3dXMH4",
+					"display_url": "pic.twitter.com/v8WS3dXMH4",
+					"expanded_url": "https://twitter.com/MnetKR/status/1278562830719938560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 113046,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278562347972321281/pu/vid/480x270/bhbjCA8g92j65wvS.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278562347972321281/pu/vid/640x360/bFjFCnOn-oocrpUe.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1278562347972321281/pu/pl/rSg-b3H2ZJBm8TTo.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278562347972321281/pu/vid/1280x720/120CCu5h7SLyXNUW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2745255,
+			"friends_count": 21737,
+			"listed_count": 2665,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 171,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸/8회선공개] '랩 몽둥이' #이영지 X #효연 VS '보컬 몽둥이' #에일리 X #윤훼이, GOOD GIRL의 마지막 무대! I 오늘 밤 11시\n\n＜#GOODGIRL : #누가방송국을털었나＞\n오늘 밤 11시 #Mnet 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #엠넷 https://t.co/v8WS3dXMH4"
+	},
+	{
 		"created_at": "Thu Jul 02 03:08:19 +0000 2020",
 		"id": 1278523031493591000,
 		"id_str": "1278525885516255234",
