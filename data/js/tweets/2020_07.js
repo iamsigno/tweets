@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 16:07:09 +0000 2020",
+		"id": 1278710859980632000,
+		"id_str": "1278721885015023619",
+		"full_text": "[8회] #이영지 X #효연 - I Do What I Want @슈퍼 퀘스트 3R \n\nGOOD GIRL vs Mnet\n′센′ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n그동안 사랑해주셔서 감사합니다.\n\n#GOODGIRL_누가방송국을털었나 #Mnet #엠넷 https://t.co/RzzvElC30x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이영지",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						12,
+						15
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						144,
+						163
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						170,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RzzvElC30x",
+					"expanded_url": "https://tv.naver.com/v/14597195",
+					"display_url": "tv.naver.com/v/14597195",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 11시 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197178,
+			"friends_count": 2535,
+			"listed_count": 209,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1592214877",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 240,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[8회] #이영지 X #효연 - I Do What I Want @슈퍼 퀘스트 3R \n\nGOOD GIRL vs Mnet\n′센′ 여자 뮤지션들이 뭉쳐 펼치는 힙합 리얼리티 뮤직쇼\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n그동안 사랑해주셔서 감사합니다.\n\n#GOODGIRL_누가방송국을털었나 #Mnet #엠넷 https://t.co/RzzvElC30x"
+	},
+	{
 		"created_at": "Thu Jul 02 08:07:18 +0000 2020",
 		"id": 1278521522152341500,
 		"id_str": "1278601125910978560",
