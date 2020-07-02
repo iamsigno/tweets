@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 03:08:19 +0000 2020",
+		"id": 1278523031493591000,
+		"id_str": "1278525885516255234",
+		"full_text": "[#굿걸] ON&amp;OFF STAGE I 에일리X윤훼이 VS 이영지X효연\n\n무대 위, 무대 아래의 각기 다른 매력 발산?! 광채\n굿걸 크루의 &lt;ON&amp;OFF STAGE&gt; 모음집 화재화재\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n이번주 목요일 밤 11시 마지막회 Mnet 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL https://t.co/LuFOXEEDCj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						175,
+						194
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						195,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278522742258557000,
+					"id_str": "1278522742258556929",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278522742258556929/pu/img/yNHVLq06rdBoB-st.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278522742258556929/pu/img/yNHVLq06rdBoB-st.jpg",
+					"url": "https://t.co/LuFOXEEDCj",
+					"display_url": "pic.twitter.com/LuFOXEEDCj",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1278523031493591040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278522742258557000,
+					"id_str": "1278522742258556929",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1278522742258556929/pu/img/yNHVLq06rdBoB-st.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1278522742258556929/pu/img/yNHVLq06rdBoB-st.jpg",
+					"url": "https://t.co/LuFOXEEDCj",
+					"display_url": "pic.twitter.com/LuFOXEEDCj",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1278523031493591040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 131031,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278522742258556929/pu/vid/480x480/UNdQYT_2HMWolqis.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278522742258556929/pu/vid/720x720/6w7ZouM59ZQ2AVn4.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1278522742258556929/pu/vid/320x320/F27xw9bd1NKRM2I9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1278522742258556929/pu/pl/JnqFHyyUXrv6W4JN.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 11시 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197143,
+			"friends_count": 2536,
+			"listed_count": 209,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1592214877",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] ON&amp;OFF STAGE I 에일리X윤훼이 VS 이영지X효연\n\n무대 위, 무대 아래의 각기 다른 매력 발산?! 광채\n굿걸 크루의 &lt;ON&amp;OFF STAGE&gt; 모음집 화재화재\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n이번주 목요일 밤 11시 마지막회 Mnet 본/방/사/수\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL https://t.co/LuFOXEEDCj"
+	},
+	{
 		"created_at": "Thu Jul 02 02:52:23 +0000 2020",
 		"id": 1278521876818649000,
 		"id_str": "1278521876818649089",
