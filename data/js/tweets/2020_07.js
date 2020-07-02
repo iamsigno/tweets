@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 02 08:07:18 +0000 2020",
+		"id": 1278521522152341500,
+		"id_str": "1278601125910978560",
+		"full_text": "GOOD GIRL [굿걸] ON&amp;OFF STAGE I 에일리(AILEE) X 윤훼이(YUNHWAY) VS 이영지(LEE YOUNG... \n\n👉🏻https://t.co/eMV6pCuUaW \n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 #GOODGIRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						129,
+						145
+					]
+				},
+				{
+					"text": "굿걸",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eMV6pCuUaW",
+					"expanded_url": "https://youtu.be/ilwXcgK2RoM",
+					"display_url": "youtu.be/ilwXcgK2RoM",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3543406,
+			"friends_count": 4,
+			"listed_count": 5013,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234856136345636865/PjtW9WL0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1583247622",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1087,
+		"favorite_count": 2758,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "GOOD GIRL [굿걸] ON&amp;OFF STAGE I 에일리(AILEE) X 윤훼이(YUNHWAY) VS 이영지(LEE YOUNG... \n\n👉🏻https://t.co/eMV6pCuUaW \n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 #GOODGIRL"
+	},
+	{
 		"created_at": "Thu Jul 02 06:52:12 +0000 2020",
 		"id": 1278582225932607500,
 		"id_str": "1278582225932607493",
