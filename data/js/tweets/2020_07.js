@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 11:07:09 +0000 2020",
+		"id": 1279001650179367000,
+		"id_str": "1279008773521235972",
+		"full_text": "[#굿걸] From. GOOD GIRL, To. GOOD GIRL\n\n굿걸이 굿걸에게 보내는 진심 💌\n(💓굿걸 모두 고생했어요 사랑해💓)\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n그동안 사랑해주셔서 감사합니다.\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #Mnet #엠넷 #HYOYEON #효연 #CHEETAH #치타 #굿걸사랑해 https://t.co/PtBz26LhLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						122,
+						141
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						158,
+						161
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						162,
+						170
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "CHEETAH",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"text": "치타",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "굿걸사랑해",
+					"indices": [
+						188,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1279001640805101600,
+					"id_str": "1279001640805101568",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_tN0NUcAAYaXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_tN0NUcAAYaXf.jpg",
+					"url": "https://t.co/PtBz26LhLI",
+					"display_url": "pic.twitter.com/PtBz26LhLI",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1279001650179366912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1279001640805101600,
+					"id_str": "1279001640805101568",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_tN0NUcAAYaXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_tN0NUcAAYaXf.jpg",
+					"url": "https://t.co/PtBz26LhLI",
+					"display_url": "pic.twitter.com/PtBz26LhLI",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1279001650179366912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1279001640800882700,
+					"id_str": "1279001640800882689",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_tN0MUEAEOCWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_tN0MUEAEOCWn.jpg",
+					"url": "https://t.co/PtBz26LhLI",
+					"display_url": "pic.twitter.com/PtBz26LhLI",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1279001650179366912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1279001640800882700,
+					"id_str": "1279001640800882690",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_tN0MUEAIIHgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_tN0MUEAIIHgQ.jpg",
+					"url": "https://t.co/PtBz26LhLI",
+					"display_url": "pic.twitter.com/PtBz26LhLI",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1279001650179366912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1279001640817713200,
+					"id_str": "1279001640817713152",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb_tN0QU4AANQsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb_tN0QU4AANQsW.jpg",
+					"url": "https://t.co/PtBz26LhLI",
+					"display_url": "pic.twitter.com/PtBz26LhLI",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1279001650179366912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 11시 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197172,
+			"friends_count": 2534,
+			"listed_count": 207,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5586,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1592214877",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 162,
+		"favorite_count": 160,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] From. GOOD GIRL, To. GOOD GIRL\n\n굿걸이 굿걸에게 보내는 진심 💌\n(💓굿걸 모두 고생했어요 사랑해💓)\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n그동안 사랑해주셔서 감사합니다.\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #Mnet #엠넷 #HYOYEON #효연 #CHEETAH #치타 #굿걸사랑해 https://t.co/PtBz26LhLI"
+	},
+	{
 		"created_at": "Fri Jul 03 10:05:18 +0000 2020",
 		"id": 1278993211755724800,
 		"id_str": "1278993211755724800",
