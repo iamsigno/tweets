@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 03 04:07:09 +0000 2020",
+		"id": 1278889924129722400,
+		"id_str": "1278903078394216449",
+		"full_text": "[#굿걸] Final '슈퍼 퀘스트' 음원공개\n\n🎧I Do What I Want - 효연 X 이영지\n\n지금 바로 모든 음원 사이트에서 확인하세요!\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n그동안 사랑해주셔서 감사합니다.\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 https://t.co/mafwZoBaHZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "굿걸",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "GOODGIRL_누가방송국을털었나",
+					"indices": [
+						128,
+						147
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"text": "누가방송국을털었나",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						175,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1278889917297262600,
+					"id_str": "1278889917297262592",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-HmptVAAA3Kx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-HmptVAAA3Kx7.jpg",
+					"url": "https://t.co/mafwZoBaHZ",
+					"display_url": "pic.twitter.com/mafwZoBaHZ",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1278889924129722368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1278889917297262600,
+					"id_str": "1278889917297262592",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/Eb-HmptVAAA3Kx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eb-HmptVAAA3Kx7.jpg",
+					"url": "https://t.co/mafwZoBaHZ",
+					"display_url": "pic.twitter.com/mafwZoBaHZ",
+					"expanded_url": "https://twitter.com/mnet_hiphop/status/1278889924129722368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 600923170,
+			"id_str": "600923170",
+			"name": "Mnet I GOOD GIRL : 누가 방송국을 털었나",
+			"screen_name": "mnet_hiphop",
+			"location": "",
+			"description": "#GOODGIRL : #누가방송국을털었나\n매주 목요일 밤 11시 #Mnet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197156,
+			"friends_count": 2534,
+			"listed_count": 206,
+			"created_at": "Wed Jun 06 12:13:36 +0000 2012",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254695546050109442/pjbrSVmn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/600923170/1592214877",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#굿걸] Final '슈퍼 퀘스트' 음원공개\n\n🎧I Do What I Want - 효연 X 이영지\n\n지금 바로 모든 음원 사이트에서 확인하세요!\n\n＜GOOD GIRL : 누가 방송국을 털었나＞\n그동안 사랑해주셔서 감사합니다.\n\n#GOODGIRL_누가방송국을털었나 #GOODGIRL #누가방송국을털었나 #Mnet #엠넷 https://t.co/mafwZoBaHZ"
+	},
+	{
+		"created_at": "Fri Jul 03 03:52:25 +0000 2020",
+		"id": 1278899372428755000,
+		"id_str": "1278899372428754949",
+		"full_text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation) updated their cover photo.\nhttps://t.co/nsw6i45HHC\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						108,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nsw6i45HHC",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/photos/a.392212924132012/3479134878773119/",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 520,
+			"friends_count": 457,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27235,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation) updated their cover photo.\nhttps://t.co/nsw6i45HHC\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Fri Jul 03 02:52:26 +0000 2020",
 		"id": 1278884277472702500,
 		"id_str": "1278884277472702465",
