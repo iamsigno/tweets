@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 04 04:07:08 +0000 2020",
+		"id": 1279263667188568000,
+		"id_str": "1279265464439451650",
+		"full_text": "번역기의 입을 빌려 재미있는 문장을 만들어보자\n\nTikTok ID : korean_hamin\n\n#틱톡 #koreansong #kpop #koreanidol #koreanpop #koreanlanguage #girlsgeneration #googletranslate #소녀시대 #TikTok https://t.co/1E5q2yyptz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "틱톡",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "koreansong",
+					"indices": [
+						57,
+						68
+					]
+				},
+				{
+					"text": "kpop",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "koreanidol",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"text": "koreanpop",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "koreanlanguage",
+					"indices": [
+						98,
+						113
+					]
+				},
+				{
+					"text": "girlsgeneration",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"text": "googletranslate",
+					"indices": [
+						131,
+						147
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						154,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277446906960998400,
+					"id_str": "1277446906960998401",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1277446906960998401/img/Eq8P4FTdzhbT626g.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1277446906960998401/img/Eq8P4FTdzhbT626g.jpg",
+					"url": "https://t.co/1E5q2yyptz",
+					"display_url": "pic.twitter.com/1E5q2yyptz",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1279263667188568066/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277446906960998400,
+					"id_str": "1277446906960998401",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1277446906960998401/img/Eq8P4FTdzhbT626g.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1277446906960998401/img/Eq8P4FTdzhbT626g.jpg",
+					"url": "https://t.co/1E5q2yyptz",
+					"display_url": "pic.twitter.com/1E5q2yyptz",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1279263667188568066/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15234,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1277446906960998401/pl/6z7RPGsrNNZhUBpr.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277446906960998401/vid/576x1024/kjH1pN1J6yXclgCr.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277446906960998401/vid/360x640/aVGEGhQqHIiUBigs.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1277446906960998401/vid/320x568/Ed0cDm2nlj24nFQB.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "짧아서 확실한 행복, 숏.확.행 \nReal People. Real Videos.",
+			"url": "https://t.co/JUSOaPuchF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JUSOaPuchF",
+							"expanded_url": "https://www.tiktok.com/ko/",
+							"display_url": "tiktok.com/ko/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177171,
+			"friends_count": 501,
+			"listed_count": 77,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087944986509881345/qZi1Fn-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087944986509881345/qZi1Fn-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1580959453",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "번역기의 입을 빌려 재미있는 문장을 만들어보자\n\nTikTok ID : korean_hamin\n\n#틱톡 #koreansong #kpop #koreanidol #koreanpop #koreanlanguage #girlsgeneration #googletranslate #소녀시대 #TikTok https://t.co/1E5q2yyptz"
+	},
+	{
 		"created_at": "Fri Jul 03 11:07:09 +0000 2020",
 		"id": 1279001650179367000,
 		"id_str": "1279008773521235972",
