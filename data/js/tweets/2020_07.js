@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 02:07:09 +0000 2020",
+		"id": 1280265498236612600,
+		"id_str": "1280322430775562247",
+		"full_text": "표정과 행동 하나 하나, 말투 하나 하나, 게다가 습관까지도 뭐 하나 귀엽지 않은 게 없어 ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ\n\n#태연 #TAEYEON 💜\n@Apieu_official #어퓨 좋겠네~ 탱구가 모델이라서~😊 https://t.co/XTDx1jPJH9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "어퓨",
+					"indices": [
+						95,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Apieu_official",
+					"name": "어퓨",
+					"id": 64162171,
+					"id_str": "64162171",
+					"indices": [
+						79,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280265025655996400,
+					"id_str": "1280265025655996417",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280265025655996417/pu/img/cXQ_qN2NoHOOrrpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280265025655996417/pu/img/cXQ_qN2NoHOOrrpH.jpg",
+					"url": "https://t.co/XTDx1jPJH9",
+					"display_url": "pic.twitter.com/XTDx1jPJH9",
+					"expanded_url": "https://twitter.com/BKpisces39/status/1280265498236612608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 584,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280265025655996400,
+					"id_str": "1280265025655996417",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280265025655996417/pu/img/cXQ_qN2NoHOOrrpH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280265025655996417/pu/img/cXQ_qN2NoHOOrrpH.jpg",
+					"url": "https://t.co/XTDx1jPJH9",
+					"display_url": "pic.twitter.com/XTDx1jPJH9",
+					"expanded_url": "https://twitter.com/BKpisces39/status/1280265498236612608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 584,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 1048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 379,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							73,
+							131
+						],
+						"duration_millis": 68967,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1280265025655996417/pu/pl/k7MW3ICfXgAfonCs.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280265025655996417/pu/vid/320x574/Pmd3Q4DZABwLCYNl.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280265025655996417/pu/vid/360x646/8r4o0zPhlv9pK-3R.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1280265025655996417/pu/vid/584x1048/yKWpLxLenIGSdC5C.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 822411856065151000,
+			"id_str": "822411856065150976",
+			"name": "BKpisces39",
+			"screen_name": "BKpisces39",
+			"location": "",
+			"description": "💜🐾⛧",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3351,
+			"friends_count": 64,
+			"listed_count": 40,
+			"created_at": "Fri Jan 20 11:54:00 +0000 2017",
+			"favourites_count": 8139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28484,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1116270280421203968/rPAGz0sg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116270280421203968/rPAGz0sg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/822411856065150976/1555067503",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "표정과 행동 하나 하나, 말투 하나 하나, 게다가 습관까지도 뭐 하나 귀엽지 않은 게 없어 ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ\n\n#태연 #TAEYEON 💜\n@Apieu_official #어퓨 좋겠네~ 탱구가 모델이라서~😊 https://t.co/XTDx1jPJH9"
+	},
+	{
 		"created_at": "Mon Jul 06 05:07:09 +0000 2020",
 		"id": 1279997060029153300,
 		"id_str": "1280005340625600512",
