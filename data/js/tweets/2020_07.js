@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 05:07:11 +0000 2020",
+		"id": 1281443319520784400,
+		"id_str": "1281454901302898690",
+		"full_text": "@no_exit_taeyeon 어퓨하세요옵 ❛ε ❛♡ https://t.co/LIGidORVFi",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "no_exit_taeyeon",
+					"name": "출구없태연",
+					"id": 890821553780269000,
+					"id_str": "890821553780269056",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281443310586884000,
+					"id_str": "1281443310586884097",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EciZ5s9U8AEneTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EciZ5s9U8AEneTu.jpg",
+					"url": "https://t.co/LIGidORVFi",
+					"display_url": "pic.twitter.com/LIGidORVFi",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1281443319520784386/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281443310586884000,
+					"id_str": "1281443310586884097",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EciZ5s9U8AEneTu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EciZ5s9U8AEneTu.jpg",
+					"url": "https://t.co/LIGidORVFi",
+					"display_url": "pic.twitter.com/LIGidORVFi",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1281443319520784386/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 372,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							62
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EciZ5s9U8AEneTu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281070438097944600,
+		"in_reply_to_status_id_str": "1281070438097944577",
+		"in_reply_to_user_id": 890821553780269000,
+		"in_reply_to_user_id_str": "890821553780269056",
+		"in_reply_to_screen_name": "no_exit_taeyeon",
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7687,
+			"friends_count": 0,
+			"listed_count": 21,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "@no_exit_taeyeon 어퓨하세요옵 ❛ε ❛♡ https://t.co/LIGidORVFi"
+	},
+	{
 		"created_at": "Wed Jul 08 09:52:30 +0000 2020",
 		"id": 1280801928881090600,
 		"id_str": "1280801928881090562",
