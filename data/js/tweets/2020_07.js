@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 15:59:17 +0000 2020",
+		"id": 1277500848629641200,
+		"id_str": "1281619009432023042",
+		"full_text": "2020, SeoHyun Season's Greetings \n\n💕 Desk calendar (Back) \n👉🏻 https://t.co/qMAUMP9h3u \n\n#서현 #서주현 #소녀시대 #시즌그리팅 #SEOHYUN #GirlsGeneration #SeasonsGreetings2020 #HappySEOHYUNDay https://t.co/lErHfGuklW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "서주현",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "시즌그리팅",
+					"indices": [
+						103,
+						109
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "SeasonsGreetings2020",
+					"indices": [
+						136,
+						157
+					]
+				},
+				{
+					"text": "HappySEOHYUNDay",
+					"indices": [
+						158,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qMAUMP9h3u",
+					"expanded_url": "http://bit.ly/2I9kVNy",
+					"display_url": "bit.ly/2I9kVNy",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1277500771248992300,
+					"id_str": "1277500771248992258",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqYLtaVcAIhnrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqYLtaVcAIhnrF.jpg",
+					"url": "https://t.co/lErHfGuklW",
+					"display_url": "pic.twitter.com/lErHfGuklW",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1277500848629641216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1460,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277500771248992300,
+					"id_str": "1277500771248992258",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqYLtaVcAIhnrF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqYLtaVcAIhnrF.jpg",
+					"url": "https://t.co/lErHfGuklW",
+					"display_url": "pic.twitter.com/lErHfGuklW",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1277500848629641216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1460,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277500803037577200,
+					"id_str": "1277500803037577216",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqYNj1UwAAF0US.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqYNj1UwAAF0US.jpg",
+					"url": "https://t.co/lErHfGuklW",
+					"display_url": "pic.twitter.com/lErHfGuklW",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1277500848629641216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1140,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1277500832276045800,
+					"id_str": "1277500832276045824",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EbqYPQwUYAAnaEd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbqYPQwUYAAnaEd.jpg",
+					"url": "https://t.co/lErHfGuklW",
+					"display_url": "pic.twitter.com/lErHfGuklW",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1277500848629641216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1459,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13891,
+			"friends_count": 9,
+			"listed_count": 207,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1594351848",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 789,
+		"favorite_count": 1102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "2020, SeoHyun Season's Greetings \n\n💕 Desk calendar (Back) \n👉🏻 https://t.co/qMAUMP9h3u \n\n#서현 #서주현 #소녀시대 #시즌그리팅 #SEOHYUN #GirlsGeneration #SeasonsGreetings2020 #HappySEOHYUNDay https://t.co/lErHfGuklW"
+	},
+	{
 		"created_at": "Fri Jul 10 10:05:37 +0000 2020",
 		"id": 1281530003101032400,
 		"id_str": "1281530003101032450",
