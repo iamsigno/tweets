@@ -1,6 +1,829 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 10:45:02 +0000 2020",
+		"id": 1280795882133155800,
+		"id_str": "1282627087094779904",
+		"full_text": "[ENG] [유리한식탁] EP4-1. 데뷔 이후 최초로 촬영 포기하다?! \n\n👉🏻https://t.co/KwC2fUUX1D \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KwC2fUUX1D",
+					"expanded_url": "https://youtu.be/3rDw_yIj8LM",
+					"display_url": "youtu.be/3rDw_yIj8LM",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542248,
+			"friends_count": 4,
+			"listed_count": 5021,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1162,
+		"favorite_count": 3364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[ENG] [유리한식탁] EP4-1. 데뷔 이후 최초로 촬영 포기하다?! \n\n👉🏻https://t.co/KwC2fUUX1D \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Mon Jul 13 10:45:00 +0000 2020",
+		"id": 1280693056300216300,
+		"id_str": "1282627078207139840",
+		"full_text": "효연(HYOYEON) 굿걸 무대 모아보기 | #다시보는_굿걸 \n\n👉🏻https://t.co/CNTvkFosX9\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 #GOODGIRL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "다시보는_굿걸",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						82,
+						98
+					]
+				},
+				{
+					"text": "굿걸",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "GOODGIRL",
+					"indices": [
+						103,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CNTvkFosX9",
+					"expanded_url": "https://youtu.be/482Sxw_eh9E",
+					"display_url": "youtu.be/482Sxw_eh9E",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542248,
+			"friends_count": 4,
+			"listed_count": 5021,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1342,
+		"favorite_count": 3630,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "효연(HYOYEON) 굿걸 무대 모아보기 | #다시보는_굿걸 \n\n👉🏻https://t.co/CNTvkFosX9\n\n#효연 #HYOYEON #소녀시대 #GirlsGeneration #굿걸 #GOODGIRL"
+	},
+	{
+		"created_at": "Mon Jul 13 10:44:58 +0000 2020",
+		"id": 1280685668310507500,
+		"id_str": "1282627072662269954",
+		"full_text": "[EN] 이건 예리정식이고 완전 맛있어! 율언니 맛길만 걸어요 [EP.5-2]\n\n👉https://t.co/0mxJthMHd9\n\n#유리 #YURI #소녀시대 #GirlsGeneration #예리 #YERI #레드벨벳 #RedVelvet #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0mxJthMHd9",
+					"expanded_url": "https://youtu.be/6uELmd2cIso",
+					"display_url": "youtu.be/6uELmd2cIso",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542248,
+			"friends_count": 4,
+			"listed_count": 5021,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1356,
+		"favorite_count": 3423,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[EN] 이건 예리정식이고 완전 맛있어! 율언니 맛길만 걸어요 [EP.5-2]\n\n👉https://t.co/0mxJthMHd9\n\n#유리 #YURI #소녀시대 #GirlsGeneration #예리 #YERI #레드벨벳 #RedVelvet #예리한방"
+	},
+	{
+		"created_at": "Mon Jul 13 10:44:56 +0000 2020",
+		"id": 1280347027251933200,
+		"id_str": "1282627064130965504",
+		"full_text": "《댕댕아모하냥》 속 유리 모아보기 👀💜\n\nhttps://t.co/u8wWJshJtW \nhttps://t.co/9EmIFA0WFy\nhttps://t.co/G9f9hKOT2M\nhttps://t.co/vT60NIVdSR\nhttps://t.co/a0G3s6NCEB\n\n#유리 #YURI #소녀시대 #GirlsGeneration #댕댕아모하냥",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"text": "댕댕아모하냥",
+					"indices": [
+						178,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u8wWJshJtW",
+					"expanded_url": "https://youtu.be/rYepwBqQIG0",
+					"display_url": "youtu.be/rYepwBqQIG0",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/9EmIFA0WFy",
+					"expanded_url": "https://youtu.be/Ac_VqDIcx3o",
+					"display_url": "youtu.be/Ac_VqDIcx3o",
+					"indices": [
+						48,
+						71
+					]
+				},
+				{
+					"url": "https://t.co/G9f9hKOT2M",
+					"expanded_url": "https://youtu.be/s4Amo-U-KE4",
+					"display_url": "youtu.be/s4Amo-U-KE4",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/vT60NIVdSR",
+					"expanded_url": "https://youtu.be/wJKQVxbpN7s",
+					"display_url": "youtu.be/wJKQVxbpN7s",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/a0G3s6NCEB",
+					"expanded_url": "https://youtu.be/rBnA5bg9QSU",
+					"display_url": "youtu.be/rBnA5bg9QSU",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542248,
+			"friends_count": 4,
+			"listed_count": 5021,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1655,
+		"favorite_count": 4432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "《댕댕아모하냥》 속 유리 모아보기 👀💜\n\nhttps://t.co/u8wWJshJtW \nhttps://t.co/9EmIFA0WFy\nhttps://t.co/G9f9hKOT2M\nhttps://t.co/vT60NIVdSR\nhttps://t.co/a0G3s6NCEB\n\n#유리 #YURI #소녀시대 #GirlsGeneration #댕댕아모하냥"
+	},
+	{
+		"created_at": "Mon Jul 13 10:44:54 +0000 2020",
+		"id": 1279965881905250300,
+		"id_str": "1282627055373303808",
+		"full_text": "[EN] '유리 정식' 등장! DJ 예리 방송 포기 선언 [EP.5-1]\n\n👉 https://t.co/LeEju75ffB\n\n#유리 #YURI #소녀시대 #GirlsGeneration #예리 #YERI #레드벨벳 #RedVelvet #예리한방",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"text": "예리",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "YERI",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "예리한방",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LeEju75ffB",
+					"expanded_url": "https://youtu.be/n14rKzsv94s",
+					"display_url": "youtu.be/n14rKzsv94s",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542248,
+			"friends_count": 4,
+			"listed_count": 5021,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1518,
+		"favorite_count": 4180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[EN] '유리 정식' 등장! DJ 예리 방송 포기 선언 [EP.5-1]\n\n👉 https://t.co/LeEju75ffB\n\n#유리 #YURI #소녀시대 #GirlsGeneration #예리 #YERI #레드벨벳 #RedVelvet #예리한방"
+	},
+	{
 		"created_at": "Sun Jul 12 02:07:09 +0000 2020",
 		"id": 1282130815170670600,
 		"id_str": "1282134369491210241",
