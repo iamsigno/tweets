@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 11:07:09 +0000 2020",
+		"id": 1283344429139386400,
+		"id_str": "1283357429028323328",
+		"full_text": "✔출시 일자\n🔸2020. 7. 17 (FRI) : TAEYEON, TAEMIN, NCT 127\n🔸2020. 7. 18 (SAT) : TVXQ!, SUPER JUNIOR, RED VELVET\n🔸2020. 7. 21 (TUE) : EXO, NCT DREAM\n\n✔출시 매장 : SMTOWN &amp;STORE@SMTOWN coexartium\n\n✔구성 : 랜덤 구성된 아티스트 상품(기본) + 친필 사인 상품(일부 랜덤 포함)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1283344425444237300,
+		"in_reply_to_status_id_str": "1283344425444237314",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59997,
+			"friends_count": 0,
+			"listed_count": 113,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 413,
+		"favorite_count": 478,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔출시 일자\n🔸2020. 7. 17 (FRI) : TAEYEON, TAEMIN, NCT 127\n🔸2020. 7. 18 (SAT) : TVXQ!, SUPER JUNIOR, RED VELVET\n🔸2020. 7. 21 (TUE) : EXO, NCT DREAM\n\n✔출시 매장 : SMTOWN &amp;STORE@SMTOWN coexartium\n\n✔구성 : 랜덤 구성된 아티스트 상품(기본) + 친필 사인 상품(일부 랜덤 포함)"
+	},
+	{
+		"created_at": "Wed Jul 15 11:05:36 +0000 2020",
+		"id": 1283357040807743500,
+		"id_str": "1283357040807743490",
+		"full_text": "#YuriKwon #권유리 #Yuri #유리\n유리한세트\nhttps://t.co/4qkSF7Icz4\n#유리한tv #YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YuriKwon",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "Yuri",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "유리한tv",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4qkSF7Icz4",
+					"expanded_url": "https://youtu.be/SA18IG1u00o",
+					"display_url": "youtu.be/SA18IG1u00o",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518,
+			"friends_count": 459,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YuriKwon #권유리 #Yuri #유리\n유리한세트\nhttps://t.co/4qkSF7Icz4\n#유리한tv #YouTube"
+	},
+	{
 		"created_at": "Wed Jul 15 10:07:12 +0000 2020",
 		"id": 1283342263922225200,
 		"id_str": "1283342342829768704",
