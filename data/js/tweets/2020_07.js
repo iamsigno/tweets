@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 08:07:09 +0000 2020",
+		"id": 1283310375308386300,
+		"id_str": "1283312130335354881",
+		"full_text": "ควีนแห่ง EDM กำลังจะกลับมา!🎉\n\n🎧 #HYO เตรียมปล่อยซิงเกิลใหม่ ‘DESSERT’ ในวันที่ 22 กรกฎาคมนี้ เวลา 16.00 น. ตามเวลาไทย!!💜\n\nรอติดตามกันเยอะ ๆ นะคะ❣\n\nhttps://t.co/1SJGcRZU41\n\n#효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/3iWLFc7doU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						196,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1SJGcRZU41",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3161468493901077",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283309959988437000,
+					"id_str": "1283309959988436992",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec87m_3U4AA1TAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec87m_3U4AA1TAi.jpg",
+					"url": "https://t.co/3iWLFc7doU",
+					"display_url": "pic.twitter.com/3iWLFc7doU",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1283310375308386305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 815,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283309959988437000,
+					"id_str": "1283309959988436992",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec87m_3U4AA1TAi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ec87m_3U4AA1TAi.jpg",
+					"url": "https://t.co/3iWLFc7doU",
+					"display_url": "pic.twitter.com/3iWLFc7doU",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1283310375308386305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 815,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2000,
+							"h": 1359,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80781,
+			"friends_count": 46,
+			"listed_count": 129,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ควีนแห่ง EDM กำลังจะกลับมา!🎉\n\n🎧 #HYO เตรียมปล่อยซิงเกิลใหม่ ‘DESSERT’ ในวันที่ 22 กรกฎาคมนี้ เวลา 16.00 น. ตามเวลาไทย!!💜\n\nรอติดตามกันเยอะ ๆ นะคะ❣\n\nhttps://t.co/1SJGcRZU41\n\n#효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/3iWLFc7doU"
+	},
+	{
 		"created_at": "Wed Jul 15 06:32:19 +0000 2020",
 		"id": 1283288267610366000,
 		"id_str": "1283288267610365952",
