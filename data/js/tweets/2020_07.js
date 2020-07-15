@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 05:52:19 +0000 2020",
+		"id": 1283278198722134000,
+		"id_str": "1283278198722134016",
+		"full_text": "#GirlsGeneration #소녀시대\n태연 'I (feat. Verbal Jint)' MV 뮤직비디오...\nhttps://t.co/oliVC8yS22\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oliVC8yS22",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/photos/a.245804622106177/3515787155107891/",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518,
+			"friends_count": 459,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n태연 'I (feat. Verbal Jint)' MV 뮤직비디오...\nhttps://t.co/oliVC8yS22\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Wed Jul 15 04:07:09 +0000 2020",
 		"id": 1283250756653478000,
 		"id_str": "1283251732718522368",
