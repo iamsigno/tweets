@@ -1,6 +1,472 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 14:07:09 +0000 2020",
+		"id": 1283392084146192400,
+		"id_str": "1283402729478660097",
+		"full_text": "ラッキーボックス🧰\nSM ARTIST #LUCKYBOX2020\n#TAEYEON #TAEMIN #NCT127 #TVXQ #SJ #REDVELVET #EXO #NCTDREAM\n予約受付開始しました⭐️⭐️\n\n→https://t.co/FbCnpnEtaM https://t.co/mSvfB882XI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LUCKYBOX2020",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						43,
+						50
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "SJ",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "REDVELVET",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FbCnpnEtaM",
+					"expanded_url": "https://www.qoo10.jp/GMKT.INC/Goods/Goods.aspx?goodscode=787291161",
+					"display_url": "qoo10.jp/GMKT.INC/Goods…",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/mSvfB882XI",
+					"expanded_url": "https://twitter.com/magazine_o/status/1283349051774132224",
+					"display_url": "twitter.com/magazine_o/sta…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 483641125,
+			"id_str": "483641125",
+			"name": "magazineO",
+			"screen_name": "magazine_O",
+			"location": "SHOP&CAFE O",
+			"description": "SHOP&CAFE O(オー)の公式ツイッター。韓国雑誌、K-POP CD&DVD,コスメ,公式グッツなど韓国のことならなんでも聞いてください！韓国チャート反映！わからない韓国語もお答します～ ❣️https://t.co/UnpJWDseh2",
+			"url": "https://t.co/wmtbe2SL2q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wmtbe2SL2q",
+							"expanded_url": "http://store.shopping.yahoo.co.jp/shopandcafeo/",
+							"display_url": "store.shopping.yahoo.co.jp/shopandcafeo/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UnpJWDseh2",
+							"expanded_url": "http://Instagram.com/magazineo2017/",
+							"display_url": "Instagram.com/magazineo2017/",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19008,
+			"friends_count": 18598,
+			"listed_count": 72,
+			"created_at": "Sun Feb 05 07:17:49 +0000 2012",
+			"favourites_count": 104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23664,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000156424511/f142a3a7dd870cc644bc8a0be1d1327b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000156424511/f142a3a7dd870cc644bc8a0be1d1327b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/483641125/1496449412",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283349051774132200,
+		"quoted_status_id_str": "1283349051774132224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mSvfB882XI",
+			"expanded": "https://twitter.com/magazine_o/status/1283349051774132224",
+			"display": "twitter.com/magazine_o/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 15 10:33:52 +0000 2020",
+			"id": 1283349051774132200,
+			"id_str": "1283349051774132224",
+			"full_text": "⭐️数量調査⭐️\n\n2020 #LUCKYBOX が発売決定❤️\n構成:ランダムで構成されたアーティスト商品(基本)+直筆サイン商品(一部に封入)\n#2020LUCKYBOX\n皆さんはどれが気になりますか？リプで繋げてください💕 https://t.co/ItGEuD6aIs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LUCKYBOX",
+						"indices": [
+							15,
+							24
+						]
+					},
+					{
+						"text": "2020LUCKYBOX",
+						"indices": [
+							74,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1283349046531248000,
+						"id_str": "1283349046531248128",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec9fKIlU0AAe0tl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec9fKIlU0AAe0tl.jpg",
+						"url": "https://t.co/ItGEuD6aIs",
+						"display_url": "pic.twitter.com/ItGEuD6aIs",
+						"expanded_url": "https://twitter.com/magazine_O/status/1283349051774132224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 539,
+								"h": 547,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 539,
+								"h": 547,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 539,
+								"h": 547,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1283349046531248000,
+						"id_str": "1283349046531248128",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec9fKIlU0AAe0tl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec9fKIlU0AAe0tl.jpg",
+						"url": "https://t.co/ItGEuD6aIs",
+						"display_url": "pic.twitter.com/ItGEuD6aIs",
+						"expanded_url": "https://twitter.com/magazine_O/status/1283349051774132224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 539,
+								"h": 547,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 539,
+								"h": 547,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 539,
+								"h": 547,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1283349046531219500,
+						"id_str": "1283349046531219456",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec9fKIlUYAAeTRQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec9fKIlUYAAeTRQ.jpg",
+						"url": "https://t.co/ItGEuD6aIs",
+						"display_url": "pic.twitter.com/ItGEuD6aIs",
+						"expanded_url": "https://twitter.com/magazine_O/status/1283349051774132224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 539,
+								"h": 540,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 539,
+								"h": 540,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 539,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1283349046581579800,
+						"id_str": "1283349046581579778",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec9fKIxU0AIyedG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec9fKIxU0AIyedG.jpg",
+						"url": "https://t.co/ItGEuD6aIs",
+						"display_url": "pic.twitter.com/ItGEuD6aIs",
+						"expanded_url": "https://twitter.com/magazine_O/status/1283349051774132224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 540,
+								"h": 539,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 540,
+								"h": 539,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 539,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 483641125,
+				"id_str": "483641125",
+				"name": "magazineO",
+				"screen_name": "magazine_O",
+				"location": "SHOP&CAFE O",
+				"description": "SHOP&CAFE O(オー)の公式ツイッター。韓国雑誌、K-POP CD&DVD,コスメ,公式グッツなど韓国のことならなんでも聞いてください！韓国チャート反映！わからない韓国語もお答します～ ❣️https://t.co/UnpJWDseh2",
+				"url": "https://t.co/wmtbe2SL2q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wmtbe2SL2q",
+								"expanded_url": "http://store.shopping.yahoo.co.jp/shopandcafeo/",
+								"display_url": "store.shopping.yahoo.co.jp/shopandcafeo/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/UnpJWDseh2",
+								"expanded_url": "http://Instagram.com/magazineo2017/",
+								"display_url": "Instagram.com/magazineo2017/",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19008,
+				"friends_count": 18598,
+				"listed_count": 72,
+				"created_at": "Sun Feb 05 07:17:49 +0000 2012",
+				"favourites_count": 104,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 23664,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000156424511/f142a3a7dd870cc644bc8a0be1d1327b_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000156424511/f142a3a7dd870cc644bc8a0be1d1327b_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/483641125/1496449412",
+				"profile_link_color": "FFCC4D",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 205,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 14,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "ラッキーボックス🧰\nSM ARTIST #LUCKYBOX2020\n#TAEYEON #TAEMIN #NCT127 #TVXQ #SJ #REDVELVET #EXO #NCTDREAM\n予約受付開始しました⭐️⭐️\n\n→https://t.co/FbCnpnEtaM https://t.co/mSvfB882XI"
+	},
+	{
 		"created_at": "Wed Jul 15 11:07:09 +0000 2020",
 		"id": 1283344429139386400,
 		"id_str": "1283357429028323328",
