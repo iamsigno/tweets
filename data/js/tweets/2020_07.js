@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 04:07:09 +0000 2020",
+		"id": 1283250756653478000,
+		"id_str": "1283251732718522368",
+		"full_text": "태연 'I (feat. Verbal Jint)' MV 뮤직비디오 유튜브 조회수 2억뷰 돌파! 🎉\n\nTAEYEON 'I (feat. Verbal Jint)' MV surpasses 200 Million views on YouTube! 🎉\n\n🎬 https://t.co/RN3VOCG8X1\n\n#태연 #TAEYEON #I #소녀시대 #GirlsGeneration https://t.co/H94O3cFKmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"text": "I",
+					"indices": [
+						173,
+						175
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						182,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RN3VOCG8X1",
+					"expanded_url": "https://youtu.be/4OrCA1OInoo",
+					"display_url": "youtu.be/4OrCA1OInoo",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283250588302499800,
+					"id_str": "1283250588302499841",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec8FnHGU4AEf9po.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec8FnHGU4AEf9po.png",
+					"url": "https://t.co/H94O3cFKmN",
+					"display_url": "pic.twitter.com/H94O3cFKmN",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1283250756653477888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283250588302499800,
+					"id_str": "1283250588302499841",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec8FnHGU4AEf9po.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec8FnHGU4AEf9po.png",
+					"url": "https://t.co/H94O3cFKmN",
+					"display_url": "pic.twitter.com/H94O3cFKmN",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1283250756653477888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542615,
+			"friends_count": 4,
+			"listed_count": 5017,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1175,
+		"favorite_count": 1667,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "태연 'I (feat. Verbal Jint)' MV 뮤직비디오 유튜브 조회수 2억뷰 돌파! 🎉\n\nTAEYEON 'I (feat. Verbal Jint)' MV surpasses 200 Million views on YouTube! 🎉\n\n🎬 https://t.co/RN3VOCG8X1\n\n#태연 #TAEYEON #I #소녀시대 #GirlsGeneration https://t.co/H94O3cFKmN"
+	},
+	{
 		"created_at": "Wed Jul 15 02:07:09 +0000 2020",
 		"id": 1283207200710594600,
 		"id_str": "1283221534237233158",
