@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 15 10:07:12 +0000 2020",
+		"id": 1283342263922225200,
+		"id_str": "1283342342829768704",
+		"full_text": "✔출시 일자\n🔸2020. 7. 17 (FRI) : TAEYEON, TAEMIN, NCT 127\n🔸2020. 7. 18 (SAT) : TVXQ!, SUPER JUNIOR, RED VELVET\n🔸2020. 7. 21 (TUE) : EXO, NCT DREAM\n\n✔출시 매장 : SMTOWN &amp;STORE@SMTOWN coexartium\n\n✔구성 : 랜덤 구성된 아티스트 상품(기본) + 친필 사인 상품(일부 랜덤 포함)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1283342259962839000,
+		"in_reply_to_status_id_str": "1283342259962839040",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59713,
+			"friends_count": 0,
+			"listed_count": 112,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "✔출시 일자\n🔸2020. 7. 17 (FRI) : TAEYEON, TAEMIN, NCT 127\n🔸2020. 7. 18 (SAT) : TVXQ!, SUPER JUNIOR, RED VELVET\n🔸2020. 7. 21 (TUE) : EXO, NCT DREAM\n\n✔출시 매장 : SMTOWN &amp;STORE@SMTOWN coexartium\n\n✔구성 : 랜덤 구성된 아티스트 상품(기본) + 친필 사인 상품(일부 랜덤 포함)"
+	},
+	{
+		"created_at": "Wed Jul 15 10:07:09 +0000 2020",
+		"id": 1283340535168741400,
+		"id_str": "1283342329810694148",
+		"full_text": "💖 มิวสิควีดีโอเพลง 'I (feat. Verbal Jint)' ของ #TAEYEON มียอดวิวทะลุ 200 ล้านวิว บน YouTube เป็นที่เรียบร้อย! 🎉🥳\n\n🎬 https://t.co/p22q1eHduh\n\n#태연 #I #소녀시대 #GirlsGeneration\n\n[https://t.co/IQrWQBMX7J] https://t.co/Bmn0kSJGXC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						47,
+						55
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "I",
+					"indices": [
+						145,
+						147
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/p22q1eHduh",
+					"expanded_url": "https://youtu.be/4OrCA1OInoo",
+					"display_url": "youtu.be/4OrCA1OInoo",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/IQrWQBMX7J",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3161672670547326",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283336949906894800,
+					"id_str": "1283336949906894849",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec9UKBJVcAEr-6F.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec9UKBJVcAEr-6F.png",
+					"url": "https://t.co/Bmn0kSJGXC",
+					"display_url": "pic.twitter.com/Bmn0kSJGXC",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1283340535168741376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283336949906894800,
+					"id_str": "1283336949906894849",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec9UKBJVcAEr-6F.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec9UKBJVcAEr-6F.png",
+					"url": "https://t.co/Bmn0kSJGXC",
+					"display_url": "pic.twitter.com/Bmn0kSJGXC",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1283340535168741376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80772,
+			"friends_count": 46,
+			"listed_count": 129,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💖 มิวสิควีดีโอเพลง 'I (feat. Verbal Jint)' ของ #TAEYEON มียอดวิวทะลุ 200 ล้านวิว บน YouTube เป็นที่เรียบร้อย! 🎉🥳\n\n🎬 https://t.co/p22q1eHduh\n\n#태연 #I #소녀시대 #GirlsGeneration\n\n[https://t.co/IQrWQBMX7J] https://t.co/Bmn0kSJGXC"
+	},
+	{
 		"created_at": "Wed Jul 15 09:05:21 +0000 2020",
 		"id": 1283326776488480800,
 		"id_str": "1283326776488480769",
