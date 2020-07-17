@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 11:07:09 +0000 2020",
+		"id": 1284080407164579800,
+		"id_str": "1284082206256836608",
+		"full_text": "🚨Spoiler Alert🚨\n\nD-d-d-d DESSERT!🍫🍬🍇🍯🧈🧇🥭🥤\n\nHYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJGhWJ\n\n#HYO #효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/kvfgBwGU3R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						160,
+						168
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HRC5aJGhWJ",
+					"expanded_url": "http://hyoyeon.smtown.com",
+					"display_url": "hyoyeon.smtown.com",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1284034004136554500,
+					"id_str": "1284034004136554496",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EdHePYnUMAAhDiI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdHePYnUMAAhDiI.png",
+					"url": "https://t.co/kvfgBwGU3R",
+					"display_url": "pic.twitter.com/kvfgBwGU3R",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1284080407164579840/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1284034004136554500,
+					"id_str": "1284034004136554496",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/EdHePYnUMAAhDiI.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdHePYnUMAAhDiI.png",
+					"url": "https://t.co/kvfgBwGU3R",
+					"display_url": "pic.twitter.com/kvfgBwGU3R",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1284080407164579840/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26360,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1284034004136554496/vid/360x640/NvxOlToWsfxSohMA.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1284034004136554496/vid/720x1280/gwnZENRZ3SpG-rgb.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1284034004136554496/vid/320x568/5ZvKI4noOktGcs2J.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1284034004136554496/pl/nDTQBTzIlu0RWAIs.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542425,
+			"friends_count": 4,
+			"listed_count": 5027,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2060,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1996,
+		"favorite_count": 3225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "🚨Spoiler Alert🚨\n\nD-d-d-d DESSERT!🍫🍬🍇🍯🧈🧇🥭🥤\n\nHYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJGhWJ\n\n#HYO #효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/kvfgBwGU3R"
+	},
+	{
 		"created_at": "Fri Jul 17 10:05:30 +0000 2020",
 		"id": 1284066691908018200,
 		"id_str": "1284066691908018179",
