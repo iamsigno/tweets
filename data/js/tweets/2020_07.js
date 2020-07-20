@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 02:07:17 +0000 2020",
+		"id": 1285020188220387300,
+		"id_str": "1285033505785864192",
+		"full_text": "HYO 신곡 ‘DESSERT’!🍫🍬🍇🍯🧈🧇🥭🥤\n\n📹 뮤직비디오 티저 영상 오늘 밤 12시 공개!\n\n💜 놓치지 말고 함께 보아요!👀\n \n#HYO #효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/x7nBQhciBH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285020175012475000,
+					"id_str": "1285020175012474880",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVPCnTUMAAkulb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVPCnTUMAAkulb.jpg",
+					"url": "https://t.co/x7nBQhciBH",
+					"display_url": "pic.twitter.com/x7nBQhciBH",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285020188220387330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285020175012475000,
+					"id_str": "1285020175012474880",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVPCnTUMAAkulb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVPCnTUMAAkulb.jpg",
+					"url": "https://t.co/x7nBQhciBH",
+					"display_url": "pic.twitter.com/x7nBQhciBH",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285020188220387330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 682,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1285020175008321500,
+					"id_str": "1285020175008321536",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EdVPCnSU0AAx3F-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdVPCnSU0AAx3F-.jpg",
+					"url": "https://t.co/x7nBQhciBH",
+					"display_url": "pic.twitter.com/x7nBQhciBH",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285020188220387330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542156,
+			"friends_count": 4,
+			"listed_count": 5025,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1684,
+		"favorite_count": 3908,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "HYO 신곡 ‘DESSERT’!🍫🍬🍇🍯🧈🧇🥭🥤\n\n📹 뮤직비디오 티저 영상 오늘 밤 12시 공개!\n\n💜 놓치지 말고 함께 보아요!👀\n \n#HYO #효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/x7nBQhciBH"
+	},
+	{
+		"created_at": "Mon Jul 20 02:07:09 +0000 2020",
+		"id": 1285023549355262000,
+		"id_str": "1285033471799431168",
+		"full_text": "[7/20 (월) 엠뮤톡] 1시 25분 시~작! K.A.R.D/우주소녀/엔플라잉/오마이걸/NCT127/위키미키/레드벨벳/DAY6/청하/GOT7/태연/아이즈원 오늘은 여름노래로 준비해봤어! 엠피디랑 같이 즐길사람 모두 모여라!_!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "대한민국 서울",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/3MOZ1S1s4O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3MOZ1S1s4O",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1049570,
+			"friends_count": 349,
+			"listed_count": 1160,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 672,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1513044943",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[7/20 (월) 엠뮤톡] 1시 25분 시~작! K.A.R.D/우주소녀/엔플라잉/오마이걸/NCT127/위키미키/레드벨벳/DAY6/청하/GOT7/태연/아이즈원 오늘은 여름노래로 준비해봤어! 엠피디랑 같이 즐길사람 모두 모여라!_!"
+	},
+	{
 		"created_at": "Sun Jul 19 16:07:21 +0000 2020",
 		"id": 1284866082117955600,
 		"id_str": "1284882528546041856",
