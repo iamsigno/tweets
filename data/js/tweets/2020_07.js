@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 20 08:07:15 +0000 2020",
+		"id": 1285123075676102700,
+		"id_str": "1285124095718363136",
+		"full_text": "⭐️ Yang spesial di VLIVE minggu ini ⭐️\n\nNyalain notifikasinya ya supaya gak ketinggalan live-nya~😍🔔\n\n#VLIVE #VLIVEINDONESIA #효연 #HYO https://t.co/BhFtXD1Acy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						108,
+						123
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						128,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285122580702060500,
+					"id_str": "1285122580702060544",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EdWsLaOUYAAvZCi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdWsLaOUYAAvZCi.png",
+					"url": "https://t.co/BhFtXD1Acy",
+					"display_url": "pic.twitter.com/BhFtXD1Acy",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1285123075676102670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285122580702060500,
+					"id_str": "1285122580702060544",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/EdWsLaOUYAAvZCi.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdWsLaOUYAAvZCi.png",
+					"url": "https://t.co/BhFtXD1Acy",
+					"display_url": "pic.twitter.com/BhFtXD1Acy",
+					"expanded_url": "https://twitter.com/vliveindonesia/status/1285123075676102670/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nGiveaway Signed Polaroid RIZKY FEBIAN 👇🏻 👇🏻",
+			"url": "https://t.co/CEQhkVOiE4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CEQhkVOiE4",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/celeb/0.15779306",
+							"display_url": "channels.vlive.tv/B4B94F/celeb/0…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32740,
+			"friends_count": 1,
+			"listed_count": 11,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "⭐️ Yang spesial di VLIVE minggu ini ⭐️\n\nNyalain notifikasinya ya supaya gak ketinggalan live-nya~😍🔔\n\n#VLIVE #VLIVEINDONESIA #효연 #HYO https://t.co/BhFtXD1Acy"
+	},
+	{
+		"created_at": "Mon Jul 20 08:07:09 +0000 2020",
+		"id": 1285122425307328500,
+		"id_str": "1285124070091231232",
+		"full_text": "[V LIVE] \n🥳이번 주 스페셜 라이브 라인업🥳\n이번 주도 #VLIVE 는 스페~셜한 라이브와 함께 여러분을 기다리고 있습니다‼️ 둘도 없는 최고의 휴양지 안방 1열에서 함께해요🌊\n\n🥳This week's special VLIVE🥳\nIf you don't want to miss it, schedule broadcast alerts in advance ‼️💖\n\n#효연 #HYO https://t.co/FEBRyj2ghn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						208,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285102393860874200,
+					"id_str": "1285102393860874240",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EdWZ0YYU4AAlu8O.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdWZ0YYU4AAlu8O.png",
+					"url": "https://t.co/FEBRyj2ghn",
+					"display_url": "pic.twitter.com/FEBRyj2ghn",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1285122425307328512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285102393860874200,
+					"id_str": "1285102393860874240",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EdWZ0YYU4AAlu8O.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdWZ0YYU4AAlu8O.png",
+					"url": "https://t.co/FEBRyj2ghn",
+					"display_url": "pic.twitter.com/FEBRyj2ghn",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1285122425307328512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1285102412164763600,
+					"id_str": "1285102412164763648",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/EdWZ1ckUEAASvgB.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdWZ1ckUEAASvgB.png",
+					"url": "https://t.co/FEBRyj2ghn",
+					"display_url": "pic.twitter.com/FEBRyj2ghn",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1285122425307328512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4193631,
+			"friends_count": 167,
+			"listed_count": 1434,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 320,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[V LIVE] \n🥳이번 주 스페셜 라이브 라인업🥳\n이번 주도 #VLIVE 는 스페~셜한 라이브와 함께 여러분을 기다리고 있습니다‼️ 둘도 없는 최고의 휴양지 안방 1열에서 함께해요🌊\n\n🥳This week's special VLIVE🥳\nIf you don't want to miss it, schedule broadcast alerts in advance ‼️💖\n\n#효연 #HYO https://t.co/FEBRyj2ghn"
+	},
+	{
+		"created_at": "Mon Jul 20 07:32:20 +0000 2020",
+		"id": 1285115306961232000,
+		"id_str": "1285115306961231873",
+		"full_text": "#GirlsGeneration #소녀시대\nHYO(효연), 신곡 ‘DESSERT’ 뮤직비디오 티저 영상 20일 밤 12시 공개!\nhttps://t.co/BoWlIqZuLI\n#SMTOWN #Artist_News https://t.co/t0BoC1xXyE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "Artist_News",
+					"indices": [
+						103,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BoWlIqZuLI",
+					"expanded_url": "https://www.smtown.com/artist/newsDetail/3778",
+					"display_url": "smtown.com/artist/newsDet…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285115305891696600,
+					"id_str": "1285115305891696640",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EdWlj9cXkAAeWcE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdWlj9cXkAAeWcE.jpg",
+					"url": "https://t.co/t0BoC1xXyE",
+					"display_url": "pic.twitter.com/t0BoC1xXyE",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1285115306961231873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285115305891696600,
+					"id_str": "1285115305891696640",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EdWlj9cXkAAeWcE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdWlj9cXkAAeWcE.jpg",
+					"url": "https://t.co/t0BoC1xXyE",
+					"display_url": "pic.twitter.com/t0BoC1xXyE",
+					"expanded_url": "https://twitter.com/IAMSIGNO/status/1285115306961231873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 541,
+							"h": 295,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518,
+			"friends_count": 458,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27324,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\nHYO(효연), 신곡 ‘DESSERT’ 뮤직비디오 티저 영상 20일 밤 12시 공개!\nhttps://t.co/BoWlIqZuLI\n#SMTOWN #Artist_News https://t.co/t0BoC1xXyE"
+	},
+	{
 		"created_at": "Mon Jul 20 06:52:14 +0000 2020",
 		"id": 1285105217646755800,
 		"id_str": "1285105217646755840",
