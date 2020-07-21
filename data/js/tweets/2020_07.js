@@ -1,6 +1,1020 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 21 16:07:22 +0000 2020",
+		"id": 1285590356315103200,
+		"id_str": "1285607309402611713",
+		"full_text": "HYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJGhWJ\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/5EZG2zhNL4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "효연_디저트",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						166,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HRC5aJGhWJ",
+					"expanded_url": "http://hyoyeon.smtown.com",
+					"display_url": "hyoyeon.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285489139840807000,
+					"id_str": "1285489139840806912",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Edb5j9bVcAA77Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edb5j9bVcAA77Jo.jpg",
+					"url": "https://t.co/5EZG2zhNL4",
+					"display_url": "pic.twitter.com/5EZG2zhNL4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285590356315103232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285489139840807000,
+					"id_str": "1285489139840806912",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Edb5j9bVcAA77Jo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edb5j9bVcAA77Jo.jpg",
+					"url": "https://t.co/5EZG2zhNL4",
+					"display_url": "pic.twitter.com/5EZG2zhNL4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285590356315103232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541916,
+			"friends_count": 4,
+			"listed_count": 5029,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3364,
+		"favorite_count": 6246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "HYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJGhWJ\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/5EZG2zhNL4"
+	},
+	{
+		"created_at": "Tue Jul 21 16:07:18 +0000 2020",
+		"id": 1285590606190977000,
+		"id_str": "1285607292155691010",
+		"full_text": "HYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJoH5b\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/WCalXqgO1t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "효연_디저트",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						166,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HRC5aJoH5b",
+					"expanded_url": "http://hyoyeon.smtown.com",
+					"display_url": "hyoyeon.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285489146509717500,
+					"id_str": "1285489146509717505",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Edb5kWRU8AE04lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edb5kWRU8AE04lU.jpg",
+					"url": "https://t.co/WCalXqgO1t",
+					"display_url": "pic.twitter.com/WCalXqgO1t",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285590606190977024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285489146509717500,
+					"id_str": "1285489146509717505",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Edb5kWRU8AE04lU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edb5kWRU8AE04lU.jpg",
+					"url": "https://t.co/WCalXqgO1t",
+					"display_url": "pic.twitter.com/WCalXqgO1t",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285590606190977024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541916,
+			"friends_count": 4,
+			"listed_count": 5029,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2684,
+		"favorite_count": 5154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "HYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJoH5b\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/WCalXqgO1t"
+	},
+	{
+		"created_at": "Tue Jul 21 16:07:09 +0000 2020",
+		"id": 1285590858281050000,
+		"id_str": "1285607253953978368",
+		"full_text": "HYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJGhWJ\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/yPYNHrGHec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "효연_디저트",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						166,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HRC5aJGhWJ",
+					"expanded_url": "http://hyoyeon.smtown.com",
+					"display_url": "hyoyeon.smtown.com",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1285489150016159700,
+					"id_str": "1285489150016159744",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Edb5kjVVAAAa9QJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edb5kjVVAAAa9QJ.jpg",
+					"url": "https://t.co/yPYNHrGHec",
+					"display_url": "pic.twitter.com/yPYNHrGHec",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285590858281050112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285489150016159700,
+					"id_str": "1285489150016159744",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/Edb5kjVVAAAa9QJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edb5kjVVAAAa9QJ.jpg",
+					"url": "https://t.co/yPYNHrGHec",
+					"display_url": "pic.twitter.com/yPYNHrGHec",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1285590858281050112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541916,
+			"friends_count": 4,
+			"listed_count": 5029,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2667,
+		"favorite_count": 5510,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "HYO 4th Single ['DESSERT (Feat. Loopy, 소연 ((여자)아이들))']\n\n🎧 2020.07.22. 6PM (KST)\n👉🏻 https://t.co/HRC5aJGhWJ\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/yPYNHrGHec"
+	},
+	{
+		"created_at": "Tue Jul 21 15:52:20 +0000 2020",
+		"id": 1285603524085190700,
+		"id_str": "1285603524085190658",
+		"full_text": "#GirlsGeneration #소녀시대\nHYO 4th Single ['DESSERT (Feat. Loopy, 소연...\nhttps://t.co/7M9vy5uGez\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7M9vy5uGez",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/photos/a.245804622106177/3534323886587551/",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 519,
+			"friends_count": 458,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\nHYO 4th Single ['DESSERT (Feat. Loopy, 소연...\nhttps://t.co/7M9vy5uGez\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Tue Jul 21 15:52:19 +0000 2020",
+		"id": 1285603522684346400,
+		"id_str": "1285603522684346370",
+		"full_text": "#GirlsGeneration #소녀시대\nHYO 4th Single ['DESSERT (Feat. Loopy, 소연...\nhttps://t.co/h4HTxEvAxk\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						102,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h4HTxEvAxk",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/photos/a.245804622106177/3534323356587604/",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 519,
+			"friends_count": 458,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\nHYO 4th Single ['DESSERT (Feat. Loopy, 소연...\nhttps://t.co/h4HTxEvAxk\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Tue Jul 21 12:07:09 +0000 2020",
 		"id": 1285529958270431200,
 		"id_str": "1285546857763135488",
