@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 15:07:09 +0000 2020",
+		"id": 1285953168782667800,
+		"id_str": "1285954541477924872",
+		"full_text": "HYO ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE)’ Official Lyrics Eng\n\n👉🏻https://t.co/NEHCRNV5DA\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"text": "효연_디저트",
+					"indices": [
+						116,
+						123
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						152,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NEHCRNV5DA",
+					"expanded_url": "https://youtu.be/ik8NbLurNgU",
+					"display_url": "youtu.be/ik8NbLurNgU",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3542022,
+			"friends_count": 4,
+			"listed_count": 5035,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 673,
+		"favorite_count": 1143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "HYO ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE)’ Official Lyrics Eng\n\n👉🏻https://t.co/NEHCRNV5DA\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Wed Jul 22 12:52:20 +0000 2020",
 		"id": 1285920614893707300,
 		"id_str": "1285920614893707268",
