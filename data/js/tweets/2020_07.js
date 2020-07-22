@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 11:07:15 +0000 2020",
+		"id": 1285892418894626800,
+		"id_str": "1285894168783532035",
+		"full_text": "HYO ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE)’ MV \n\n🎬 https://t.co/b9XUen8xvv\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "효연_디저트",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b9XUen8xvv",
+					"expanded_url": "https://youtu.be/4VmLuWDkHYQ",
+					"display_url": "youtu.be/4VmLuWDkHYQ",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3541773,
+			"friends_count": 4,
+			"listed_count": 5033,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2526,
+		"favorite_count": 2847,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "HYO ‘DESSERT (Feat. Loopy, SOYEON ((G)I-DLE)’ MV \n\n🎬 https://t.co/b9XUen8xvv\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Wed Jul 22 10:07:39 +0000 2020",
 		"id": 1285870271623131100,
 		"id_str": "1285879170229313537",
@@ -268,7 +438,7 @@ Grailbird.data.tweets_2020_07 =
 		"created_at": "Wed Jul 22 10:07:37 +0000 2020",
 		"id": 1285862419223339000,
 		"id_str": "1285879161345777666",
-		"full_text": "#少女時代 のヒョヨン(DJ #HYO)からみんなへ\nメッセージ動画が届いたよ💌👯‍♀️\n\n新曲「Dessert (feat. #Loopy, #SOYEON)」を\n#LINEMUSIC で配信スタート🥧🍮\n\n甘い恋をデザートに例えた歌詞に注目です♪\n🎧👉https://t.co/L0l0M8dqj4\n\n@Hyoyeon_djhyo / #DESSERT",
+		"full_text": "#少女時代 のヒョヨン(DJ #HYO)からみんなへ\nメッセージ動画が届いたよ💌👯♀️\n\n新曲「Dessert (feat. #Loopy, #SOYEON)」を\n#LINEMUSIC で配信スタート🥧🍮\n\n甘い恋をデザートに例えた歌詞に注目です♪\n🎧👉https://t.co/L0l0M8dqj4\n\n@Hyoyeon_djhyo / #DESSERT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -356,7 +526,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "LINE MUSIC",
 			"screen_name": "LINEMUSIC_JP",
 			"location": "",
-			"description": "LINEの音楽ストリーミングサービス #LINEMUSIC \nおにし👩🏻たかってぃ🤱つっきー👩🏻‍🦱えってぃ👧🏻が旬な音楽情報をお届け🎁\n/✍️:https://t.co/r1HWxRsYBC\n/📷:https://t.co/u0zRxurTRy\n/お問合せ👉https://t.co/TFvmtwWpMO",
+			"description": "LINEの音楽ストリーミングサービス #LINEMUSIC \nおにし👩🏻たかってぃ🤱つっきー👩🏻🦱えってぃ👧🏻が旬な音楽情報をお届け🎁\n/✍️:https://t.co/r1HWxRsYBC\n/📷:https://t.co/u0zRxurTRy\n/お問合せ👉https://t.co/TFvmtwWpMO",
 			"url": "https://t.co/329xsvBLof",
 			"entities": {
 				"url": {
@@ -450,7 +620,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "#少女時代 のヒョヨン(DJ #HYO)からみんなへ\nメッセージ動画が届いたよ💌👯‍♀️\n\n新曲「Dessert (feat. #Loopy, #SOYEON)」を\n#LINEMUSIC で配信スタート🥧🍮\n\n甘い恋をデザートに例えた歌詞に注目です♪\n🎧👉https://t.co/L0l0M8dqj4\n\n@Hyoyeon_djhyo / #DESSERT"
+		"text": "#少女時代 のヒョヨン(DJ #HYO)からみんなへ\nメッセージ動画が届いたよ💌👯♀️\n\n新曲「Dessert (feat. #Loopy, #SOYEON)」を\n#LINEMUSIC で配信スタート🥧🍮\n\n甘い恋をデザートに例えた歌詞に注目です♪\n🎧👉https://t.co/L0l0M8dqj4\n\n@Hyoyeon_djhyo / #DESSERT"
 	},
 	{
 		"created_at": "Wed Jul 22 10:07:23 +0000 2020",
