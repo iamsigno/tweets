@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 02:07:09 +0000 2020",
+		"id": 1285752794524209200,
+		"id_str": "1285758247773843459",
+		"full_text": "#오늘의발매_bk🎵\n💿2020.JULY.20 - Today's Release💿\nHYO - DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))\n정준일 - Single '다만 내가 잊지 않으면'\nSOMI - What You Waiting For\n\n#효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration \n#전소미 #WHATYOUWAITINGFOR \n#JOONILJUNG #다만내가잊지않으면 https://t.co/By1ianMPIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의발매_bk",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						172,
+						188
+					]
+				},
+				{
+					"text": "전소미",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "WHATYOUWAITINGFOR",
+					"indices": [
+						195,
+						213
+					]
+				},
+				{
+					"text": "JOONILJUNG",
+					"indices": [
+						215,
+						226
+					]
+				},
+				{
+					"text": "다만내가잊지않으면",
+					"indices": [
+						227,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1285752438981419000,
+					"id_str": "1285752438981419008",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EdfpB_KUYAAepZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdfpB_KUYAAepZq.jpg",
+					"url": "https://t.co/By1ianMPIC",
+					"display_url": "pic.twitter.com/By1ianMPIC",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1285752794524209155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1285752438981419000,
+					"id_str": "1285752438981419008",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/EdfpB_KUYAAepZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdfpB_KUYAAepZq.jpg",
+					"url": "https://t.co/By1ianMPIC",
+					"display_url": "pic.twitter.com/By1ianMPIC",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1285752794524209155/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39289,
+			"friends_count": 26,
+			"listed_count": 65,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 47,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1593482458",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#오늘의발매_bk🎵\n💿2020.JULY.20 - Today's Release💿\nHYO - DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))\n정준일 - Single '다만 내가 잊지 않으면'\nSOMI - What You Waiting For\n\n#효연 #DESSERT #디저트 #소녀시대 #GirlsGeneration \n#전소미 #WHATYOUWAITINGFOR \n#JOONILJUNG #다만내가잊지않으면 https://t.co/By1ianMPIC"
+	},
+	{
 		"created_at": "Tue Jul 21 16:07:22 +0000 2020",
 		"id": 1285590356315103200,
 		"id_str": "1285607309402611713",
