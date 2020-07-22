@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 22 06:07:09 +0000 2020",
+		"id": 1285804613841506300,
+		"id_str": "1285818648439988225",
+		"full_text": "[#VLIVE] 잠시후 5시 퍼포먼스 퀸 #효연 이 ‘DESSERT’ 카운트다운 라이브로 VLIVE를 찾아옵니다🍫 어디서도 듣지 못했던 신곡 소개부터 작업 에피소드까지‼️ 귀를 쫑긋하게 하는 얘기들이 기다리고 있다고 하니 놓치지 말고 함께해요❣️\n\n▶️ https://t.co/DbtBwJdwgJ\n\n#소녀시대 #GirlsGeneration #HYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DbtBwJdwgJ",
+					"expanded_url": "https://www.vlive.tv/video/203326",
+					"display_url": "vlive.tv/video/203326",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4197730,
+			"friends_count": 167,
+			"listed_count": 1431,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 174,
+		"favorite_count": 704,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VLIVE] 잠시후 5시 퍼포먼스 퀸 #효연 이 ‘DESSERT’ 카운트다운 라이브로 VLIVE를 찾아옵니다🍫 어디서도 듣지 못했던 신곡 소개부터 작업 에피소드까지‼️ 귀를 쫑긋하게 하는 얘기들이 기다리고 있다고 하니 놓치지 말고 함께해요❣️\n\n▶️ https://t.co/DbtBwJdwgJ\n\n#소녀시대 #GirlsGeneration #HYO"
+	},
+	{
 		"created_at": "Wed Jul 22 03:07:09 +0000 2020",
 		"id": 1285745791819108400,
 		"id_str": "1285773346966319104",
