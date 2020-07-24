@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 24 05:07:09 +0000 2020",
+		"id": 1286518809814110200,
+		"id_str": "1286528324899155968",
+		"full_text": "여러분 비가 왜 내렸는 줄 아세요?\n#차주은 으로 변신한 서현 배우를 빨리 보고 싶어서 하늘이 울었던거래요😭\n\n#서현 #JTBC #사생활 #9월_첫방송 #사진제공_도레미엔터테인먼트 https://t.co/9YzThvHo0S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "차주은",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						66,
+						71
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "9월_첫방송",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "사진제공_도레미엔터테인먼트",
+					"indices": [
+						85,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1286518725965832200,
+					"id_str": "1286518725965832192",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Edqh9woU4AABbs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edqh9woU4AABbs-.jpg",
+					"url": "https://t.co/9YzThvHo0S",
+					"display_url": "pic.twitter.com/9YzThvHo0S",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1286518809814110208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286518725965832200,
+					"id_str": "1286518725965832192",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Edqh9woU4AABbs-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edqh9woU4AABbs-.jpg",
+					"url": "https://t.co/9YzThvHo0S",
+					"display_url": "pic.twitter.com/9YzThvHo0S",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1286518809814110208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1286518764306014200,
+					"id_str": "1286518764306014208",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/Edqh__dVoAAM1A7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Edqh__dVoAAM1A7.jpg",
+					"url": "https://t.co/9YzThvHo0S",
+					"display_url": "pic.twitter.com/9YzThvHo0S",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1286518809814110208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1286518785256505300,
+					"id_str": "1286518785256505344",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EdqiBNgUwAA6jDp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdqiBNgUwAA6jDp.jpg",
+					"url": "https://t.co/9YzThvHo0S",
+					"display_url": "pic.twitter.com/9YzThvHo0S",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1286518809814110208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30119,
+			"friends_count": 11,
+			"listed_count": 181,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 517,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 비가 왜 내렸는 줄 아세요?\n#차주은 으로 변신한 서현 배우를 빨리 보고 싶어서 하늘이 울었던거래요😭\n\n#서현 #JTBC #사생활 #9월_첫방송 #사진제공_도레미엔터테인먼트 https://t.co/9YzThvHo0S"
+	},
+	{
 		"created_at": "Fri Jul 24 04:03:16 +0000 2020",
 		"id": 1286512244608688000,
 		"id_str": "1286512244608688136",
