@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 27 03:07:09 +0000 2020",
+		"id": 1287584995041656800,
+		"id_str": "1287585286772461569",
+		"full_text": "#라비 의 #퀘스천마크 ❔ \n여러분의 물음표를 기다리는 분들!\n7/27(월) #프니엘 (#비투비)\n7/29(수) #유리 (#JxR)\n8/3(월) #수현oppa (#유키스)\n\n문자번호 #7117 (정보이용료100원) 생방 중 채팅으로도 참여 가능합니다👋🏻 매주 월,수 저녁7시 보쇼로 만나요👀 #RAVI #NOW온에어 https://t.co/aZOGnOr99J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라비",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "퀘스천마크",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "프니엘",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "비투비",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "JxR",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "수현oppa",
+					"indices": [
+						81,
+						88
+					]
+				},
+				{
+					"text": "유키스",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						169,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287584980269281300,
+					"id_str": "1287584980269281282",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed5rt7cUMAIQZxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed5rt7cUMAIQZxG.jpg",
+					"url": "https://t.co/aZOGnOr99J",
+					"display_url": "pic.twitter.com/aZOGnOr99J",
+					"expanded_url": "https://twitter.com/kr_now/status/1287584995041656832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287584980269281300,
+					"id_str": "1287584980269281282",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed5rt7cUMAIQZxG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed5rt7cUMAIQZxG.jpg",
+					"url": "https://t.co/aZOGnOr99J",
+					"display_url": "pic.twitter.com/aZOGnOr99J",
+					"expanded_url": "https://twitter.com/kr_now/status/1287584995041656832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버 앱에서 온에어되는 24HRS LIVE SHOW",
+			"url": "https://t.co/Z1jZgnEJk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z1jZgnEJk6",
+							"expanded_url": "http://now.naver.com/listen",
+							"display_url": "now.naver.com/listen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45615,
+			"friends_count": 1,
+			"listed_count": 77,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1589334764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라비 의 #퀘스천마크 ❔ \n여러분의 물음표를 기다리는 분들!\n7/27(월) #프니엘 (#비투비)\n7/29(수) #유리 (#JxR)\n8/3(월) #수현oppa (#유키스)\n\n문자번호 #7117 (정보이용료100원) 생방 중 채팅으로도 참여 가능합니다👋🏻 매주 월,수 저녁7시 보쇼로 만나요👀 #RAVI #NOW온에어 https://t.co/aZOGnOr99J"
+	},
+	{
 		"created_at": "Fri Jul 24 09:36:13 +0000 2020",
 		"id": 1286596034769105000,
 		"id_str": "1286596034769104896",
