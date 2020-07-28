@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 09:07:09 +0000 2020",
+		"id": 1288033704196145200,
+		"id_str": "1288038270769803265",
+		"full_text": "After listening to \"DESSERT\" by @Hyoyeon_djhyo, we don’t have a sweet-tooth anymore, we have sweet-teeth 😋. Stream HYO’s latest sweetest release, and go dance with that bowl of ice-cream. Because you deserve it~\n\nhttps://t.co/eVgdZZ2ntl  \n\n#DESSERT #HYO #YouKnowWhatIDeserve https://t.co/Qlc1Y5NLhQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DESSERT",
+					"indices": [
+						240,
+						248
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						249,
+						253
+					]
+				},
+				{
+					"text": "YouKnowWhatIDeserve",
+					"indices": [
+						254,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eVgdZZ2ntl",
+					"expanded_url": "https://spoti.fi/HYO-DESSERT",
+					"display_url": "spoti.fi/HYO-DESSERT",
+					"indices": [
+						213,
+						236
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288028572792184800,
+					"id_str": "1288028572792184832",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288028572792184832/pu/img/eKwRXH7Tl2XFyMhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288028572792184832/pu/img/eKwRXH7Tl2XFyMhR.jpg",
+					"url": "https://t.co/Qlc1Y5NLhQ",
+					"display_url": "pic.twitter.com/Qlc1Y5NLhQ",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1288033704196145152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288028572792184800,
+					"id_str": "1288028572792184832",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288028572792184832/pu/img/eKwRXH7Tl2XFyMhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288028572792184832/pu/img/eKwRXH7Tl2XFyMhR.jpg",
+					"url": "https://t.co/Qlc1Y5NLhQ",
+					"display_url": "pic.twitter.com/Qlc1Y5NLhQ",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1288033704196145152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 32680,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288028572792184832/pu/vid/480x480/OUafuPRhX7iy0zfm.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288028572792184832/pu/vid/320x320/DCeQ3gqW73fGnRWp.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288028572792184832/pu/vid/720x720/XjVkj4X_kLUm1yW-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1288028572792184832/pu/pl/yOTr-b4cXIq7m-S4.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 265969,
+			"friends_count": 203,
+			"listed_count": 164,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 706,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After listening to \"DESSERT\" by @Hyoyeon_djhyo, we don’t have a sweet-tooth anymore, we have sweet-teeth 😋. Stream HYO’s latest sweetest release, and go dance with that bowl of ice-cream. Because you deserve it~\n\nhttps://t.co/eVgdZZ2ntl  \n\n#DESSERT #HYO #YouKnowWhatIDeserve https://t.co/Qlc1Y5NLhQ"
+	},
+	{
 		"created_at": "Tue Jul 28 08:07:11 +0000 2020",
 		"id": 1288006273296994300,
 		"id_str": "1288023183719882752",
