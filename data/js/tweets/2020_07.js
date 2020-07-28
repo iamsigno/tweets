@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 02:07:10 +0000 2020",
+		"id": 1287926604820226000,
+		"id_str": "1287932579157618695",
+		"full_text": "KWON YURI will star in the mini-drama ‘이별유예, 일주일’! 🎉\n\n❤ Coming back with a heart-rending romance!\n\n👀 Stay tuned for KWON YURI's 'lyrical sensibility'! \n\n#KWONYURI #권유리 #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/189IzoHrsM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "이별유예일주일",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1287926596507021300,
+					"id_str": "1287926596507021312",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed-ianGUMAApHIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed-ianGUMAApHIE.jpg",
+					"url": "https://t.co/189IzoHrsM",
+					"display_url": "pic.twitter.com/189IzoHrsM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1287926604820226048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 678,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 678,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1287926596507021300,
+					"id_str": "1287926596507021312",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/Ed-ianGUMAApHIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ed-ianGUMAApHIE.jpg",
+					"url": "https://t.co/189IzoHrsM",
+					"display_url": "pic.twitter.com/189IzoHrsM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1287926604820226048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 678,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 678,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8117029,
+			"friends_count": 50,
+			"listed_count": 7997,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1373,
+		"favorite_count": 3495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "KWON YURI will star in the mini-drama ‘이별유예, 일주일’! 🎉\n\n❤ Coming back with a heart-rending romance!\n\n👀 Stay tuned for KWON YURI's 'lyrical sensibility'! \n\n#KWONYURI #권유리 #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/189IzoHrsM"
+	},
+	{
 		"created_at": "Mon Jul 27 07:52:18 +0000 2020",
 		"id": 1287657046591053800,
 		"id_str": "1287657046591053824",
