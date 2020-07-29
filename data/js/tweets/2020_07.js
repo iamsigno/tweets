@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 11:07:09 +0000 2020",
+		"id": 1288407875186880500,
+		"id_str": "1288430859767472138",
+		"full_text": "#LetsGetNaughty with #SEULGI &amp; #HYO🎵 할 수 있겠니🤪\n\nJoin the Challenge👉 https://t.co/7wOd73GW1g\n\n#놀이챌린지 #NaughtyChallenge #놀이 #Naughty #RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #슬기 #RedVelvet #레드벨벳 #효연 @Hyoyeon_djhyo #소녀시대 #GirlsGeneration https://t.co/tHfOusiwEa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LetsGetNaughty",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "놀이챌린지",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "NaughtyChallenge",
+					"indices": [
+						103,
+						120
+					]
+				},
+				{
+					"text": "놀이",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "Naughty",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "IRENE",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "아이린",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						187,
+						197
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						223,
+						228
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						229,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						208,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7wOd73GW1g",
+					"expanded_url": "https://vt.tiktok.com/UwAQcd/",
+					"display_url": "vt.tiktok.com/UwAQcd/",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288404571388170200,
+					"id_str": "1288404571388170242",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1288404571388170242/img/TqGOedBj6DKEPVCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1288404571388170242/img/TqGOedBj6DKEPVCl.jpg",
+					"url": "https://t.co/tHfOusiwEa",
+					"display_url": "pic.twitter.com/tHfOusiwEa",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1288407875186880513/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288404571388170200,
+					"id_str": "1288404571388170242",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1288404571388170242/img/TqGOedBj6DKEPVCl.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1288404571388170242/img/TqGOedBj6DKEPVCl.jpg",
+					"url": "https://t.co/tHfOusiwEa",
+					"display_url": "pic.twitter.com/tHfOusiwEa",
+					"expanded_url": "https://twitter.com/RVsmtown/status/1288407875186880513/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 724,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							181,
+							320
+						],
+						"duration_millis": 30834,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1288404571388170242/vid/720x1272/nbxwkRW76ZIAhlWl.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1288404571388170242/vid/360x636/PtQo9RfcfV21STrE.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1288404571388170242/vid/320x564/7qzpr74A6MJSpu9x.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1288404571388170242/pl/YOYuyFXyHzGygUgk.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873092428755894300,
+			"id_str": "873092428755894272",
+			"name": "Red Velvet",
+			"screen_name": "RVsmtown",
+			"location": "",
+			"description": "💜Happiness! Red Velvet💜",
+			"url": "https://t.co/pjjIYiVH17",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pjjIYiVH17",
+							"expanded_url": "https://youtu.be/Ujb-gvqsoi0",
+							"display_url": "youtu.be/Ujb-gvqsoi0",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2961755,
+			"friends_count": 1,
+			"listed_count": 6305,
+			"created_at": "Fri Jun 09 08:20:31 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265296830075527168/JLH8ZWPH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873092428755894272/1577091773",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7509,
+		"favorite_count": 18495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#LetsGetNaughty with #SEULGI &amp; #HYO🎵 할 수 있겠니🤪\n\nJoin the Challenge👉 https://t.co/7wOd73GW1g\n\n#놀이챌린지 #NaughtyChallenge #놀이 #Naughty #RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #IRENE #아이린 #슬기 #RedVelvet #레드벨벳 #효연 @Hyoyeon_djhyo #소녀시대 #GirlsGeneration https://t.co/tHfOusiwEa"
+	},
+	{
 		"created_at": "Wed Jul 29 10:05:30 +0000 2020",
 		"id": 1288415343048827000,
 		"id_str": "1288415343048826880",
