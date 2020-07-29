@@ -1,6 +1,762 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 12:07:21 +0000 2020",
+		"id": 1288429632379707400,
+		"id_str": "1288446011397021696",
+		"full_text": "[ENG] [유리한 식탁] EP 7-1. 해외여행 못 가서 슬픈 사람들 여기 모여라! \n\n👉🏻https://t.co/7KQR5gV4NA \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7KQR5gV4NA",
+					"expanded_url": "https://youtu.be/vSlqe1Zd_AE",
+					"display_url": "youtu.be/vSlqe1Zd_AE",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3539972,
+			"friends_count": 4,
+			"listed_count": 5022,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 28,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 695,
+		"favorite_count": 1560,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "[ENG] [유리한 식탁] EP 7-1. 해외여행 못 가서 슬픈 사람들 여기 모여라! \n\n👉🏻https://t.co/7KQR5gV4NA \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Wed Jul 29 12:07:18 +0000 2020",
+		"id": 1288422949070889000,
+		"id_str": "1288445998281437184",
+		"full_text": "#LetsGetNaughty with #HYO &amp; #SEULGI🎵 할수 있겠니🤪\n\n🎊SMTOWN TikTok OPEN!🎊\n👉🏻https://t.co/MIPYCw8JY1\n\n#놀이챌린지 #NaughtyChallenge #놀이 #Naughty #RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #슬기 #효연 #소녀시대 #GirlsGeneration https://t.co/VZIMTYIxjF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LetsGetNaughty",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"text": "놀이챌린지",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "NaughtyChallenge",
+					"indices": [
+						106,
+						123
+					]
+				},
+				{
+					"text": "놀이",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "Naughty",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						137,
+						160
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						161,
+						173
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MIPYCw8JY1",
+					"expanded_url": "https://vt.tiktok.com/yL8FnP/",
+					"display_url": "vt.tiktok.com/yL8FnP/",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288422857647591400,
+					"id_str": "1288422857647591424",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288422857647591424/pu/img/KrlggulgtMnNFXRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288422857647591424/pu/img/KrlggulgtMnNFXRb.jpg",
+					"url": "https://t.co/VZIMTYIxjF",
+					"display_url": "pic.twitter.com/VZIMTYIxjF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1288422949070888965/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288422857647591400,
+					"id_str": "1288422857647591424",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288422857647591424/pu/img/KrlggulgtMnNFXRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288422857647591424/pu/img/KrlggulgtMnNFXRb.jpg",
+					"url": "https://t.co/VZIMTYIxjF",
+					"display_url": "pic.twitter.com/VZIMTYIxjF",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1288422949070888965/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30733,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288422857647591424/pu/vid/360x640/2MHaTcNGkZTxbRtz.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288422857647591424/pu/vid/576x1024/wSg93g8O0xgBuJtd.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288422857647591424/pu/vid/320x568/-_ipg9-BUcewRstx.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1288422857647591424/pu/pl/glrangFUayE2zrWD.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8117304,
+			"friends_count": 50,
+			"listed_count": 7990,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2385,
+		"favorite_count": 5481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "#LetsGetNaughty with #HYO &amp; #SEULGI🎵 할수 있겠니🤪\n\n🎊SMTOWN TikTok OPEN!🎊\n👉🏻https://t.co/MIPYCw8JY1\n\n#놀이챌린지 #NaughtyChallenge #놀이 #Naughty #RedVelvet_IRENE_SEULGI #레드벨벳_아이린_슬기 #슬기 #효연 #소녀시대 #GirlsGeneration https://t.co/VZIMTYIxjF"
+	},
+	{
+		"created_at": "Wed Jul 29 12:07:09 +0000 2020",
+		"id": 1288422526830297000,
+		"id_str": "1288445959920287748",
+		"full_text": "Let's do the #DessertDance with HYO!🍫🍬🍇🍯🧈🧇🥭🥤\n\n🎊SMTOWN TikTok OPEN!🎊\n👉🏻https://t.co/MIPYCw8JY1\n\n#HYO #효연 #소녀시대 #GirlsGeneration #DessertDanceChallenge #DESSERT #디저트 #SEULGI #슬기 #RedVelvet #레드벨벳 https://t.co/9UbnB2z9iq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DessertDance",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						100,
+						103
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						110,
+						126
+					]
+				},
+				{
+					"text": "DessertDanceChallenge",
+					"indices": [
+						127,
+						149
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						187,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MIPYCw8JY1",
+					"expanded_url": "https://vt.tiktok.com/yL8FnP/",
+					"display_url": "vt.tiktok.com/yL8FnP/",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288422463961829400,
+					"id_str": "1288422463961829376",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288422463961829376/pu/img/yVVyJOwoXM_gW_x5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288422463961829376/pu/img/yVVyJOwoXM_gW_x5.jpg",
+					"url": "https://t.co/9UbnB2z9iq",
+					"display_url": "pic.twitter.com/9UbnB2z9iq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1288422526830297089/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288422463961829400,
+					"id_str": "1288422463961829376",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288422463961829376/pu/img/yVVyJOwoXM_gW_x5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288422463961829376/pu/img/yVVyJOwoXM_gW_x5.jpg",
+					"url": "https://t.co/9UbnB2z9iq",
+					"display_url": "pic.twitter.com/9UbnB2z9iq",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1288422526830297089/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15033,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1288422463961829376/pu/pl/Q_e-4erGMqGURBR4.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288422463961829376/pu/vid/576x1024/P_-mYytz_Bb_WuKO.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288422463961829376/pu/vid/320x568/p-oiXbhZBEBAgYnF.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288422463961829376/pu/vid/360x640/07qqZr1tVMxwYdn_.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8117304,
+			"friends_count": 50,
+			"listed_count": 7990,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2793,
+		"favorite_count": 6703,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Let's do the #DessertDance with HYO!🍫🍬🍇🍯🧈🧇🥭🥤\n\n🎊SMTOWN TikTok OPEN!🎊\n👉🏻https://t.co/MIPYCw8JY1\n\n#HYO #효연 #소녀시대 #GirlsGeneration #DessertDanceChallenge #DESSERT #디저트 #SEULGI #슬기 #RedVelvet #레드벨벳 https://t.co/9UbnB2z9iq"
+	},
+	{
 		"created_at": "Wed Jul 29 11:07:09 +0000 2020",
 		"id": 1288407875186880500,
 		"id_str": "1288430859767472138",
