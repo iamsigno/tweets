@@ -1,6 +1,471 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 09:05:34 +0000 2020",
+		"id": 1289125037010813000,
+		"id_str": "1289125037010812928",
+		"full_text": "#YuriKwon #권유리 #Yuri #유리\n[ENG] [유리한 식탁] EP7-2. 꽃이 꽃을 먹네?! 이게 바로 동족 식사!\nhttps://t.co/ZRSh30e9Ov\n#유리한tv #YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YuriKwon",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "Yuri",
+					"indices": [
+						15,
+						20
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "유리한tv",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZRSh30e9Ov",
+					"expanded_url": "https://youtu.be/RJrSpb-qw6Q",
+					"display_url": "youtu.be/RJrSpb-qw6Q",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 516,
+			"friends_count": 456,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#YuriKwon #권유리 #Yuri #유리\n[ENG] [유리한 식탁] EP7-2. 꽃이 꽃을 먹네?! 이게 바로 동족 식사!\nhttps://t.co/ZRSh30e9Ov\n#유리한tv #YouTube"
+	},
+	{
+		"created_at": "Fri Jul 31 09:03:11 +0000 2020",
+		"id": 1289124437401505800,
+		"id_str": "1289124437401505792",
+		"full_text": "#GirlsGeneration #소녀시대\nblanQ interview 👀 효연이 먹는 물은 따로 있다?!\nhttps://t.co/6zVMqegfbV\n#SMTOWN #YouTube #Playlist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						83,
+						90
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "Playlist",
+					"indices": [
+						100,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zVMqegfbV",
+					"expanded_url": "https://www.youtube.com/watch?v=WQNcsIk7oxE",
+					"display_url": "youtube.com/watch?v=WQNcsI…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 516,
+			"friends_count": 456,
+			"listed_count": 5,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\nblanQ interview 👀 효연이 먹는 물은 따로 있다?!\nhttps://t.co/6zVMqegfbV\n#SMTOWN #YouTube #Playlist"
+	},
+	{
+		"created_at": "Fri Jul 31 08:44:57 +0000 2020",
+		"id": 1289118050659131400,
+		"id_str": "1289119849235570688",
+		"full_text": "Hello https://t.co/veWkgktWSS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289118044543783000,
+					"id_str": "1289118044543782913",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EePeCA6UEAEp8e0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EePeCA6UEAEp8e0.jpg",
+					"url": "https://t.co/veWkgktWSS",
+					"display_url": "pic.twitter.com/veWkgktWSS",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1289118050659131392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289118044543783000,
+					"id_str": "1289118044543782913",
+					"indices": [
+						6,
+						29
+					],
+					"media_url": "http://pbs.twimg.com/media/EePeCA6UEAEp8e0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EePeCA6UEAEp8e0.jpg",
+					"url": "https://t.co/veWkgktWSS",
+					"display_url": "pic.twitter.com/veWkgktWSS",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1289118050659131392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 844,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 792687101842186200,
+			"id_str": "792687101842186240",
+			"name": "Hyoyeon",
+			"screen_name": "Hyoyeon_djhyo",
+			"location": "K",
+			"description": "HyoYeon from Girls’ Generation DJ Hyo",
+			"url": "https://t.co/U9OPugEoAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U9OPugEoAv",
+							"expanded_url": "http://hyoyeon.smtown.com",
+							"display_url": "hyoyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 224493,
+			"friends_count": 9,
+			"listed_count": 458,
+			"created_at": "Sun Oct 30 11:18:27 +0000 2016",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283064144585875459/dPooBWS4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283064144585875459/dPooBWS4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/792687101842186240/1594741306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2041,
+		"favorite_count": 3816,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello https://t.co/veWkgktWSS"
+	},
+	{
 		"created_at": "Fri Jul 31 07:07:09 +0000 2020",
 		"id": 1288816938148233200,
 		"id_str": "1289095236837351424",
