@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 15:07:09 +0000 2020",
+		"id": 1289195871750381600,
+		"id_str": "1289216033715150848",
+		"full_text": "Let's do the #DessertDance with #HYO &amp; #JENO &amp; #JAEMIN!🍫🍬🍇🍯🧈🧇🥭🥤\n\nSMTOWN Official TikTok \n👉🏻https://t.co/MIPYCw8JY1\n\n#효연 #소녀시대 #GirlsGeneration #DessertDanceChallenge #DESSERT #디저트 #제노 #재민 #NCTDREAM https://t.co/g8tHPyXR5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DessertDance",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "JENO",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "JAEMIN",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "DessertDanceChallenge",
+					"indices": [
+						151,
+						173
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "제노",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "재민",
+					"indices": [
+						192,
+						195
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						196,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MIPYCw8JY1",
+					"expanded_url": "https://vt.tiktok.com/yL8FnP/",
+					"display_url": "vt.tiktok.com/yL8FnP/",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289195730695987200,
+					"id_str": "1289195730695987200",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289195730695987200/pu/img/AhQMIaosqGZK5AQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289195730695987200/pu/img/AhQMIaosqGZK5AQB.jpg",
+					"url": "https://t.co/g8tHPyXR5Q",
+					"display_url": "pic.twitter.com/g8tHPyXR5Q",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1289195871750381569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289195730695987200,
+					"id_str": "1289195730695987200",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289195730695987200/pu/img/AhQMIaosqGZK5AQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289195730695987200/pu/img/AhQMIaosqGZK5AQB.jpg",
+					"url": "https://t.co/g8tHPyXR5Q",
+					"display_url": "pic.twitter.com/g8tHPyXR5Q",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1289195871750381569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289195730695987200/pu/vid/576x1024/oaiwhqdsBxCozKtT.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289195730695987200/pu/vid/320x568/L8IMgh85jurZwk35.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1289195730695987200/pu/pl/FYZi6TVFEgxtlSwh.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1289195730695987200/pu/vid/360x640/IDh5tuGQmHFtQ_GZ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8119558,
+			"friends_count": 50,
+			"listed_count": 7984,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8222,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5474,
+		"favorite_count": 10443,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "Let's do the #DessertDance with #HYO &amp; #JENO &amp; #JAEMIN!🍫🍬🍇🍯🧈🧇🥭🥤\n\nSMTOWN Official TikTok \n👉🏻https://t.co/MIPYCw8JY1\n\n#효연 #소녀시대 #GirlsGeneration #DessertDanceChallenge #DESSERT #디저트 #제노 #재민 #NCTDREAM https://t.co/g8tHPyXR5Q"
+	},
+	{
 		"created_at": "Fri Jul 31 09:44:57 +0000 2020",
 		"id": 1289120714709037000,
 		"id_str": "1289134949346562048",
