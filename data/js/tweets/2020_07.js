@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 31 07:07:09 +0000 2020",
+		"id": 1288816938148233200,
+		"id_str": "1289095236837351424",
+		"full_text": "🍨 @GirlsGeneration's HYOYEON recently made her comeback with her alter ego DJ HYO for \"DESSERT\"! Check out our exclusive video interview with her 👉 https://t.co/31jsuw1SX7\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/am2f94d5uu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						182,
+						194
+					]
+				},
+				{
+					"text": "효연_디저트",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						203,
+						210
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						211,
+						219
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						220,
+						224
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						225,
+						230
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						231,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						2,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/31jsuw1SX7",
+					"expanded_url": "http://kavenyou.com/hyo-dessert-interview",
+					"display_url": "kavenyou.com/hyo-dessert-in…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288816900219142100,
+					"id_str": "1288816900219142144",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288816900219142144/pu/img/5f5nWudHrKm6RgnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288816900219142144/pu/img/5f5nWudHrKm6RgnH.jpg",
+					"url": "https://t.co/am2f94d5uu",
+					"display_url": "pic.twitter.com/am2f94d5uu",
+					"expanded_url": "https://twitter.com/KAvenyou/status/1288816938148233216/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288816900219142100,
+					"id_str": "1288816900219142144",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288816900219142144/pu/img/5f5nWudHrKm6RgnH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288816900219142144/pu/img/5f5nWudHrKm6RgnH.jpg",
+					"url": "https://t.co/am2f94d5uu",
+					"display_url": "pic.twitter.com/am2f94d5uu",
+					"expanded_url": "https://twitter.com/KAvenyou/status/1288816938148233216/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14899,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1288816900219142144/pu/pl/9nosSFIH02sUBsnY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288816900219142144/pu/vid/480x270/MMAmWRaDYyts-ng7.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288816900219142144/pu/vid/1280x720/lVHcVLWMIBP5MCeI.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1288816900219142144/pu/vid/640x360/ltNO_1nz5e5su2RJ.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 150236869,
+			"id_str": "150236869",
+			"name": "KAvenyou • 케이애버뉴",
+			"screen_name": "KAvenyou",
+			"location": "Global",
+			"description": "KAvenyou • 케이애버뉴 (K-Avenue) | 🇸🇬🇫🇷 to 🇰🇷 : Music, Wanderlust, Food, Lifestyle\n\n💌 admin@kavenyou.com\n🔔 Get updated: https://t.co/asjENwZQ4J",
+			"url": "https://t.co/csaqsNdOtF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/csaqsNdOtF",
+							"expanded_url": "http://KAvenyou.com",
+							"display_url": "KAvenyou.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/asjENwZQ4J",
+							"expanded_url": "http://t.me/kavenyou",
+							"display_url": "t.me/kavenyou",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23933,
+			"friends_count": 428,
+			"listed_count": 259,
+			"created_at": "Mon May 31 12:37:04 +0000 2010",
+			"favourites_count": 1185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 70882,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093181586453876737/h4CKCx6c_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093181586453876737/h4CKCx6c_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/150236869/1552998265",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 451,
+		"favorite_count": 996,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🍨 @GirlsGeneration's HYOYEON recently made her comeback with her alter ego DJ HYO for \"DESSERT\"! Check out our exclusive video interview with her 👉 https://t.co/31jsuw1SX7\n\n#HYO #효연 #HYO_DESSERT #효연_디저트 #DJ_HYO #DESSERT #디저트 #소녀시대 #GirlsGeneration https://t.co/am2f94d5uu"
+	},
+	{
 		"created_at": "Fri Jul 31 05:07:09 +0000 2020",
 		"id": 1289055665860698000,
 		"id_str": "1289065037982765057",
