@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 01 06:44:57 +0000 2020",
+		"id": 1289444893006262300,
+		"id_str": "1289452039777312769",
+		"full_text": "😍😢🎂 love u &amp; thank u https://t.co/pre041UXgQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1289444876195516400,
+					"id_str": "1289444876195516417",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EeUHSHsU0AEcZ1u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeUHSHsU0AEcZ1u.jpg",
+					"url": "https://t.co/pre041UXgQ",
+					"display_url": "pic.twitter.com/pre041UXgQ",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1289444893006262272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289444876195516400,
+					"id_str": "1289444876195516417",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EeUHSHsU0AEcZ1u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeUHSHsU0AEcZ1u.jpg",
+					"url": "https://t.co/pre041UXgQ",
+					"display_url": "pic.twitter.com/pre041UXgQ",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1289444893006262272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1289444877063741400,
+					"id_str": "1289444877063741440",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/EeUHSK7U4AA0qkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeUHSK7U4AA0qkG.jpg",
+					"url": "https://t.co/pre041UXgQ",
+					"display_url": "pic.twitter.com/pre041UXgQ",
+					"expanded_url": "https://twitter.com/tiffanyyoung/status/1289444893006262272/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971130819518476300,
+			"id_str": "971130819518476289",
+			"name": "TIFFANY YOUNG",
+			"screen_name": "tiffanyyoung",
+			"location": "",
+			"description": "Magnetic Moon tour 🌙",
+			"url": "https://t.co/xa7LgNvdvH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xa7LgNvdvH",
+							"expanded_url": "http://tiffanyyoung.com/calendar",
+							"display_url": "tiffanyyoung.com/calendar",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 347828,
+			"friends_count": 175,
+			"listed_count": 774,
+			"created_at": "Tue Mar 06 21:10:04 +0000 2018",
+			"favourites_count": 2574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1169,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182329472395046912/UbnfsrAa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971130819518476289/1570724237",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7502,
+		"favorite_count": 13481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "😍😢🎂 love u &amp; thank u https://t.co/pre041UXgQ"
+	},
+	{
 		"created_at": "Sat Aug 01 03:05:27 +0000 2020",
 		"id": 1289396801112428500,
 		"id_str": "1289396801112428545",
