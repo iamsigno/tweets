@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 01:07:09 +0000 2020",
+		"id": 1290816047533064200,
+		"id_str": "1290816580016918533",
+		"full_text": "#13YearsWithGirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 \nhttps://t.co/YcjiTgH0OF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "13YearsWithGirlsGeneration",
+					"indices": [
+						0,
+						27
+					]
+				},
+				{
+					"text": "GirlsGeneration13thAnniversary",
+					"indices": [
+						28,
+						59
+					]
+				},
+				{
+					"text": "13SummersWithGG",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"text": "13년째_지금은_소녀시대",
+					"indices": [
+						77,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290658645546598400,
+					"id_str": "1290658645546598402",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EelXVGuWsAcPN-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EelXVGuWsAcPN-B.jpg",
+					"url": "https://t.co/YcjiTgH0OF",
+					"display_url": "pic.twitter.com/YcjiTgH0OF",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1290663788874620928/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1290663788874621000,
+					"source_status_id_str": "1290663788874620928",
+					"source_user_id": 391115625,
+					"source_user_id_str": "391115625"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290658645546598400,
+					"id_str": "1290658645546598402",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/EelXVGuWsAcPN-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EelXVGuWsAcPN-B.jpg",
+					"url": "https://t.co/YcjiTgH0OF",
+					"display_url": "pic.twitter.com/YcjiTgH0OF",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1290663788874620928/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1290663788874621000,
+					"source_status_id_str": "1290663788874620928",
+					"source_user_id": 391115625,
+					"source_user_id_str": "391115625",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 11567,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290658645546598402/vid/480x480/_uwJADtDZ5PQ5cXl.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290658645546598402/vid/720x720/ZBM8IhhYPxqkTHdF.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1290658645546598402/pl/KPvOMTFcwq78RP74.m3u8?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1290658645546598402/vid/320x320/bs3tjRaoamHg1Ynf.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 391115625,
+							"id_str": "391115625",
+							"name": "Girls' Generation",
+							"screen_name": "GirlsGeneration",
+							"location": "",
+							"description": "No.1 girl group, Girls’ Generation!",
+							"url": "http://t.co/6dDRF9Jo",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "http://t.co/6dDRF9Jo",
+											"expanded_url": "http://girlsgeneration.smtown.com/",
+											"display_url": "girlsgeneration.smtown.com",
+											"indices": [
+												0,
+												20
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3540966,
+							"friends_count": 4,
+							"listed_count": 5039,
+							"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+							"favourites_count": 29,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 2097,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "1C171E",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "EFEFEF",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": true,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82058,
+			"friends_count": 45,
+			"listed_count": 135,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#13YearsWithGirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 \nhttps://t.co/YcjiTgH0OF"
+	},
+	{
 		"created_at": "Tue Aug 04 15:52:33 +0000 2020",
 		"id": 1290677008616358000,
 		"id_str": "1290677008616357889",
