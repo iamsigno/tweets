@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 08:07:13 +0000 2020",
+		"id": 1290921417932906500,
+		"id_str": "1290922293850509312",
+		"full_text": "[VLIVE] VLIVE congratulates the 13th anniversary of Girls' Generation's debut!!🥳✨ \nPlease stay with VLIVE for a long time!💗\n\n▶️ https://t.co/SavrSy0u2n\n\n#소녀시대 #GirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 #VLIVE https://t.co/T45cTscclx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "GirlsGeneration13thAnniversary",
+					"indices": [
+						176,
+						207
+					]
+				},
+				{
+					"text": "13SummersWithGG",
+					"indices": [
+						208,
+						224
+					]
+				},
+				{
+					"text": "13년째_지금은_소녀시대",
+					"indices": [
+						225,
+						239
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						240,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SavrSy0u2n",
+					"expanded_url": "https://channels.vlive.tv/FD53B",
+					"display_url": "channels.vlive.tv/FD53B",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290921338316533800,
+					"id_str": "1290921338316533760",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EepGHhtUMAA9r46.png",
+					"media_url_https": "https://pbs.twimg.com/media/EepGHhtUMAA9r46.png",
+					"url": "https://t.co/T45cTscclx",
+					"display_url": "pic.twitter.com/T45cTscclx",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1290921417932906502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290921338316533800,
+					"id_str": "1290921338316533760",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/EepGHhtUMAA9r46.png",
+					"media_url_https": "https://pbs.twimg.com/media/EepGHhtUMAA9r46.png",
+					"url": "https://t.co/T45cTscclx",
+					"display_url": "pic.twitter.com/T45cTscclx",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1290921417932906502/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1290921312924217300,
+		"in_reply_to_status_id_str": "1290921312924217345",
+		"in_reply_to_user_id": 1459223742,
+		"in_reply_to_user_id_str": "1459223742",
+		"in_reply_to_screen_name": "Vliveofficial",
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4250585,
+			"friends_count": 167,
+			"listed_count": 1451,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 8,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[VLIVE] VLIVE congratulates the 13th anniversary of Girls' Generation's debut!!🥳✨ \nPlease stay with VLIVE for a long time!💗\n\n▶️ https://t.co/SavrSy0u2n\n\n#소녀시대 #GirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 #VLIVE https://t.co/T45cTscclx"
+	},
+	{
 		"created_at": "Wed Aug 05 06:07:16 +0000 2020",
 		"id": 1290886939223011300,
 		"id_str": "1290892106878210048",
