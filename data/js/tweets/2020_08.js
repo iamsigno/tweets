@@ -1,6 +1,854 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 05 06:07:16 +0000 2020",
+		"id": 1290886939223011300,
+		"id_str": "1290892106878210048",
+		"full_text": "TAEYEON X ZERO MD 🐶\n\nTAEYEON X ZERO MD - SPAO FRIENDS X SMTOWN &amp;STORE 동시 런칭했습니다. \nTAEYEON X ZERO MD를 5만원 이상 구매 시 선착순 한정 사은품 증정해 드립니다.💜\n\nhttps://t.co/uLQrm70TfL https://t.co/MFxPKCIfTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uLQrm70TfL",
+					"expanded_url": "https://bit.ly/3k6P2Hc",
+					"display_url": "bit.ly/3k6P2Hc",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290886553464500200,
+					"id_str": "1290886553464500225",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EeomeyCUcAEf4wL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeomeyCUcAEf4wL.jpg",
+					"url": "https://t.co/MFxPKCIfTN",
+					"display_url": "pic.twitter.com/MFxPKCIfTN",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1290886939223011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290886553464500200,
+					"id_str": "1290886553464500225",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/EeomeyCUcAEf4wL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeomeyCUcAEf4wL.jpg",
+					"url": "https://t.co/MFxPKCIfTN",
+					"display_url": "pic.twitter.com/MFxPKCIfTN",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1290886939223011328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65207,
+			"friends_count": 0,
+			"listed_count": 122,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 249,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON X ZERO MD 🐶\n\nTAEYEON X ZERO MD - SPAO FRIENDS X SMTOWN &amp;STORE 동시 런칭했습니다. \nTAEYEON X ZERO MD를 5만원 이상 구매 시 선착순 한정 사은품 증정해 드립니다.💜\n\nhttps://t.co/uLQrm70TfL https://t.co/MFxPKCIfTN"
+	},
+	{
+		"created_at": "Wed Aug 05 05:45:03 +0000 2020",
+		"id": 1290884988276285400,
+		"id_str": "1290886515720105984",
+		"full_text": "안녕, 13년전의 서현아 https://t.co/ROJzfS87q1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ROJzfS87q1",
+					"expanded_url": "https://www.instagram.com/p/CDfwYzDBYW6/?igshid=1iriuaq36p9j3",
+					"display_url": "instagram.com/p/CDfwYzDBYW6/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384416,
+			"friends_count": 31,
+			"listed_count": 2863,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 447,
+		"favorite_count": 864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안녕, 13년전의 서현아 https://t.co/ROJzfS87q1"
+	},
+	{
+		"created_at": "Wed Aug 05 05:44:57 +0000 2020",
+		"id": 1290878420734288000,
+		"id_str": "1290886490080325634",
+		"full_text": "항상 그 이상을 이뤄낼 수 있었던건 우리 서로의 믿음과 열정이 있었다고 생각해 그리고 우리 소원과의 믿음과 사랑이지 우헤헤 13주년 축하해!\n지•소, 앞•소, 영원히 소녀시대!💗\n아. \n#13YearsWithGirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 https://t.co/0CFxERdv4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "13YearsWithGirlsGeneration",
+					"indices": [
+						104,
+						131
+					]
+				},
+				{
+					"text": "GirlsGeneration13thAnniversary",
+					"indices": [
+						132,
+						163
+					]
+				},
+				{
+					"text": "13SummersWithGG",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"text": "13년째_지금은_소녀시대",
+					"indices": [
+						181,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1290878412769304600,
+					"id_str": "1290878412769304578",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1304,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290878412769304600,
+					"id_str": "1290878412769304578",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lVoAITrzy.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1043,
+							"h": 1304,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290878412769210400,
+					"id_str": "1290878412769210370",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lUMAIqXFq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lUMAIqXFq.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1290878412769210400,
+					"id_str": "1290878412769210369",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/EeofE7lUMAEAot6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeofE7lUMAEAot6.jpg",
+					"url": "https://t.co/0CFxERdv4U",
+					"display_url": "pic.twitter.com/0CFxERdv4U",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1290878420734287872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 797,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 452,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 809,
+							"h": 1218,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 792687101842186200,
+			"id_str": "792687101842186240",
+			"name": "Hyoyeon",
+			"screen_name": "Hyoyeon_djhyo",
+			"location": "K",
+			"description": "HyoYeon from Girls’ Generation DJ Hyo",
+			"url": "https://t.co/U9OPugEoAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U9OPugEoAv",
+							"expanded_url": "http://hyoyeon.smtown.com",
+							"display_url": "hyoyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228226,
+			"friends_count": 9,
+			"listed_count": 472,
+			"created_at": "Sun Oct 30 11:18:27 +0000 2016",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283064144585875459/dPooBWS4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283064144585875459/dPooBWS4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/792687101842186240/1594741306",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5085,
+		"favorite_count": 6898,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "항상 그 이상을 이뤄낼 수 있었던건 우리 서로의 믿음과 열정이 있었다고 생각해 그리고 우리 소원과의 믿음과 사랑이지 우헤헤 13주년 축하해!\n지•소, 앞•소, 영원히 소녀시대!💗\n아. \n#13YearsWithGirlsGeneration #GirlsGeneration13thAnniversary #13SummersWithGG #13년째_지금은_소녀시대 https://t.co/0CFxERdv4U"
+	},
+	{
+		"created_at": "Wed Aug 05 05:07:13 +0000 2020",
+		"id": 1290871340564545500,
+		"id_str": "1290876996457725952",
+		"full_text": "라인업🍰\n크래비티, 소녀시대, 더보이즈, 조승연, 우주소녀, 에이티즈, 뉴이스트, 베리베리, 스트레이키즈, 에이핑크, 모모랜드, TXT, TOO, 이달의소녀, 여자친구, 골든차일드, (여자)아이들, 원어스, 에이프릴, 펜타곤, 위키미키, SF9, 세븐틴, 아이즈원, 엔시티 드림, WayV, 엔시티 127 etc https://t.co/0qiJYdJc9X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0qiJYdJc9X",
+					"expanded_url": "https://twitter.com/allthekpop/status/1290836040962281472",
+					"display_url": "twitter.com/allthekpop/sta…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47438,
+			"friends_count": 2578,
+			"listed_count": 210,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 8016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1290836040962281500,
+		"quoted_status_id_str": "1290836040962281472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0qiJYdJc9X",
+			"expanded": "https://twitter.com/allthekpop/status/1290836040962281472",
+			"display": "twitter.com/allthekpop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 05 02:24:29 +0000 2020",
+			"id": 1290836040962281500,
+			"id_str": "1290836040962281472",
+			"full_text": "올케다방의 띵곡팔이👋🏻\n⏰PM 2:00~3:30\n\n8월 생일 모여라 （╹◡╹）💝 라이브 시작 전까지 유튜브 댓글로 최애의 축하멘트를 달아주세요‼️ 라이브 때 축하멘트가 펑҉!҉ 펑҉퍼҉엉҉퍼҉어҉어҉퍼҉҉퍼҉엉҉퍼҉!҉!҉\n\n▶https://t.co/sdMMM9O00s\n☝올케팝 유튜브 채널 알림설정하면 띵곡팔이 알림 딩동 https://t.co/ccKxlqi34N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sdMMM9O00s",
+						"expanded_url": "https://youtu.be/q856RjoDXoY",
+						"display_url": "youtu.be/q856RjoDXoY",
+						"indices": [
+							127,
+							150
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1290836034742186000,
+						"id_str": "1290836034742185985",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/Een4iNIU8AE42Iy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Een4iNIU8AE42Iy.jpg",
+						"url": "https://t.co/ccKxlqi34N",
+						"display_url": "pic.twitter.com/ccKxlqi34N",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1290836040962281472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1290836034742186000,
+						"id_str": "1290836034742185985",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/Een4iNIU8AE42Iy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Een4iNIU8AE42Iy.jpg",
+						"url": "https://t.co/ccKxlqi34N",
+						"display_url": "pic.twitter.com/ccKxlqi34N",
+						"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1290836040962281472/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744928926,
+				"id_str": "744928926",
+				"name": "올더케이팝",
+				"screen_name": "ALLTHEKPOP",
+				"location": "",
+				"description": "ALL about ID♡L, ALL THE K-POP",
+				"url": "https://t.co/YpjchEd2rf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YpjchEd2rf",
+								"expanded_url": "http://www.youtube.com/allthekpop",
+								"display_url": "youtube.com/allthekpop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47438,
+				"friends_count": 2578,
+				"listed_count": 210,
+				"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+				"favourites_count": 8016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5313,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 49,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "라인업🍰\n크래비티, 소녀시대, 더보이즈, 조승연, 우주소녀, 에이티즈, 뉴이스트, 베리베리, 스트레이키즈, 에이핑크, 모모랜드, TXT, TOO, 이달의소녀, 여자친구, 골든차일드, (여자)아이들, 원어스, 에이프릴, 펜타곤, 위키미키, SF9, 세븐틴, 아이즈원, 엔시티 드림, WayV, 엔시티 127 etc https://t.co/0qiJYdJc9X"
+	},
+	{
 		"created_at": "Wed Aug 05 02:44:57 +0000 2020",
 		"id": 1290827649837760500,
 		"id_str": "1290841192008224774",
