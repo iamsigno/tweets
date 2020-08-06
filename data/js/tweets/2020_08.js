@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 07:07:09 +0000 2020",
+		"id": 1291265058824024000,
+		"id_str": "1291269564072898561",
+		"full_text": "#라비 의 #퀘스천마크 에서 여러분의 물음표를 날려버린 분들✨ 비투비 #프니엘❕모델 #유리❕유키스 #수현 oppa ❕반갑고 명쾌한 만남이었습니다. 다들 우리 친절한 랍스트와 대화 나누러 오세요👋🏻 #NOW온에어 https://t.co/QJpKPaDbw4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라비",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "퀘스천마크",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "프니엘",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291265050452271000,
+					"id_str": "1291265050452271104",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eet-uNMVoAAelK3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eet-uNMVoAAelK3.jpg",
+					"url": "https://t.co/QJpKPaDbw4",
+					"display_url": "pic.twitter.com/QJpKPaDbw4",
+					"expanded_url": "https://twitter.com/kr_now/status/1291265058824024065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291265050452271000,
+					"id_str": "1291265050452271104",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eet-uNMVoAAelK3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eet-uNMVoAAelK3.jpg",
+					"url": "https://t.co/QJpKPaDbw4",
+					"display_url": "pic.twitter.com/QJpKPaDbw4",
+					"expanded_url": "https://twitter.com/kr_now/status/1291265058824024065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291265050447974400,
+					"id_str": "1291265050447974400",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eet-uNLUEAAeQFA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eet-uNLUEAAeQFA.jpg",
+					"url": "https://t.co/QJpKPaDbw4",
+					"display_url": "pic.twitter.com/QJpKPaDbw4",
+					"expanded_url": "https://twitter.com/kr_now/status/1291265058824024065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 420,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 742,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1266,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1291265050460618800,
+					"id_str": "1291265050460618752",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/Eet-uNOVAAAjaap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eet-uNOVAAAjaap.jpg",
+					"url": "https://t.co/QJpKPaDbw4",
+					"display_url": "pic.twitter.com/QJpKPaDbw4",
+					"expanded_url": "https://twitter.com/kr_now/status/1291265058824024065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버 앱에서 온에어되는 24HRS LIVE SHOW",
+			"url": "https://t.co/Z1jZgnEJk6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z1jZgnEJk6",
+							"expanded_url": "http://now.naver.com/listen",
+							"display_url": "now.naver.com/listen",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47940,
+			"friends_count": 1,
+			"listed_count": 81,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 66,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1589334764",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#라비 의 #퀘스천마크 에서 여러분의 물음표를 날려버린 분들✨ 비투비 #프니엘❕모델 #유리❕유키스 #수현 oppa ❕반갑고 명쾌한 만남이었습니다. 다들 우리 친절한 랍스트와 대화 나누러 오세요👋🏻 #NOW온에어 https://t.co/QJpKPaDbw4"
+	},
+	{
 		"created_at": "Thu Aug 06 05:52:12 +0000 2020",
 		"id": 1291250702677880800,
 		"id_str": "1291250702677880834",
