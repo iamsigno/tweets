@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 01:07:09 +0000 2020",
+		"id": 1291169618027884500,
+		"id_str": "1291178968155136000",
+		"full_text": "[유희열의 #스케치북 선공개] \n#강다니엘 #인터뷰 선공개 영상❤ \n태연한척 해보려 해도 넘 좋자나흐극흑 \n▶매주 금요일 오후 11시 20분 방송◀ https://t.co/SyLWtvVp32",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스케치북",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "인터뷰",
+					"indices": [
+						24,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1291152737191698400,
+					"id_str": "1291152737191698432",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Eesb0u6UwAAay9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eesb0u6UwAAay9j.jpg",
+					"url": "https://t.co/SyLWtvVp32",
+					"display_url": "pic.twitter.com/SyLWtvVp32",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1291169618027884544/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 844,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 474,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1291152737191698400,
+					"id_str": "1291152737191698432",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Eesb0u6UwAAay9j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eesb0u6UwAAay9j.jpg",
+					"url": "https://t.co/SyLWtvVp32",
+					"display_url": "pic.twitter.com/SyLWtvVp32",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1291169618027884544/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 474,
+							"h": 844,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 474,
+							"h": 844,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							71
+						],
+						"duration_millis": 208363,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291152737191698432/vid/360x638/J690m9Th3qNkFWgL.mp4?tag=13"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291152737191698432/vid/320x568/3aojazVF2Nltd1Gk.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1291152737191698432/vid/480x852/cTvR6j4MLqxboAXE.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1291152737191698432/pl/fRfRlE74TYicJp3X.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1080513,
+			"friends_count": 59133,
+			"listed_count": 2006,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1593483753",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 737,
+		"favorite_count": 815,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유희열의 #스케치북 선공개] \n#강다니엘 #인터뷰 선공개 영상❤ \n태연한척 해보려 해도 넘 좋자나흐극흑 \n▶매주 금요일 오후 11시 20분 방송◀ https://t.co/SyLWtvVp32"
+	},
+	{
 		"created_at": "Wed Aug 05 10:07:10 +0000 2020",
 		"id": 1290939925202735000,
 		"id_str": "1290952478398255104",
