@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 09 10:07:09 +0000 2020",
+		"id": 1292400354617725000,
+		"id_str": "1292402026467467272",
+		"full_text": "[#아이돌라디오 핫차트 #아핫!] \n8월 1주\n\n#IDOLRADIO #에이티즈 #ATEEZ #소녀시대 #GirlsGeneration #원팀 #1TEAM #태민 #TAEMIN #홍은기 #eunki #백현 #BAEKHYUN #틴탑 #니엘 #에이핑크 #김남주 #HnD #남도현 #싹쓰리 #린다G #산들 #SANDEUL #레드벨벳_아이린_슬기 #RedVelvet_IRENE_SEULGI #코요태 https://t.co/KzTrp0KDo8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌라디오",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "아핫",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "IDOLRADIO",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"text": "에이티즈",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "ATEEZ",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"text": "원팀",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "1TEAM",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "태민",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"text": "홍은기",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "eunki",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "백현",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						113,
+						122
+					]
+				},
+				{
+					"text": "틴탑",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "니엘",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "에이핑크",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "김남주",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "HnD",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "남도현",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "싹쓰리",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "린다G",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "산들",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "SANDEUL",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "레드벨벳_아이린_슬기",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"text": "RedVelvet_IRENE_SEULGI",
+					"indices": [
+						188,
+						211
+					]
+				},
+				{
+					"text": "코요태",
+					"indices": [
+						212,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1292399895081435100,
+					"id_str": "1292399895081435138",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee-G224UwAIkN3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee-G224UwAIkN3U.jpg",
+					"url": "https://t.co/KzTrp0KDo8",
+					"display_url": "pic.twitter.com/KzTrp0KDo8",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1292400354617724928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1292399895081435100,
+					"id_str": "1292399895081435138",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Ee-G224UwAIkN3U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ee-G224UwAIkN3U.jpg",
+					"url": "https://t.co/KzTrp0KDo8",
+					"display_url": "pic.twitter.com/KzTrp0KDo8",
+					"expanded_url": "https://twitter.com/idolradiokorea/status/1292400354617724928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1012698432757100500,
+			"id_str": "1012698432757100545",
+			"name": "MBC 아이돌라디오 (공식계정)",
+			"screen_name": "idolradiokorea",
+			"location": "최애찾아삼만리",
+			"description": "MBC라디오에서 아이돌을 맡고 있습니다🙋🏼‍♂️ \n📬문자 사연 보내실 곳 #8003(짧은 문자는 50원,긴 문자는 100원)",
+			"url": "https://t.co/0Qk1bqT7Yn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0Qk1bqT7Yn",
+							"expanded_url": "https://m.youtube.com/channel/UCSG0f3bvUvbSle58ETp9z2w",
+							"display_url": "m.youtube.com/channel/UCSG0f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90158,
+			"friends_count": 5,
+			"listed_count": 220,
+			"created_at": "Fri Jun 29 14:04:56 +0000 2018",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016573886492626944/pEFMJxyt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1012698432757100545/1530630332",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌라디오 핫차트 #아핫!] \n8월 1주\n\n#IDOLRADIO #에이티즈 #ATEEZ #소녀시대 #GirlsGeneration #원팀 #1TEAM #태민 #TAEMIN #홍은기 #eunki #백현 #BAEKHYUN #틴탑 #니엘 #에이핑크 #김남주 #HnD #남도현 #싹쓰리 #린다G #산들 #SANDEUL #레드벨벳_아이린_슬기 #RedVelvet_IRENE_SEULGI #코요태 https://t.co/KzTrp0KDo8"
+	},
+	{
 		"created_at": "Sat Aug 08 01:44:57 +0000 2020",
 		"id": 1291898857777922000,
 		"id_str": "1291913256022560770",
