@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 04:07:12 +0000 2020",
+		"id": 1293034589791768600,
+		"id_str": "1293036216515014656",
+		"full_text": "소녀시대 효연 x 태연 디저트 댄스\n\n👉 TikTok 효연 공식 계정 바로 가기: https://t.co/M4bBlTJeVD\n\n#틱톡 #dessertdancechallenge #dessertdance #dessert #디저트 #태연 #효연 #TikTok https://t.co/jkezap71P7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "틱톡",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "dessertdancechallenge",
+					"indices": [
+						75,
+						97
+					]
+				},
+				{
+					"text": "dessertdance",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "dessert",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "디저트",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "TikTok",
+					"indices": [
+						134,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M4bBlTJeVD",
+					"expanded_url": "https://vt.tiktok.com/yA83oW/",
+					"display_url": "vt.tiktok.com/yA83oW/",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293034516315947000,
+					"id_str": "1293034516315947008",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293034516315947008/pu/img/P6LVNawz0_ieZ_8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293034516315947008/pu/img/P6LVNawz0_ieZ_8m.jpg",
+					"url": "https://t.co/jkezap71P7",
+					"display_url": "pic.twitter.com/jkezap71P7",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1293034589791768578/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 578,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 578,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293034516315947000,
+					"id_str": "1293034516315947008",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293034516315947008/pu/img/P6LVNawz0_ieZ_8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293034516315947008/pu/img/P6LVNawz0_ieZ_8m.jpg",
+					"url": "https://t.co/jkezap71P7",
+					"display_url": "pic.twitter.com/jkezap71P7",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1293034589791768578/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 578,
+							"h": 1022,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 578,
+							"h": 1022,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							289,
+							511
+						],
+						"duration_millis": 14648,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293034516315947008/pu/vid/360x636/YaM_lmNBXqkTWPjg.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293034516315947008/pu/vid/578x1022/TihKGPyuWx21T4v0.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1293034516315947008/pu/pl/S8FiWkATm3ONhQvq.m3u8?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1293034516315947008/pu/vid/320x564/x_L4Dgt7M8y7jtSx.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.smartpost.kr/\" rel=\"nofollow\">smartpost.kr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "짧아서 확실한 행복, 숏.확.행 \nReal People. Real Videos.",
+			"url": "https://t.co/JUSOaPuchF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JUSOaPuchF",
+							"expanded_url": "https://www.tiktok.com/ko/",
+							"display_url": "tiktok.com/ko/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183893,
+			"friends_count": 495,
+			"listed_count": 79,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1087944986509881345/qZi1Fn-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087944986509881345/qZi1Fn-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1580959453",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 효연 x 태연 디저트 댄스\n\n👉 TikTok 효연 공식 계정 바로 가기: https://t.co/M4bBlTJeVD\n\n#틱톡 #dessertdancechallenge #dessertdance #dessert #디저트 #태연 #효연 #TikTok https://t.co/jkezap71P7"
+	},
+	{
 		"created_at": "Tue Aug 11 01:52:16 +0000 2020",
 		"id": 1293002262415937500,
 		"id_str": "1293002262415937538",
