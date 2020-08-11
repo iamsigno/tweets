@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 11 13:07:11 +0000 2020",
+		"id": 1293169505284157400,
+		"id_str": "1293172108412018689",
+		"full_text": "สัมภาษณ์พิเศษ 'HYO' กับการคัมแบคพร้อมความสนุกสนาน ในผลงานซิงเกิลใหม่ 'DESSERT'✨\n\n#HYO #효연 #DJ_HYO #HYO_DESSERT #Hyoyeon #SNSD \nhttps://t.co/wMWXUqxCBx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "HYO_DESSERT",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "Hyoyeon",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wMWXUqxCBx",
+					"expanded_url": "https://bit.ly/3fTFpsk",
+					"display_url": "bit.ly/3fTFpsk",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1430980567,
+			"id_str": "1430980567",
+			"name": "Korseries.com",
+			"screen_name": "Korseries",
+			"location": "Thailand",
+			"description": "🇰🇷อัปเดตข่าวบันเทิงเกาหลี . Highlight & Breaking News✨ เน้นซีรีส์-ภาพยนตร์-นักแสดง และยังมี K-Pop ด้วย📌 ติดต่อผ่าน Email : admin@korseries.com",
+			"url": "https://t.co/KyAeGZGgYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KyAeGZGgYA",
+							"expanded_url": "https://korseries.com",
+							"display_url": "korseries.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1560887,
+			"friends_count": 488,
+			"listed_count": 149,
+			"created_at": "Wed May 15 16:46:40 +0000 2013",
+			"favourites_count": 18963,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999665990060261376/PJ-AhGY8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999665990060261376/PJ-AhGY8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1430980567/1586881358",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "สัมภาษณ์พิเศษ 'HYO' กับการคัมแบคพร้อมความสนุกสนาน ในผลงานซิงเกิลใหม่ 'DESSERT'✨\n\n#HYO #효연 #DJ_HYO #HYO_DESSERT #Hyoyeon #SNSD \nhttps://t.co/wMWXUqxCBx"
+	},
+	{
+		"created_at": "Tue Aug 11 13:07:09 +0000 2020",
+		"id": 1293156308519211000,
+		"id_str": "1293172099490742273",
+		"full_text": "คุยกับ #HYO ถึงเพลงใหม่ ฉลองครบรอบ 13 ปีกับ #GIRLSGENERATION ประสบการณ์ดีเจในเทศกาลดนตรีไทยครั้งแรก และสิ่งที่ได้เรียนรู้จากรายการ Good Girl\n\n#SanookMusic #SanookInterview #효연 #DJ_HYO #GirlsGeneration13Anniversary #13YearsWithGirlsGeneration ... https://t.co/LmTaMGjdsW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "GIRLSGENERATION",
+					"indices": [
+						44,
+						60
+					]
+				},
+				{
+					"text": "SanookMusic",
+					"indices": [
+						142,
+						154
+					]
+				},
+				{
+					"text": "SanookInterview",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "DJ_HYO",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "GirlsGeneration13Anniversary",
+					"indices": [
+						184,
+						213
+					]
+				},
+				{
+					"text": "13YearsWithGirlsGeneration",
+					"indices": [
+						214,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LmTaMGjdsW",
+					"expanded_url": "https://www.sanook.com/music/2423277/?utm_echo=echobox&utm_medium=Social&utm_source=Twitter#Echobox=1597146575",
+					"display_url": "sanook.com/music/2423277/…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23032702,
+			"id_str": "23032702",
+			"name": "Sanook.com",
+			"screen_name": "Sanook",
+			"location": "Bangkok, Thailand",
+			"description": "ครบทุกเรื่องเพื่อทุกคน",
+			"url": "https://t.co/zxpkohwFwn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zxpkohwFwn",
+							"expanded_url": "http://www.sanook.com",
+							"display_url": "sanook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183281,
+			"friends_count": 757,
+			"listed_count": 596,
+			"created_at": "Fri Mar 06 04:57:25 +0000 2009",
+			"favourites_count": 417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 334739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFD9DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277934120329310211/lywARadF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277934120329310211/lywARadF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23032702/1584700454",
+			"profile_link_color": "B80600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEBEB",
+			"profile_text_color": "4F4F4F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "คุยกับ #HYO ถึงเพลงใหม่ ฉลองครบรอบ 13 ปีกับ #GIRLSGENERATION ประสบการณ์ดีเจในเทศกาลดนตรีไทยครั้งแรก และสิ่งที่ได้เรียนรู้จากรายการ Good Girl\n\n#SanookMusic #SanookInterview #효연 #DJ_HYO #GirlsGeneration13Anniversary #13YearsWithGirlsGeneration ... https://t.co/LmTaMGjdsW"
+	},
+	{
 		"created_at": "Tue Aug 11 10:07:13 +0000 2020",
 		"id": 1293124848906981400,
 		"id_str": "1293126817528913920",
