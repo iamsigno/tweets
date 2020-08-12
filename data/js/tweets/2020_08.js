@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 07:07:09 +0000 2020",
+		"id": 1293219417170616300,
+		"id_str": "1293443889949483008",
+		"full_text": "Olha que demais! A @Hyoyeon_djhyo respondeu a gente. Ela disse que sempre sonhou conhecer o Brasil e os fãs daqui e ainda prometeu vir um dia! 💚 https://t.co/NKuCA62k37",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						19,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NKuCA62k37",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1293153468010528770",
+					"display_url": "twitter.com/GirlsGeneratio…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 365658152,
+			"id_str": "365658152",
+			"name": "Spotify Brasil",
+			"screen_name": "SpotifyBR",
+			"location": "Brasil",
+			"description": "A gente celebra a música pra você ficar mais perto dela. Dúvidas? É só falar com o pessoal do @SpotifyAjuda. 🙌",
+			"url": "http://t.co/pUeLvJg4Co",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/pUeLvJg4Co",
+							"expanded_url": "http://spoti.fi/brasilTW",
+							"display_url": "spoti.fi/brasilTW",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206429,
+			"friends_count": 812,
+			"listed_count": 292,
+			"created_at": "Wed Aug 31 20:18:08 +0000 2011",
+			"favourites_count": 4532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14500,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/997464300863143938/Bc11NeEu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/997464300863143938/Bc11NeEu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/365658152/1592517485",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1293153468010528800,
+		"quoted_status_id_str": "1293153468010528770",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NKuCA62k37",
+			"expanded": "https://twitter.com/GirlsGeneration/status/1293153468010528770",
+			"display": "twitter.com/GirlsGeneratio…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 11 11:53:07 +0000 2020",
+			"id": 1293153468010528800,
+			"id_str": "1293153468010528770",
+			"full_text": "Q: #AskHYO Do you want to visit Brazil? Send a special message to the brazilian fandom, please. We &lt;3 you.\n- @SpotifyBR\n\nA: #HYO #TwitterBlueroom💙👇 https://t.co/ZMXPMEcJ7J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				150
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AskHYO",
+						"indices": [
+							3,
+							10
+						]
+					},
+					{
+						"text": "HYO",
+						"indices": [
+							127,
+							131
+						]
+					},
+					{
+						"text": "TwitterBlueroom",
+						"indices": [
+							132,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SpotifyBR",
+						"name": "Spotify Brasil",
+						"id": 365658152,
+						"id_str": "365658152",
+						"indices": [
+							112,
+							122
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1293153422548455400,
+						"id_str": "1293153422548455424",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+						"url": "https://t.co/ZMXPMEcJ7J",
+						"display_url": "pic.twitter.com/ZMXPMEcJ7J",
+						"expanded_url": "https://twitter.com/GirlsGeneration/status/1293153468010528770/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1293153422548455400,
+						"id_str": "1293153422548455424",
+						"indices": [
+							151,
+							174
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1293153422548455424/img/VD8Hw8wU6aPVr73e.jpg",
+						"url": "https://t.co/ZMXPMEcJ7J",
+						"display_url": "pic.twitter.com/ZMXPMEcJ7J",
+						"expanded_url": "https://twitter.com/GirlsGeneration/status/1293153468010528770/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 20267,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1293153422548455424/vid/720x720/LoY7pnrwRGBS_02g.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1293153422548455424/vid/320x320/H1xY_XAJLQ-BSBnN.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1293153422548455424/vid/480x480/4ArYeHJius-x2wXx.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1293153422548455424/pl/Py7j08VIFXzqPBkP.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://media.twitter.com\" rel=\"nofollow\">Twitter VIT App for iOS</a>",
+			"in_reply_to_status_id": 1293150642630832000,
+			"in_reply_to_status_id_str": "1293150642630832128",
+			"in_reply_to_user_id": 391115625,
+			"in_reply_to_user_id_str": "391115625",
+			"in_reply_to_screen_name": "GirlsGeneration",
+			"user": {
+				"id": 391115625,
+				"id_str": "391115625",
+				"name": "Girls' Generation",
+				"screen_name": "GirlsGeneration",
+				"location": "",
+				"description": "No.1 girl group, Girls’ Generation!",
+				"url": "http://t.co/6dDRF9Jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6dDRF9Jo",
+								"expanded_url": "http://girlsgeneration.smtown.com/",
+								"display_url": "girlsgeneration.smtown.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3541503,
+				"friends_count": 4,
+				"listed_count": 5037,
+				"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+				"favourites_count": 35,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2111,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C171E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1201,
+			"favorite_count": 3360,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 279,
+		"favorite_count": 819,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "pt",
+		"text": "Olha que demais! A @Hyoyeon_djhyo respondeu a gente. Ela disse que sempre sonhou conhecer o Brasil e os fãs daqui e ainda prometeu vir um dia! 💚 https://t.co/NKuCA62k37"
+	},
+	{
 		"created_at": "Wed Aug 12 05:07:08 +0000 2020",
 		"id": 1293413206296158200,
 		"id_str": "1293413690759417859",
