@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 05:07:08 +0000 2020",
+		"id": 1293413206296158200,
+		"id_str": "1293413690759417859",
+		"full_text": "속고 속이는 사기꾼들의 세계\n그 누구도 믿을 수 없다!\n\n사기캐들의 현실생활 〈#사생활〉 \n9월 16일 수요일 밤 9시 30분 첫 방송💸\n\n#서현 #고경표 #김효진 #김영민 #태원석 https://t.co/92GQJhnNTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "태원석",
+					"indices": [
+						97,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293410079178293200,
+					"id_str": "1293410079178293248",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EfMgW1cUcAAR9i9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfMgW1cUcAAR9i9.jpg",
+					"url": "https://t.co/92GQJhnNTS",
+					"display_url": "pic.twitter.com/92GQJhnNTS",
+					"expanded_url": "https://twitter.com/jtbclove/status/1293413206296158208/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293410079178293200,
+					"id_str": "1293410079178293248",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EfMgW1cUcAAR9i9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfMgW1cUcAAR9i9.jpg",
+					"url": "https://t.co/92GQJhnNTS",
+					"display_url": "pic.twitter.com/92GQJhnNTS",
+					"expanded_url": "https://twitter.com/jtbclove/status/1293413206296158208/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1293410079178293248/pl/hKmwVvr8cYNYx7w5.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293410079178293248/vid/640x360/vI9WYUCL46vuuL7T.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293410079178293248/vid/1280x720/2leLEy0xx96fymf5.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293410079178293248/vid/480x270/dtNuVD-EFrPWIjGU.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 티저1! 난 조작한다, 사생활을… 행복해지기 위해서 9월 16일(수) 첫 방송!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/teaser/pr10011229"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 436908,
+			"friends_count": 110,
+			"listed_count": 625,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "속고 속이는 사기꾼들의 세계\n그 누구도 믿을 수 없다!\n\n사기캐들의 현실생활 〈#사생활〉 \n9월 16일 수요일 밤 9시 30분 첫 방송💸\n\n#서현 #고경표 #김효진 #김영민 #태원석 https://t.co/92GQJhnNTS"
+	},
+	{
 		"created_at": "Wed Aug 12 04:07:09 +0000 2020",
 		"id": 1293396793158512600,
 		"id_str": "1293398591445368833",
