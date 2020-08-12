@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 12 04:07:09 +0000 2020",
+		"id": 1293396793158512600,
+		"id_str": "1293398591445368833",
+		"full_text": "[#PopsinSeoul] Dance How To X DESSERT🍒\n\n#병관 이가 알려주는 \n#효연 의 #DESSERT💗   \n\nYT 👉 https://t.co/Wzrwhj9fgB\n\n#ACE #에이스 \n@official_ACE7 https://t.co/wJBrfyz8vL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PopsinSeoul",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "병관",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "ACE",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "에이스",
+					"indices": [
+						108,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_ACE7",
+					"name": "official A.C.E",
+					"id": 861579438244241400,
+					"id_str": "861579438244241411",
+					"indices": [
+						114,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wzrwhj9fgB",
+					"expanded_url": "https://bit.ly/2PDYP9I",
+					"display_url": "bit.ly/2PDYP9I",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293094591915155500,
+					"id_str": "1293094591915155457",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EfH_65BVAAI1F8g.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfH_65BVAAI1F8g.png",
+					"url": "https://t.co/wJBrfyz8vL",
+					"display_url": "pic.twitter.com/wJBrfyz8vL",
+					"expanded_url": "https://twitter.com/PLAY_K_ROUND/status/1293396793158512640/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293094591915155500,
+					"id_str": "1293094591915155457",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/EfH_65BVAAI1F8g.png",
+					"media_url_https": "https://pbs.twimg.com/media/EfH_65BVAAI1F8g.png",
+					"url": "https://t.co/wJBrfyz8vL",
+					"display_url": "pic.twitter.com/wJBrfyz8vL",
+					"expanded_url": "https://twitter.com/PLAY_K_ROUND/status/1293396793158512640/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 880,
+							"h": 495,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 245479,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1293094591915155457/pl/c0sv-PEmlYxDLer-.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293094591915155457/vid/640x360/LzOp8xrZwrJu9kRZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293094591915155457/vid/480x270/5oJONpGjMeqYXrde.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1293094591915155457/vid/1280x720/2Xni0m8jyPUnvJjm.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204659086215671800,
+			"id_str": "1204659086215671808",
+			"name": "K-ROUND",
+			"screen_name": "PLAY_K_ROUND",
+			"location": "",
+			"description": "Playground for K-Pop Fans All Around the World! [official]\n전 세계 K-POP 팬들의 덕질 놀이터, K-ROUND",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5909,
+			"friends_count": 2,
+			"listed_count": 48,
+			"created_at": "Wed Dec 11 07:08:16 +0000 2019",
+			"favourites_count": 96,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204659086215671808/1577751796",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#PopsinSeoul] Dance How To X DESSERT🍒\n\n#병관 이가 알려주는 \n#효연 의 #DESSERT💗   \n\nYT 👉 https://t.co/Wzrwhj9fgB\n\n#ACE #에이스 \n@official_ACE7 https://t.co/wJBrfyz8vL"
+	},
+	{
 		"created_at": "Wed Aug 12 03:07:09 +0000 2020",
 		"id": 1293372107800232000,
 		"id_str": "1293383492315873283",
