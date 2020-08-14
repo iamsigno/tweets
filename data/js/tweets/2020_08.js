@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 10:07:08 +0000 2020",
+		"id": 1294212171442913300,
+		"id_str": "1294213963287277568",
+		"full_text": "[#청담Key친 I CHEONGDAM KEYchin] ep3-1 \n게스트 '#태연'을 위한 요리! '새우 감바스 &amp; 데빌드 에그'\n\n3회 게스트는 천상의 보이스 #소녀시대 '태연❤️'!\n\n👉https://t.co/CiLfw5aG9J\n\n매주 금요일 SM C&amp;C STUDIO 에서 만나요🍽\n\n#CHEONGDAM #Key #샤이니 #SHINee #SMCC_STUDIO https://t.co/IKsJ30bUYk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청담Key친",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "CHEONGDAM",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "Key",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						198,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CiLfw5aG9J",
+					"expanded_url": "https://youtu.be/fKYv_mTi2yA",
+					"display_url": "youtu.be/fKYv_mTi2yA",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1293763718476529700,
+					"id_str": "1293763718476529669",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EfRfP08VAAUamFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfRfP08VAAUamFv.jpg",
+					"url": "https://t.co/IKsJ30bUYk",
+					"display_url": "pic.twitter.com/IKsJ30bUYk",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1294212171442913282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293763718476529700,
+					"id_str": "1293763718476529669",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/EfRfP08VAAUamFv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfRfP08VAAUamFv.jpg",
+					"url": "https://t.co/IKsJ30bUYk",
+					"display_url": "pic.twitter.com/IKsJ30bUYk",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1294212171442913282/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8939,
+			"friends_count": 0,
+			"listed_count": 29,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청담Key친 I CHEONGDAM KEYchin] ep3-1 \n게스트 '#태연'을 위한 요리! '새우 감바스 &amp; 데빌드 에그'\n\n3회 게스트는 천상의 보이스 #소녀시대 '태연❤️'!\n\n👉https://t.co/CiLfw5aG9J\n\n매주 금요일 SM C&amp;C STUDIO 에서 만나요🍽\n\n#CHEONGDAM #Key #샤이니 #SHINee #SMCC_STUDIO https://t.co/IKsJ30bUYk"
+	},
+	{
 		"created_at": "Fri Aug 14 04:07:09 +0000 2020",
 		"id": 1294121571091718100,
 		"id_str": "1294123367105167361",
