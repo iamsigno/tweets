@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 01:07:09 +0000 2020",
+		"id": 1294438658708328400,
+		"id_str": "1294440457074806785",
+		"full_text": "비주얼 실력 빠지는게 없는\n트레저에 올인할게요😍\n\n#SBS인기가요\n☞ 일요일 오후 3시 50분 방송\n\n#인기가요라인업 #200816출연자 #박진영 #선미 #HYOYEON #에이프릴 #제시 #한승우 #강다니엘 #여자아이들 #온앤오프 #ATEEZ #체리블렛 #TREASURE #로켓펀치 #브레이브걸스 #세러데이 #ENOI #HEDY #루시 https://t.co/T41PrhurcU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS인기가요",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "인기가요라인업",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"text": "200816출연자",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "박진영",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "제시",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "한승우",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "ATEEZ",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "체리블렛",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "TREASURE",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "로켓펀치",
+					"indices": [
+						152,
+						157
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "세러데이",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "ENOI",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "HEDY",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "루시",
+					"indices": [
+						184,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294150573306949600,
+					"id_str": "1294150573306949633",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfW_FvfUMAE45FR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfW_FvfUMAE45FR.jpg",
+					"url": "https://t.co/T41PrhurcU",
+					"display_url": "pic.twitter.com/T41PrhurcU",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1294438658708328449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294150573306949600,
+					"id_str": "1294150573306949633",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfW_FvfUMAE45FR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfW_FvfUMAE45FR.jpg",
+					"url": "https://t.co/T41PrhurcU",
+					"display_url": "pic.twitter.com/T41PrhurcU",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1294438658708328449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1294150573302755300,
+					"id_str": "1294150573302755335",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EfW_FveUMAcFsjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfW_FveUMAcFsjv.jpg",
+					"url": "https://t.co/T41PrhurcU",
+					"display_url": "pic.twitter.com/T41PrhurcU",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1294438658708328449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 810,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584481,
+			"friends_count": 5267,
+			"listed_count": 2781,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1592182957",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "비주얼 실력 빠지는게 없는\n트레저에 올인할게요😍\n\n#SBS인기가요\n☞ 일요일 오후 3시 50분 방송\n\n#인기가요라인업 #200816출연자 #박진영 #선미 #HYOYEON #에이프릴 #제시 #한승우 #강다니엘 #여자아이들 #온앤오프 #ATEEZ #체리블렛 #TREASURE #로켓펀치 #브레이브걸스 #세러데이 #ENOI #HEDY #루시 https://t.co/T41PrhurcU"
+	},
+	{
 		"created_at": "Fri Aug 14 10:07:08 +0000 2020",
 		"id": 1294212171442913300,
 		"id_str": "1294213963287277568",
