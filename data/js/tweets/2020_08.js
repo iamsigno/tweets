@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 02:07:09 +0000 2020",
+		"id": 1295528674163224600,
+		"id_str": "1295542719931125760",
+		"full_text": "200815 🔍[예능연구소 세로캠]\n#쇼음악중심 #음중 #HYO #효연 #DESSERT @GirlsGeneration\n\n바로가기 ▶ https://t.co/OoZ1v7rfbT https://t.co/R9SAvZrOyw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "DESSERT",
+					"indices": [
+						40,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OoZ1v7rfbT",
+					"expanded_url": "https://youtu.be/iNZmPGYvqDA",
+					"display_url": "youtu.be/iNZmPGYvqDA",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295528642068377600,
+					"id_str": "1295528642068377601",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Efqkb5rUcAEq1Nh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efqkb5rUcAEq1Nh.jpg",
+					"url": "https://t.co/R9SAvZrOyw",
+					"display_url": "pic.twitter.com/R9SAvZrOyw",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1295528674163224576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295528642068377600,
+					"id_str": "1295528642068377601",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/Efqkb5rUcAEq1Nh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efqkb5rUcAEq1Nh.jpg",
+					"url": "https://t.co/R9SAvZrOyw",
+					"display_url": "pic.twitter.com/R9SAvZrOyw",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1295528674163224576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818346,
+			"friends_count": 5,
+			"listed_count": 765,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13158,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "200815 🔍[예능연구소 세로캠]\n#쇼음악중심 #음중 #HYO #효연 #DESSERT @GirlsGeneration\n\n바로가기 ▶ https://t.co/OoZ1v7rfbT https://t.co/R9SAvZrOyw"
+	},
+	{
 		"created_at": "Mon Aug 17 07:07:08 +0000 2020",
 		"id": 1295254034207531000,
 		"id_str": "1295255829004812288",
