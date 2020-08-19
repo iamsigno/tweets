@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 03:07:08 +0000 2020",
+		"id": 1295918882683670500,
+		"id_str": "1295920206355849216",
+		"full_text": "JTBC &lt;사생활&gt; 장르가 혹시 판타지인가 하는 합리적 의심중🤔\n서현X효진 배우 비주얼이 사기를 넘어 판타지인데요\n\n▶ https://t.co/CJ0toS5Tuv\n\n#서현 #김효진 #JTBC #사생활 #2차티저 #차주은 #정복기 #9월16일 #첫방송 #Seohyun #Kimhyojin https://t.co/GNyfi0N3SV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "2차티저",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "9월16일",
+					"indices": [
+						134,
+						140
+					]
+				},
+				{
+					"text": "첫방송",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						155,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CJ0toS5Tuv",
+					"expanded_url": "https://youtu.be/l_ECHYH2h0g",
+					"display_url": "youtu.be/l_ECHYH2h0g",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295918857278779400,
+					"id_str": "1295918857278779393",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfwHVanU8AEHFHl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfwHVanU8AEHFHl.jpg",
+					"url": "https://t.co/GNyfi0N3SV",
+					"display_url": "pic.twitter.com/GNyfi0N3SV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1295918882683670528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295918857278779400,
+					"id_str": "1295918857278779393",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfwHVanU8AEHFHl.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfwHVanU8AEHFHl.jpg",
+					"url": "https://t.co/GNyfi0N3SV",
+					"display_url": "pic.twitter.com/GNyfi0N3SV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1295918882683670528/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EfwHVanU8AEHFHl.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30686,
+			"friends_count": 12,
+			"listed_count": 183,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "JTBC &lt;사생활&gt; 장르가 혹시 판타지인가 하는 합리적 의심중🤔\n서현X효진 배우 비주얼이 사기를 넘어 판타지인데요\n\n▶ https://t.co/CJ0toS5Tuv\n\n#서현 #김효진 #JTBC #사생활 #2차티저 #차주은 #정복기 #9월16일 #첫방송 #Seohyun #Kimhyojin https://t.co/GNyfi0N3SV"
+	},
+	{
 		"created_at": "Tue Aug 18 09:07:09 +0000 2020",
 		"id": 1295646618297852000,
 		"id_str": "1295648416035418117",
