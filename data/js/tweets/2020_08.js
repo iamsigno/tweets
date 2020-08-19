@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 09:07:09 +0000 2020",
+		"id": 1296010635214381000,
+		"id_str": "1296010804634976256",
+		"full_text": "드디어 탱퓨 2탄이!!!! ʕ•̀ω•́ʔ\n저는 새벽 1시 전 잠자리에 들어서 일어나자마자 자동으로 요 사진들을 봐요\n#탱언니 #인터뷰인용\n-\n💚 청태연\n🖤 흑태연\n❤️ 핑태연\n-\n다른 컷들 빨리 풀고 싶어서 손이 그릉그릉(ฅ•ω•ฅ)\n-\n#마데카소사이드크림2엑스\n#본투비매드프루프브로우카라\n#산뽕나무잡티앰플 https://t.co/V69k5Jgjh9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱언니",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "인터뷰인용",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "마데카소사이드크림2엑스",
+					"indices": [
+						133,
+						146
+					]
+				},
+				{
+					"text": "본투비매드프루프브로우카라",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"text": "산뽕나무잡티앰플",
+					"indices": [
+						162,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296010628365090800,
+					"id_str": "1296010628365090817",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EfxazMjVAAEVffj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfxazMjVAAEVffj.jpg",
+					"url": "https://t.co/V69k5Jgjh9",
+					"display_url": "pic.twitter.com/V69k5Jgjh9",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1296010635214381057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296010628365090800,
+					"id_str": "1296010628365090817",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/EfxazMjVAAEVffj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfxazMjVAAEVffj.jpg",
+					"url": "https://t.co/V69k5Jgjh9",
+					"display_url": "pic.twitter.com/V69k5Jgjh9",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1296010635214381057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1349,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7617,
+			"friends_count": 0,
+			"listed_count": 25,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 탱퓨 2탄이!!!! ʕ•̀ω•́ʔ\n저는 새벽 1시 전 잠자리에 들어서 일어나자마자 자동으로 요 사진들을 봐요\n#탱언니 #인터뷰인용\n-\n💚 청태연\n🖤 흑태연\n❤️ 핑태연\n-\n다른 컷들 빨리 풀고 싶어서 손이 그릉그릉(ฅ•ω•ฅ)\n-\n#마데카소사이드크림2엑스\n#본투비매드프루프브로우카라\n#산뽕나무잡티앰플 https://t.co/V69k5Jgjh9"
+	},
+	{
 		"created_at": "Wed Aug 19 06:07:12 +0000 2020",
 		"id": 1295958524334284800,
 		"id_str": "1295965521867923456",
