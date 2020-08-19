@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 06:07:12 +0000 2020",
+		"id": 1295958524334284800,
+		"id_str": "1295965521867923456",
+		"full_text": "#18어게인 #사생활 #경우의수\n#허쉬 #런온 #라이브온\n#김하늘 #윤상현 #이도현 #서현 #고경표\n#김효진 #김영민 #옹성우 #신예은 #황정민\n#윤아 #임시완 #신세경 #황민현 #정다빈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "18어게인",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "경우의수",
+					"indices": [
+						12,
+						17
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "라이브온",
+					"indices": [
+						26,
+						31
+					]
+				},
+				{
+					"text": "김하늘",
+					"indices": [
+						32,
+						36
+					]
+				},
+				{
+					"text": "윤상현",
+					"indices": [
+						37,
+						41
+					]
+				},
+				{
+					"text": "이도현",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "옹성우",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "신예은",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "황정민",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "황민현",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "정다빈",
+					"indices": [
+						100,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1295958466217914400,
+		"in_reply_to_status_id_str": "1295958466217914369",
+		"in_reply_to_user_id": 418488729,
+		"in_reply_to_user_id_str": "418488729",
+		"in_reply_to_screen_name": "jtbclove",
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 437347,
+			"friends_count": 110,
+			"listed_count": 629,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#18어게인 #사생활 #경우의수\n#허쉬 #런온 #라이브온\n#김하늘 #윤상현 #이도현 #서현 #고경표\n#김효진 #김영민 #옹성우 #신예은 #황정민\n#윤아 #임시완 #신세경 #황민현 #정다빈"
+	},
+	{
 		"created_at": "Wed Aug 19 05:07:08 +0000 2020",
 		"id": 1295947809145806800,
 		"id_str": "1295950405390786565",
