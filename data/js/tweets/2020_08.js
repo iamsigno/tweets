@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 10:07:08 +0000 2020",
+		"id": 1296386803545432000,
+		"id_str": "1296388291080716288",
+		"full_text": "🖤NEW쨜🖤\n美쳤다\nG렸다\n반해버렸다!!!\n-\n태연언니 최애 컨셉이었던 흑태연( •̀.̫•́)✧\n미모에 치이고 눈빛에 취하고˘◡˘\n-\n탱눈빛 1g이라도 따라할 수 있는 3종 제품 소개\n#본투비매드프루프브로우카라\n#본투비매드프루프스키니브로우펜슬\n#본투비매드프루프마스카라\n-\n#제로야생일축하해🎂 https://t.co/P2MogTNY7D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "본투비매드프루프브로우카라",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"text": "본투비매드프루프스키니브로우펜슬",
+					"indices": [
+						118,
+						135
+					]
+				},
+				{
+					"text": "본투비매드프루프마스카라",
+					"indices": [
+						136,
+						149
+					]
+				},
+				{
+					"text": "제로야생일축하해",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296386797761568800,
+					"id_str": "1296386797761568770",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef2w7IwVoAIdHKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef2w7IwVoAIdHKR.jpg",
+					"url": "https://t.co/P2MogTNY7D",
+					"display_url": "pic.twitter.com/P2MogTNY7D",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1296386803545432065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 445,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 445,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296386797761568800,
+					"id_str": "1296386797761568770",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef2w7IwVoAIdHKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef2w7IwVoAIdHKR.jpg",
+					"url": "https://t.co/P2MogTNY7D",
+					"display_url": "pic.twitter.com/P2MogTNY7D",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1296386803545432065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 445,
+							"h": 596,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 445,
+							"h": 596,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 445,
+							"h": 596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7626,
+			"friends_count": 0,
+			"listed_count": 24,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🖤NEW쨜🖤\n美쳤다\nG렸다\n반해버렸다!!!\n-\n태연언니 최애 컨셉이었던 흑태연( •̀.̫•́)✧\n미모에 치이고 눈빛에 취하고˘◡˘\n-\n탱눈빛 1g이라도 따라할 수 있는 3종 제품 소개\n#본투비매드프루프브로우카라\n#본투비매드프루프스키니브로우펜슬\n#본투비매드프루프마스카라\n-\n#제로야생일축하해🎂 https://t.co/P2MogTNY7D"
+	},
+	{
 		"created_at": "Thu Aug 20 01:07:29 +0000 2020",
 		"id": 1295958466217914400,
 		"id_str": "1296252483702886400",
