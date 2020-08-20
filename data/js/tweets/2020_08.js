@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 01:07:29 +0000 2020",
+		"id": 1295958466217914400,
+		"id_str": "1296252483702886400",
+		"full_text": "📢JTBC 드라마 하반기 라인업 공개!\n\n▶웬수 같던 내 남편이 18살이 되었다!\n#18어게인 9월 7일(월) 첫 방송\n\n▶사기캐들의 현실 생활\n#사생활 9월 16일(수) 첫 방송\n\n▶10년 차 쌍방삽질, 리얼 청춘 로맨스\n#경우의수 9월 18일(금) 첫 방송\n\n그리고, 〈#허쉬〉, 〈#런온〉, 〈#라이브온〉까지!! https://t.co/M6q94REKge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "18어게인",
+					"indices": [
+						46,
+						52
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "경우의수",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "라이브온",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295955770261954600,
+					"id_str": "1295955770261954560",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Efwpc5lU8AABy8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efwpc5lU8AABy8w.jpg",
+					"url": "https://t.co/M6q94REKge",
+					"display_url": "pic.twitter.com/M6q94REKge",
+					"expanded_url": "https://twitter.com/jtbclove/status/1295958466217914369/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295955770261954600,
+					"id_str": "1295955770261954560",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/Efwpc5lU8AABy8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efwpc5lU8AABy8w.jpg",
+					"url": "https://t.co/M6q94REKge",
+					"display_url": "pic.twitter.com/M6q94REKge",
+					"expanded_url": "https://twitter.com/jtbclove/status/1295958466217914369/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40108,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295955770261954560/vid/640x360/ZrR9xlBQ5AVn4NH9.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295955770261954560/vid/480x270/9-kO7q9nH38Ubrqn.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1295955770261954560/vid/960x540/x7u2oQfZFqZbVslI.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1295955770261954560/pl/xsbputhGJaNVOu1X.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[JTBC 라인업] 당신의 마음 속 끝까지 쫓을 'JTBC 드라마 하반기 라인업' 공개!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/watch?v=U5zkiyj2t5I&feature=youtu.be"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438352,
+			"friends_count": 110,
+			"listed_count": 629,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1902,
+		"favorite_count": 2068,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢JTBC 드라마 하반기 라인업 공개!\n\n▶웬수 같던 내 남편이 18살이 되었다!\n#18어게인 9월 7일(월) 첫 방송\n\n▶사기캐들의 현실 생활\n#사생활 9월 16일(수) 첫 방송\n\n▶10년 차 쌍방삽질, 리얼 청춘 로맨스\n#경우의수 9월 18일(금) 첫 방송\n\n그리고, 〈#허쉬〉, 〈#런온〉, 〈#라이브온〉까지!! https://t.co/M6q94REKge"
+	},
+	{
 		"created_at": "Wed Aug 19 10:05:26 +0000 2020",
 		"id": 1296025474385301500,
 		"id_str": "1296025474385301504",
@@ -288,7 +544,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Wed Aug 19 09:45:01 +0000 2020",
 		"id": 1296014706818261000,
 		"id_str": "1296020334471270405",
-		"full_text": "사생활 두번째 티저가 공개됐주은🤦🏻‍♀️\nJTBC수목드라마 #사생활 9월16일 밤 9시30분 첫방송🖤 https://t.co/kKhHEfaixN",
+		"full_text": "사생활 두번째 티저가 공개됐주은🤦🏻♀️\nJTBC수목드라마 #사생활 9월16일 밤 9시30분 첫방송🖤 https://t.co/kKhHEfaixN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -383,7 +639,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "사생활 두번째 티저가 공개됐주은🤦🏻‍♀️\nJTBC수목드라마 #사생활 9월16일 밤 9시30분 첫방송🖤 https://t.co/kKhHEfaixN"
+		"text": "사생활 두번째 티저가 공개됐주은🤦🏻♀️\nJTBC수목드라마 #사생활 9월16일 밤 9시30분 첫방송🖤 https://t.co/kKhHEfaixN"
 	},
 	{
 		"created_at": "Wed Aug 19 09:07:09 +0000 2020",
