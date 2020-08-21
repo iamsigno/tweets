@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 21 10:07:09 +0000 2020",
+		"id": 1296748880743272400,
+		"id_str": "1296750679210500096",
+		"full_text": "[#청담Key친 I CHEONGDAM KEYchin] ep3-2 SM 대표 절친! Key와 #태연 의 첫만남 비하인드 대공개!\n\n이 둘은 어떻게 만나 절친이 되었는지 비하인드 스토리 대방출!\n\n👉https://t.co/UODKlAVQGJ\n\n매주 금요일 SM C&amp;C STUDIO 에서 만나요🍽\n\n#CHEONGDAM #Key #샤이니 #SHINee #SMCC_STUDIO https://t.co/nsnjXESBgo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청담Key친",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "CHEONGDAM",
+					"indices": [
+						168,
+						178
+					]
+				},
+				{
+					"text": "Key",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						189,
+						196
+					]
+				},
+				{
+					"text": "SMCC_STUDIO",
+					"indices": [
+						197,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UODKlAVQGJ",
+					"expanded_url": "https://youtu.be/mKAufxnOFD0",
+					"display_url": "youtu.be/mKAufxnOFD0",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1295627841996853200,
+					"id_str": "1295627841996853251",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Efr-qGNUEAMGRqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efr-qGNUEAMGRqa.jpg",
+					"url": "https://t.co/nsnjXESBgo",
+					"display_url": "pic.twitter.com/nsnjXESBgo",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1296748880743272448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295627841996853200,
+					"id_str": "1295627841996853251",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/Efr-qGNUEAMGRqa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Efr-qGNUEAMGRqa.jpg",
+					"url": "https://t.co/nsnjXESBgo",
+					"display_url": "pic.twitter.com/nsnjXESBgo",
+					"expanded_url": "https://twitter.com/smcc_studio/status/1296748880743272448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n💙슈주 리턴즈4 \n🟢NCT LIFE: DREAM in Wonderland \n♥️레벨업 아슬한 프로젝트",
+			"url": "https://t.co/vODnwmZcgP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vODnwmZcgP",
+							"expanded_url": "https://www.youtube.com/SMCCStudio",
+							"display_url": "youtube.com/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10240,
+			"friends_count": 0,
+			"listed_count": 32,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192288259226779648/ftT8gqHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1573099495",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#청담Key친 I CHEONGDAM KEYchin] ep3-2 SM 대표 절친! Key와 #태연 의 첫만남 비하인드 대공개!\n\n이 둘은 어떻게 만나 절친이 되었는지 비하인드 스토리 대방출!\n\n👉https://t.co/UODKlAVQGJ\n\n매주 금요일 SM C&amp;C STUDIO 에서 만나요🍽\n\n#CHEONGDAM #Key #샤이니 #SHINee #SMCC_STUDIO https://t.co/nsnjXESBgo"
+	},
+	{
 		"created_at": "Fri Aug 21 07:07:08 +0000 2020",
 		"id": 1296698588412616700,
 		"id_str": "1296705380249198593",
