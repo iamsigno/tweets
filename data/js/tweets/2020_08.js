@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 21 07:07:08 +0000 2020",
+		"id": 1296698588412616700,
+		"id_str": "1296705380249198593",
+		"full_text": "#서현 X #고경표 X #김효진 X #김영민\n목표는 같지만, 목적은 다른 4기꾼들이 뭉쳤다?\n\n💰FLEX~ 넘치는 꾼들의 통쾌한 사기극\n새 수목드라마 &lt;사생활&gt; 대본리딩 현장!\n\n케미 보장 + 흥행 보장 &lt;#사생활&gt;\n9월 16일 수요일 밤 9시 30분 첫 방송💥 https://t.co/5E0zhWJnV7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						124,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296678586758258700,
+					"id_str": "1296678586758258688",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7MechVAAA3_95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7MechVAAA3_95.jpg",
+					"url": "https://t.co/5E0zhWJnV7",
+					"display_url": "pic.twitter.com/5E0zhWJnV7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1296698588412616706/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296678586758258700,
+					"id_str": "1296678586758258688",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7MechVAAA3_95.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7MechVAAA3_95.jpg",
+					"url": "https://t.co/5E0zhWJnV7",
+					"display_url": "pic.twitter.com/5E0zhWJnV7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1296698588412616706/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 264164,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296678586758258688/vid/1280x720/8_PgC5Ei7dZJflbK.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1296678586758258688/pl/IeF_HMbi1gGsNq_i.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296678586758258688/vid/480x270/33UiX6zQQo6JS3mK.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296678586758258688/vid/640x360/3VHnfw5pL9ytuocp.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 메이킹! ☆판교 신혼부부 재질 고경표X서현☆ 대본리딩 비하인드",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://vod.jtbc.joins.com/player/clip/vo10402713"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438495,
+			"friends_count": 110,
+			"listed_count": 629,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 178,
+		"favorite_count": 200,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#서현 X #고경표 X #김효진 X #김영민\n목표는 같지만, 목적은 다른 4기꾼들이 뭉쳤다?\n\n💰FLEX~ 넘치는 꾼들의 통쾌한 사기극\n새 수목드라마 &lt;사생활&gt; 대본리딩 현장!\n\n케미 보장 + 흥행 보장 &lt;#사생활&gt;\n9월 16일 수요일 밤 9시 30분 첫 방송💥 https://t.co/5E0zhWJnV7"
+	},
+	{
 		"created_at": "Fri Aug 21 05:07:09 +0000 2020",
 		"id": 1296668303872667600,
 		"id_str": "1296675181964992512",
