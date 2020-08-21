@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 21 11:07:08 +0000 2020",
+		"id": 1296756520114299000,
+		"id_str": "1296765778193154048",
+		"full_text": "모든 컨셉 찰떡💜\n내 맘속 원픽 컨셉은?\n-\n💚청태연 #마데카소사이드크림2X\n❤️핑태연 #산뽕나무잡티앰플\n🖤흑태연 #본투비매드프루프브로우카라\n🧡코랄탱 #과즙팡컬러립밤 https://t.co/A2U4cRqdFM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마데카소사이드크림2X",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"text": "산뽕나무잡티앰플",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "본투비매드프루프브로우카라",
+					"indices": [
+						64,
+						78
+					]
+				},
+				{
+					"text": "과즙팡컬러립밤",
+					"indices": [
+						84,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296756478284464000,
+					"id_str": "1296756478284464129",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1296756478284464129/pu/img/_XW1Z6939xoRMKgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1296756478284464129/pu/img/_XW1Z6939xoRMKgQ.jpg",
+					"url": "https://t.co/A2U4cRqdFM",
+					"display_url": "pic.twitter.com/A2U4cRqdFM",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1296756520114298880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296756478284464000,
+					"id_str": "1296756478284464129",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1296756478284464129/pu/img/_XW1Z6939xoRMKgQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1296756478284464129/pu/img/_XW1Z6939xoRMKgQ.jpg",
+					"url": "https://t.co/A2U4cRqdFM",
+					"display_url": "pic.twitter.com/A2U4cRqdFM",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1296756520114298880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 45000,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1296756478284464129/pu/vid/320x400/1Mo0PSHl-9k0sKS-.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1296756478284464129/pu/pl/OgStNQ7ApLwtGE2a.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1296756478284464129/pu/vid/384x480/z-U4SfzHJrsPIHcT.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7640,
+			"friends_count": 0,
+			"listed_count": 24,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 219,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 255,
+		"favorite_count": 296,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "모든 컨셉 찰떡💜\n내 맘속 원픽 컨셉은?\n-\n💚청태연 #마데카소사이드크림2X\n❤️핑태연 #산뽕나무잡티앰플\n🖤흑태연 #본투비매드프루프브로우카라\n🧡코랄탱 #과즙팡컬러립밤 https://t.co/A2U4cRqdFM"
+	},
+	{
 		"created_at": "Fri Aug 21 10:07:09 +0000 2020",
 		"id": 1296748880743272400,
 		"id_str": "1296750679210500096",
