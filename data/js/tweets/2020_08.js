@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 23 01:07:08 +0000 2020",
+		"id": 1297337762161598500,
+		"id_str": "1297339559030685702",
+		"full_text": "🌟 인기가요 습스 엔딩픽 🌟\n내적댄스 추게 만드는 인가 엔딩.zip\n\n#SBS인기가요 #습스엔딩픽 #인기가요엔딩 #인기가요엔딩픽 #에이프릴 #레이첼 #윤채경 #이나은 #빅톤 #한승우 #효연 #박진영 #선미 #인기가요엔딩맛집 https://t.co/RFPBH6DL3E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS인기가요",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"text": "습스엔딩픽",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "인기가요엔딩",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"text": "인기가요엔딩픽",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "에이프릴",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "레이첼",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "윤채경",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "이나은",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "빅톤",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "한승우",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "박진영",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "인기가요엔딩맛집",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1296613938612732000,
+					"id_str": "1296613938612731904",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7tW5qVAAIkyTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7tW5qVAAIkyTX.jpg",
+					"url": "https://t.co/RFPBH6DL3E",
+					"display_url": "pic.twitter.com/RFPBH6DL3E",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1297337762161598464/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296613938612732000,
+					"id_str": "1296613938612731904",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7tW5qVAAIkyTX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7tW5qVAAIkyTX.jpg",
+					"url": "https://t.co/RFPBH6DL3E",
+					"display_url": "pic.twitter.com/RFPBH6DL3E",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1297337762161598464/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 21788,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1296613938612731904/pl/8vZjU25V2SulIqQt.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296613938612731904/vid/480x480/kiDZNbFNwz5qM1tU.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296613938612731904/vid/320x320/NJmDupURj5su2KL-.mp4?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1296613938612731904/vid/720x720/Gpkq_ynwPtfOC1UN.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1586344,
+			"friends_count": 5260,
+			"listed_count": 2784,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1597908784",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌟 인기가요 습스 엔딩픽 🌟\n내적댄스 추게 만드는 인가 엔딩.zip\n\n#SBS인기가요 #습스엔딩픽 #인기가요엔딩 #인기가요엔딩픽 #에이프릴 #레이첼 #윤채경 #이나은 #빅톤 #한승우 #효연 #박진영 #선미 #인기가요엔딩맛집 https://t.co/RFPBH6DL3E"
+	},
+	{
 		"created_at": "Fri Aug 21 11:07:08 +0000 2020",
 		"id": 1296756520114299000,
 		"id_str": "1296765778193154048",
