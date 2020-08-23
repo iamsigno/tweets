@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 23 04:07:09 +0000 2020",
+		"id": 1297383059948478500,
+		"id_str": "1297384858734534657",
+		"full_text": "내 웃음 지뢰💣 #아는형님 고요 속의 외침!\n2020 레전드 명장면 전. 부. 다 모아봤.zip🎧\n\n매주 토요일 밤 9시 &lt;아는 형님&gt; 본방사수!\n\n#최수영 #진서영 #김성령 #박신혜 #전종서 #손호준\n#송종호 #구자성 #김민준 #지코 #선미 #셔누 #주헌 https://t.co/uFDC1N5ULu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아는형님",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "진서영",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "김성령",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "박신혜",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "전종서",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "손호준",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "송종호",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "구자성",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "김민준",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "지코",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "셔누",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "주헌",
+					"indices": [
+						146,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1297276408721375200,
+					"id_str": "1297276408721375233",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EgDbRnIUEAA14k-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgDbRnIUEAA14k-.jpg",
+					"url": "https://t.co/uFDC1N5ULu",
+					"display_url": "pic.twitter.com/uFDC1N5ULu",
+					"expanded_url": "https://twitter.com/jtbclove/status/1297383059948478466/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297276408721375200,
+					"id_str": "1297276408721375233",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EgDbRnIUEAA14k-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgDbRnIUEAA14k-.jpg",
+					"url": "https://t.co/uFDC1N5ULu",
+					"display_url": "pic.twitter.com/uFDC1N5ULu",
+					"expanded_url": "https://twitter.com/jtbclove/status/1297383059948478466/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 574908,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297276408721375233/vid/480x270/iZQb1jLU6_tZ2LL_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297276408721375233/vid/1280x720/JSA4bxwP4QIGGm5f.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1297276408721375233/pl/zN4PfziDgkMfgS8Y.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1297276408721375233/vid/640x360/OCMSpd_tQnMyI7AY.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[아는 형님] 스페셜 ★2020 레전드★ 고요 속의 외침! 전. 부. 다 모음.zip",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10010392/pm10032711/vo10403086/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438578,
+			"friends_count": 110,
+			"listed_count": 628,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 606,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 웃음 지뢰💣 #아는형님 고요 속의 외침!\n2020 레전드 명장면 전. 부. 다 모아봤.zip🎧\n\n매주 토요일 밤 9시 &lt;아는 형님&gt; 본방사수!\n\n#최수영 #진서영 #김성령 #박신혜 #전종서 #손호준\n#송종호 #구자성 #김민준 #지코 #선미 #셔누 #주헌 https://t.co/uFDC1N5ULu"
+	},
+	{
 		"created_at": "Sun Aug 23 01:07:08 +0000 2020",
 		"id": 1297337762161598500,
 		"id_str": "1297339559030685702",
