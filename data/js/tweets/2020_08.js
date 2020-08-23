@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 23 23:04:13 +0000 2020",
+		"id": 1297548740450910200,
+		"id_str": "1297671012167761920",
+		"full_text": "SEOHYUN marie claire September 2020 \n\n❙ 내가 사는 세계. 내가 살고 있지만 내가 모르는 세계에 감춰진 누군가의 사생활. \n❙ 배우? \"힘든 걸 이겨낼 만큼의 즐거움이 있기에 이 일을 계속할 수 있는 것 같아요.\" \n\n👉🏻 https://t.co/JVPIQmdial \n\n#서현 #마리끌레르 #사생활 #SEOHYUN #MarieClaire https://t.co/x3jX6z4hBA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"text": "MarieClaire",
+					"indices": [
+						193,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JVPIQmdial",
+					"expanded_url": "https://bit.ly/2CX0Paw",
+					"display_url": "bit.ly/2CX0Paw",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1297548682078822400,
+					"id_str": "1297548682078822401",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EgHRptIVoAE34Pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgHRptIVoAE34Pj.jpg",
+					"url": "https://t.co/x3jX6z4hBA",
+					"display_url": "pic.twitter.com/x3jX6z4hBA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1297548740450910210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297548682078822400,
+					"id_str": "1297548682078822401",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EgHRptIVoAE34Pj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgHRptIVoAE34Pj.jpg",
+					"url": "https://t.co/x3jX6z4hBA",
+					"display_url": "pic.twitter.com/x3jX6z4hBA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1297548740450910210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1444,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 898,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297548692077990000,
+					"id_str": "1297548692077989889",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EgHRqSYU0AEdsjA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgHRqSYU0AEdsjA.jpg",
+					"url": "https://t.co/x3jX6z4hBA",
+					"display_url": "pic.twitter.com/x3jX6z4hBA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1297548740450910210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297548707131297800,
+					"id_str": "1297548707131297792",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EgHRrKdUEAA2wN9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgHRrKdUEAA2wN9.jpg",
+					"url": "https://t.co/x3jX6z4hBA",
+					"display_url": "pic.twitter.com/x3jX6z4hBA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1297548740450910210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1659,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 443,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 781,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297548724202164200,
+					"id_str": "1297548724202164224",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EgHRsKDU0AA3uQY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgHRsKDU0AA3uQY.jpg",
+					"url": "https://t.co/x3jX6z4hBA",
+					"display_url": "pic.twitter.com/x3jX6z4hBA",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1297548740450910210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 917,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1414,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13895,
+			"friends_count": 9,
+			"listed_count": 210,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1597959820",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 699,
+		"favorite_count": 901,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SEOHYUN marie claire September 2020 \n\n❙ 내가 사는 세계. 내가 살고 있지만 내가 모르는 세계에 감춰진 누군가의 사생활. \n❙ 배우? \"힘든 걸 이겨낼 만큼의 즐거움이 있기에 이 일을 계속할 수 있는 것 같아요.\" \n\n👉🏻 https://t.co/JVPIQmdial \n\n#서현 #마리끌레르 #사생활 #SEOHYUN #MarieClaire https://t.co/x3jX6z4hBA"
+	},
+	{
 		"created_at": "Sun Aug 23 06:07:08 +0000 2020",
 		"id": 1297413259415490600,
 		"id_str": "1297415056045424642",
