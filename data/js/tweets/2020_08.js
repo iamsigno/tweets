@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 23 06:07:08 +0000 2020",
+		"id": 1297413259415490600,
+		"id_str": "1297415056045424642",
+		"full_text": "딸부잣집! 6자매와 어머니의\n힐링 하우스를 찾아💚\n남양주&amp;광주로 떠난 홈즈!\n멋진 매물들과 함께 찾아올게요😍\n#구해줘홈즈 일요일 밤 10시 45분\n#박나래 #써니 #장동민 #양세형\n#김숙 #김완선 #노홍철 #붐 https://t.co/ugxvznFQIn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "구해줘홈즈",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "박나래",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "장동민",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "김숙",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "김완선",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "노홍철",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						119,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1297078963735429000,
+					"id_str": "1297078963735429120",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EgAmcf8VAAA9WD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgAmcf8VAAA9WD9.jpg",
+					"url": "https://t.co/ugxvznFQIn",
+					"display_url": "pic.twitter.com/ugxvznFQIn",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1297413259415490560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297078963735429000,
+					"id_str": "1297078963735429120",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EgAmcf8VAAA9WD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgAmcf8VAAA9WD9.jpg",
+					"url": "https://t.co/ugxvznFQIn",
+					"display_url": "pic.twitter.com/ugxvznFQIn",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1297413259415490560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297078963735388200,
+					"id_str": "1297078963735388161",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EgAmcf8UYAEl5tw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgAmcf8UYAEl5tw.jpg",
+					"url": "https://t.co/ugxvznFQIn",
+					"display_url": "pic.twitter.com/ugxvznFQIn",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1297413259415490560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297078963739619300,
+					"id_str": "1297078963739619328",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EgAmcf9U8AAFgK0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgAmcf9U8AAFgK0.jpg",
+					"url": "https://t.co/ugxvznFQIn",
+					"display_url": "pic.twitter.com/ugxvznFQIn",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1297413259415490560/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820054,
+			"friends_count": 5,
+			"listed_count": 772,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 13205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "딸부잣집! 6자매와 어머니의\n힐링 하우스를 찾아💚\n남양주&amp;광주로 떠난 홈즈!\n멋진 매물들과 함께 찾아올게요😍\n#구해줘홈즈 일요일 밤 10시 45분\n#박나래 #써니 #장동민 #양세형\n#김숙 #김완선 #노홍철 #붐 https://t.co/ugxvznFQIn"
+	},
+	{
 		"created_at": "Sun Aug 23 05:07:09 +0000 2020",
 		"id": 1297398159090552800,
 		"id_str": "1297399957624954880",
