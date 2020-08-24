@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 03:07:08 +0000 2020",
+		"id": 1297722577758982100,
+		"id_str": "1297732145872592897",
+		"full_text": "서현 배우 &lt;마리끌레르&gt; 화보 보고 또 심쿵❣️\n모든 만물이 서현 배우에게 빠지는 서현인력의 법칙이 또 증명됐어현🤭\n\n▶️https://t.co/KviElaLliY\n\n#서현 #매거진 #마리끌레르 #화보 https://t.co/sF0EngvWBG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "매거진",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "마리끌레르",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "화보",
+					"indices": [
+						115,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KviElaLliY",
+					"expanded_url": "https://bit.ly/32hCuop",
+					"display_url": "bit.ly/32hCuop",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1297722540433891300,
+					"id_str": "1297722540433891329",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJvxl-UYAEw6IQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJvxl-UYAEw6IQ.jpg",
+					"url": "https://t.co/sF0EngvWBG",
+					"display_url": "pic.twitter.com/sF0EngvWBG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1297722577758982144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297722540433891300,
+					"id_str": "1297722540433891329",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJvxl-UYAEw6IQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJvxl-UYAEw6IQ.jpg",
+					"url": "https://t.co/sF0EngvWBG",
+					"display_url": "pic.twitter.com/sF0EngvWBG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1297722577758982144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297722559287316500,
+					"id_str": "1297722559287316480",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJvysNU0AAR1-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJvysNU0AAR1-q.jpg",
+					"url": "https://t.co/sF0EngvWBG",
+					"display_url": "pic.twitter.com/sF0EngvWBG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1297722577758982144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297722570658078700,
+					"id_str": "1297722570658078720",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EgJvzWkU4AAR4ae.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgJvzWkU4AAR4ae.jpg",
+					"url": "https://t.co/sF0EngvWBG",
+					"display_url": "pic.twitter.com/sF0EngvWBG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1297722577758982144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 712,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 537,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30823,
+			"friends_count": 11,
+			"listed_count": 182,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 319,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서현 배우 &lt;마리끌레르&gt; 화보 보고 또 심쿵❣️\n모든 만물이 서현 배우에게 빠지는 서현인력의 법칙이 또 증명됐어현🤭\n\n▶️https://t.co/KviElaLliY\n\n#서현 #매거진 #마리끌레르 #화보 https://t.co/sF0EngvWBG"
+	},
+	{
 		"created_at": "Sun Aug 23 23:04:13 +0000 2020",
 		"id": 1297548740450910200,
 		"id_str": "1297671012167761920",
