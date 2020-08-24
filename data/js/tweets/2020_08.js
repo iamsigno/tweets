@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 24 10:07:15 +0000 2020",
+		"id": 1297829415410217000,
+		"id_str": "1297837868027654150",
+		"full_text": "첫 라이브 방송 기념\n🎊팡팡🎊 쏟아지는 혜택 미리보기\n\n[⚡단 1시간 동안⚡의 혜택]\n1. 어퓨 신제품 선런칭&amp;파격 할인\n2. 구매 금액별 역대급 사은품 증정\n3. 라이브 방송 중 깜짝 퀴즈\n➭태연 싸인 폴라로이드도 있어요(소근🤭)\n4. 할인에 할인을 더한 초특가 품목 구성\n➭자세한 사항은 아래 참조 https://t.co/y4DjFIl8BT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1297825244132958200,
+					"id_str": "1297825244132958209",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EgLNLvEUYAEVKat.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgLNLvEUYAEVKat.jpg",
+					"url": "https://t.co/y4DjFIl8BT",
+					"display_url": "pic.twitter.com/y4DjFIl8BT",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1297829415410216965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1297825244132958200,
+					"id_str": "1297825244132958209",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EgLNLvEUYAEVKat.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgLNLvEUYAEVKat.jpg",
+					"url": "https://t.co/y4DjFIl8BT",
+					"display_url": "pic.twitter.com/y4DjFIl8BT",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1297829415410216965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297825263003213800,
+					"id_str": "1297825263003213827",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EgLNM1XVoAMHyc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgLNM1XVoAMHyc_.jpg",
+					"url": "https://t.co/y4DjFIl8BT",
+					"display_url": "pic.twitter.com/y4DjFIl8BT",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1297829415410216965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297825286457761800,
+					"id_str": "1297825286457761793",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EgLNOMvVoAEbFAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgLNOMvVoAEbFAM.jpg",
+					"url": "https://t.co/y4DjFIl8BT",
+					"display_url": "pic.twitter.com/y4DjFIl8BT",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1297829415410216965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1297825307001409500,
+					"id_str": "1297825307001409536",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/EgLNPZRU0AAoV56.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgLNPZRU0AAoV56.jpg",
+					"url": "https://t.co/y4DjFIl8BT",
+					"display_url": "pic.twitter.com/y4DjFIl8BT",
+					"expanded_url": "https://twitter.com/Apieu_official/status/1297829415410216965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64162171,
+			"id_str": "64162171",
+			"name": "어퓨",
+			"screen_name": "Apieu_official",
+			"location": "",
+			"description": "Everyday Beauty Challenge! / 어퓨 꿀 정보 모음 ٩( ᐖ ٩)❤️",
+			"url": "https://t.co/zB7aC2UFE9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zB7aC2UFE9",
+							"expanded_url": "http://m.beautynet.co.kr/main.do",
+							"display_url": "m.beautynet.co.kr/main.do",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7649,
+			"friends_count": 0,
+			"listed_count": 23,
+			"created_at": "Sun Aug 09 12:06:45 +0000 2009",
+			"favourites_count": 220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1135800543245291520/79x6yOUc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/64162171/1592209719",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "첫 라이브 방송 기념\n🎊팡팡🎊 쏟아지는 혜택 미리보기\n\n[⚡단 1시간 동안⚡의 혜택]\n1. 어퓨 신제품 선런칭&amp;파격 할인\n2. 구매 금액별 역대급 사은품 증정\n3. 라이브 방송 중 깜짝 퀴즈\n➭태연 싸인 폴라로이드도 있어요(소근🤭)\n4. 할인에 할인을 더한 초특가 품목 구성\n➭자세한 사항은 아래 참조 https://t.co/y4DjFIl8BT"
+	},
+	{
 		"created_at": "Mon Aug 24 06:52:17 +0000 2020",
 		"id": 1297788803239809000,
 		"id_str": "1297788803239809024",
