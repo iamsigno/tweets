@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 25 05:07:13 +0000 2020",
+		"id": 1298116698613018600,
+		"id_str": "1298124750271766528",
+		"full_text": "📢JTBC 드라마 하반기 라인업 공개!\n\n#김하늘 #윤상현 #이도현 #서현 #고경표\n#김효진 #김영민 #옹성우 #신예은 #황정민\n#윤아 #임시완 #신세경 #황민현 #정다빈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김하늘",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "윤상현",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "이도현",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "옹성우",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "신예은",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "황정민",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "황민현",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "정다빈",
+					"indices": [
+						91,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1298116582577594400,
+		"in_reply_to_status_id_str": "1298116582577594368",
+		"in_reply_to_user_id": 418488729,
+		"in_reply_to_user_id_str": "418488729",
+		"in_reply_to_screen_name": "jtbclove",
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438718,
+			"friends_count": 110,
+			"listed_count": 627,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📢JTBC 드라마 하반기 라인업 공개!\n\n#김하늘 #윤상현 #이도현 #서현 #고경표\n#김효진 #김영민 #옹성우 #신예은 #황정민\n#윤아 #임시완 #신세경 #황민현 #정다빈"
+	},
+	{
 		"created_at": "Tue Aug 25 02:44:56 +0000 2020",
 		"id": 1298084974709670000,
 		"id_str": "1298088947038420994",
