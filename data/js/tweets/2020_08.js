@@ -1,6 +1,1708 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 25 07:00:13 +0000 2020",
+		"id": 1298116698613018600,
+		"id_str": "1298153191087853570",
+		"full_text": "📢JTBC 드라마 하반기 라인업 공개!\n\n#김하늘 #윤상현 #이도현 #서현 #고경표\n#김효진 #김영민 #옹성우 #신예은 #황정민\n#윤아 #임시완 #신세경 #황민현 #정다빈",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김하늘",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "윤상현",
+					"indices": [
+						28,
+						32
+					]
+				},
+				{
+					"text": "이도현",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "옹성우",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "신예은",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "황정민",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "황민현",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "정다빈",
+					"indices": [
+						91,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1298116582577594400,
+		"in_reply_to_status_id_str": "1298116582577594368",
+		"in_reply_to_user_id": 418488729,
+		"in_reply_to_user_id_str": "418488729",
+		"in_reply_to_screen_name": "jtbclove",
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438720,
+			"friends_count": 110,
+			"listed_count": 627,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "📢JTBC 드라마 하반기 라인업 공개!\n\n#김하늘 #윤상현 #이도현 #서현 #고경표\n#김효진 #김영민 #옹성우 #신예은 #황정민\n#윤아 #임시완 #신세경 #황민현 #정다빈"
+	},
+	{
+		"created_at": "Tue Aug 25 07:00:03 +0000 2020",
+		"id": 1298116582577594400,
+		"id_str": "1298153145705443328",
+		"full_text": "📢JTBC 드라마 하반기 라인업 공개!\n\n웬수 같던 내 남편이 18살이 되었다! &lt;#18어게인&gt; \n사기캐들의 현실 생활 &lt;#사생활&gt;\n10년 차 쌍방삽질, 리얼 청춘 로맨스 &lt;#경우의수&gt;\n\n그리고, 〈#허쉬〉, 〈#런온〉, 〈#라이브온〉까지!!\n하반기에도 JTBC 드라마 찬성하십니까?(🙌🙌) https://t.co/JonhoRPJ4g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "18어게인",
+					"indices": [
+						49,
+						55
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "경우의수",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "라이브온",
+					"indices": [
+						143,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298114205640298500,
+					"id_str": "1298114205640298496",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EgPWGARUYAAG41E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgPWGARUYAAG41E.jpg",
+					"url": "https://t.co/JonhoRPJ4g",
+					"display_url": "pic.twitter.com/JonhoRPJ4g",
+					"expanded_url": "https://twitter.com/jtbclove/status/1298116582577594368/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298114205640298500,
+					"id_str": "1298114205640298496",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/EgPWGARUYAAG41E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgPWGARUYAAG41E.jpg",
+					"url": "https://t.co/JonhoRPJ4g",
+					"display_url": "pic.twitter.com/JonhoRPJ4g",
+					"expanded_url": "https://twitter.com/jtbclove/status/1298116582577594368/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40108,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1298114205640298496/vid/640x360/F_-UUmKWKyXUJWqQ.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1298114205640298496/vid/480x270/RXAz1UvC5ZmyD4JZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1298114205640298496/vid/960x540/LadCy5wFXSUAasQM.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1298114205640298496/pl/oX8mRi7jl83XRcC_.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[JTBC 라인업] 당신의 마음 속 끝까지 쫓을 'JTBC 드라마 하반기 라인업' 공개!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/watch?v=GcvMv4J6WIA"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438720,
+			"friends_count": 110,
+			"listed_count": 627,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 649,
+		"favorite_count": 575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢JTBC 드라마 하반기 라인업 공개!\n\n웬수 같던 내 남편이 18살이 되었다! &lt;#18어게인&gt; \n사기캐들의 현실 생활 &lt;#사생활&gt;\n10년 차 쌍방삽질, 리얼 청춘 로맨스 &lt;#경우의수&gt;\n\n그리고, 〈#허쉬〉, 〈#런온〉, 〈#라이브온〉까지!!\n하반기에도 JTBC 드라마 찬성하십니까?(🙌🙌) https://t.co/JonhoRPJ4g"
+	},
+	{
+		"created_at": "Tue Aug 25 06:56:48 +0000 2020",
+		"id": 1298138036824420400,
+		"id_str": "1298152327602307072",
+		"full_text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #TAEYEON\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/BgPx2pVJIt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						111,
+						129
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						130,
+						157
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						158,
+						175
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						176,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298124519773581300,
+					"id_str": "1298124519773581317",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298124519773581317/pu/img/52RVLZ-cCHpede-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298124519773581317/pu/img/52RVLZ-cCHpede-6.jpg",
+					"url": "https://t.co/BgPx2pVJIt",
+					"display_url": "pic.twitter.com/BgPx2pVJIt",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138036824420353/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298124519773581300,
+					"id_str": "1298124519773581317",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298124519773581317/pu/img/52RVLZ-cCHpede-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298124519773581317/pu/img/52RVLZ-cCHpede-6.jpg",
+					"url": "https://t.co/BgPx2pVJIt",
+					"display_url": "pic.twitter.com/BgPx2pVJIt",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138036824420353/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26317,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298124519773581317/pu/vid/640x360/RhNjd-p0qigPSsGf.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298124519773581317/pu/vid/480x270/-Tq6aq9CYDAZPYce.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298124519773581317/pu/vid/1280x720/XoFpDegOCCn2t_6K.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1298124519773581317/pu/pl/QA3A0h1-h2k-lfhL.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14804,
+			"friends_count": 1,
+			"listed_count": 59,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3401,
+		"favorite_count": 5473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #TAEYEON\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/BgPx2pVJIt"
+	},
+	{
+		"created_at": "Tue Aug 25 06:56:43 +0000 2020",
+		"id": 1298138285902975000,
+		"id_str": "1298152309092835328",
+		"full_text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #SUNNY\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/kpVmOXFBgF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						109,
+						127
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						128,
+						155
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						174,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298125954372391000,
+					"id_str": "1298125954372390912",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298125954372390912/pu/img/Jtf7dXcoIVIWCxmz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298125954372390912/pu/img/Jtf7dXcoIVIWCxmz.jpg",
+					"url": "https://t.co/kpVmOXFBgF",
+					"display_url": "pic.twitter.com/kpVmOXFBgF",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138285902974976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298125954372391000,
+					"id_str": "1298125954372390912",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298125954372390912/pu/img/Jtf7dXcoIVIWCxmz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298125954372390912/pu/img/Jtf7dXcoIVIWCxmz.jpg",
+					"url": "https://t.co/kpVmOXFBgF",
+					"display_url": "pic.twitter.com/kpVmOXFBgF",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138285902974976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27317,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298125954372390912/pu/vid/640x360/MX2P8xMH2Dq1Ur4r.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298125954372390912/pu/vid/480x270/H_tS0nKvUHf-r3n8.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298125954372390912/pu/vid/1280x720/EQDyprudJwvKq8UW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1298125954372390912/pu/pl/gsuVpbtIxhgaVvlh.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14804,
+			"friends_count": 1,
+			"listed_count": 59,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2257,
+		"favorite_count": 3526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #SUNNY\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/kpVmOXFBgF"
+	},
+	{
+		"created_at": "Tue Aug 25 06:56:40 +0000 2020",
+		"id": 1298138537603281000,
+		"id_str": "1298152294215593984",
+		"full_text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #HYOYEON\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/gmYvkLjhmR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						111,
+						129
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						130,
+						157
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						158,
+						175
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						176,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298127490787860500,
+					"id_str": "1298127490787860486",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298127490787860486/pu/img/5jrGaqUT2Aqzdf77.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298127490787860486/pu/img/5jrGaqUT2Aqzdf77.jpg",
+					"url": "https://t.co/gmYvkLjhmR",
+					"display_url": "pic.twitter.com/gmYvkLjhmR",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138537603280896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298127490787860500,
+					"id_str": "1298127490787860486",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298127490787860486/pu/img/5jrGaqUT2Aqzdf77.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298127490787860486/pu/img/5jrGaqUT2Aqzdf77.jpg",
+					"url": "https://t.co/gmYvkLjhmR",
+					"display_url": "pic.twitter.com/gmYvkLjhmR",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138537603280896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12467,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298127490787860486/pu/vid/480x270/Y-CODtl9LVGSxgqx.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298127490787860486/pu/vid/640x360/yuIhmF69pfEAurOe.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1298127490787860486/pu/pl/Po8XXNlRy3y1HEAb.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298127490787860486/pu/vid/1280x720/Qw01ANLQ7b5MDXUd.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14804,
+			"friends_count": 1,
+			"listed_count": 59,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2165,
+		"favorite_count": 3441,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #HYOYEON\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/gmYvkLjhmR"
+	},
+	{
+		"created_at": "Tue Aug 25 06:56:35 +0000 2020",
+		"id": 1298138789295071200,
+		"id_str": "1298152275425153024",
+		"full_text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #YURI\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/tffpOKLVLk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						108,
+						126
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						127,
+						154
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						155,
+						172
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						173,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298128497202741200,
+					"id_str": "1298128497202741249",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298128497202741249/pu/img/Mr-Og0-cI2H_2Ppg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298128497202741249/pu/img/Mr-Og0-cI2H_2Ppg.jpg",
+					"url": "https://t.co/tffpOKLVLk",
+					"display_url": "pic.twitter.com/tffpOKLVLk",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138789295071232/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298128497202741200,
+					"id_str": "1298128497202741249",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298128497202741249/pu/img/Mr-Og0-cI2H_2Ppg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298128497202741249/pu/img/Mr-Og0-cI2H_2Ppg.jpg",
+					"url": "https://t.co/tffpOKLVLk",
+					"display_url": "pic.twitter.com/tffpOKLVLk",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298138789295071232/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 58825,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1298128497202741249/pu/pl/y4hKpKbqWwiFKSs3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298128497202741249/pu/vid/1280x720/Ijyhh3mAV9iZr6lS.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298128497202741249/pu/vid/480x270/zF6-jLnVIdsx5we-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298128497202741249/pu/vid/640x360/vnmXo2EtB0qsPz6_.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14804,
+			"friends_count": 1,
+			"listed_count": 59,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2354,
+		"favorite_count": 3883,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #YURI\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/tffpOKLVLk"
+	},
+	{
+		"created_at": "Tue Aug 25 06:56:24 +0000 2020",
+		"id": 1298139040877883400,
+		"id_str": "1298152229824655360",
+		"full_text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #YOONA\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/6250KjtEAU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BoA",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "BoA_Still_Our_No1",
+					"indices": [
+						109,
+						127
+					]
+				},
+				{
+					"text": "Happy_BoA_20th_Anniversary",
+					"indices": [
+						128,
+						155
+					]
+				},
+				{
+					"text": "20years_with_BoA",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "Our_Beloved_BoA",
+					"indices": [
+						174,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298129507560206300,
+					"id_str": "1298129507560206336",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298129507560206336/pu/img/o1TzkZ5UDrAAz9eG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298129507560206336/pu/img/o1TzkZ5UDrAAz9eG.jpg",
+					"url": "https://t.co/6250KjtEAU",
+					"display_url": "pic.twitter.com/6250KjtEAU",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298139040877883393/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298129507560206300,
+					"id_str": "1298129507560206336",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1298129507560206336/pu/img/o1TzkZ5UDrAAz9eG.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1298129507560206336/pu/img/o1TzkZ5UDrAAz9eG.jpg",
+					"url": "https://t.co/6250KjtEAU",
+					"display_url": "pic.twitter.com/6250KjtEAU",
+					"expanded_url": "https://twitter.com/BoA_Official/status/1298139040877883393/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 27528,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298129507560206336/pu/vid/640x360/DNbQFZfjAzJ7Hwe_.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298129507560206336/pu/vid/1280x720/Uo889RMhc8WEPi3U.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1298129507560206336/pu/vid/480x270/hpmnbvhiFf1l-GpR.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1298129507560206336/pu/pl/7abEiecGKYDsaO_Q.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288694479197581300,
+			"id_str": "1288694479197581312",
+			"name": "BoA Official",
+			"screen_name": "BoA_Official",
+			"location": "",
+			"description": "🎉 축 BoA Official 계정 OPEN! 🎉 \n지난 20년간 우리와 함께 한 BoA의 모습과, 앞으로 보여줄 다양한 소식을 만나보세요! 💛",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14804,
+			"friends_count": 1,
+			"listed_count": 59,
+			"created_at": "Thu Jul 30 04:36:37 +0000 2020",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292653950580043778/g6OX75VF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288694479197581312/1597027694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3505,
+		"favorite_count": 5859,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟 We Love you BoA 🌟 \n\n\"Congratulations on your 20th Anniversary #BoA!\"\n\n💌 from. #GirlsGeneration #YOONA\n\n#보아 #BoA_Still_Our_No1 #Happy_BoA_20th_Anniversary #20years_with_BoA #Our_Beloved_BoA #20000825 #20200825 https://t.co/6250KjtEAU"
+	},
+	{
 		"created_at": "Tue Aug 25 05:07:13 +0000 2020",
 		"id": 1298116698613018600,
 		"id_str": "1298124750271766528",
