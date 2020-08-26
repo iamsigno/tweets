@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 04:07:14 +0000 2020",
+		"id": 1298462581317759000,
+		"id_str": "1298472042963099650",
+		"full_text": "\"세상에 진실이 어딨어?\"\n\n아무도 믿을 수 없는 사기 전쟁\n진짜 '꾼'들이 찾아온다!!\n\n💬사기캐들의 현실 생활 #사생활 9월 첫 방송!\n#서현 #고경표 #김효진 #김영민 https://t.co/0ebL1Q2h7K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						92,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298462066949251000,
+					"id_str": "1298462066949251072",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EgUQvbUVoAIE5x_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgUQvbUVoAIE5x_.jpg",
+					"url": "https://t.co/0ebL1Q2h7K",
+					"display_url": "pic.twitter.com/0ebL1Q2h7K",
+					"expanded_url": "https://twitter.com/jtbclove/status/1298462581317758976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298462066949251000,
+					"id_str": "1298462066949251072",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EgUQvbUVoAIE5x_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgUQvbUVoAIE5x_.jpg",
+					"url": "https://t.co/0ebL1Q2h7K",
+					"display_url": "pic.twitter.com/0ebL1Q2h7K",
+					"expanded_url": "https://twitter.com/jtbclove/status/1298462581317758976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1298462066949251072/vid/1280x720/w4MmUzlZJzM5Hufq.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1298462066949251072/vid/480x270/PC6swgP6W7dxDIog.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1298462066949251072/pl/bOLXEcr3NjBUBjHE.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1298462066949251072/vid/640x360/mdzzAA-NGVIUbQUY.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 티저3! 땡길 때, 같이 땡겨야죠? 9월 첫 방송!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://vod.jtbc.joins.com/player/clip/vo10404837"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438727,
+			"friends_count": 110,
+			"listed_count": 628,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 257,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"세상에 진실이 어딨어?\"\n\n아무도 믿을 수 없는 사기 전쟁\n진짜 '꾼'들이 찾아온다!!\n\n💬사기캐들의 현실 생활 #사생활 9월 첫 방송!\n#서현 #고경표 #김효진 #김영민 https://t.co/0ebL1Q2h7K"
+	},
+	{
+		"created_at": "Wed Aug 26 04:07:09 +0000 2020",
+		"id": 1298460922726424600,
+		"id_str": "1298472021492465664",
+		"full_text": "서현X효진 배우의 비주얼 블록버스터 &lt;사생활&gt; 3차 티저 공개🎉\n9월 \"첫 방송\"이 아니라 \"개봉\"이라고 적혀있어야 할 거 같은데요😉\n\n▶ https://t.co/wPVITn3RfZ\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #3차티저 #9월첫방송 #Seohyun #Kimhyojin https://t.co/0uNGltAPZ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "3차티저",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "9월첫방송",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						161,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wPVITn3RfZ",
+					"expanded_url": "https://youtu.be/tJQdCNTS8Xk",
+					"display_url": "youtu.be/tJQdCNTS8Xk",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1298460884637950000,
+					"id_str": "1298460884637949952",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgUPS4eVoAAmAbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgUPS4eVoAAmAbb.jpg",
+					"url": "https://t.co/0uNGltAPZ5",
+					"display_url": "pic.twitter.com/0uNGltAPZ5",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1298460922726424577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 660,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 660,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298460884637950000,
+					"id_str": "1298460884637949952",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgUPS4eVoAAmAbb.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgUPS4eVoAAmAbb.jpg",
+					"url": "https://t.co/0uNGltAPZ5",
+					"display_url": "pic.twitter.com/0uNGltAPZ5",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1298460922726424577/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1184,
+							"h": 660,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 660,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							296,
+							165
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EgUPS4eVoAAmAbb.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30877,
+			"friends_count": 12,
+			"listed_count": 182,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 228,
+		"favorite_count": 250,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서현X효진 배우의 비주얼 블록버스터 &lt;사생활&gt; 3차 티저 공개🎉\n9월 \"첫 방송\"이 아니라 \"개봉\"이라고 적혀있어야 할 거 같은데요😉\n\n▶ https://t.co/wPVITn3RfZ\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #3차티저 #9월첫방송 #Seohyun #Kimhyojin https://t.co/0uNGltAPZ5"
+	},
+	{
 		"created_at": "Tue Aug 25 07:32:17 +0000 2020",
 		"id": 1298161259683238000,
 		"id_str": "1298161259683237889",
