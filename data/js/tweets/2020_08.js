@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 03:07:09 +0000 2020",
+		"id": 1298818048858583000,
+		"id_str": "1298819310622781441",
+		"full_text": "#청순쥰 #시크쥰 #꾸러기쥰 모두 품기 위해\n벌써부터 심장이 나노 단위로 분해되는 중🥰\n\n#서현 #JTBC #새수목드라마 #사생활 #차주은\n#9월_첫방송 #사진출처_도레미엔터테인먼트 https://t.co/A8b3AVRfy4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청순쥰",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "시크쥰",
+					"indices": [
+						5,
+						9
+					]
+				},
+				{
+					"text": "꾸러기쥰",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "새수목드라마",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						73,
+						77
+					]
+				},
+				{
+					"text": "9월_첫방송",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "사진출처_도레미엔터테인먼트",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298818038041415700,
+					"id_str": "1298818038041415681",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EgZUH8lUEAE2n1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgZUH8lUEAE2n1Y.jpg",
+					"url": "https://t.co/A8b3AVRfy4",
+					"display_url": "pic.twitter.com/A8b3AVRfy4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1298818048858583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1265,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298818038041415700,
+					"id_str": "1298818038041415681",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EgZUH8lUEAE2n1Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgZUH8lUEAE2n1Y.jpg",
+					"url": "https://t.co/A8b3AVRfy4",
+					"display_url": "pic.twitter.com/A8b3AVRfy4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1298818048858583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1900,
+							"h": 1265,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1298818038041473000,
+					"id_str": "1298818038041473029",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EgZUH8lU8AUXnZn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgZUH8lU8AUXnZn.jpg",
+					"url": "https://t.co/A8b3AVRfy4",
+					"display_url": "pic.twitter.com/A8b3AVRfy4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1298818048858583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1788,
+							"h": 1190,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1298818038033076200,
+					"id_str": "1298818038033076225",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EgZUH8jU0AEQbS_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgZUH8jU0AEQbS_.jpg",
+					"url": "https://t.co/A8b3AVRfy4",
+					"display_url": "pic.twitter.com/A8b3AVRfy4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1298818048858583040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1754,
+							"h": 1167,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30921,
+			"friends_count": 12,
+			"listed_count": 181,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13095,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청순쥰 #시크쥰 #꾸러기쥰 모두 품기 위해\n벌써부터 심장이 나노 단위로 분해되는 중🥰\n\n#서현 #JTBC #새수목드라마 #사생활 #차주은\n#9월_첫방송 #사진출처_도레미엔터테인먼트 https://t.co/A8b3AVRfy4"
+	},
+	{
 		"created_at": "Thu Aug 27 01:07:09 +0000 2020",
 		"id": 1298781960131600400,
 		"id_str": "1298789113810878464",
