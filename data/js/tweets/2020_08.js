@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 01:07:09 +0000 2020",
+		"id": 1298781960131600400,
+		"id_str": "1298789113810878464",
+		"full_text": "브람스를 좋아하세요?\n💿OST 1차 라인업 공개💿\n\n#브람스를좋아하세요 ?\n👉 8월 31일 월요일 밤10시 첫 방송🎼\n\n#DoYouLikeBrahms #SBSdrama\n#박은빈 #김민재 #god #SNSD #Taeyeon #Heize #EXO #Chen #10CM #Punch #지오디 #태연 #헤이즈 #첸 #펀치 #OST #OST라인업 \n#브람스_OST_라인업을좋아하세요 https://t.co/0wGdptMRmT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브람스를좋아하세요",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "DoYouLikeBrahms",
+					"indices": [
+						67,
+						83
+					]
+				},
+				{
+					"text": "SBSdrama",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "박은빈",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "김민재",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "god",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						115,
+						123
+					]
+				},
+				{
+					"text": "Heize",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "Chen",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "Punch",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "지오디",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "헤이즈",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "첸",
+					"indices": [
+						169,
+						171
+					]
+				},
+				{
+					"text": "펀치",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "OST",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "OST라인업",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "브람스_OST_라인업을좋아하세요",
+					"indices": [
+						190,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298781247687110700,
+					"id_str": "1298781247687110657",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"url": "https://t.co/0wGdptMRmT",
+					"display_url": "pic.twitter.com/0wGdptMRmT",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1298781960131600385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298781247687110700,
+					"id_str": "1298781247687110657",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgYyqd1UMAEsBzX.jpg",
+					"url": "https://t.co/0wGdptMRmT",
+					"display_url": "pic.twitter.com/0wGdptMRmT",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1298781960131600385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587841,
+			"friends_count": 5258,
+			"listed_count": 2787,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1597908784",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1715,
+		"favorite_count": 2144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브람스를 좋아하세요?\n💿OST 1차 라인업 공개💿\n\n#브람스를좋아하세요 ?\n👉 8월 31일 월요일 밤10시 첫 방송🎼\n\n#DoYouLikeBrahms #SBSdrama\n#박은빈 #김민재 #god #SNSD #Taeyeon #Heize #EXO #Chen #10CM #Punch #지오디 #태연 #헤이즈 #첸 #펀치 #OST #OST라인업 \n#브람스_OST_라인업을좋아하세요 https://t.co/0wGdptMRmT"
+	},
+	{
 		"created_at": "Wed Aug 26 11:05:38 +0000 2020",
 		"id": 1298577338473631700,
 		"id_str": "1298577338473631744",
