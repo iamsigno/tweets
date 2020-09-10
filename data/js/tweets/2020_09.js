@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 14:29:53 +0000 2020",
+		"id": 1303917042634956800,
+		"id_str": "1304064559175487493",
+		"full_text": "사기꾼이라면 '부캐'가 필수?!\n&lt;사생활&gt; 캐릭터 포스터 공개👥\n\n미스터리한 남자 이정환(#고경표)\n생활형 사기꾼 차주은(#서현)\n사기꾼에게 사기 치는 정복기(#김효진)\n피도 눈물도 없이 사기 치는 김재욱(#김영민)\n\nJTBC 새 수목드라마 &lt;#사생활&gt;\n10월 7일 수요일 밤 9시 30분 첫 방송! https://t.co/Uf77qmdsPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고경표",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						145,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303916815106490400,
+					"id_str": "1303916815106490368",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehhxb1UUwAAmK3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehhxb1UUwAAmK3a.jpg",
+					"url": "https://t.co/Uf77qmdsPQ",
+					"display_url": "pic.twitter.com/Uf77qmdsPQ",
+					"expanded_url": "https://twitter.com/jtbclove/status/1303917042634956800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 1223,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303916815106490400,
+					"id_str": "1303916815106490368",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehhxb1UUwAAmK3a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehhxb1UUwAAmK3a.jpg",
+					"url": "https://t.co/Uf77qmdsPQ",
+					"display_url": "pic.twitter.com/Uf77qmdsPQ",
+					"expanded_url": "https://twitter.com/jtbclove/status/1303917042634956800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 1223,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303916867199803400,
+					"id_str": "1303916867199803392",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehhxe3YVoAAQ7Ga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehhxe3YVoAAQ7Ga.jpg",
+					"url": "https://t.co/Uf77qmdsPQ",
+					"display_url": "pic.twitter.com/Uf77qmdsPQ",
+					"expanded_url": "https://twitter.com/jtbclove/status/1303917042634956800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1223,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303916950800666600,
+					"id_str": "1303916950800666624",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehhxju0VkAAUOwZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehhxju0VkAAUOwZ.jpg",
+					"url": "https://t.co/Uf77qmdsPQ",
+					"display_url": "pic.twitter.com/Uf77qmdsPQ",
+					"expanded_url": "https://twitter.com/jtbclove/status/1303917042634956800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 864,
+							"h": 1223,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1303917019251708000,
+					"id_str": "1303917019251707905",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehhxnt0VkAEauQx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehhxnt0VkAEauQx.jpg",
+					"url": "https://t.co/Uf77qmdsPQ",
+					"display_url": "pic.twitter.com/Uf77qmdsPQ",
+					"expanded_url": "https://twitter.com/jtbclove/status/1303917042634956800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 864,
+							"h": 1223,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439771,
+			"friends_count": 110,
+			"listed_count": 633,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1593998285",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "사기꾼이라면 '부캐'가 필수?!\n&lt;사생활&gt; 캐릭터 포스터 공개👥\n\n미스터리한 남자 이정환(#고경표)\n생활형 사기꾼 차주은(#서현)\n사기꾼에게 사기 치는 정복기(#김효진)\n피도 눈물도 없이 사기 치는 김재욱(#김영민)\n\nJTBC 새 수목드라마 &lt;#사생활&gt;\n10월 7일 수요일 밤 9시 30분 첫 방송! https://t.co/Uf77qmdsPQ"
+	},
+	{
 		"created_at": "Thu Sep 10 04:32:26 +0000 2020",
 		"id": 1303914205481967600,
 		"id_str": "1303914205481967616",
