@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 20:51:55 +0000 2020",
+		"id": 1306808845897883600,
+		"id_str": "1307059801579565057",
+		"full_text": "내일(19일)부터 10월 18일까지 진행될 온라인장터에서\n값싸고 품질좋은 우리 임산물 구매에 많은 관심 부탁드립니다.\n\n(+) 축제기간 중 네이버 라이브쇼핑을 통해 \n#소녀시대 #유리, 개그우먼 #홍현희 와 함께 특판상품도 만나보세요👀\n\n청정숲푸드.com 으로 오세요! https://t.co/yYjEOVjJtx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "홍현희",
+					"indices": [
+						109,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1306808740176212000,
+					"id_str": "1306808740176211969",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiK3oBuUMAEZ7y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiK3oBuUMAEZ7y3.jpg",
+					"url": "https://t.co/yYjEOVjJtx",
+					"display_url": "pic.twitter.com/yYjEOVjJtx",
+					"expanded_url": "https://twitter.com/forest_news/status/1306808845897883649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1624,
+							"h": 1444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1306808740176212000,
+					"id_str": "1306808740176211969",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EiK3oBuUMAEZ7y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiK3oBuUMAEZ7y3.jpg",
+					"url": "https://t.co/yYjEOVjJtx",
+					"display_url": "pic.twitter.com/yYjEOVjJtx",
+					"expanded_url": "https://twitter.com/forest_news/status/1306808845897883649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1624,
+							"h": 1444,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1306808843712696300,
+		"in_reply_to_status_id_str": "1306808843712696320",
+		"in_reply_to_user_id": 80766057,
+		"in_reply_to_user_id_str": "80766057",
+		"in_reply_to_screen_name": "forest_news",
+		"user": {
+			"id": 80766057,
+			"id_str": "80766057",
+			"name": "대한민국 산림청",
+			"screen_name": "forest_news",
+			"location": "Korea, Daejeon",
+			"description": "★ 임(林)자는 누구? 우리 숲과 산을 아끼는 사람을 말하오!  \n                          여러분들 모두가 임(林)자가 되어준다면...\n- 그럴리는 없겠지만 비지니스문의 magazinesup@korea.kr 헛헛-",
+			"url": "http://t.co/AzSP2FSTEJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/AzSP2FSTEJ",
+							"expanded_url": "http://blog.daum.net/kfs4079",
+							"display_url": "blog.daum.net/kfs4079",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171014,
+			"friends_count": 83,
+			"listed_count": 855,
+			"created_at": "Thu Oct 08 04:33:43 +0000 2009",
+			"favourites_count": 3317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263290584552243200/KsWuD7Ah_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263290584552243200/KsWuD7Ah_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/80766057/1591148823",
+			"profile_link_color": "299966",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 108,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내일(19일)부터 10월 18일까지 진행될 온라인장터에서\n값싸고 품질좋은 우리 임산물 구매에 많은 관심 부탁드립니다.\n\n(+) 축제기간 중 네이버 라이브쇼핑을 통해 \n#소녀시대 #유리, 개그우먼 #홍현희 와 함께 특판상품도 만나보세요👀\n\n청정숲푸드.com 으로 오세요! https://t.co/yYjEOVjJtx"
+	},
+	{
 		"created_at": "Fri Sep 18 14:19:00 +0000 2020",
 		"id": 1296753367104893000,
 		"id_str": "1306960921605021696",
