@@ -1,6 +1,539 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 14:19:00 +0000 2020",
+		"id": 1296753367104893000,
+		"id_str": "1306960921605021696",
+		"full_text": "200821 YoonA - JIGOTT F/W 2020 promo pics (2)\n\nhttps://t.co/ZbzqzDRHU3\nhttps://t.co/NvjP8rehB5\nhttps://t.co/PWtBqFqJjI\n\n#YoonA #윤아 https://t.co/rO01yPB950",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YoonA",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						127,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZbzqzDRHU3",
+					"expanded_url": "http://www.jigott.co.kr/xml/campaign/Fall-Winter.2020/m/11.jpg",
+					"display_url": "jigott.co.kr/xml/campaign/F…",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/NvjP8rehB5",
+					"expanded_url": "http://www.jigott.co.kr/xml/campaign/Fall-Winter.2020/m/9.jpg",
+					"display_url": "jigott.co.kr/xml/campaign/F…",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/PWtBqFqJjI",
+					"expanded_url": "http://www.jigott.co.kr/xml/campaign/Fall-Winter.2020/m/6.jpg",
+					"display_url": "jigott.co.kr/xml/campaign/F…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296753264755478500,
+					"id_str": "1296753264755478533",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7-OUsUEAUifBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7-OUsUEAUifBa.jpg",
+					"url": "https://t.co/rO01yPB950",
+					"display_url": "pic.twitter.com/rO01yPB950",
+					"expanded_url": "https://twitter.com/mystarmyangel/status/1296753367104892930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296753264755478500,
+					"id_str": "1296753264755478533",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7-OUsUEAUifBa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7-OUsUEAUifBa.jpg",
+					"url": "https://t.co/rO01yPB950",
+					"display_url": "pic.twitter.com/rO01yPB950",
+					"expanded_url": "https://twitter.com/mystarmyangel/status/1296753367104892930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296753274385621000,
+					"id_str": "1296753274385620997",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7-O4kUYAUxmeV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7-O4kUYAUxmeV.jpg",
+					"url": "https://t.co/rO01yPB950",
+					"display_url": "pic.twitter.com/rO01yPB950",
+					"expanded_url": "https://twitter.com/mystarmyangel/status/1296753367104892930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296753280463196200,
+					"id_str": "1296753280463196160",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7-PPNU0AA6GAw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7-PPNU0AA6GAw.jpg",
+					"url": "https://t.co/rO01yPB950",
+					"display_url": "pic.twitter.com/rO01yPB950",
+					"expanded_url": "https://twitter.com/mystarmyangel/status/1296753367104892930/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1296753210774786000,
+		"in_reply_to_status_id_str": "1296753210774786048",
+		"in_reply_to_user_id": 617136715,
+		"in_reply_to_user_id_str": "617136715",
+		"in_reply_to_screen_name": "mystarmyangel",
+		"user": {
+			"id": 617136715,
+			"id_str": "617136715",
+			"name": "Mystarmyangel",
+			"screen_name": "mystarmyangel",
+			"location": "🇸🇬translator, photo compiler",
+			"description": "♥ YOONA🦌 (IG➼yoona__lim,Weibo➼LIMYOONA90)\n♥ RAE-O🐶\n\n🔜 #허쉬, #기적\n\nBackup:@mystarmyangel_2\n\n101023☆111210☆121123☆130622 ☆131012☆180721☆180928☆190330",
+			"url": "https://t.co/ONaSCz6OV3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONaSCz6OV3",
+							"expanded_url": "https://mystarmyangel.tumblr.com",
+							"display_url": "mystarmyangel.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52345,
+			"friends_count": 176,
+			"listed_count": 393,
+			"created_at": "Sun Jun 24 13:45:46 +0000 2012",
+			"favourites_count": 2274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303587174793670656/kWs1gedI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303587174793670656/kWs1gedI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617136715/1585907043",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 421,
+		"favorite_count": 505,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "200821 YoonA - JIGOTT F/W 2020 promo pics (2)\n\nhttps://t.co/ZbzqzDRHU3\nhttps://t.co/NvjP8rehB5\nhttps://t.co/PWtBqFqJjI\n\n#YoonA #윤아 https://t.co/rO01yPB950"
+	},
+	{
+		"created_at": "Fri Sep 18 14:18:58 +0000 2020",
+		"id": 1296753210774786000,
+		"id_str": "1306960914852114436",
+		"full_text": "200821 YoonA - JIGOTT F/W 2020 promo pics (1)\n\nhttps://t.co/JFAYAv298S\nhttps://t.co/Ywbsu1tnLX\n\n#YoonA #윤아 https://t.co/wtY41v5nHe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YoonA",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						103,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JFAYAv298S",
+					"expanded_url": "http://jigott.co.kr/xml/campaign/Fall-Winter.2020/m/7.jpg",
+					"display_url": "jigott.co.kr/xml/campaign/F…",
+					"indices": [
+						47,
+						70
+					]
+				},
+				{
+					"url": "https://t.co/Ywbsu1tnLX",
+					"expanded_url": "http://jigott.co.kr/xml/campaign/Fall-Winter.2020/m/8.jpg",
+					"display_url": "jigott.co.kr/xml/campaign/F…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296753196887502800,
+					"id_str": "1296753196887502848",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7-KX3U8AAftQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7-KX3U8AAftQQ.jpg",
+					"url": "https://t.co/wtY41v5nHe",
+					"display_url": "pic.twitter.com/wtY41v5nHe",
+					"expanded_url": "https://twitter.com/mystarmyangel/status/1296753210774786048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296753196887502800,
+					"id_str": "1296753196887502848",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7-KX3U8AAftQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7-KX3U8AAftQQ.jpg",
+					"url": "https://t.co/wtY41v5nHe",
+					"display_url": "pic.twitter.com/wtY41v5nHe",
+					"expanded_url": "https://twitter.com/mystarmyangel/status/1296753210774786048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1296753204869206000,
+					"id_str": "1296753204869206017",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/Ef7-K1mUEAE00HG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ef7-K1mUEAE00HG.jpg",
+					"url": "https://t.co/wtY41v5nHe",
+					"display_url": "pic.twitter.com/wtY41v5nHe",
+					"expanded_url": "https://twitter.com/mystarmyangel/status/1296753210774786048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 579,
+							"h": 869,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 617136715,
+			"id_str": "617136715",
+			"name": "Mystarmyangel",
+			"screen_name": "mystarmyangel",
+			"location": "🇸🇬translator, photo compiler",
+			"description": "♥ YOONA🦌 (IG➼yoona__lim,Weibo➼LIMYOONA90)\n♥ RAE-O🐶\n\n🔜 #허쉬, #기적\n\nBackup:@mystarmyangel_2\n\n101023☆111210☆121123☆130622 ☆131012☆180721☆180928☆190330",
+			"url": "https://t.co/ONaSCz6OV3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ONaSCz6OV3",
+							"expanded_url": "https://mystarmyangel.tumblr.com",
+							"display_url": "mystarmyangel.tumblr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52345,
+			"friends_count": 176,
+			"listed_count": 393,
+			"created_at": "Sun Jun 24 13:45:46 +0000 2012",
+			"favourites_count": 2274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 105405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303587174793670656/kWs1gedI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303587174793670656/kWs1gedI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/617136715/1585907043",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 690,
+		"favorite_count": 915,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "200821 YoonA - JIGOTT F/W 2020 promo pics (1)\n\nhttps://t.co/JFAYAv298S\nhttps://t.co/Ywbsu1tnLX\n\n#YoonA #윤아 https://t.co/wtY41v5nHe"
+	},
+	{
 		"created_at": "Fri Sep 18 06:07:09 +0000 2020",
 		"id": 1306835345594482700,
 		"id_str": "1306837141956198400",
