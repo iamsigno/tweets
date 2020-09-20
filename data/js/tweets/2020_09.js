@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 15:24:25 +0000 2020",
+		"id": 1307576998932349000,
+		"id_str": "1307702161040531456",
+		"full_text": "Q. 서현의 '사생활'은 어떤 모습인가요? \n🌟서현 \"요즘은 기회가 많이 없긴 한데, 운전하는 걸 좋아해서 혼자 드라이브를 즐겨 해요. 좋아하는 노래를 틀어놓고 정해진 목적지 없이 마음이 이끄는 대로 달리다 보면 마치 여행을 떠나는 것 같더라고요.\" \n\n#SEOHYUN #1stLook #PrivateLives https://t.co/ySL6j2vcjv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						160,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307576962383110100,
+					"id_str": "1307576962383110144",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EiVyUcdUYAAgpiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiVyUcdUYAAgpiV.jpg",
+					"url": "https://t.co/ySL6j2vcjv",
+					"display_url": "pic.twitter.com/ySL6j2vcjv",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1307576998932348929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307576962383110100,
+					"id_str": "1307576962383110144",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EiVyUcdUYAAgpiV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiVyUcdUYAAgpiV.jpg",
+					"url": "https://t.co/ySL6j2vcjv",
+					"display_url": "pic.twitter.com/ySL6j2vcjv",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1307576998932348929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1307576307635478500,
+		"in_reply_to_status_id_str": "1307576307635478534",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13979,
+			"friends_count": 9,
+			"listed_count": 213,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1600588528",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 138,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Q. 서현의 '사생활'은 어떤 모습인가요? \n🌟서현 \"요즘은 기회가 많이 없긴 한데, 운전하는 걸 좋아해서 혼자 드라이브를 즐겨 해요. 좋아하는 노래를 틀어놓고 정해진 목적지 없이 마음이 이끄는 대로 달리다 보면 마치 여행을 떠나는 것 같더라고요.\" \n\n#SEOHYUN #1stLook #PrivateLives https://t.co/ySL6j2vcjv"
+	},
+	{
 		"created_at": "Sun Sep 20 14:44:57 +0000 2020",
 		"id": 1307686756595232800,
 		"id_str": "1307692228232568833",
