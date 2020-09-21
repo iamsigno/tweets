@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 21 06:15:59 +0000 2020",
+		"id": 1307857130381172700,
+		"id_str": "1307926529108668416",
+		"full_text": "드라마 #사생활 의 두 히로인 #김효진 과 #서현! 리얼 사기꾼으로 연기 대결을 선보일 두 배우가 #퍼스트룩 과 함께 멋진 화보를 완성했습니다. \n\n#KimHyojin #Seohyun #1stLook #FendiTimepieces #펜디타임피스 #갤러리어클락 #GalleryOclock #포에버펜디 #ForeverFendi #펜디런어웨이 #FendiRunAway https://t.co/uci4yIdiV5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						24,
+						27
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "KimHyojin",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "FendiTimepieces",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "펜디타임피스",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "갤러리어클락",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "GalleryOclock",
+					"indices": [
+						145,
+						159
+					]
+				},
+				{
+					"text": "포에버펜디",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"text": "ForeverFendi",
+					"indices": [
+						167,
+						180
+					]
+				},
+				{
+					"text": "펜디런어웨이",
+					"indices": [
+						181,
+						188
+					]
+				},
+				{
+					"text": "FendiRunAway",
+					"indices": [
+						189,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307856683725512700,
+					"id_str": "1307856683725512704",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZwuXqUYAAE0s0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZwuXqUYAAE0s0.jpg",
+					"url": "https://t.co/uci4yIdiV5",
+					"display_url": "pic.twitter.com/uci4yIdiV5",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1307857130381172738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1227,
+							"h": 1725,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307856683725512700,
+					"id_str": "1307856683725512704",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZwuXqUYAAE0s0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZwuXqUYAAE0s0.jpg",
+					"url": "https://t.co/uci4yIdiV5",
+					"display_url": "pic.twitter.com/uci4yIdiV5",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1307857130381172738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1227,
+							"h": 1725,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307856683897503700,
+					"id_str": "1307856683897503751",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZwuYTUwAck9dh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZwuYTUwAck9dh.jpg",
+					"url": "https://t.co/uci4yIdiV5",
+					"display_url": "pic.twitter.com/uci4yIdiV5",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1307857130381172738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307856684027539500,
+					"id_str": "1307856684027539456",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZwuYyU8AArFkB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZwuYyU8AArFkB.jpg",
+					"url": "https://t.co/uci4yIdiV5",
+					"display_url": "pic.twitter.com/uci4yIdiV5",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1307857130381172738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307856684182679600,
+					"id_str": "1307856684182679552",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/EiZwuZXUMAA0_gn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiZwuZXUMAA0_gn.jpg",
+					"url": "https://t.co/uci4yIdiV5",
+					"display_url": "pic.twitter.com/uci4yIdiV5",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1307857130381172738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1327,
+							"h": 971,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 878,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184783,
+			"friends_count": 1,
+			"listed_count": 314,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1600310784",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 267,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드라마 #사생활 의 두 히로인 #김효진 과 #서현! 리얼 사기꾼으로 연기 대결을 선보일 두 배우가 #퍼스트룩 과 함께 멋진 화보를 완성했습니다. \n\n#KimHyojin #Seohyun #1stLook #FendiTimepieces #펜디타임피스 #갤러리어클락 #GalleryOclock #포에버펜디 #ForeverFendi #펜디런어웨이 #FendiRunAway https://t.co/uci4yIdiV5"
+	},
+	{
 		"created_at": "Sun Sep 20 15:24:25 +0000 2020",
 		"id": 1307576998932349000,
 		"id_str": "1307702161040531456",
