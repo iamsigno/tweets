@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 10:07:08 +0000 2020",
+		"id": 1308344679335784400,
+		"id_str": "1308347090691592197",
+		"full_text": "브람스를 좋아하세요? OST Part.6\n조유리 -MY LOVE MV 공개!\n\nMV 보러 가기\n☞ https://t.co/APtI4ZnE3X\n\n[브람스를 좋아하세요?]\n👉 매주 [월/화] 밤 10시🎼\n⠀\n#브람스를좋아하세요 #DoYouLikeBrahms #박은빈 #김민재\n#MyLoveJOYURI #아이즈원 #IZONE #アイズワン\n#유리 #ユリ #JOYURI #JOYURIOST https://t.co/pOqI7RPFRo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "브람스를좋아하세요",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"text": "DoYouLikeBrahms",
+					"indices": [
+						125,
+						141
+					]
+				},
+				{
+					"text": "박은빈",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "김민재",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "MyLoveJOYURI",
+					"indices": [
+						152,
+						165
+					]
+				},
+				{
+					"text": "아이즈원",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "アイズワン",
+					"indices": [
+						179,
+						185
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "ユリ",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "JOYURI",
+					"indices": [
+						194,
+						201
+					]
+				},
+				{
+					"text": "JOYURIOST",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/APtI4ZnE3X",
+					"expanded_url": "https://youtu.be/0HDN7gdmRCA",
+					"display_url": "youtu.be/0HDN7gdmRCA",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1308344063934881800,
+					"id_str": "1308344063934881793",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eigr_obUYAELUYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eigr_obUYAELUYu.jpg",
+					"url": "https://t.co/pOqI7RPFRo",
+					"display_url": "pic.twitter.com/pOqI7RPFRo",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1308344679335784449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308344063934881800,
+					"id_str": "1308344063934881793",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Eigr_obUYAELUYu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eigr_obUYAELUYu.jpg",
+					"url": "https://t.co/pOqI7RPFRo",
+					"display_url": "pic.twitter.com/pOqI7RPFRo",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1308344679335784449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1599139,
+			"friends_count": 4846,
+			"listed_count": 2810,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245170515666485250/BAWlH6TW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1597908784",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 586,
+		"favorite_count": 659,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "브람스를 좋아하세요? OST Part.6\n조유리 -MY LOVE MV 공개!\n\nMV 보러 가기\n☞ https://t.co/APtI4ZnE3X\n\n[브람스를 좋아하세요?]\n👉 매주 [월/화] 밤 10시🎼\n⠀\n#브람스를좋아하세요 #DoYouLikeBrahms #박은빈 #김민재\n#MyLoveJOYURI #아이즈원 #IZONE #アイズワン\n#유리 #ユリ #JOYURI #JOYURIOST https://t.co/pOqI7RPFRo"
+	},
+	{
 		"created_at": "Tue Sep 22 07:07:09 +0000 2020",
 		"id": 1308289896214220800,
 		"id_str": "1308301792334082049",
