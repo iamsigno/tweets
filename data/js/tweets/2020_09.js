@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 03:07:09 +0000 2020",
+		"id": 1308239596610674700,
+		"id_str": "1308241394658619392",
+		"full_text": "스페셜 티저✨ 판교 신혼부부\n서현X고경표, 그들의 반전 정체는?!\n\n생활형 사기꾼, 차주은(#서현)\n정체를 알 수 없는 남자, 이정환(#고경표)\n\n사기캐들의 현실 생활 〈#사생활〉\n10월 7일 수요일 밤 9시 30분 첫 방송! https://t.co/818d6UFrDW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308213286031126500,
+					"id_str": "1308213286031126529",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Eie1TA1UMAEDKDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eie1TA1UMAEDKDH.jpg",
+					"url": "https://t.co/818d6UFrDW",
+					"display_url": "pic.twitter.com/818d6UFrDW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1308239596610674688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308213286031126500,
+					"id_str": "1308213286031126529",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Eie1TA1UMAEDKDH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eie1TA1UMAEDKDH.jpg",
+					"url": "https://t.co/818d6UFrDW",
+					"display_url": "pic.twitter.com/818d6UFrDW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1308239596610674688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 37538,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1308213286031126529/pl/hM2YCWoPZOqjaVMQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1308213286031126529/vid/480x270/qKFj1MFGixzzKQFP.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1308213286031126529/vid/1280x720/O902kkS0KAaujgq1.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1308213286031126529/vid/640x360/l-J5T1C9dJfMPu-x.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [사생활] 스페셜 티저☆ 판교 신혼부부 서현X고경표, 그들의 반전 정체?! 10월 7일(수) 첫 방송!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/watch?v=jw12dNuvlRk"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440640,
+			"friends_count": 111,
+			"listed_count": 638,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "스페셜 티저✨ 판교 신혼부부\n서현X고경표, 그들의 반전 정체는?!\n\n생활형 사기꾼, 차주은(#서현)\n정체를 알 수 없는 남자, 이정환(#고경표)\n\n사기캐들의 현실 생활 〈#사생활〉\n10월 7일 수요일 밤 9시 30분 첫 방송! https://t.co/818d6UFrDW"
+	},
+	{
 		"created_at": "Tue Sep 22 01:52:23 +0000 2020",
 		"id": 1308222582441873400,
 		"id_str": "1308222582441873409",
