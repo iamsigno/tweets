@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 22 01:07:09 +0000 2020",
+		"id": 1308209398393614300,
+		"id_str": "1308211198492643329",
+		"full_text": "#HappyHYOYEONDay 🎂🎉\n\n#200922 #HYOYEON #효연 @Hyoyeon_djhyo #소녀시대 #GirlsGeneration https://t.co/UnDT9Uu9JM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyHYOYEONDay",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						42,
+						56
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1308059797124595700,
+					"id_str": "1308059797124595715",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EicpdICUwAMqC__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EicpdICUwAMqC__.jpg",
+					"url": "https://t.co/UnDT9Uu9JM",
+					"display_url": "pic.twitter.com/UnDT9Uu9JM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1308209398393614337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1335,
+							"h": 1667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1308059797124595700,
+					"id_str": "1308059797124595715",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EicpdICUwAMqC__.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EicpdICUwAMqC__.jpg",
+					"url": "https://t.co/UnDT9Uu9JM",
+					"display_url": "pic.twitter.com/UnDT9Uu9JM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1308209398393614337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1335,
+							"h": 1667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3563227,
+			"friends_count": 4,
+			"listed_count": 5038,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 35,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2324,
+		"favorite_count": 3717,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#HappyHYOYEONDay 🎂🎉\n\n#200922 #HYOYEON #효연 @Hyoyeon_djhyo #소녀시대 #GirlsGeneration https://t.co/UnDT9Uu9JM"
+	},
+	{
 		"created_at": "Mon Sep 21 10:07:09 +0000 2020",
 		"id": 1307970200872968200,
 		"id_str": "1307984706206564353",
