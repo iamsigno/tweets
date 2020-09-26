@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 26 06:37:24 +0000 2020",
+		"id": 1309417164303003600,
+		"id_str": "1309743857400070145",
+		"full_text": "#퍼스트룩 과 함께한 미모 사기 조합 #김효진 #서현! #펜디타임피스 컬렉션의 클래식한 워치와 함께한 두 배우의 아름다움을 패션 필름으로 만나보세요. 다음 주에는 훈훈함 가득한 #사생활 인터뷰 영상도 찾아올 예정! \n\nHere's the #1stLook fashion film of #KimHyoJin and #SeoHyun. https://t.co/hhSmMB8Kdj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						26,
+						29
+					]
+				},
+				{
+					"text": "펜디타임피스",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "KimHyoJin",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"text": "SeoHyun",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1309412697818067000,
+					"id_str": "1309412697818066945",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1309412697818066945/pu/img/B2y-xhgub_vq0A8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1309412697818066945/pu/img/B2y-xhgub_vq0A8I.jpg",
+					"url": "https://t.co/hhSmMB8Kdj",
+					"display_url": "pic.twitter.com/hhSmMB8Kdj",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1309417164303003648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1309412697818067000,
+					"id_str": "1309412697818066945",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1309412697818066945/pu/img/B2y-xhgub_vq0A8I.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1309412697818066945/pu/img/B2y-xhgub_vq0A8I.jpg",
+					"url": "https://t.co/hhSmMB8Kdj",
+					"display_url": "pic.twitter.com/hhSmMB8Kdj",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1309417164303003648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42375,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1309412697818066945/pu/vid/480x270/O0bYIdO6JGI9vaux.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1309412697818066945/pu/vid/640x360/LqKdVF32_vO9p_zO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1309412697818066945/pu/vid/1280x720/jr7bIFimXO9Hges1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1309412697818066945/pu/pl/2lsvK7-DeUZkTsyF.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 184820,
+			"friends_count": 1,
+			"listed_count": 314,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 330,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1600310784",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 396,
+		"favorite_count": 522,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퍼스트룩 과 함께한 미모 사기 조합 #김효진 #서현! #펜디타임피스 컬렉션의 클래식한 워치와 함께한 두 배우의 아름다움을 패션 필름으로 만나보세요. 다음 주에는 훈훈함 가득한 #사생활 인터뷰 영상도 찾아올 예정! \n\nHere's the #1stLook fashion film of #KimHyoJin and #SeoHyun. https://t.co/hhSmMB8Kdj"
+	},
+	{
 		"created_at": "Fri Sep 25 10:07:09 +0000 2020",
 		"id": 1309422760951648300,
 		"id_str": "1309434254829514757",
