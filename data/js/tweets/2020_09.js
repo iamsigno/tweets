@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 28 15:07:09 +0000 2020",
+		"id": 1310595220543647700,
+		"id_str": "1310596919161434113",
+		"full_text": "TAEYEON テヨン '#GirlsSpkOut (Feat.ちゃんみな)' MV Teaser # 1\n\n🎬 https://t.co/UCJYVgJ08a\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UCJYVgJ08a",
+					"expanded_url": "https://youtu.be/u9Y9A3lKH9A",
+					"display_url": "youtu.be/u9Y9A3lKH9A",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3567882,
+			"friends_count": 4,
+			"listed_count": 5041,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3021,
+		"favorite_count": 3397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "TAEYEON テヨン '#GirlsSpkOut (Feat.ちゃんみな)' MV Teaser # 1\n\n🎬 https://t.co/UCJYVgJ08a\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Mon Sep 28 10:07:09 +0000 2020",
 		"id": 1310519620235939800,
 		"id_str": "1310521419151835137",
