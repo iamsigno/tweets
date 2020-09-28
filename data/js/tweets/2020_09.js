@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 28 10:07:09 +0000 2020",
+		"id": 1310519620235939800,
+		"id_str": "1310521419151835137",
+		"full_text": "[하이라이트] 추석특집! 소녀시대, 에프엑스, 레드벨벳! SM 여돌 노래모음♬\n\n소녀시대(SNSD), 에프엑스(f(x)), 레드벨벳(Red Velvet)까지\nSM 걸그룹 노래 모음 특집! (ღ'ᴗ'ღ)\n📹https://t.co/vGufC9Wa3f\n\n#파트모음 #SM걸그룹 #하이라이트 https://t.co/nnDnd4Rl2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "파트모음",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "SM걸그룹",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vGufC9Wa3f",
+					"expanded_url": "https://youtu.be/pSOxoeeXGG8",
+					"display_url": "youtu.be/pSOxoeeXGG8",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1310490831627776000,
+					"id_str": "1310490831627776002",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei_Md9SUcAIqUMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei_Md9SUcAIqUMx.jpg",
+					"url": "https://t.co/nnDnd4Rl2C",
+					"display_url": "pic.twitter.com/nnDnd4Rl2C",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1310519620235939841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310490831627776000,
+					"id_str": "1310490831627776002",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Ei_Md9SUcAIqUMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ei_Md9SUcAIqUMx.jpg",
+					"url": "https://t.co/nnDnd4Rl2C",
+					"display_url": "pic.twitter.com/nnDnd4Rl2C",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1310519620235939841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57415,
+			"friends_count": 2514,
+			"listed_count": 234,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[하이라이트] 추석특집! 소녀시대, 에프엑스, 레드벨벳! SM 여돌 노래모음♬\n\n소녀시대(SNSD), 에프엑스(f(x)), 레드벨벳(Red Velvet)까지\nSM 걸그룹 노래 모음 특집! (ღ'ᴗ'ღ)\n📹https://t.co/vGufC9Wa3f\n\n#파트모음 #SM걸그룹 #하이라이트 https://t.co/nnDnd4Rl2C"
+	},
+	{
 		"created_at": "Sun Sep 27 08:20:47 +0000 2020",
 		"id": 1310127034799014000,
 		"id_str": "1310132265507143682",
