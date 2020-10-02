@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 08:07:09 +0000 2020",
+		"id": 1311938978417766400,
+		"id_str": "1311940772804132865",
+		"full_text": "진짜 재난이 찾아왔다!\n신선도 100% 재난영화 &lt;#엑시트🚧&gt;\n오늘 밤 8시, KBS 2TV 방송\n#추석특선영화 #특선영화 #조정석 #윤아 #소녀시대 https://t.co/Ad1atKyn30",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "엑시트",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "추석특선영화",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "특선영화",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "조정석",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						84,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1310804372247339000,
+					"id_str": "1310804372247339009",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EjD1H_NUcAEEvfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjD1H_NUcAEEvfQ.jpg",
+					"url": "https://t.co/Ad1atKyn30",
+					"display_url": "pic.twitter.com/Ad1atKyn30",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1311938978417766400/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1250,
+							"h": 702,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1310804372247339000,
+					"id_str": "1310804372247339009",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EjD1H_NUcAEEvfQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjD1H_NUcAEEvfQ.jpg",
+					"url": "https://t.co/Ad1atKyn30",
+					"display_url": "pic.twitter.com/Ad1atKyn30",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1311938978417766400/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 1250,
+							"h": 702,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1310804372247339009/pl/SBm_ZhI4puX_JiY7.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1310804372247339009/vid/480x270/IPUbxGrBBbExMBOY.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1310804372247339009/vid/640x360/sMgVd9YBYE3xhBD3.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1310804372247339009/vid/1280x720/EXkPKtO4lB1JQfNd.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/V6p1lhj6qs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/V6p1lhj6qs",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1088700,
+			"friends_count": 58798,
+			"listed_count": 2012,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 80,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247410515019620352/Nio3ZxzN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1600902921",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "진짜 재난이 찾아왔다!\n신선도 100% 재난영화 &lt;#엑시트🚧&gt;\n오늘 밤 8시, KBS 2TV 방송\n#추석특선영화 #특선영화 #조정석 #윤아 #소녀시대 https://t.co/Ad1atKyn30"
+	},
+	{
 		"created_at": "Thu Oct 01 04:07:08 +0000 2020",
 		"id": 1311501086876864500,
 		"id_str": "1311517984343699457",
@@ -78,7 +329,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "LINE MUSIC",
 			"screen_name": "LINEMUSIC_JP",
 			"location": "",
-			"description": "LINEの音楽ストリーミングサービス #LINEMUSIC \nおにし👩🏻たかってぃ🤱つっきー👩🏻‍🦱えってぃ👧🏻が旬な音楽情報をお届け🎁\n/✍️:https://t.co/r1HWxRsYBC\n/📷:https://t.co/u0zRxurTRy\n/お問合せ👉https://t.co/TFvmtwWpMO",
+			"description": "LINEの音楽ストリーミングサービス #LINEMUSIC \nおにし👩🏻たかってぃ🤱つっきー👩🏻🦱えってぃ👧🏻が旬な音楽情報をお届け🎁\n/✍️:https://t.co/r1HWxRsYBC\n/📷:https://t.co/u0zRxurTRy\n/お問合せ👉https://t.co/TFvmtwWpMO",
 			"url": "https://t.co/329xsvBLof",
 			"entities": {
 				"url": {
