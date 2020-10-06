@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 07:07:09 +0000 2020",
+		"id": 1313370196095070200,
+		"id_str": "1313375225338310661",
+		"full_text": "그동안 서현 배우 보고 '사기캐', '사기다' 했던 분들 다 나오세요.\n\n나오셔서 진짜 '사기꾼' 차주은으로 변신한 서현 배우 비하인드 컷 보고 환호성을 지르세요🤣🤩\n\n#서현 #JTBC #사생활 #차주은 #D-1 #Seohyun https://t.co/OohX1Y9mJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "D",
+					"indices": [
+						114,
+						116
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						119,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313370158337945600,
+					"id_str": "1313370158337945600",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EjoHM1JU8AADrIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjoHM1JU8AADrIZ.jpg",
+					"url": "https://t.co/OohX1Y9mJs",
+					"display_url": "pic.twitter.com/OohX1Y9mJs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313370196095070210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313370158337945600,
+					"id_str": "1313370158337945600",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EjoHM1JU8AADrIZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjoHM1JU8AADrIZ.jpg",
+					"url": "https://t.co/OohX1Y9mJs",
+					"display_url": "pic.twitter.com/OohX1Y9mJs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313370196095070210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313370158346371000,
+					"id_str": "1313370158346371072",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EjoHM1LVgAAmIZ8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjoHM1LVgAAmIZ8.jpg",
+					"url": "https://t.co/OohX1Y9mJs",
+					"display_url": "pic.twitter.com/OohX1Y9mJs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313370196095070210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313370158342185000,
+					"id_str": "1313370158342184961",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EjoHM1KVoAEfyom.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjoHM1KVoAEfyom.jpg",
+					"url": "https://t.co/OohX1Y9mJs",
+					"display_url": "pic.twitter.com/OohX1Y9mJs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313370196095070210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313370158342131700,
+					"id_str": "1313370158342131712",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EjoHM1KU0AAhyKd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjoHM1KU0AAhyKd.jpg",
+					"url": "https://t.co/OohX1Y9mJs",
+					"display_url": "pic.twitter.com/OohX1Y9mJs",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313370196095070210/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32543,
+			"friends_count": 12,
+			"listed_count": 186,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그동안 서현 배우 보고 '사기캐', '사기다' 했던 분들 다 나오세요.\n\n나오셔서 진짜 '사기꾼' 차주은으로 변신한 서현 배우 비하인드 컷 보고 환호성을 지르세요🤣🤩\n\n#서현 #JTBC #사생활 #차주은 #D-1 #Seohyun https://t.co/OohX1Y9mJs"
+	},
+	{
 		"created_at": "Tue Oct 06 01:44:57 +0000 2020",
 		"id": 1313287955063111700,
 		"id_str": "1313294139283386369",
