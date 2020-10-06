@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 15:15:08 +0000 2020",
+		"id": 1313339889086161000,
+		"id_str": "1313498031140999168",
+		"full_text": "수목 드라마 &lt;#사생활&gt; 첫 방송 D-1🎉\n\n흰 셔츠에 백허그♡ 달달한 신혼부부 그 자체인\n주은(#서현)❤정환(#고경표)의 스틸컷 공개!\n\n10월 7일 수요일 밤 9시 30분 첫.방.사.수✨ https://t.co/UCKIGdJdF4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						11,
+						15
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						68,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313339725831237600,
+					"id_str": "1313339725831237632",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EjnrhbOUcAA5KNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjnrhbOUcAA5KNH.jpg",
+					"url": "https://t.co/UCKIGdJdF4",
+					"display_url": "pic.twitter.com/UCKIGdJdF4",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313339889086160896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313339725831237600,
+					"id_str": "1313339725831237632",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EjnrhbOUcAA5KNH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjnrhbOUcAA5KNH.jpg",
+					"url": "https://t.co/UCKIGdJdF4",
+					"display_url": "pic.twitter.com/UCKIGdJdF4",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313339889086160896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1296,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313339769351401500,
+					"id_str": "1313339769351401473",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/Ejnrj9WVcAELC-Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ejnrj9WVcAELC-Y.jpg",
+					"url": "https://t.co/UCKIGdJdF4",
+					"display_url": "pic.twitter.com/UCKIGdJdF4",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313339889086160896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1296,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313339801005772800,
+					"id_str": "1313339801005772800",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EjnrlzRU0AAjgoe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjnrlzRU0AAjgoe.jpg",
+					"url": "https://t.co/UCKIGdJdF4",
+					"display_url": "pic.twitter.com/UCKIGdJdF4",
+					"expanded_url": "https://twitter.com/jtbclove/status/1313339889086160896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 864,
+							"h": 1296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440410,
+			"friends_count": 111,
+			"listed_count": 637,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 992,
+		"favorite_count": 1353,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "수목 드라마 &lt;#사생활&gt; 첫 방송 D-1🎉\n\n흰 셔츠에 백허그♡ 달달한 신혼부부 그 자체인\n주은(#서현)❤정환(#고경표)의 스틸컷 공개!\n\n10월 7일 수요일 밤 9시 30분 첫.방.사.수✨ https://t.co/UCKIGdJdF4"
+	},
+	{
 		"created_at": "Tue Oct 06 07:44:57 +0000 2020",
 		"id": 1313382113169862700,
 		"id_str": "1313384735800995841",
