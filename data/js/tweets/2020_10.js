@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 06 01:44:57 +0000 2020",
+		"id": 1313287955063111700,
+		"id_str": "1313294139283386369",
+		"full_text": "#사생활 D-1\n사기캐들의 통쾌한 사기 플레이👊\n사기캐들의 현실생활 &lt;사생활&gt;\n10/7(수) 밤9:30 첫 방송\n#JTBC #새수목드라마 #사생활 #PrivateLives\n#서현 #고경표 #김효진 #김영민 #태원석\n#ComingSoonJTBC #10월7일_밤_9시30분 #첫방송 https://t.co/pDIeRoC5sC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "새수목드라마",
+					"indices": [
+						75,
+						82
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						88,
+						101
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "김영민",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "태원석",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "ComingSoonJTBC",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"text": "10월7일_밤_9시30분",
+					"indices": [
+						142,
+						156
+					]
+				},
+				{
+					"text": "첫방송",
+					"indices": [
+						157,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pDIeRoC5sC",
+					"expanded_url": "https://www.instagram.com/p/CF-8E90hTCw/?igshid=94zanodx15hm",
+					"display_url": "instagram.com/p/CF-8E90hTCw/…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383834,
+			"friends_count": 31,
+			"listed_count": 2852,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1273,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#사생활 D-1\n사기캐들의 통쾌한 사기 플레이👊\n사기캐들의 현실생활 &lt;사생활&gt;\n10/7(수) 밤9:30 첫 방송\n#JTBC #새수목드라마 #사생활 #PrivateLives\n#서현 #고경표 #김효진 #김영민 #태원석\n#ComingSoonJTBC #10월7일_밤_9시30분 #첫방송 https://t.co/pDIeRoC5sC"
+	},
+	{
 		"created_at": "Mon Oct 05 09:07:09 +0000 2020",
 		"id": 1313034131589087200,
 		"id_str": "1313043033970089984",
