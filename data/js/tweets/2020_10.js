@@ -1,6 +1,457 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 07 09:07:16 +0000 2020",
+		"id": 1313766994710196200,
+		"id_str": "1313767840693051398",
+		"full_text": "[유리한 식탁] EP14-1. 유리의 도전! 30분안에 요리를 완성시켜라 \n\n👉🏻https://t.co/gs2xh15Kjb \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						75,
+						80
+					]
+				},
+				{
+					"text": "유리한TV",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "유리한식탁",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gs2xh15Kjb",
+					"expanded_url": "https://youtu.be/HYfhfmamMeo",
+					"display_url": "youtu.be/HYfhfmamMeo",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3574145,
+			"friends_count": 4,
+			"listed_count": 5048,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 203,
+		"favorite_count": 444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[유리한 식탁] EP14-1. 유리의 도전! 30분안에 요리를 완성시켜라 \n\n👉🏻https://t.co/gs2xh15Kjb \n\n#유리 #YURI #유리한TV #유리한식탁 #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Wed Oct 07 09:07:09 +0000 2020",
+		"id": 1313764767727673300,
+		"id_str": "1313767810875772929",
+		"full_text": "오늘 밤 9시 30분 서현X효진 배우와의 약속 잊지 않으셨죠?\n무슨 약속인지는 묻지 말아주세요. &lt;사생활&gt;이니까요😉\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/KQswdGWFxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "정복기",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "Kimhyojin",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1313764732910805000,
+					"id_str": "1313764732910804993",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1313764732910805000,
+					"id_str": "1313764732910804993",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuEF-VoAEXxQH.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313764732914950100,
+					"id_str": "1313764732914950144",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuEF_U4AAeUPX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuEF_U4AAeUPX.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 990,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 660,
+							"h": 990,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1313764752338739200,
+					"id_str": "1313764752338739200",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EjtuFOWUYAACAkR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjtuFOWUYAACAkR.jpg",
+					"url": "https://t.co/KQswdGWFxX",
+					"display_url": "pic.twitter.com/KQswdGWFxX",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1313764767727673344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32572,
+			"friends_count": 12,
+			"listed_count": 186,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 밤 9시 30분 서현X효진 배우와의 약속 잊지 않으셨죠?\n무슨 약속인지는 묻지 말아주세요. &lt;사생활&gt;이니까요😉\n\n#서현 #김효진 #JTBC #사생활 #차주은 #정복기 #Seohyun #Kimhyojin https://t.co/KQswdGWFxX"
+	},
+	{
 		"created_at": "Wed Oct 07 03:07:09 +0000 2020",
 		"id": 1313662419676196900,
 		"id_str": "1313677214643257344",
