@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 08 16:28:08 +0000 2020",
+		"id": 1314128401108590600,
+		"id_str": "1314241175641976833",
+		"full_text": "주은(#서현)은 다단계 사기 사업의\n산증인이 되겠다는 폭탄선언을 던지며\n복기(#김효진)에게 팽팽히 맞선다!\n\n한편, 주은과 마주친 정환(#고경표)은\n첫눈에 반한 듯 돌직구 멘트를 던지며\n주은에게 다가가는데...\n\n▶오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수❣ https://t.co/egNrK4Rljg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						3,
+						6
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						139,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314094348896669700,
+					"id_str": "1314094348896669696",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"url": "https://t.co/egNrK4Rljg",
+					"display_url": "pic.twitter.com/egNrK4Rljg",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314128401108590592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314094348896669700,
+					"id_str": "1314094348896669696",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjyaD8iUwAIsorJ.jpg",
+					"url": "https://t.co/egNrK4Rljg",
+					"display_url": "pic.twitter.com/egNrK4Rljg",
+					"expanded_url": "https://twitter.com/jtbclove/status/1314128401108590592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42042,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/pl/cBD_-7MaFIV_fTxb.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/vid/480x270/PDtf751OZK4EErFD.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/vid/640x360/woeJJ2_oppwwnDf_.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1314094348896669696/vid/1280x720/roQ_xZM0M-TNic2G.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[2회 예고] 자랑하고 싶어서요, 주은 씨요…",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10421354/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440380,
+			"friends_count": 111,
+			"listed_count": 642,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 238,
+		"favorite_count": 297,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "주은(#서현)은 다단계 사기 사업의\n산증인이 되겠다는 폭탄선언을 던지며\n복기(#김효진)에게 팽팽히 맞선다!\n\n한편, 주은과 마주친 정환(#고경표)은\n첫눈에 반한 듯 돌직구 멘트를 던지며\n주은에게 다가가는데...\n\n▶오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수❣ https://t.co/egNrK4Rljg"
+	},
+	{
 		"created_at": "Thu Oct 08 15:07:09 +0000 2020",
 		"id": 1314213267514949600,
 		"id_str": "1314220794835337221",
