@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 12 05:07:18 +0000 2020",
+		"id": 1315514697286787000,
+		"id_str": "1315519389236682752",
+		"full_text": "우리 엄마 매일 내게 말했어 서현 배우 조심하라고🤭\n한 번 반하면 헤어나오지 못하니까..💓\n\n#서현 #JTBC #사생활 #차주은 #Seohyun\n#사진제공_도레미엔터테인먼트 https://t.co/jqlKDSeh7Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "차주은",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "사진제공_도레미엔터테인먼트",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315514685832089600,
+					"id_str": "1315514685832089600",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkGlownU0AAjgHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkGlownU0AAjgHL.jpg",
+					"url": "https://t.co/jqlKDSeh7Y",
+					"display_url": "pic.twitter.com/jqlKDSeh7Y",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1315514697286787073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315514685832089600,
+					"id_str": "1315514685832089600",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkGlownU0AAjgHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkGlownU0AAjgHL.jpg",
+					"url": "https://t.co/jqlKDSeh7Y",
+					"display_url": "pic.twitter.com/jqlKDSeh7Y",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1315514697286787073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315514685874028500,
+					"id_str": "1315514685874028545",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkGlowxUwAExaHx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkGlowxUwAExaHx.jpg",
+					"url": "https://t.co/jqlKDSeh7Y",
+					"display_url": "pic.twitter.com/jqlKDSeh7Y",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1315514697286787073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315514685869846500,
+					"id_str": "1315514685869846528",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkGlowwU8AA3JUm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkGlowwU8AA3JUm.jpg",
+					"url": "https://t.co/jqlKDSeh7Y",
+					"display_url": "pic.twitter.com/jqlKDSeh7Y",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1315514697286787073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1315514685869813800,
+					"id_str": "1315514685869813760",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/EkGlowwUcAA4MN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkGlowwUcAA4MN7.jpg",
+					"url": "https://t.co/jqlKDSeh7Y",
+					"display_url": "pic.twitter.com/jqlKDSeh7Y",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1315514697286787073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1315514414590689300,
+		"in_reply_to_status_id_str": "1315514414590689281",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32639,
+			"friends_count": 12,
+			"listed_count": 184,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리 엄마 매일 내게 말했어 서현 배우 조심하라고🤭\n한 번 반하면 헤어나오지 못하니까..💓\n\n#서현 #JTBC #사생활 #차주은 #Seohyun\n#사진제공_도레미엔터테인먼트 https://t.co/jqlKDSeh7Y"
+	},
+	{
 		"created_at": "Sat Oct 10 05:44:57 +0000 2020",
 		"id": 1314797723820929000,
 		"id_str": "1314804088278863873",
