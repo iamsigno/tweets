@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 03:07:09 +0000 2020",
+		"id": 1315837099719839700,
+		"id_str": "1315851540901568512",
+		"full_text": "ละครเรื่องใหม่ ‘#HUSH’ ของช่อง JTBC ที่มีนักแสดงนำ HWANG JUNGMIN และ #LIMYOONA จะออกอากาศทุกวันศุกร์~เสาร์ เวลา 3 ทุ่มไทย โดยตอนแรกเริ่มวันที่ 11 ธ.ค.นี้!\n\nรอติดตามการแสดงของ LIM YOONA ในบทนักข่าวฝึกงาน Lee Jisoo กันเยอะ ๆ นะคะ!💛\n\n#임윤아 #소녀시대 #GirlsGeneration #허쉬 #이지수 https://t.co/OXHzr8yliv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HUSH",
+					"indices": [
+						16,
+						21
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						231,
+						235
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						236,
+						241
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						242,
+						258
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						259,
+						262
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						263,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315837091545116700,
+					"id_str": "1315837091545116674",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLK3PfUcAIYOA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLK3PfUcAIYOA8.jpg",
+					"url": "https://t.co/OXHzr8yliv",
+					"display_url": "pic.twitter.com/OXHzr8yliv",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1315837099719839744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315837091545116700,
+					"id_str": "1315837091545116674",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EkLK3PfUcAIYOA8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkLK3PfUcAIYOA8.jpg",
+					"url": "https://t.co/OXHzr8yliv",
+					"display_url": "pic.twitter.com/OXHzr8yliv",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1315837099719839744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83394,
+			"friends_count": 47,
+			"listed_count": 139,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ละครเรื่องใหม่ ‘#HUSH’ ของช่อง JTBC ที่มีนักแสดงนำ HWANG JUNGMIN และ #LIMYOONA จะออกอากาศทุกวันศุกร์~เสาร์ เวลา 3 ทุ่มไทย โดยตอนแรกเริ่มวันที่ 11 ธ.ค.นี้!\n\nรอติดตามการแสดงของ LIM YOONA ในบทนักข่าวฝึกงาน Lee Jisoo กันเยอะ ๆ นะคะ!💛\n\n#임윤아 #소녀시대 #GirlsGeneration #허쉬 #이지수 https://t.co/OXHzr8yliv"
+	},
+	{
 		"created_at": "Tue Oct 13 02:07:42 +0000 2020",
 		"id": 1315833583194443800,
 		"id_str": "1315836581886844929",
