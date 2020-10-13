@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 07:20:22 +0000 2020",
+		"id": 1315581794230497300,
+		"id_str": "1315915264735633408",
+		"full_text": "낭만적이네요.. 이 조명, 온도, 습도,\n그리고.. 두 사람의 설레는 입맞춤!!!\n\n여러분이 찾던 키스 맛집이 여기에( ͡° ͜ʖ ͡°)✧\n\n#사생활 #서현 #고경표 #판교부부 https://t.co/P9w1s05t7w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "판교부부",
+					"indices": [
+						93,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315573865548968000,
+					"id_str": "1315573865548967936",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EkHicgdVkAAUANh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkHicgdVkAAUANh.jpg",
+					"url": "https://t.co/P9w1s05t7w",
+					"display_url": "pic.twitter.com/P9w1s05t7w",
+					"expanded_url": "https://twitter.com/jtbclove/status/1315581794230497280/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315573865548968000,
+					"id_str": "1315573865548967936",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EkHicgdVkAAUANh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkHicgdVkAAUANh.jpg",
+					"url": "https://t.co/P9w1s05t7w",
+					"display_url": "pic.twitter.com/P9w1s05t7w",
+					"expanded_url": "https://twitter.com/jtbclove/status/1315581794230497280/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82482,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315573865548967936/vid/480x270/xfTYn4WKqJ1Ykuzt.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315573865548967936/vid/640x360/WczCt25AazJIqqS_.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315573865548967936/pl/y0T7dmWJ6dlyt54-.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315573865548967936/vid/1280x720/gTRAcVpu0GUsN--s.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [사생활] (여기가 키스 맛집💋) 주은(서현)♡정환(고경표) 두 사람의 달달한 입맞춤",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10011229/pm10060702/vo10421868/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440249,
+			"friends_count": 110,
+			"listed_count": 642,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 222,
+		"favorite_count": 336,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "낭만적이네요.. 이 조명, 온도, 습도,\n그리고.. 두 사람의 설레는 입맞춤!!!\n\n여러분이 찾던 키스 맛집이 여기에( ͡° ͜ʖ ͡°)✧\n\n#사생활 #서현 #고경표 #판교부부 https://t.co/P9w1s05t7w"
+	},
+	{
 		"created_at": "Tue Oct 13 03:07:09 +0000 2020",
 		"id": 1315837099719839700,
 		"id_str": "1315851540901568512",
