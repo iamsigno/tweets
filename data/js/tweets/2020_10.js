@@ -1,6 +1,157 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 01:07:09 +0000 2020",
+		"id": 1315821290154979300,
+		"id_str": "1315821344588783617",
+		"full_text": "👑1위 #태연 아 솔로 데뷔 5주년 축하해 #SNSD (301명 / 1.3만콘)\n https://t.co/A7i5Ou6nQG \n👑2위 #이재욱, 첫 주인공을 축하해 (224명 / 9,298콘)\n👑3위 #유주 유주야! 늦었지만 생일축하해! #GFRIEND (321명 / 7,763콘)\nhttps://t.co/5aiiGjA5O4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "이재욱",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "유주",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "GFRIEND",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/A7i5Ou6nQG",
+					"expanded_url": "http://kko.to/LgnvWsEDM",
+					"display_url": "kko.to/LgnvWsEDM",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/5aiiGjA5O4",
+					"expanded_url": "http://kko.to/UrGdibEDp",
+					"display_url": "kko.to/UrGdibEDp",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1315821288208777200,
+		"in_reply_to_status_id_str": "1315821288208777217",
+		"in_reply_to_user_id": 118953366,
+		"in_reply_to_user_id_str": "118953366",
+		"in_reply_to_screen_name": "melon",
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67848,
+			"friends_count": 45,
+			"listed_count": 569,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16546,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👑1위 #태연 아 솔로 데뷔 5주년 축하해 #SNSD (301명 / 1.3만콘)\n https://t.co/A7i5Ou6nQG \n👑2위 #이재욱, 첫 주인공을 축하해 (224명 / 9,298콘)\n👑3위 #유주 유주야! 늦었지만 생일축하해! #GFRIEND (321명 / 7,763콘)\nhttps://t.co/5aiiGjA5O4"
+	},
+	{
 		"created_at": "Mon Oct 12 10:44:57 +0000 2020",
 		"id": 1315604087149191200,
 		"id_str": "1315604362526437376",
