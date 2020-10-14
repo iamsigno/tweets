@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 02:22:15 +0000 2020",
+		"id": 1316197031359250400,
+		"id_str": "1316202629534375936",
+		"full_text": "첫 만남부터 첫 키스, 프러포즈, 결혼까지💍\n\n브레이크 고장 난 직진 커플!\n정환(#고경표)❤주은(#서현) 서사 몰아보기\n\n▶매주 수목 밤 9시 30분 #사생활 본.방.사.수! https://t.co/9ngQM4w1If",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "고경표",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						85,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315954557852151800,
+					"id_str": "1315954557852151809",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"url": "https://t.co/9ngQM4w1If",
+					"display_url": "pic.twitter.com/9ngQM4w1If",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316197031359250433/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315954557852151800,
+					"id_str": "1315954557852151809",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkM2CtPVoAAAnVF.jpg",
+					"url": "https://t.co/9ngQM4w1If",
+					"display_url": "pic.twitter.com/9ngQM4w1If",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316197031359250433/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 215449,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/vid/480x270/aaDmco5mEux1xNf5.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/pl/7KhaksSusbyKxPwz.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/vid/1280x720/kTZQev0PcyHOvyaT.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1315954557852151809/vid/640x360/1KfjqSOnR6Gs3ENf.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활 1-2회 몰아보기] 첫 만남부터 결혼까지 쿨내 진동하는 판교신혼부부 스토리💝",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10011229/pm10060702/vo10421892/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440219,
+			"friends_count": 110,
+			"listed_count": 641,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "첫 만남부터 첫 키스, 프러포즈, 결혼까지💍\n\n브레이크 고장 난 직진 커플!\n정환(#고경표)❤주은(#서현) 서사 몰아보기\n\n▶매주 수목 밤 9시 30분 #사생활 본.방.사.수! https://t.co/9ngQM4w1If"
+	},
+	{
 		"created_at": "Wed Oct 14 02:07:09 +0000 2020",
 		"id": 1316186113476710400,
 		"id_str": "1316198828610117637",
