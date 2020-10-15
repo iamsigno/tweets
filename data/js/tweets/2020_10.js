@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 09:07:08 +0000 2020",
+		"id": 1316666541627195400,
+		"id_str": "1316666911707541505",
+		"full_text": "テヨン新曲「#GirlsSpkOut ft.ちゃんみな」#4\n\nhttps://t.co/wIvyGuFNkN\n\n#テヨン #TAEYEON #태연 #ちゃんみな",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "ちゃんみな",
+					"indices": [
+						75,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wIvyGuFNkN",
+					"expanded_url": "https://vt.tiktok.com/ZS9K95y1/",
+					"display_url": "vt.tiktok.com/ZS9K95y1/",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 104929,
+			"friends_count": 0,
+			"listed_count": 478,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン新曲「#GirlsSpkOut ft.ちゃんみな」#4\n\nhttps://t.co/wIvyGuFNkN\n\n#テヨン #TAEYEON #태연 #ちゃんみな"
+	},
+	{
 		"created_at": "Thu Oct 15 08:00:27 +0000 2020",
 		"id": 1316561512484405200,
 		"id_str": "1316650128107687938",
@@ -142,7 +284,7 @@ Grailbird.data.tweets_2020_10 =
 						]
 					},
 					"additional_media_info": {
-						"title": " [사생활] 신혼집에서 행복을 꿈꾸는 주은(서현)♡정환(고경표)의 달달한 키스👩‍❤️‍💋‍👨",
+						"title": " [사생활] 신혼집에서 행복을 꿈꾸는 주은(서현)♡정환(고경표)의 달달한 키스👩❤️💋👨",
 						"description": "",
 						"call_to_actions": {
 							"visit_site": {
