@@ -1,6 +1,711 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 15 08:00:27 +0000 2020",
+		"id": 1316561512484405200,
+		"id_str": "1316650128107687938",
+		"full_text": "가슴이 웅장해진다,,,☆ 역대급으로 설레는\n주은(서현)♡정환(고경표)의 으른 로맨스!\n\n우리 판교 부부 로코길 걸어(엉엉💦)\n\n#사생활 #서현 #고경표 https://t.co/VdVk28eldk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						80,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316553978050568200,
+					"id_str": "1316553978050568193",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EkVXZVZU4AAsi3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkVXZVZU4AAsi3I.jpg",
+					"url": "https://t.co/VdVk28eldk",
+					"display_url": "pic.twitter.com/VdVk28eldk",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316561512484405248/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316553978050568200,
+					"id_str": "1316553978050568193",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EkVXZVZU4AAsi3I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkVXZVZU4AAsi3I.jpg",
+					"url": "https://t.co/VdVk28eldk",
+					"display_url": "pic.twitter.com/VdVk28eldk",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316561512484405248/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 76243,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316553978050568193/vid/1280x720/kmfyNA7ME17YCd77.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1316553978050568193/pl/9d6GfctyH9ECldUX.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316553978050568193/vid/640x360/SNHeDcvXKwFQa0Zo.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316553978050568193/vid/480x270/PXQajbJue8EKZbCo.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [사생활] 신혼집에서 행복을 꿈꾸는 주은(서현)♡정환(고경표)의 달달한 키스👩‍❤️‍💋‍👨",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/clip/pr10011229/pm10060702/vo10424298/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440286,
+			"friends_count": 110,
+			"listed_count": 643,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "가슴이 웅장해진다,,,☆ 역대급으로 설레는\n주은(서현)♡정환(고경표)의 으른 로맨스!\n\n우리 판교 부부 로코길 걸어(엉엉💦)\n\n#사생활 #서현 #고경표 https://t.co/VdVk28eldk"
+	},
+	{
+		"created_at": "Thu Oct 15 08:00:18 +0000 2020",
+		"id": 1316294134450122800,
+		"id_str": "1316650089889161217",
+		"full_text": "답답함에 GK를 직접 찾아간 주은(#서현)은\n정환에 관한 충격적인 사실을 듣게 된다\n\n한편, 결혼식장에 발도 들이지 않은 채\n홀로 깊은 산속으로 향한 정환(#고경표)...\n\n누구보다 행복해야 할 결혼식 날, \n그에게는 무슨 일이 있었던 걸까??\n\n▶오늘(화) 밤 9시 30분 &lt;#사생활&gt; 본방사수!! https://t.co/G75IXG657Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						19,
+						22
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316290197282144300,
+					"id_str": "1316290197282144256",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRnZvfUwAE4ivw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRnZvfUwAE4ivw.jpg",
+					"url": "https://t.co/G75IXG657Q",
+					"display_url": "pic.twitter.com/G75IXG657Q",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316294134450122756/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316290197282144300,
+					"id_str": "1316290197282144256",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRnZvfUwAE4ivw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRnZvfUwAE4ivw.jpg",
+					"url": "https://t.co/G75IXG657Q",
+					"display_url": "pic.twitter.com/G75IXG657Q",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316294134450122756/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47047,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1316290197282144256/pl/9cDqMzUSsehfUVqu.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316290197282144256/vid/1280x720/hnHM6G_tk6FspBqT.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316290197282144256/vid/480x270/gifJd_mxE9BP_cEF.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316290197282144256/vid/640x360/PRaLLuHyHmCGSWDz.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[3회 예고] 내가 찍은 마지막 다큐.. 뭐야?",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10421886/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440286,
+			"friends_count": 110,
+			"listed_count": 643,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 297,
+		"favorite_count": 451,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "답답함에 GK를 직접 찾아간 주은(#서현)은\n정환에 관한 충격적인 사실을 듣게 된다\n\n한편, 결혼식장에 발도 들이지 않은 채\n홀로 깊은 산속으로 향한 정환(#고경표)...\n\n누구보다 행복해야 할 결혼식 날, \n그에게는 무슨 일이 있었던 걸까??\n\n▶오늘(화) 밤 9시 30분 &lt;#사생활&gt; 본방사수!! https://t.co/G75IXG657Q"
+	},
+	{
+		"created_at": "Thu Oct 15 08:00:11 +0000 2020",
+		"id": 1316287237819048000,
+		"id_str": "1316650062898896897",
+		"full_text": "좋은 건 길게~ 같이 보는 거라 배웠습니다( ͡° ͜ʖ ͡°)✧\n\n🚨후방주의🚨 자막이 필요 없는...(?)\n주은(#서현)X정환(#고경표) 첫 키스 비하인드!!\n\n▶매주 수목 밤 9시 30분 #사생활 본방사수💜 https://t.co/P2ZH7FeCZW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						106,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316285624979054600,
+					"id_str": "1316285624979054592",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRjcsJVcAA4lPa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRjcsJVcAA4lPa.jpg",
+					"url": "https://t.co/P2ZH7FeCZW",
+					"display_url": "pic.twitter.com/P2ZH7FeCZW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316287237819047937/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316285624979054600,
+					"id_str": "1316285624979054592",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EkRjcsJVcAA4lPa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkRjcsJVcAA4lPa.jpg",
+					"url": "https://t.co/P2ZH7FeCZW",
+					"display_url": "pic.twitter.com/P2ZH7FeCZW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316287237819047937/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 396730,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316285624979054592/vid/640x360/VEfjiv9GClQeNU2q.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316285624979054592/vid/480x270/87sJlAFjuJOzbcRF.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1316285624979054592/pl/FNnCTFFnxy0m70AE.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316285624979054592/vid/1280x720/TlNUbcsQjiTowntH.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 메이킹🚨 주은X정환 Wls 후방주의 키스신(무자막ver.)",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/vod/pr10011229/pm10060475/vo10423909/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440286,
+			"friends_count": 110,
+			"listed_count": 643,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 185,
+		"favorite_count": 292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "좋은 건 길게~ 같이 보는 거라 배웠습니다( ͡° ͜ʖ ͡°)✧\n\n🚨후방주의🚨 자막이 필요 없는...(?)\n주은(#서현)X정환(#고경표) 첫 키스 비하인드!!\n\n▶매주 수목 밤 9시 30분 #사생활 본방사수💜 https://t.co/P2ZH7FeCZW"
+	},
+	{
 		"created_at": "Thu Oct 15 07:07:08 +0000 2020",
 		"id": 1316623032320848000,
 		"id_str": "1316636712513212416",
