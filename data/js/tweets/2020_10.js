@@ -1,6 +1,773 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 02:07:14 +0000 2020",
+		"id": 1316917620529156000,
+		"id_str": "1316923625409253383",
+		"full_text": "Seohyun in fall🍂\n\n#서현 #잇미샤 #가을화보 #Seohyun https://t.co/8DTtHenosi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "잇미샤",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "가을화보",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316917604372500500,
+					"id_str": "1316917604372500481",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EkahlXcU0AEHls2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkahlXcU0AEHls2.jpg",
+					"url": "https://t.co/8DTtHenosi",
+					"display_url": "pic.twitter.com/8DTtHenosi",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1316917620529156098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316917604372500500,
+					"id_str": "1316917604372500481",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EkahlXcU0AEHls2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkahlXcU0AEHls2.jpg",
+					"url": "https://t.co/8DTtHenosi",
+					"display_url": "pic.twitter.com/8DTtHenosi",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1316917620529156098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316917604422885400,
+					"id_str": "1316917604422885377",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EkahlXoVoAEWjyI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkahlXoVoAEWjyI.jpg",
+					"url": "https://t.co/8DTtHenosi",
+					"display_url": "pic.twitter.com/8DTtHenosi",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1316917620529156098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316917548353523700,
+		"in_reply_to_status_id_str": "1316917548353523715",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32683,
+			"friends_count": 12,
+			"listed_count": 184,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Seohyun in fall🍂\n\n#서현 #잇미샤 #가을화보 #Seohyun https://t.co/8DTtHenosi"
+	},
+	{
+		"created_at": "Fri Oct 16 02:07:08 +0000 2020",
+		"id": 1316917548353523700,
+		"id_str": "1316923603498291202",
+		"full_text": "Fall in Seohyun💕\n\n#서현 #잇미샤 #가을화보 #Seohyun https://t.co/sG1ioLYkco",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "잇미샤",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "가을화보",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "Seohyun",
+					"indices": [
+						33,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316917463850700800,
+					"id_str": "1316917463850700800",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EkahdL9UUAA_zuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkahdL9UUAA_zuH.jpg",
+					"url": "https://t.co/sG1ioLYkco",
+					"display_url": "pic.twitter.com/sG1ioLYkco",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1316917548353523715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316917463850700800,
+					"id_str": "1316917463850700800",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/EkahdL9UUAA_zuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkahdL9UUAA_zuH.jpg",
+					"url": "https://t.co/sG1ioLYkco",
+					"display_url": "pic.twitter.com/sG1ioLYkco",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1316917548353523715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316917527578964000,
+					"id_str": "1316917527578963968",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekahg5XUcAAXXg6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekahg5XUcAAXXg6.jpg",
+					"url": "https://t.co/sG1ioLYkco",
+					"display_url": "pic.twitter.com/sG1ioLYkco",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1316917548353523715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316917527646097400,
+					"id_str": "1316917527646097408",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekahg5nU0AASIjO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekahg5nU0AASIjO.jpg",
+					"url": "https://t.co/sG1ioLYkco",
+					"display_url": "pic.twitter.com/sG1ioLYkco",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1316917548353523715/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1199,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32683,
+			"friends_count": 12,
+			"listed_count": 184,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Fall in Seohyun💕\n\n#서현 #잇미샤 #가을화보 #Seohyun https://t.co/sG1ioLYkco"
+	},
+	{
+		"created_at": "Fri Oct 16 01:45:13 +0000 2020",
+		"id": 1316912552912343000,
+		"id_str": "1316918084800811014",
+		"full_text": "#잇미샤 의 겨울은 사랑이죠🖤 \n#광고모델 #itmichaa #서현 https://t.co/NCqwYrg6QK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잇미샤",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "광고모델",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "itmichaa",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						34,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NCqwYrg6QK",
+					"expanded_url": "https://www.instagram.com/p/CGYsWkkhjcN/?igshid=75pm53gzhtfj",
+					"display_url": "instagram.com/p/CGYsWkkhjcN/…",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384152,
+			"friends_count": 31,
+			"listed_count": 2848,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#잇미샤 의 겨울은 사랑이죠🖤 \n#광고모델 #itmichaa #서현 https://t.co/NCqwYrg6QK"
+	},
+	{
+		"created_at": "Fri Oct 16 01:45:05 +0000 2020",
+		"id": 1316911179810414600,
+		"id_str": "1316918050806005760",
+		"full_text": "#잇미샤 의 겨울은 사랑이죠🖤 \n#광고모델 #Itmichaa #서현\n@itmichaa.official https://t.co/oJZx2F6ynk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "잇미샤",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "광고모델",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "Itmichaa",
+					"indices": [
+						24,
+						33
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						34,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "itmichaa",
+					"name": "itmichaa",
+					"id": 123761845,
+					"id_str": "123761845",
+					"indices": [
+						38,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oJZx2F6ynk",
+					"expanded_url": "https://www.instagram.com/p/CGYruqaBtVh/?igshid=g532vf3k9xri",
+					"display_url": "instagram.com/p/CGYruqaBtVh/…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(서주현)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1384152,
+			"friends_count": 31,
+			"listed_count": 2848,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146333352682647552/0h6dsbYz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1526914876",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 359,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#잇미샤 의 겨울은 사랑이죠🖤 \n#광고모델 #Itmichaa #서현\n@itmichaa.official https://t.co/oJZx2F6ynk"
+	},
+	{
 		"created_at": "Thu Oct 15 09:07:08 +0000 2020",
 		"id": 1316666541627195400,
 		"id_str": "1316666911707541505",
