@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 09:59:01 +0000 2020",
+		"id": 1316989529966796800,
+		"id_str": "1317404741983326208",
+		"full_text": "유교걸&amp;유교맨은 심호흡 후 클릭하세요🚨\n\n너무 달달해서... 심장 터질지도 모르는\n주정커플의 신혼집 키스신 비하인드💜\n\n매주 수목 밤 9시 30분 #사생활\n#서현 #고경표 https://t.co/gzhX1VtXUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316989038847389700,
+					"id_str": "1316989038847389697",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekbi9urVgAA-f--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekbi9urVgAA-f--.jpg",
+					"url": "https://t.co/gzhX1VtXUl",
+					"display_url": "pic.twitter.com/gzhX1VtXUl",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316989529966796801/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316989038847389700,
+					"id_str": "1316989038847389697",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekbi9urVgAA-f--.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekbi9urVgAA-f--.jpg",
+					"url": "https://t.co/gzhX1VtXUl",
+					"display_url": "pic.twitter.com/gzhX1VtXUl",
+					"expanded_url": "https://twitter.com/jtbclove/status/1316989529966796801/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 285285,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1316989038847389697/pl/zx1xD_dVSic3Vnr1.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316989038847389697/vid/480x270/ab6ce7kU0IaPAgTe.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316989038847389697/vid/1280x720/gfydFmvlwAgelmE2.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1316989038847389697/vid/640x360/8tga5ekP-RgM70gg.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [사생활] 메이킹💜 (판교 신혼부부 그 자체) 알콩달콩 신혼집 키스신 비하인드!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/vod/pr10011229/pm10060475/vo10424668/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440195,
+			"friends_count": 110,
+			"listed_count": 641,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 420,
+		"favorite_count": 547,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "유교걸&amp;유교맨은 심호흡 후 클릭하세요🚨\n\n너무 달달해서... 심장 터질지도 모르는\n주정커플의 신혼집 키스신 비하인드💜\n\n매주 수목 밤 9시 30분 #사생활\n#서현 #고경표 https://t.co/gzhX1VtXUl"
+	},
+	{
 		"created_at": "Sat Oct 17 09:07:08 +0000 2020",
 		"id": 1317390833033695200,
 		"id_str": "1317391687761756160",
