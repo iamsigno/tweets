@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 02:52:27 +0000 2020",
+		"id": 1318022170317115400,
+		"id_str": "1318022170317115395",
+		"full_text": "#GirlsGeneration #소녀시대\n태연, 크러쉬 새 EP 앨범 타이틀곡 ˙놓아줘˙...\nhttps://t.co/mu8hH7ju2R\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						87,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mu8hH7ju2R",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3819912164695387",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 504,
+			"friends_count": 453,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n태연, 크러쉬 새 EP 앨범 타이틀곡 ˙놓아줘˙...\nhttps://t.co/mu8hH7ju2R\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Mon Oct 19 02:44:57 +0000 2020",
+		"id": 1318019589280653300,
+		"id_str": "1318020279919104000",
+		"full_text": "태연, 크러쉬 새 EP 앨범 타이틀곡 ˙놓아줘˙ 피처링…4년9개월만 재회(공식) \n\n👉🏻https://t.co/6OUUYWF1KK \n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #놓아줘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						94,
+						110
+					]
+				},
+				{
+					"text": "놓아줘",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6OUUYWF1KK",
+					"expanded_url": "http://naver.me/FeTAkQB5",
+					"display_url": "naver.me/FeTAkQB5",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3582185,
+			"friends_count": 4,
+			"listed_count": 5040,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1101,
+		"favorite_count": 2165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연, 크러쉬 새 EP 앨범 타이틀곡 ˙놓아줘˙ 피처링…4년9개월만 재회(공식) \n\n👉🏻https://t.co/6OUUYWF1KK \n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #놓아줘"
+	},
+	{
+		"created_at": "Mon Oct 19 02:25:20 +0000 2020",
+		"id": 1318008970456436700,
+		"id_str": "1318015345962012675",
+		"full_text": "[#Crush] 𝐰𝐢𝐭𝐡 𝐇𝐄𝐑\n\nTRACK LIST\n1. Let Me Go (with TAEYEON)*title\n2. Tip Toe (with LeeHi)\n3. Love Encore (with Lee Sora)\n4. Step By Step (with yoonmirae)\n5. She Said (with BIBI)\n\n20.10.20 (Tue) 6PM KST\n#20201020_6pm #withHER #TAEYEON #LetMeGo #PNATION https://t.co/nF1ResGgoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Crush",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "20201020_6pm",
+					"indices": [
+						200,
+						213
+					]
+				},
+				{
+					"text": "withHER",
+					"indices": [
+						214,
+						222
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"text": "LetMeGo",
+					"indices": [
+						232,
+						240
+					]
+				},
+				{
+					"text": "PNATION",
+					"indices": [
+						241,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318005710962086000,
+					"id_str": "1318005710962085889",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318005710962085889/pu/img/jdboz9-KxguePNHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318005710962085889/pu/img/jdboz9-KxguePNHt.jpg",
+					"url": "https://t.co/nF1ResGgoj",
+					"display_url": "pic.twitter.com/nF1ResGgoj",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1318008970456436736/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318005710962086000,
+					"id_str": "1318005710962085889",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318005710962085889/pu/img/jdboz9-KxguePNHt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318005710962085889/pu/img/jdboz9-KxguePNHt.jpg",
+					"url": "https://t.co/nF1ResGgoj",
+					"display_url": "pic.twitter.com/nF1ResGgoj",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1318008970456436736/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 8034,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318005710962085889/pu/vid/320x400/EhjnWkVfEgWEBhEt.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318005710962085889/pu/vid/720x900/VTGtX1N1d2j1XVUp.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1318005710962085889/pu/vid/360x450/E93SbZv0KHzpfuDW.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1318005710962085889/pu/pl/4GwTBSPRheyy6g8A.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077784853565780000,
+			"id_str": "1077784853565779968",
+			"name": "P NATION",
+			"screen_name": "OfficialPnation",
+			"location": "",
+			"description": "Official P NATION account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26745,
+			"friends_count": 3,
+			"listed_count": 224,
+			"created_at": "Wed Dec 26 04:35:08 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077784853565779968/1582688385",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 886,
+		"favorite_count": 1234,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Crush] 𝐰𝐢𝐭𝐡 𝐇𝐄𝐑\n\nTRACK LIST\n1. Let Me Go (with TAEYEON)*title\n2. Tip Toe (with LeeHi)\n3. Love Encore (with Lee Sora)\n4. Step By Step (with yoonmirae)\n5. She Said (with BIBI)\n\n20.10.20 (Tue) 6PM KST\n#20201020_6pm #withHER #TAEYEON #LetMeGo #PNATION https://t.co/nF1ResGgoj"
+	},
+	{
 		"created_at": "Sun Oct 18 09:07:09 +0000 2020",
 		"id": 1317753313299898400,
 		"id_str": "1317754076445147136",
