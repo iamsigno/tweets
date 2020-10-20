@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 03:18:24 +0000 2020",
+		"id": 1318386456017145900,
+		"id_str": "1318391088156045312",
+		"full_text": "[#Crush] 𝐰𝐢𝐭𝐡 𝐇𝐄𝐑 Album Cover\n\n1.#놓아줘 (with #태연)*title\n2.Tip Toe (with #이하이)\n3.#춤 (with #이소라)\n4.Step By Step (with #윤미래)\n5.She Said (with #BIBI)\n\n20.10.20 (Tue) 6PM KST\n@crush9244 from @OfficialPnation\n#201020_6pm #withHER #TipToe #StepByStep #SheSaid https://t.co/U4CMllAlDt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Crush",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "놓아줘",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "이하이",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "춤",
+					"indices": [
+						79,
+						81
+					]
+				},
+				{
+					"text": "이소라",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "윤미래",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "BIBI",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "201020_6pm",
+					"indices": [
+						202,
+						213
+					]
+				},
+				{
+					"text": "withHER",
+					"indices": [
+						214,
+						222
+					]
+				},
+				{
+					"text": "TipToe",
+					"indices": [
+						223,
+						230
+					]
+				},
+				{
+					"text": "StepByStep",
+					"indices": [
+						231,
+						242
+					]
+				},
+				{
+					"text": "SheSaid",
+					"indices": [
+						243,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crush9244",
+					"name": "Crush",
+					"id": 912421364,
+					"id_str": "912421364",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"screen_name": "OfficialPnation",
+					"name": "P NATION",
+					"id": 1077784853565780000,
+					"id_str": "1077784853565779968",
+					"indices": [
+						185,
+						201
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318215218355335200,
+					"id_str": "1318215218355335168",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/Eks9wcOVcAAz-fm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eks9wcOVcAAz-fm.jpg",
+					"url": "https://t.co/U4CMllAlDt",
+					"display_url": "pic.twitter.com/U4CMllAlDt",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1318386456017145862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318215218355335200,
+					"id_str": "1318215218355335168",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/Eks9wcOVcAAz-fm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eks9wcOVcAAz-fm.jpg",
+					"url": "https://t.co/U4CMllAlDt",
+					"display_url": "pic.twitter.com/U4CMllAlDt",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1318386456017145862/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077784853565780000,
+			"id_str": "1077784853565779968",
+			"name": "P NATION",
+			"screen_name": "OfficialPnation",
+			"location": "",
+			"description": "Official P NATION account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26877,
+			"friends_count": 3,
+			"listed_count": 226,
+			"created_at": "Wed Dec 26 04:35:08 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077784853565779968/1582688385",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#Crush] 𝐰𝐢𝐭𝐡 𝐇𝐄𝐑 Album Cover\n\n1.#놓아줘 (with #태연)*title\n2.Tip Toe (with #이하이)\n3.#춤 (with #이소라)\n4.Step By Step (with #윤미래)\n5.She Said (with #BIBI)\n\n20.10.20 (Tue) 6PM KST\n@crush9244 from @OfficialPnation\n#201020_6pm #withHER #TipToe #StepByStep #SheSaid https://t.co/U4CMllAlDt"
+	},
+	{
 		"created_at": "Mon Oct 19 09:23:28 +0000 2020",
 		"id": 1318114668079161300,
 		"id_str": "1318120570345586688",
