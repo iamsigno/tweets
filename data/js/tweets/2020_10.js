@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 09:07:09 +0000 2020",
+		"id": 1318477989676372000,
+		"id_str": "1318478852256157697",
+		"full_text": "Crush 놓아줘 (With 태연)\n\n🎧Melon: https://t.co/xVpwfhAGNJ\n🎧FLO: https://t.co/jiAGE6lwDA\n🎧genie: https://t.co/kcOzez6SHa\n🎧NAVER MUSIC: https://t.co/wx0VMfBall\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #놓아줘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"text": "놓아줘",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xVpwfhAGNJ",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10505425",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						29,
+						52
+					]
+				},
+				{
+					"url": "https://t.co/jiAGE6lwDA",
+					"expanded_url": "http://flomuz.io/s/b.DSLWR",
+					"display_url": "flomuz.io/s/b.DSLWR",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/kcOzez6SHa",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81642492",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						91,
+						114
+					]
+				},
+				{
+					"url": "https://t.co/wx0VMfBall",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=5043408#42978564",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3582896,
+			"friends_count": 4,
+			"listed_count": 5036,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1036,
+		"favorite_count": 959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Crush 놓아줘 (With 태연)\n\n🎧Melon: https://t.co/xVpwfhAGNJ\n🎧FLO: https://t.co/jiAGE6lwDA\n🎧genie: https://t.co/kcOzez6SHa\n🎧NAVER MUSIC: https://t.co/wx0VMfBall\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #놓아줘"
+	},
+	{
+		"created_at": "Tue Oct 20 08:54:11 +0000 2020",
+		"id": 1318475591813922800,
+		"id_str": "1318475591813922816",
+		"full_text": "#SOOYOUNG #수영\n[TheSOOTORY#13] 아이키에게 안무 배우고 홍현희 언니 섭외도 했어요. 치얼업걸스 함께 응원해요.✨\nhttps://t.co/EXS4SHAO4C\n#the_sootory #더수토리 #YouTube",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "the_sootory",
+					"indices": [
+						99,
+						111
+					]
+				},
+				{
+					"text": "더수토리",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						118,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EXS4SHAO4C",
+					"expanded_url": "https://youtu.be/x9M0m3Cgf1w",
+					"display_url": "youtu.be/x9M0m3Cgf1w",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 504,
+			"friends_count": 453,
+			"listed_count": 0,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#SOOYOUNG #수영\n[TheSOOTORY#13] 아이키에게 안무 배우고 홍현희 언니 섭외도 했어요. 치얼업걸스 함께 응원해요.✨\nhttps://t.co/EXS4SHAO4C\n#the_sootory #더수토리 #YouTube"
+	},
+	{
 		"created_at": "Tue Oct 20 03:18:24 +0000 2020",
 		"id": 1318386456017145900,
 		"id_str": "1318391088156045312",
