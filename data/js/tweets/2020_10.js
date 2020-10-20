@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 12:26:22 +0000 2020",
+		"id": 1318522351512965000,
+		"id_str": "1318528986260013056",
+		"full_text": "[Crush]\n\n‘놓아줘 with 태연' Live Clip\n‘Let Me Go with TAEYEON' Live Clip\nFull ver. 👉 https://t.co/hZ3SSnU1XF\n\n#Crush #크러쉬 #withHER #태연 #TAEYEON #놓아줘 #LetMeGo #PNATION #피네이션",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Crush",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "크러쉬",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "withHER",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "놓아줘",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "LetMeGo",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "PNATION",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "피네이션",
+					"indices": [
+						162,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hZ3SSnU1XF",
+					"expanded_url": "https://youtu.be/6vmShUZDbn8",
+					"display_url": "youtu.be/6vmShUZDbn8",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077784853565780000,
+			"id_str": "1077784853565779968",
+			"name": "P NATION",
+			"screen_name": "OfficialPnation",
+			"location": "",
+			"description": "Official P NATION account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26961,
+			"friends_count": 3,
+			"listed_count": 227,
+			"created_at": "Wed Dec 26 04:35:08 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077784853565779968/1582688385",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 413,
+		"favorite_count": 449,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[Crush]\n\n‘놓아줘 with 태연' Live Clip\n‘Let Me Go with TAEYEON' Live Clip\nFull ver. 👉 https://t.co/hZ3SSnU1XF\n\n#Crush #크러쉬 #withHER #태연 #TAEYEON #놓아줘 #LetMeGo #PNATION #피네이션"
+	},
+	{
 		"created_at": "Tue Oct 20 11:15:13 +0000 2020",
 		"id": 1318511080675696600,
 		"id_str": "1318511080675696640",
