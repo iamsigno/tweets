@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 21 20:19:20 +0000 2020",
+		"id": 1318709487046250500,
+		"id_str": "1319010402181599232",
+		"full_text": "12월 개막 연극 ‘앙리할아버지와 나’ 이순재·신구·권유리·박소담·채수빈 등 출연 https://t.co/AzXA22tQt9 https://t.co/3DuMyOTCWK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AzXA22tQt9",
+					"expanded_url": "https://bit.ly/35gJ8wK",
+					"display_url": "bit.ly/35gJ8wK",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1318709443597529000,
+					"id_str": "1318709443597529089",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekz_QIuVcAERwwO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekz_QIuVcAERwwO.jpg",
+					"url": "https://t.co/3DuMyOTCWK",
+					"display_url": "pic.twitter.com/3DuMyOTCWK",
+					"expanded_url": "https://twitter.com/playdb/status/1318709487046250497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 844,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318709443597529000,
+					"id_str": "1318709443597529089",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Ekz_QIuVcAERwwO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ekz_QIuVcAERwwO.jpg",
+					"url": "https://t.co/3DuMyOTCWK",
+					"display_url": "pic.twitter.com/3DuMyOTCWK",
+					"expanded_url": "https://twitter.com/playdb/status/1318709487046250497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 844,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 844,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 127443585,
+			"id_str": "127443585",
+			"name": "playdb",
+			"screen_name": "playdb",
+			"location": "seoul, korea ",
+			"description": "All about Performance! \r\nInterpark Ticket, PlayDB. \r\n공연의 모든것! 인터파크 티켓\r\n공연포털 플레이DB 공식트위터",
+			"url": "http://t.co/y6oZ6IWHE6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/y6oZ6IWHE6",
+							"expanded_url": "http://www.playdb.co.kr",
+							"display_url": "playdb.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72083,
+			"friends_count": 17241,
+			"listed_count": 343,
+			"created_at": "Mon Mar 29 06:25:25 +0000 2010",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11014,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783007035/playdb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783007035/playdb_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DAEBD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "12월 개막 연극 ‘앙리할아버지와 나’ 이순재·신구·권유리·박소담·채수빈 등 출연 https://t.co/AzXA22tQt9 https://t.co/3DuMyOTCWK"
+	},
+	{
 		"created_at": "Wed Oct 21 10:15:08 +0000 2020",
 		"id": 1318824346530578400,
 		"id_str": "1318858351111938048",
