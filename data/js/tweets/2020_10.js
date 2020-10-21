@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 21 10:15:08 +0000 2020",
+		"id": 1318824346530578400,
+		"id_str": "1318858351111938048",
+		"full_text": "드라마 &lt;사생활&gt; 차주은 역을 맡은,🥰\n매력적인 배우 #서현 💃을 만났습니다.\nhttps://t.co/TPvLAZvNdb https://t.co/jcm5F6bVHx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						36,
+						39
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TPvLAZvNdb",
+					"expanded_url": "https://www.esquirekorea.co.kr/article/49587",
+					"display_url": "esquirekorea.co.kr/article/49587",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1318738270935675000,
+					"id_str": "1318738270935674880",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek0ZeG7VcAAWCsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek0ZeG7VcAAWCsU.jpg",
+					"url": "https://t.co/jcm5F6bVHx",
+					"display_url": "pic.twitter.com/jcm5F6bVHx",
+					"expanded_url": "https://twitter.com/esquirekr/status/1318824346530578432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318738270935675000,
+					"id_str": "1318738270935674880",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek0ZeG7VcAAWCsU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek0ZeG7VcAAWCsU.jpg",
+					"url": "https://t.co/jcm5F6bVHx",
+					"display_url": "pic.twitter.com/jcm5F6bVHx",
+					"expanded_url": "https://twitter.com/esquirekr/status/1318824346530578432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 740,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174477812,
+			"id_str": "174477812",
+			"name": "ESQUIRE Korea",
+			"screen_name": "esquirekr",
+			"location": "Seoul",
+			"description": "취향 있는 이들을 위한 에스콰이어 트윗입니다.",
+			"url": "https://t.co/o9MzqxGPvP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o9MzqxGPvP",
+							"expanded_url": "http://esquirekorea.co.kr/",
+							"display_url": "esquirekorea.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6344,
+			"friends_count": 0,
+			"listed_count": 90,
+			"created_at": "Wed Aug 04 01:06:57 +0000 2010",
+			"favourites_count": 183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6F6F6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216634775244439552/6mIzpCnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174477812/1602836949",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "0A0006",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 269,
+		"favorite_count": 326,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드라마 &lt;사생활&gt; 차주은 역을 맡은,🥰\n매력적인 배우 #서현 💃을 만났습니다.\nhttps://t.co/TPvLAZvNdb https://t.co/jcm5F6bVHx"
+	},
+	{
 		"created_at": "Wed Oct 21 09:52:44 +0000 2020",
 		"id": 1318852712927289300,
 		"id_str": "1318852712927289344",
