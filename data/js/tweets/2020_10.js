@@ -1,6 +1,720 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 09:07:20 +0000 2020",
+		"id": 1321376541192843300,
+		"id_str": "1321378001595047938",
+		"full_text": "[#STATION]\n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/jA3juXxtHI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321376466102227000,
+					"id_str": "1321376466102226944",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ45RyVkAAYIPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ45RyVkAAYIPQ.jpg",
+					"url": "https://t.co/jA3juXxtHI",
+					"display_url": "pic.twitter.com/jA3juXxtHI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321376541192843264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321376466102227000,
+					"id_str": "1321376466102226944",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ45RyVkAAYIPQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ45RyVkAAYIPQ.jpg",
+					"url": "https://t.co/jA3juXxtHI",
+					"display_url": "pic.twitter.com/jA3juXxtHI",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321376541192843264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8556160,
+			"friends_count": 53,
+			"listed_count": 8338,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 307,
+		"favorite_count": 1572,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION]\n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/jA3juXxtHI"
+	},
+	{
+		"created_at": "Wed Oct 28 09:07:12 +0000 2020",
+		"id": 1321376396174749700,
+		"id_str": "1321377967465996288",
+		"full_text": "[#STATION]\n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/SAyzsgqAeY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321376371952607200,
+					"id_str": "1321376371952607232",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ4zzDUYAA2VTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ4zzDUYAA2VTA.jpg",
+					"url": "https://t.co/SAyzsgqAeY",
+					"display_url": "pic.twitter.com/SAyzsgqAeY",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321376396174749699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321376371952607200,
+					"id_str": "1321376371952607232",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ4zzDUYAA2VTA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ4zzDUYAA2VTA.jpg",
+					"url": "https://t.co/SAyzsgqAeY",
+					"display_url": "pic.twitter.com/SAyzsgqAeY",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321376396174749699/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8556160,
+			"friends_count": 53,
+			"listed_count": 8338,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 243,
+		"favorite_count": 1397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION]\n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/SAyzsgqAeY"
+	},
+	{
+		"created_at": "Wed Oct 28 09:07:08 +0000 2020",
+		"id": 1321376243552415700,
+		"id_str": "1321377954266570753",
+		"full_text": "[#STATION]\n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/v76wZxcu4T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "STATION",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						127,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321376202444009500,
+					"id_str": "1321376202444009473",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ4p7lUcAErFka.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ4p7lUcAErFka.jpg",
+					"url": "https://t.co/v76wZxcu4T",
+					"display_url": "pic.twitter.com/v76wZxcu4T",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321376243552415744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321376202444009500,
+					"id_str": "1321376202444009473",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZ4p7lUcAErFka.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZ4p7lUcAErFka.jpg",
+					"url": "https://t.co/v76wZxcu4T",
+					"display_url": "pic.twitter.com/v76wZxcu4T",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321376243552415744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8556160,
+			"friends_count": 53,
+			"listed_count": 8338,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 377,
+		"favorite_count": 1887,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#STATION]\n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/v76wZxcu4T"
+	},
+	{
 		"created_at": "Wed Oct 28 06:32:22 +0000 2020",
 		"id": 1321339005540196400,
 		"id_str": "1321339005540196352",
