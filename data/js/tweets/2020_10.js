@@ -1,6 +1,394 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 02:07:09 +0000 2020",
+		"id": 1321261652222697500,
+		"id_str": "1321272259630256128",
+		"full_text": "DJ Raiden and HYO's collaboration single 'Think About Me' to be released on OCT 30 at 6PM KST through SM 'STATION'! \n\n#Raiden #레이든 #HYO #효연 #STATION #ThinkAboutMe https://t.co/2hSHaPg6BB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						149,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321261642928173000,
+					"id_str": "1321261642928173060",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ElYQdsIVMAQo8Bc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElYQdsIVMAQo8Bc.jpg",
+					"url": "https://t.co/2hSHaPg6BB",
+					"display_url": "pic.twitter.com/2hSHaPg6BB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321261652222697474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321261642928173000,
+					"id_str": "1321261642928173060",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ElYQdsIVMAQo8Bc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElYQdsIVMAQo8Bc.jpg",
+					"url": "https://t.co/2hSHaPg6BB",
+					"display_url": "pic.twitter.com/2hSHaPg6BB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321261652222697474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1321261642932338700,
+					"id_str": "1321261642932338688",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ElYQdsJUwAAqKMe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElYQdsJUwAAqKMe.jpg",
+					"url": "https://t.co/2hSHaPg6BB",
+					"display_url": "pic.twitter.com/2hSHaPg6BB",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321261652222697474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8552475,
+			"friends_count": 53,
+			"listed_count": 8334,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1460,
+		"favorite_count": 5558,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DJ Raiden and HYO's collaboration single 'Think About Me' to be released on OCT 30 at 6PM KST through SM 'STATION'! \n\n#Raiden #레이든 #HYO #효연 #STATION #ThinkAboutMe https://t.co/2hSHaPg6BB"
+	},
+	{
+		"created_at": "Wed Oct 28 01:52:30 +0000 2020",
+		"id": 1321268574082748400,
+		"id_str": "1321268574082748417",
+		"full_text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)StationSM ‘STATION’, 레이든 X HYO(효연) 컬래버레이션 싱글 ‘Think About Me’ 30일 오후...\nhttps://t.co/X4ySGyMWAW\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X4ySGyMWAW",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3846399998713270",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 504,
+			"friends_count": 453,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27787,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)StationSM ‘STATION’, 레이든 X HYO(효연) 컬래버레이션 싱글 ‘Think About Me’ 30일 오후...\nhttps://t.co/X4ySGyMWAW\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Tue Oct 27 05:07:08 +0000 2020",
 		"id": 1320950231077441500,
 		"id_str": "1320955168045830145",
