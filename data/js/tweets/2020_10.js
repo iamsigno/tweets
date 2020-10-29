@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 09:07:16 +0000 2020",
+		"id": 1321738543945887700,
+		"id_str": "1321740372784144385",
+		"full_text": "[STATION] Raiden X HYO 'Think About Me (Feat. Coogie)' MV Teaser \n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/86qiWfUEDi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						182,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321720212178104300,
+					"id_str": "1321720212178104320",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Ele2BMrVgAEjsXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ele2BMrVgAEjsXm.jpg",
+					"url": "https://t.co/86qiWfUEDi",
+					"display_url": "pic.twitter.com/86qiWfUEDi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321738543945887745/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321720212178104300,
+					"id_str": "1321720212178104320",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Ele2BMrVgAEjsXm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ele2BMrVgAEjsXm.jpg",
+					"url": "https://t.co/86qiWfUEDi",
+					"display_url": "pic.twitter.com/86qiWfUEDi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321738543945887745/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16475,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321720212178104320/vid/1280x720/hkxgzTi_4Y_lP4Re.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321720212178104320/vid/640x360/p1XawdTDdTZBBAQO.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1321720212178104320/pl/5JpCecL7xMV8J_hQ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321720212178104320/vid/480x270/QKr47HwRaJoCMlWA.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8561934,
+			"friends_count": 53,
+			"listed_count": 8340,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 885,
+		"favorite_count": 2307,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION] Raiden X HYO 'Think About Me (Feat. Coogie)' MV Teaser \n\n🎧 Raiden x HYO ‘Think About Me (Feat. Coogie)’\n: 2020.10.30. 6PM (KST)\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe https://t.co/86qiWfUEDi"
+	},
+	{
+		"created_at": "Thu Oct 29 09:07:11 +0000 2020",
+		"id": 1321734164215857200,
+		"id_str": "1321740351326035971",
+		"full_text": "[#2020MAMA] Best Vocal Performance Solo Nominee l #taeyeon #태연 #Spark #불티\n \nGate to NEW-TOPIA, 2020 MAMA\n2020.12.06 (SUN)\n \n#MnetASIANMUSICAWARDS #MAMA #Mnet https://t.co/wk7DQ0RetP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "Spark",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"text": "불티",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						124,
+						145
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321733482649776000,
+					"id_str": "1321733482649776130",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Ele9mYEUcAIQMAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ele9mYEUcAIQMAD.jpg",
+					"url": "https://t.co/wk7DQ0RetP",
+					"display_url": "pic.twitter.com/wk7DQ0RetP",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1321734164215857152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321733482649776000,
+					"id_str": "1321733482649776130",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/Ele9mYEUcAIQMAD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ele9mYEUcAIQMAD.jpg",
+					"url": "https://t.co/wk7DQ0RetP",
+					"display_url": "pic.twitter.com/wk7DQ0RetP",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1321734164215857152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter\n2020.12.06",
+			"url": "https://t.co/ksTHLqMRUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ksTHLqMRUV",
+							"expanded_url": "http://2020mama.com",
+							"display_url": "2020mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1862182,
+			"friends_count": 107,
+			"listed_count": 1562,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9991,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1602135439",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2598,
+		"favorite_count": 5308,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "it",
+		"text": "[#2020MAMA] Best Vocal Performance Solo Nominee l #taeyeon #태연 #Spark #불티\n \nGate to NEW-TOPIA, 2020 MAMA\n2020.12.06 (SUN)\n \n#MnetASIANMUSICAWARDS #MAMA #Mnet https://t.co/wk7DQ0RetP"
+	},
+	{
 		"created_at": "Thu Oct 29 07:18:38 +0000 2020",
 		"id": 1321368606169596000,
 		"id_str": "1321713035237416962",
