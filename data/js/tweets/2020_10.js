@@ -1,6 +1,967 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 07:18:38 +0000 2020",
+		"id": 1321368606169596000,
+		"id_str": "1321713035237416962",
+		"full_text": "최 회장의 장부를 쓰기 시작한 재욱(#김영민)\n\n재욱의 계획을 눈치챈 정환(#고경표)은 자신이\n죽어야만 했던 이유에 대해 확신하기 시작한다\n\n한편, 별장을 찾은 주은(#서현)과 복기(#김효진)는\n재욱의 마지막 흔적을 발견하고 경악을 금치 못하는데...\n\n▶오늘(수) 밤 9시 30분 &lt;#사생활&gt; 본방사수! https://t.co/dhRxpc8KdU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김영민",
+					"indices": [
+						20,
+						24
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "김효진",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321350478823743500,
+					"id_str": "1321350478823743494",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZr0JeUYAAf-CB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZr0JeUYAAf-CB.jpg",
+					"url": "https://t.co/dhRxpc8KdU",
+					"display_url": "pic.twitter.com/dhRxpc8KdU",
+					"expanded_url": "https://twitter.com/jtbclove/status/1321368606169595905/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321350478823743500,
+					"id_str": "1321350478823743494",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ElZr0JeUYAAf-CB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElZr0JeUYAAf-CB.jpg",
+					"url": "https://t.co/dhRxpc8KdU",
+					"display_url": "pic.twitter.com/dhRxpc8KdU",
+					"expanded_url": "https://twitter.com/jtbclove/status/1321368606169595905/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40040,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1321350478823743494/pl/K2zcL-DrEPmb-EhF.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321350478823743494/vid/480x270/HKDp1fLk74Bsdh0q.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321350478823743494/vid/1280x720/iNLWpCh9sPbHxtDW.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321350478823743494/vid/640x360/5h5hfKpJ5AjLwnrO.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[7회 예고] 정환 씨가 준 선물이야. 그래서 나 이 일 끝까지 갈 거야",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10426634/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440189,
+			"friends_count": 111,
+			"listed_count": 650,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 198,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "최 회장의 장부를 쓰기 시작한 재욱(#김영민)\n\n재욱의 계획을 눈치챈 정환(#고경표)은 자신이\n죽어야만 했던 이유에 대해 확신하기 시작한다\n\n한편, 별장을 찾은 주은(#서현)과 복기(#김효진)는\n재욱의 마지막 흔적을 발견하고 경악을 금치 못하는데...\n\n▶오늘(수) 밤 9시 30분 &lt;#사생활&gt; 본방사수! https://t.co/dhRxpc8KdU"
+	},
+	{
+		"created_at": "Thu Oct 29 07:18:32 +0000 2020",
+		"id": 1320998671517945900,
+		"id_str": "1321713011472568320",
+		"full_text": "'난 죽은 겁니다. 그래야 안전해요'\n\n(맴찢..💧) 정환을 그리워하는 주은(서현)과\n주은을 위해 죽음을 조작하는 정환(고경표)...\n\n#사생활 #서현 #고경표 #주정커플 https://t.co/CLKMxgGf1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "주정커플",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320979135506739200,
+					"id_str": "1320979135506739200",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUQmsNU0AAowHD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElUQmsNU0AAowHD.jpg",
+					"url": "https://t.co/CLKMxgGf1r",
+					"display_url": "pic.twitter.com/CLKMxgGf1r",
+					"expanded_url": "https://twitter.com/jtbclove/status/1320998671517945857/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320979135506739200,
+					"id_str": "1320979135506739200",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/ElUQmsNU0AAowHD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElUQmsNU0AAowHD.jpg",
+					"url": "https://t.co/CLKMxgGf1r",
+					"display_url": "pic.twitter.com/CLKMxgGf1r",
+					"expanded_url": "https://twitter.com/jtbclove/status/1320998671517945857/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 62496,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320979135506739200/vid/480x270/ncoib4zUHjNeHNSJ.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320979135506739200/vid/640x360/eXEx6oMzuRVKbBjg.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1320979135506739200/pl/IsWi6ACPjzRKF92p.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320979135506739200/vid/1280x720/3TGw1Ez9iDqboUNA.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [사생활] 서로를 그리워하는 서현♥고경표 '난 죽은 겁니다. 그래야 안전해요'",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/16354064/list/648392"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440189,
+			"friends_count": 111,
+			"listed_count": 650,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 316,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "'난 죽은 겁니다. 그래야 안전해요'\n\n(맴찢..💧) 정환을 그리워하는 주은(서현)과\n주은을 위해 죽음을 조작하는 정환(고경표)...\n\n#사생활 #서현 #고경표 #주정커플 https://t.co/CLKMxgGf1r"
+	},
+	{
+		"created_at": "Thu Oct 29 07:18:22 +0000 2020",
+		"id": 1320621182870171600,
+		"id_str": "1321712966610247681",
+		"full_text": "주방에서 이러시면,, 아주 오예입니다!!!!\n백허그부터 머리 쓰담쓰담까지💕\n\n※달달함 치사량 초과※ 주정 커플의\n신혼부부 저녁 Vlog 2탄!\n\n▶매주 수목 밤 9시 30분 &lt;#사생활&gt;\n#서현 #고경표 https://t.co/XGj7MRaFjd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사생활",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320594822206353400,
+					"id_str": "1320594822206353413",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/ElO1K7uVMAE5MwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElO1K7uVMAE5MwY.jpg",
+					"url": "https://t.co/XGj7MRaFjd",
+					"display_url": "pic.twitter.com/XGj7MRaFjd",
+					"expanded_url": "https://twitter.com/jtbclove/status/1320621182870171648/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320594822206353400,
+					"id_str": "1320594822206353413",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/ElO1K7uVMAE5MwY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElO1K7uVMAE5MwY.jpg",
+					"url": "https://t.co/XGj7MRaFjd",
+					"display_url": "pic.twitter.com/XGj7MRaFjd",
+					"expanded_url": "https://twitter.com/jtbclove/status/1320621182870171648/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 312479,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320594822206353413/vid/640x360/9tbadvrFADfBCHfb.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320594822206353413/vid/480x270/Ivx93rJ2mhYbXOsu.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320594822206353413/vid/1280x720/IV8LjAybNJzpNfc8.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1320594822206353413/pl/wUFKCpxjgblP6uHF.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[사생활] 메이킹💜 판교 신혼부부 저녁 Vlog (ft.사랑 충전 영양 불고기)",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/vod/pr10011229/pm10060475/vo10426904/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440189,
+			"friends_count": 111,
+			"listed_count": 650,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 331,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "주방에서 이러시면,, 아주 오예입니다!!!!\n백허그부터 머리 쓰담쓰담까지💕\n\n※달달함 치사량 초과※ 주정 커플의\n신혼부부 저녁 Vlog 2탄!\n\n▶매주 수목 밤 9시 30분 &lt;#사생활&gt;\n#서현 #고경표 https://t.co/XGj7MRaFjd"
+	},
+	{
+		"created_at": "Thu Oct 29 07:18:08 +0000 2020",
+		"id": 1319201830740525000,
+		"id_str": "1321712910121398272",
+		"full_text": "집으로 돌아온 주은(#서현)은 거짓말처럼\n사라져 버린 정환의 흔적들을 보고 망연자실한다\n\n한편, 정환(#고경표)은 GK 김 실장에게서\n수상한 정황을 포착하고, 그의 뒤를 밟다가\n예상치 못한 사람을 만나게 되는데...\n\n▶오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수! https://t.co/8uQKtHNBDy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "고경표",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						142,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319182342137639000,
+					"id_str": "1319182342137638912",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek6towAUwAAAFQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek6towAUwAAAFQb.jpg",
+					"url": "https://t.co/8uQKtHNBDy",
+					"display_url": "pic.twitter.com/8uQKtHNBDy",
+					"expanded_url": "https://twitter.com/jtbclove/status/1319201830740525056/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319182342137639000,
+					"id_str": "1319182342137638912",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek6towAUwAAAFQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek6towAUwAAAFQb.jpg",
+					"url": "https://t.co/8uQKtHNBDy",
+					"display_url": "pic.twitter.com/8uQKtHNBDy",
+					"expanded_url": "https://twitter.com/jtbclove/status/1319201830740525056/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35035,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1319182342137638912/vid/640x360/HCB214W2o2nu8076.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1319182342137638912/vid/1280x720/Xh55NWyn-tq1Wl97.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1319182342137638912/vid/480x270/2lPPxeWtKZVr6jaZ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1319182342137638912/pl/A-EXuidnly-bcraI.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[6회 예고] 잊는 게 힘들면, 못 잊는 거지 뭐…",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "http://tv.jtbc.joins.com/trailer/pr10011229/pm10060473/vo10426355/view"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440189,
+			"friends_count": 111,
+			"listed_count": 650,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 305,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "집으로 돌아온 주은(#서현)은 거짓말처럼\n사라져 버린 정환의 흔적들을 보고 망연자실한다\n\n한편, 정환(#고경표)은 GK 김 실장에게서\n수상한 정황을 포착하고, 그의 뒤를 밟다가\n예상치 못한 사람을 만나게 되는데...\n\n▶오늘(목) 밤 9시 30분 &lt;#사생활&gt; 본방사수! https://t.co/8uQKtHNBDy"
+	},
+	{
 		"created_at": "Thu Oct 29 01:44:56 +0000 2020",
 		"id": 1321618972824010800,
 		"id_str": "1321629058577375233",
