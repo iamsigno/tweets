@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 18:45:18 +0000 2020",
+		"id": 1302879279550812200,
+		"id_str": "1321885840537055232",
+		"full_text": "少女時代のメンバー ユナがエスティローダーのアジア地域のブランドアンバサダーに就任✨\n\nエレガントな美しさをもったユナが、エスティローダー製品をご紹介していくアジア地域のブランドアンバサダーとして、公式SNSに登場していきます。今後のユナの活動をお楽しみに！\n\n#EsteeAmbassador https://t.co/fTkKezl9Sl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EsteeAmbassador",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302879277738864600,
+					"id_str": "1302879277738864641",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTBzNbXsAEoNHl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTBzNbXsAEoNHl.jpg",
+					"url": "https://t.co/fTkKezl9Sl",
+					"display_url": "pic.twitter.com/fTkKezl9Sl",
+					"expanded_url": "https://twitter.com/EsteeLauder_JP/status/1302879279550812161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 982,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302879277738864600,
+					"id_str": "1302879277738864641",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/EhTBzNbXsAEoNHl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhTBzNbXsAEoNHl.jpg",
+					"url": "https://t.co/fTkKezl9Sl",
+					"display_url": "pic.twitter.com/fTkKezl9Sl",
+					"expanded_url": "https://twitter.com/EsteeLauder_JP/status/1302879279550812161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 982,
+							"h": 982,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 982,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3234885666,
+			"id_str": "3234885666",
+			"name": "エスティローダー 公式",
+			"screen_name": "EsteeLauder_JP",
+			"location": "東京都 千代田区",
+			"description": "新製品・キャンペーン情報などを発信しています。個別のお問い合わせへの返信はしておりません。下記URLよりフォームへの入力をお願いいたします。",
+			"url": "https://t.co/arTMirLBRo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/arTMirLBRo",
+							"expanded_url": "http://bit.ly/2mroT7Y",
+							"display_url": "bit.ly/2mroT7Y",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86400,
+			"friends_count": 55,
+			"listed_count": 408,
+			"created_at": "Wed Jun 03 09:55:44 +0000 2015",
+			"favourites_count": 1288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 132427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/606036968657412097/zrpJvvzu_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/606036968657412097/zrpJvvzu_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3234885666/1603411509",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2988,
+		"favorite_count": 5177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "少女時代のメンバー ユナがエスティローダーのアジア地域のブランドアンバサダーに就任✨\n\nエレガントな美しさをもったユナが、エスティローダー製品をご紹介していくアジア地域のブランドアンバサダーとして、公式SNSに登場していきます。今後のユナの活動をお楽しみに！\n\n#EsteeAmbassador https://t.co/fTkKezl9Sl"
+	},
+	{
+		"created_at": "Thu Oct 29 18:42:11 +0000 2020",
+		"id": 1320953370182447000,
+		"id_str": "1321885054516166657",
+		"full_text": "#그랑사가 X #태연 스페셜 MV 티저\n#운명보다_한걸음_빠르게\n\n📣10/30(금) 2PM 풀버전 MV 단독 공개\n\n🔔그랑사가 유튜브를 구독하고, 스페셜 MV를 가장 먼저 시청하세요!\n\n#엔픽셀 #NPIXEL #운한빠\n\n* 티저 페이지 https://t.co/4nRGTdkFyu\n* 유튜브https://t.co/yMBoJIe2Cw https://t.co/ksFeV9aWla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그랑사가",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "운명보다_한걸음_빠르게",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"text": "엔픽셀",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "NPIXEL",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "운한빠",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4nRGTdkFyu",
+					"expanded_url": "http://taeyeon.gransaga.com",
+					"display_url": "taeyeon.gransaga.com",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/yMBoJIe2Cw",
+					"expanded_url": "http://www.youtube.com/c/GRANSAGA",
+					"display_url": "youtube.com/c/GRANSAGA",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1320693474522398700,
+					"id_str": "1320693474522398720",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320693474522398720/pu/img/Nbp_ZGyOKviG21ZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320693474522398720/pu/img/Nbp_ZGyOKviG21ZD.jpg",
+					"url": "https://t.co/ksFeV9aWla",
+					"display_url": "pic.twitter.com/ksFeV9aWla",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1320953370182447111/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320693474522398700,
+					"id_str": "1320693474522398720",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320693474522398720/pu/img/Nbp_ZGyOKviG21ZD.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320693474522398720/pu/img/Nbp_ZGyOKviG21ZD.jpg",
+					"url": "https://t.co/ksFeV9aWla",
+					"display_url": "pic.twitter.com/ksFeV9aWla",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1320953370182447111/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23607,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320693474522398720/pu/vid/1280x720/oPiadgoGBcZ6XJlL.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320693474522398720/pu/vid/480x270/2ZsUFGhI7dJz_1LG.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1320693474522398720/pu/pl/Bq8_9GkI4t1UUG8q.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1320693474522398720/pu/vid/640x360/U3xIivPiY040sJ8c.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/OVERr6X74P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OVERr6X74P",
+							"expanded_url": "http://taeyeon.gransaga.com",
+							"display_url": "taeyeon.gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1264,
+			"friends_count": 0,
+			"listed_count": 5,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1603983746",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2419,
+		"favorite_count": 2526,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그랑사가 X #태연 스페셜 MV 티저\n#운명보다_한걸음_빠르게\n\n📣10/30(금) 2PM 풀버전 MV 단독 공개\n\n🔔그랑사가 유튜브를 구독하고, 스페셜 MV를 가장 먼저 시청하세요!\n\n#엔픽셀 #NPIXEL #운한빠\n\n* 티저 페이지 https://t.co/4nRGTdkFyu\n* 유튜브https://t.co/yMBoJIe2Cw https://t.co/ksFeV9aWla"
+	},
+	{
 		"created_at": "Thu Oct 29 16:33:26 +0000 2020",
 		"id": 1321852656319664000,
 		"id_str": "1321852656319664128",
