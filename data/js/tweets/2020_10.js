@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 15:07:09 +0000 2020",
+		"id": 1321829392931344400,
+		"id_str": "1321830939400556547",
+		"full_text": "❣️OUT NOW❣️\nテヨン2nd Mini Album「#GirlsSpkOut」が各配信サービスで配信スタート🎵\n🎧https://t.co/vkvEPhKpTH\n🔗https://t.co/dlbgjRXoqi\n\n#TAEYEON #テヨン #태연 #GirlsSpkOut https://t.co/oVLUGTKsD8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						129,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vkvEPhKpTH",
+					"expanded_url": "https://lnk.to/GSODL",
+					"display_url": "lnk.to/GSODL",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/dlbgjRXoqi",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/girlsspkout_streaming/",
+					"display_url": "taeyeon.girls-generation.jp/news/girlsspko…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1321776285849276400,
+					"id_str": "1321776285849276417",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1321776285849276417/pu/img/UtdR_AEm56rtuD7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1321776285849276417/pu/img/UtdR_AEm56rtuD7t.jpg",
+					"url": "https://t.co/oVLUGTKsD8",
+					"display_url": "pic.twitter.com/oVLUGTKsD8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1321829392931344384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321776285849276400,
+					"id_str": "1321776285849276417",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1321776285849276417/pu/img/UtdR_AEm56rtuD7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1321776285849276417/pu/img/UtdR_AEm56rtuD7t.jpg",
+					"url": "https://t.co/oVLUGTKsD8",
+					"display_url": "pic.twitter.com/oVLUGTKsD8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1321829392931344384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1321776285849276417/pu/vid/360x640/H9XWhjb8Y_pp--id.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1321776285849276417/pu/pl/rbnbXOWEhMfV8yZJ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1321776285849276417/pu/vid/540x960/UlPgArA0MEx_2Kzl.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1321776285849276417/pu/vid/320x568/_7NjLBu8V566h-NA.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105050,
+			"friends_count": 0,
+			"listed_count": 484,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 876,
+		"favorite_count": 977,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "❣️OUT NOW❣️\nテヨン2nd Mini Album「#GirlsSpkOut」が各配信サービスで配信スタート🎵\n🎧https://t.co/vkvEPhKpTH\n🔗https://t.co/dlbgjRXoqi\n\n#TAEYEON #テヨン #태연 #GirlsSpkOut https://t.co/oVLUGTKsD8"
+	},
+	{
 		"created_at": "Thu Oct 29 13:33:46 +0000 2020",
 		"id": 1321807441269530600,
 		"id_str": "1321807441269530627",
