@@ -1,6 +1,1102 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 10:07:38 +0000 2020",
+		"id": 1322106400382754800,
+		"id_str": "1322117952905355264",
+		"full_text": "친구들아_보고싶다_잘지내니.jpg\n\n우리 모두의 따뜻했던 그 시절이\n그리워지는 영화!\n\n#OCN #25TORY #써니 #심은경 #강소라 #천우희 #민효린\n#박진주 #남보라 #김보미 #sunny\n#영화 #영화추천 #movie https://t.co/t5xmMgM223",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OCN",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "25TORY",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "심은경",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "강소라",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "천우희",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "민효린",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "박진주",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "남보라",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "김보미",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "sunny",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "영화",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "영화추천",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "movie",
+					"indices": [
+						118,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322106372264136700,
+					"id_str": "1322106372264136704",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ElkQvaIVkAAFt-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElkQvaIVkAAFt-7.jpg",
+					"url": "https://t.co/t5xmMgM223",
+					"display_url": "pic.twitter.com/t5xmMgM223",
+					"expanded_url": "https://twitter.com/No1_OCN/status/1322106400382754816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322106372264136700,
+					"id_str": "1322106372264136704",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ElkQvaIVkAAFt-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElkQvaIVkAAFt-7.jpg",
+					"url": "https://t.co/t5xmMgM223",
+					"display_url": "pic.twitter.com/t5xmMgM223",
+					"expanded_url": "https://twitter.com/No1_OCN/status/1322106400382754816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322106372268257300,
+					"id_str": "1322106372268257281",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/ElkQvaJUcAEsVAt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElkQvaJUcAEsVAt.jpg",
+					"url": "https://t.co/t5xmMgM223",
+					"display_url": "pic.twitter.com/t5xmMgM223",
+					"expanded_url": "https://twitter.com/No1_OCN/status/1322106400382754816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 126233927,
+			"id_str": "126233927",
+			"name": "OCN_Family",
+			"screen_name": "No1_OCN",
+			"location": "대한민국 서울",
+			"description": "OCN 브랜딩, OCN Movies, OCN Thrills 공식 계정입니다",
+			"url": "https://t.co/mKt2r1GXgM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mKt2r1GXgM",
+							"expanded_url": "http://www.youtube.com/user/ocn",
+							"display_url": "youtube.com/user/ocn",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44777,
+			"friends_count": 17057,
+			"listed_count": 596,
+			"created_at": "Thu Mar 25 06:20:04 +0000 2010",
+			"favourites_count": 1591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278624867491827713/LI5noZ2t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278624867491827713/LI5noZ2t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/126233927/1593682900",
+			"profile_link_color": "FFCC4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "150336",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친구들아_보고싶다_잘지내니.jpg\n\n우리 모두의 따뜻했던 그 시절이\n그리워지는 영화!\n\n#OCN #25TORY #써니 #심은경 #강소라 #천우희 #민효린\n#박진주 #남보라 #김보미 #sunny\n#영화 #영화추천 #movie https://t.co/t5xmMgM223"
+	},
+	{
+		"created_at": "Fri Oct 30 10:07:22 +0000 2020",
+		"id": 1322105945044910000,
+		"id_str": "1322117884915712000",
+		"full_text": "Raiden x HYO ‘Think About Me (Feat. Coogie)’\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/iLueIXXswl\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "긴조",
+					"indices": [
+						175,
+						178
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						184,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iLueIXXswl",
+					"expanded_url": "https://smarturl.it/Raiden_HYO_TAM",
+					"display_url": "smarturl.it/Raiden_HYO_TAM",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8568842,
+			"friends_count": 53,
+			"listed_count": 8342,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 493,
+		"favorite_count": 2802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden x HYO ‘Think About Me (Feat. Coogie)’\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/iLueIXXswl\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY"
+	},
+	{
+		"created_at": "Fri Oct 30 10:07:08 +0000 2020",
+		"id": 1322102736494588000,
+		"id_str": "1322117829416681474",
+		"full_text": "[SM STATION] Raiden X HYO 'Think About Me'\n\n👉🏻https://t.co/vs5AoAqZZE\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						128,
+						134
+					]
+				},
+				{
+					"text": "긴조",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						144,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vs5AoAqZZE",
+					"expanded_url": "http://naver.me/xrhRdV1x",
+					"display_url": "naver.me/xrhRdV1x",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8568842,
+			"friends_count": 53,
+			"listed_count": 8342,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 612,
+		"favorite_count": 3377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[SM STATION] Raiden X HYO 'Think About Me'\n\n👉🏻https://t.co/vs5AoAqZZE\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY"
+	},
+	{
+		"created_at": "Fri Oct 30 09:52:50 +0000 2020",
+		"id": 1322114227004448800,
+		"id_str": "1322114227004448768",
+		"full_text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)smarturl.itsmartURL\nhttps://t.co/Ba2N69onbQ\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ba2N69onbQ",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3853357614684175",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 452,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)smarturl.itsmartURL\nhttps://t.co/Ba2N69onbQ\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Fri Oct 30 09:52:49 +0000 2020",
+		"id": 1322114224454291500,
+		"id_str": "1322114224454291456",
+		"full_text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)[BY SMTOWN 신곡 포스트] 10월 30일! SM STATION이 막강한 컬래버레이션으로...\nhttps://t.co/NMxoNUxkOQ\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						126,
+						135
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						136,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NMxoNUxkOQ",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3853333154686621",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 452,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)[BY SMTOWN 신곡 포스트] 10월 30일! SM STATION이 막강한 컬래버레이션으로...\nhttps://t.co/NMxoNUxkOQ\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Fri Oct 30 09:52:48 +0000 2020",
+		"id": 1322114221522493400,
+		"id_str": "1322114221522493440",
+		"full_text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)‘독보적 존재감' Raiden X HYO의 만남! SM STATION 신곡 ‘Think About Me (Feat. Coogie)' 공개...\nhttps://t.co/fOKbd1wVnK\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fOKbd1wVnK",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3853328981353705",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 452,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n소녀시대(Girls' Generation)‘독보적 존재감' Raiden X HYO의 만남! SM STATION 신곡 ‘Think About Me (Feat. Coogie)' 공개...\nhttps://t.co/fOKbd1wVnK\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Fri Oct 30 09:07:36 +0000 2020",
 		"id": 1322102243835797500,
 		"id_str": "1322102845542457344",
