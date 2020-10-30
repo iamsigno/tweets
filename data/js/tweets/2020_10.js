@@ -1,6 +1,563 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 03:07:28 +0000 2020",
+		"id": 1322011559552458800,
+		"id_str": "1322012214811906048",
+		"full_text": "TAEYEON 태연 '#GirlsSpkOut'\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/Y867Mbqev7\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y867Mbqev7",
+					"expanded_url": "https://smarturl.it/TY_GirlsSpkOut",
+					"display_url": "smarturl.it/TY_GirlsSpkOut",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3588176,
+			"friends_count": 4,
+			"listed_count": 5051,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 337,
+		"favorite_count": 627,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 '#GirlsSpkOut'\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/Y867Mbqev7\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Oct 30 03:07:20 +0000 2020",
+		"id": 1322011234590322700,
+		"id_str": "1322012180418564096",
+		"full_text": "태연 TAEYEON '#GirlsSpkOut’ \n\n🎧Melon: https://t.co/e2d2o1JNpU\n🎧FLO: https://t.co/qeHjxee7NI\n🎧genie: https://t.co/NfFOLDvCuk\n🎧NAVER MUSIC: https://t.co/e1aR0nZdCc\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						161,
+						164
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e2d2o1JNpU",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10497097",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						36,
+						59
+					]
+				},
+				{
+					"url": "https://t.co/qeHjxee7NI",
+					"expanded_url": "http://flomuz.io/s/a.Bz6Iz",
+					"display_url": "flomuz.io/s/a.Bz6Iz",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/NfFOLDvCuk",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81606396",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/e1aR0nZdCc",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=4980679",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3588176,
+			"friends_count": 4,
+			"listed_count": 5051,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2159,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 438,
+		"favorite_count": 791,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "태연 TAEYEON '#GirlsSpkOut’ \n\n🎧Melon: https://t.co/e2d2o1JNpU\n🎧FLO: https://t.co/qeHjxee7NI\n🎧genie: https://t.co/NfFOLDvCuk\n🎧NAVER MUSIC: https://t.co/e1aR0nZdCc\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Oct 30 03:07:13 +0000 2020",
+		"id": 1321999770798366700,
+		"id_str": "1322012150639058945",
+		"full_text": "#TAEYEON จะปล่อยเพลงทั้งหมดจากมินิอัลบั้มญี่ปุ่นชุดใหม่ '#GirlsSpkOut' ออกมาวันนี้ (30 ต.ค.) เวลา 10 โมงเช้าไทย\n\nส่วนอัลบั้มจะวางจำหน่ายที่ญี่ปุ่น ในวันที่ 18 พ.ย. นี้!\n\n#태연 #소녀시대\n#GirlsGeneration https://t.co/ymD9jeSGX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321999765022732300,
+					"id_str": "1321999765022732288",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ElivyDNUcAA-5xX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElivyDNUcAA-5xX.jpg",
+					"url": "https://t.co/ymD9jeSGX5",
+					"display_url": "pic.twitter.com/ymD9jeSGX5",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1321999770798366721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321999765022732300,
+					"id_str": "1321999765022732288",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ElivyDNUcAA-5xX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElivyDNUcAA-5xX.jpg",
+					"url": "https://t.co/ymD9jeSGX5",
+					"display_url": "pic.twitter.com/ymD9jeSGX5",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1321999770798366721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1321999765026996200,
+					"id_str": "1321999765026996225",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/ElivyDOVgAEiTF7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElivyDOVgAEiTF7.jpg",
+					"url": "https://t.co/ymD9jeSGX5",
+					"display_url": "pic.twitter.com/ymD9jeSGX5",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1321999770798366721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82983,
+			"friends_count": 48,
+			"listed_count": 139,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#TAEYEON จะปล่อยเพลงทั้งหมดจากมินิอัลบั้มญี่ปุ่นชุดใหม่ '#GirlsSpkOut' ออกมาวันนี้ (30 ต.ค.) เวลา 10 โมงเช้าไทย\n\nส่วนอัลบั้มจะวางจำหน่ายที่ญี่ปุ่น ในวันที่ 18 พ.ย. นี้!\n\n#태연 #소녀시대\n#GirlsGeneration https://t.co/ymD9jeSGX5"
+	},
+	{
 		"created_at": "Fri Oct 30 02:07:14 +0000 2020",
 		"id": 1321995545183842300,
 		"id_str": "1321997058597920769",
