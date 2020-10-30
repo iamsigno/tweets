@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 02:07:14 +0000 2020",
+		"id": 1321995545183842300,
+		"id_str": "1321997058597920769",
+		"full_text": "DJ Raiden X HYO's collaboration single 'Think About Me' to be released today at 6PM KST through SM 'STATION'!\nThere is also a remix version of DJ GINJO and IMLAY in this single album!\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY https://t.co/mI8bRFUu9c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						198,
+						202
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						203,
+						206
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						207,
+						210
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						211,
+						218
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						219,
+						227
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						242,
+						248
+					]
+				},
+				{
+					"text": "긴조",
+					"indices": [
+						249,
+						252
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						253,
+						257
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						258,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321994667961901000,
+					"id_str": "1321994667961901056",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/ElirJXLUYAAYK3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElirJXLUYAAYK3d.jpg",
+					"url": "https://t.co/mI8bRFUu9c",
+					"display_url": "pic.twitter.com/mI8bRFUu9c",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321995545183842304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321994667961901000,
+					"id_str": "1321994667961901056",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/ElirJXLUYAAYK3d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElirJXLUYAAYK3d.jpg",
+					"url": "https://t.co/mI8bRFUu9c",
+					"display_url": "pic.twitter.com/mI8bRFUu9c",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1321995545183842304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8566040,
+			"friends_count": 53,
+			"listed_count": 8346,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 367,
+		"favorite_count": 1718,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "DJ Raiden X HYO's collaboration single 'Think About Me' to be released today at 6PM KST through SM 'STATION'!\nThere is also a remix version of DJ GINJO and IMLAY in this single album!\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY https://t.co/mI8bRFUu9c"
+	},
+	{
+		"created_at": "Fri Oct 30 02:07:08 +0000 2020",
+		"id": 1321994387283304400,
+		"id_str": "1321997032953958400",
+		"full_text": "#태연 日 새 미니앨범 ‘#GirlsSpkOut’ 오늘 낮 12시 음원 공개! \n11월 18일 현지 음반 발매!\n \nAll tracks of TAEYEON's new Japanese mini-album '#GirlsSpkOut' to be released today at 12PM KST and the local album will be released on NOV. 18! \n\n#TAEYEON #소녀시대 #GirlsGeneration https://t.co/lB5JnXNXdV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						221,
+						226
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						227,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321994381251866600,
+					"id_str": "1321994381251866624",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Eliq4rGUcAAmihc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eliq4rGUcAAmihc.jpg",
+					"url": "https://t.co/lB5JnXNXdV",
+					"display_url": "pic.twitter.com/lB5JnXNXdV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1321994387283304448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321994381251866600,
+					"id_str": "1321994381251866624",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Eliq4rGUcAAmihc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eliq4rGUcAAmihc.jpg",
+					"url": "https://t.co/lB5JnXNXdV",
+					"display_url": "pic.twitter.com/lB5JnXNXdV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1321994387283304448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1321994381327364000,
+					"id_str": "1321994381327364096",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Eliq4rYUcAAtG3Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eliq4rYUcAAtG3Z.jpg",
+					"url": "https://t.co/lB5JnXNXdV",
+					"display_url": "pic.twitter.com/lB5JnXNXdV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1321994387283304448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3588224,
+			"friends_count": 4,
+			"listed_count": 5054,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 43,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1168,
+		"favorite_count": 2415,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태연 日 새 미니앨범 ‘#GirlsSpkOut’ 오늘 낮 12시 음원 공개! \n11월 18일 현지 음반 발매!\n \nAll tracks of TAEYEON's new Japanese mini-album '#GirlsSpkOut' to be released today at 12PM KST and the local album will be released on NOV. 18! \n\n#TAEYEON #소녀시대 #GirlsGeneration https://t.co/lB5JnXNXdV"
+	},
+	{
 		"created_at": "Thu Oct 29 18:45:18 +0000 2020",
 		"id": 1302879279550812200,
 		"id_str": "1321885840537055232",
