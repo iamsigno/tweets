@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 09:07:36 +0000 2020",
+		"id": 1322102243835797500,
+		"id_str": "1322102845542457344",
+		"full_text": "[STATION] Raiden X HYO 'Think About Me (Feat. Coogie)' MV \n\n🎬 https://t.co/PAiF2b7KB6\n\n-\n\nแฟนชาวไทย สามารถรับฟังซิงเกิล   '#ThinkAboutMe' ของ #Raiden X #HYO ได้ทาง;\n\n🎧 TrueID https://t.co/0Eg3ftrxiA\n🎧 JOOX https://t.co/ZJ3CQtXr1Z\n\n#레이든 #효연 #Coogie\n#STATION #GINJO #IMLAY https://t.co/1sfyjnu6ZI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						142,
+						149
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						231,
+						235
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						236,
+						239
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						240,
+						247
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						248,
+						256
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						257,
+						263
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						264,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PAiF2b7KB6",
+					"expanded_url": "http://youtu.be/0Bar3VXF45U",
+					"display_url": "youtu.be/0Bar3VXF45U",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/0Eg3ftrxiA",
+					"expanded_url": "https://bit.ly/3myzfk",
+					"display_url": "bit.ly/3myzfk",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/ZJ3CQtXr1Z",
+					"expanded_url": "https://open.joox.com/s/rd?k=h5ZF",
+					"display_url": "open.joox.com/s/rd?k=h5ZF",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1322102235858235400,
+					"id_str": "1322102235858235392",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ElkM-o0UcAA224z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElkM-o0UcAA224z.jpg",
+					"url": "https://t.co/1sfyjnu6ZI",
+					"display_url": "pic.twitter.com/1sfyjnu6ZI",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1322102243835797505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322102235858235400,
+					"id_str": "1322102235858235392",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/ElkM-o0UcAA224z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElkM-o0UcAA224z.jpg",
+					"url": "https://t.co/1sfyjnu6ZI",
+					"display_url": "pic.twitter.com/1sfyjnu6ZI",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1322102243835797505/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83002,
+			"friends_count": 48,
+			"listed_count": 139,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[STATION] Raiden X HYO 'Think About Me (Feat. Coogie)' MV \n\n🎬 https://t.co/PAiF2b7KB6\n\n-\n\nแฟนชาวไทย สามารถรับฟังซิงเกิล   '#ThinkAboutMe' ของ #Raiden X #HYO ได้ทาง;\n\n🎧 TrueID https://t.co/0Eg3ftrxiA\n🎧 JOOX https://t.co/ZJ3CQtXr1Z\n\n#레이든 #효연 #Coogie\n#STATION #GINJO #IMLAY https://t.co/1sfyjnu6ZI"
+	},
+	{
+		"created_at": "Fri Oct 30 09:07:13 +0000 2020",
+		"id": 1322101730708869000,
+		"id_str": "1322102747949391872",
+		"full_text": "Raiden x HYO ‘Think About Me (Feat. Coogie)’\n\n🎧Melon: https://t.co/DEqBEOv3Q5\n🎧FLO: https://t.co/ejgPZHX2BH\n🎧genie: https://t.co/PESLgyr8zj\n🎧NAVER MUSIC: https://t.co/m1LeGqtuhJ\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						179,
+						186
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						187,
+						191
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						192,
+						196
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						201,
+						204
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						205,
+						212
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						213,
+						221
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						222,
+						235
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						236,
+						242
+					]
+				},
+				{
+					"text": "긴조",
+					"indices": [
+						243,
+						246
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						247,
+						251
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						252,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DEqBEOv3Q5",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10511799",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/ejgPZHX2BH",
+					"expanded_url": "https://www.music-flo.com/detail/album/edliaeely/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"url": "https://t.co/PESLgyr8zj",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81700023",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						116,
+						139
+					]
+				},
+				{
+					"url": "https://t.co/m1LeGqtuhJ",
+					"expanded_url": "https://music.naver.com/album/index.nhn?albumId=5059330",
+					"display_url": "music.naver.com/album/index.nh…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8568571,
+			"friends_count": 53,
+			"listed_count": 8340,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 270,
+		"favorite_count": 1122,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Raiden x HYO ‘Think About Me (Feat. Coogie)’\n\n🎧Melon: https://t.co/DEqBEOv3Q5\n🎧FLO: https://t.co/ejgPZHX2BH\n🎧genie: https://t.co/PESLgyr8zj\n🎧NAVER MUSIC: https://t.co/m1LeGqtuhJ\n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY"
+	},
+	{
+		"created_at": "Fri Oct 30 09:07:09 +0000 2020",
+		"id": 1322101006520348700,
+		"id_str": "1322102730660470786",
+		"full_text": "[STATION] Raiden X HYO 'Think About Me (Feat. Coogie)' MV \n\n🎬 https://t.co/v8ZbUdXqTL \n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Raiden",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "레이든",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						106,
+						109
+					]
+				},
+				{
+					"text": "쿠기",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "Coogie",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "STATION",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "ThinkAboutMe",
+					"indices": [
+						131,
+						144
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "긴조",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "임레이",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						161,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v8ZbUdXqTL",
+					"expanded_url": "https://youtu.be/0Bar3VXF45U",
+					"display_url": "youtu.be/0Bar3VXF45U",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8568571,
+			"friends_count": 53,
+			"listed_count": 8340,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 581,
+		"favorite_count": 1697,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[STATION] Raiden X HYO 'Think About Me (Feat. Coogie)' MV \n\n🎬 https://t.co/v8ZbUdXqTL \n\n#Raiden #레이든 #HYO #효연 #쿠기 #Coogie #STATION #ThinkAboutMe #GINJO #긴조 #임레이 #IMLAY"
+	},
+	{
 		"created_at": "Fri Oct 30 05:52:14 +0000 2020",
 		"id": 1322053678673678300,
 		"id_str": "1322053678673678336",
