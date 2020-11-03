@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 05:07:13 +0000 2020",
+		"id": 1323491551939498000,
+		"id_str": "1323491900930871296",
+		"full_text": "[#2020MAMA Nominees] Best Vocal Performance Solo\n\n#yerinbaek #baekhyun #iu #jungseunghwan #taeyeon\n\nVote for your Best Vocal Performance Solo NOW!\n▶https://t.co/rNzu2XKGYx\n\nGate to NEW-TOPIA, 2020 MAMA\n2020.12.06 (SUN)\n\n#MnetASIANMUSICAWARDS #MAMA #Mnet https://t.co/1mW7J1IZOZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "yerinbaek",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"text": "baekhyun",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "iu",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "jungseunghwan",
+					"indices": [
+						75,
+						89
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						220,
+						241
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						242,
+						247
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						248,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rNzu2XKGYx",
+					"expanded_url": "http://2020mama.com",
+					"display_url": "2020mama.com",
+					"indices": [
+						148,
+						171
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1323456664549302300,
+					"id_str": "1323456664549302272",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/El3lObKVkAAMlui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El3lObKVkAAMlui.jpg",
+					"url": "https://t.co/1mW7J1IZOZ",
+					"display_url": "pic.twitter.com/1mW7J1IZOZ",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1323491551939497984/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323456664549302300,
+					"id_str": "1323456664549302272",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/El3lObKVkAAMlui.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El3lObKVkAAMlui.jpg",
+					"url": "https://t.co/1mW7J1IZOZ",
+					"display_url": "pic.twitter.com/1mW7J1IZOZ",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1323491551939497984/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39990,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323456664549302272/vid/1280x720/l18hKETTraXAMXZL.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323456664549302272/vid/480x270/wl7emYuQB2JI39jF.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1323456664549302272/pl/2ltKZ0dhzDCJji-E.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1323456664549302272/vid/640x360/5sAng5s5BozZUgtR.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter\n2020.12.06",
+			"url": "https://t.co/ksTHLqMRUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ksTHLqMRUV",
+							"expanded_url": "http://2020mama.com",
+							"display_url": "2020mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1888500,
+			"friends_count": 107,
+			"listed_count": 1493,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1602135439",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2020MAMA Nominees] Best Vocal Performance Solo\n\n#yerinbaek #baekhyun #iu #jungseunghwan #taeyeon\n\nVote for your Best Vocal Performance Solo NOW!\n▶https://t.co/rNzu2XKGYx\n\nGate to NEW-TOPIA, 2020 MAMA\n2020.12.06 (SUN)\n\n#MnetASIANMUSICAWARDS #MAMA #Mnet https://t.co/1mW7J1IZOZ"
+	},
+	{
 		"created_at": "Mon Nov 02 20:50:24 +0000 2020",
 		"id": 1323366873925324800,
 		"id_str": "1323366873925324800",
