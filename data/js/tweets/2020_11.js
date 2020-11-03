@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 17:28:38 +0000 2020",
+		"id": 1323641083725828000,
+		"id_str": "1323678487585021953",
+		"full_text": "[TEASER] 이승철, 태연 (TAEYEON) - My Love (Duet Ver.)\n2020.11.05 18:00 RELEASE✨\n\n#이승철 #태연 (#TAEYEON) #MyLove\n\nhttps://t.co/zYNF4DIh3g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이승철",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "MyLove",
+					"indices": [
+						96,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zYNF4DIh3g",
+					"expanded_url": "https://youtu.be/uTzeEGrnPoY",
+					"display_url": "youtu.be/uTzeEGrnPoY",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204980754662297600,
+			"id_str": "1204980754662297600",
+			"name": "FLEX M - 플렉스엠",
+			"screen_name": "flexm_official",
+			"location": "",
+			"description": "FLEX M OFFICIAL TWITTER",
+			"url": "https://t.co/SxPpAGiVLt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SxPpAGiVLt",
+							"expanded_url": "http://youtube.com/FLEXM",
+							"display_url": "youtube.com/FLEXM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Thu Dec 12 04:26:23 +0000 2019",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 111,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204980754662297600/1604029260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 302,
+		"favorite_count": 252,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[TEASER] 이승철, 태연 (TAEYEON) - My Love (Duet Ver.)\n2020.11.05 18:00 RELEASE✨\n\n#이승철 #태연 (#TAEYEON) #MyLove\n\nhttps://t.co/zYNF4DIh3g"
+	},
+	{
 		"created_at": "Tue Nov 03 05:07:13 +0000 2020",
 		"id": 1323491551939498000,
 		"id_str": "1323491900930871296",
