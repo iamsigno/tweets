@@ -1,6 +1,902 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 05:06:20 +0000 2020",
+		"id": 1324216454326214700,
+		"id_str": "1324216454326214657",
+		"full_text": "#GirlsGeneration #소녀시대\n2021 Girls' Generation-Oh!GG SEASON’S GREETINGS Teaser\nhttps://t.co/IhtStdHSMZ\n#SMTOWN #YouTube #Playlist",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "YouTube",
+					"indices": [
+						110,
+						118
+					]
+				},
+				{
+					"text": "Playlist",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IhtStdHSMZ",
+					"expanded_url": "https://www.youtube.com/watch?v=PwJeadwzlKw",
+					"display_url": "youtube.com/watch?v=PwJead…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 452,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\n2021 Girls' Generation-Oh!GG SEASON’S GREETINGS Teaser\nhttps://t.co/IhtStdHSMZ\n#SMTOWN #YouTube #Playlist"
+	},
+	{
+		"created_at": "Thu Nov 05 04:54:13 +0000 2020",
+		"id": 1324213406807822300,
+		"id_str": "1324213406807822336",
+		"full_text": "#GirlsGeneration #소녀시대\n2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대 [구성...\nhttps://t.co/3qAvzoxowz\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3qAvzoxowz",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/videos/2776693339215319/",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 452,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\n2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대 [구성...\nhttps://t.co/3qAvzoxowz\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Thu Nov 05 04:54:13 +0000 2020",
+		"id": 1324213405088129000,
+		"id_str": "1324213405088129025",
+		"full_text": "#GirlsGeneration #소녀시대\n2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대 [구성...\nhttps://t.co/oqBfs38by3\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oqBfs38by3",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3870079073012029",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503,
+			"friends_count": 452,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27861,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#GirlsGeneration #소녀시대\n2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대 [구성...\nhttps://t.co/oqBfs38by3\n#Facebook #페이스북"
+	},
+	{
+		"created_at": "Thu Nov 05 04:45:01 +0000 2020",
+		"id": 1324207523386196000,
+		"id_str": "1324211089823977472",
+		"full_text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/sEyCntAQWM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324201392903393300,
+					"id_str": "1324201392903393280",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"url": "https://t.co/sEyCntAQWM",
+					"display_url": "pic.twitter.com/sEyCntAQWM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207523386195969/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324201392903393300,
+					"id_str": "1324201392903393280",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1324201392903393280/img/7vOQIFFv-O7L0oWK.jpg",
+					"url": "https://t.co/sEyCntAQWM",
+					"display_url": "pic.twitter.com/sEyCntAQWM",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207523386195969/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 25217,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/pl/cj-S15rXfnvYvpJf.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/vid/640x360/iNWJLHuaGwK4bnLo.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/vid/1280x720/kxOKCHOPu4dW8vv2.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324201392903393280/vid/480x270/9YLrfsvTBj_vQ0ur.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3591663,
+			"friends_count": 4,
+			"listed_count": 5053,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2369,
+		"favorite_count": 4172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/sEyCntAQWM"
+	},
+	{
+		"created_at": "Thu Nov 05 04:44:56 +0000 2020",
+		"id": 1324207430582956000,
+		"id_str": "1324211072459591680",
+		"full_text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/SHDmVBNj6M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324207416469123000,
+					"id_str": "1324207416469123072",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 357,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324207416469123000,
+					"id_str": "1324207416469123072",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuUcAADMYR.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 357,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1075,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324207416469155800,
+					"id_str": "1324207416469155848",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuU8Ag0BlQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuU8Ag0BlQ.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 875,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 290,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1324207416469192700,
+					"id_str": "1324207416469192710",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/EmCHoRuVgAYPW63.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmCHoRuVgAYPW63.jpg",
+					"url": "https://t.co/SHDmVBNj6M",
+					"display_url": "pic.twitter.com/SHDmVBNj6M",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1324207430582956033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 249,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 439,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3591663,
+			"friends_count": 4,
+			"listed_count": 5053,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2130,
+		"favorite_count": 4315,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2021 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR\n3. HARD COVER DIARY\n4. FRAME &amp; POSTCARD CALENDAR SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. TATTOO STICKER SET https://t.co/SHDmVBNj6M"
+	},
+	{
 		"created_at": "Thu Nov 05 02:07:16 +0000 2020",
 		"id": 1324166209558904800,
 		"id_str": "1324171390761734145",
