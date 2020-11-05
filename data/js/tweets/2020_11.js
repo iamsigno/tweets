@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 22:12:18 +0000 2020",
+		"id": 1324276238920294400,
+		"id_str": "1324474648373809152",
+		"full_text": "[Jessi]\n&lt;제시의 쇼!터뷰&gt; EP.22\n&lt;Show!terview with Jessi&gt; EP.22\n👉 https://t.co/OxhbWSQDEV\n\n#제시 #Jessi\n#PNATION #피네이션 https://t.co/5SiogfqBdb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "제시",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "Jessi",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "PNATION",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "피네이션",
+					"indices": [
+						116,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OxhbWSQDEV",
+					"expanded_url": "https://youtu.be/pLc5SAnj5Tg",
+					"display_url": "youtu.be/pLc5SAnj5Tg",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1324276233102786600,
+					"id_str": "1324276233102786560",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"url": "https://t.co/5SiogfqBdb",
+					"display_url": "pic.twitter.com/5SiogfqBdb",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1324276238920294400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324276233102786600,
+					"id_str": "1324276233102786560",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmDGN7qVgAA4Zlx.jpg",
+					"url": "https://t.co/5SiogfqBdb",
+					"display_url": "pic.twitter.com/5SiogfqBdb",
+					"expanded_url": "https://twitter.com/OfficialPnation/status/1324276238920294400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077784853565780000,
+			"id_str": "1077784853565779968",
+			"name": "P NATION",
+			"screen_name": "OfficialPnation",
+			"location": "",
+			"description": "Official P NATION account",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27458,
+			"friends_count": 3,
+			"listed_count": 227,
+			"created_at": "Wed Dec 26 04:35:08 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120158562351640576/r3req_Kj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077784853565779968/1582688385",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Jessi]\n&lt;제시의 쇼!터뷰&gt; EP.22\n&lt;Show!terview with Jessi&gt; EP.22\n👉 https://t.co/OxhbWSQDEV\n\n#제시 #Jessi\n#PNATION #피네이션 https://t.co/5SiogfqBdb"
+	},
+	{
+		"created_at": "Thu Nov 05 22:11:45 +0000 2020",
+		"id": 1324276266137247700,
+		"id_str": "1324474512042127360",
+		"full_text": "이승철, 태연 (TAEYEON) - My Love (Duet Ver.)\n\nFull ver. ▶ https://t.co/JG1IQKiGcX\n\n#이승철 #태연 (#TAEYEON) #MyLove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이승철",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "MyLove",
+					"indices": [
+						98,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JG1IQKiGcX",
+					"expanded_url": "http://youtu.be/2LvG8qOWqEw",
+					"display_url": "youtu.be/2LvG8qOWqEw",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204980754662297600,
+			"id_str": "1204980754662297600",
+			"name": "FLEX M - 플렉스엠",
+			"screen_name": "flexm_official",
+			"location": "",
+			"description": "FLEX M OFFICIAL TWITTER",
+			"url": "https://t.co/SxPpAGiVLt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SxPpAGiVLt",
+							"expanded_url": "http://youtube.com/FLEXM",
+							"display_url": "youtube.com/FLEXM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45,
+			"friends_count": 0,
+			"listed_count": 2,
+			"created_at": "Thu Dec 12 04:26:23 +0000 2019",
+			"favourites_count": 61,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322020719966912512/uvz5Uk7h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204980754662297600/1604029260",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 509,
+		"favorite_count": 408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이승철, 태연 (TAEYEON) - My Love (Duet Ver.)\n\nFull ver. ▶ https://t.co/JG1IQKiGcX\n\n#이승철 #태연 (#TAEYEON) #MyLove"
+	},
+	{
 		"created_at": "Thu Nov 05 20:50:27 +0000 2020",
 		"id": 1324454049492643800,
 		"id_str": "1324454049492643841",
