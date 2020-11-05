@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 05 02:07:16 +0000 2020",
+		"id": 1324166209558904800,
+		"id_str": "1324171390761734145",
+		"full_text": "이승철X태연, 오늘(5일) 'My Love' 발매..역대급 듀엣곡 탄생 \n\n👉🏻 https://t.co/Yh0C0JXR5z\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #MyLove",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"text": "MyLove",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yh0C0JXR5z",
+					"expanded_url": "http://naver.me/xeHdyImM",
+					"display_url": "naver.me/xeHdyImM",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3591560,
+			"friends_count": 4,
+			"listed_count": 5048,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2168,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 737,
+		"favorite_count": 1677,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이승철X태연, 오늘(5일) 'My Love' 발매..역대급 듀엣곡 탄생 \n\n👉🏻 https://t.co/Yh0C0JXR5z\n\n#태연 #TAEYEON #소녀시대 #GirlsGeneration #MyLove"
+	},
+	{
+		"created_at": "Thu Nov 05 02:07:08 +0000 2020",
+		"id": 1324162527941468200,
+		"id_str": "1324171360369807364",
+		"full_text": "#오늘의발매_bk🎵\n💿2020.NOVEMBER.05 - Today's Release💿\n이승철Lee Seung Chul, 태연TAEYEON - My Love (Duet Ver.)\n\n#이승철 #태연 #TAEYEON #MyLove https://t.co/ghXkF3dVGk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘의발매_bk",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "이승철",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "MyLove",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324162472018804700,
+					"id_str": "1324162472018804736",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBewKmVgAAvmgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmBewKmVgAAvmgC.jpg",
+					"url": "https://t.co/ghXkF3dVGk",
+					"display_url": "pic.twitter.com/ghXkF3dVGk",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1324162527941468161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324162472018804700,
+					"id_str": "1324162472018804736",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EmBewKmVgAAvmgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmBewKmVgAAvmgC.jpg",
+					"url": "https://t.co/ghXkF3dVGk",
+					"display_url": "pic.twitter.com/ghXkF3dVGk",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1324162527941468161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 918,
+							"h": 518,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49055,
+			"friends_count": 31,
+			"listed_count": 89,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1599479013",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 249,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#오늘의발매_bk🎵\n💿2020.NOVEMBER.05 - Today's Release💿\n이승철Lee Seung Chul, 태연TAEYEON - My Love (Duet Ver.)\n\n#이승철 #태연 #TAEYEON #MyLove https://t.co/ghXkF3dVGk"
+	},
+	{
 		"created_at": "Wed Nov 04 09:52:50 +0000 2020",
 		"id": 1323926167120990200,
 		"id_str": "1323926167120990208",
