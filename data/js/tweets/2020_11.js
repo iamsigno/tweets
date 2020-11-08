@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 12:12:32 +0000 2020",
+		"id": 1324583873548742700,
+		"id_str": "1325410877231673345",
+		"full_text": "24시간이 모자란 만인의 인턴!\n이지수(#임윤아)의 하루💪🏻\n\n펜은 총보다 강하다,\n하지만 밥은 펜보다 강하다(쉿!)\n\n월급쟁이 기자들의 밥벌이 라이프 &lt;#허쉬&gt;\n12월 11일 금요일 밤 11시 첫 방송✒ https://t.co/Tswj0tA8Dl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						89,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1324579907180011500,
+					"id_str": "1324579907180011520",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EmHd6IEUcAAqOW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmHd6IEUcAAqOW6.jpg",
+					"url": "https://t.co/Tswj0tA8Dl",
+					"display_url": "pic.twitter.com/Tswj0tA8Dl",
+					"expanded_url": "https://twitter.com/jtbclove/status/1324583873548742656/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1324579907180011500,
+					"id_str": "1324579907180011520",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EmHd6IEUcAAqOW6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmHd6IEUcAAqOW6.jpg",
+					"url": "https://t.co/Tswj0tA8Dl",
+					"display_url": "pic.twitter.com/Tswj0tA8Dl",
+					"expanded_url": "https://twitter.com/jtbclove/status/1324583873548742656/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324579907180011520/vid/1280x720/CJMHlo-Kdc4hdZnC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1324579907180011520/pl/blGkwQB-zf9BdjKO.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324579907180011520/vid/480x270/SSxuJ1tA6-xNC2h7.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1324579907180011520/vid/640x360/vEiKPLNootNKjUy3.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": " [허쉬] 티저🖤 인턴은 고달프다.. 하지만 밥은 펜보다 강하다! 12월 11일(금) 첫 방송!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/watch?v=F5tn90fRpH0"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439854,
+			"friends_count": 111,
+			"listed_count": 653,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1219,
+		"favorite_count": 1432,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "24시간이 모자란 만인의 인턴!\n이지수(#임윤아)의 하루💪🏻\n\n펜은 총보다 강하다,\n하지만 밥은 펜보다 강하다(쉿!)\n\n월급쟁이 기자들의 밥벌이 라이프 &lt;#허쉬&gt;\n12월 11일 금요일 밤 11시 첫 방송✒ https://t.co/Tswj0tA8Dl"
+	},
+	{
+		"created_at": "Sun Nov 08 12:12:29 +0000 2020",
+		"id": 1323807273659953200,
+		"id_str": "1325410863302414343",
+		"full_text": "새 금토 드라마 &lt;#허쉬&gt; 티저 포스터 공개🤫\n\n펜대보다 큐대 잡는 날이 많은\n‘고인물’ 기자 한준혁(#황정민)\n\n밥은 펜보다 강하다는\n‘생존형’ 인턴 이지수(#임윤아)\n\n월급쟁이 기자들의 밥벌이 라이프 &lt;허쉬&gt;\n12월 11일 금요일 밤 11시 첫 방송✒ https://t.co/nfxPhVeoZK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "허쉬",
+					"indices": [
+						13,
+						16
+					]
+				},
+				{
+					"text": "황정민",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323807216604905500,
+					"id_str": "1323807216604905472",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/El8bplDVgAAYYCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8bplDVgAAYYCQ.jpg",
+					"url": "https://t.co/nfxPhVeoZK",
+					"display_url": "pic.twitter.com/nfxPhVeoZK",
+					"expanded_url": "https://twitter.com/jtbclove/status/1323807273659953152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1258,
+							"h": 1776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323807216604905500,
+					"id_str": "1323807216604905472",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/El8bplDVgAAYYCQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8bplDVgAAYYCQ.jpg",
+					"url": "https://t.co/nfxPhVeoZK",
+					"display_url": "pic.twitter.com/nfxPhVeoZK",
+					"expanded_url": "https://twitter.com/jtbclove/status/1323807273659953152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1258,
+							"h": 1776,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1323807251363102700,
+					"id_str": "1323807251363102723",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/El8brmiVgAMK0UQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El8brmiVgAMK0UQ.jpg",
+					"url": "https://t.co/nfxPhVeoZK",
+					"display_url": "pic.twitter.com/nfxPhVeoZK",
+					"expanded_url": "https://twitter.com/jtbclove/status/1323807273659953152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1158,
+							"h": 1635,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 439854,
+			"friends_count": 111,
+			"listed_count": 653,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1600066891",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 628,
+		"favorite_count": 850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "새 금토 드라마 &lt;#허쉬&gt; 티저 포스터 공개🤫\n\n펜대보다 큐대 잡는 날이 많은\n‘고인물’ 기자 한준혁(#황정민)\n\n밥은 펜보다 강하다는\n‘생존형’ 인턴 이지수(#임윤아)\n\n월급쟁이 기자들의 밥벌이 라이프 &lt;허쉬&gt;\n12월 11일 금요일 밤 11시 첫 방송✒ https://t.co/nfxPhVeoZK"
+	},
+	{
 		"created_at": "Sun Nov 08 00:10:27 +0000 2020",
 		"id": 1323490086990893000,
 		"id_str": "1325229157073080320",
