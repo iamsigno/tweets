@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 11 10:07:09 +0000 2020",
+		"id": 1326455550700183600,
+		"id_str": "1326466484231675904",
+		"full_text": "벅스 20주년을 기념해 분석한 '가장 사랑받은 아티스트 20'에 소녀시대와 태연 님이 선정됐어요!\n트로피 인증샷을 보내주셨는데요. 완전 감동 받아짜나요😭 음악으로 함께 해주셔서 진심으로 감사합니다!❣\n#벅스20주년축하해 #벅스20주년 #벅스 \n#태연 #taeyeon #탱구 #소녀시대 #girlsgeneration https://t.co/s88kcybIec",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "벅스20주년축하해",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "벅스20주년",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "벅스",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "girlsgeneration",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326454621569650700,
+					"id_str": "1326454621569650688",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EmiDc1FVkAAHE3X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmiDc1FVkAAHE3X.jpg",
+					"url": "https://t.co/s88kcybIec",
+					"display_url": "pic.twitter.com/s88kcybIec",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1326455550700183552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326454621569650700,
+					"id_str": "1326454621569650688",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EmiDc1FVkAAHE3X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmiDc1FVkAAHE3X.jpg",
+					"url": "https://t.co/s88kcybIec",
+					"display_url": "pic.twitter.com/s88kcybIec",
+					"expanded_url": "https://twitter.com/Bugs_play/status/1326455550700183552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54490933,
+			"id_str": "54490933",
+			"name": "벅스",
+			"screen_name": "Bugs_play",
+			"location": "Bugs.co.kr",
+			"description": "슈퍼사운드, 벅스",
+			"url": "http://t.co/jGYDBIeEWX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jGYDBIeEWX",
+							"expanded_url": "http://Bugs.co.kr",
+							"display_url": "Bugs.co.kr",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10330,
+			"friends_count": 8774,
+			"listed_count": 290,
+			"created_at": "Tue Jul 07 08:32:47 +0000 2009",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866460718593212416/qaz0cpVG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54490933/1553073696",
+			"profile_link_color": "473209",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFAC05",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 521,
+		"favorite_count": 559,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "벅스 20주년을 기념해 분석한 '가장 사랑받은 아티스트 20'에 소녀시대와 태연 님이 선정됐어요!\n트로피 인증샷을 보내주셨는데요. 완전 감동 받아짜나요😭 음악으로 함께 해주셔서 진심으로 감사합니다!❣\n#벅스20주년축하해 #벅스20주년 #벅스 \n#태연 #taeyeon #탱구 #소녀시대 #girlsgeneration https://t.co/s88kcybIec"
+	},
+	{
 		"created_at": "Wed Nov 11 09:07:08 +0000 2020",
 		"id": 1326450171643793400,
 		"id_str": "1326451383751618560",
