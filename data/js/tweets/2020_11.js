@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 08:07:08 +0000 2020",
+		"id": 1326785702642770000,
+		"id_str": "1326798672235999233",
+		"full_text": "YOONA Bertransformasi Menjadi Wartawan di Drama JTBC ‘Hush’\ndan Memerankan Tokoh ‘Lee Ji-soo’ \n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/pTPQUyg5Cd\n\n@GirlsGeneration #YOONA https://t.co/JNL6EUOvH4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						207,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						190,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pTPQUyg5Cd",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/713953979221619/",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1326785689334190000,
+					"id_str": "1326785689334190082",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EmmwjgnWEAI31EU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmmwjgnWEAI31EU.jpg",
+					"url": "https://t.co/JNL6EUOvH4",
+					"display_url": "pic.twitter.com/JNL6EUOvH4",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1326785702642769921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326785689334190000,
+					"id_str": "1326785689334190082",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/EmmwjgnWEAI31EU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmmwjgnWEAI31EU.jpg",
+					"url": "https://t.co/JNL6EUOvH4",
+					"display_url": "pic.twitter.com/JNL6EUOvH4",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1326785702642769921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310394,
+			"friends_count": 31,
+			"listed_count": 204,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 835,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "YOONA Bertransformasi Menjadi Wartawan di Drama JTBC ‘Hush’\ndan Memerankan Tokoh ‘Lee Ji-soo’ \n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/pTPQUyg5Cd\n\n@GirlsGeneration #YOONA https://t.co/JNL6EUOvH4"
+	},
+	{
 		"created_at": "Thu Nov 12 06:44:56 +0000 2020",
 		"id": 1326768273137037300,
 		"id_str": "1326777986096443393",
