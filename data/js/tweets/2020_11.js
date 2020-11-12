@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 12 04:07:09 +0000 2020",
+		"id": 1326729014740803600,
+		"id_str": "1326738274942070787",
+		"full_text": "#LIMYOONA เปลี่ยนมาเป็นนักข่าวฝึกงาน ในละครเรื่อง ‘#HUSH’ ของช่อง JTBC!\n\nพร้อมปล่อยภาพเบื้องหลังชุดแรกออกมาคว้าทุกความสนใจได้อย่างท่วมท้น ด้วยลุคผมสั้นของเธอ!\n\n#임윤아 #소녀시대 #GirlsGeneration @girlsgeneration #허쉬 #이지수 https://t.co/wFpEE6YFq8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						205,
+						208
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						209,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						188,
+						204
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1326728997812666400,
+					"id_str": "1326728997812666368",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8_oPVgAAGzXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8_oPVgAAGzXf.jpg",
+					"url": "https://t.co/wFpEE6YFq8",
+					"display_url": "pic.twitter.com/wFpEE6YFq8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1326729014740803586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1326728997812666400,
+					"id_str": "1326728997812666368",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8_oPVgAAGzXf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8_oPVgAAGzXf.jpg",
+					"url": "https://t.co/wFpEE6YFq8",
+					"display_url": "pic.twitter.com/wFpEE6YFq8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1326729014740803586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326728997808431000,
+					"id_str": "1326728997808431104",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8_oOU4AA9CTS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8_oOU4AA9CTS.jpg",
+					"url": "https://t.co/wFpEE6YFq8",
+					"display_url": "pic.twitter.com/wFpEE6YFq8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1326729014740803586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1326728997816868900,
+					"id_str": "1326728997816868864",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/Eml8_oQVoAAt8PU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eml8_oQVoAAt8PU.jpg",
+					"url": "https://t.co/wFpEE6YFq8",
+					"display_url": "pic.twitter.com/wFpEE6YFq8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1326729014740803586/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82868,
+			"friends_count": 48,
+			"listed_count": 142,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#LIMYOONA เปลี่ยนมาเป็นนักข่าวฝึกงาน ในละครเรื่อง ‘#HUSH’ ของช่อง JTBC!\n\nพร้อมปล่อยภาพเบื้องหลังชุดแรกออกมาคว้าทุกความสนใจได้อย่างท่วมท้น ด้วยลุคผมสั้นของเธอ!\n\n#임윤아 #소녀시대 #GirlsGeneration @girlsgeneration #허쉬 #이지수 https://t.co/wFpEE6YFq8"
+	},
+	{
 		"created_at": "Thu Nov 12 02:52:37 +0000 2020",
 		"id": 1326719520195694600,
 		"id_str": "1326719520195694593",
