@@ -1,6 +1,499 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 09:07:20 +0000 2020",
+		"id": 1327174613894389800,
+		"id_str": "1327176207100760064",
+		"full_text": "テヨン2ndミニアルバム『#GirlsSpkOut』の商品写真を公開👀\n完全生産限定グッズ付きはCDがしっかりと収まるスペシャルボックスやオリジナル・スパンコールクッションが梱包されています🎁\n#テヨン #TAEYEON #태연 \n\n🔻詳細はこちら\nhttps://t.co/IJN1tmEo1x\n🔻ご予約はこちら\nhttps://t.co/XiTgIGoJ7B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IJN1tmEo1x",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/girlsspkout_photo/",
+					"display_url": "taeyeon.girls-generation.jp/news/girlsspko…",
+					"indices": [
+						125,
+						148
+					]
+				},
+				{
+					"url": "https://t.co/XiTgIGoJ7B",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105248,
+			"friends_count": 0,
+			"listed_count": 487,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン2ndミニアルバム『#GirlsSpkOut』の商品写真を公開👀\n完全生産限定グッズ付きはCDがしっかりと収まるスペシャルボックスやオリジナル・スパンコールクッションが梱包されています🎁\n#テヨン #TAEYEON #태연 \n\n🔻詳細はこちら\nhttps://t.co/IJN1tmEo1x\n🔻ご予約はこちら\nhttps://t.co/XiTgIGoJ7B"
+	},
+	{
+		"created_at": "Fri Nov 13 09:07:16 +0000 2020",
+		"id": 1327174366895820800,
+		"id_str": "1327176189845377024",
+		"full_text": "テヨン2ndミニアルバム『♯GirlsSpkOut』に封入されているシリアルナンバー特典「オンラインサイン会」の詳細が決定しました🎉\n皆さまのご応募・ご参加をお待ちしております❣️\n#テヨン #TAEYEON #태연\n\n🔻詳細はこちら\nhttps://t.co/RQUcl9LC6Z\n🔻ご予約はこちら\nhttps://t.co/XiTgIGGjZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						105,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RQUcl9LC6Z",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/online_sign/",
+					"display_url": "taeyeon.girls-generation.jp/news/online_si…",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/XiTgIGGjZ9",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105248,
+			"friends_count": 0,
+			"listed_count": 487,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン2ndミニアルバム『♯GirlsSpkOut』に封入されているシリアルナンバー特典「オンラインサイン会」の詳細が決定しました🎉\n皆さまのご応募・ご参加をお待ちしております❣️\n#テヨン #TAEYEON #태연\n\n🔻詳細はこちら\nhttps://t.co/RQUcl9LC6Z\n🔻ご予約はこちら\nhttps://t.co/XiTgIGGjZ9"
+	},
+	{
+		"created_at": "Fri Nov 13 09:07:08 +0000 2020",
+		"id": 1327171776208457700,
+		"id_str": "1327176160015495169",
+		"full_text": "YOONA Membuka Akun Instagram Resmi!\n\nKlik link ini untuk ikuti akun Instagram resmi YOONA\nhttps://t.co/bzSN0RCpu3\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/rjde13AhKs\n\n@GirlsGeneration #YOONA https://t.co/elTUGTsGQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						226,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						209,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bzSN0RCpu3",
+					"expanded_url": "https://www.instagram.com/limyoona__official/",
+					"display_url": "instagram.com/limyoona__offi…",
+					"indices": [
+						90,
+						113
+					]
+				},
+				{
+					"url": "https://t.co/rjde13AhKs",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/714760915807592/",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327171765575946200,
+					"id_str": "1327171765575946241",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsPsGsVEAEluCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsPsGsVEAEluCu.jpg",
+					"url": "https://t.co/elTUGTsGQO",
+					"display_url": "pic.twitter.com/elTUGTsGQO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1327171776208457728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327171765575946200,
+					"id_str": "1327171765575946241",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/EmsPsGsVEAEluCu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmsPsGsVEAEluCu.jpg",
+					"url": "https://t.co/elTUGTsGQO",
+					"display_url": "pic.twitter.com/elTUGTsGQO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1327171776208457728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 310930,
+			"friends_count": 31,
+			"listed_count": 205,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "YOONA Membuka Akun Instagram Resmi!\n\nKlik link ini untuk ikuti akun Instagram resmi YOONA\nhttps://t.co/bzSN0RCpu3\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/rjde13AhKs\n\n@GirlsGeneration #YOONA https://t.co/elTUGTsGQO"
+	},
+	{
 		"created_at": "Fri Nov 13 06:07:08 +0000 2020",
 		"id": 1327117833319420000,
 		"id_str": "1327130861398069250",
