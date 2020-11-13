@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 13 06:07:08 +0000 2020",
+		"id": 1327117833319420000,
+		"id_str": "1327130861398069250",
+		"full_text": "Official Instagram ของ #LIMYOONA (https://t.co/OemdDN7Hv7) เปิดแล้ววันนี้ (13 พ.ย.) พร้อมปล่อย 9 รูป ที่โชว์การแสดงออกทางสีหน้าแบบต่าง ๆ ของเธอ💛\n\nคุณจะได้พบกับหลากหลายคอนเทนต์ รวมถึงภาพตอนทำงาน→เบื้องหลังการถ่ายทำ ผ่าน Official Instagram นี้\n\n#임윤아 #소녀시대 #GirlsGeneration https://t.co/04Pw9YbFPm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						243,
+						247
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						254,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OemdDN7Hv7",
+					"expanded_url": "http://instagram.com/limyoona__official?igshid=35seyhj5xotg",
+					"display_url": "instagram.com/limyoona__offi…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327117823789904000,
+					"id_str": "1327117823789903872",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EmreoR4WMAAbP2o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmreoR4WMAAbP2o.jpg",
+					"url": "https://t.co/04Pw9YbFPm",
+					"display_url": "pic.twitter.com/04Pw9YbFPm",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1327117833319419907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327117823789904000,
+					"id_str": "1327117823789903872",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/EmreoR4WMAAbP2o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmreoR4WMAAbP2o.jpg",
+					"url": "https://t.co/04Pw9YbFPm",
+					"display_url": "pic.twitter.com/04Pw9YbFPm",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1327117833319419907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82863,
+			"friends_count": 48,
+			"listed_count": 143,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Official Instagram ของ #LIMYOONA (https://t.co/OemdDN7Hv7) เปิดแล้ววันนี้ (13 พ.ย.) พร้อมปล่อย 9 รูป ที่โชว์การแสดงออกทางสีหน้าแบบต่าง ๆ ของเธอ💛\n\nคุณจะได้พบกับหลากหลายคอนเทนต์ รวมถึงภาพตอนทำงาน→เบื้องหลังการถ่ายทำ ผ่าน Official Instagram นี้\n\n#임윤아 #소녀시대 #GirlsGeneration https://t.co/04Pw9YbFPm"
+	},
+	{
 		"created_at": "Fri Nov 13 04:07:34 +0000 2020",
 		"id": 1327089826298962000,
 		"id_str": "1327100771670876161",
