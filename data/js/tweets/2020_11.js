@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 14 13:07:14 +0000 2020",
+		"id": 1327597243881431000,
+		"id_str": "1327598967358631936",
+		"full_text": "【TAEYEON】\n11月18日（水）発売ミニアルバム『#GirlsSpkOut』、封入特典が決定！\n初回生産分のみ、オンラインサイン会の参加権利などが当たる抽選に参加できる「応募抽選券シリアルナンバー」入り！\n詳しくはこちら\nhttps://t.co/26lYqjFi4X\n#TAEYEON #GirlsSpkOut https://t.co/Jd50HriRfT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/26lYqjFi4X",
+					"expanded_url": "https://bit.ly/2ZEPxzM",
+					"display_url": "bit.ly/2ZEPxzM",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1327597242505699300,
+					"id_str": "1327597242505699330",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EmySqHxXIAIeg55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmySqHxXIAIeg55.jpg",
+					"url": "https://t.co/Jd50HriRfT",
+					"display_url": "pic.twitter.com/Jd50HriRfT",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1327597243881431041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1327597242505699300,
+					"id_str": "1327597242505699330",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EmySqHxXIAIeg55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmySqHxXIAIeg55.jpg",
+					"url": "https://t.co/Jd50HriRfT",
+					"display_url": "pic.twitter.com/Jd50HriRfT",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1327597243881431041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 27925,
+			"friends_count": 151,
+			"listed_count": 213,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 15,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【TAEYEON】\n11月18日（水）発売ミニアルバム『#GirlsSpkOut』、封入特典が決定！\n初回生産分のみ、オンラインサイン会の参加権利などが当たる抽選に参加できる「応募抽選券シリアルナンバー」入り！\n詳しくはこちら\nhttps://t.co/26lYqjFi4X\n#TAEYEON #GirlsSpkOut https://t.co/Jd50HriRfT"
+	},
+	{
+		"created_at": "Sat Nov 14 12:52:34 +0000 2020",
+		"id": 1327595277432262700,
+		"id_str": "1327595277432262656",
+		"full_text": "#GirlsGeneration #소녀시대\n[예고] 와 태연이다!!!! 도레미 새멤버를...\nhttps://t.co/OrDmdXmTQE\n#Facebook #페이스북",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "Facebook",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "페이스북",
+					"indices": [
+						85,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OrDmdXmTQE",
+					"expanded_url": "https://www.facebook.com/girlsgeneration/posts/3897961176890485",
+					"display_url": "facebook.com/girlsgeneratio…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp\n@Sunnyday515 @sjhsjh0628 @tiffanyyoung @Hyoyeon_djhyo @sychoiofficial",
+			"url": "https://t.co/G70nXNDpSx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/G70nXNDpSx",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 502,
+			"friends_count": 452,
+			"listed_count": 4,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#GirlsGeneration #소녀시대\n[예고] 와 태연이다!!!! 도레미 새멤버를...\nhttps://t.co/OrDmdXmTQE\n#Facebook #페이스북"
+	},
+	{
 		"created_at": "Fri Nov 13 09:52:16 +0000 2020",
 		"id": 1327187517536342000,
 		"id_str": "1327187517536342017",
