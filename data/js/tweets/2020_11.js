@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 15 12:07:08 +0000 2020",
+		"id": 1327939592763240400,
+		"id_str": "1327946234053726208",
+		"full_text": "[예고] 와 태연이다!!!! 도레미 새멤버를 환영하러 온 절친 응원단 카이x태민까지!#놀라운토요일-도레미마켓 | amazingsaturday EP.135\n\n👉 https://t.co/fxddBQJsOo\n\n#카이 #KAI\n#엑소 #EXO #weareoneEXO\n#놀라운토요일 #도레미마켓 #놀토",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "weareoneEXO",
+					"indices": [
+						132,
+						144
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "도레미마켓",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "놀토",
+					"indices": [
+						160,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fxddBQJsOo",
+					"expanded_url": "https://youtu.be/I7joLuRirtY",
+					"display_url": "youtu.be/I7joLuRirtY",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 873115441303924700,
+			"id_str": "873115441303924736",
+			"name": "EXO",
+			"screen_name": "weareoneEXO",
+			"location": "",
+			"description": "EXO (엑소) Official We are ONE👍EXO 사랑하자!",
+			"url": "https://t.co/qbCx4jCmGW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbCx4jCmGW",
+							"expanded_url": "http://exo.smtown.com",
+							"display_url": "exo.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9549236,
+			"friends_count": 4,
+			"listed_count": 10850,
+			"created_at": "Fri Jun 09 09:51:57 +0000 2017",
+			"favourites_count": 166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326178139446210562/3xAuaiwf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326178139446210562/3xAuaiwf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/873115441303924736/1605020487",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9503,
+		"favorite_count": 20945,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예고] 와 태연이다!!!! 도레미 새멤버를 환영하러 온 절친 응원단 카이x태민까지!#놀라운토요일-도레미마켓 | amazingsaturday EP.135\n\n👉 https://t.co/fxddBQJsOo\n\n#카이 #KAI\n#엑소 #EXO #weareoneEXO\n#놀라운토요일 #도레미마켓 #놀토"
+	},
+	{
 		"created_at": "Sat Nov 14 21:36:42 +0000 2020",
 		"id": 1327159264272556000,
 		"id_str": "1327727180369981440",
