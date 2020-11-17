@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 17 05:07:08 +0000 2020",
+		"id": 1328551519973634000,
+		"id_str": "1328565313395445760",
+		"full_text": "‘HUSH’ LIM YOONA revealed her intern press card and took a picture with a bright smile! \nGathering expectations with her detailed acting as an intern  journalist!\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수 https://t.co/3ufUQpWxRD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						185,
+						201
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						202,
+						205
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						212,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1328550860423499800,
+					"id_str": "1328550860423499776",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Em_19_WVEAAeV8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em_19_WVEAAeV8_.jpg",
+					"url": "https://t.co/3ufUQpWxRD",
+					"display_url": "pic.twitter.com/3ufUQpWxRD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1328551519973634051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 867,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328550860423499800,
+					"id_str": "1328550860423499776",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Em_19_WVEAAeV8_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Em_19_WVEAAeV8_.jpg",
+					"url": "https://t.co/3ufUQpWxRD",
+					"display_url": "pic.twitter.com/3ufUQpWxRD",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1328551519973634051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 867,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8656270,
+			"friends_count": 53,
+			"listed_count": 8429,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8990,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1509,
+		"favorite_count": 6897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘HUSH’ LIM YOONA revealed her intern press card and took a picture with a bright smile! \nGathering expectations with her detailed acting as an intern  journalist!\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수 https://t.co/3ufUQpWxRD"
+	},
+	{
 		"created_at": "Mon Nov 16 15:07:08 +0000 2020",
 		"id": 1328352124254654500,
 		"id_str": "1328353920478031872",
