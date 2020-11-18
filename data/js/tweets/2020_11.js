@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 10:07:15 +0000 2020",
+		"id": 1329002524255240200,
+		"id_str": "1329003226478354432",
+		"full_text": "이번주 빌보드 #케이팝100 차트 진입한 9곡(2/2):\n\n88위, #스윗소로우 Feat. @_IUofficial - 작은 방\n97위, @officialDavichi - My Love\n98위 #이승철, #태연 - My Love (Duet Ver.)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "케이팝100",
+					"indices": [
+						8,
+						15
+					]
+				},
+				{
+					"text": "스윗소로우",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"text": "이승철",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						113,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_IUofficial",
+					"name": "아이유(IU) 공식 트위터",
+					"id": 1024486566096326700,
+					"id_str": "1024486566096326656",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "officialDavichi",
+					"name": "official_Davichi",
+					"id": 2859446406,
+					"id_str": "2859446406",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1329002522674036700,
+		"in_reply_to_status_id_str": "1329002522674036742",
+		"in_reply_to_user_id": 996592973964984300,
+		"in_reply_to_user_id_str": "996592973964984320",
+		"in_reply_to_screen_name": "billboardkorea",
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "빌보드 코리아 Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50184,
+			"friends_count": 31,
+			"listed_count": 94,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1604568753",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "이번주 빌보드 #케이팝100 차트 진입한 9곡(2/2):\n\n88위, #스윗소로우 Feat. @_IUofficial - 작은 방\n97위, @officialDavichi - My Love\n98위 #이승철, #태연 - My Love (Duet Ver.)"
+	},
+	{
 		"created_at": "Wed Nov 18 09:07:09 +0000 2020",
 		"id": 1328986719866159000,
 		"id_str": "1328988101553876993",
