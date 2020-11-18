@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 18 03:07:09 +0000 2020",
+		"id": 1328895707516792800,
+		"id_str": "1328897503555629062",
+		"full_text": "テヨン 2ndミニアルバム『#GirlsSpkOut』が遂に本日発売🎉さらにNET ViViにて単独インタビューの連続掲載が決定❣️\n\nNET ViVi詳細はこちら📚https://t.co/ghghOR1R40\nご購入はこちら💿https://t.co/XiTgIGGjZ9\n商品詳細はこちら📝https://t.co/IJN1tmmMCX\n\n#テヨン #TAEYEON #태연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						187,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ghghOR1R40",
+					"expanded_url": "https://www.vivi.tv/",
+					"display_url": "vivi.tv",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/XiTgIGGjZ9",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						115,
+						138
+					]
+				},
+				{
+					"url": "https://t.co/IJN1tmmMCX",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/girlsspkout_photo/",
+					"display_url": "taeyeon.girls-generation.jp/news/girlsspko…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105334,
+			"friends_count": 0,
+			"listed_count": 487,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 352,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン 2ndミニアルバム『#GirlsSpkOut』が遂に本日発売🎉さらにNET ViViにて単独インタビューの連続掲載が決定❣️\n\nNET ViVi詳細はこちら📚https://t.co/ghghOR1R40\nご購入はこちら💿https://t.co/XiTgIGGjZ9\n商品詳細はこちら📝https://t.co/IJN1tmmMCX\n\n#テヨン #TAEYEON #태연"
+	},
+	{
 		"created_at": "Wed Nov 18 01:44:57 +0000 2020",
 		"id": 1328874374494003200,
 		"id_str": "1328876816971558915",
