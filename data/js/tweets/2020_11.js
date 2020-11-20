@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 03:07:15 +0000 2020",
+		"id": 1329618837898031000,
+		"id_str": "1329622304289120256",
+		"full_text": "&lt;허쉬&gt; 스페셜 티저 모아보기!💛\n\nhttps://t.co/vFIeSYHDLp\nhttps://t.co/J1mPuWD34K\nhttps://t.co/PrAVBNSDJH\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						120,
+						136
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						147,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vFIeSYHDLp",
+					"expanded_url": "http://naver.me/FqVjsL5F",
+					"display_url": "naver.me/FqVjsL5F",
+					"indices": [
+						26,
+						49
+					]
+				},
+				{
+					"url": "https://t.co/J1mPuWD34K",
+					"expanded_url": "http://naver.me/5Zu2qGRl",
+					"display_url": "naver.me/5Zu2qGRl",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"url": "https://t.co/PrAVBNSDJH",
+					"expanded_url": "http://naver.me/xhsgFWUm",
+					"display_url": "naver.me/xhsgFWUm",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3598513,
+			"friends_count": 4,
+			"listed_count": 5080,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;허쉬&gt; 스페셜 티저 모아보기!💛\n\nhttps://t.co/vFIeSYHDLp\nhttps://t.co/J1mPuWD34K\nhttps://t.co/PrAVBNSDJH\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수"
+	},
+	{
 		"created_at": "Fri Nov 20 02:07:09 +0000 2020",
 		"id": 1329607021633519600,
 		"id_str": "1329607179314327554",
