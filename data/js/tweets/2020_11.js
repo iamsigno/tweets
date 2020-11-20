@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 10:07:09 +0000 2020",
+		"id": 1329726181269115000,
+		"id_str": "1329727975043043330",
+		"full_text": "テヨンから2nd Mini Album『#GirlsSpkOut』開封写真が到着📷\n商品詳細や特典と合わせてぜひチェックしてください❣️\nサイン会のご応募締切は22日(日)23:59迄〆\n\n🔻ご購入はこちら\nhttps://t.co/XiTgIGGjZ9\n🔻商品詳細はこちら\nhttps://t.co/IJN1tmmMCX\n🔻アルバム特典はこちら\nhttps://t.co/RQUcl9LC6Z https://t.co/0khRwyWHH1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XiTgIGGjZ9",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/IJN1tmmMCX",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/girlsspkout_photo/",
+					"display_url": "taeyeon.girls-generation.jp/news/girlsspko…",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/RQUcl9LC6Z",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/online_sign/",
+					"display_url": "taeyeon.girls-generation.jp/news/online_si…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1329719237988941800,
+					"id_str": "1329719237988941825",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EnQcmg9VgAEidEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnQcmg9VgAEidEa.jpg",
+					"url": "https://t.co/0khRwyWHH1",
+					"display_url": "pic.twitter.com/0khRwyWHH1",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1329726181269114882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329719237988941800,
+					"id_str": "1329719237988941825",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EnQcmg9VgAEidEa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnQcmg9VgAEidEa.jpg",
+					"url": "https://t.co/0khRwyWHH1",
+					"display_url": "pic.twitter.com/0khRwyWHH1",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1329726181269114882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1329719262823399400,
+					"id_str": "1329719262823399424",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EnQcn9eVQAAkZTG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnQcn9eVQAAkZTG.jpg",
+					"url": "https://t.co/0khRwyWHH1",
+					"display_url": "pic.twitter.com/0khRwyWHH1",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1329726181269114882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1329719282670788600,
+					"id_str": "1329719282670788608",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EnQcpHaUYAA8FTL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnQcpHaUYAA8FTL.jpg",
+					"url": "https://t.co/0khRwyWHH1",
+					"display_url": "pic.twitter.com/0khRwyWHH1",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1329726181269114882/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1535,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105378,
+			"friends_count": 0,
+			"listed_count": 486,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 564,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨンから2nd Mini Album『#GirlsSpkOut』開封写真が到着📷\n商品詳細や特典と合わせてぜひチェックしてください❣️\nサイン会のご応募締切は22日(日)23:59迄〆\n\n🔻ご購入はこちら\nhttps://t.co/XiTgIGGjZ9\n🔻商品詳細はこちら\nhttps://t.co/IJN1tmmMCX\n🔻アルバム特典はこちら\nhttps://t.co/RQUcl9LC6Z https://t.co/0khRwyWHH1"
+	},
+	{
 		"created_at": "Fri Nov 20 09:07:09 +0000 2020",
 		"id": 1329698753125617700,
 		"id_str": "1329712875427012608",
