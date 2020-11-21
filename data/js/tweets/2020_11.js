@@ -1,6 +1,742 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 23:45:03 +0000 2020",
+		"id": 1329785583422513200,
+		"id_str": "1329933807546290176",
+		"full_text": "VOGUE 보그 12월호 티파니\n\n그녀의 눈웃음은 자신의 이름처럼 반짝인다. 한국에서 빛나던 티파니의 미소와 매력을 이제 미국을 비롯해 전 세계에서 마주할 수 있다. 바야흐로 '티파니 영' 시대!\n\nhttps://t.co/6r3q5AlftY\n#티파니 #티파니영 #TiffanyYoung https://t.co/2wcW5Ojosu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "티파니",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "티파니영",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "TiffanyYoung",
+					"indices": [
+						146,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6r3q5AlftY",
+					"expanded_url": "https://www.instagram.com/p/CHzvenqnUtv/",
+					"display_url": "instagram.com/p/CHzvenqnUtv/",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1329785555857465300,
+					"id_str": "1329785555857465344",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRY6uRUYAAE6h8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnRY6uRUYAAE6h8.png",
+					"url": "https://t.co/2wcW5Ojosu",
+					"display_url": "pic.twitter.com/2wcW5Ojosu",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1329785583422513152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1329785555857465300,
+					"id_str": "1329785555857465344",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRY6uRUYAAE6h8.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnRY6uRUYAAE6h8.png",
+					"url": "https://t.co/2wcW5Ojosu",
+					"display_url": "pic.twitter.com/2wcW5Ojosu",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1329785583422513152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1329785555857535000,
+					"id_str": "1329785555857534976",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRY6uRVcAA6mjh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnRY6uRVcAA6mjh.png",
+					"url": "https://t.co/2wcW5Ojosu",
+					"display_url": "pic.twitter.com/2wcW5Ojosu",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1329785583422513152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1329785555857461200,
+					"id_str": "1329785555857461256",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRY6uRUUAgoFIn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnRY6uRUUAgoFIn.png",
+					"url": "https://t.co/2wcW5Ojosu",
+					"display_url": "pic.twitter.com/2wcW5Ojosu",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1329785583422513152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1329785555853353000,
+					"id_str": "1329785555853352963",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EnRY6uQVoAMR_RX.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnRY6uQVoAMR_RX.png",
+					"url": "https://t.co/2wcW5Ojosu",
+					"display_url": "pic.twitter.com/2wcW5Ojosu",
+					"expanded_url": "https://twitter.com/SNSD_0805/status/1329785583422513152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 173447107,
+			"id_str": "173447107",
+			"name": "화수은화",
+			"screen_name": "SNSD_0805",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41432,
+			"friends_count": 65,
+			"listed_count": 223,
+			"created_at": "Sun Aug 01 14:08:18 +0000 2010",
+			"favourites_count": 343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296344439338569728/v7JYvZuI_normal.jpg",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 712,
+		"favorite_count": 818,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "VOGUE 보그 12월호 티파니\n\n그녀의 눈웃음은 자신의 이름처럼 반짝인다. 한국에서 빛나던 티파니의 미소와 매력을 이제 미국을 비롯해 전 세계에서 마주할 수 있다. 바야흐로 '티파니 영' 시대!\n\nhttps://t.co/6r3q5AlftY\n#티파니 #티파니영 #TiffanyYoung https://t.co/2wcW5Ojosu"
+	},
+	{
+		"created_at": "Fri Nov 20 23:44:33 +0000 2020",
+		"id": 1328641005952716800,
+		"id_str": "1329933681834672129",
+		"full_text": "#태연 #싸인CD 를 받을 수 있다고??👀👀\n지금 카카오 사전등록하고 태연 싸인 CD 받자!\nhttps://t.co/s9YAX1xa1Y\n\n1. 태연 친필 싸인 CD (5명)  ⭐태연 직.접. 추첨⭐\n2. 문화상품권 1만원 (5명)\n\n자세한 내용은 그랑사가 공식 카페에서 확인하세요!\nhttps://t.co/etsZA5PMnB\n\n#그랑사가 #taeyeon https://t.co/WtV8gfuu0K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "싸인CD",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "그랑사가",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						189,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s9YAX1xa1Y",
+					"expanded_url": "https://game.kakao.com/ar/gransaga",
+					"display_url": "game.kakao.com/ar/gransaga",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/etsZA5PMnB",
+					"expanded_url": "https://cafe.naver.com/gransagakr/11204",
+					"display_url": "cafe.naver.com/gransagakr/112…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1328640946855055400,
+					"id_str": "1328640946855055361",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBH5tdVkAEXhHl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnBH5tdVkAEXhHl.png",
+					"url": "https://t.co/WtV8gfuu0K",
+					"display_url": "pic.twitter.com/WtV8gfuu0K",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1328641005952716803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1328640946855055400,
+					"id_str": "1328640946855055361",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/EnBH5tdVkAEXhHl.png",
+					"media_url_https": "https://pbs.twimg.com/media/EnBH5tdVkAEXhHl.png",
+					"url": "https://t.co/WtV8gfuu0K",
+					"display_url": "pic.twitter.com/WtV8gfuu0K",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1328641005952716803/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 850,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/yWpe1Z86kI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yWpe1Z86kI",
+							"expanded_url": "http://gransaga.com",
+							"display_url": "gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1605492356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 426,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태연 #싸인CD 를 받을 수 있다고??👀👀\n지금 카카오 사전등록하고 태연 싸인 CD 받자!\nhttps://t.co/s9YAX1xa1Y\n\n1. 태연 친필 싸인 CD (5명)  ⭐태연 직.접. 추첨⭐\n2. 문화상품권 1만원 (5명)\n\n자세한 내용은 그랑사가 공식 카페에서 확인하세요!\nhttps://t.co/etsZA5PMnB\n\n#그랑사가 #taeyeon https://t.co/WtV8gfuu0K"
+	},
+	{
+		"created_at": "Fri Nov 20 23:44:29 +0000 2020",
+		"id": 1327232397285286000,
+		"id_str": "1329933666236043265",
+		"full_text": "#유아인 과 #김강훈\n어린이 연극제에서 만나다🥳\n#그랑사가 \"연극의 왕\" 공개!🎬\n　\n🤓역대급 출연진을 확인하세요!\n🎉사전등록: https://t.co/y0NBLRzWqO\n　\n#신구 #엄태구 #배성우 #조여정 #오정세 #박희순\n#이경영 #태연 #양동근 #이말년 #주호민\n　\nhttps://t.co/1yUecqVzOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유아인",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "김강훈",
+					"indices": [
+						7,
+						11
+					]
+				},
+				{
+					"text": "그랑사가",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "신구",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "엄태구",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "배성우",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "조여정",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "오정세",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "박희순",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "이경영",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						132,
+						135
+					]
+				},
+				{
+					"text": "양동근",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이말년",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "주호민",
+					"indices": [
+						146,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y0NBLRzWqO",
+					"expanded_url": "http://gransaga.com",
+					"display_url": "gransaga.com",
+					"indices": [
+						72,
+						95
+					]
+				},
+				{
+					"url": "https://t.co/1yUecqVzOn",
+					"expanded_url": "https://youtu.be/mK8GiTBnFq0",
+					"display_url": "youtu.be/mK8GiTBnFq0",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/yWpe1Z86kI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yWpe1Z86kI",
+							"expanded_url": "http://gransaga.com",
+							"display_url": "gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1559,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1605492356",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 351,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#유아인 과 #김강훈\n어린이 연극제에서 만나다🥳\n#그랑사가 \"연극의 왕\" 공개!🎬\n　\n🤓역대급 출연진을 확인하세요!\n🎉사전등록: https://t.co/y0NBLRzWqO\n　\n#신구 #엄태구 #배성우 #조여정 #오정세 #박희순\n#이경영 #태연 #양동근 #이말년 #주호민\n　\nhttps://t.co/1yUecqVzOn"
+	},
+	{
 		"created_at": "Fri Nov 20 14:44:56 +0000 2020",
 		"id": 1329790101644214300,
 		"id_str": "1329797885341425673",
