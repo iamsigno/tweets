@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 03:07:09 +0000 2020",
+		"id": 1330345659111596000,
+		"id_str": "1330347056725159939",
+		"full_text": "テヨン 2ndミニアルバム『#GirlsSpkOut』の商品封入のシリアルナンバーによる応募・抽選特典「オンラインサイン会」の応募締切が本日23:59迄！\n皆さまのご応募お待ちしております✨\n\n#テヨン #TAEYEON #태연\n\nご購入はこちら\nhttps://t.co/XiTgIGGjZ9\nアルバム特典はこちら\nhttps://t.co/RQUcl9LC6Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						111,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XiTgIGGjZ9",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						124,
+						147
+					]
+				},
+				{
+					"url": "https://t.co/RQUcl9LC6Z",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/online_sign/",
+					"display_url": "taeyeon.girls-generation.jp/news/online_si…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105456,
+			"friends_count": 0,
+			"listed_count": 485,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 130,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン 2ndミニアルバム『#GirlsSpkOut』の商品封入のシリアルナンバーによる応募・抽選特典「オンラインサイン会」の応募締切が本日23:59迄！\n皆さまのご応募お待ちしております✨\n\n#テヨン #TAEYEON #태연\n\nご購入はこちら\nhttps://t.co/XiTgIGGjZ9\nアルバム特典はこちら\nhttps://t.co/RQUcl9LC6Z"
+	},
+	{
 		"created_at": "Sat Nov 21 09:07:09 +0000 2020",
 		"id": 1330073499092848600,
 		"id_str": "1330075263682703361",
