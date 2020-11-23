@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 23 05:07:09 +0000 2020",
+		"id": 1330739424037011500,
+		"id_str": "1330739641461387265",
+		"full_text": "[#NEWS] 관계성 맛집 '런온', 신세경X최수영 워맨스 예고..현실 케미 완벽 시너지\n▶https://t.co/fQ5DJVpW7H\n(사진제공=메이스엔터테인먼트, 콘텐츠지음)\n\n#신세경 #SHINSAEKYEONG #SHINSEKYUNG #RUNON https://t.co/EY2vhWfIZ9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "SHINSAEKYEONG",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "SHINSEKYUNG",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "RUNON",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fQ5DJVpW7H",
+					"expanded_url": "http://naver.me/xw24bURT",
+					"display_url": "naver.me/xw24bURT",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1330739323776368600,
+					"id_str": "1330739323776368641",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Ene8XUpVgAE5HnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ene8XUpVgAE5HnR.jpg",
+					"url": "https://t.co/EY2vhWfIZ9",
+					"display_url": "pic.twitter.com/EY2vhWfIZ9",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1330739424037011457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330739323776368600,
+					"id_str": "1330739323776368641",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Ene8XUpVgAE5HnR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ene8XUpVgAE5HnR.jpg",
+					"url": "https://t.co/EY2vhWfIZ9",
+					"display_url": "pic.twitter.com/EY2vhWfIZ9",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1330739424037011457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1330739340947857400,
+					"id_str": "1330739340947857411",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Ene8YUnVoAMpas9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ene8YUnVoAMpas9.jpg",
+					"url": "https://t.co/EY2vhWfIZ9",
+					"display_url": "pic.twitter.com/EY2vhWfIZ9",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1330739424037011457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1330739383784272000,
+					"id_str": "1330739383784271873",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Ene8a0MVcAE5g5r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ene8a0MVcAE5g5r.jpg",
+					"url": "https://t.co/EY2vhWfIZ9",
+					"display_url": "pic.twitter.com/EY2vhWfIZ9",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1330739424037011457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1330739402948022300,
+					"id_str": "1330739402948022278",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Ene8b7lVEAYn3El.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ene8b7lVEAYn3El.jpg",
+					"url": "https://t.co/EY2vhWfIZ9",
+					"display_url": "pic.twitter.com/EY2vhWfIZ9",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1330739424037011457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33111,
+			"friends_count": 12,
+			"listed_count": 187,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 관계성 맛집 '런온', 신세경X최수영 워맨스 예고..현실 케미 완벽 시너지\n▶https://t.co/fQ5DJVpW7H\n(사진제공=메이스엔터테인먼트, 콘텐츠지음)\n\n#신세경 #SHINSAEKYEONG #SHINSEKYUNG #RUNON https://t.co/EY2vhWfIZ9"
+	},
+	{
 		"created_at": "Sun Nov 22 10:36:01 +0000 2020",
 		"id": 1330420757768376300,
 		"id_str": "1330460016533327873",
