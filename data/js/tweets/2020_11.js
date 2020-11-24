@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 24 04:07:09 +0000 2020",
+		"id": 1331086071648505900,
+		"id_str": "1331086930570866688",
+		"full_text": "대뱍..😭 색연필 버전 #운한빠 탱구💕\n멍하니 보게 되는 #드로우홀릭 #태연 드로잉✏\n#그랑사가 사전등록: https://t.co/g5L76IgCS3\n\n#믿듣탱 운명보다 한걸음 빠르게 들으며,\n#금손 드로우홀릭 X 그랑사가 태연 드로잉 감상!😉\n\n#GranSaga #NPIXEL #엔픽셀 #taeyeon\nhttps://t.co/9poNpKtFI8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "운한빠",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "드로우홀릭",
+					"indices": [
+						32,
+						38
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "그랑사가",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "믿듣탱",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "금손",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "GranSaga",
+					"indices": [
+						138,
+						147
+					]
+				},
+				{
+					"text": "NPIXEL",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "엔픽셀",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g5L76IgCS3",
+					"expanded_url": "http://gransaga.com/#preregister",
+					"display_url": "gransaga.com/#preregister",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/9poNpKtFI8",
+					"expanded_url": "https://youtu.be/WyZ6hffS29A",
+					"display_url": "youtu.be/WyZ6hffS29A",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/yWpe1Z86kI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yWpe1Z86kI",
+							"expanded_url": "http://gransaga.com",
+							"display_url": "gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1566,
+			"friends_count": 0,
+			"listed_count": 8,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 90,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1606105917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "대뱍..😭 색연필 버전 #운한빠 탱구💕\n멍하니 보게 되는 #드로우홀릭 #태연 드로잉✏\n#그랑사가 사전등록: https://t.co/g5L76IgCS3\n\n#믿듣탱 운명보다 한걸음 빠르게 들으며,\n#금손 드로우홀릭 X 그랑사가 태연 드로잉 감상!😉\n\n#GranSaga #NPIXEL #엔픽셀 #taeyeon\nhttps://t.co/9poNpKtFI8"
+	},
+	{
 		"created_at": "Tue Nov 24 01:44:56 +0000 2020",
 		"id": 1331048544392736800,
 		"id_str": "1331051143443648513",
