@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 06:07:09 +0000 2020",
+		"id": 1331472007238598700,
+		"id_str": "1331479517664260096",
+		"full_text": "[#NEWS] 전현무X서현, ‘2020 더팩트 뮤직 어워즈’ MC 낙점\n▶️https://t.co/rkMfIT02bV\n　\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TheFactMusicAwards #TMA https://t.co/WBs6trLzNk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "더팩트뮤직어워즈",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "TheFactMusicAwards",
+					"indices": [
+						91,
+						110
+					]
+				},
+				{
+					"text": "TMA",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rkMfIT02bV",
+					"expanded_url": "http://naver.me/5vB6hvoO",
+					"display_url": "naver.me/5vB6hvoO",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331471985096884200,
+					"id_str": "1331471985096884224",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EnpWt0wVgAArwut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnpWt0wVgAArwut.jpg",
+					"url": "https://t.co/WBs6trLzNk",
+					"display_url": "pic.twitter.com/WBs6trLzNk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331472007238598657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331471985096884200,
+					"id_str": "1331471985096884224",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EnpWt0wVgAArwut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnpWt0wVgAArwut.jpg",
+					"url": "https://t.co/WBs6trLzNk",
+					"display_url": "pic.twitter.com/WBs6trLzNk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331472007238598657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33153,
+			"friends_count": 12,
+			"listed_count": 189,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 전현무X서현, ‘2020 더팩트 뮤직 어워즈’ MC 낙점\n▶️https://t.co/rkMfIT02bV\n　\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TheFactMusicAwards #TMA https://t.co/WBs6trLzNk"
+	},
+	{
 		"created_at": "Wed Nov 25 05:07:09 +0000 2020",
 		"id": 1331459794398441500,
 		"id_str": "1331464418174115841",
