@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 03:07:09 +0000 2020",
+		"id": 1331796364221563000,
+		"id_str": "1331796605612199947",
+		"full_text": "'앙리할아버지와 나', 이순재→권유리 5인5색 포스터...2차 티켓오픈 예고\n\n👉🏻https://t.co/6ei7PGFs8h\n\n#권유리 #KWONYURI #앙리할아버지와나 #소녀시대 #GirlsGeneration https://t.co/bZD6hQxZJ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						76,
+						85
+					]
+				},
+				{
+					"text": "앙리할아버지와나",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						102,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ei7PGFs8h",
+					"expanded_url": "http://m.slist.kr/news/articleView.html?idxno=204591",
+					"display_url": "m.slist.kr/news/articleVi…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331796139910197200,
+					"id_str": "1331796139910197249",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Ent9iHiVcAEJYw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ent9iHiVcAEJYw_.jpg",
+					"url": "https://t.co/bZD6hQxZJ6",
+					"display_url": "pic.twitter.com/bZD6hQxZJ6",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1331796364221562880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331796139910197200,
+					"id_str": "1331796139910197249",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Ent9iHiVcAEJYw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ent9iHiVcAEJYw_.jpg",
+					"url": "https://t.co/bZD6hQxZJ6",
+					"display_url": "pic.twitter.com/bZD6hQxZJ6",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1331796364221562880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 827,
+							"h": 1185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 827,
+							"h": 1185,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3600741,
+			"friends_count": 4,
+			"listed_count": 5088,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 120,
+		"favorite_count": 394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'앙리할아버지와 나', 이순재→권유리 5인5색 포스터...2차 티켓오픈 예고\n\n👉🏻https://t.co/6ei7PGFs8h\n\n#권유리 #KWONYURI #앙리할아버지와나 #소녀시대 #GirlsGeneration https://t.co/bZD6hQxZJ6"
+	},
+	{
 		"created_at": "Thu Nov 26 01:44:57 +0000 2020",
 		"id": 1331770015331152000,
 		"id_str": "1331775919455924224",
