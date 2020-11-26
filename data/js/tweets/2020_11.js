@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 11:07:15 +0000 2020",
+		"id": 1331900660057403400,
+		"id_str": "1331917428310351873",
+		"full_text": "テヨン（少女時代）スペシャルインタビュー第一弾！『#GirlsSpkOut』に込めた想いとパワフルなガールズマインドにせまります♡\nEnglish🔗https://t.co/OIh9H3bcg7\n日本語🔗https://t.co/deKuKMHaa5\n#TAEYEON @GirlsGeneration @gg_official_jp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						126,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						135,
+						151
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						152,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OIh9H3bcg7",
+					"expanded_url": "https://www.vivi.tv/post163383/",
+					"display_url": "vivi.tv/post163383/",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/deKuKMHaa5",
+					"expanded_url": "https://www.vivi.tv/post159180/",
+					"display_url": "vivi.tv/post159180/",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 596161773,
+			"id_str": "596161773",
+			"name": "ViVi",
+			"screen_name": "vivi_magazine",
+			"location": "",
+			"description": "雑誌『ViVi』公式Twitter(毎月23日発売KODANSHA) 八木アリサ／emma／谷まりあ／miu／藤井サチ／古畑星夏／藤田ニコル ／愛花 ／アリアナさくら／嵐莉菜 🔗 https://t.co/zfsxtL88fR",
+			"url": "https://t.co/P5U2DIDASv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P5U2DIDASv",
+							"expanded_url": "http://vivi.tv/",
+							"display_url": "vivi.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zfsxtL88fR",
+							"expanded_url": "https://www.instagram.com/vivi_mag_official/?hl=ja",
+							"display_url": "instagram.com/vivi_mag_offic…",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 258099,
+			"friends_count": 22,
+			"listed_count": 900,
+			"created_at": "Fri Jun 01 03:32:17 +0000 2012",
+			"favourites_count": 2128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113323485898530816/oOfkrrDy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113323485898530816/oOfkrrDy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/596161773/1603427274",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 637,
+		"favorite_count": 959,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン（少女時代）スペシャルインタビュー第一弾！『#GirlsSpkOut』に込めた想いとパワフルなガールズマインドにせまります♡\nEnglish🔗https://t.co/OIh9H3bcg7\n日本語🔗https://t.co/deKuKMHaa5\n#TAEYEON @GirlsGeneration @gg_official_jp"
+	},
+	{
 		"created_at": "Thu Nov 26 10:07:22 +0000 2020",
 		"id": 1331899600882393000,
 		"id_str": "1331902357551132677",
