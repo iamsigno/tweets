@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 10:07:22 +0000 2020",
+		"id": 1331899600882393000,
+		"id_str": "1331902357551132677",
+		"full_text": "[#NEWS] '사생활' 종영 D-DAY…서현, 마지막까지 예쁨주의보 발령\n▶ https://t.co/TRcBBQzIrD\n　\n#서현 #사생활 #SEOHYUN #PrivateLives https://t.co/9RDVJ4Jllq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TRcBBQzIrD",
+					"expanded_url": "http://naver.me/xSj4dPP7",
+					"display_url": "naver.me/xSj4dPP7",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331899514123288600,
+					"id_str": "1331899514123288579",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbjSfVgAMPj1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbjSfVgAMPj1Z.jpg",
+					"url": "https://t.co/9RDVJ4Jllq",
+					"display_url": "pic.twitter.com/9RDVJ4Jllq",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899600882393088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331899514123288600,
+					"id_str": "1331899514123288579",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbjSfVgAMPj1Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbjSfVgAMPj1Z.jpg",
+					"url": "https://t.co/9RDVJ4Jllq",
+					"display_url": "pic.twitter.com/9RDVJ4Jllq",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899600882393088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331899541692399600,
+					"id_str": "1331899541692399619",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Envbk5MUwAM7FMD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Envbk5MUwAM7FMD.jpg",
+					"url": "https://t.co/9RDVJ4Jllq",
+					"display_url": "pic.twitter.com/9RDVJ4Jllq",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899600882393088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331899554774405000,
+					"id_str": "1331899554774405120",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Envblp7UUAAPE5S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Envblp7UUAAPE5S.jpg",
+					"url": "https://t.co/9RDVJ4Jllq",
+					"display_url": "pic.twitter.com/9RDVJ4Jllq",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899600882393088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331899568087134200,
+					"id_str": "1331899568087134209",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbmbhUcAElpWt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbmbhUcAElpWt.jpg",
+					"url": "https://t.co/9RDVJ4Jllq",
+					"display_url": "pic.twitter.com/9RDVJ4Jllq",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899600882393088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1331899404458946600,
+		"in_reply_to_status_id_str": "1331899404458946561",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33181,
+			"friends_count": 12,
+			"listed_count": 188,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '사생활' 종영 D-DAY…서현, 마지막까지 예쁨주의보 발령\n▶ https://t.co/TRcBBQzIrD\n　\n#서현 #사생활 #SEOHYUN #PrivateLives https://t.co/9RDVJ4Jllq"
+	},
+	{
+		"created_at": "Thu Nov 26 10:07:16 +0000 2020",
+		"id": 1331899404458946600,
+		"id_str": "1331902331873599488",
+		"full_text": "[#NEWS] '사생활' 종영 D-DAY…서현, 마지막까지 예쁨주의보 발령\n▶ https://t.co/TRcBBQzIrD\n　\n#서현 #사생활 #SEOHYUN #PrivateLives https://t.co/n3dPhZsioa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TRcBBQzIrD",
+					"expanded_url": "http://naver.me/xSj4dPP7",
+					"display_url": "naver.me/xSj4dPP7",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331899291535769600,
+					"id_str": "1331899291535769600",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbWVSVgAAj1Ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbWVSVgAAj1Ht.jpg",
+					"url": "https://t.co/n3dPhZsioa",
+					"display_url": "pic.twitter.com/n3dPhZsioa",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899404458946561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331899291535769600,
+					"id_str": "1331899291535769600",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbWVSVgAAj1Ht.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbWVSVgAAj1Ht.jpg",
+					"url": "https://t.co/n3dPhZsioa",
+					"display_url": "pic.twitter.com/n3dPhZsioa",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899404458946561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331899305817301000,
+					"id_str": "1331899305817300994",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbXKfUYAIgMMm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbXKfUYAIgMMm.jpg",
+					"url": "https://t.co/n3dPhZsioa",
+					"display_url": "pic.twitter.com/n3dPhZsioa",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899404458946561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331899317276135400,
+					"id_str": "1331899317276135424",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbX1LUUAAZxma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbX1LUUAAZxma.jpg",
+					"url": "https://t.co/n3dPhZsioa",
+					"display_url": "pic.twitter.com/n3dPhZsioa",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899404458946561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331899330479808500,
+					"id_str": "1331899330479808515",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EnvbYmXUYAMTAFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnvbYmXUYAMTAFx.jpg",
+					"url": "https://t.co/n3dPhZsioa",
+					"display_url": "pic.twitter.com/n3dPhZsioa",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1331899404458946561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33181,
+			"friends_count": 12,
+			"listed_count": 188,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '사생활' 종영 D-DAY…서현, 마지막까지 예쁨주의보 발령\n▶ https://t.co/TRcBBQzIrD\n　\n#서현 #사생활 #SEOHYUN #PrivateLives https://t.co/n3dPhZsioa"
+	},
+	{
 		"created_at": "Thu Nov 26 03:07:09 +0000 2020",
 		"id": 1331796364221563000,
 		"id_str": "1331796605612199947",
