@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 02:07:09 +0000 2020",
+		"id": 1332143768544239600,
+		"id_str": "1332143896407773184",
+		"full_text": "[#NEWS] '사생활' 서현 \"6개월간 차주은으로 산 순간..인생의 영광\"\n▶ https://t.co/Z1ptyS67sb\n\n#서현 #사생활 #SEOHYUN #PrivateLives https://t.co/N8rqqOdRCf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "사생활",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "PrivateLives",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z1ptyS67sb",
+					"expanded_url": "http://naver.me/GKm6V2uR",
+					"display_url": "naver.me/GKm6V2uR",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1332143730388734000,
+					"id_str": "1332143730388733953",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eny5qi-VkAEP2GO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eny5qi-VkAEP2GO.jpg",
+					"url": "https://t.co/N8rqqOdRCf",
+					"display_url": "pic.twitter.com/N8rqqOdRCf",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1332143768544239617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332143730388734000,
+					"id_str": "1332143730388733953",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eny5qi-VkAEP2GO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eny5qi-VkAEP2GO.jpg",
+					"url": "https://t.co/N8rqqOdRCf",
+					"display_url": "pic.twitter.com/N8rqqOdRCf",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1332143768544239617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1332143748503928800,
+					"id_str": "1332143748503928832",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/Eny5rmdVgAA18HE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eny5rmdVgAA18HE.jpg",
+					"url": "https://t.co/N8rqqOdRCf",
+					"display_url": "pic.twitter.com/N8rqqOdRCf",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1332143768544239617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33205,
+			"friends_count": 12,
+			"listed_count": 189,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '사생활' 서현 \"6개월간 차주은으로 산 순간..인생의 영광\"\n▶ https://t.co/Z1ptyS67sb\n\n#서현 #사생활 #SEOHYUN #PrivateLives https://t.co/N8rqqOdRCf"
+	},
+	{
 		"created_at": "Thu Nov 26 11:07:15 +0000 2020",
 		"id": 1331900660057403400,
 		"id_str": "1331917428310351873",
