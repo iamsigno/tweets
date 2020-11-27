@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 10:07:09 +0000 2020",
+		"id": 1332250077839069200,
+		"id_str": "1332264690098065408",
+		"full_text": "雑誌『anan』に登場したテヨンさんの、オリジナル記事をananwebに掲載中です。本日、メイキング風景を含む、ロングバージョンのメッセージ動画が追加されました！\n\nhttps://t.co/YG7Wi3QJx1\n\n#アンアン #テヨン #少女時代　#TAEYEON #태연",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "アンアン",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						134,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YG7Wi3QJx1",
+					"expanded_url": "https://ananweb.jp/anan/319932/",
+					"display_url": "ananweb.jp/anan/319932/",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2254500937,
+			"id_str": "2254500937",
+			"name": "アンアンウェブ",
+			"screen_name": "anan_web",
+			"location": "東京都 中央区",
+			"description": "アンアンウェブは、雑誌「anan」のウェブメディアです。雑誌だけでなく、ウェブオリジナルのコンテンツが盛りだくさん。恋愛・美容・メイク・占い・芸能・カルチャーなどの記事が集まっています。恋愛現役女子が満足する情報を毎日更新します！",
+			"url": "https://t.co/RCTqZDDs8M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RCTqZDDs8M",
+							"expanded_url": "http://ananweb.jp/",
+							"display_url": "ananweb.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16742,
+			"friends_count": 9758,
+			"listed_count": 137,
+			"created_at": "Fri Dec 20 04:59:14 +0000 2013",
+			"favourites_count": 2955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/898392312711061504/UFU6enWA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/898392312711061504/UFU6enWA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2254500937/1473841580",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 427,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "雑誌『anan』に登場したテヨンさんの、オリジナル記事をananwebに掲載中です。本日、メイキング風景を含む、ロングバージョンのメッセージ動画が追加されました！\n\nhttps://t.co/YG7Wi3QJx1\n\n#アンアン #テヨン #少女時代　#TAEYEON #태연"
+	},
+	{
 		"created_at": "Fri Nov 27 04:44:57 +0000 2020",
 		"id": 1332177388839587800,
 		"id_str": "1332183605615992833",
