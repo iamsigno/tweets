@@ -1,6 +1,869 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sat Nov 28 09:07:45 +0000 2020",
+		"id": 1332610180731822000,
+		"id_str": "1332612131418566656",
+		"full_text": "SUMMER SONIC HIGHLIGHTS ON YOUTUBE⚡\nDAY2 – 11/28(Sat) 19:00〜👍\n20年に渡る過去の #サマソニ の貴重なライヴ映像を一挙公開🔥\nこの後19時より配信スタート🎥\n配信スケジュールはYOUTUBEの概要欄からチェック💁\nhttps://t.co/FVL74sIlye\n\n#summersonic #supersonic #YouTubeMusic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "サマソニ",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "summersonic",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"text": "supersonic",
+					"indices": [
+						176,
+						187
+					]
+				},
+				{
+					"text": "YouTubeMusic",
+					"indices": [
+						188,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FVL74sIlye",
+					"expanded_url": "https://youtu.be/ug7J3SsExpg",
+					"display_url": "youtu.be/ug7J3SsExpg",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 117325170,
+			"id_str": "117325170",
+			"name": "ssonic_staff",
+			"screen_name": "summer_sonic",
+			"location": "Tokyo / Osaka",
+			"description": "This is the official SUMMER SONIC / SUPERSONIC twitter.\nFollow us, and you will get the most up-to-date info about the fest!",
+			"url": "https://t.co/LE5G2Kf8aJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LE5G2Kf8aJ",
+							"expanded_url": "https://supersonic2020.com/",
+							"display_url": "supersonic2020.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 193507,
+			"friends_count": 9,
+			"listed_count": 3816,
+			"created_at": "Thu Feb 25 06:34:47 +0000 2010",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1245549406213902336/BXyayHZN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1245549406213902336/BXyayHZN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/117325170/1605670776",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "SUMMER SONIC HIGHLIGHTS ON YOUTUBE⚡\nDAY2 – 11/28(Sat) 19:00〜👍\n20年に渡る過去の #サマソニ の貴重なライヴ映像を一挙公開🔥\nこの後19時より配信スタート🎥\n配信スケジュールはYOUTUBEの概要欄からチェック💁\nhttps://t.co/FVL74sIlye\n\n#summersonic #supersonic #YouTubeMusic"
+	},
+	{
+		"created_at": "Sat Nov 28 09:07:18 +0000 2020",
+		"id": 1332610431874166800,
+		"id_str": "1332612016310276096",
+		"full_text": "#テヨン『#GirlsSpkOut』収録「#Sorrow」のStudio Live Ver.を公開しました🎉テヨンの魅力が詰まった至極のバラード曲、ぜひチェックしてください🎬\nそして、テヨンから皆さんへメッセージも到着❣️\n#TAEYEON #태연\n\n🎬映像はこちら\nhttps://t.co/pG7AhcIyIp\n🔻ご購入はこちら\nhttps://t.co/XiTgIGoJ7B https://t.co/HTNFPX08An",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "GirlsSpkOut",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"text": "Sorrow",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						121,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pG7AhcIyIp",
+					"expanded_url": "https://youtu.be/rZO7Fe-6pxo",
+					"display_url": "youtu.be/rZO7Fe-6pxo",
+					"indices": [
+						134,
+						157
+					]
+				},
+				{
+					"url": "https://t.co/XiTgIGoJ7B",
+					"expanded_url": "https://lnk.to/GSOEC",
+					"display_url": "lnk.to/GSOEC",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1332554125515526100,
+					"id_str": "1332554125515526144",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1332554125515526144/img/OmvXtlMtrVcPUogz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1332554125515526144/img/OmvXtlMtrVcPUogz.jpg",
+					"url": "https://t.co/HTNFPX08An",
+					"display_url": "pic.twitter.com/HTNFPX08An",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1332610431874166784/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332554125515526100,
+					"id_str": "1332554125515526144",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1332554125515526144/img/OmvXtlMtrVcPUogz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1332554125515526144/img/OmvXtlMtrVcPUogz.jpg",
+					"url": "https://t.co/HTNFPX08An",
+					"display_url": "pic.twitter.com/HTNFPX08An",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1332610431874166784/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 404,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							101
+						],
+						"duration_millis": 19900,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1332554125515526144/vid/480x270/KlZqCr5r52yLHkkw.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1332554125515526144/pl/bcARTAvcRWqi-lE6.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1332554125515526144/vid/720x404/pa0niX3yZHLAM2wD.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105542,
+			"friends_count": 0,
+			"listed_count": 488,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 360,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 444,
+		"favorite_count": 537,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#テヨン『#GirlsSpkOut』収録「#Sorrow」のStudio Live Ver.を公開しました🎉テヨンの魅力が詰まった至極のバラード曲、ぜひチェックしてください🎬\nそして、テヨンから皆さんへメッセージも到着❣️\n#TAEYEON #태연\n\n🎬映像はこちら\nhttps://t.co/pG7AhcIyIp\n🔻ご購入はこちら\nhttps://t.co/XiTgIGoJ7B https://t.co/HTNFPX08An"
+	},
+	{
+		"created_at": "Sat Nov 28 09:07:08 +0000 2020",
+		"id": 1332610341717504000,
+		"id_str": "1332611978133692416",
+		"full_text": "TAEYEON テヨン 'Sorrow' Studio Live Ver.\n\n👉🏻https://t.co/f03hVYiKdr\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Sorrow https://t.co/MlpqUl8V49",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"text": "Sorrow",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f03hVYiKdr",
+					"expanded_url": "https://youtu.be/rZO7Fe-6pxo",
+					"display_url": "youtu.be/rZO7Fe-6pxo",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1332610337028198400,
+					"id_str": "1332610337028198401",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/En5iCoKUUAEmC5G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En5iCoKUUAEmC5G.jpg",
+					"url": "https://t.co/MlpqUl8V49",
+					"display_url": "pic.twitter.com/MlpqUl8V49",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1332610341717504000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332610337028198400,
+					"id_str": "1332610337028198401",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/En5iCoKUUAEmC5G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/En5iCoKUUAEmC5G.jpg",
+					"url": "https://t.co/MlpqUl8V49",
+					"display_url": "pic.twitter.com/MlpqUl8V49",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1332610341717504000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3603001,
+			"friends_count": 4,
+			"listed_count": 5096,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2200,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1331,
+		"favorite_count": 1759,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "TAEYEON テヨン 'Sorrow' Studio Live Ver.\n\n👉🏻https://t.co/f03hVYiKdr\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Sorrow https://t.co/MlpqUl8V49"
+	},
+	{
+		"created_at": "Sat Nov 28 08:31:48 +0000 2020",
+		"id": 1332157197783101400,
+		"id_str": "1332603085332508680",
+		"full_text": "🎧Summer Sonic Highlights on YouTube\n \n週末は Summer Sonic 公式チャンネルへ🔥\n配信初披露となるアーティストを含め、サマソニ20年の歴史から貴重なLive映像を一挙公開✨\n#summersonic #YouTubeMusic @summer_sonic\n \nDAY 1 19:00~ https://t.co/RlRClP6cHg\nDAY 2 19:00~ https://t.co/6UiacplhcO https://t.co/LjyMjoeW1I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "summersonic",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "YouTubeMusic",
+					"indices": [
+						124,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "summer_sonic",
+					"name": "ssonic_staff",
+					"id": 117325170,
+					"id_str": "117325170",
+					"indices": [
+						138,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RlRClP6cHg",
+					"expanded_url": "https://yt.be/20ss1",
+					"display_url": "yt.be/20ss1",
+					"indices": [
+						167,
+						190
+					]
+				},
+				{
+					"url": "https://t.co/6UiacplhcO",
+					"expanded_url": "https://yt.be/20ss2",
+					"display_url": "yt.be/20ss2",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1332151344828874800,
+					"id_str": "1332151344828874753",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332151344828874753/pu/img/Pmhf-LYZmBh28gft.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332151344828874753/pu/img/Pmhf-LYZmBh28gft.jpg",
+					"url": "https://t.co/LjyMjoeW1I",
+					"display_url": "pic.twitter.com/LjyMjoeW1I",
+					"expanded_url": "https://twitter.com/YouTubeJapan/status/1332157197783101442/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332151344828874800,
+					"id_str": "1332151344828874753",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332151344828874753/pu/img/Pmhf-LYZmBh28gft.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332151344828874753/pu/img/Pmhf-LYZmBh28gft.jpg",
+					"url": "https://t.co/LjyMjoeW1I",
+					"display_url": "pic.twitter.com/LjyMjoeW1I",
+					"expanded_url": "https://twitter.com/YouTubeJapan/status/1332157197783101442/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332151344828874753/pu/vid/480x270/fp5YmQopIyylaswE.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332151344828874753/pu/vid/1280x720/a-FyWEqCUO-RwlWw.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1332151344828874753/pu/pl/4wivHBN7ye_HFh9W.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1332151344828874753/pu/vid/640x360/UygTbN0ZLKBZx3Oa.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111048816,
+			"id_str": "111048816",
+			"name": "YouTube Japan",
+			"screen_name": "YouTubeJapan",
+			"location": "東京都港区",
+			"description": "YouTube 日本版公式twitterです。おすすめの動画、チャンネル、ユーザー参加型企画をつぶやきます。クリエイター向けの情報はこちら：@ytcreatorsjapan // YouTubeに関する質問や疑問は @TeamYouTubeまで。（日本語対応可）",
+			"url": "https://t.co/ME3Q7L2d2z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ME3Q7L2d2z",
+							"expanded_url": "https://www.youtube.com/YouTubeJapan",
+							"display_url": "youtube.com/YouTubeJapan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 350357,
+			"friends_count": 923,
+			"listed_count": 1931,
+			"created_at": "Wed Feb 03 16:53:12 +0000 2010",
+			"favourites_count": 16651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C9191D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265192075433095168/LQXhK582_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265192075433095168/LQXhK582_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111048816/1602471522",
+			"profile_link_color": "1B7FCC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 653,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🎧Summer Sonic Highlights on YouTube\n \n週末は Summer Sonic 公式チャンネルへ🔥\n配信初披露となるアーティストを含め、サマソニ20年の歴史から貴重なLive映像を一挙公開✨\n#summersonic #YouTubeMusic @summer_sonic\n \nDAY 1 19:00~ https://t.co/RlRClP6cHg\nDAY 2 19:00~ https://t.co/6UiacplhcO https://t.co/LjyMjoeW1I"
+	},
+	{
 		"created_at": "Sat Nov 28 06:44:56 +0000 2020",
 		"id": 1332574273421127700,
 		"id_str": "1332576192394899464",
