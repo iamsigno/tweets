@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 08:07:09 +0000 2020",
+		"id": 1333310315967090700,
+		"id_str": "1333321654592737280",
+		"full_text": "#그랑사가 광고 속 #탱구 요정님💕\n#태연 이랑 아이컨택하면 이런 느낌\nhttps://t.co/g5L76IgCS3\n👆심멎 방지용 사전등록 링크👆\n\n아이컨탱하고 행운의 요정 태연과 함께 행복해져라~ 얍!! 🍀🍀\n#GranSaga #NPIXEL #엔픽셀 #taeyeon https://t.co/BN8NbffAmH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그랑사가",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "탱구",
+					"indices": [
+						11,
+						14
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						20,
+						23
+					]
+				},
+				{
+					"text": "GranSaga",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "NPIXEL",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "엔픽셀",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g5L76IgCS3",
+					"expanded_url": "http://gransaga.com/#preregister",
+					"display_url": "gransaga.com/#preregister",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333310091567669200,
+					"id_str": "1333310091567669248",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EoDeds9VoAAgUJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoDeds9VoAAgUJ-.jpg",
+					"url": "https://t.co/BN8NbffAmH",
+					"display_url": "pic.twitter.com/BN8NbffAmH",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1333310315967090689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333310091567669200,
+					"id_str": "1333310091567669248",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EoDeds9VoAAgUJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoDeds9VoAAgUJ-.jpg",
+					"url": "https://t.co/BN8NbffAmH",
+					"display_url": "pic.twitter.com/BN8NbffAmH",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1333310315967090689/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 850,
+							"h": 850,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EoDeds9VoAAgUJ-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/yWpe1Z86kI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yWpe1Z86kI",
+							"expanded_url": "http://gransaga.com",
+							"display_url": "gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1579,
+			"friends_count": 0,
+			"listed_count": 9,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 192,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1606105917",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 287,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#그랑사가 광고 속 #탱구 요정님💕\n#태연 이랑 아이컨택하면 이런 느낌\nhttps://t.co/g5L76IgCS3\n👆심멎 방지용 사전등록 링크👆\n\n아이컨탱하고 행운의 요정 태연과 함께 행복해져라~ 얍!! 🍀🍀\n#GranSaga #NPIXEL #엔픽셀 #taeyeon https://t.co/BN8NbffAmH"
+	},
+	{
 		"created_at": "Sun Nov 29 03:07:09 +0000 2020",
 		"id": 1332882240536100900,
 		"id_str": "1332883769284583425",
