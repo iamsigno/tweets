@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 09:07:09 +0000 2020",
+		"id": 1334416883542413300,
+		"id_str": "1334423918887710721",
+		"full_text": "Taeyeon - 4th mini album 'What Do I Call You'\n\n✔ Pre-order start at APPLEMUSIC Global!\n👉 https://t.co/jaf56wBfeh\n\n#Taeyeon #태연 #What_Do_I_Call_You https://t.co/FodSikvQfo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Taeyeon",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						127,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jaf56wBfeh",
+					"expanded_url": "http://en.applemusic.co.kr/Product/Detail/view/pid/45136/cid/101",
+					"display_url": "en.applemusic.co.kr/Product/Detail…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334416879276884000,
+					"id_str": "1334416879276883969",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTNFOeVgAEokGl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTNFOeVgAEokGl.jpg",
+					"url": "https://t.co/FodSikvQfo",
+					"display_url": "pic.twitter.com/FodSikvQfo",
+					"expanded_url": "https://twitter.com/m_applemusic/status/1334416883542413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334416879276884000,
+					"id_str": "1334416879276883969",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EoTNFOeVgAEokGl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoTNFOeVgAEokGl.jpg",
+					"url": "https://t.co/FodSikvQfo",
+					"display_url": "pic.twitter.com/FodSikvQfo",
+					"expanded_url": "https://twitter.com/m_applemusic/status/1334416883542413313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780965243056889900,
+			"id_str": "780965243056889856",
+			"name": "애플뮤직 APPLE MUSIC",
+			"screen_name": "m_applemusic",
+			"location": "",
+			"description": "음반 쇼핑몰 애플뮤직 공식 트위터입니다. \nAppleMusic Official Twitter Account",
+			"url": "https://t.co/AeH35SPaBq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AeH35SPaBq",
+							"expanded_url": "http://applemusic.co.kr",
+							"display_url": "applemusic.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 982,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Wed Sep 28 02:59:58 +0000 2016",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1308267603505213440/fXSfN1kw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1308267603505213440/fXSfN1kw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780965243056889856/1600739641",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Taeyeon - 4th mini album 'What Do I Call You'\n\n✔ Pre-order start at APPLEMUSIC Global!\n👉 https://t.co/jaf56wBfeh\n\n#Taeyeon #태연 #What_Do_I_Call_You https://t.co/FodSikvQfo"
+	},
+	{
 		"created_at": "Thu Dec 03 08:07:09 +0000 2020",
 		"id": 1334395695881601000,
 		"id_str": "1334408818214785025",
