@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 04 05:07:09 +0000 2020",
+		"id": 1334725203377619000,
+		"id_str": "1334725909392347139",
+		"full_text": "#TAEYEON rilis schedule poster untuk perilisan album terbarunya, ‘What Do I Call You’.\n\nAlbum berisi 6 lagu ini rilis pada tanggal 15 Desember 2020!\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/cN22NzQ39y\n\n#What_Do_I_Call_You @GirlsGeneration https://t.co/YrgB6VNp6X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						240,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						260,
+						276
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cN22NzQ39y",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/728932784390405",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						215,
+						238
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334724806218924000,
+					"id_str": "1334724806218924032",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXlI7uUwAAFnxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXlI7uUwAAFnxM.jpg",
+					"url": "https://t.co/YrgB6VNp6X",
+					"display_url": "pic.twitter.com/YrgB6VNp6X",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1334725203377618946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1416,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334724806218924000,
+					"id_str": "1334724806218924032",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXlI7uUwAAFnxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXlI7uUwAAFnxM.jpg",
+					"url": "https://t.co/YrgB6VNp6X",
+					"display_url": "pic.twitter.com/YrgB6VNp6X",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1334725203377618946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1416,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323322,
+			"friends_count": 31,
+			"listed_count": 212,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 205,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#TAEYEON rilis schedule poster untuk perilisan album terbarunya, ‘What Do I Call You’.\n\nAlbum berisi 6 lagu ini rilis pada tanggal 15 Desember 2020!\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/cN22NzQ39y\n\n#What_Do_I_Call_You @GirlsGeneration https://t.co/YrgB6VNp6X"
+	},
+	{
 		"created_at": "Fri Dec 04 03:45:01 +0000 2020",
 		"id": 1334701640658473000,
 		"id_str": "1334705238318649350",
