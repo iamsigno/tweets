@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 03:07:13 +0000 2020",
+		"id": 1335056301458538500,
+		"id_str": "1335058113519607810",
+		"full_text": "#윤아 와 함께 올무에 걸려 고통 속에 죽어가는 반달곰을 위해 펀딩에 참여 해주세요!😢\n\n페트병에서 원사한 실로 만들어진 ‘쌤베어 담요’ 쌤베어의 친구곰인 반달가슴곰이 안전하게 살 수 있도록 돕는데 사용 됩니다.🐻\n\n펀딩 참여하기👇👇👇\nhttps://t.co/qSaDj0BbpC\n\n#SMTOWN https://t.co/sUCoVsrJHS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						157,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qSaDj0BbpC",
+					"expanded_url": "https://happybean.naver.com/crowdFunding/Intro/H000000175464",
+					"display_url": "happybean.naver.com/crowdFunding/I…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334730298894905300,
+					"id_str": "1334730298894905345",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXqIpiU8AE2N1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXqIpiU8AE2N1Q.jpg",
+					"url": "https://t.co/sUCoVsrJHS",
+					"display_url": "pic.twitter.com/sUCoVsrJHS",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1335056301458538500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1047,
+							"h": 1047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334730298894905300,
+					"id_str": "1334730298894905345",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/EoXqIpiU8AE2N1Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoXqIpiU8AE2N1Q.jpg",
+					"url": "https://t.co/sUCoVsrJHS",
+					"display_url": "pic.twitter.com/sUCoVsrJHS",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1335056301458538500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1047,
+							"h": 1047,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1047,
+							"h": 1047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8742454,
+			"friends_count": 53,
+			"listed_count": 8520,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 2163,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#윤아 와 함께 올무에 걸려 고통 속에 죽어가는 반달곰을 위해 펀딩에 참여 해주세요!😢\n\n페트병에서 원사한 실로 만들어진 ‘쌤베어 담요’ 쌤베어의 친구곰인 반달가슴곰이 안전하게 살 수 있도록 돕는데 사용 됩니다.🐻\n\n펀딩 참여하기👇👇👇\nhttps://t.co/qSaDj0BbpC\n\n#SMTOWN https://t.co/sUCoVsrJHS"
+	},
+	{
 		"created_at": "Sat Dec 05 01:07:09 +0000 2020",
 		"id": 1335026099802214400,
 		"id_str": "1335027898969960448",
