@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 03:44:56 +0000 2020",
+		"id": 1335060531699282000,
+		"id_str": "1335067608614367235",
+		"full_text": "'월드와이드프리티' 권유리의 온라인 생일파티에 초대해율♥\n\n👉🏻https://t.co/eTkEU07bgk\n\n#HappyYURIDay #201205 #유리 #YURI #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyYURIDay",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eTkEU07bgk",
+					"expanded_url": "http://naver.me/Ff4j3dUq",
+					"display_url": "naver.me/Ff4j3dUq",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3605861,
+			"friends_count": 4,
+			"listed_count": 5100,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 730,
+		"favorite_count": 2198,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'월드와이드프리티' 권유리의 온라인 생일파티에 초대해율♥\n\n👉🏻https://t.co/eTkEU07bgk\n\n#HappyYURIDay #201205 #유리 #YURI #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Sat Dec 05 03:07:13 +0000 2020",
 		"id": 1335056301458538500,
 		"id_str": "1335058113519607810",
