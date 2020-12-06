@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 13:44:57 +0000 2020",
+		"id": 1335568976709996500,
+		"id_str": "1335580992720007169",
+		"full_text": "See you again , MAMA https://t.co/cP1IG6MihQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cP1IG6MihQ",
+					"expanded_url": "https://twitter.com/mnetmama/status/1335539136476839940",
+					"display_url": "twitter.com/mnetmama/statu…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075285323016335400,
+			"id_str": "1075285323016335360",
+			"name": "sooyoung choi",
+			"screen_name": "sychoiofficial",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62768,
+			"friends_count": 4,
+			"listed_count": 227,
+			"created_at": "Wed Dec 19 07:02:53 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075285465853419521/TxH_pRQZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075285465853419521/TxH_pRQZ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335539136476840000,
+		"quoted_status_id_str": "1335539136476839940",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cP1IG6MihQ",
+			"expanded": "https://twitter.com/mnetmama/status/1335539136476839940",
+			"display": "twitter.com/mnetmama/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 06 10:58:37 +0000 2020",
+			"id": 1335539136476840000,
+			"id_str": "1335539136476839940",
+			"full_text": "[#2020MAMA_Stanbot] Say hello to #choisooyoung\n\n#2020MAMA X #Twitter #Stanbot #Mnet https://t.co/AYweSNVfNS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "2020MAMA_Stanbot",
+						"indices": [
+							1,
+							18
+						]
+					},
+					{
+						"text": "choisooyoung",
+						"indices": [
+							33,
+							46
+						]
+					},
+					{
+						"text": "2020MAMA",
+						"indices": [
+							48,
+							57
+						]
+					},
+					{
+						"text": "Twitter",
+						"indices": [
+							60,
+							68
+						]
+					},
+					{
+						"text": "Stanbot",
+						"indices": [
+							69,
+							77
+						]
+					},
+					{
+						"text": "Mnet",
+						"indices": [
+							78,
+							83
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1335538937952051200,
+						"id_str": "1335538937952051201",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1335538937952051201/img/m9ei7mXKgso06Exe.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1335538937952051201/img/m9ei7mXKgso06Exe.jpg",
+						"url": "https://t.co/AYweSNVfNS",
+						"display_url": "pic.twitter.com/AYweSNVfNS",
+						"expanded_url": "https://twitter.com/MnetMAMA/status/1335539136476839940/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1335538937952051200,
+						"id_str": "1335538937952051201",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1335538937952051201/img/m9ei7mXKgso06Exe.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1335538937952051201/img/m9ei7mXKgso06Exe.jpg",
+						"url": "https://t.co/AYweSNVfNS",
+						"display_url": "pic.twitter.com/AYweSNVfNS",
+						"expanded_url": "https://twitter.com/MnetMAMA/status/1335539136476839940/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 13013,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1335538937952051201/vid/480x270/FkLdiLcl6hE7y98c.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1335538937952051201/vid/640x360/HK3rZ9ExUsiY_yFY.mp4?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1335538937952051201/vid/1280x720/HMsCRV9Q6wYBhnwQ.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1335538937952051201/pl/lktVLzdkTx38k0ll.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 128487133,
+				"id_str": "128487133",
+				"name": "MAMA(엠넷아시안뮤직어워즈)",
+				"screen_name": "MnetMAMA",
+				"location": "Seoul, South Korea",
+				"description": "MAMA(Mnet Asian Music Awards) Official Twitter\n2020.12.06",
+				"url": "https://t.co/ksTHLqMRUV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ksTHLqMRUV",
+								"expanded_url": "http://2020mama.com",
+								"display_url": "2020mama.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2233518,
+				"friends_count": 105,
+				"listed_count": 1759,
+				"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 10434,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1602135439",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D4D4D4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5626,
+			"favorite_count": 15957,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3527,
+		"favorite_count": 7342,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See you again , MAMA https://t.co/cP1IG6MihQ"
+	},
+	{
 		"created_at": "Sun Dec 06 11:07:11 +0000 2020",
 		"id": 1335531638663483400,
 		"id_str": "1335541291044773890",
