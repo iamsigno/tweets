@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 06 11:07:11 +0000 2020",
+		"id": 1335531638663483400,
+		"id_str": "1335541291044773890",
+		"full_text": "[#2020MAMA_PhotoStage] #최수영 #choisooyoung\n\nStars who have shined this year have just arrived on 2020 MAMA!\n\n#2020MAMA #MAMA #Mnet https://t.co/4fgw9pDN4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020MAMA_PhotoStage",
+					"indices": [
+						1,
+						21
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "choisooyoung",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"text": "2020MAMA",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335531619986247700,
+					"id_str": "1335531619986247680",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EojC7rOVEAAh1EB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EojC7rOVEAAh1EB.jpg",
+					"url": "https://t.co/4fgw9pDN4c",
+					"display_url": "pic.twitter.com/4fgw9pDN4c",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1335531638663483392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335531619986247700,
+					"id_str": "1335531619986247680",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EojC7rOVEAAh1EB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EojC7rOVEAAh1EB.jpg",
+					"url": "https://t.co/4fgw9pDN4c",
+					"display_url": "pic.twitter.com/4fgw9pDN4c",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1335531638663483392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter\n2020.12.06",
+			"url": "https://t.co/ksTHLqMRUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ksTHLqMRUV",
+							"expanded_url": "http://2020mama.com",
+							"display_url": "2020mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2217633,
+			"friends_count": 105,
+			"listed_count": 1811,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10317,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1602135439",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2930,
+		"favorite_count": 10186,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2020MAMA_PhotoStage] #최수영 #choisooyoung\n\nStars who have shined this year have just arrived on 2020 MAMA!\n\n#2020MAMA #MAMA #Mnet https://t.co/4fgw9pDN4c"
+	},
+	{
 		"created_at": "Sat Dec 05 20:10:17 +0000 2020",
 		"id": 1334739212315340800,
 		"id_str": "1335315578257436672",
