@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 02:07:16 +0000 2020",
+		"id": 1335763778357457000,
+		"id_str": "1335767803442376706",
+		"full_text": "#태연, 새 미니앨범 타이틀 곡 ‘What Do I Call You’, 시크한 무드+그루비한 보컬 매력 예고!태연만의 감성 ‘기대UP’!\n\n#TAEYEON heralds a chic mood+groovy vocal charm with the title track of new mini album, 'What Do I Call You’!\nGathering much attention with TAEYEON’s unique sentiment! https://t.co/Kl45du9vCr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						78,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1335763770698653700,
+					"id_str": "1335763770698653697",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EomWEoBUYAEDZ9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EomWEoBUYAEDZ9T.jpg",
+					"url": "https://t.co/Kl45du9vCr",
+					"display_url": "pic.twitter.com/Kl45du9vCr",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1335763778357456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335763770698653700,
+					"id_str": "1335763770698653697",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EomWEoBUYAEDZ9T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EomWEoBUYAEDZ9T.jpg",
+					"url": "https://t.co/Kl45du9vCr",
+					"display_url": "pic.twitter.com/Kl45du9vCr",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1335763778357456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1335763770698653700,
+					"id_str": "1335763770698653696",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/EomWEoBUYAA1RUc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EomWEoBUYAA1RUc.jpg",
+					"url": "https://t.co/Kl45du9vCr",
+					"display_url": "pic.twitter.com/Kl45du9vCr",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1335763778357456897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3607132,
+			"friends_count": 4,
+			"listed_count": 5108,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1233,
+		"favorite_count": 2938,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#태연, 새 미니앨범 타이틀 곡 ‘What Do I Call You’, 시크한 무드+그루비한 보컬 매력 예고!태연만의 감성 ‘기대UP’!\n\n#TAEYEON heralds a chic mood+groovy vocal charm with the title track of new mini album, 'What Do I Call You’!\nGathering much attention with TAEYEON’s unique sentiment! https://t.co/Kl45du9vCr"
+	},
+	{
 		"created_at": "Sun Dec 06 15:45:09 +0000 2020",
 		"id": 1335600383691874300,
 		"id_str": "1335611242808041473",
