@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 08:07:09 +0000 2020",
+		"id": 1336207608877760500,
+		"id_str": "1336220757802831873",
+		"full_text": "YOONA akan memerankan Lee Ji-soo dalam drama JTBC 'Hush'. Apa aja sih yang sudah dipersiapkan YOONA?\n\ncek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/y2q1JQzs9n\n\n#YOONA #GirlsGeneration https://t.co/AYoCRnR3x8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						199,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y2q1JQzs9n",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/731592810791069",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336207456553238500,
+					"id_str": "1336207456553238529",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EospmioVgAE0Gg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EospmioVgAE0Gg_.jpg",
+					"url": "https://t.co/AYoCRnR3x8",
+					"display_url": "pic.twitter.com/AYoCRnR3x8",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1336207608877760514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336207456553238500,
+					"id_str": "1336207456553238529",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EospmioVgAE0Gg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EospmioVgAE0Gg_.jpg",
+					"url": "https://t.co/AYoCRnR3x8",
+					"display_url": "pic.twitter.com/AYoCRnR3x8",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1336207608877760514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336207456645464000,
+					"id_str": "1336207456645464064",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/Eospmi-UwAA0g1s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eospmi-UwAA0g1s.jpg",
+					"url": "https://t.co/AYoCRnR3x8",
+					"display_url": "pic.twitter.com/AYoCRnR3x8",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1336207608877760514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326462,
+			"friends_count": 31,
+			"listed_count": 214,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 51,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 894,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "YOONA akan memerankan Lee Ji-soo dalam drama JTBC 'Hush'. Apa aja sih yang sudah dipersiapkan YOONA?\n\ncek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/y2q1JQzs9n\n\n#YOONA #GirlsGeneration https://t.co/AYoCRnR3x8"
+	},
+	{
 		"created_at": "Tue Dec 08 03:44:57 +0000 2020",
 		"id": 1336146907115110400,
 		"id_str": "1336154772710313986",
