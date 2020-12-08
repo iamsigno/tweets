@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 13:38:44 +0000 2020",
+		"id": 1336158039636729900,
+		"id_str": "1336304205959610368",
+		"full_text": "권유리, 현우 주연 미니드라마 &lt;이별유예, 일주일&gt;이 TV 방영 전 CGV에서 단독 개봉합니다. 결혼을 앞두고 불의의 사고로 이승을 떠난 가람이 약혼자 선재를 살리기 위해 일주일 안에 그와 이별해야 하는 이야기. 이달 말 SBS 케이블 채널과 OTT 플랫폼에서 공개 예정입니다.\nhttps://t.co/tXFxZWI2r6 https://t.co/mzhBNtK5sf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tXFxZWI2r6",
+					"expanded_url": "https://www.yna.co.kr/view/AKR20201204051400005",
+					"display_url": "yna.co.kr/view/AKR202012…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336157645468704800,
+					"id_str": "1336157645468704768",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Eor8TJ4VoAAoGxR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eor8TJ4VoAAoGxR.jpg",
+					"url": "https://t.co/mzhBNtK5sf",
+					"display_url": "pic.twitter.com/mzhBNtK5sf",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1336158039636729860/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 502,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336157645468704800,
+					"id_str": "1336157645468704768",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/Eor8TJ4VoAAoGxR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eor8TJ4VoAAoGxR.jpg",
+					"url": "https://t.co/mzhBNtK5sf",
+					"display_url": "pic.twitter.com/mzhBNtK5sf",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1336158039636729860/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 502,
+							"h": 750,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17139,
+			"friends_count": 732,
+			"listed_count": 87,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권유리, 현우 주연 미니드라마 &lt;이별유예, 일주일&gt;이 TV 방영 전 CGV에서 단독 개봉합니다. 결혼을 앞두고 불의의 사고로 이승을 떠난 가람이 약혼자 선재를 살리기 위해 일주일 안에 그와 이별해야 하는 이야기. 이달 말 SBS 케이블 채널과 OTT 플랫폼에서 공개 예정입니다.\nhttps://t.co/tXFxZWI2r6 https://t.co/mzhBNtK5sf"
+	},
+	{
 		"created_at": "Tue Dec 08 09:07:10 +0000 2020",
 		"id": 1336234379073319000,
 		"id_str": "1336235862582063105",
