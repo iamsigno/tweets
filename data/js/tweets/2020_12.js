@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 03:07:09 +0000 2020",
+		"id": 1336143461922193400,
+		"id_str": "1336145260305584138",
+		"full_text": "&lt;Role Model Cover VS&gt; #롤모델커버VS 위클리 박소은 편 투표 결과🗳\n#위클리 #박소은 롤모델, '블랙핑크 리사' &amp; '태연' 커버곡 중 풀버전으로 보고싶은 곡은?\nhttps://t.co/SMNY72qZdM\n\n*추후 #Weeekly(@_Weeekly) 공식 유튜브 채널에서 'Lovesick Girls' 풀버전 커버영상이 공개됩니다! https://t.co/nvV3MWjAcq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤모델커버VS",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						54,
+						58
+					]
+				},
+				{
+					"text": "박소은",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "Weeekly",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Weeekly",
+					"name": "Weeekly (위클리)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SMNY72qZdM",
+					"expanded_url": "https://youtu.be/aPHY9gNQXpo",
+					"display_url": "youtu.be/aPHY9gNQXpo",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335847812504830000,
+					"id_str": "1335847812504829955",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EoniggJVQAM3zv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoniggJVQAM3zv2.jpg",
+					"url": "https://t.co/nvV3MWjAcq",
+					"display_url": "pic.twitter.com/nvV3MWjAcq",
+					"expanded_url": "https://twitter.com/1theK/status/1336143461922193409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335847812504830000,
+					"id_str": "1335847812504829955",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EoniggJVQAM3zv2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoniggJVQAM3zv2.jpg",
+					"url": "https://t.co/nvV3MWjAcq",
+					"display_url": "pic.twitter.com/nvV3MWjAcq",
+					"expanded_url": "https://twitter.com/1theK/status/1336143461922193409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakao-m.com",
+			"url": "https://t.co/98CRTk0YXk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/98CRTk0YXk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2146099,
+			"friends_count": 814,
+			"listed_count": 1835,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 15138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 22420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1607079654",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 333,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;Role Model Cover VS&gt; #롤모델커버VS 위클리 박소은 편 투표 결과🗳\n#위클리 #박소은 롤모델, '블랙핑크 리사' &amp; '태연' 커버곡 중 풀버전으로 보고싶은 곡은?\nhttps://t.co/SMNY72qZdM\n\n*추후 #Weeekly(@_Weeekly) 공식 유튜브 채널에서 'Lovesick Girls' 풀버전 커버영상이 공개됩니다! https://t.co/nvV3MWjAcq"
+	},
+	{
+		"created_at": "Tue Dec 08 02:17:42 +0000 2020",
+		"id": 1335897082310217700,
+		"id_str": "1336132819475578880",
+		"full_text": "#ELLE짤터뷰 #소녀시대 #권유리\n유리는 다 계획이 있구나..! 모두가 궁금했던 인물 태그를 이렇게 다는 진짜 이유, 9년째 ing! '폰유리' 짤 해명이 궁금하다면?🖤\n\n유리 유튜브보기📺https://t.co/y4WaTJPyoc\n유리 화보보기📸https://t.co/bRcUVvtPvy\n\n@GirlsGeneration https://t.co/3cWbzVXPW0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ELLE짤터뷰",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						9,
+						14
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						15,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						163,
+						179
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/y4WaTJPyoc",
+					"expanded_url": "https://bit.ly/2JxL90L",
+					"display_url": "bit.ly/2JxL90L",
+					"indices": [
+						106,
+						129
+					]
+				},
+				{
+					"url": "https://t.co/bRcUVvtPvy",
+					"expanded_url": "https://bit.ly/3opZlr6",
+					"display_url": "bit.ly/3opZlr6",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335895530505793500,
+					"id_str": "1335895530505793536",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335895530505793536/pu/img/xgFWF2f4vzi5MlvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335895530505793536/pu/img/xgFWF2f4vzi5MlvO.jpg",
+					"url": "https://t.co/3cWbzVXPW0",
+					"display_url": "pic.twitter.com/3cWbzVXPW0",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1335897082310217728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335895530505793500,
+					"id_str": "1335895530505793536",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335895530505793536/pu/img/xgFWF2f4vzi5MlvO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335895530505793536/pu/img/xgFWF2f4vzi5MlvO.jpg",
+					"url": "https://t.co/3cWbzVXPW0",
+					"display_url": "pic.twitter.com/3cWbzVXPW0",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1335897082310217728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 33897,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335895530505793536/pu/vid/480x270/Ehtb3IRhR7ITa20r.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1335895530505793536/pu/pl/eP61GXqznPfd3xjL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335895530505793536/pu/vid/640x360/iYAUac2UvoGGVaka.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 ELLE KOREA 공식 트위터 official twitter 입니다.",
+			"url": "https://t.co/wrg4l4aKRf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wrg4l4aKRf",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129863,
+			"friends_count": 3490,
+			"listed_count": 399,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1605268251",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#ELLE짤터뷰 #소녀시대 #권유리\n유리는 다 계획이 있구나..! 모두가 궁금했던 인물 태그를 이렇게 다는 진짜 이유, 9년째 ing! '폰유리' 짤 해명이 궁금하다면?🖤\n\n유리 유튜브보기📺https://t.co/y4WaTJPyoc\n유리 화보보기📸https://t.co/bRcUVvtPvy\n\n@GirlsGeneration https://t.co/3cWbzVXPW0"
+	},
+	{
 		"created_at": "Tue Dec 08 02:07:09 +0000 2020",
 		"id": 1336123982118994000,
 		"id_str": "1336130160471515136",
