@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 02:44:57 +0000 2020",
+		"id": 1336497898603745300,
+		"id_str": "1336502062243262464",
+		"full_text": "‘이별유예, 일주일’ 권유리, 연애의 모든 감정 담았다 ‘기대 만발’\n\n👉🏻https://t.co/YyEPFXGjNH\n\n#권유리 #KWONYURI #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/vNnKfmaW0z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "이별유예일주일",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YyEPFXGjNH",
+					"expanded_url": "http://naver.me/x25UtkpB",
+					"display_url": "naver.me/x25UtkpB",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336497892362604500,
+					"id_str": "1336497892362604545",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EowxwIVU0AEM5b4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EowxwIVU0AEM5b4.jpg",
+					"url": "https://t.co/vNnKfmaW0z",
+					"display_url": "pic.twitter.com/vNnKfmaW0z",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1336497898603745280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1067,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336497892362604500,
+					"id_str": "1336497892362604545",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EowxwIVU0AEM5b4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EowxwIVU0AEM5b4.jpg",
+					"url": "https://t.co/vNnKfmaW0z",
+					"display_url": "pic.twitter.com/vNnKfmaW0z",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1336497898603745280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 604,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1067,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336497892362604500,
+					"id_str": "1336497892362604544",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EowxwIVU0AA_33x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EowxwIVU0AA_33x.jpg",
+					"url": "https://t.co/vNnKfmaW0z",
+					"display_url": "pic.twitter.com/vNnKfmaW0z",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1336497898603745280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 455,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1370,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3608917,
+			"friends_count": 4,
+			"listed_count": 5125,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 630,
+		"favorite_count": 2698,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘이별유예, 일주일’ 권유리, 연애의 모든 감정 담았다 ‘기대 만발’\n\n👉🏻https://t.co/YyEPFXGjNH\n\n#권유리 #KWONYURI #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/vNnKfmaW0z"
+	},
+	{
 		"created_at": "Wed Dec 09 02:07:22 +0000 2020",
 		"id": 1336487750682349600,
 		"id_str": "1336492604293345281",
