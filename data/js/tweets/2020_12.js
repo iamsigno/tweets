@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 11:07:09 +0000 2020",
+		"id": 1336620071288852500,
+		"id_str": "1336628444940169216",
+		"full_text": "[#VLIVE] 잠시후 9시 5분‼️ VLIVE에서 &lt;런 온: 워밍업&gt;이 시작됩니다💗 런 온을 신나게 달리기 전! 관전 포인트부터 비하인드 스토리까지☺️ 다양한 코너들이 여러분을 기다리고 있으니❣️ 알림 설정 눌러두고🔔 함께 워밍업 해요🏃\n\n▶️ https://t.co/JvEcqAATEC\n\n#런온 #임시완 #신세경 #최수영 #강태오",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						173,
+						177
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "강태오",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JvEcqAATEC",
+					"expanded_url": "https://www.vlive.tv/post/0-20291746",
+					"display_url": "vlive.tv/post/0-20291746",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4961960,
+			"friends_count": 167,
+			"listed_count": 1829,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 783,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VLIVE] 잠시후 9시 5분‼️ VLIVE에서 &lt;런 온: 워밍업&gt;이 시작됩니다💗 런 온을 신나게 달리기 전! 관전 포인트부터 비하인드 스토리까지☺️ 다양한 코너들이 여러분을 기다리고 있으니❣️ 알림 설정 눌러두고🔔 함께 워밍업 해요🏃\n\n▶️ https://t.co/JvEcqAATEC\n\n#런온 #임시완 #신세경 #최수영 #강태오"
+	},
+	{
 		"created_at": "Wed Dec 09 02:44:57 +0000 2020",
 		"id": 1336497898603745300,
 		"id_str": "1336502062243262464",
