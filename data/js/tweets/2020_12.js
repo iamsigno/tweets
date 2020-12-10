@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 10 09:07:09 +0000 2020",
+		"id": 1336957861985804300,
+		"id_str": "1336960633124888578",
+		"full_text": "TAEYEON Tunjukkan Vokal Lembut di Album Barunya dengan Lagu ‘Playlist’.\n\n💿 15.12.2020 16.00 WIB\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/uM9eoaxUsx\n\n#TAEYEON #What_Do_I_Call_You #GirlsGeneration @GirlsGeneration https://t.co/oZutXzjMlA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						196,
+						215
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						233,
+						249
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uM9eoaxUsx",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/732960040654346",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1336957750295728000,
+					"id_str": "1336957750295728128",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3T_YoVEAANu7f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3T_YoVEAANu7f.jpg",
+					"url": "https://t.co/oZutXzjMlA",
+					"display_url": "pic.twitter.com/oZutXzjMlA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1336957861985804288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336957750295728000,
+					"id_str": "1336957750295728128",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3T_YoVEAANu7f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3T_YoVEAANu7f.jpg",
+					"url": "https://t.co/oZutXzjMlA",
+					"display_url": "pic.twitter.com/oZutXzjMlA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1336957861985804288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1336957750543192000,
+					"id_str": "1336957750543192064",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo3T_ZjVEAASnMi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo3T_ZjVEAASnMi.jpg",
+					"url": "https://t.co/oZutXzjMlA",
+					"display_url": "pic.twitter.com/oZutXzjMlA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1336957861985804288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 327768,
+			"friends_count": 31,
+			"listed_count": 214,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 376,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Tunjukkan Vokal Lembut di Album Barunya dengan Lagu ‘Playlist’.\n\n💿 15.12.2020 16.00 WIB\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/uM9eoaxUsx\n\n#TAEYEON #What_Do_I_Call_You #GirlsGeneration @GirlsGeneration https://t.co/oZutXzjMlA"
+	},
+	{
 		"created_at": "Thu Dec 10 03:07:09 +0000 2020",
 		"id": 1336868239813427200,
 		"id_str": "1336870036494036994",
