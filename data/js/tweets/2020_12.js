@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 04:07:09 +0000 2020",
+		"id": 1337245046161043500,
+		"id_str": "1337247523199725569",
+		"full_text": "[#NEWS] '런온' 신세경X임시완X최수영X강태오, 4色 열정의 온도..16일 첫 방송\n▶ https://t.co/gASsdKFxL9\n(사진제공=메이스 엔터테인먼트, 콘텐츠 지음)\n\n#신세경 #런온 #SHINSAEKYEONG #SHINSEKYUNG #RunOn https://t.co/zwTV9z074c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "SHINSAEKYEONG",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"text": "SHINSEKYUNG",
+					"indices": [
+						127,
+						139
+					]
+				},
+				{
+					"text": "RunOn",
+					"indices": [
+						140,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gASsdKFxL9",
+					"expanded_url": "http://naver.me/59Aw37RG",
+					"display_url": "naver.me/59Aw37RG",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1337245036493168600,
+					"id_str": "1337245036493168640",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7ZRpHUYAAqRCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7ZRpHUYAAqRCe.jpg",
+					"url": "https://t.co/zwTV9z074c",
+					"display_url": "pic.twitter.com/zwTV9z074c",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1337245046161043456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337245036493168600,
+					"id_str": "1337245036493168640",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7ZRpHUYAAqRCe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7ZRpHUYAAqRCe.jpg",
+					"url": "https://t.co/zwTV9z074c",
+					"display_url": "pic.twitter.com/zwTV9z074c",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1337245046161043456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1337245036505809000,
+					"id_str": "1337245036505808899",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eo7ZRpKVQAMVToq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eo7ZRpKVQAMVToq.jpg",
+					"url": "https://t.co/zwTV9z074c",
+					"display_url": "pic.twitter.com/zwTV9z074c",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1337245046161043456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33402,
+			"friends_count": 12,
+			"listed_count": 191,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13339,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '런온' 신세경X임시완X최수영X강태오, 4色 열정의 온도..16일 첫 방송\n▶ https://t.co/gASsdKFxL9\n(사진제공=메이스 엔터테인먼트, 콘텐츠 지음)\n\n#신세경 #런온 #SHINSAEKYEONG #SHINSEKYUNG #RunOn https://t.co/zwTV9z074c"
+	},
+	{
 		"created_at": "Fri Dec 11 03:07:09 +0000 2020",
 		"id": 1337230625460273200,
 		"id_str": "1337232425588563968",
