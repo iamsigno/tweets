@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 13 12:07:09 +0000 2020",
+		"id": 1338084066315255800,
+		"id_str": "1338093094894514178",
+		"full_text": "✍ #사각사각 | IZ*ONE\nㄴ 🎥: https://t.co/mkx5U0gwyV\n\n사각사각 잘 보셨나요? 👀\n위즈원을 위해 (NG 포함된) 비하인드 컷도 풀어봅니다🤸💨\n \n(2/3)\n#나코 #사쿠라 #유리 #유진\n@official_izone #IZONE #아이즈원 #アイズワン #PANORAMA #손글씨 https://t.co/CTrWF44BuJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "사각사각",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "나코",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "사쿠라",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "유진",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "IZONE",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"text": "아이즈원",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "アイズワン",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "PANORAMA",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "손글씨",
+					"indices": [
+						166,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_izone",
+					"name": "official_IZONE",
+					"id": 1034744720537219100,
+					"id_str": "1034744720537219073",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mkx5U0gwyV",
+					"expanded_url": "https://youtu.be/qKVQLmM11FE",
+					"display_url": "youtu.be/qKVQLmM11FE",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338084058245427200,
+					"id_str": "1338084058245427202",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpHUXItU8AIip_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpHUXItU8AIip_t.jpg",
+					"url": "https://t.co/CTrWF44BuJ",
+					"display_url": "pic.twitter.com/CTrWF44BuJ",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1338084066315255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338084058245427200,
+					"id_str": "1338084058245427202",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpHUXItU8AIip_t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpHUXItU8AIip_t.jpg",
+					"url": "https://t.co/CTrWF44BuJ",
+					"display_url": "pic.twitter.com/CTrWF44BuJ",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1338084066315255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338084058249658400,
+					"id_str": "1338084058249658368",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpHUXIuVgAA1fgx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpHUXIuVgAA1fgx.jpg",
+					"url": "https://t.co/CTrWF44BuJ",
+					"display_url": "pic.twitter.com/CTrWF44BuJ",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1338084066315255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338084058245415000,
+					"id_str": "1338084058245414912",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpHUXItUwAAOxgi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpHUXItUwAAOxgi.jpg",
+					"url": "https://t.co/CTrWF44BuJ",
+					"display_url": "pic.twitter.com/CTrWF44BuJ",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1338084066315255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1338084058253824000,
+					"id_str": "1338084058253824001",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/EpHUXIvVEAEAjZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpHUXIvVEAEAjZE.jpg",
+					"url": "https://t.co/CTrWF44BuJ",
+					"display_url": "pic.twitter.com/CTrWF44BuJ",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1338084066315255808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "KPop을 더 즐겁게! PLAY YOUR MUSIC🎶",
+			"url": "https://t.co/npNrfLZtFs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/npNrfLZtFs",
+							"expanded_url": "https://www.youtube.com/channel/UC9LcN9O8amxNcfu0fwGqwgQ",
+							"display_url": "youtube.com/channel/UC9LcN…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19004,
+			"friends_count": 60,
+			"listed_count": 38,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 379,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292724256703307781/OSzcTof9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1597044457",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 770,
+		"favorite_count": 2444,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✍ #사각사각 | IZ*ONE\nㄴ 🎥: https://t.co/mkx5U0gwyV\n\n사각사각 잘 보셨나요? 👀\n위즈원을 위해 (NG 포함된) 비하인드 컷도 풀어봅니다🤸💨\n \n(2/3)\n#나코 #사쿠라 #유리 #유진\n@official_izone #IZONE #아이즈원 #アイズワン #PANORAMA #손글씨 https://t.co/CTrWF44BuJ"
+	},
+	{
 		"created_at": "Sun Dec 13 04:00:40 +0000 2020",
 		"id": 1337321225601900500,
 		"id_str": "1337970668093095940",
@@ -1723,7 +2097,7 @@ Grailbird.data.tweets_2020_12 =
 						]
 					},
 					"additional_media_info": {
-						"title": "[런 온_워밍업] 예고💕 런 온 배우들의 소통 능력치는?! 〈런 온〉의 모든 것!🏃🏻‍ 12/9(수) 밤 9시!",
+						"title": "[런 온_워밍업] 예고💕 런 온 배우들의 소통 능력치는?! 〈런 온〉의 모든 것!🏃🏻 12/9(수) 밤 9시!",
 						"description": "",
 						"call_to_actions": {
 							"visit_site": {
