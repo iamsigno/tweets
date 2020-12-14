@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 06:07:19 +0000 2020",
+		"id": 1338356824345432000,
+		"id_str": "1338364929993224192",
+		"full_text": "[VLIVE] ❄️This week's special VLIVE❄️\n\nIf you don't want to miss it, schedule broadcast alerts in advance✨\n\n#Kim_Sung_Kyu #TAEYEON #VLIVE https://t.co/ZGZFPFxakU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Kim_Sung_Kyu",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						131,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338356651003265000,
+					"id_str": "1338356651003265024",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLMSH3UwAA6CPa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpLMSH3UwAA6CPa.png",
+					"url": "https://t.co/ZGZFPFxakU",
+					"display_url": "pic.twitter.com/ZGZFPFxakU",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1338356824345432069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338356651003265000,
+					"id_str": "1338356651003265024",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/EpLMSH3UwAA6CPa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EpLMSH3UwAA6CPa.png",
+					"url": "https://t.co/ZGZFPFxakU",
+					"display_url": "pic.twitter.com/ZGZFPFxakU",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1338356824345432069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1338356819001888800,
+		"in_reply_to_status_id_str": "1338356819001888768",
+		"in_reply_to_user_id": 1459223742,
+		"in_reply_to_user_id_str": "1459223742",
+		"in_reply_to_screen_name": "Vliveofficial",
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4967260,
+			"friends_count": 167,
+			"listed_count": 1835,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[VLIVE] ❄️This week's special VLIVE❄️\n\nIf you don't want to miss it, schedule broadcast alerts in advance✨\n\n#Kim_Sung_Kyu #TAEYEON #VLIVE https://t.co/ZGZFPFxakU"
+	},
+	{
 		"created_at": "Sun Dec 13 15:07:08 +0000 2020",
 		"id": 1338136600488788000,
 		"id_str": "1338138393071456257",
