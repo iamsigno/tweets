@@ -1,6 +1,760 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 11:07:29 +0000 2020",
+		"id": 1338802350861906000,
+		"id_str": "1338802856611213312",
+		"full_text": "テヨン 4th Mini Album「What Do I Call You」のデジタル配信がスタートしました🎵\nテヨンから皆さんへのメッセージも届きました❣ぜひ沢山聴いてください🎧\n#テヨン #TAEYEON #태연 #WhatDoICallYouNow \n\n🎧https://t.co/fwT2gVP65Z https://t.co/rujmB0K2C8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "WhatDoICallYouNow",
+					"indices": [
+						109,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fwT2gVP65Z",
+					"expanded_url": "https://lnk.to/tywdicy",
+					"display_url": "lnk.to/tywdicy",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338802303336214500,
+					"id_str": "1338802303336214531",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338802303336214531/pu/img/9cFlTGkcSXbFpKm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338802303336214531/pu/img/9cFlTGkcSXbFpKm2.jpg",
+					"url": "https://t.co/rujmB0K2C8",
+					"display_url": "pic.twitter.com/rujmB0K2C8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1338802350861905920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338802303336214500,
+					"id_str": "1338802303336214531",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338802303336214531/pu/img/9cFlTGkcSXbFpKm2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338802303336214531/pu/img/9cFlTGkcSXbFpKm2.jpg",
+					"url": "https://t.co/rujmB0K2C8",
+					"display_url": "pic.twitter.com/rujmB0K2C8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1338802350861905920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26560,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1338802303336214531/pu/pl/M6Cvcl89HJrnJtvp.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338802303336214531/pu/vid/1280x720/dfePr_Xa1-AbW5V4.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338802303336214531/pu/vid/480x270/bZmmeZK5MFW4TJ7N.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338802303336214531/pu/vid/640x360/zE-xAVjA4k9af6nC.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105750,
+			"friends_count": 0,
+			"listed_count": 487,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 231,
+		"favorite_count": 323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン 4th Mini Album「What Do I Call You」のデジタル配信がスタートしました🎵\nテヨンから皆さんへのメッセージも届きました❣ぜひ沢山聴いてください🎧\n#テヨン #TAEYEON #태연 #WhatDoICallYouNow \n\n🎧https://t.co/fwT2gVP65Z https://t.co/rujmB0K2C8"
+	},
+	{
+		"created_at": "Tue Dec 15 11:07:20 +0000 2020",
+		"id": 1338773903326384000,
+		"id_str": "1338802818338185216",
+		"full_text": "🌟SMing🌟스밍에 탱구왔태연‼️\n솔로앨범 What Do I Call You 로 돌아온 태연!\n믿.듣.탱 탱구가 직접 들려주는 이번 앨범의 코멘터리 ✍🏻\n\n🔗멜론 스테이션에서 함께 들어요😍\nhttps://t.co/XF6wp8AlGs\n\n#멜론 #스테이션 #Melon #SMing #태연 #taeyeon https://t.co/m0S1eVTuam",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "SMing",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XF6wp8AlGs",
+					"expanded_url": "http://kko.to/mVCF8X2D0",
+					"display_url": "kko.to/mVCF8X2D0",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338773315800891400,
+					"id_str": "1338773315800891394",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EpRHPNMVgAI-Kut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpRHPNMVgAI-Kut.jpg",
+					"url": "https://t.co/m0S1eVTuam",
+					"display_url": "pic.twitter.com/m0S1eVTuam",
+					"expanded_url": "https://twitter.com/melon/status/1338773903326384129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338773315800891400,
+					"id_str": "1338773315800891394",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EpRHPNMVgAI-Kut.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpRHPNMVgAI-Kut.jpg",
+					"url": "https://t.co/m0S1eVTuam",
+					"display_url": "pic.twitter.com/m0S1eVTuam",
+					"expanded_url": "https://twitter.com/melon/status/1338773903326384129/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102892,
+			"friends_count": 43,
+			"listed_count": 604,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 635,
+		"favorite_count": 1480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌟SMing🌟스밍에 탱구왔태연‼️\n솔로앨범 What Do I Call You 로 돌아온 태연!\n믿.듣.탱 탱구가 직접 들려주는 이번 앨범의 코멘터리 ✍🏻\n\n🔗멜론 스테이션에서 함께 들어요😍\nhttps://t.co/XF6wp8AlGs\n\n#멜론 #스테이션 #Melon #SMing #태연 #taeyeon https://t.co/m0S1eVTuam"
+	},
+	{
+		"created_at": "Tue Dec 15 11:07:09 +0000 2020",
+		"id": 1338788398090211300,
+		"id_str": "1338802773144592388",
+		"full_text": "Hai SONE! Silakan klik link di bawah ini untuk dengerin mini album terbaru TAEYEON di streaming platform pilihan kamu yaa!\n\nGimana, udah nemu lagu yang bakal jadi anthem bulan Desember kamu? 😉💕\n\n#TAEYEON #What_Do_I_Call_You #GirlsGeneration https://t.co/9U2ii5IAiq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						195,
+						203
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						204,
+						223
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						224,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9U2ii5IAiq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1338774134474477576",
+					"display_url": "twitter.com/GirlsGeneratio…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330867,
+			"friends_count": 33,
+			"listed_count": 219,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338774134474477600,
+		"quoted_status_id_str": "1338774134474477576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9U2ii5IAiq",
+			"expanded": "https://twitter.com/GirlsGeneration/status/1338774134474477576",
+			"display": "twitter.com/GirlsGeneratio…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 09:13:21 +0000 2020",
+			"id": 1338774134474477600,
+			"id_str": "1338774134474477576",
+			"full_text": "TAEYEON 태연 - ‘What Do I Call You’\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/eKZOBRbDgX\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TAEYEON",
+						"indices": [
+							100,
+							108
+						]
+					},
+					{
+						"text": "태연",
+						"indices": [
+							109,
+							112
+						]
+					},
+					{
+						"text": "What_Do_I_Call_You",
+						"indices": [
+							113,
+							132
+						]
+					},
+					{
+						"text": "소녀시대",
+						"indices": [
+							133,
+							138
+						]
+					},
+					{
+						"text": "GirlsGeneration",
+						"indices": [
+							139,
+							155
+						]
+					},
+					{
+						"text": "이럴때엔_탱구노래가_역시적당할까",
+						"indices": [
+							156,
+							174
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eKZOBRbDgX",
+						"expanded_url": "https://smarturl.it/TY_WDICY",
+						"display_url": "smarturl.it/TY_WDICY",
+						"indices": [
+							75,
+							98
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391115625,
+				"id_str": "391115625",
+				"name": "Girls' Generation",
+				"screen_name": "GirlsGeneration",
+				"location": "",
+				"description": "No.1 girl group, Girls’ Generation!",
+				"url": "http://t.co/6dDRF9Jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6dDRF9Jo",
+								"expanded_url": "http://girlsgeneration.smtown.com/",
+								"display_url": "girlsgeneration.smtown.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3613083,
+				"friends_count": 4,
+				"listed_count": 5142,
+				"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+				"favourites_count": 51,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2270,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C171E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2343,
+			"favorite_count": 4942,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 25,
+		"favorite_count": 400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Hai SONE! Silakan klik link di bawah ini untuk dengerin mini album terbaru TAEYEON di streaming platform pilihan kamu yaa!\n\nGimana, udah nemu lagu yang bakal jadi anthem bulan Desember kamu? 😉💕\n\n#TAEYEON #What_Do_I_Call_You #GirlsGeneration https://t.co/9U2ii5IAiq"
+	},
+	{
 		"created_at": "Tue Dec 15 10:07:47 +0000 2020",
 		"id": 1338783339403116500,
 		"id_str": "1338787833629315073",
