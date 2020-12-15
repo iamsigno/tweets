@@ -1,6 +1,653 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 10:07:47 +0000 2020",
+		"id": 1338783339403116500,
+		"id_str": "1338787833629315073",
+		"full_text": "💗ฉลองการกลับมาส่งท้ายปี 2020 ของโวคอล ควีน #TAEYEON ในมินิอัลบั้มล่าสุด🥳\n\n#SMTrue ขอมอบกิจกรรมพิเศษ #What_Do_I_Call_You_MVeventwithThaifans ให้กับแฟนชาวไทย\n\n🎁 มินิอัลบั้มชุดที่ 4 ‘What Do I Call You’ พร้อมลายเซ็น TAEYEON รวม 3 รางวัล(1 รางวัล : 1 ท่าน)\n\nhttps://t.co/aGMACBlFB5 https://t.co/9m5f5UfWEE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"text": "SMTrue",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You_MVeventwithThaifans",
+					"indices": [
+						100,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aGMACBlFB5",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3602630256451563",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338782308728414200,
+					"id_str": "1338782308728414208",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338782308728414208/pu/img/cXv0US28G6t2fdJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338782308728414208/pu/img/cXv0US28G6t2fdJH.jpg",
+					"url": "https://t.co/9m5f5UfWEE",
+					"display_url": "pic.twitter.com/9m5f5UfWEE",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1338783339403116544/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338782308728414200,
+					"id_str": "1338782308728414208",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338782308728414208/pu/img/cXv0US28G6t2fdJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338782308728414208/pu/img/cXv0US28G6t2fdJH.jpg",
+					"url": "https://t.co/9m5f5UfWEE",
+					"display_url": "pic.twitter.com/9m5f5UfWEE",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1338783339403116544/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49716,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338782308728414208/pu/vid/640x360/xDFuDmyO6CecYhfG.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338782308728414208/pu/vid/1280x720/2VwgIIyh52wSswyp.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1338782308728414208/pu/vid/480x270/W92qYhLOpue8y9f5.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1338782308728414208/pu/pl/XZYdCiOT4wyiuLqj.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82417,
+			"friends_count": 48,
+			"listed_count": 147,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 309,
+		"favorite_count": 273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💗ฉลองการกลับมาส่งท้ายปี 2020 ของโวคอล ควีน #TAEYEON ในมินิอัลบั้มล่าสุด🥳\n\n#SMTrue ขอมอบกิจกรรมพิเศษ #What_Do_I_Call_You_MVeventwithThaifans ให้กับแฟนชาวไทย\n\n🎁 มินิอัลบั้มชุดที่ 4 ‘What Do I Call You’ พร้อมลายเซ็น TAEYEON รวม 3 รางวัล(1 รางวัล : 1 ท่าน)\n\nhttps://t.co/aGMACBlFB5 https://t.co/9m5f5UfWEE"
+	},
+	{
+		"created_at": "Tue Dec 15 09:45:21 +0000 2020",
+		"id": 1338778678675685400,
+		"id_str": "1338782186858811392",
+		"full_text": "#TAEYEON ’s [#What_Do_I_Call_You] iTunes Booklet out now!\n \nGet your Digital Booklet with TAEYEON’s unrevealed photos and special hand-written interview (SUB EN&amp;JP)!\n \n☑Download Link:https://t.co/9Kq0kQ2j0M\n \n#태연 #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/NrAIVnVp5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						13,
+						32
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						213,
+						216
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						217,
+						222
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						223,
+						239
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						240,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9Kq0kQ2j0M",
+					"expanded_url": "https://smarturl.it/TY_WDICY/itunesalbum",
+					"display_url": "smarturl.it/TY_WDICY/itune…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338774653251145700,
+					"id_str": "1338774653251145728",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1338774653251145728/img/-QuVLOaLRZESt7R1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1338774653251145728/img/-QuVLOaLRZESt7R1.jpg",
+					"url": "https://t.co/NrAIVnVp5R",
+					"display_url": "pic.twitter.com/NrAIVnVp5R",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1338778678675685376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338774653251145700,
+					"id_str": "1338774653251145728",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1338774653251145728/img/-QuVLOaLRZESt7R1.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1338774653251145728/img/-QuVLOaLRZESt7R1.jpg",
+					"url": "https://t.co/NrAIVnVp5R",
+					"display_url": "pic.twitter.com/NrAIVnVp5R",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1338778678675685376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15224,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1338774653251145728/vid/480x270/YYsKG9mzWekrZMGf.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1338774653251145728/vid/640x360/aQGD2E777vY-ajqx.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1338774653251145728/vid/1280x720/70l9Hm18lI2seJEZ.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1338774653251145728/pl/4eAxg6A0dxbcmGrE.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3612897,
+			"friends_count": 4,
+			"listed_count": 5142,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1595,
+		"favorite_count": 3538,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAEYEON ’s [#What_Do_I_Call_You] iTunes Booklet out now!\n \nGet your Digital Booklet with TAEYEON’s unrevealed photos and special hand-written interview (SUB EN&amp;JP)!\n \n☑Download Link:https://t.co/9Kq0kQ2j0M\n \n#태연 #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/NrAIVnVp5R"
+	},
+	{
+		"created_at": "Tue Dec 15 09:45:15 +0000 2020",
+		"id": 1338774134474477600,
+		"id_str": "1338782161109979138",
+		"full_text": "TAEYEON 태연 - ‘What Do I Call You’\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/eKZOBRbDgX\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						113,
+						132
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						156,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eKZOBRbDgX",
+					"expanded_url": "https://smarturl.it/TY_WDICY",
+					"display_url": "smarturl.it/TY_WDICY",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3612897,
+			"friends_count": 4,
+			"listed_count": 5142,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1959,
+		"favorite_count": 3857,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 - ‘What Do I Call You’\n\n🎧Listen now on your favorite platform\n👉🏻https://t.co/eKZOBRbDgX\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까"
+	},
+	{
 		"created_at": "Tue Dec 15 09:07:19 +0000 2020",
 		"id": 1338771297497620500,
 		"id_str": "1338772615796846592",
