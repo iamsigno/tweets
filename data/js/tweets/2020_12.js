@@ -1,6 +1,182 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 09:07:19 +0000 2020",
+		"id": 1338771297497620500,
+		"id_str": "1338772615796846592",
+		"full_text": "#TAEYEON #태연 The 4th mini Album [What Do I Call You] \n\n🎧Melon: https://t.co/HEXqkfGGOB \n🎧FLO: https://t.co/YTyw1BcE7A \n🎧genie: https://t.co/Oce7zu43NC \n🎧NAVER VIBE: https://t.co/j7fRHAgYmF \n\n#What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						191,
+						210
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						211,
+						216
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						217,
+						233
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						234,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HEXqkfGGOB",
+					"expanded_url": "https://www.melon.com/album/detail.htm?albumId=10534079",
+					"display_url": "melon.com/album/detail.h…",
+					"indices": [
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/YTyw1BcE7A",
+					"expanded_url": "https://www.music-flo.com/detail/album/edlllzono/albumtrack",
+					"display_url": "music-flo.com/detail/album/e…",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/Oce7zu43NC",
+					"expanded_url": "https://www.genie.co.kr/detail/albumInfo?axnm=81787782",
+					"display_url": "genie.co.kr/detail/albumIn…",
+					"indices": [
+						127,
+						150
+					]
+				},
+				{
+					"url": "https://t.co/j7fRHAgYmF",
+					"expanded_url": "https://vibe.naver.com/album/5157193",
+					"display_url": "vibe.naver.com/album/5157193",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3612665,
+			"friends_count": 4,
+			"listed_count": 5143,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 50,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1124,
+		"favorite_count": 1464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TAEYEON #태연 The 4th mini Album [What Do I Call You] \n\n🎧Melon: https://t.co/HEXqkfGGOB \n🎧FLO: https://t.co/YTyw1BcE7A \n🎧genie: https://t.co/Oce7zu43NC \n🎧NAVER VIBE: https://t.co/j7fRHAgYmF \n\n#What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까"
+	},
+	{
 		"created_at": "Tue Dec 15 08:07:13 +0000 2020",
 		"id": 1338756360868020200,
 		"id_str": "1338757490931097603",
