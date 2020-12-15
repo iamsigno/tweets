@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 08:07:13 +0000 2020",
+		"id": 1338756360868020200,
+		"id_str": "1338757490931097603",
+		"full_text": "SONE! Ayo kumpul karena TAEYEON akan memperkenalkan albumnya sebelum rilis!\n\n📺https://t.co/K73jwLhxNY\n\n#What_Do_I_Call_You #TAEYEON #GirlsGeneration https://t.co/2Cy1LtBE8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						103,
+						122
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						132,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K73jwLhxNY",
+					"expanded_url": "https://www.vlive.tv/video/227269",
+					"display_url": "vlive.tv/video/227269",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/2Cy1LtBE8x",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1338730291423154176",
+					"display_url": "twitter.com/GirlsGeneratio…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330774,
+			"friends_count": 33,
+			"listed_count": 220,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338730291423154200,
+		"quoted_status_id_str": "1338730291423154176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2Cy1LtBE8x",
+			"expanded": "https://twitter.com/GirlsGeneration/status/1338730291423154176",
+			"display": "twitter.com/GirlsGeneratio…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 06:19:08 +0000 2020",
+			"id": 1338730291423154200,
+			"id_str": "1338730291423154176",
+			"full_text": "“#TAEYEON, ‘What Do I Call You’?🐼”가 잠시 후 오후 5시부터 V LIVE SMTOWN 채널에서 방송됩니다!\nS♡NE에게만 새 앨범 미리 보여주고 들려주는 태연과 함께, 따뜻하고 ‘Happy’한 시간 함께해요!🌼🌻\n \n🔴 https://t.co/y6QykdK88K\n\n#태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TAEYEON",
+						"indices": [
+							1,
+							9
+						]
+					},
+					{
+						"text": "태연",
+						"indices": [
+							163,
+							166
+						]
+					},
+					{
+						"text": "What_Do_I_Call_You",
+						"indices": [
+							167,
+							186
+						]
+					},
+					{
+						"text": "소녀시대",
+						"indices": [
+							187,
+							192
+						]
+					},
+					{
+						"text": "GirlsGeneration",
+						"indices": [
+							193,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/y6QykdK88K",
+						"expanded_url": "https://www.vlive.tv/video/227269",
+						"display_url": "vlive.tv/video/227269",
+						"indices": [
+							138,
+							161
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391115625,
+				"id_str": "391115625",
+				"name": "Girls' Generation",
+				"screen_name": "GirlsGeneration",
+				"location": "",
+				"description": "No.1 girl group, Girls’ Generation!",
+				"url": "http://t.co/6dDRF9Jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6dDRF9Jo",
+								"expanded_url": "http://girlsgeneration.smtown.com/",
+								"display_url": "girlsgeneration.smtown.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3612605,
+				"friends_count": 4,
+				"listed_count": 5141,
+				"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+				"favourites_count": 50,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2263,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C171E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1383,
+			"favorite_count": 3240,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 11,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "SONE! Ayo kumpul karena TAEYEON akan memperkenalkan albumnya sebelum rilis!\n\n📺https://t.co/K73jwLhxNY\n\n#What_Do_I_Call_You #TAEYEON #GirlsGeneration https://t.co/2Cy1LtBE8x"
+	},
+	{
 		"created_at": "Tue Dec 15 07:07:25 +0000 2020",
 		"id": 1338740577102418000,
 		"id_str": "1338742440421961730",
