@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 07:07:25 +0000 2020",
+		"id": 1338740577102418000,
+		"id_str": "1338742440421961730",
+		"full_text": "[주간아.zip] ☆믿듣탱☆ 우리 탱구 컴백 맞이 예능 모음.zip\n\n개인기 봉이이인↗↗해제! 탱라포바부터 탱구 생애(?) 마지막 애교❓🤣\n멤부심 퍽_팔♡ 수영이가 말하는 탱구의 OST 비결부터\n탱구디녀쇼 개장! 태연이 부르는 트로트가 궁금하다면?\n📹https://t.co/DZlZxtcRzf\n\n#주간아 #태연 #TAEYEON https://t.co/YJOtecY60i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZlZxtcRzf",
+					"expanded_url": "https://youtu.be/7cBUEv2Mw5M",
+					"display_url": "youtu.be/7cBUEv2Mw5M",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1338707036117192700,
+					"id_str": "1338707036117192704",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQK9OIU0AAIisM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQK9OIU0AAIisM.jpg",
+					"url": "https://t.co/YJOtecY60i",
+					"display_url": "pic.twitter.com/YJOtecY60i",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1338740577102417920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338707036117192700,
+					"id_str": "1338707036117192704",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/EpQK9OIU0AAIisM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpQK9OIU0AAIisM.jpg",
+					"url": "https://t.co/YJOtecY60i",
+					"display_url": "pic.twitter.com/YJOtecY60i",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1338740577102417920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/YpjchEd2rf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YpjchEd2rf",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66280,
+			"friends_count": 2007,
+			"listed_count": 259,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6240,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1580881239",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[주간아.zip] ☆믿듣탱☆ 우리 탱구 컴백 맞이 예능 모음.zip\n\n개인기 봉이이인↗↗해제! 탱라포바부터 탱구 생애(?) 마지막 애교❓🤣\n멤부심 퍽_팔♡ 수영이가 말하는 탱구의 OST 비결부터\n탱구디녀쇼 개장! 태연이 부르는 트로트가 궁금하다면?\n📹https://t.co/DZlZxtcRzf\n\n#주간아 #태연 #TAEYEON https://t.co/YJOtecY60i"
+	},
+	{
 		"created_at": "Tue Dec 15 05:44:57 +0000 2020",
 		"id": 1338713522721591300,
 		"id_str": "1338721687479721984",
