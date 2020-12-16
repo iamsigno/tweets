@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 16 06:07:09 +0000 2020",
+		"id": 1339083427291644000,
+		"id_str": "1339089663684964353",
+		"full_text": "Lagu terbaru #TAEYEON 'What Do I Call You' mendudukin puncak ‘Top Album’ iTunes di 18 negara, termasuk Indonesia!\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/8TPpzQurkD\n\n#What_Do_I_Call_You #GirlsGeneration @GirlsGeneration https://t.co/xaW97grEvX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						205,
+						224
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						225,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						242,
+						258
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8TPpzQurkD",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/736471916969825",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339082952269951000,
+					"id_str": "1339082952269950976",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVg2a7U8AAJN78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVg2a7U8AAJN78.jpg",
+					"url": "https://t.co/xaW97grEvX",
+					"display_url": "pic.twitter.com/xaW97grEvX",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1339083427291643904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339082952269951000,
+					"id_str": "1339082952269950976",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVg2a7U8AAJN78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVg2a7U8AAJN78.jpg",
+					"url": "https://t.co/xaW97grEvX",
+					"display_url": "pic.twitter.com/xaW97grEvX",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1339083427291643904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339082952265777200,
+					"id_str": "1339082952265777152",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/EpVg2a6VQAAaBZp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpVg2a6VQAAaBZp.jpg",
+					"url": "https://t.co/xaW97grEvX",
+					"display_url": "pic.twitter.com/xaW97grEvX",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1339083427291643904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 486,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 929,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 858,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 331460,
+			"friends_count": 33,
+			"listed_count": 220,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Lagu terbaru #TAEYEON 'What Do I Call You' mendudukin puncak ‘Top Album’ iTunes di 18 negara, termasuk Indonesia!\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/8TPpzQurkD\n\n#What_Do_I_Call_You #GirlsGeneration @GirlsGeneration https://t.co/xaW97grEvX"
+	},
+	{
 		"created_at": "Wed Dec 16 02:07:16 +0000 2020",
 		"id": 1339023535629422600,
 		"id_str": "1339029294866108423",
