@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 04:07:09 +0000 2020",
+		"id": 1339407217313730600,
+		"id_str": "1339421851345432576",
+		"full_text": "TAEYEON gets personal in her 4th mini album, “What Do I Call You” that reflected a “vintage girlhood” theme. We just love the song about her best friend, don’t you?\n\nhttps://t.co/hixbkwLhLO\n\n@GirlsGeneration #TAEYEON #What_Do_I_Call_You #GirlsGeneration https://t.co/TkSNOFMJIY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						208,
+						216
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						217,
+						236
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						237,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						191,
+						207
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hixbkwLhLO",
+					"expanded_url": "https://spoti.fi/TAEYEON_WhatDoICallYou",
+					"display_url": "spoti.fi/TAEYEON_WhatDo…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339402210887622700,
+					"id_str": "1339402210887622656",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339402210887622656/pu/img/NDL265E_6U5mmTaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339402210887622656/pu/img/NDL265E_6U5mmTaL.jpg",
+					"url": "https://t.co/TkSNOFMJIY",
+					"display_url": "pic.twitter.com/TkSNOFMJIY",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1339407217313730560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339402210887622700,
+					"id_str": "1339402210887622656",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339402210887622656/pu/img/NDL265E_6U5mmTaL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339402210887622656/pu/img/NDL265E_6U5mmTaL.jpg",
+					"url": "https://t.co/TkSNOFMJIY",
+					"display_url": "pic.twitter.com/TkSNOFMJIY",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1339407217313730560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 47480,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339402210887622656/pu/vid/320x320/MWUddzyhVqHpl6q-.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339402210887622656/pu/vid/480x480/L6TXejGZ7k7JFD1T.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1339402210887622656/pu/vid/720x720/v8jEzwZ8ErVlUgEB.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1339402210887622656/pu/pl/2t6fHTcji2MjGi0U.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326282,
+			"friends_count": 210,
+			"listed_count": 236,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 316,
+		"favorite_count": 732,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON gets personal in her 4th mini album, “What Do I Call You” that reflected a “vintage girlhood” theme. We just love the song about her best friend, don’t you?\n\nhttps://t.co/hixbkwLhLO\n\n@GirlsGeneration #TAEYEON #What_Do_I_Call_You #GirlsGeneration https://t.co/TkSNOFMJIY"
+	},
+	{
 		"created_at": "Wed Dec 16 09:07:09 +0000 2020",
 		"id": 1339133162480287700,
 		"id_str": "1339134960960212992",
