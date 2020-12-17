@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 13:07:09 +0000 2020",
+		"id": 1339544582925652000,
+		"id_str": "1339557747260583938",
+		"full_text": "[#2020MAMA_BehindPhoto] #최수영 #choisooyoung \n\nBehind Photo from the #PhotoStage 📸\n\n#2020MAMA #Twitter #Stanbot #Mnet https://t.co/46etGaKHAs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2020MAMA_BehindPhoto",
+					"indices": [
+						1,
+						22
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "choisooyoung",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"text": "PhotoStage",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"text": "2020MAMA",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"text": "Twitter",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "Stanbot",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						110,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339544577800192000,
+					"id_str": "1339544577800192000",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EpcEskCUwAAhu24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpcEskCUwAAhu24.jpg",
+					"url": "https://t.co/46etGaKHAs",
+					"display_url": "pic.twitter.com/46etGaKHAs",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1339544582925651968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339544577800192000,
+					"id_str": "1339544577800192000",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EpcEskCUwAAhu24.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpcEskCUwAAhu24.jpg",
+					"url": "https://t.co/46etGaKHAs",
+					"display_url": "pic.twitter.com/46etGaKHAs",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1339544582925651968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 683,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter\n2020.12.06",
+			"url": "https://t.co/ksTHLqMRUV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ksTHLqMRUV",
+							"expanded_url": "http://2020mama.com",
+							"display_url": "2020mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2247735,
+			"friends_count": 105,
+			"listed_count": 1721,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314077382429405184/WAhj0mPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1602135439",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 428,
+		"favorite_count": 1581,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2020MAMA_BehindPhoto] #최수영 #choisooyoung \n\nBehind Photo from the #PhotoStage 📸\n\n#2020MAMA #Twitter #Stanbot #Mnet https://t.co/46etGaKHAs"
+	},
+	{
 		"created_at": "Thu Dec 17 09:07:09 +0000 2020",
 		"id": 1339496115633234000,
 		"id_str": "1339497351384317952",
