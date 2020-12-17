@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 09:07:09 +0000 2020",
+		"id": 1339496115633234000,
+		"id_str": "1339497351384317952",
+		"full_text": "🌟SMing🌟스밍에 탱구왔태연‼️\n2020 태연어워즈!🏆\n태연이 가장 태연했던 순간은⁉️ 등 다양한 부문별 수상😌🥇\n\n🔗지금, 멜론 스테이션에서 함께 들어요🥂\nhttps://t.co/l1TKjwBU0z\n\n#멜론 #스테이션 #Melon #SMing #태연 #taeyeon https://t.co/YoZuM7VXUl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "스테이션",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "SMing",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l1TKjwBU0z",
+					"expanded_url": "http://kko.to/LAkYAV2Yj",
+					"display_url": "kko.to/LAkYAV2Yj",
+					"indices": [
+						89,
+						112
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339496106472792000,
+					"id_str": "1339496106472792065",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbYnKRUYAEbjQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbYnKRUYAEbjQf.jpg",
+					"url": "https://t.co/YoZuM7VXUl",
+					"display_url": "pic.twitter.com/YoZuM7VXUl",
+					"expanded_url": "https://twitter.com/melon/status/1339496115633233925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339496106472792000,
+					"id_str": "1339496106472792065",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EpbYnKRUYAEbjQf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpbYnKRUYAEbjQf.jpg",
+					"url": "https://t.co/YoZuM7VXUl",
+					"display_url": "pic.twitter.com/YoZuM7VXUl",
+					"expanded_url": "https://twitter.com/melon/status/1339496115633233925/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103488,
+			"friends_count": 43,
+			"listed_count": 605,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌟SMing🌟스밍에 탱구왔태연‼️\n2020 태연어워즈!🏆\n태연이 가장 태연했던 순간은⁉️ 등 다양한 부문별 수상😌🥇\n\n🔗지금, 멜론 스테이션에서 함께 들어요🥂\nhttps://t.co/l1TKjwBU0z\n\n#멜론 #스테이션 #Melon #SMing #태연 #taeyeon https://t.co/YoZuM7VXUl"
+	},
+	{
 		"created_at": "Thu Dec 17 04:44:56 +0000 2020",
 		"id": 1339427523671683000,
 		"id_str": "1339431362277814272",
