@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 18 08:44:57 +0000 2020",
+		"id": 1339850816287432700,
+		"id_str": "1339854149274509314",
+		"full_text": "Check out TAEYEON’s new mini album ‘What Do I Call You’ featured on A-List: K-Pop! \n@applemusic\n \n🔗https://t.co/bGJR96RAEN\n \n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/8GzujVb1mf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						138,
+						157
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						164,
+						180
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						181,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bGJR96RAEN",
+					"expanded_url": "https://music.apple.com/us/playlist/the-a-list-k-pop/pl.48229b41bbfc47d7af39dae8e8b5276e",
+					"display_url": "music.apple.com/us/playlist/th…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339850807856906200,
+					"id_str": "1339850807856906240",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EpgbNf5UwAA5XMV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpgbNf5UwAA5XMV.jpg",
+					"url": "https://t.co/8GzujVb1mf",
+					"display_url": "pic.twitter.com/8GzujVb1mf",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1339850816287432705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339850807856906200,
+					"id_str": "1339850807856906240",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/EpgbNf5UwAA5XMV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpgbNf5UwAA5XMV.jpg",
+					"url": "https://t.co/8GzujVb1mf",
+					"display_url": "pic.twitter.com/8GzujVb1mf",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1339850816287432705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3615234,
+			"friends_count": 4,
+			"listed_count": 5141,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 876,
+		"favorite_count": 2613,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out TAEYEON’s new mini album ‘What Do I Call You’ featured on A-List: K-Pop! \n@applemusic\n \n🔗https://t.co/bGJR96RAEN\n \n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/8GzujVb1mf"
+	},
+	{
 		"created_at": "Thu Dec 17 13:07:09 +0000 2020",
 		"id": 1339544582925652000,
 		"id_str": "1339557747260583938",
