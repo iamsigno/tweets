@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 05:07:18 +0000 2020",
+		"id": 1340147705880834000,
+		"id_str": "1340161765204766721",
+		"full_text": "[#PHOTO] 삶을 풍족하게 해주는 화이트현🤍\n서현 배우와 함께 행복한 토요일 보내세현🤍\n\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TheFactMusicAwards #TMA https://t.co/0Faq0jxYoT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PHOTO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "더팩트뮤직어워즈",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "TheFactMusicAwards",
+					"indices": [
+						75,
+						94
+					]
+				},
+				{
+					"text": "TMA",
+					"indices": [
+						95,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340147696103911400,
+					"id_str": "1340147696103911425",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpkpOqzU8AEem5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpkpOqzU8AEem5T.jpg",
+					"url": "https://t.co/0Faq0jxYoT",
+					"display_url": "pic.twitter.com/0Faq0jxYoT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340147705880834048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340147696103911400,
+					"id_str": "1340147696103911425",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpkpOqzU8AEem5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpkpOqzU8AEem5T.jpg",
+					"url": "https://t.co/0Faq0jxYoT",
+					"display_url": "pic.twitter.com/0Faq0jxYoT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340147705880834048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340147696112259000,
+					"id_str": "1340147696112259074",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EpkpOq1UUAI4ldQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpkpOq1UUAI4ldQ.jpg",
+					"url": "https://t.co/0Faq0jxYoT",
+					"display_url": "pic.twitter.com/0Faq0jxYoT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340147705880834048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340146516388794400,
+		"in_reply_to_status_id_str": "1340146516388794374",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33532,
+			"friends_count": 12,
+			"listed_count": 192,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 252,
+		"favorite_count": 310,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#PHOTO] 삶을 풍족하게 해주는 화이트현🤍\n서현 배우와 함께 행복한 토요일 보내세현🤍\n\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TheFactMusicAwards #TMA https://t.co/0Faq0jxYoT"
+	},
+	{
+		"created_at": "Sat Dec 19 05:07:15 +0000 2020",
+		"id": 1340147332369637400,
+		"id_str": "1340161752185581568",
+		"full_text": "[#PHOTO] 화이트현 보고 든 생각🤍\n내 심장 잘 있지,,?\n내 눈동자 개안의 기적을 경험하네,,,\n서현 비주얼,,, 신이 주신 선물이네,,\n\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TheFactMusicAwards #TMA https://t.co/yWfKNrctJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PHOTO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "더팩트뮤직어워즈",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "TheFactMusicAwards",
+					"indices": [
+						105,
+						124
+					]
+				},
+				{
+					"text": "TMA",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340147310232137700,
+					"id_str": "1340147310232137729",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Epko4NUU8AEV8yS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epko4NUU8AEV8yS.jpg",
+					"url": "https://t.co/yWfKNrctJZ",
+					"display_url": "pic.twitter.com/yWfKNrctJZ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340147332369637376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340147310232137700,
+					"id_str": "1340147310232137729",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Epko4NUU8AEV8yS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epko4NUU8AEV8yS.jpg",
+					"url": "https://t.co/yWfKNrctJZ",
+					"display_url": "pic.twitter.com/yWfKNrctJZ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340147332369637376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340147310236291000,
+					"id_str": "1340147310236291073",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Epko4NVUUAEAjy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epko4NVUUAEAjy-.jpg",
+					"url": "https://t.co/yWfKNrctJZ",
+					"display_url": "pic.twitter.com/yWfKNrctJZ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340147332369637376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340147310244757500,
+					"id_str": "1340147310244757506",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/Epko4NXVgAIQRS0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epko4NXVgAIQRS0.jpg",
+					"url": "https://t.co/yWfKNrctJZ",
+					"display_url": "pic.twitter.com/yWfKNrctJZ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340147332369637376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1340146516388794400,
+		"in_reply_to_status_id_str": "1340146516388794374",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33532,
+			"friends_count": 12,
+			"listed_count": 192,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#PHOTO] 화이트현 보고 든 생각🤍\n내 심장 잘 있지,,?\n내 눈동자 개안의 기적을 경험하네,,,\n서현 비주얼,,, 신이 주신 선물이네,,\n\n#서현 #더팩트뮤직어워즈 #SEOHYUN #TheFactMusicAwards #TMA https://t.co/yWfKNrctJZ"
+	},
+	{
 		"created_at": "Sat Dec 19 04:07:09 +0000 2020",
 		"id": 1340146516388794400,
 		"id_str": "1340146627617693697",
