@@ -1,6 +1,205 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 09:07:09 +0000 2020",
+		"id": 1340945103628583000,
+		"id_str": "1340946900275638273",
+		"full_text": "잠시 후 저녁 7시, &lt;#퀘스천마크&gt;에 #태연 이 놀러와요!  새 미니 앨범에 대한 비하인드 스토리를 확인해보세요.\n\n놓치지 않으려면, 미리 알림등록하기!\n→ https://t.co/cOfKAtaSRD https://t.co/KMtcNWopFd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀘스천마크",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						28,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cOfKAtaSRD",
+					"expanded_url": "https://bit.ly/34vbHqH",
+					"display_url": "bit.ly/34vbHqH",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1340863595404349400,
+					"id_str": "1340863595404349440",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Epu0VfhUUAA4F5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epu0VfhUUAA4F5V.jpg",
+					"url": "https://t.co/KMtcNWopFd",
+					"display_url": "pic.twitter.com/KMtcNWopFd",
+					"expanded_url": "https://twitter.com/kr_now/status/1340945103628582914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340863595404349400,
+					"id_str": "1340863595404349440",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/Epu0VfhUUAA4F5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epu0VfhUUAA4F5V.jpg",
+					"url": "https://t.co/KMtcNWopFd",
+					"display_url": "pic.twitter.com/KMtcNWopFd",
+					"expanded_url": "https://twitter.com/kr_now/status/1340945103628582914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72512,
+			"friends_count": 1,
+			"listed_count": 136,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 162,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 저녁 7시, &lt;#퀘스천마크&gt;에 #태연 이 놀러와요!  새 미니 앨범에 대한 비하인드 스토리를 확인해보세요.\n\n놓치지 않으려면, 미리 알림등록하기!\n→ https://t.co/cOfKAtaSRD https://t.co/KMtcNWopFd"
+	},
+	{
 		"created_at": "Mon Dec 21 07:07:09 +0000 2020",
 		"id": 1340908637716279300,
 		"id_str": "1340916701144231937",
