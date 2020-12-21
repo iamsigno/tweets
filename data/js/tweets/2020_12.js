@@ -1,6 +1,829 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 04:07:25 +0000 2020",
+		"id": 1340867131190116400,
+		"id_str": "1340871471640551424",
+		"full_text": "บทสัมภาษณ์พิเศษ #TAEYEON วง Girls’ Generation การกลับมาของโวคอลควีน ด้วยเสน่ห์สุดชิค ในมินิอัลบั้มชุดใหม่ 'What Do I Call You' ส่งตรงถึงโซวอนไทย💗✨ \n\n: https://t.co/RqDBsyUb5v\n\n#태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/pLPIDnzE4o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						16,
+						24
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						180,
+						199
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						206,
+						222
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						223,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RqDBsyUb5v",
+					"expanded_url": "http://korseries.com/snsd-s-taeyeon-what-do-i-call-you-exclusive-interview/",
+					"display_url": "korseries.com/snsd-s-taeyeon…",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/pLPIDnzE4o",
+					"expanded_url": "https://twitter.com/korseries/status/1340859719905251328",
+					"display_url": "twitter.com/korseries/stat…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82425,
+			"friends_count": 48,
+			"listed_count": 147,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340859719905251300,
+		"quoted_status_id_str": "1340859719905251328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pLPIDnzE4o",
+			"expanded": "https://twitter.com/korseries/status/1340859719905251328",
+			"display": "twitter.com/korseries/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 21 03:20:43 +0000 2020",
+			"id": 1340859719905251300,
+			"id_str": "1340859719905251328",
+			"full_text": "แทยอน SNSD กับภาพทีเซอร์จากมินิอัลบั้มใหม่ 'What Do I Call You' ที่ปล่อยออกมาพิเศษ ที่ Korseries ✨\n\nอ่านบทสัมภาษณ์พิเศษ แทยอน ส่งตรงถึงโซวอนชาวไทยได้ทาง &gt; https://t.co/e5aQSmHgoA (TH &amp; ENG)\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration https://t.co/REsUg0voKr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TAEYEON",
+						"indices": [
+							198,
+							206
+						]
+					},
+					{
+						"text": "태연",
+						"indices": [
+							207,
+							210
+						]
+					},
+					{
+						"text": "What_Do_I_Call_You",
+						"indices": [
+							211,
+							230
+						]
+					},
+					{
+						"text": "소녀시대",
+						"indices": [
+							231,
+							236
+						]
+					},
+					{
+						"text": "GirlsGeneration",
+						"indices": [
+							237,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/e5aQSmHgoA",
+						"expanded_url": "http://bit.ly/2J5AlGG",
+						"display_url": "bit.ly/2J5AlGG",
+						"indices": [
+							158,
+							181
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1340859710497382400,
+						"id_str": "1340859710497382400",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EpuwzXHUYAAgOxd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpuwzXHUYAAgOxd.jpg",
+						"url": "https://t.co/REsUg0voKr",
+						"display_url": "pic.twitter.com/REsUg0voKr",
+						"expanded_url": "https://twitter.com/Korseries/status/1340859719905251328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 799,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1044,
+								"h": 1567,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1340859710497382400,
+						"id_str": "1340859710497382400",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EpuwzXHUYAAgOxd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpuwzXHUYAAgOxd.jpg",
+						"url": "https://t.co/REsUg0voKr",
+						"display_url": "pic.twitter.com/REsUg0voKr",
+						"expanded_url": "https://twitter.com/Korseries/status/1340859719905251328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 799,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1044,
+								"h": 1567,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1340859710493212700,
+						"id_str": "1340859710493212675",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EpuwzXGUwAMMmnf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpuwzXGUwAMMmnf.jpg",
+						"url": "https://t.co/REsUg0voKr",
+						"display_url": "pic.twitter.com/REsUg0voKr",
+						"expanded_url": "https://twitter.com/Korseries/status/1340859719905251328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 857,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1081,
+								"h": 1513,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 486,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1430980567,
+				"id_str": "1430980567",
+				"name": "Korseries.com",
+				"screen_name": "Korseries",
+				"location": "Thailand",
+				"description": "🇰🇷Highlight & Breaking K-Entertainment News✨ K-Dramas & K-POP📌 ||| contact : admin@korseries.com",
+				"url": "https://t.co/KyAeGZGgYA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KyAeGZGgYA",
+								"expanded_url": "https://korseries.com",
+								"display_url": "korseries.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1556742,
+				"friends_count": 489,
+				"listed_count": 153,
+				"created_at": "Wed May 15 16:46:40 +0000 2013",
+				"favourites_count": 19251,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31639,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/999665990060261376/PJ-AhGY8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/999665990060261376/PJ-AhGY8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1430980567/1586881358",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 330,
+			"favorite_count": 236,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "th"
+		},
+		"retweet_count": 31,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "บทสัมภาษณ์พิเศษ #TAEYEON วง Girls’ Generation การกลับมาของโวคอลควีน ด้วยเสน่ห์สุดชิค ในมินิอัลบั้มชุดใหม่ 'What Do I Call You' ส่งตรงถึงโซวอนไทย💗✨ \n\n: https://t.co/RqDBsyUb5v\n\n#태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/pLPIDnzE4o"
+	},
+	{
+		"created_at": "Mon Dec 21 04:07:23 +0000 2020",
+		"id": 1340862770808455200,
+		"id_str": "1340871462748643329",
+		"full_text": "이번주 놓치면 안될 NOW.\n⠀\nNOW.를 찾아 온 놀라운 손님✨오늘 저녁 7시, 믿.듣.탱 #태연 이 &lt;#퀘스천마크&gt;에 출연합니다. 새롭게 발매된 네 번째 미니앨범에 대한 이야기를 확인해보세요! \n\n옆으로 넘기면서, 이번 주 NOW. 주요 쇼 확인하기 → https://t.co/X6tDfzVcfq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "퀘스천마크",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340862677682278400,
+					"id_str": "1340862677682278400",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EpuzgEvU0AAw4ws.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpuzgEvU0AAw4ws.jpg",
+					"url": "https://t.co/X6tDfzVcfq",
+					"display_url": "pic.twitter.com/X6tDfzVcfq",
+					"expanded_url": "https://twitter.com/kr_now/status/1340862770808455168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340862677682278400,
+					"id_str": "1340862677682278400",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EpuzgEvU0AAw4ws.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpuzgEvU0AAw4ws.jpg",
+					"url": "https://t.co/X6tDfzVcfq",
+					"display_url": "pic.twitter.com/X6tDfzVcfq",
+					"expanded_url": "https://twitter.com/kr_now/status/1340862770808455168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340862677707460600,
+					"id_str": "1340862677707460610",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EpuzgE1VEAI0U_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpuzgE1VEAI0U_Z.jpg",
+					"url": "https://t.co/X6tDfzVcfq",
+					"display_url": "pic.twitter.com/X6tDfzVcfq",
+					"expanded_url": "https://twitter.com/kr_now/status/1340862770808455168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340862677745246200,
+					"id_str": "1340862677745246208",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/EpuzgE-VoAA-sgE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpuzgE-VoAA-sgE.jpg",
+					"url": "https://t.co/X6tDfzVcfq",
+					"display_url": "pic.twitter.com/X6tDfzVcfq",
+					"expanded_url": "https://twitter.com/kr_now/status/1340862770808455168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72487,
+			"friends_count": 1,
+			"listed_count": 135,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번주 놓치면 안될 NOW.\n⠀\nNOW.를 찾아 온 놀라운 손님✨오늘 저녁 7시, 믿.듣.탱 #태연 이 &lt;#퀘스천마크&gt;에 출연합니다. 새롭게 발매된 네 번째 미니앨범에 대한 이야기를 확인해보세요! \n\n옆으로 넘기면서, 이번 주 NOW. 주요 쇼 확인하기 → https://t.co/X6tDfzVcfq"
+	},
+	{
+		"created_at": "Mon Dec 21 04:07:15 +0000 2020",
+		"id": 1340860578428948500,
+		"id_str": "1340871428665651202",
+		"full_text": "สัมภาษณ์พิเศษ 'แทยอน SNSD' การกลับมาของโวคอลควีน ด้วยเสน่ห์สุดชิค ในมินิอัลบั้มชุดใหม่ 'What Do I Call You' ส่งตรงถึงโซวอนไทย💗✨ (TH &amp; ENG)\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration\n\nhttps://t.co/e5aQSmHgoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						157,
+						176
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e5aQSmHgoA",
+					"expanded_url": "http://bit.ly/2J5AlGG",
+					"display_url": "bit.ly/2J5AlGG",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1430980567,
+			"id_str": "1430980567",
+			"name": "Korseries.com",
+			"screen_name": "Korseries",
+			"location": "Thailand",
+			"description": "🇰🇷Highlight & Breaking K-Entertainment News✨ K-Dramas & K-POP📌 ||| contact : admin@korseries.com",
+			"url": "https://t.co/KyAeGZGgYA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KyAeGZGgYA",
+							"expanded_url": "https://korseries.com",
+							"display_url": "korseries.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1556742,
+			"friends_count": 489,
+			"listed_count": 153,
+			"created_at": "Wed May 15 16:46:40 +0000 2013",
+			"favourites_count": 19251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999665990060261376/PJ-AhGY8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999665990060261376/PJ-AhGY8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1430980567/1586881358",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 188,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "สัมภาษณ์พิเศษ 'แทยอน SNSD' การกลับมาของโวคอลควีน ด้วยเสน่ห์สุดชิค ในมินิอัลบั้มชุดใหม่ 'What Do I Call You' ส่งตรงถึงโซวอนไทย💗✨ (TH &amp; ENG)\n\n#TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration\n\nhttps://t.co/e5aQSmHgoA"
+	},
+	{
 		"created_at": "Mon Dec 21 03:07:17 +0000 2020",
 		"id": 1340854335484252200,
 		"id_str": "1340856338130321411",
