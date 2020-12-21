@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 03:07:17 +0000 2020",
+		"id": 1340854335484252200,
+		"id_str": "1340856338130321411",
+		"full_text": "[#NEWS] ‘런 온’ 임시완·신세경·최수영, 쿨내 가득 뼈 때렸던 순간들\n▶ https://t.co/DZYSyiAB8b\n(사진제공=메이스 엔터테인먼트, 콘텐츠 지음)\n\n#신세경 #런온 #SHINSAEKYEONG #SHINSEKYUNG #RunOn https://t.co/uwRu1E1DPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "SHINSAEKYEONG",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "SHINSEKYUNG",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"text": "RunOn",
+					"indices": [
+						133,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DZYSyiAB8b",
+					"expanded_url": "http://naver.me/GI7wkxQN",
+					"display_url": "naver.me/GI7wkxQN",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1340854294371700700,
+					"id_str": "1340854294371700736",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Epur4GeVEAAyiVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epur4GeVEAAyiVr.jpg",
+					"url": "https://t.co/uwRu1E1DPB",
+					"display_url": "pic.twitter.com/uwRu1E1DPB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340854335484252161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340854294371700700,
+					"id_str": "1340854294371700736",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Epur4GeVEAAyiVr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epur4GeVEAAyiVr.jpg",
+					"url": "https://t.co/uwRu1E1DPB",
+					"display_url": "pic.twitter.com/uwRu1E1DPB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340854335484252161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340854313631928300,
+					"id_str": "1340854313631928320",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/Epur5OOU0AAaXfO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epur5OOU0AAaXfO.jpg",
+					"url": "https://t.co/uwRu1E1DPB",
+					"display_url": "pic.twitter.com/uwRu1E1DPB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1340854335484252161/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33621,
+			"friends_count": 12,
+			"listed_count": 194,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] ‘런 온’ 임시완·신세경·최수영, 쿨내 가득 뼈 때렸던 순간들\n▶ https://t.co/DZYSyiAB8b\n(사진제공=메이스 엔터테인먼트, 콘텐츠 지음)\n\n#신세경 #런온 #SHINSAEKYEONG #SHINSEKYUNG #RunOn https://t.co/uwRu1E1DPB"
+	},
+	{
 		"created_at": "Sat Dec 19 05:07:18 +0000 2020",
 		"id": 1340147705880834000,
 		"id_str": "1340161765204766721",
