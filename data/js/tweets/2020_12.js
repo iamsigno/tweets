@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 07:07:09 +0000 2020",
+		"id": 1341274826015723500,
+		"id_str": "1341279089328615424",
+		"full_text": "#TAEYEON akan merilis 3 Live Clip dari mini album terbarunya ‘What Do I Call You’ secara berurutan, dimulai dengan #Playlist yang akan rilis pukul 20.00 WIB hari ini!\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/hA7dNrPc4W\n\n@GirlsGeneration https://t.co/6ZkFN2h0GE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "Playlist",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						258,
+						274
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hA7dNrPc4W",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/739938123289871",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341274763805671400,
+					"id_str": "1341274763805671424",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0qSpLVQAAkA22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0qSpLVQAAkA22.jpg",
+					"url": "https://t.co/6ZkFN2h0GE",
+					"display_url": "pic.twitter.com/6ZkFN2h0GE",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1341274826015723532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341274763805671400,
+					"id_str": "1341274763805671424",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0qSpLVQAAkA22.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0qSpLVQAAkA22.jpg",
+					"url": "https://t.co/6ZkFN2h0GE",
+					"display_url": "pic.twitter.com/6ZkFN2h0GE",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1341274826015723532/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335404,
+			"friends_count": 33,
+			"listed_count": 227,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#TAEYEON akan merilis 3 Live Clip dari mini album terbarunya ‘What Do I Call You’ secara berurutan, dimulai dengan #Playlist yang akan rilis pukul 20.00 WIB hari ini!\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏼https://t.co/hA7dNrPc4W\n\n@GirlsGeneration https://t.co/6ZkFN2h0GE"
+	},
+	{
 		"created_at": "Mon Dec 21 13:07:09 +0000 2020",
 		"id": 1341001227149009000,
 		"id_str": "1341007298710401030",
