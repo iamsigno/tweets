@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 08:07:09 +0000 2020",
+		"id": 1341281534855114800,
+		"id_str": "1341294188776833025",
+		"full_text": "#TAEYEON เตรียมปล่อย Live Clip ของ 3 เพลงจากมินิอัลบั้มชุดใหม่ ‘What Do I Call You’ ตามลำดับ!\n\nคืนนี้ 2 ทุ่มไทย รอชม Live Clip ของเพลง ‘Playlist’ เป็นเพลงแรก!!\n\n-\n\n💗 https://t.co/xH3eNYwMpN\n\n#태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration\n#이럴때엔_탱구노래가_역시적당할까 https://t.co/6242g1TGPL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						195,
+						214
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						221,
+						237
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						238,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xH3eNYwMpN",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3620098354704753",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341280454578585600,
+					"id_str": "1341280454578585607",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0vd49UwAc8d3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0vd49UwAc8d3O.jpg",
+					"url": "https://t.co/6242g1TGPL",
+					"display_url": "pic.twitter.com/6242g1TGPL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1341281534855114752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341280454578585600,
+					"id_str": "1341280454578585607",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep0vd49UwAc8d3O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep0vd49UwAc8d3O.jpg",
+					"url": "https://t.co/6242g1TGPL",
+					"display_url": "pic.twitter.com/6242g1TGPL",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1341281534855114752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82436,
+			"friends_count": 48,
+			"listed_count": 147,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#TAEYEON เตรียมปล่อย Live Clip ของ 3 เพลงจากมินิอัลบั้มชุดใหม่ ‘What Do I Call You’ ตามลำดับ!\n\nคืนนี้ 2 ทุ่มไทย รอชม Live Clip ของเพลง ‘Playlist’ เป็นเพลงแรก!!\n\n-\n\n💗 https://t.co/xH3eNYwMpN\n\n#태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration\n#이럴때엔_탱구노래가_역시적당할까 https://t.co/6242g1TGPL"
+	},
+	{
 		"created_at": "Tue Dec 22 07:07:09 +0000 2020",
 		"id": 1341274826015723500,
 		"id_str": "1341279089328615424",
