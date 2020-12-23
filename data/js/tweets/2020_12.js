@@ -1,6 +1,794 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 23 01:11:05 +0000 2020",
+		"id": 1341549569465667600,
+		"id_str": "1341551872604135424",
+		"full_text": "드라마 &lt;런 온&gt;과 영화 &lt;새해전야&gt;에 출연한 배우 #최수영 ! 그와 함께한 화보 그리고 인터뷰를 마리끌레르 1월호 및 웹사이트에서 확인해보세요.📺🎞\n-\nChoi Soo Young's editorial. Full feature on Marie Claire Korea January issue and https://t.co/9q28zJPWDX. https://t.co/zg055v0KnC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최수영",
+					"indices": [
+						41,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9q28zJPWDX",
+					"expanded_url": "http://www.marieclairekorea.com",
+					"display_url": "marieclairekorea.com",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341549558610837500,
+					"id_str": "1341549558610837504",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep4kNzmUwAAs2s-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep4kNzmUwAAs2s-.jpg",
+					"url": "https://t.co/zg055v0KnC",
+					"display_url": "pic.twitter.com/zg055v0KnC",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1341549569465667584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341549558610837500,
+					"id_str": "1341549558610837504",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep4kNzmUwAAs2s-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep4kNzmUwAAs2s-.jpg",
+					"url": "https://t.co/zg055v0KnC",
+					"display_url": "pic.twitter.com/zg055v0KnC",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1341549569465667584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341549558610894800,
+					"id_str": "1341549558610894850",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep4kNzmVoAIDaSa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep4kNzmVoAIDaSa.jpg",
+					"url": "https://t.co/zg055v0KnC",
+					"display_url": "pic.twitter.com/zg055v0KnC",
+					"expanded_url": "https://twitter.com/marieclairekr/status/1341549569465667584/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 556,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1676,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 982,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 132025214,
+			"id_str": "132025214",
+			"name": "Marie Claire Korea",
+			"screen_name": "marieclairekr",
+			"location": "대한민국 서울",
+			"description": "Marie Claire Korea is the women's magazine which expresses French unique sensibilities and elegance through fashion, beauty, and featured pictures.",
+			"url": "https://t.co/A65jIiHpAu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A65jIiHpAu",
+							"expanded_url": "http://www.marieclairekorea.com",
+							"display_url": "marieclairekorea.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94942,
+			"friends_count": 1,
+			"listed_count": 285,
+			"created_at": "Mon Apr 12 02:26:01 +0000 2010",
+			"favourites_count": 614,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732124037946576896/kVHvE5D__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/132025214/1606726664",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 207,
+		"favorite_count": 240,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드라마 &lt;런 온&gt;과 영화 &lt;새해전야&gt;에 출연한 배우 #최수영 ! 그와 함께한 화보 그리고 인터뷰를 마리끌레르 1월호 및 웹사이트에서 확인해보세요.📺🎞\n-\nChoi Soo Young's editorial. Full feature on Marie Claire Korea January issue and https://t.co/9q28zJPWDX. https://t.co/zg055v0KnC"
+	},
+	{
+		"created_at": "Wed Dec 23 01:10:48 +0000 2020",
+		"id": 1339797543337795600,
+		"id_str": "1341551798843105283",
+		"full_text": "드디어 시작된＜#런온＞의 첫 촬영 비하인드!\n잘생기면 운명을 믿는다던 미주(#신세경),\n우리도 이 운명 찬성일세..ꈍᴗꈍ..\n\n둘의 관계는 이제부터★ 시작이니\n모두 두 눈 크게 뜨고 지켜보기👀!!\n\n▶매주 수·목 밤 9시&lt;#런온&gt; 본.방.사.수💚\n선겸(#임시완) 단아(#최수영) https://t.co/7JI9qkA8BW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "런온",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "임시완",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						156,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339754783855427600,
+					"id_str": "1339754783855427586",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EpfGgWiU8AApcIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpfGgWiU8AApcIw.jpg",
+					"url": "https://t.co/7JI9qkA8BW",
+					"display_url": "pic.twitter.com/7JI9qkA8BW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1339797543337795587/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339754783855427600,
+					"id_str": "1339754783855427586",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/EpfGgWiU8AApcIw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpfGgWiU8AApcIw.jpg",
+					"url": "https://t.co/7JI9qkA8BW",
+					"display_url": "pic.twitter.com/7JI9qkA8BW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1339797543337795587/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 435068,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339754783855427586/vid/640x360/pyyC8bQC6-FWjBhp.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1339754783855427586/pl/Nkwj0t_3SW9tG8uE.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339754783855427586/vid/1280x720/No4aOk-bCF6XtH3X.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1339754783855427586/vid/480x270/udfmQUvGfZ_0czRR.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[런 온] 메이킹😊 우연이 세 번이면 운명이라던데...🧡 선겸(임시완) X 미주(신세경)의 운명적인 만남 비하인드!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/17318909"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438158,
+			"friends_count": 110,
+			"listed_count": 654,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1607565168",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "드디어 시작된＜#런온＞의 첫 촬영 비하인드!\n잘생기면 운명을 믿는다던 미주(#신세경),\n우리도 이 운명 찬성일세..ꈍᴗꈍ..\n\n둘의 관계는 이제부터★ 시작이니\n모두 두 눈 크게 뜨고 지켜보기👀!!\n\n▶매주 수·목 밤 9시&lt;#런온&gt; 본.방.사.수💚\n선겸(#임시완) 단아(#최수영) https://t.co/7JI9qkA8BW"
+	},
+	{
+		"created_at": "Wed Dec 23 01:10:28 +0000 2020",
+		"id": 1339109615473049600,
+		"id_str": "1341551717574275072",
+		"full_text": "청량미 가득한 &lt;런 온&gt;의 주인공들🌿💙 \n\n앞만 보고 달려야 하는 육상 선수\n기선겸(#임시완)\n❤️ 뒤를 돌아봐야만 하는 영화 번역가\n오미주(#신세경)\n\n계획적인 여자, 스포츠 에이전시 대표\n서단아(#최수영)\n❤️ 본능적인 남자, 미대생\n이영화(#강태오) https://t.co/HgNvjOzDbb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임시완",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "강태오",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1339106035055751200,
+					"id_str": "1339106035055751168",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV12BAUcAA26RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV12BAUcAA26RL.jpg",
+					"url": "https://t.co/HgNvjOzDbb",
+					"display_url": "pic.twitter.com/HgNvjOzDbb",
+					"expanded_url": "https://twitter.com/jtbclove/status/1339109615473049601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339106035055751200,
+					"id_str": "1339106035055751168",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV12BAUcAA26RL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV12BAUcAA26RL.jpg",
+					"url": "https://t.co/HgNvjOzDbb",
+					"display_url": "pic.twitter.com/HgNvjOzDbb",
+					"expanded_url": "https://twitter.com/jtbclove/status/1339109615473049601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339106052004958200,
+					"id_str": "1339106052004958208",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV13AJU0AAWZlN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV13AJU0AAWZlN.jpg",
+					"url": "https://t.co/HgNvjOzDbb",
+					"display_url": "pic.twitter.com/HgNvjOzDbb",
+					"expanded_url": "https://twitter.com/jtbclove/status/1339109615473049601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339106069117714400,
+					"id_str": "1339106069117714432",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV13_5UwAA2YhK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV13_5UwAA2YhK.jpg",
+					"url": "https://t.co/HgNvjOzDbb",
+					"display_url": "pic.twitter.com/HgNvjOzDbb",
+					"expanded_url": "https://twitter.com/jtbclove/status/1339109615473049601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1339106086071148500,
+					"id_str": "1339106086071148544",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/EpV14_DVoAAkhZW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpV14_DVoAAkhZW.jpg",
+					"url": "https://t.co/HgNvjOzDbb",
+					"display_url": "pic.twitter.com/HgNvjOzDbb",
+					"expanded_url": "https://twitter.com/jtbclove/status/1339109615473049601/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339109604869828600,
+		"in_reply_to_status_id_str": "1339109604869828608",
+		"in_reply_to_user_id": 418488729,
+		"in_reply_to_user_id_str": "418488729",
+		"in_reply_to_screen_name": "jtbclove",
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438158,
+			"friends_count": 110,
+			"listed_count": 654,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1607565168",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "ko",
+		"text": "청량미 가득한 &lt;런 온&gt;의 주인공들🌿💙 \n\n앞만 보고 달려야 하는 육상 선수\n기선겸(#임시완)\n❤️ 뒤를 돌아봐야만 하는 영화 번역가\n오미주(#신세경)\n\n계획적인 여자, 스포츠 에이전시 대표\n서단아(#최수영)\n❤️ 본능적인 남자, 미대생\n이영화(#강태오) https://t.co/HgNvjOzDbb"
+	},
+	{
 		"created_at": "Tue Dec 22 13:07:09 +0000 2020",
 		"id": 1341367893036961800,
 		"id_str": "1341369688169848834",
