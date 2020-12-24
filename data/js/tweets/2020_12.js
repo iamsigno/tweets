@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 13:07:09 +0000 2020",
+		"id": 1342092666578735000,
+		"id_str": "1342094462995079168",
+		"full_text": "TAEYEON 태연 'Galaxy' Live Clip\n\n🎬 https://t.co/Qsp84HS4ex \n\n#TAEYEON #태연 #What_Do_I_Call_You #Playlist #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/nESD8ZwdJT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						72,
+						91
+					]
+				},
+				{
+					"text": "Playlist",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						125,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qsp84HS4ex",
+					"expanded_url": "https://youtu.be/u-62YXsDybE",
+					"display_url": "youtu.be/u-62YXsDybE",
+					"indices": [
+						33,
+						56
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342054438815424500,
+					"id_str": "1342054438815424513",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_vZs7UYAEywkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_vZs7UYAEywkS.jpg",
+					"url": "https://t.co/nESD8ZwdJT",
+					"display_url": "pic.twitter.com/nESD8ZwdJT",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1342092666578735104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342054438815424500,
+					"id_str": "1342054438815424513",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_vZs7UYAEywkS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_vZs7UYAEywkS.jpg",
+					"url": "https://t.co/nESD8ZwdJT",
+					"display_url": "pic.twitter.com/nESD8ZwdJT",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1342092666578735104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3618376,
+			"friends_count": 4,
+			"listed_count": 5168,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1475,
+		"favorite_count": 2111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "TAEYEON 태연 'Galaxy' Live Clip\n\n🎬 https://t.co/Qsp84HS4ex \n\n#TAEYEON #태연 #What_Do_I_Call_You #Playlist #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/nESD8ZwdJT"
+	},
+	{
 		"created_at": "Thu Dec 24 10:07:09 +0000 2020",
 		"id": 1342035817527537700,
 		"id_str": "1342049162888704002",
