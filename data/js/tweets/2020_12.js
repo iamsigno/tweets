@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 10:07:09 +0000 2020",
+		"id": 1342035817527537700,
+		"id_str": "1342049162888704002",
+		"full_text": "💜 ประกาศ 💜\n\nรายชื่อผู้โชคดีที่ได้รับรางวัลมินิอัลบั้มชุดที่ 4 ‘#What_Do_I_Call_You’ พร้อมลายเซ็นจาก #TAEYEON จำนวน 3 รางวัล\n\nโดยทีมงานได้สุ่มรายชื่อมาจากผู้ที่ทำการ Pre-Order มินิอัลบั้มชุดใหม่ของ TAEYEON กับทาง SM True\n\n👉🏻 รายละเอียด: https://t.co/9to1HQ1Reh\n\n#SMTrue_PreOrder https://t.co/R92HI6BBoH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						63,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "SMTrue_PreOrder",
+					"indices": [
+						261,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9to1HQ1Reh",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3625401297507792",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1342035810195947500,
+					"id_str": "1342035810195947520",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_edX6VQAAns7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_edX6VQAAns7Q.jpg",
+					"url": "https://t.co/R92HI6BBoH",
+					"display_url": "pic.twitter.com/R92HI6BBoH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1342035817527537666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342035810195947500,
+					"id_str": "1342035810195947520",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep_edX6VQAAns7Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep_edX6VQAAns7Q.jpg",
+					"url": "https://t.co/R92HI6BBoH",
+					"display_url": "pic.twitter.com/R92HI6BBoH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1342035817527537666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82459,
+			"friends_count": 48,
+			"listed_count": 147,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💜 ประกาศ 💜\n\nรายชื่อผู้โชคดีที่ได้รับรางวัลมินิอัลบั้มชุดที่ 4 ‘#What_Do_I_Call_You’ พร้อมลายเซ็นจาก #TAEYEON จำนวน 3 รางวัล\n\nโดยทีมงานได้สุ่มรายชื่อมาจากผู้ที่ทำการ Pre-Order มินิอัลบั้มชุดใหม่ของ TAEYEON กับทาง SM True\n\n👉🏻 รายละเอียด: https://t.co/9to1HQ1Reh\n\n#SMTrue_PreOrder https://t.co/R92HI6BBoH"
+	},
+	{
 		"created_at": "Wed Dec 23 13:07:09 +0000 2020",
 		"id": 1341730278503555000,
 		"id_str": "1341732074387070981",
