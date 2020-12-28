@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 05:07:13 +0000 2020",
+		"id": 1343422191530983400,
+		"id_str": "1343423233643720705",
+		"full_text": "새해에 듣는 첫 노래가 한 해의 운세를 결정한다던데...!🍀\n🎼그럼 역시 1월 1일 첫 노래는 이걸로 찜해야지\n\n#그랑사가 X #태연 운.한.빠 듣기\n🔹https://t.co/q3EU9disLC\n\n하루하루 꿈에 다가가는 2021년 되세요✨\n\n#그랑사가 #GranSaga #엔픽셀 #NPIXEL #태연 #taeyeon https://t.co/GdhXm2zFut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "그랑사가",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "그랑사가",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "GranSaga",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "엔픽셀",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "NPIXEL",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						168,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3EU9disLC",
+					"expanded_url": "http://youtu.be/um3NhRMfYmc",
+					"display_url": "youtu.be/um3NhRMfYmc",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343420564057157600,
+					"id_str": "1343420564057157634",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343420564057157634/pu/img/KMX22H_4DZ7sfYEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343420564057157634/pu/img/KMX22H_4DZ7sfYEc.jpg",
+					"url": "https://t.co/GdhXm2zFut",
+					"display_url": "pic.twitter.com/GdhXm2zFut",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1343422191530983424/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343420564057157600,
+					"id_str": "1343420564057157634",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1343420564057157634/pu/img/KMX22H_4DZ7sfYEc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1343420564057157634/pu/img/KMX22H_4DZ7sfYEc.jpg",
+					"url": "https://t.co/GdhXm2zFut",
+					"display_url": "pic.twitter.com/GdhXm2zFut",
+					"expanded_url": "https://twitter.com/GRANSAGA_KR/status/1343422191530983424/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6540,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1343420564057157634/pu/vid/480x270/056NouXr4aQrron9.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1343420564057157634/pu/pl/H95vMJ4iJm28TJtU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1343420564057157634/pu/vid/1280x720/awG8FVW48HeawtVN.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1343420564057157634/pu/vid/640x360/fAnoVmJSqJ575gVG.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1115509381418954800,
+			"id_str": "1115509381418954752",
+			"name": "그랑사가",
+			"screen_name": "GRANSAGA_KR",
+			"location": "",
+			"description": "위대한 전설, #그랑사가",
+			"url": "https://t.co/yWpe1Z86kI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yWpe1Z86kI",
+							"expanded_url": "http://gransaga.com",
+							"display_url": "gransaga.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1931,
+			"friends_count": 0,
+			"listed_count": 11,
+			"created_at": "Tue Apr 09 06:58:56 +0000 2019",
+			"favourites_count": 92,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300780966084931589/-duyX-hd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1115509381418954752/1608814534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "새해에 듣는 첫 노래가 한 해의 운세를 결정한다던데...!🍀\n🎼그럼 역시 1월 1일 첫 노래는 이걸로 찜해야지\n\n#그랑사가 X #태연 운.한.빠 듣기\n🔹https://t.co/q3EU9disLC\n\n하루하루 꿈에 다가가는 2021년 되세요✨\n\n#그랑사가 #GranSaga #엔픽셀 #NPIXEL #태연 #taeyeon https://t.co/GdhXm2zFut"
+	},
+	{
+		"created_at": "Mon Dec 28 04:58:43 +0000 2020",
+		"id": 1341719301657489400,
+		"id_str": "1343421097417400320",
+		"full_text": "💌 Dear fans. I hope you all stay safe and Merry Christmas! \n\nQ. 크리스마스에 받고 싶은 선물이 있나요? \n- '허쉬' 시청률 대박나게 해주세요! 또, 예전처럼 생활할 수 있으면 좋겠어요! \n\n#YOONA #LIMYOONA #HarpersBazaar #HUSH https://t.co/iElulynw7T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						142,
+						151
+					]
+				},
+				{
+					"text": "HarpersBazaar",
+					"indices": [
+						152,
+						166
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						167,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341719152675864600,
+					"id_str": "1341719152675864576",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1341719152675864576/pu/img/6o3ST9TGq3nNRzAc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1341719152675864576/pu/img/6o3ST9TGq3nNRzAc.jpg",
+					"url": "https://t.co/iElulynw7T",
+					"display_url": "pic.twitter.com/iElulynw7T",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1341719301657489408/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341719152675864600,
+					"id_str": "1341719152675864576",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1341719152675864576/pu/img/6o3ST9TGq3nNRzAc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1341719152675864576/pu/img/6o3ST9TGq3nNRzAc.jpg",
+					"url": "https://t.co/iElulynw7T",
+					"display_url": "pic.twitter.com/iElulynw7T",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1341719301657489408/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 34400,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1341719152675864576/pu/vid/360x450/DkGz9gdYRGCOmryS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1341719152675864576/pu/pl/vUNrnCX6GpwsktE_.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1341719152675864576/pu/vid/640x800/dyyLzDet1D-vaSpk.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1341719152675864576/pu/vid/320x400/vFTeXcaglKLue-Ji.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1341717132145356800,
+		"in_reply_to_status_id_str": "1341717132145356801",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14361,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1609093646",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 227,
+		"favorite_count": 305,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💌 Dear fans. I hope you all stay safe and Merry Christmas! \n\nQ. 크리스마스에 받고 싶은 선물이 있나요? \n- '허쉬' 시청률 대박나게 해주세요! 또, 예전처럼 생활할 수 있으면 좋겠어요! \n\n#YOONA #LIMYOONA #HarpersBazaar #HUSH https://t.co/iElulynw7T"
+	},
+	{
+		"created_at": "Mon Dec 28 04:58:39 +0000 2020",
+		"id": 1341717132145356800,
+		"id_str": "1343421078186545153",
+		"full_text": "[PREVIEW] YOONA Harper's Bazaar January 2021 \n\n👉🏻 https://t.co/T4Ct8jSsba  \n\n#윤아 #임윤아 #하퍼스바자 #허쉬 #YOONA #LIMYOONA #HarpersBazaar #HUSH https://t.co/ieTdCyLuYn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "하퍼스바자",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"text": "HarpersBazaar",
+					"indices": [
+						114,
+						128
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T4Ct8jSsba",
+					"expanded_url": "https://www.facebook.com/ggpm2012/posts/3350348845077096",
+					"display_url": "facebook.com/ggpm2012/posts…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341717105482166300,
+					"id_str": "1341717105482166274",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep68mUVUcAIq3aC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep68mUVUcAIq3aC.jpg",
+					"url": "https://t.co/ieTdCyLuYn",
+					"display_url": "pic.twitter.com/ieTdCyLuYn",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1341717132145356801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341717105482166300,
+					"id_str": "1341717105482166274",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep68mUVUcAIq3aC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep68mUVUcAIq3aC.jpg",
+					"url": "https://t.co/ieTdCyLuYn",
+					"display_url": "pic.twitter.com/ieTdCyLuYn",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1341717132145356801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341717121886113800,
+					"id_str": "1341717121886113801",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep68nRcU0AkxXwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep68nRcU0AkxXwt.jpg",
+					"url": "https://t.co/ieTdCyLuYn",
+					"display_url": "pic.twitter.com/ieTdCyLuYn",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1341717132145356801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 497,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1479,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14361,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1609093646",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1033,
+		"favorite_count": 1616,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[PREVIEW] YOONA Harper's Bazaar January 2021 \n\n👉🏻 https://t.co/T4Ct8jSsba  \n\n#윤아 #임윤아 #하퍼스바자 #허쉬 #YOONA #LIMYOONA #HarpersBazaar #HUSH https://t.co/ieTdCyLuYn"
+	},
+	{
+		"created_at": "Mon Dec 28 04:58:25 +0000 2020",
+		"id": 1341754989782286300,
+		"id_str": "1343421018782633984",
+		"full_text": "[sunday afternoon] YOONA X Miu Miu \n\n나른한 오후, 아기자기하게 꾸민 소녀의 방에 들어선 임윤아. 미우 미우의 세계 속에 들어온 그녀는 밝게 빛납니다. 무심한 듯 고요한 눈빛 속에 담긴 임윤아의 그윽한 매력을 지금 영상으로 확인해보세요. \n\n#YOONA #ELLE #MiuMiu https://t.co/gR4wbsq9Ya",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "ELLE",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "MiuMiu",
+					"indices": [
+						164,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341754934841073700,
+					"id_str": "1341754934841073665",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1341754934841073665/pu/img/KLK2S2sWihfEAJxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1341754934841073665/pu/img/KLK2S2sWihfEAJxK.jpg",
+					"url": "https://t.co/gR4wbsq9Ya",
+					"display_url": "pic.twitter.com/gR4wbsq9Ya",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1341754989782286339/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341754934841073700,
+					"id_str": "1341754934841073665",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1341754934841073665/pu/img/KLK2S2sWihfEAJxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1341754934841073665/pu/img/KLK2S2sWihfEAJxK.jpg",
+					"url": "https://t.co/gR4wbsq9Ya",
+					"display_url": "pic.twitter.com/gR4wbsq9Ya",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1341754989782286339/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40082,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1341754934841073665/pu/vid/1280x720/PLYzB0b5SuYWhjBj.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1341754934841073665/pu/vid/480x270/L6LxJVe7764b2vkh.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1341754934841073665/pu/vid/640x360/Lbqlh2-G6o9OxOZu.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1341754934841073665/pu/pl/K-FxxDctOMBmYnDo.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1341753440897179600,
+		"in_reply_to_status_id_str": "1341753440897179648",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Girls' Generation",
+			"description": "GGPM Official Twitter 👀 ◇https://t.co/rdfyWmrUoz ◇https://t.co/UbPM0xr1Sh",
+			"url": "https://t.co/jpmphwjHKX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpmphwjHKX",
+							"expanded_url": "https://www.ggpm2012.com",
+							"display_url": "ggpm2012.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rdfyWmrUoz",
+							"expanded_url": "https://www.facebook.com/ggpm2012",
+							"display_url": "facebook.com/ggpm2012",
+							"indices": [
+								25,
+								48
+							]
+						},
+						{
+							"url": "https://t.co/UbPM0xr1Sh",
+							"expanded_url": "https://www.instagram.com/ggpm2012",
+							"display_url": "instagram.com/ggpm2012",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 14361,
+			"friends_count": 9,
+			"listed_count": 0,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2468,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1609093646",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 169,
+		"favorite_count": 261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[sunday afternoon] YOONA X Miu Miu \n\n나른한 오후, 아기자기하게 꾸민 소녀의 방에 들어선 임윤아. 미우 미우의 세계 속에 들어온 그녀는 밝게 빛납니다. 무심한 듯 고요한 눈빛 속에 담긴 임윤아의 그윽한 매력을 지금 영상으로 확인해보세요. \n\n#YOONA #ELLE #MiuMiu https://t.co/gR4wbsq9Ya"
+	},
+	{
 		"created_at": "Mon Dec 28 03:45:02 +0000 2020",
 		"id": 1343399599994589200,
 		"id_str": "1343402551987875841",
