@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 03:07:17 +0000 2020",
+		"id": 1343391219355828200,
+		"id_str": "1343393052543619072",
+		"full_text": "2021年1月1日13:00より「SMTOWN LIVE」の無料オンラインコンサート「SMTOWN LIVE \"Culture Humanity\"」の開催が決定しました🎉\n\n🔻詳しくはこちら\nhttps://t.co/xZkK7G9ec7\n\n#テヨン #TAEYEON #태연　#SMTOWN_LIVE #SMTOWN_LIVE_Culture_Humanity #SMTOWN https://t.co/KOmmq9UEln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						139,
+						151
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						152,
+						181
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xZkK7G9ec7",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/online-concert/",
+					"display_url": "taeyeon.girls-generation.jp/news/online-co…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343382129770545200,
+					"id_str": "1343382129770545152",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EqSm7fKUwAAWaEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqSm7fKUwAAWaEy.jpg",
+					"url": "https://t.co/KOmmq9UEln",
+					"display_url": "pic.twitter.com/KOmmq9UEln",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1343391219355828226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1442,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343382129770545200,
+					"id_str": "1343382129770545152",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/EqSm7fKUwAAWaEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqSm7fKUwAAWaEy.jpg",
+					"url": "https://t.co/KOmmq9UEln",
+					"display_url": "pic.twitter.com/KOmmq9UEln",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1343391219355828226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1442,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105929,
+			"friends_count": 0,
+			"listed_count": 486,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "2021年1月1日13:00より「SMTOWN LIVE」の無料オンラインコンサート「SMTOWN LIVE \"Culture Humanity\"」の開催が決定しました🎉\n\n🔻詳しくはこちら\nhttps://t.co/xZkK7G9ec7\n\n#テヨン #TAEYEON #태연　#SMTOWN_LIVE #SMTOWN_LIVE_Culture_Humanity #SMTOWN https://t.co/KOmmq9UEln"
+	},
+	{
+		"created_at": "Mon Dec 28 03:07:13 +0000 2020",
+		"id": 1343388966582505500,
+		"id_str": "1343393035346993152",
+		"full_text": "깐족의 끝..! 멤버들의 게스트 놀리기🤣ㅋㅋㅋㅋ\n유연석 X 이연희 둘만의 탱고💃🕺\n\nSBS&lt;런닝맨&gt;🏃‍♀️🏃‍♂️\n☞ 매주 일요일 오후 5시 방송\n\n#런닝맨 #RunningMan #SpecialClip #스브스핫클립 #유재석 #지석진 #김종국 #하하 #송지효 #이광수 #전소민 #양세찬 #유연석 #이연희 #최수영 #유태오 #탱고 #습피드 https://t.co/sxwqOCeIqr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "런닝맨",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "RunningMan",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "SpecialClip",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"text": "스브스핫클립",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "유재석",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "지석진",
+					"indices": [
+						132,
+						136
+					]
+				},
+				{
+					"text": "김종국",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "하하",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "송지효",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "이광수",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "전소민",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "양세찬",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "유연석",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "이연희",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "유태오",
+					"indices": [
+						181,
+						185
+					]
+				},
+				{
+					"text": "탱고",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "습피드",
+					"indices": [
+						190,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1343385658237194200,
+					"id_str": "1343385658237194240",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EqSs9fUVQAAlOrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqSs9fUVQAAlOrK.jpg",
+					"url": "https://t.co/sxwqOCeIqr",
+					"display_url": "pic.twitter.com/sxwqOCeIqr",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1343388966582505473/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343385658237194200,
+					"id_str": "1343385658237194240",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/EqSs9fUVQAAlOrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqSs9fUVQAAlOrK.jpg",
+					"url": "https://t.co/sxwqOCeIqr",
+					"display_url": "pic.twitter.com/sxwqOCeIqr",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1343388966582505473/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 121822,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343385658237194240/vid/480x270/HNzeZEs_snCWHm03.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1343385658237194240/pl/Gls3vgcnKaInmpjP.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343385658237194240/vid/640x360/IgXR2o89mRm6JIz1.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343385658237194240/vid/1280x720/_mOl3tH4QHeBjzUk.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "37.5291271,126.873538",
+			"description": "SBS공식트위터 '스브스 나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1666199,
+			"friends_count": 4655,
+			"listed_count": 2877,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1341899160895643649/kISWgN2G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341899160895643649/kISWgN2G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1608769257",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "깐족의 끝..! 멤버들의 게스트 놀리기🤣ㅋㅋㅋㅋ\n유연석 X 이연희 둘만의 탱고💃🕺\n\nSBS&lt;런닝맨&gt;🏃‍♀️🏃‍♂️\n☞ 매주 일요일 오후 5시 방송\n\n#런닝맨 #RunningMan #SpecialClip #스브스핫클립 #유재석 #지석진 #김종국 #하하 #송지효 #이광수 #전소민 #양세찬 #유연석 #이연희 #최수영 #유태오 #탱고 #습피드 https://t.co/sxwqOCeIqr"
+	},
+	{
 		"created_at": "Sun Dec 27 23:07:16 +0000 2020",
 		"id": 1343331170616918000,
 		"id_str": "1343332650619166722",
