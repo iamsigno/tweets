@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 03:45:02 +0000 2020",
+		"id": 1343399599994589200,
+		"id_str": "1343402551987875841",
+		"full_text": "[임윤아] 곧 유료화될 포스트입니다.(ft. 연말정산)\n\n👉🏻https://t.co/oQRwABbAt7\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "허쉬",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "HUSH",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "이지수",
+					"indices": [
+						107,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oQRwABbAt7",
+					"expanded_url": "http://naver.me/xyU6StCL",
+					"display_url": "naver.me/xyU6StCL",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3619831,
+			"friends_count": 4,
+			"listed_count": 5146,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 57,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 691,
+		"favorite_count": 1873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[임윤아] 곧 유료화될 포스트입니다.(ft. 연말정산)\n\n👉🏻https://t.co/oQRwABbAt7\n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration #허쉬 #HUSH #이지수"
+	},
+	{
 		"created_at": "Mon Dec 28 03:07:17 +0000 2020",
 		"id": 1343391219355828200,
 		"id_str": "1343393052543619072",
@@ -231,7 +387,7 @@ Grailbird.data.tweets_2020_12 =
 		"created_at": "Mon Dec 28 03:07:13 +0000 2020",
 		"id": 1343388966582505500,
 		"id_str": "1343393035346993152",
-		"full_text": "깐족의 끝..! 멤버들의 게스트 놀리기🤣ㅋㅋㅋㅋ\n유연석 X 이연희 둘만의 탱고💃🕺\n\nSBS&lt;런닝맨&gt;🏃‍♀️🏃‍♂️\n☞ 매주 일요일 오후 5시 방송\n\n#런닝맨 #RunningMan #SpecialClip #스브스핫클립 #유재석 #지석진 #김종국 #하하 #송지효 #이광수 #전소민 #양세찬 #유연석 #이연희 #최수영 #유태오 #탱고 #습피드 https://t.co/sxwqOCeIqr",
+		"full_text": "깐족의 끝..! 멤버들의 게스트 놀리기🤣ㅋㅋㅋㅋ\n유연석 X 이연희 둘만의 탱고💃🕺\n\nSBS&lt;런닝맨&gt;🏃♀️🏃♂️\n☞ 매주 일요일 오후 5시 방송\n\n#런닝맨 #RunningMan #SpecialClip #스브스핫클립 #유재석 #지석진 #김종국 #하하 #송지효 #이광수 #전소민 #양세찬 #유연석 #이연희 #최수영 #유태오 #탱고 #습피드 https://t.co/sxwqOCeIqr",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -547,7 +703,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "깐족의 끝..! 멤버들의 게스트 놀리기🤣ㅋㅋㅋㅋ\n유연석 X 이연희 둘만의 탱고💃🕺\n\nSBS&lt;런닝맨&gt;🏃‍♀️🏃‍♂️\n☞ 매주 일요일 오후 5시 방송\n\n#런닝맨 #RunningMan #SpecialClip #스브스핫클립 #유재석 #지석진 #김종국 #하하 #송지효 #이광수 #전소민 #양세찬 #유연석 #이연희 #최수영 #유태오 #탱고 #습피드 https://t.co/sxwqOCeIqr"
+		"text": "깐족의 끝..! 멤버들의 게스트 놀리기🤣ㅋㅋㅋㅋ\n유연석 X 이연희 둘만의 탱고💃🕺\n\nSBS&lt;런닝맨&gt;🏃♀️🏃♂️\n☞ 매주 일요일 오후 5시 방송\n\n#런닝맨 #RunningMan #SpecialClip #스브스핫클립 #유재석 #지석진 #김종국 #하하 #송지효 #이광수 #전소민 #양세찬 #유연석 #이연희 #최수영 #유태오 #탱고 #습피드 https://t.co/sxwqOCeIqr"
 	},
 	{
 		"created_at": "Sun Dec 27 23:07:16 +0000 2020",
