@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 28 09:07:09 +0000 2020",
+		"id": 1343473731016880000,
+		"id_str": "1343483615305469953",
+		"full_text": "SM เตรียมจัดคอนเสิร์ตออนไลน์ ‘#SMTOWN_LIVE_Culture_Humanity’ พร้อมถ่ายทอดสดทั่วโลก และรับชมได้ฟรี! ในวันที่ 1 มกราคมนี้ 11 โมงเช้าไทย!!\n\nhttps://t.co/99zZoe87o7\n\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet #NCT #WayV #SuperM #aespa #Raiden #GINJO #IMLAY https://t.co/K3MFPiKkeR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						30,
+						59
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						162,
+						169
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						190,
+						198
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						199,
+						206
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						207,
+						216
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						217,
+						221
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						222,
+						232
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						233,
+						237
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						238,
+						243
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						244,
+						251
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						252,
+						258
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						259,
+						266
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						267,
+						273
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						274,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/99zZoe87o7",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/3635017053212883",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343472522507927600,
+					"id_str": "1343472522507927554",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EqT5JCWVQAI9KmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqT5JCWVQAI9KmX.jpg",
+					"url": "https://t.co/K3MFPiKkeR",
+					"display_url": "pic.twitter.com/K3MFPiKkeR",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1343473731016880130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343472522507927600,
+					"id_str": "1343472522507927554",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EqT5JCWVQAI9KmX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqT5JCWVQAI9KmX.jpg",
+					"url": "https://t.co/K3MFPiKkeR",
+					"display_url": "pic.twitter.com/K3MFPiKkeR",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1343473731016880130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1442,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 832,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82430,
+			"friends_count": 48,
+			"listed_count": 147,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5784,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 506,
+		"favorite_count": 173,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "SM เตรียมจัดคอนเสิร์ตออนไลน์ ‘#SMTOWN_LIVE_Culture_Humanity’ พร้อมถ่ายทอดสดทั่วโลก และรับชมได้ฟรี! ในวันที่ 1 มกราคมนี้ 11 โมงเช้าไทย!!\n\nhttps://t.co/99zZoe87o7\n\n#KANGTA #TVXQ! #SUPERJUNIOR #TAEYEON #TAEMIN #BAEKHYUN #KAI #RedVelvet #NCT #WayV #SuperM #aespa #Raiden #GINJO #IMLAY https://t.co/K3MFPiKkeR"
+	},
+	{
 		"created_at": "Mon Dec 28 05:07:13 +0000 2020",
 		"id": 1343422191530983400,
 		"id_str": "1343423233643720705",
