@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 09:07:09 +0000 2020",
+		"id": 1343844210517151700,
+		"id_str": "1343846002642583553",
+		"full_text": "🗓2021.01.01\n🎫SMTOWN LIVE \"Culture Humanity\"\n\nコロナで大変な時期、お互いを励まして癒しを届ける「SMTOWN LIVE \"Culture Humanity\"」を全世界無料で楽しみましょう！\n\n詳細はこちら▼\nhttps://t.co/xZkK7FRDkz\n\n#TAEYEON\n#SMTOWN_LIVE\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN https://t.co/2x46JacoUG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						173,
+						202
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						203,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xZkK7FRDkz",
+					"expanded_url": "https://taeyeon.girls-generation.jp/news/online-concert/",
+					"display_url": "taeyeon.girls-generation.jp/news/online-co…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343816572045967400,
+					"id_str": "1343816572045967360",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1343816572045967360/img/oEDe2PxDHqkNiKHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1343816572045967360/img/oEDe2PxDHqkNiKHK.jpg",
+					"url": "https://t.co/2x46JacoUG",
+					"display_url": "pic.twitter.com/2x46JacoUG",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1343844210517151747/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343816572045967400,
+					"id_str": "1343816572045967360",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1343816572045967360/img/oEDe2PxDHqkNiKHK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1343816572045967360/img/oEDe2PxDHqkNiKHK.jpg",
+					"url": "https://t.co/2x46JacoUG",
+					"display_url": "pic.twitter.com/2x46JacoUG",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1343844210517151747/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 53013,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343816572045967360/vid/640x360/3O_tZsawVmN1Qnmp.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343816572045967360/vid/1280x720/y8OYfL-MiAJAuGWJ.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1343816572045967360/vid/480x270/rBCxvopK7EoVcEKm.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1343816572045967360/pl/r_SP7yIUEIGuL4NR.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105959,
+			"friends_count": 0,
+			"listed_count": 487,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 217,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "🗓2021.01.01\n🎫SMTOWN LIVE \"Culture Humanity\"\n\nコロナで大変な時期、お互いを励まして癒しを届ける「SMTOWN LIVE \"Culture Humanity\"」を全世界無料で楽しみましょう！\n\n詳細はこちら▼\nhttps://t.co/xZkK7FRDkz\n\n#TAEYEON\n#SMTOWN_LIVE\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN https://t.co/2x46JacoUG"
+	},
+	{
 		"created_at": "Tue Dec 29 03:07:09 +0000 2020",
 		"id": 1343743338860560400,
 		"id_str": "1343755406364057605",
