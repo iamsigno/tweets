@@ -1,6 +1,942 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 10:07:37 +0000 2020",
+		"id": 1344584724010860500,
+		"id_str": "1344585995551965187",
+		"full_text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/AG2PQeBxdB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱구의100문100답2020ver",
+					"indices": [
+						52,
+						71
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						85,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						128,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCoUcchv05",
+					"expanded_url": "https://youtu.be/8k_sSfbX7rY",
+					"display_url": "youtu.be/8k_sSfbX7rY",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344584707942408200,
+					"id_str": "1344584707942408192",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqjsqv9UYAAPRiu.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eqjsqv9UYAAPRiu.png",
+					"url": "https://t.co/AG2PQeBxdB",
+					"display_url": "pic.twitter.com/AG2PQeBxdB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584724010860546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344584707942408200,
+					"id_str": "1344584707942408192",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqjsqv9UYAAPRiu.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eqjsqv9UYAAPRiu.png",
+					"url": "https://t.co/AG2PQeBxdB",
+					"display_url": "pic.twitter.com/AG2PQeBxdB",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584724010860546/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344584652623728600,
+		"in_reply_to_status_id_str": "1344584652623728640",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3623002,
+			"friends_count": 4,
+			"listed_count": 5136,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 103,
+		"favorite_count": 203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/AG2PQeBxdB"
+	},
+	{
+		"created_at": "Thu Dec 31 10:07:29 +0000 2020",
+		"id": 1344584652623728600,
+		"id_str": "1344585961523601409",
+		"full_text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/CvM5VNqsV2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱구의100문100답2020ver",
+					"indices": [
+						52,
+						71
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						85,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						128,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCoUcchv05",
+					"expanded_url": "https://youtu.be/8k_sSfbX7rY",
+					"display_url": "youtu.be/8k_sSfbX7rY",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344584639650832400,
+					"id_str": "1344584639650832384",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjsmxjVoAAH3Rz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqjsmxjVoAAH3Rz.png",
+					"url": "https://t.co/CvM5VNqsV2",
+					"display_url": "pic.twitter.com/CvM5VNqsV2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584652623728640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344584639650832400,
+					"id_str": "1344584639650832384",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjsmxjVoAAH3Rz.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqjsmxjVoAAH3Rz.png",
+					"url": "https://t.co/CvM5VNqsV2",
+					"display_url": "pic.twitter.com/CvM5VNqsV2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584652623728640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344584581777772500,
+		"in_reply_to_status_id_str": "1344584581777772545",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3623002,
+			"friends_count": 4,
+			"listed_count": 5136,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 219,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/CvM5VNqsV2"
+	},
+	{
+		"created_at": "Thu Dec 31 10:07:21 +0000 2020",
+		"id": 1344584581777772500,
+		"id_str": "1344585931614003200",
+		"full_text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/B8Zg66nfEz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱구의100문100답2020ver",
+					"indices": [
+						52,
+						71
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						85,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						128,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCoUcchv05",
+					"expanded_url": "https://youtu.be/8k_sSfbX7rY",
+					"display_url": "youtu.be/8k_sSfbX7rY",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344584562387480600,
+					"id_str": "1344584562387480576",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjsiRuUcAAiAG0.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqjsiRuUcAAiAG0.png",
+					"url": "https://t.co/B8Zg66nfEz",
+					"display_url": "pic.twitter.com/B8Zg66nfEz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584581777772545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344584562387480600,
+					"id_str": "1344584562387480576",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjsiRuUcAAiAG0.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqjsiRuUcAAiAG0.png",
+					"url": "https://t.co/B8Zg66nfEz",
+					"display_url": "pic.twitter.com/B8Zg66nfEz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584581777772545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344584472222527500,
+		"in_reply_to_status_id_str": "1344584472222527488",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3623002,
+			"friends_count": 4,
+			"listed_count": 5136,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/B8Zg66nfEz"
+	},
+	{
+		"created_at": "Thu Dec 31 10:07:17 +0000 2020",
+		"id": 1344584472222527500,
+		"id_str": "1344585914341879811",
+		"full_text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/m6iIdIJktY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱구의100문100답2020ver",
+					"indices": [
+						52,
+						71
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "What_Do_I_Call_You",
+					"indices": [
+						85,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						111,
+						127
+					]
+				},
+				{
+					"text": "이럴때엔_탱구노래가_역시적당할까",
+					"indices": [
+						128,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pCoUcchv05",
+					"expanded_url": "https://youtu.be/8k_sSfbX7rY",
+					"display_url": "youtu.be/8k_sSfbX7rY",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344584460122038300,
+					"id_str": "1344584460122038273",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjscUwVoAEJGei.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqjscUwVoAEJGei.png",
+					"url": "https://t.co/m6iIdIJktY",
+					"display_url": "pic.twitter.com/m6iIdIJktY",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584472222527488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344584460122038300,
+					"id_str": "1344584460122038273",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EqjscUwVoAEJGei.png",
+					"media_url_https": "https://pbs.twimg.com/media/EqjscUwVoAEJGei.png",
+					"url": "https://t.co/m6iIdIJktY",
+					"display_url": "pic.twitter.com/m6iIdIJktY",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1344584472222527488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2047,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1344584267427287000,
+		"in_reply_to_status_id_str": "1344584267427287042",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3623002,
+			"friends_count": 4,
+			"listed_count": 5136,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 99,
+		"favorite_count": 141,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "NEW⬆️! 그 시절 태연의 백문백답💯💻💕\n\n👉🏻https://t.co/pCoUcchv05\n\n#탱구의100문100답2020ver #TAEYEON #태연 #What_Do_I_Call_You #소녀시대 #GirlsGeneration #이럴때엔_탱구노래가_역시적당할까 https://t.co/m6iIdIJktY"
+	},
+	{
 		"created_at": "Thu Dec 31 09:07:09 +0000 2020",
 		"id": 1344568985363181600,
 		"id_str": "1344570778252148736",
