@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 14:07:09 +0000 2020",
+		"id": 1344634758471405600,
+		"id_str": "1344646277036969985",
+		"full_text": "MY~ Terima kasih yaa atas dukungannya yang hebat untuk #aespa! \n\nMeskipun tahun ini berat, semoga 2021 akan menjadi tahun di mana kamu menemukan kembali bara semangat di hati kamu seperti lagu \"Spark\" dari #TAEYEON ya! 💪🏆\n\n#My2020WithSM\n\nhttps://t.co/xZ8ZNcL76n https://t.co/1L2jO7VWyZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "aespa",
+					"indices": [
+						55,
+						61
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "My2020WithSM",
+					"indices": [
+						223,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xZ8ZNcL76n",
+					"expanded_url": "https://open.spotify.com/track/7hFt9Grmz9oJu94iAiLrWl?si=gUj2DmbdSnO5Nt-ttVFuAg",
+					"display_url": "open.spotify.com/track/7hFt9Grm…",
+					"indices": [
+						238,
+						261
+					]
+				},
+				{
+					"url": "https://t.co/1L2jO7VWyZ",
+					"expanded_url": "https://twitter.com/flynn_privacy/status/1344610713201852418",
+					"display_url": "twitter.com/flynn_privacy/…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 349453,
+			"friends_count": 33,
+			"listed_count": 237,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 58,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1344610713201852400,
+		"quoted_status_id_str": "1344610713201852418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1L2jO7VWyZ",
+			"expanded": "https://twitter.com/flynn_privacy/status/1344610713201852418",
+			"display": "twitter.com/flynn_privacy/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 31 11:45:50 +0000 2020",
+			"id": 1344610713201852400,
+			"id_str": "1344610713201852418",
+			"full_text": "@SMTOWN_Idn Yang pasti tahun ini tahun terberat sih, di PHK dari kerjaan padahal baru di kontrak kerja 6 bulan dan mau di kontrak satu tahun eh gak taunya korona ya udah deh. Udah gitu cari kerja susah banget.. 😭\n\nSenengnya, aespa debut tahun ini ❤❤\nBisa buat obat.",
+			"truncated": false,
+			"display_text_range": [
+				12,
+				265
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SMTOWN_Idn",
+						"name": "SMTOWN Indonesia",
+						"id": 1064828006487609300,
+						"id_str": "1064828006487609345",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1344584427121168400,
+			"in_reply_to_status_id_str": "1344584427121168385",
+			"in_reply_to_user_id": 1064828006487609300,
+			"in_reply_to_user_id_str": "1064828006487609345",
+			"in_reply_to_screen_name": "SMTOWN_Idn",
+			"user": {
+				"id": 1319788655192338400,
+				"id_str": "1319788655192338432",
+				"name": "𝙼𝚞𝚑𝚊𝚖𝚖𝚊𝚍 𝙰𝚛𝚍𝚒𝚊𝚗𝚜𝚢𝚊𝚑",
+				"screen_name": "flynn_privacy",
+				"location": "Indonesia",
+				"description": "æspa (에스파) Hype 🔥",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47,
+				"friends_count": 39,
+				"listed_count": 0,
+				"created_at": "Fri Oct 23 23:52:08 +0000 2020",
+				"favourites_count": 15668,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3496,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1341621577662664706/r2_0oTYK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1341621577662664706/r2_0oTYK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1319788655192338432/1603689749",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "in"
+		},
+		"retweet_count": 19,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "MY~ Terima kasih yaa atas dukungannya yang hebat untuk #aespa! \n\nMeskipun tahun ini berat, semoga 2021 akan menjadi tahun di mana kamu menemukan kembali bara semangat di hati kamu seperti lagu \"Spark\" dari #TAEYEON ya! 💪🏆\n\n#My2020WithSM\n\nhttps://t.co/xZ8ZNcL76n https://t.co/1L2jO7VWyZ"
+	},
+	{
 		"created_at": "Thu Dec 31 10:07:37 +0000 2020",
 		"id": 1344584724010860500,
 		"id_str": "1344585995551965187",
