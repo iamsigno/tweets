@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 16:07:10 +0000 2020",
+		"id": 1344665505450217500,
+		"id_str": "1344676479456735234",
+		"full_text": "&lt;2020 MBC 가요대제전&gt; 'THE MOMENT'\n✨현장포토✨ MC #김선호 #윤아\n\n#2020MBC가요대제전 #MBCMusicFestival #가요대제전 #MBC20201231방송 https://t.co/EgPeWULOHX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "김선호",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "2020MBC가요대제전",
+					"indices": [
+						56,
+						69
+					]
+				},
+				{
+					"text": "MBCMusicFestival",
+					"indices": [
+						70,
+						87
+					]
+				},
+				{
+					"text": "가요대제전",
+					"indices": [
+						88,
+						94
+					]
+				},
+				{
+					"text": "MBC20201231방송",
+					"indices": [
+						95,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1344663769662673000,
+					"id_str": "1344663769662672899",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqk0kv0U0AMRtZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqk0kv0U0AMRtZh.jpg",
+					"url": "https://t.co/EgPeWULOHX",
+					"display_url": "pic.twitter.com/EgPeWULOHX",
+					"expanded_url": "https://twitter.com/withMBC/status/1344665505450217473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344663769662673000,
+					"id_str": "1344663769662672899",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqk0kv0U0AMRtZh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqk0kv0U0AMRtZh.jpg",
+					"url": "https://t.co/EgPeWULOHX",
+					"display_url": "pic.twitter.com/EgPeWULOHX",
+					"expanded_url": "https://twitter.com/withMBC/status/1344665505450217473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344663769776058400,
+					"id_str": "1344663769776058369",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqk0kwPW8AEQfi0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqk0kwPW8AEQfi0.jpg",
+					"url": "https://t.co/EgPeWULOHX",
+					"display_url": "pic.twitter.com/EgPeWULOHX",
+					"expanded_url": "https://twitter.com/withMBC/status/1344665505450217473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344663769776070700,
+					"id_str": "1344663769776070658",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqk0kwPXIAIr6bK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqk0kwPXIAIr6bK.jpg",
+					"url": "https://t.co/EgPeWULOHX",
+					"display_url": "pic.twitter.com/EgPeWULOHX",
+					"expanded_url": "https://twitter.com/withMBC/status/1344665505450217473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1344663769675227100,
+					"id_str": "1344663769675227139",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqk0kv3UYAMscWx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqk0kv3UYAMscWx.jpg",
+					"url": "https://t.co/EgPeWULOHX",
+					"display_url": "pic.twitter.com/EgPeWULOHX",
+					"expanded_url": "https://twitter.com/withMBC/status/1344665505450217473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 870,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1009210,
+			"friends_count": 10142,
+			"listed_count": 4203,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1608699647",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 941,
+		"favorite_count": 1148,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;2020 MBC 가요대제전&gt; 'THE MOMENT'\n✨현장포토✨ MC #김선호 #윤아\n\n#2020MBC가요대제전 #MBCMusicFestival #가요대제전 #MBC20201231방송 https://t.co/EgPeWULOHX"
+	},
+	{
 		"created_at": "Thu Dec 31 14:07:09 +0000 2020",
 		"id": 1344634758471405600,
 		"id_str": "1344646277036969985",
