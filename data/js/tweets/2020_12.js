@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 31 06:44:57 +0000 2020",
+		"id": 1344524090615337000,
+		"id_str": "1344534992450367488",
+		"full_text": "🗓2021.01.01\n🎫SMTOWN LIVE \"Culture Humanity\"\n\n📺NAVER V LIVE\nhttps://t.co/F15gJ9sFt5\n📺YouTube\nhttps://t.co/Kw9OKC5Jnc\n📺Facebook\nhttps://t.co/D06lTo1U65\n📺Twitter\nhttps://t.co/hwm0AWHaGE\n📺TikTok\nhttps://t.co/T7rVpRimdQ \n\n#SMTOWN_LIVE\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN https://t.co/XSrg6USwZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						217,
+						229
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE_Culture_Humanity",
+					"indices": [
+						230,
+						259
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						260,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F15gJ9sFt5",
+					"expanded_url": "https://www.vlive.tv/video/230114",
+					"display_url": "vlive.tv/video/230114",
+					"indices": [
+						59,
+						82
+					]
+				},
+				{
+					"url": "https://t.co/Kw9OKC5Jnc",
+					"expanded_url": "https://youtu.be/2oTIlGcsRf8",
+					"display_url": "youtu.be/2oTIlGcsRf8",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/D06lTo1U65",
+					"expanded_url": "https://fb.me/e/IOyEN9cn",
+					"display_url": "fb.me/e/IOyEN9cn",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/hwm0AWHaGE",
+					"expanded_url": "https://twitter.com/i/events/1341395488675823616",
+					"display_url": "twitter.com/i/events/13413…",
+					"indices": [
+						159,
+						182
+					]
+				},
+				{
+					"url": "https://t.co/T7rVpRimdQ",
+					"expanded_url": "https://vt.tiktok.com/ZS7k8bqg/",
+					"display_url": "vt.tiktok.com/ZS7k8bqg/",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1344524084932006000,
+					"id_str": "1344524084932005888",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqi1iBpUUAAE3I_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqi1iBpUUAAE3I_.jpg",
+					"url": "https://t.co/XSrg6USwZm",
+					"display_url": "pic.twitter.com/XSrg6USwZm",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1344524090615336965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1344524084932006000,
+					"id_str": "1344524084932005888",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/Eqi1iBpUUAAE3I_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eqi1iBpUUAAE3I_.jpg",
+					"url": "https://t.co/XSrg6USwZm",
+					"display_url": "pic.twitter.com/XSrg6USwZm",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1344524090615336965/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 665,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105973,
+			"friends_count": 0,
+			"listed_count": 486,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 293,
+		"favorite_count": 507,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗓2021.01.01\n🎫SMTOWN LIVE \"Culture Humanity\"\n\n📺NAVER V LIVE\nhttps://t.co/F15gJ9sFt5\n📺YouTube\nhttps://t.co/Kw9OKC5Jnc\n📺Facebook\nhttps://t.co/D06lTo1U65\n📺Twitter\nhttps://t.co/hwm0AWHaGE\n📺TikTok\nhttps://t.co/T7rVpRimdQ \n\n#SMTOWN_LIVE\n#SMTOWN_LIVE_Culture_Humanity\n#SMTOWN https://t.co/XSrg6USwZm"
+	},
+	{
 		"created_at": "Thu Dec 31 04:07:09 +0000 2020",
 		"id": 1344482675340365800,
 		"id_str": "1344495282512424961",
