@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 01 05:07:09 +0000 2021",
+		"id": 1344862996107993000,
+		"id_str": "1344872767792013314",
+		"full_text": "#SMTOWN_LIVE \"Culture Humanity\"\n\n#KANGTA\n#TVXQ!\n#SUPERJUNIOR\n#GirlsGeneration #TAEYEON\n#SHINee #TAEMIN\n#EXO #BAEKHYUN #KAI\n#RedVelvet\n#NCT #NCTU\n#NCT127 #NCTDREAM #WayV\n#SuperM\n#aespa\n#Raiden #GINJO #IMLAY\nhttps://t.co/FB6fp7NWVi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "KANGTA",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						61,
+						77
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						78,
+						86
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "TAEMIN",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "BAEKHYUN",
+					"indices": [
+						108,
+						117
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						184,
+						191
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						199,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FB6fp7NWVi",
+					"expanded_url": "https://twitter.com/i/events/1341395488675823616",
+					"display_url": "twitter.com/i/events/13413…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8882342,
+			"friends_count": 53,
+			"listed_count": 8679,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 1823,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9453,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4962,
+		"favorite_count": 10188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SMTOWN_LIVE \"Culture Humanity\"\n\n#KANGTA\n#TVXQ!\n#SUPERJUNIOR\n#GirlsGeneration #TAEYEON\n#SHINee #TAEMIN\n#EXO #BAEKHYUN #KAI\n#RedVelvet\n#NCT #NCTU\n#NCT127 #NCTDREAM #WayV\n#SuperM\n#aespa\n#Raiden #GINJO #IMLAY\nhttps://t.co/FB6fp7NWVi"
+	},
+	{
 		"created_at": "Fri Jan 01 04:07:14 +0000 2021",
 		"id": 1344855404669329400,
 		"id_str": "1344857691005579264",
