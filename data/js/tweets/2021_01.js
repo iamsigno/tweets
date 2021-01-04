@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 03:07:09 +0000 2021",
+		"id": 1345929066197602300,
+		"id_str": "1345929734245507073",
+		"full_text": "정일우X권유리 ˙보쌈˙, MBN 봄 편성 확정..아련한 감성 자극[공식]\n\n👉🏻 https://t.co/zFJenBWpgF  \n\n#권유리 #KWONYURI #보쌈_운명을훔치다 #소녀시대 #GirlsGeneration https://t.co/69FsEnYKAG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"text": "보쌈_운명을훔치다",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						104,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zFJenBWpgF",
+					"expanded_url": "http://naver.me/F0Klrtvj",
+					"display_url": "naver.me/F0Klrtvj",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1345928352801017900,
+					"id_str": "1345928352801017856",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq2ytLHU0AArB6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq2ytLHU0AArB6p.jpg",
+					"url": "https://t.co/69FsEnYKAG",
+					"display_url": "pic.twitter.com/69FsEnYKAG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1345929066197602304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 914,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1345928352801017900,
+					"id_str": "1345928352801017856",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq2ytLHU0AArB6p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq2ytLHU0AArB6p.jpg",
+					"url": "https://t.co/69FsEnYKAG",
+					"display_url": "pic.twitter.com/69FsEnYKAG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1345929066197602304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 914,
+							"h": 608,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 914,
+							"h": 608,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3626277,
+			"friends_count": 4,
+			"listed_count": 5139,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 422,
+		"favorite_count": 926,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정일우X권유리 ˙보쌈˙, MBN 봄 편성 확정..아련한 감성 자극[공식]\n\n👉🏻 https://t.co/zFJenBWpgF  \n\n#권유리 #KWONYURI #보쌈_운명을훔치다 #소녀시대 #GirlsGeneration https://t.co/69FsEnYKAG"
+	},
+	{
 		"created_at": "Sat Jan 02 04:07:09 +0000 2021",
 		"id": 1345218509370867700,
 		"id_str": "1345220058314924032",
