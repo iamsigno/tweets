@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 05:07:09 +0000 2021",
+		"id": 1347769444181790700,
+		"id_str": "1347771870809096202",
+		"full_text": "마틴스미스's 방탄소년단 Dynamite, 태연 what do i call you, 프라이머리 자니, 폴킴 너를 만나 한 소절 라이브💖 /[설레는 밤, 박소현입니다]\nhttps://t.co/MtDokBvCUz https://t.co/VAxvS5fbk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MtDokBvCUz",
+					"expanded_url": "https://youtu.be/GIk0A-EBYI0",
+					"display_url": "youtu.be/GIk0A-EBYI0",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347769438104297500,
+					"id_str": "1347769438104297473",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErQ9KcVVoAE3ito.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErQ9KcVVoAE3ito.jpg",
+					"url": "https://t.co/VAxvS5fbk0",
+					"display_url": "pic.twitter.com/VAxvS5fbk0",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1347769444181790720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347769438104297500,
+					"id_str": "1347769438104297473",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/ErQ9KcVVoAE3ito.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErQ9KcVVoAE3ito.jpg",
+					"url": "https://t.co/VAxvS5fbk0",
+					"display_url": "pic.twitter.com/VAxvS5fbk0",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1347769444181790720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2292392636,
+			"id_str": "2292392636",
+			"name": "KBS Cool FM",
+			"screen_name": "KBS_COOL_FM",
+			"location": "",
+			"description": "안녕하세요 KBS 라디오 89.1MHz \nKBS쿨FM입니다^^\n스튜디오 속 생동감 넘치는 영상으로 청취자 여러분과 소통하기위해 노력하겠습니다^^*",
+			"url": "https://t.co/iWikkJSsdH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iWikkJSsdH",
+							"expanded_url": "https://www.youtube.com/channel/UCbVRtqsTmYh1xhrDSTfSQLg",
+							"display_url": "youtube.com/channel/UCbVRt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18253,
+			"friends_count": 3,
+			"listed_count": 105,
+			"created_at": "Wed Jan 15 08:45:26 +0000 2014",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2292392636/1609143731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마틴스미스's 방탄소년단 Dynamite, 태연 what do i call you, 프라이머리 자니, 폴킴 너를 만나 한 소절 라이브💖 /[설레는 밤, 박소현입니다]\nhttps://t.co/MtDokBvCUz https://t.co/VAxvS5fbk0"
+	},
+	{
 		"created_at": "Fri Jan 08 23:55:02 +0000 2021",
 		"id": 1346142288091766800,
 		"id_str": "1347693325931880448",
