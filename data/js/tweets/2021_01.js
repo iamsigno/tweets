@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 23:55:02 +0000 2021",
+		"id": 1346142288091766800,
+		"id_str": "1347693325931880448",
+		"full_text": "#JangWonYoung (@official_izone) and #LimYoona wearing #MiuMiu Pre Spring 2021 collection for #ElleKorea.\n\nStyling by: #HoKwangBang, #DaYeaSon\nFilm by #SunhyeShin\n\n#MiuMiuEditorials\n#MiuMiuGirls https://t.co/7fnMTFOown",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "JangWonYoung",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "LimYoona",
+					"indices": [
+						36,
+						45
+					]
+				},
+				{
+					"text": "MiuMiu",
+					"indices": [
+						54,
+						61
+					]
+				},
+				{
+					"text": "ElleKorea",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"text": "HoKwangBang",
+					"indices": [
+						118,
+						130
+					]
+				},
+				{
+					"text": "DaYeaSon",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "SunhyeShin",
+					"indices": [
+						150,
+						161
+					]
+				},
+				{
+					"text": "MiuMiuEditorials",
+					"indices": [
+						163,
+						180
+					]
+				},
+				{
+					"text": "MiuMiuGirls",
+					"indices": [
+						181,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_izone",
+					"name": "official_IZONE",
+					"id": 1034744720537219100,
+					"id_str": "1034744720537219073",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1346142273864659000,
+					"id_str": "1346142273864658945",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq51RBLW8AEl3NM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq51RBLW8AEl3NM.jpg",
+					"url": "https://t.co/7fnMTFOown",
+					"display_url": "pic.twitter.com/7fnMTFOown",
+					"expanded_url": "https://twitter.com/MIUMIUofficial/status/1346142288091766785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1346142273864659000,
+					"id_str": "1346142273864658945",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq51RBLW8AEl3NM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq51RBLW8AEl3NM.jpg",
+					"url": "https://t.co/7fnMTFOown",
+					"display_url": "pic.twitter.com/7fnMTFOown",
+					"expanded_url": "https://twitter.com/MIUMIUofficial/status/1346142288091766785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346142278511943700,
+					"id_str": "1346142278511943680",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq51RSfW4AA20mk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq51RSfW4AA20mk.jpg",
+					"url": "https://t.co/7fnMTFOown",
+					"display_url": "pic.twitter.com/7fnMTFOown",
+					"expanded_url": "https://twitter.com/MIUMIUofficial/status/1346142288091766785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346142281720590300,
+					"id_str": "1346142281720590340",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq51RecW8AQea_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq51RecW8AQea_l.jpg",
+					"url": "https://t.co/7fnMTFOown",
+					"display_url": "pic.twitter.com/7fnMTFOown",
+					"expanded_url": "https://twitter.com/MIUMIUofficial/status/1346142288091766785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1346142286372102100,
+					"id_str": "1346142286372102144",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/Eq51RvxXYAA1c7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eq51RvxXYAA1c7U.jpg",
+					"url": "https://t.co/7fnMTFOown",
+					"display_url": "pic.twitter.com/7fnMTFOown",
+					"expanded_url": "https://twitter.com/MIUMIUofficial/status/1346142288091766785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 819,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 937294358,
+			"id_str": "937294358",
+			"name": "Miu Miu",
+			"screen_name": "MIUMIUofficial",
+			"location": "Milan, Lombardy",
+			"description": "Girl at heart.",
+			"url": "https://t.co/JG009i7nLB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JG009i7nLB",
+							"expanded_url": "http://miumiu.com",
+							"display_url": "miumiu.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201233,
+			"friends_count": 7,
+			"listed_count": 1215,
+			"created_at": "Fri Nov 09 16:41:28 +0000 2012",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751402395532484608/bQrO-_X5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751402395532484608/bQrO-_X5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937294358/1592907174",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7898,
+		"favorite_count": 28893,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#JangWonYoung (@official_izone) and #LimYoona wearing #MiuMiu Pre Spring 2021 collection for #ElleKorea.\n\nStyling by: #HoKwangBang, #DaYeaSon\nFilm by #SunhyeShin\n\n#MiuMiuEditorials\n#MiuMiuGirls https://t.co/7fnMTFOown"
+	},
+	{
 		"created_at": "Fri Jan 08 05:07:09 +0000 2021",
 		"id": 1347406329233608700,
 		"id_str": "1347409484684140551",
