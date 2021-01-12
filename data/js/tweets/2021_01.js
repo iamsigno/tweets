@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 01:07:09 +0000 2021",
+		"id": 1348787720982655000,
+		"id_str": "1348798637145546753",
+		"full_text": "STAYC의 ❣️치얼업 스테이지❣️로\n2021년도 #힘내! \n\n#Way_To_Go #소녀시대\n#STAYC #스테이씨 https://t.co/2vHBrQ8oyD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "힘내",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "Way_To_Go",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						46,
+						51
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						52,
+						58
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						59,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1348535900813156400,
+					"id_str": "1348535900813156357",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ErfbQJKUYAIPSoR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErfbQJKUYAIPSoR.jpg",
+					"url": "https://t.co/2vHBrQ8oyD",
+					"display_url": "pic.twitter.com/2vHBrQ8oyD",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1348787720982654976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1348535900813156400,
+					"id_str": "1348535900813156357",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/ErfbQJKUYAIPSoR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErfbQJKUYAIPSoR.jpg",
+					"url": "https://t.co/2vHBrQ8oyD",
+					"display_url": "pic.twitter.com/2vHBrQ8oyD",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1348787720982654976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 193727,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348535900813156357/vid/1280x720/qbrgyUjZdwNYbvkC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1348535900813156357/pl/r9jQmSr24vjDDIrS.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348535900813156357/vid/480x270/Ine1RSGBfPqidLg8.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1348535900813156357/vid/640x360/Gma-lslftYUIcqz8.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)🏦",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1948840,
+			"friends_count": 17,
+			"listed_count": 4814,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "STAYC의 ❣️치얼업 스테이지❣️로\n2021년도 #힘내! \n\n#Way_To_Go #소녀시대\n#STAYC #스테이씨 https://t.co/2vHBrQ8oyD"
+	},
+	{
 		"created_at": "Mon Jan 11 07:07:09 +0000 2021",
 		"id": 1348520128166600700,
 		"id_str": "1348526846942523392",
