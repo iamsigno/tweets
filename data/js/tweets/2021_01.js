@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 15 05:07:09 +0000 2021",
+		"id": 1349945712402788400,
+		"id_str": "1349946198392770560",
+		"full_text": "[#NOTICE] 안녕하세요, 나무엑터스입니다.\nSEOHYUN 2021 Season's Greetings 출시 안내 드립니다. \n자세한 내용은 공식 판매처를 통해 확인해주시기 바랍니다.\n\n▶ https://t.co/asYotpXYL6\n\n■ 예약판매기간 : 1월 15일 (금) 오후 14시 ~ 1월 22일 (금) 24시\n\n#서현 #SEOHYUN https://t.co/A4M92Mced2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOTICE",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						183,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/asYotpXYL6",
+					"expanded_url": "https://bit.ly/2XGmTwD",
+					"display_url": "bit.ly/2XGmTwD",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1349945705603846100,
+					"id_str": "1349945705603846145",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"url": "https://t.co/A4M92Mced2",
+					"display_url": "pic.twitter.com/A4M92Mced2",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1349945712402788353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349945705603846100,
+					"id_str": "1349945705603846145",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Erv4d4iU0AE0Xow.jpg",
+					"url": "https://t.co/A4M92Mced2",
+					"display_url": "pic.twitter.com/A4M92Mced2",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1349945712402788353/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37044,
+			"friends_count": 12,
+			"listed_count": 212,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NOTICE] 안녕하세요, 나무엑터스입니다.\nSEOHYUN 2021 Season's Greetings 출시 안내 드립니다. \n자세한 내용은 공식 판매처를 통해 확인해주시기 바랍니다.\n\n▶ https://t.co/asYotpXYL6\n\n■ 예약판매기간 : 1월 15일 (금) 오후 14시 ~ 1월 22일 (금) 24시\n\n#서현 #SEOHYUN https://t.co/A4M92Mced2"
+	},
+	{
 		"created_at": "Tue Jan 12 01:07:09 +0000 2021",
 		"id": 1348787720982655000,
 		"id_str": "1348798637145546753",
