@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 08:07:09 +0000 2021",
+		"id": 1351436956178083800,
+		"id_str": "1351441048032190464",
+		"full_text": "[#PopsinSeoul]\nIdol's comfort items🎀\n\n#KPop stars also have comfort items that they cherish deeply🙌\nLet's check them out!👀\n\n🎬Youtube Link\n👉👉https://t.co/ns3iHj0GgZ\n\n#TAEYEON #SEOHO #JIMIN #DONGHAE #LUCAS https://t.co/F4vblLEIKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PopsinSeoul",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "KPop",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "SEOHO",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "JIMIN",
+					"indices": [
+						181,
+						187
+					]
+				},
+				{
+					"text": "DONGHAE",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "LUCAS",
+					"indices": [
+						197,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ns3iHj0GgZ",
+					"expanded_url": "https://youtu.be/GCi4HSZ5OqA",
+					"display_url": "youtu.be/GCi4HSZ5OqA",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1351418016878116900,
+					"id_str": "1351418016878116866",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"url": "https://t.co/F4vblLEIKY",
+					"display_url": "pic.twitter.com/F4vblLEIKY",
+					"expanded_url": "https://twitter.com/arirangworld/status/1351436956178083842/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1351418016878116900,
+					"id_str": "1351418016878116866",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsE0X-TUwAIFHTM.jpg",
+					"url": "https://t.co/F4vblLEIKY",
+					"display_url": "pic.twitter.com/F4vblLEIKY",
+					"expanded_url": "https://twitter.com/arirangworld/status/1351436956178083842/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 328933,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/vid/1280x720/bKqWxZaJ5UOPFR07.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/vid/640x360/g9T9-vzeERL_LF4M.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/vid/480x270/DkyYMhk6mJuR8aQt.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1351418016878116866/pl/JpyQodA1LH7ErxVQ.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158388,
+			"friends_count": 211,
+			"listed_count": 1203,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25316,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#PopsinSeoul]\nIdol's comfort items🎀\n\n#KPop stars also have comfort items that they cherish deeply🙌\nLet's check them out!👀\n\n🎬Youtube Link\n👉👉https://t.co/ns3iHj0GgZ\n\n#TAEYEON #SEOHO #JIMIN #DONGHAE #LUCAS https://t.co/F4vblLEIKY"
+	},
+	{
 		"created_at": "Tue Jan 19 02:44:56 +0000 2021",
 		"id": 1351358503588343800,
 		"id_str": "1351359963264929799",
