@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 08:07:08 +0000 2021",
+		"id": 1352528111418544000,
+		"id_str": "1352528211066966016",
+		"full_text": "달달한 #체리블렛 의 라이브와 단독인터뷰를\n유튜브 Mdromeda KPOP에서 만나보세요!\n \n🍫Love So Sweet🍫\n🦁Lion Heart💛\n🎤Interview🎤\nhttps://t.co/Cmth0KYcxp\n \n#itsLIVE #CherryBullet #LoveSoSweet #체리블렛 #LionHeart #소녀시대 #GirlsGeneration #KPOP #잇츠라이브 https://t.co/nFkEZH5WcR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "체리블렛",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "itsLIVE",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "CherryBullet",
+					"indices": [
+						129,
+						142
+					]
+				},
+				{
+					"text": "LoveSoSweet",
+					"indices": [
+						143,
+						155
+					]
+				},
+				{
+					"text": "체리블렛",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "LionHeart",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						179,
+						195
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						196,
+						201
+					]
+				},
+				{
+					"text": "잇츠라이브",
+					"indices": [
+						202,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cmth0KYcxp",
+					"expanded_url": "https://youtu.be/jx7KHDQq52w",
+					"display_url": "youtu.be/jx7KHDQq52w",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352528083224469500,
+					"id_str": "1352528083224469505",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352528083224469505/pu/img/QLKrEDFL6AC5lnD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352528083224469505/pu/img/QLKrEDFL6AC5lnD5.jpg",
+					"url": "https://t.co/nFkEZH5WcR",
+					"display_url": "pic.twitter.com/nFkEZH5WcR",
+					"expanded_url": "https://twitter.com/withMBC/status/1352528111418544128/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352528083224469500,
+					"id_str": "1352528083224469505",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1352528083224469505/pu/img/QLKrEDFL6AC5lnD5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1352528083224469505/pu/img/QLKrEDFL6AC5lnD5.jpg",
+					"url": "https://t.co/nFkEZH5WcR",
+					"display_url": "pic.twitter.com/nFkEZH5WcR",
+					"expanded_url": "https://twitter.com/withMBC/status/1352528111418544128/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 852,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							71,
+							40
+						],
+						"duration_millis": 12584,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352528083224469505/pu/vid/478x270/mu9TrR66MD7weHZG.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352528083224469505/pu/vid/852x480/Btm3zQuIl1NY6tkQ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1352528083224469505/pu/pl/qzYrs5bGRuFxSYZY.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1352528083224469505/pu/vid/638x360/SH7aij7WpD2NEUKV.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011764,
+			"friends_count": 10133,
+			"listed_count": 4191,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1610418381",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "달달한 #체리블렛 의 라이브와 단독인터뷰를\n유튜브 Mdromeda KPOP에서 만나보세요!\n \n🍫Love So Sweet🍫\n🦁Lion Heart💛\n🎤Interview🎤\nhttps://t.co/Cmth0KYcxp\n \n#itsLIVE #CherryBullet #LoveSoSweet #체리블렛 #LionHeart #소녀시대 #GirlsGeneration #KPOP #잇츠라이브 https://t.co/nFkEZH5WcR"
+	},
+	{
 		"created_at": "Fri Jan 22 01:44:57 +0000 2021",
 		"id": 1352430803251150800,
 		"id_str": "1352432027568582657",
