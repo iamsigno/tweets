@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 00:20:59 +0000 2021",
+		"id": 1352404147367100400,
+		"id_str": "1352410898804006912",
+		"full_text": "&lt;공조2: 인터내셔날&gt; 현빈, 유해진, 임윤아, 다니엘 헤니, 진선규 캐스팅 확정. 잔혹한 범죄 조직을 쫓아 남에 파견된 북한 형사와 광수대 복귀를 위해 파트너를 자청한 남한 형사, 미국 FBI 소속까지 각자의 목적으로 뭉친 남북미 형사들의 공조 수사를 그린 작품. 이석훈 연출, 2월 크랭크인 예정. https://t.co/kas124A0gK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1352404143382483000,
+					"id_str": "1352404143382482945",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EsS0Zy8UUAEKhUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsS0Zy8UUAEKhUh.jpg",
+					"url": "https://t.co/kas124A0gK",
+					"display_url": "pic.twitter.com/kas124A0gK",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1352404147367100417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 773,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 803,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352404143382483000,
+					"id_str": "1352404143382482945",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EsS0Zy8UUAEKhUh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsS0Zy8UUAEKhUh.jpg",
+					"url": "https://t.co/kas124A0gK",
+					"display_url": "pic.twitter.com/kas124A0gK",
+					"expanded_url": "https://twitter.com/tailorcontents/status/1352404147367100417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 655,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 803,
+							"h": 773,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 803,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4838971693,
+			"id_str": "4838971693",
+			"name": "테일러콘텐츠 TailorContent",
+			"screen_name": "tailorcontents",
+			"location": "",
+			"description": "테일러콘텐츠는 작품과 배우의 데이터를 구축하고 새로운 형태의 콘텐츠를 만드는 일에 늘 도전하는 스타트업입니다",
+			"url": "https://t.co/IOMUmlyIDN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IOMUmlyIDN",
+							"expanded_url": "http://tailorcontents.com",
+							"display_url": "tailorcontents.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18252,
+			"friends_count": 730,
+			"listed_count": 106,
+			"created_at": "Sun Jan 31 08:05:08 +0000 2016",
+			"favourites_count": 995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270291430397759488/Zjzl8XDq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4838971693/1591696070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;공조2: 인터내셔날&gt; 현빈, 유해진, 임윤아, 다니엘 헤니, 진선규 캐스팅 확정. 잔혹한 범죄 조직을 쫓아 남에 파견된 북한 형사와 광수대 복귀를 위해 파트너를 자청한 남한 형사, 미국 FBI 소속까지 각자의 목적으로 뭉친 남북미 형사들의 공조 수사를 그린 작품. 이석훈 연출, 2월 크랭크인 예정. https://t.co/kas124A0gK"
+	},
+	{
 		"created_at": "Thu Jan 21 07:44:57 +0000 2021",
 		"id": 1352154352014811100,
 		"id_str": "1352160236749127680",
