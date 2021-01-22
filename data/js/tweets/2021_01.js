@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 22 01:44:57 +0000 2021",
+		"id": 1352430803251150800,
+		"id_str": "1352432027568582657",
+		"full_text": "'공조2' 현빈·유해진·임윤아·다니엘헤니·진선규 출연 확정..촬영 돌입\n\n👉🏻 https://t.co/L45mIRhqJU \n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration  #공조2 #공조2_인터내셔날 https://t.co/rZ0kQpvTpN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						70,
+						79
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "공조2_인터내셔날",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L45mIRhqJU",
+					"expanded_url": "http://naver.me/5jAi8Exo",
+					"display_url": "naver.me/5jAi8Exo",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1352430726386356200,
+					"id_str": "1352430726386356227",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EsTMlIWVEAMFYjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsTMlIWVEAMFYjt.jpg",
+					"url": "https://t.co/rZ0kQpvTpN",
+					"display_url": "pic.twitter.com/rZ0kQpvTpN",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1352430803251150848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1408,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1352430726386356200,
+					"id_str": "1352430726386356227",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EsTMlIWVEAMFYjt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsTMlIWVEAMFYjt.jpg",
+					"url": "https://t.co/rZ0kQpvTpN",
+					"display_url": "pic.twitter.com/rZ0kQpvTpN",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1352430803251150848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1408,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 825,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3633221,
+			"friends_count": 4,
+			"listed_count": 5178,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1296,
+		"favorite_count": 3462,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'공조2' 현빈·유해진·임윤아·다니엘헤니·진선규 출연 확정..촬영 돌입\n\n👉🏻 https://t.co/L45mIRhqJU \n\n#LIMYOONA #임윤아 #소녀시대 #GirlsGeneration  #공조2 #공조2_인터내셔날 https://t.co/rZ0kQpvTpN"
+	},
+	{
 		"created_at": "Fri Jan 22 00:20:59 +0000 2021",
 		"id": 1352404147367100400,
 		"id_str": "1352410898804006912",
