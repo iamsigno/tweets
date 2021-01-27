@@ -1,10 +1,261 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 08:07:09 +0000 2021",
+		"id": 1354338354033135600,
+		"id_str": "1354340152328466433",
+		"full_text": "[라스 선공개]\nSWAG 넘치는 엄마 아이키의\n인생에서 가장 매웠던 시기는?\n\n&lt;#라디오스타&gt; 오늘 밤 10시 20분에 만나요 제발~\n#강주은 #김소연 #효연 #아이키 #유노윤호 https://t.co/TGGDrnvpfn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라디오스타",
+					"indices": [
+						48,
+						54
+					]
+				},
+				{
+					"text": "강주은",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "김소연",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354319752689193000,
+					"id_str": "1354319752689192960",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuD7liUUAQToUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuD7liUUAQToUn.jpg",
+					"url": "https://t.co/TGGDrnvpfn",
+					"display_url": "pic.twitter.com/TGGDrnvpfn",
+					"expanded_url": "https://twitter.com/withMBC/status/1354338354033135617/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354319752689193000,
+					"id_str": "1354319752689192960",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/EsuD7liUUAQToUn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsuD7liUUAQToUn.jpg",
+					"url": "https://t.co/TGGDrnvpfn",
+					"display_url": "pic.twitter.com/TGGDrnvpfn",
+					"expanded_url": "https://twitter.com/withMBC/status/1354338354033135617/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 156203,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354319752689192960/vid/480x270/0hJ1P_IMLRPnH1Wx.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354319752689192960/vid/640x360/mubHJijdOdKaWXXB.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1354319752689192960/pl/yGIdC7s5R-sCCGIJ.m3u8?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354319752689192960/vid/1280x720/uPZsWNaLrdsk8j0v.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1012089,
+			"friends_count": 10133,
+			"listed_count": 4195,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1610418381",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[라스 선공개]\nSWAG 넘치는 엄마 아이키의\n인생에서 가장 매웠던 시기는?\n\n&lt;#라디오스타&gt; 오늘 밤 10시 20분에 만나요 제발~\n#강주은 #김소연 #효연 #아이키 #유노윤호 https://t.co/TGGDrnvpfn"
+	},
+	{
 		"created_at": "Wed Jan 27 07:07:09 +0000 2021",
 		"id": 1354319477991592000,
 		"id_str": "1354325051483553792",
-		"full_text": "[선공개] 아이키의 인생에서 가장 매웠던 시절 🤣\n&amp; 딸의 체육 대회에서 최고 시선 강탈자가 된 사연은? 🏃🏻‍♀️\n#라디오스타 오늘 밤 10시 20분에 만나요 제~발~~👏\n#김국진 #김구라 #안영미 #유노윤호\n#강주은 #김소연 #효연 #아이키 \nMBC210127방송 https://t.co/jLCsYjVlxT",
+		"full_text": "[선공개] 아이키의 인생에서 가장 매웠던 시절 🤣\n&amp; 딸의 체육 대회에서 최고 시선 강탈자가 된 사연은? 🏃🏻♀️\n#라디오스타 오늘 밤 10시 20분에 만나요 제~발~~👏\n#김국진 #김구라 #안영미 #유노윤호\n#강주은 #김소연 #효연 #아이키 \nMBC210127방송 https://t.co/jLCsYjVlxT",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -270,7 +521,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[선공개] 아이키의 인생에서 가장 매웠던 시절 🤣\n&amp; 딸의 체육 대회에서 최고 시선 강탈자가 된 사연은? 🏃🏻‍♀️\n#라디오스타 오늘 밤 10시 20분에 만나요 제~발~~👏\n#김국진 #김구라 #안영미 #유노윤호\n#강주은 #김소연 #효연 #아이키 \nMBC210127방송 https://t.co/jLCsYjVlxT"
+		"text": "[선공개] 아이키의 인생에서 가장 매웠던 시절 🤣\n&amp; 딸의 체육 대회에서 최고 시선 강탈자가 된 사연은? 🏃🏻♀️\n#라디오스타 오늘 밤 10시 20분에 만나요 제~발~~👏\n#김국진 #김구라 #안영미 #유노윤호\n#강주은 #김소연 #효연 #아이키 \nMBC210127방송 https://t.co/jLCsYjVlxT"
 	},
 	{
 		"created_at": "Wed Jan 27 06:07:09 +0000 2021",
