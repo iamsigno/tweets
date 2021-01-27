@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 27 01:07:14 +0000 2021",
+		"id": 1354232019668979700,
+		"id_str": "1354234476461756419",
+		"full_text": "빠빠~빨간맛 궁금해 언니!\n매운맛 보여주러 언니들 등판😉\n\n&lt;#라디오스타&gt; 오늘 밤 10시 20분에 만나요 제발~~\n#강주은 #김소연 #효연 #아이키 스페셜MC #유노윤호\nMBC20210127방송 https://t.co/A4Iv3T3fQ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "라디오스타",
+					"indices": [
+						37,
+						43
+					]
+				},
+				{
+					"text": "강주은",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "김소연",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "아이키",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "유노윤호",
+					"indices": [
+						96,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1354229534741074000,
+					"id_str": "1354229534741073921",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EsszUGNUYAE56Bb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsszUGNUYAE56Bb.jpg",
+					"url": "https://t.co/A4Iv3T3fQ5",
+					"display_url": "pic.twitter.com/A4Iv3T3fQ5",
+					"expanded_url": "https://twitter.com/withMBC/status/1354232019668979716/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354229534741074000,
+					"id_str": "1354229534741073921",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/EsszUGNUYAE56Bb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EsszUGNUYAE56Bb.jpg",
+					"url": "https://t.co/A4Iv3T3fQ5",
+					"display_url": "pic.twitter.com/A4Iv3T3fQ5",
+					"expanded_url": "https://twitter.com/withMBC/status/1354232019668979716/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 96096,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354229534741073921/vid/640x360/P_EjUwb-sgc7QB4U.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354229534741073921/vid/480x270/2kMPE2gzs5HoPABH.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1354229534741073921/pl/b28HUVp_2K88mFD5.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1354229534741073921/vid/1280x720/nrUPZzo1J-QE9Wrv.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1012060,
+			"friends_count": 10134,
+			"listed_count": 4195,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 55,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1610418381",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "빠빠~빨간맛 궁금해 언니!\n매운맛 보여주러 언니들 등판😉\n\n&lt;#라디오스타&gt; 오늘 밤 10시 20분에 만나요 제발~~\n#강주은 #김소연 #효연 #아이키 스페셜MC #유노윤호\nMBC20210127방송 https://t.co/A4Iv3T3fQ5"
+	},
+	{
 		"created_at": "Tue Jan 26 03:07:09 +0000 2021",
 		"id": 1353900470205558800,
 		"id_str": "1353902266244333568",
