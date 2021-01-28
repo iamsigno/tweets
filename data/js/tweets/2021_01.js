@@ -1,10 +1,194 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 10:07:18 +0000 2021",
+		"id": 1354728025900814300,
+		"id_str": "1354732776600334337",
+		"full_text": "TAEYEON WALL SCROLL POSTER - What Do I Call You 💕\n\nTAEYEON WALL SCROLL POSTER - What Do I Call You를 SMTOWN &amp;STORE 온라인 예약판매로 만나보세요!\n3월 26일 발매됩니다. \n\nhttps://t.co/ZBMAjC3m1Q https://t.co/jxXApqhc5Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZBMAjC3m1Q",
+					"expanded_url": "https://bit.ly/3qYqpPx",
+					"display_url": "bit.ly/3qYqpPx",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1354728021870092300,
+					"id_str": "1354728021870092289",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Esz19U7VoAE8k4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esz19U7VoAE8k4I.jpg",
+					"url": "https://t.co/jxXApqhc5Q",
+					"display_url": "pic.twitter.com/jxXApqhc5Q",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1354728025900814338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1354728021870092300,
+					"id_str": "1354728021870092289",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/Esz19U7VoAE8k4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Esz19U7VoAE8k4I.jpg",
+					"url": "https://t.co/jxXApqhc5Q",
+					"display_url": "pic.twitter.com/jxXApqhc5Q",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1354728025900814338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "SMTOWN &STORE Official Twitter Page",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113826,
+			"friends_count": 0,
+			"listed_count": 200,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON WALL SCROLL POSTER - What Do I Call You 💕\n\nTAEYEON WALL SCROLL POSTER - What Do I Call You를 SMTOWN &amp;STORE 온라인 예약판매로 만나보세요!\n3월 26일 발매됩니다. \n\nhttps://t.co/ZBMAjC3m1Q https://t.co/jxXApqhc5Q"
+	},
+	{
 		"created_at": "Thu Jan 28 03:44:56 +0000 2021",
 		"id": 1354626857946243000,
 		"id_str": "1354636553721671681",
-		"full_text": "스테이크 크림치즈 떡볶이 좋아하는 사람 hands up?!👩‍🍳🤷‍♀️ https://t.co/6SaeXatXeN",
+		"full_text": "스테이크 크림치즈 떡볶이 좋아하는 사람 hands up?!👩🍳🤷♀️ https://t.co/6SaeXatXeN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -90,7 +274,7 @@ Grailbird.data.tweets_2021_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "스테이크 크림치즈 떡볶이 좋아하는 사람 hands up?!👩‍🍳🤷‍♀️ https://t.co/6SaeXatXeN"
+		"text": "스테이크 크림치즈 떡볶이 좋아하는 사람 hands up?!👩🍳🤷♀️ https://t.co/6SaeXatXeN"
 	},
 	{
 		"created_at": "Wed Jan 27 08:07:09 +0000 2021",
