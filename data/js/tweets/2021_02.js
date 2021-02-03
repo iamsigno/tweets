@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Wed Feb 03 11:09:23 +0000 2021",
+		"id": 1356490030177423400,
+		"id_str": "1356922727538429955",
+		"full_text": "완전체로 모인 런온즈💙🧡\n선겸(#임시완)x미주(#신세경)x단아(#최수영)\nx영화(#강태오) 의 마라톤 완주 비하인드!\n\n▶️매주 수·목 밤 9시 &lt;#런온&gt; 본방사수💨 https://t.co/QqG2y8JzRu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임시완",
+					"indices": [
+						17,
+						21
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						35,
+						39
+					]
+				},
+				{
+					"text": "강태오",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						85,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356465046759436300,
+					"id_str": "1356465046759436289",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EtMiUyUVoAIs9RP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtMiUyUVoAIs9RP.jpg",
+					"url": "https://t.co/QqG2y8JzRu",
+					"display_url": "pic.twitter.com/QqG2y8JzRu",
+					"expanded_url": "https://twitter.com/jtbclove/status/1356490030177423360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356465046759436300,
+					"id_str": "1356465046759436289",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EtMiUyUVoAIs9RP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtMiUyUVoAIs9RP.jpg",
+					"url": "https://t.co/QqG2y8JzRu",
+					"display_url": "pic.twitter.com/QqG2y8JzRu",
+					"expanded_url": "https://twitter.com/jtbclove/status/1356490030177423360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 389623,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356465046759436289/vid/640x360/JC6P7QfCPtE8fBBk.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1356465046759436289/pl/HEiSAjFepJB6C6-0.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356465046759436289/vid/480x270/nRdZ8_UMZfvsF4Qf.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1356465046759436289/vid/1280x720/qUZgmOOjpwQ9-LeH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[런 온] 메이킹💕 완전체로 모인 런온즈🧡 임시완X신세경X최수영X강태오의 마라톤 완주 비하인드!",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/18263915"
+							}
+						},
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438732,
+			"friends_count": 110,
+			"listed_count": 657,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1610497817",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 280,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "완전체로 모인 런온즈💙🧡\n선겸(#임시완)x미주(#신세경)x단아(#최수영)\nx영화(#강태오) 의 마라톤 완주 비하인드!\n\n▶️매주 수·목 밤 9시 &lt;#런온&gt; 본방사수💨 https://t.co/QqG2y8JzRu"
+	},
+	{
 		"created_at": "Wed Feb 03 08:07:09 +0000 2021",
 		"id": 1356869649980215300,
 		"id_str": "1356876866183979009",
