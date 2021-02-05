@@ -1,10 +1,230 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 02:07:09 +0000 2021",
+		"id": 1357507694450516000,
+		"id_str": "1357511046152519682",
+		"full_text": "권유리 주연 ‘이별유예, 일주일’ 5일 공개…‘감성 충전’ 예고\n\n👉🏻https://t.co/XKSGTwvSOw  \n\n#권유리 #KWONYURI #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/AatZVNjPAO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "이별유예일주일",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						96,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XKSGTwvSOw",
+					"expanded_url": "http://naver.me/x1e8NfbL",
+					"display_url": "naver.me/x1e8NfbL",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1357507686015791000,
+					"id_str": "1357507686015791108",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EtbWDEzVcAQSzzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtbWDEzVcAQSzzI.jpg",
+					"url": "https://t.co/AatZVNjPAO",
+					"display_url": "pic.twitter.com/AatZVNjPAO",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1357507694450515970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1357507686015791000,
+					"id_str": "1357507686015791108",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/EtbWDEzVcAQSzzI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtbWDEzVcAQSzzI.jpg",
+					"url": "https://t.co/AatZVNjPAO",
+					"display_url": "pic.twitter.com/AatZVNjPAO",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1357507694450515970/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3635388,
+			"friends_count": 4,
+			"listed_count": 5205,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 576,
+		"favorite_count": 1687,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권유리 주연 ‘이별유예, 일주일’ 5일 공개…‘감성 충전’ 예고\n\n👉🏻https://t.co/XKSGTwvSOw  \n\n#권유리 #KWONYURI #이별유예일주일 #소녀시대 #GirlsGeneration https://t.co/AatZVNjPAO"
+	},
+	{
 		"created_at": "Thu Feb 04 06:07:09 +0000 2021",
 		"id": 1357199120268599300,
 		"id_str": "1357209054976868355",
-		"full_text": "[#CatchyKorea💃]\n\nK팝 속 히든보이스🎤 가수 #크리즈 를 만나다❤️\n#KPOP's hidden voice🎵 #KRIZ\n👉👉Winner of 'The Performer of This Year Chorus'\nat #2020GAONCHART MUSICAWARDS👑\n\n🎬Youtube Link\n👉👉https://t.co/OUCktfruFo\n\n#지코​ #아무노래​ #트와이스​ #태연 https://t.co/ZHmFw2AnCN",
+		"full_text": "[#CatchyKorea💃]\n\nK팝 속 히든보이스🎤 가수 #크리즈 를 만나다❤️\n#KPOP's hidden voice🎵 #KRIZ\n👉👉Winner of 'The Performer of This Year Chorus'\nat #2020GAONCHART MUSICAWARDS👑\n\n🎬Youtube Link\n👉👉https://t.co/OUCktfruFo\n\n#지코 #아무노래 #트와이스 #태연 https://t.co/ZHmFw2AnCN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -280,7 +500,7 @@ Grailbird.data.tweets_2021_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#CatchyKorea💃]\n\nK팝 속 히든보이스🎤 가수 #크리즈 를 만나다❤️\n#KPOP's hidden voice🎵 #KRIZ\n👉👉Winner of 'The Performer of This Year Chorus'\nat #2020GAONCHART MUSICAWARDS👑\n\n🎬Youtube Link\n👉👉https://t.co/OUCktfruFo\n\n#지코​ #아무노래​ #트와이스​ #태연 https://t.co/ZHmFw2AnCN"
+		"text": "[#CatchyKorea💃]\n\nK팝 속 히든보이스🎤 가수 #크리즈 를 만나다❤️\n#KPOP's hidden voice🎵 #KRIZ\n👉👉Winner of 'The Performer of This Year Chorus'\nat #2020GAONCHART MUSICAWARDS👑\n\n🎬Youtube Link\n👉👉https://t.co/OUCktfruFo\n\n#지코 #아무노래 #트와이스 #태연 https://t.co/ZHmFw2AnCN"
 	},
 	{
 		"created_at": "Wed Feb 03 11:09:23 +0000 2021",
