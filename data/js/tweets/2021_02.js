@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Sun Feb 07 04:07:16 +0000 2021",
+		"id": 1358264221033660400,
+		"id_str": "1358266050677256193",
+		"full_text": "[Drama봐야지] 랜덤픽🔀\n\n내 편이면 든든할 것 같은🔥 말빨 갑!\n#최수영 x #신세경 x #이다희 x #서현진 모음😍\n☞https://t.co/Cmev5C3qeC\n\n#JTBC #드라마봐야지 #런온 #뷰티인사이드",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최수영",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "신세경",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "이다희",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "서현진",
+					"indices": [
+						60,
+						64
+					]
+				},
+				{
+					"text": "JTBC",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "드라마봐야지",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "런온",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "뷰티인사이드",
+					"indices": [
+						113,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cmev5C3qeC",
+					"expanded_url": "https://youtu.be/lvyoxXTbjMs",
+					"display_url": "youtu.be/lvyoxXTbjMs",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 438917,
+			"friends_count": 110,
+			"listed_count": 657,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246990993464815617/Qh5CmqKV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1610497817",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[Drama봐야지] 랜덤픽🔀\n\n내 편이면 든든할 것 같은🔥 말빨 갑!\n#최수영 x #신세경 x #이다희 x #서현진 모음😍\n☞https://t.co/Cmev5C3qeC\n\n#JTBC #드라마봐야지 #런온 #뷰티인사이드"
+	},
+	{
 		"created_at": "Sat Feb 06 14:44:56 +0000 2021",
 		"id": 1358054070787985400,
 		"id_str": "1358064138275160070",
