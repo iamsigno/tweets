@@ -1,6 +1,691 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 03:28:10 +0000 2021",
+		"id": 1361489682761085000,
+		"id_str": "1362242477093048322",
+		"full_text": "[공연안내] 뮤지컬 &lt;시카고&gt;\n2021.04.02~2021.07.18\n디큐브아트센터\n\n#캐스팅\n\n벨마 켈리 - 최정원 윤공주\n록시 하트 - 아이비 티파니 영 민경아\n빌리 플린 - 박건형 최재림\n마마 모튼 - 김영주 김경선\n에이모스 - 차정현\n메리 선샤인 - S. J. Kim https://t.co/QSqZyck3Xt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "캐스팅",
+					"indices": [
+						54,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361489676700242000,
+					"id_str": "1361489676700241920",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EuT7pcEUUAAmCZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuT7pcEUUAAmCZ6.jpg",
+					"url": "https://t.co/QSqZyck3Xt",
+					"display_url": "pic.twitter.com/QSqZyck3Xt",
+					"expanded_url": "https://twitter.com/scenestealer__/status/1361489682761084934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 1169,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1169,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361489676700242000,
+					"id_str": "1361489676700241920",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EuT7pcEUUAAmCZ6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuT7pcEUUAAmCZ6.jpg",
+					"url": "https://t.co/QSqZyck3Xt",
+					"display_url": "pic.twitter.com/QSqZyck3Xt",
+					"expanded_url": "https://twitter.com/scenestealer__/status/1361489682761084934/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 827,
+							"h": 1169,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 827,
+							"h": 1169,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1029016230445760500,
+			"id_str": "1029016230445760513",
+			"name": "씬스틸러",
+			"screen_name": "scenestealer__",
+			"location": "",
+			"description": "공연 전문 페이지, 씬스틸러 https://t.co/3DlYzMB1ku",
+			"url": "https://t.co/BIfZyZ5jpO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BIfZyZ5jpO",
+							"expanded_url": "http://scenestealer.kr",
+							"display_url": "scenestealer.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/3DlYzMB1ku",
+							"expanded_url": "http://instagram.com/scenestealer__",
+							"display_url": "instagram.com/scenestealer__",
+							"indices": [
+								16,
+								39
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2054,
+			"friends_count": 0,
+			"listed_count": 12,
+			"created_at": "Mon Aug 13 14:46:02 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062005085780140032/o-mZOC_Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062005085780140032/o-mZOC_Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1029016230445760513/1555606042",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1422,
+		"favorite_count": 401,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[공연안내] 뮤지컬 &lt;시카고&gt;\n2021.04.02~2021.07.18\n디큐브아트센터\n\n#캐스팅\n\n벨마 켈리 - 최정원 윤공주\n록시 하트 - 아이비 티파니 영 민경아\n빌리 플린 - 박건형 최재림\n마마 모튼 - 김영주 김경선\n에이모스 - 차정현\n메리 선샤인 - S. J. Kim https://t.co/QSqZyck3Xt"
+	},
+	{
+		"created_at": "Thu Feb 18 03:27:52 +0000 2021",
+		"id": 1360816134560182300,
+		"id_str": "1362242399829774340",
+		"full_text": "💃CHICAGO is coming.\n⠀\n2021 MUSICAL CHICAGO is Hotter than Ever!\n⠀\n4.2 GRAND OPENING\n@디큐브아트센터\n⠀\n#뮤지컬 #시카고 #since2000 #21주년 #2021년_4월_2일 #개막 #신도림디큐브아트센터 https://t.co/YMAMtULaOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지컬",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "시카고",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "since2000",
+					"indices": [
+						105,
+						115
+					]
+				},
+				{
+					"text": "21주년",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "2021년_4월_2일",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "개막",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "신도림디큐브아트센터",
+					"indices": [
+						139,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1360816128293965800,
+					"id_str": "1360816128293965827",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EuKXDwuVkAMsJEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuKXDwuVkAMsJEZ.jpg",
+					"url": "https://t.co/YMAMtULaOn",
+					"display_url": "pic.twitter.com/YMAMtULaOn",
+					"expanded_url": "https://twitter.com/i_seensee/status/1360816134560182274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 292,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 97,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1360816128293965800,
+					"id_str": "1360816128293965827",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/EuKXDwuVkAMsJEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuKXDwuVkAMsJEZ.jpg",
+					"url": "https://t.co/YMAMtULaOn",
+					"display_url": "pic.twitter.com/YMAMtULaOn",
+					"expanded_url": "https://twitter.com/i_seensee/status/1360816134560182274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 292,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 97,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 171,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142191701,
+			"id_str": "142191701",
+			"name": "신시컴퍼니",
+			"screen_name": "i_seensee",
+			"location": "",
+			"description": "뮤지컬, 연극 제작사 신시컴퍼니 공식 계정입니다.",
+			"url": "https://t.co/cf38b9jJLy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cf38b9jJLy",
+							"expanded_url": "http://iseensee.com",
+							"display_url": "iseensee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52196,
+			"friends_count": 2426,
+			"listed_count": 288,
+			"created_at": "Mon May 10 06:32:28 +0000 2010",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142191701/1597985020",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2204,
+		"favorite_count": 1575,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💃CHICAGO is coming.\n⠀\n2021 MUSICAL CHICAGO is Hotter than Ever!\n⠀\n4.2 GRAND OPENING\n@디큐브아트센터\n⠀\n#뮤지컬 #시카고 #since2000 #21주년 #2021년_4월_2일 #개막 #신도림디큐브아트센터 https://t.co/YMAMtULaOn"
+	},
+	{
+		"created_at": "Thu Feb 18 03:27:39 +0000 2021",
+		"id": 1361211974051188700,
+		"id_str": "1362242349061918726",
+		"full_text": "21 years killing it in KOREA!\n💃🏼Musical CHICAGO \n\n🎉4.2 GRAND OPENING🎉\n@디큐브아트센터\n\n#뮤지컬 #시카고 #Hotter_than_Ever #since2000 #21주년 #2021년_4월_2일 #개막 #신도림디큐브아트센터 #캐스팅공개_D-1 https://t.co/qB5pNpJiA8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지컬",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "시카고",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "Hotter_than_Ever",
+					"indices": [
+						90,
+						107
+					]
+				},
+				{
+					"text": "since2000",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "21주년",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "2021년_4월_2일",
+					"indices": [
+						125,
+						137
+					]
+				},
+				{
+					"text": "개막",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "신도림디큐브아트센터",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "캐스팅공개_D",
+					"indices": [
+						154,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1361211949883682800,
+					"id_str": "1361211949883682816",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361211949883682816/pu/img/sycHfL1hEWCAWEKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361211949883682816/pu/img/sycHfL1hEWCAWEKR.jpg",
+					"url": "https://t.co/qB5pNpJiA8",
+					"display_url": "pic.twitter.com/qB5pNpJiA8",
+					"expanded_url": "https://twitter.com/i_seensee/status/1361211974051188737/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1361211949883682800,
+					"id_str": "1361211949883682816",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1361211949883682816/pu/img/sycHfL1hEWCAWEKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1361211949883682816/pu/img/sycHfL1hEWCAWEKR.jpg",
+					"url": "https://t.co/qB5pNpJiA8",
+					"display_url": "pic.twitter.com/qB5pNpJiA8",
+					"expanded_url": "https://twitter.com/i_seensee/status/1361211974051188737/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 15125,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1361211949883682816/pu/pl/UugFSJONsR6G_hAU.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361211949883682816/pu/vid/640x360/tzVB6iQf5kxdB-U1.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361211949883682816/pu/vid/480x270/0vRubIERCMsrVxGy.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1361211949883682816/pu/vid/854x480/XHN9BigaaK6uo1sy.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 142191701,
+			"id_str": "142191701",
+			"name": "신시컴퍼니",
+			"screen_name": "i_seensee",
+			"location": "",
+			"description": "뮤지컬, 연극 제작사 신시컴퍼니 공식 계정입니다.",
+			"url": "https://t.co/cf38b9jJLy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cf38b9jJLy",
+							"expanded_url": "http://iseensee.com",
+							"display_url": "iseensee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52196,
+			"friends_count": 2426,
+			"listed_count": 288,
+			"created_at": "Mon May 10 06:32:28 +0000 2010",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142191701/1597985020",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1064,
+		"favorite_count": 889,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "21 years killing it in KOREA!\n💃🏼Musical CHICAGO \n\n🎉4.2 GRAND OPENING🎉\n@디큐브아트센터\n\n#뮤지컬 #시카고 #Hotter_than_Ever #since2000 #21주년 #2021년_4월_2일 #개막 #신도림디큐브아트센터 #캐스팅공개_D-1 https://t.co/qB5pNpJiA8"
+	},
+	{
 		"created_at": "Thu Feb 18 02:44:57 +0000 2021",
 		"id": 1362224233628135400,
 		"id_str": "1362231600503795713",
