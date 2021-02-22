@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 22 09:50:24 +0000 2021",
+		"id": 1363767705187192800,
+		"id_str": "1363788220073271296",
+		"full_text": "▪할인 정보\n-프리뷰 할인 30% (✔4/2(금 ~ 4/3(토) 공연 예매자에 한함)\n- 조기예매 할인 20% (✔2/23(화) ~ 3/8(월) 기간 예매자에 한함,  4/4(일) ~ 4/25(일) 공연에 한함)\n\n(2/2)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1363767703400370200,
+		"in_reply_to_status_id_str": "1363767703400370179",
+		"in_reply_to_user_id": 142191701,
+		"in_reply_to_user_id_str": "142191701",
+		"in_reply_to_screen_name": "i_seensee",
+		"user": {
+			"id": 142191701,
+			"id_str": "142191701",
+			"name": "신시컴퍼니",
+			"screen_name": "i_seensee",
+			"location": "",
+			"description": "뮤지컬, 연극 제작사 신시컴퍼니 공식 계정입니다.",
+			"url": "https://t.co/cf38b9jJLy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cf38b9jJLy",
+							"expanded_url": "http://iseensee.com",
+							"display_url": "iseensee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52247,
+			"friends_count": 2426,
+			"listed_count": 288,
+			"created_at": "Mon May 10 06:32:28 +0000 2010",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142191701/1597985020",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "▪할인 정보\n-프리뷰 할인 30% (✔4/2(금 ~ 4/3(토) 공연 예매자에 한함)\n- 조기예매 할인 20% (✔2/23(화) ~ 3/8(월) 기간 예매자에 한함,  4/4(일) ~ 4/25(일) 공연에 한함)\n\n(2/2)"
+	},
+	{
 		"created_at": "Sat Feb 20 06:44:57 +0000 2021",
 		"id": 1363006120755945500,
 		"id_str": "1363016773457559553",
