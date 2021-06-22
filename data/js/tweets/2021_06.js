@@ -1,10 +1,126 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 19:45:01 +0000 2021",
+		"id": 1406119046743986200,
+		"id_str": "1407424403596533763",
+		"full_text": "완벽한 내가 될 수 있는 하루\n#Secretday 🤍\n#광고모델 #시크릿데이 @secretdaykorea https://t.co/8JEkWReKzG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Secretday",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"text": "광고모델",
+					"indices": [
+						30,
+						35
+					]
+				},
+				{
+					"text": "시크릿데이",
+					"indices": [
+						36,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8JEkWReKzG",
+					"expanded_url": "https://www.instagram.com/p/CQSivQzB_Pz/?utm_medium=twitter",
+					"display_url": "instagram.com/p/CQSivQzB_Pz/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173631072,
+			"id_str": "2173631072",
+			"name": "서현(Seohyun)",
+			"screen_name": "sjhsjh0628",
+			"location": "",
+			"description": "Singer / Actor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1383680,
+			"friends_count": 31,
+			"listed_count": 2852,
+			"created_at": "Mon Nov 04 08:58:47 +0000 2013",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350274158945398785/6B2gOd8K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173631072/1617691854",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 499,
+		"favorite_count": 1917,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "완벽한 내가 될 수 있는 하루\n#Secretday 🤍\n#광고모델 #시크릿데이 @secretdaykorea https://t.co/8JEkWReKzG"
+	},
+	{
 		"created_at": "Tue Jun 22 19:07:35 +0000 2021",
 		"id": 1407266014631325700,
 		"id_str": "1407414985958084608",
-		"full_text": "효원가가 이렇게 한뜻으로 뭉친 적이 있었던가요,,,\n저도 킹서현을 추천합니다🙋🏻‍♀️\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/aOpm832cG3",
+		"full_text": "효원가가 이렇게 한뜻으로 뭉친 적이 있었던가요,,,\n저도 킹서현을 추천합니다🙋🏻♀️\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/aOpm832cG3",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -278,7 +394,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "효원가가 이렇게 한뜻으로 뭉친 적이 있었던가요,,,\n저도 킹서현을 추천합니다🙋🏻‍♀️\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/aOpm832cG3"
+		"text": "효원가가 이렇게 한뜻으로 뭉친 적이 있었던가요,,,\n저도 킹서현을 추천합니다🙋🏻♀️\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/aOpm832cG3"
 	},
 	{
 		"created_at": "Tue Jun 22 19:07:30 +0000 2021",
