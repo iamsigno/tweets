@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 02:07:09 +0000 2021",
+		"id": 1407519070455361500,
+		"id_str": "1407520570565136384",
+		"full_text": "부드러운 카리스마의 인간화🤭\n진짜 나의 것을 찾아가는 희수와 서현💎\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/riBKzdxWnp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마인",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "MINE",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						70,
+						76
+					]
+				},
+				{
+					"text": "이보영",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "김서형",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "이현욱",
+					"indices": [
+						87,
+						91
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "차학연",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "정이서",
+					"indices": [
+						102,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407518400717287400,
+					"id_str": "1407518400717287425",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iChzGUcAENlPN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iChzGUcAENlPN.jpg",
+					"url": "https://t.co/riBKzdxWnp",
+					"display_url": "pic.twitter.com/riBKzdxWnp",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1407519070455361547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407518400717287400,
+					"id_str": "1407518400717287425",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iChzGUcAENlPN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iChzGUcAENlPN.jpg",
+					"url": "https://t.co/riBKzdxWnp",
+					"display_url": "pic.twitter.com/riBKzdxWnp",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1407519070455361547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407518400717279200,
+					"id_str": "1407518400717279237",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iChzGUUAUzvYp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iChzGUUAUzvYp.jpg",
+					"url": "https://t.co/riBKzdxWnp",
+					"display_url": "pic.twitter.com/riBKzdxWnp",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1407519070455361547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407518400717332500,
+					"id_str": "1407518400717332481",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iChzGVIAEl4Ke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iChzGVIAEl4Ke.jpg",
+					"url": "https://t.co/riBKzdxWnp",
+					"display_url": "pic.twitter.com/riBKzdxWnp",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1407519070455361547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1407518400738304000,
+					"id_str": "1407518400738304014",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E4iChzLVIA4NdkQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4iChzLVIA4NdkQ.jpg",
+					"url": "https://t.co/riBKzdxWnp",
+					"display_url": "pic.twitter.com/riBKzdxWnp",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1407519070455361547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔\n#어느날우리집현관으로멸망이들어왔다 #슬기로운의사생활시즌2 #보이스4 #마인",
+			"url": "https://t.co/ULT2t2MOBK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ULT2t2MOBK",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 517426,
+			"friends_count": 41,
+			"listed_count": 832,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1623398952",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "부드러운 카리스마의 인간화🤭\n진짜 나의 것을 찾아가는 희수와 서현💎\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/riBKzdxWnp"
+	},
+	{
 		"created_at": "Tue Jun 22 19:45:01 +0000 2021",
 		"id": 1406119046743986200,
 		"id_str": "1407424403596533763",
