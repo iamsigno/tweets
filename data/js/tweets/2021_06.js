@@ -1,6 +1,448 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 25 05:07:21 +0000 2021",
+		"id": 1405450231508914200,
+		"id_str": "1408290694679179264",
+		"full_text": "[CINE STORY]\nK-POP IDOLS TAKING OVER BOX OFFICES🎥\n\n도경수, 윤아, 임시완...💘\n스크린을 점령한 아이돌의 매력\n\nYT LINK🎬\n👉👉https://t.co/q619mdyyXd\n\n#KPOP #DohKyungsoo #Yoona #ImSiwan\n#EXO #SNSD #ZEA https://t.co/HChJPmbesI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPOP",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "DohKyungsoo",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"text": "Yoona",
+					"indices": [
+						141,
+						147
+					]
+				},
+				{
+					"text": "ImSiwan",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "ZEA",
+					"indices": [
+						168,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q619mdyyXd",
+					"expanded_url": "https://youtu.be/4XDt1FvTj2k",
+					"display_url": "youtu.be/4XDt1FvTj2k",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1405449701797744600,
+					"id_str": "1405449701797744640",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E4IPTMRVoAQQo39.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4IPTMRVoAQQo39.jpg",
+					"url": "https://t.co/HChJPmbesI",
+					"display_url": "pic.twitter.com/HChJPmbesI",
+					"expanded_url": "https://twitter.com/arirangworld/status/1405450231508914176/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405449701797744600,
+					"id_str": "1405449701797744640",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E4IPTMRVoAQQo39.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4IPTMRVoAQQo39.jpg",
+					"url": "https://t.co/HChJPmbesI",
+					"display_url": "pic.twitter.com/HChJPmbesI",
+					"expanded_url": "https://twitter.com/arirangworld/status/1405450231508914176/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 403971,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1405449701797744640/pl/sPTnj1L4c2jtEej4.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405449701797744640/vid/480x270/hjq3Jt-VAn1f4lFB.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405449701797744640/vid/640x360/5ZeUgaxejXt3WI0e.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405449701797744640/vid/1280x720/wJz3bjo4eZouC-lv.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156582,
+			"friends_count": 213,
+			"listed_count": 1217,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925579596681977856/NBEPP8Pl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1491978349",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1383,
+		"favorite_count": 2345,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[CINE STORY]\nK-POP IDOLS TAKING OVER BOX OFFICES🎥\n\n도경수, 윤아, 임시완...💘\n스크린을 점령한 아이돌의 매력\n\nYT LINK🎬\n👉👉https://t.co/q619mdyyXd\n\n#KPOP #DohKyungsoo #Yoona #ImSiwan\n#EXO #SNSD #ZEA https://t.co/HChJPmbesI"
+	},
+	{
+		"created_at": "Fri Jun 25 05:07:16 +0000 2021",
+		"id": 1408288960632160300,
+		"id_str": "1408290677440589829",
+		"full_text": "#해피빈펀딩 및 오디오북 수익금은 아름다운재단을 통해 보호종료아동 자립 지원에 사용됩니다.\n \n해피빈 펀딩👉🏻https://t.co/Go7sE8GKUb\n오디오북👉🏻https://t.co/9OPKm9QMp6\n \n#SM엔터테인먼트 #소녀시대 #GirlsGeneration #아름다운재단 #열여덟어른 #안연주프로젝트 #세상을바꾸는작은변화",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "해피빈펀딩",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "SM엔터테인먼트",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"text": "아름다운재단",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "열여덟어른",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "안연주프로젝트",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "세상을바꾸는작은변화",
+					"indices": [
+						174,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Go7sE8GKUb",
+					"expanded_url": "https://bit.ly/2T1lpyf",
+					"display_url": "bit.ly/2T1lpyf",
+					"indices": [
+						61,
+						84
+					]
+				},
+				{
+					"url": "https://t.co/9OPKm9QMp6",
+					"expanded_url": "https://bit.ly/35L5Ttp",
+					"display_url": "bit.ly/35L5Ttp",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1408288957968785400,
+		"in_reply_to_status_id_str": "1408288957968785411",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631010,
+			"friends_count": 4,
+			"listed_count": 5389,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278893652085895168/rWHaUUOr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#해피빈펀딩 및 오디오북 수익금은 아름다운재단을 통해 보호종료아동 자립 지원에 사용됩니다.\n \n해피빈 펀딩👉🏻https://t.co/Go7sE8GKUb\n오디오북👉🏻https://t.co/9OPKm9QMp6\n \n#SM엔터테인먼트 #소녀시대 #GirlsGeneration #아름다운재단 #열여덟어른 #안연주프로젝트 #세상을바꾸는작은변화"
+	},
+	{
 		"created_at": "Fri Jun 25 02:07:09 +0000 2021",
 		"id": 1408241662304809000,
 		"id_str": "1408245345746882565",
