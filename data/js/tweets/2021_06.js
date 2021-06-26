@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 14:07:09 +0000 2021",
+		"id": 1408779579309785000,
+		"id_str": "1408788928467963911",
+		"full_text": "희수와 서현은 '진정한 나의 것'을 찾을 수 있을까?!\n\n매주 [토일] 밤 9시 tvN 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/Npvt012naY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마인",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "MINE",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"text": "이보영",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "김서형",
+					"indices": [
+						79,
+						83
+					]
+				},
+				{
+					"text": "이현욱",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "차학연",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "정이서",
+					"indices": [
+						99,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408470063582126000,
+					"id_str": "1408470063582126080",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E4zwKKnVkAIiFwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4zwKKnVkAIiFwn.jpg",
+					"url": "https://t.co/Npvt012naY",
+					"display_url": "pic.twitter.com/Npvt012naY",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1408779579309785096/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408470063582126000,
+					"id_str": "1408470063582126080",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E4zwKKnVkAIiFwn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4zwKKnVkAIiFwn.jpg",
+					"url": "https://t.co/Npvt012naY",
+					"display_url": "pic.twitter.com/Npvt012naY",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1408779579309785096/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1408470063582126080/pl/6biyXVq-jP_M1W69.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1408470063582126080/vid/1280x720/vnxCgsjkkLE5kYTq.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1408470063582126080/vid/480x270/eCyf_R38d-nHAg11.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1408470063582126080/vid/640x360/viPQ69AsKcU62n0C.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[최종화 예고] 드디어 밝혀지는 전말! 이보영이 기억상실을 연기한 이유는?",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔\n#어느날우리집현관으로멸망이들어왔다 #슬기로운의사생활시즌2 #보이스4 #마인",
+			"url": "https://t.co/ULT2t2MOBK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ULT2t2MOBK",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518475,
+			"friends_count": 41,
+			"listed_count": 837,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1623398952",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "희수와 서현은 '진정한 나의 것'을 찾을 수 있을까?!\n\n매주 [토일] 밤 9시 tvN 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/Npvt012naY"
+	},
+	{
 		"created_at": "Sat Jun 26 05:07:09 +0000 2021",
 		"id": 1408651235343978500,
 		"id_str": "1408653032074760192",
