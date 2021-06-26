@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 00:07:09 +0000 2021",
+		"id": 1408575736634495000,
+		"id_str": "1408577534996983809",
+		"full_text": "서현의 말에 답이 있다🤔?\n한지용을 죽인 범인은 누구?!\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/KvWHFlZNRW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마인",
+					"indices": [
+						49,
+						52
+					]
+				},
+				{
+					"text": "MINE",
+					"indices": [
+						53,
+						58
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						64,
+						70
+					]
+				},
+				{
+					"text": "이보영",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "김서형",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "이현욱",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "차학연",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "정이서",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405885163754590200,
+					"id_str": "1405885163754590216",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E4QNdfpVcAEGzO4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4QNdfpVcAEGzO4.jpg",
+					"url": "https://t.co/KvWHFlZNRW",
+					"display_url": "pic.twitter.com/KvWHFlZNRW",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1408575736634494976/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405885163754590200,
+					"id_str": "1405885163754590216",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/E4QNdfpVcAEGzO4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4QNdfpVcAEGzO4.jpg",
+					"url": "https://t.co/KvWHFlZNRW",
+					"display_url": "pic.twitter.com/KvWHFlZNRW",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1408575736634494976/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15015,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405885163754590216/vid/1280x720/wVtPsUOmtYtPMqEs.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405885163754590216/vid/640x360/3tYdMOrssNK2_LPm.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1405885163754590216/vid/480x270/_24Nkx56etZfw18m.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1405885163754590216/pl/HqiAvuPE7NZETrFF.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔\n#어느날우리집현관으로멸망이들어왔다 #슬기로운의사생활시즌2 #보이스4 #마인",
+			"url": "https://t.co/ULT2t2MOBK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ULT2t2MOBK",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518305,
+			"friends_count": 41,
+			"listed_count": 834,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1623398952",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서현의 말에 답이 있다🤔?\n한지용을 죽인 범인은 누구?!\n\n매주 [토일] 밤 9시 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/KvWHFlZNRW"
+	},
+	{
 		"created_at": "Fri Jun 25 05:07:21 +0000 2021",
 		"id": 1405450231508914200,
 		"id_str": "1408290694679179264",
