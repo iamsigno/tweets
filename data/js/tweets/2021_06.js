@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 01:07:09 +0000 2021",
+		"id": 1408590835520733200,
+		"id_str": "1408592634055118848",
+		"full_text": "서로를 지켜주는 희수와 서현💗\n이번 주가 마지막이라니… 이 케미 보낼 수 없어요🥺\n\n매주 [토일] 밤 9시 tvN 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/VbxWY1aj57",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마인",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "MINE",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						82,
+						88
+					]
+				},
+				{
+					"text": "이보영",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "김서형",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "이현욱",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "차학연",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "정이서",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408470333045153800,
+					"id_str": "1408470333045153794",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E4vncoQUUAYGbch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4vncoQUUAYGbch.jpg",
+					"url": "https://t.co/VbxWY1aj57",
+					"display_url": "pic.twitter.com/VbxWY1aj57",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1408590835520733192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408470333045153800,
+					"id_str": "1408470333045153794",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/E4vncoQUUAYGbch.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4vncoQUUAYGbch.jpg",
+					"url": "https://t.co/VbxWY1aj57",
+					"display_url": "pic.twitter.com/VbxWY1aj57",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1408590835520733192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 102836,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1408470333045153794/pl/VYDCupxD86pyB3XR.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1408470333045153794/vid/640x360/d2MDUviEST3ssCsJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1408470333045153794/vid/1280x720/NCPPTWGhJwlAkpDA.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1408470333045153794/vid/480x270/IpmfVD_ljOvSh0Q2.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[단독 선공개] \"내가 지켜줄께!\" 잔인한 세상 서로의 버팀목이 되어주는 이보영X김서형",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔\n#어느날우리집현관으로멸망이들어왔다 #슬기로운의사생활시즌2 #보이스4 #마인",
+			"url": "https://t.co/ULT2t2MOBK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ULT2t2MOBK",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 518313,
+			"friends_count": 41,
+			"listed_count": 833,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1623398952",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "서로를 지켜주는 희수와 서현💗\n이번 주가 마지막이라니… 이 케미 보낼 수 없어요🥺\n\n매주 [토일] 밤 9시 tvN 방송\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/VbxWY1aj57"
+	},
+	{
 		"created_at": "Sat Jun 26 00:07:09 +0000 2021",
 		"id": 1408575736634495000,
 		"id_str": "1408577534996983809",
