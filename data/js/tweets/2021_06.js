@@ -1,6 +1,1003 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 03:07:11 +0000 2021",
+		"id": 1409707623977406500,
+		"id_str": "1409710005897416710",
+		"full_text": "TAEYEON to release her new single ‘Weekend’ on 7/6 at 6PM KST!\nA Disco Pop song of guitar and retro synth sounds with lyrics about wanting to freely go on a trip during the weekend! \n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						184,
+						187
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						198,
+						206
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						207,
+						212
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						213,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409707508877254700,
+		"in_reply_to_status_id_str": "1409707508877254661",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631949,
+			"friends_count": 4,
+			"listed_count": 5401,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 462,
+		"favorite_count": 1077,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TAEYEON to release her new single ‘Weekend’ on 7/6 at 6PM KST!\nA Disco Pop song of guitar and retro synth sounds with lyrics about wanting to freely go on a trip during the weekend! \n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Tue Jun 29 03:07:08 +0000 2021",
+		"id": 1409707508877254700,
+		"id_str": "1409709996598718464",
+		"full_text": "‘믿듣탱’의 귀환! 태연 새 싱글 ‘Weekend’ 7월 6일 오후 6시 공개!\n주말만은 하고 싶은 대로 자유롭게 떠나고 싶은 마음을 담은 경쾌한 기타와 레트로한 신스 사운드가 어우러진 디스코 팝 장르의 곡!\n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1409693260717596700,
+		"in_reply_to_status_id_str": "1409693260717596675",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3631949,
+			"friends_count": 4,
+			"listed_count": 5401,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2358,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 304,
+		"favorite_count": 822,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "‘믿듣탱’의 귀환! 태연 새 싱글 ‘Weekend’ 7월 6일 오후 6시 공개!\n주말만은 하고 싶은 대로 자유롭게 떠나고 싶은 마음을 담은 경쾌한 기타와 레트로한 신스 사운드가 어우러진 디스코 팝 장르의 곡!\n\n#태연 #TAEYEON \n#Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Tue Jun 29 02:37:35 +0000 2021",
+		"id": 1409113156400533500,
+		"id_str": "1409702556570316804",
+		"full_text": "\"도대체 나는 어떤 색깔의 가수일까. 이게 지금 가장 큰 고민이에요. 솔직히 저는 감정 기복이 심한 편이라 기분에 따라 음악 취향이 많이 달라지거든요. 그래서 그에 대한 고민이 여전히 있는 것 같아요. 나의 주 무기는 무엇인가.\"\n\n#TAEYEON #GirlsGeneration #Cosmopolitan https://t.co/mEPgvEMqjh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"text": "Cosmopolitan",
+					"indices": [
+						156,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409113077988020200,
+					"id_str": "1409113077988020225",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E44s4O3VUAEy1WY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44s4O3VUAEy1WY.jpg",
+					"url": "https://t.co/mEPgvEMqjh",
+					"display_url": "pic.twitter.com/mEPgvEMqjh",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1409113156400533509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1525,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409113077988020200,
+					"id_str": "1409113077988020225",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E44s4O3VUAEy1WY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44s4O3VUAEy1WY.jpg",
+					"url": "https://t.co/mEPgvEMqjh",
+					"display_url": "pic.twitter.com/mEPgvEMqjh",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1409113156400533509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1525,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409113096740769800,
+					"id_str": "1409113096740769802",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E44s5UuVkAox5-S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44s5UuVkAox5-S.jpg",
+					"url": "https://t.co/mEPgvEMqjh",
+					"display_url": "pic.twitter.com/mEPgvEMqjh",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1409113156400533509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1544,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1409113134007160800,
+					"id_str": "1409113134007160835",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/E44s7fjVkAMQWr_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E44s7fjVkAMQWr_.jpg",
+					"url": "https://t.co/mEPgvEMqjh",
+					"display_url": "pic.twitter.com/mEPgvEMqjh",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1409113156400533509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 904,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1542,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1408017353061781500,
+		"in_reply_to_status_id_str": "1408017353061781509",
+		"in_reply_to_user_id": 2255641326,
+		"in_reply_to_user_id_str": "2255641326",
+		"in_reply_to_screen_name": "ggpm2012",
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Seoul, Korea",
+			"description": "GGPM Official Twitter. Always with Girls' Generation!",
+			"url": "https://t.co/USZpToXPH6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/USZpToXPH6",
+							"expanded_url": "https://linktr.ee/ggpm2012",
+							"display_url": "linktr.ee/ggpm2012",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15393,
+			"friends_count": 9,
+			"listed_count": 253,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1624626906",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 278,
+		"favorite_count": 599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"도대체 나는 어떤 색깔의 가수일까. 이게 지금 가장 큰 고민이에요. 솔직히 저는 감정 기복이 심한 편이라 기분에 따라 음악 취향이 많이 달라지거든요. 그래서 그에 대한 고민이 여전히 있는 것 같아요. 나의 주 무기는 무엇인가.\"\n\n#TAEYEON #GirlsGeneration #Cosmopolitan https://t.co/mEPgvEMqjh"
+	},
+	{
+		"created_at": "Tue Jun 29 02:37:33 +0000 2021",
+		"id": 1408017353061781500,
+		"id_str": "1409702551038038020",
+		"full_text": "TAEYEON Cosmopolitan July 2021\n\n오랜 휴식 시간을 끝낸 태연이 신곡으로 우리 곁을 찾아왔다. 4가지 커버에 담긴 태연의 cute, pretty, lovely, gorgeous 한 매력을 감상해보세요.\n\n#태연 #소녀시대 #코스모폴리탄 #TAEYEON #GirlsGeneration #Cosmopolitan\n\n🔗 https://t.co/7OWkiLLyhA https://t.co/YiTi0dH28M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "코스모폴리탄",
+					"indices": [
+						137,
+						144
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						154,
+						170
+					]
+				},
+				{
+					"text": "Cosmopolitan",
+					"indices": [
+						171,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7OWkiLLyhA",
+					"expanded_url": "https://bit.ly/2T0TUFa",
+					"display_url": "bit.ly/2T0TUFa",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1408017200821137400,
+					"id_str": "1408017200821137415",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E4pILySVcAcuScv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4pILySVcAcuScv.jpg",
+					"url": "https://t.co/YiTi0dH28M",
+					"display_url": "pic.twitter.com/YiTi0dH28M",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1408017353061781509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1545,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408017200821137400,
+					"id_str": "1408017200821137415",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E4pILySVcAcuScv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4pILySVcAcuScv.jpg",
+					"url": "https://t.co/YiTi0dH28M",
+					"display_url": "pic.twitter.com/YiTi0dH28M",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1408017353061781509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1545,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408017270014562300,
+					"id_str": "1408017270014562320",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E4pIP0DVUBAfM8p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4pIP0DVUBAfM8p.jpg",
+					"url": "https://t.co/YiTi0dH28M",
+					"display_url": "pic.twitter.com/YiTi0dH28M",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1408017353061781509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1552,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 909,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1408017306463064000,
+					"id_str": "1408017306463064067",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/E4pIR71VUAMGIpD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4pIR71VUAMGIpD.jpg",
+					"url": "https://t.co/YiTi0dH28M",
+					"display_url": "pic.twitter.com/YiTi0dH28M",
+					"expanded_url": "https://twitter.com/ggpm2012/status/1408017353061781509/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 907,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1548,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 514,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2255641326,
+			"id_str": "2255641326",
+			"name": "GGPM",
+			"screen_name": "ggpm2012",
+			"location": "Seoul, Korea",
+			"description": "GGPM Official Twitter. Always with Girls' Generation!",
+			"url": "https://t.co/USZpToXPH6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/USZpToXPH6",
+							"expanded_url": "https://linktr.ee/ggpm2012",
+							"display_url": "linktr.ee/ggpm2012",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15393,
+			"friends_count": 9,
+			"listed_count": 253,
+			"created_at": "Fri Dec 20 23:21:29 +0000 2013",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1138018334803292160/0fsgmy8n_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2255641326/1624626906",
+			"profile_link_color": "EE3D7E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1000,
+		"favorite_count": 1817,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON Cosmopolitan July 2021\n\n오랜 휴식 시간을 끝낸 태연이 신곡으로 우리 곁을 찾아왔다. 4가지 커버에 담긴 태연의 cute, pretty, lovely, gorgeous 한 매력을 감상해보세요.\n\n#태연 #소녀시대 #코스모폴리탄 #TAEYEON #GirlsGeneration #Cosmopolitan\n\n🔗 https://t.co/7OWkiLLyhA https://t.co/YiTi0dH28M"
+	},
+	{
+		"created_at": "Tue Jun 29 02:37:09 +0000 2021",
+		"id": 1409375975838666800,
+		"id_str": "1409702450404106253",
+		"full_text": "영상 바로보기: https://t.co/nUF4NMtHTr\n\n#뮤지컬 #시카고 #뮤지컬시카고 \n#굿바이 #굿바이시카고\n#막공D-20 #7월18일까지 #디큐브아트센터",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤지컬",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "시카고",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "뮤지컬시카고",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "굿바이",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "굿바이시카고",
+					"indices": [
+						58,
+						65
+					]
+				},
+				{
+					"text": "막공D",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "7월18일까지",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "디큐브아트센터",
+					"indices": [
+						83,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nUF4NMtHTr",
+					"expanded_url": "https://youtu.be/Lcntp7NFYMg",
+					"display_url": "youtu.be/Lcntp7NFYMg",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1409375973527593000,
+		"in_reply_to_status_id_str": "1409375973527592961",
+		"in_reply_to_user_id": 142191701,
+		"in_reply_to_user_id_str": "142191701",
+		"in_reply_to_screen_name": "i_seensee",
+		"user": {
+			"id": 142191701,
+			"id_str": "142191701",
+			"name": "신시컴퍼니",
+			"screen_name": "i_seensee",
+			"location": "",
+			"description": "뮤지컬, 연극 제작사 신시컴퍼니 공식 계정입니다.",
+			"url": "https://t.co/cf38b9jJLy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cf38b9jJLy",
+							"expanded_url": "http://iseensee.com",
+							"display_url": "iseensee.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53555,
+			"friends_count": 2413,
+			"listed_count": 301,
+			"created_at": "Mon May 10 06:32:28 +0000 2010",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094825804062572544/PQgit9Qw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/142191701/1615861207",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "영상 바로보기: https://t.co/nUF4NMtHTr\n\n#뮤지컬 #시카고 #뮤지컬시카고 \n#굿바이 #굿바이시카고\n#막공D-20 #7월18일까지 #디큐브아트센터"
+	},
+	{
 		"created_at": "Tue Jun 29 02:07:17 +0000 2021",
 		"id": 1409693260717596700,
 		"id_str": "1409694931594010634",
