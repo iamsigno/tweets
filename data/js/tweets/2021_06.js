@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 09:07:09 +0000 2021",
+		"id": 1409798799401308200,
+		"id_str": "1409800594945200128",
+		"full_text": "행복의 답 = 나를 사랑하는 내 자신!\n모두가 희수 서현을 사랑해💗\n\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/jwFXwCYXHB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "마인",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "MINE",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "tvN",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						54,
+						60
+					]
+				},
+				{
+					"text": "이보영",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "김서형",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "이현욱",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "옥자연",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "차학연",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "정이서",
+					"indices": [
+						86,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1409450862741659600,
+					"id_str": "1409450862741659653",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E49glqzVIAI9yw9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E49glqzVIAI9yw9.jpg",
+					"url": "https://t.co/jwFXwCYXHB",
+					"display_url": "pic.twitter.com/jwFXwCYXHB",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1409798799401308166/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409450862741659600,
+					"id_str": "1409450862741659653",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/E49glqzVIAI9yw9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E49glqzVIAI9yw9.jpg",
+					"url": "https://t.co/jwFXwCYXHB",
+					"display_url": "pic.twitter.com/jwFXwCYXHB",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1409798799401308166/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 113581,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409450862741659653/vid/640x360/1EAvVwNnzTjZufKf.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1409450862741659653/pl/fIHaY2cTkMmqbCz_.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409450862741659653/vid/1280x720/UFMKzvNATQYf4csB.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1409450862741659653/vid/480x270/U3A33OBPP98c_xcY.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "\"모든 걸 잃은 나 조차도 사랑할 수 있는 나 자신\" 행복의 답을 찾은 이보영X김서형",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN 드라마",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN 드라마 공식 계정 #tvN #티비엔\n#어느날우리집현관으로멸망이들어왔다 #슬기로운의사생활시즌2 #보이스4 #마인",
+			"url": "https://t.co/ULT2t2MOBK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ULT2t2MOBK",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 519127,
+			"friends_count": 41,
+			"listed_count": 838,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158182438/photo_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1623398952",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "행복의 답 = 나를 사랑하는 내 자신!\n모두가 희수 서현을 사랑해💗\n\n#마인 #MINE #tvN #토일드라마\n#이보영 #김서형 #이현욱 #옥자연 #차학연 #정이서 https://t.co/jwFXwCYXHB"
+	},
+	{
 		"created_at": "Tue Jun 29 08:07:14 +0000 2021",
 		"id": 1409780159427670000,
 		"id_str": "1409785517055545350",
