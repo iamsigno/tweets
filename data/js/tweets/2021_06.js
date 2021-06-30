@@ -1,10 +1,238 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 13:07:09 +0000 2021",
+		"id": 1410212874220281900,
+		"id_str": "1410223380675112962",
+		"full_text": "[#괴로운체험단] 갤럭시북편 EP01\n\n끝난 줄 알았지❔ 레귤러로 돌아왔어😎ㅋ\n우리가 입👄 좀 터니까 잘 팔리는 것 같더라고✌🏻ㅎ\n갤럭시북 갖고싶어서 갤갤 거리는 거🤮 궁금하면\n들리든가😈ㅋ \n￼\n👉 https://t.co/K2DwQT76m5\n\n#이진호 #이용진 #써니 #꽈뚜룹 #장예원 https://t.co/b8ByG6Wjnc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "괴로운체험단",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "꽈뚜룹",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "장예원",
+					"indices": [
+						155,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K2DwQT76m5",
+					"expanded_url": "https://youtu.be/tqsfu2eunzQ",
+					"display_url": "youtu.be/tqsfu2eunzQ",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410212825629270000,
+					"id_str": "1410212825629270020",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E5IVF-FVIAQH8qh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5IVF-FVIAQH8qh.jpg",
+					"url": "https://t.co/b8ByG6Wjnc",
+					"display_url": "pic.twitter.com/b8ByG6Wjnc",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1410212874220281865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410212825629270000,
+					"id_str": "1410212825629270020",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/E5IVF-FVIAQH8qh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5IVF-FVIAQH8qh.jpg",
+					"url": "https://t.co/b8ByG6Wjnc",
+					"display_url": "pic.twitter.com/b8ByG6Wjnc",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1410212874220281865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n☠️ 괴로운 데이트2\n🥂 신과 함께\n🏡 잡동산\n 😤소년멘탈캠프2",
+			"url": "https://t.co/qCwgD9FIgZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qCwgD9FIgZ",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35206,
+			"friends_count": 0,
+			"listed_count": 58,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1607069106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#괴로운체험단] 갤럭시북편 EP01\n\n끝난 줄 알았지❔ 레귤러로 돌아왔어😎ㅋ\n우리가 입👄 좀 터니까 잘 팔리는 것 같더라고✌🏻ㅎ\n갤럭시북 갖고싶어서 갤갤 거리는 거🤮 궁금하면\n들리든가😈ㅋ \n￼\n👉 https://t.co/K2DwQT76m5\n\n#이진호 #이용진 #써니 #꽈뚜룹 #장예원 https://t.co/b8ByG6Wjnc"
+	},
+	{
 		"created_at": "Wed Jun 30 12:07:09 +0000 2021",
 		"id": 1410199970884460500,
 		"id_str": "1410208280555753474",
-		"full_text": "☀️7/1(목) 7PM☀️ &lt;써니의 월간멍냥&gt;에 여러분을 초대합니다💌 냥집사 써니&amp;수의사 선생님 그리고 깜찍한 특별 게스트가 함께하는 댕냥 전용 #쇼핑LIVE 는 #VLIVE 에서도 함께할 수 있으니❣️ 댕냥들과 시원한 여름나기 팁이 궁금하다면⁉️ 월간멍냥에서 만나요🐶🐱\n​\n▶️ https://t.co/diTb5pw4hw\n​\n#써니",
+		"full_text": "☀️7/1(목) 7PM☀️ &lt;써니의 월간멍냥&gt;에 여러분을 초대합니다💌 냥집사 써니&amp;수의사 선생님 그리고 깜찍한 특별 게스트가 함께하는 댕냥 전용 #쇼핑LIVE 는 #VLIVE 에서도 함께할 수 있으니❣️ 댕냥들과 시원한 여름나기 팁이 궁금하다면⁉️ 월간멍냥에서 만나요🐶🐱\n\n▶️ https://t.co/diTb5pw4hw\n\n#써니",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -127,7 +355,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "☀️7/1(목) 7PM☀️ &lt;써니의 월간멍냥&gt;에 여러분을 초대합니다💌 냥집사 써니&amp;수의사 선생님 그리고 깜찍한 특별 게스트가 함께하는 댕냥 전용 #쇼핑LIVE 는 #VLIVE 에서도 함께할 수 있으니❣️ 댕냥들과 시원한 여름나기 팁이 궁금하다면⁉️ 월간멍냥에서 만나요🐶🐱\n​\n▶️ https://t.co/diTb5pw4hw\n​\n#써니"
+		"text": "☀️7/1(목) 7PM☀️ &lt;써니의 월간멍냥&gt;에 여러분을 초대합니다💌 냥집사 써니&amp;수의사 선생님 그리고 깜찍한 특별 게스트가 함께하는 댕냥 전용 #쇼핑LIVE 는 #VLIVE 에서도 함께할 수 있으니❣️ 댕냥들과 시원한 여름나기 팁이 궁금하다면⁉️ 월간멍냥에서 만나요🐶🐱\n\n▶️ https://t.co/diTb5pw4hw\n\n#써니"
 	},
 	{
 		"created_at": "Wed Jun 30 08:07:09 +0000 2021",
