@@ -1,6 +1,482 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 05:07:09 +0000 2021",
+		"id": 1410100840585515000,
+		"id_str": "1410102583528673285",
+		"full_text": "7월 컴백 아티스트 공개 🍈\n📍2주차 : #BM #규현 #전소연 #DAY6 #SF9 #태연 #BTS #공민지\n📍3주차 : #백아연\n📍7월 예정 : #디오 #악동뮤지션\n\n확인하세요 👉🏻\n\n#멜론 #컴백\n@kard_official @GaemGyu @G_I_DLE @DAY6Official\n@SF9official @BTS_twt @mingkki21\n@100ayeon @weareoneEXO @official_akmu https://t.co/nGZ1d9vn8x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BM",
+					"indices": [
+						23,
+						26
+					]
+				},
+				{
+					"text": "규현",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "공민지",
+					"indices": [
+						56,
+						60
+					]
+				},
+				{
+					"text": "백아연",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "디오",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "악동뮤지션",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						108,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KARD_Official",
+					"name": "KARD",
+					"id": 796579760893784000,
+					"id_str": "796579760893784065",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"screen_name": "GaemGyu",
+					"name": "ChoKyuHyun",
+					"id": 135527082,
+					"id_str": "135527082",
+					"indices": [
+						127,
+						135
+					]
+				},
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"screen_name": "day6official",
+					"name": "DAY6",
+					"id": 3390133696,
+					"id_str": "3390133696",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"screen_name": "SF9official",
+					"name": "SF9official",
+					"id": 765763153728835600,
+					"id_str": "765763153728835584",
+					"indices": [
+						159,
+						171
+					]
+				},
+				{
+					"screen_name": "BTS_twt",
+					"name": "방탄소년단",
+					"id": 335141638,
+					"id_str": "335141638",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"screen_name": "mingkki21",
+					"name": "Minzy",
+					"id": 239394793,
+					"id_str": "239394793",
+					"indices": [
+						181,
+						191
+					]
+				},
+				{
+					"screen_name": "100ayeon",
+					"name": "백아연",
+					"id": 702377478,
+					"id_str": "702377478",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"screen_name": "weareoneEXO",
+					"name": "EXO",
+					"id": 873115441303924700,
+					"id_str": "873115441303924736",
+					"indices": [
+						202,
+						214
+					]
+				},
+				{
+					"screen_name": "official_akmu",
+					"name": "official AKMU",
+					"id": 1166593986800291800,
+					"id_str": "1166593986800291841",
+					"indices": [
+						215,
+						229
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410100678723129300,
+					"id_str": "1410100678723129345",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E5GvGKTUUAEzQyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5GvGKTUUAEzQyy.jpg",
+					"url": "https://t.co/nGZ1d9vn8x",
+					"display_url": "pic.twitter.com/nGZ1d9vn8x",
+					"expanded_url": "https://twitter.com/melon/status/1410100840585515008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410100678723129300,
+					"id_str": "1410100678723129345",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E5GvGKTUUAEzQyy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5GvGKTUUAEzQyy.jpg",
+					"url": "https://t.co/nGZ1d9vn8x",
+					"display_url": "pic.twitter.com/nGZ1d9vn8x",
+					"expanded_url": "https://twitter.com/melon/status/1410100840585515008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410100678718939100,
+					"id_str": "1410100678718939136",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E5GvGKSUYAARYJS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5GvGKSUYAARYJS.jpg",
+					"url": "https://t.co/nGZ1d9vn8x",
+					"display_url": "pic.twitter.com/nGZ1d9vn8x",
+					"expanded_url": "https://twitter.com/melon/status/1410100840585515008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410100678731526100,
+					"id_str": "1410100678731526151",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E5GvGKVUcAcP3M2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5GvGKVUcAcP3M2.jpg",
+					"url": "https://t.co/nGZ1d9vn8x",
+					"display_url": "pic.twitter.com/nGZ1d9vn8x",
+					"expanded_url": "https://twitter.com/melon/status/1410100840585515008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410100678735761400,
+					"id_str": "1410100678735761409",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/E5GvGKWVEAEs0lA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5GvGKWVEAEs0lA.jpg",
+					"url": "https://t.co/nGZ1d9vn8x",
+					"display_url": "pic.twitter.com/nGZ1d9vn8x",
+					"expanded_url": "https://twitter.com/melon/status/1410100840585515008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 128201,
+			"friends_count": 58,
+			"listed_count": 625,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 405,
+		"favorite_count": 879,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "7월 컴백 아티스트 공개 🍈\n📍2주차 : #BM #규현 #전소연 #DAY6 #SF9 #태연 #BTS #공민지\n📍3주차 : #백아연\n📍7월 예정 : #디오 #악동뮤지션\n\n확인하세요 👉🏻\n\n#멜론 #컴백\n@kard_official @GaemGyu @G_I_DLE @DAY6Official\n@SF9official @BTS_twt @mingkki21\n@100ayeon @weareoneEXO @official_akmu https://t.co/nGZ1d9vn8x"
+	},
+	{
 		"created_at": "Tue Jun 29 15:45:20 +0000 2021",
 		"id": 1409890902374559700,
 		"id_str": "1409900803087810561",
