@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 08:07:09 +0000 2021",
+		"id": 1410137399548473300,
+		"id_str": "1410147882397732864",
+		"full_text": "TAEYEON berhasil menarik perhatian dengan merilis teaser image yang menunjukkan visual dan daya tarik TAEYEON yang manis.\n\nCek informasi lengkapnya di Official Facebook SMTOWN Indonesia\n🔗https://t.co/SRh1RHWR6Q\n\n#TAEYEON #Weekend\n#GirlsGeneration @GirlsGeneration https://t.co/lfXd10xbe5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						212,
+						220
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						230,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						247,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SRh1RHWR6Q",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/843200039630345/",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410137364396011500,
+					"id_str": "1410137364396011523",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E5HQdjFUcAM75EK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5HQdjFUcAM75EK.jpg",
+					"url": "https://t.co/lfXd10xbe5",
+					"display_url": "pic.twitter.com/lfXd10xbe5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1410137399548473345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410137364396011500,
+					"id_str": "1410137364396011523",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E5HQdjFUcAM75EK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5HQdjFUcAM75EK.jpg",
+					"url": "https://t.co/lfXd10xbe5",
+					"display_url": "pic.twitter.com/lfXd10xbe5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1410137399548473345/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1067,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 565477,
+			"friends_count": 34,
+			"listed_count": 392,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2180,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 389,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON berhasil menarik perhatian dengan merilis teaser image yang menunjukkan visual dan daya tarik TAEYEON yang manis.\n\nCek informasi lengkapnya di Official Facebook SMTOWN Indonesia\n🔗https://t.co/SRh1RHWR6Q\n\n#TAEYEON #Weekend\n#GirlsGeneration @GirlsGeneration https://t.co/lfXd10xbe5"
+	},
+	{
 		"created_at": "Wed Jun 30 05:07:09 +0000 2021",
 		"id": 1410100840585515000,
 		"id_str": "1410102583528673285",
