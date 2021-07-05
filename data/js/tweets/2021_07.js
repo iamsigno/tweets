@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 10:07:12 +0000 2021",
+		"id": 1411978539629355000,
+		"id_str": "1411990036774633474",
+		"full_text": "[VLIVE] 🌂This week's special VLIVE🌂\n\nIf you don't want to miss it, schedule broadcast alerts in advance⚡️🔋\n\n#DAY6 #Even_of_Day #SF9 #TAEYEON #GirlsGeneration #VLIVE https://t.co/T2fVETLOpj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DAY6",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "Even_of_Day",
+					"indices": [
+						114,
+						126
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						158,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411978519719014400,
+					"id_str": "1411978519719014406",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ha-5JVcAYSC3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ha-5JVcAYSC3s.jpg",
+					"url": "https://t.co/T2fVETLOpj",
+					"display_url": "pic.twitter.com/T2fVETLOpj",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1411978539629355014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411978519719014400,
+					"id_str": "1411978519719014406",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/E5ha-5JVcAYSC3s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5ha-5JVcAYSC3s.jpg",
+					"url": "https://t.co/T2fVETLOpj",
+					"display_url": "pic.twitter.com/T2fVETLOpj",
+					"expanded_url": "https://twitter.com/Vliveofficial/status/1411978539629355014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1411978423069642800,
+		"in_reply_to_status_id_str": "1411978423069642759",
+		"in_reply_to_user_id": 1459223742,
+		"in_reply_to_user_id_str": "1459223742",
+		"in_reply_to_screen_name": "Vliveofficial",
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6207833,
+			"friends_count": 167,
+			"listed_count": 2795,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 275,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[VLIVE] 🌂This week's special VLIVE🌂\n\nIf you don't want to miss it, schedule broadcast alerts in advance⚡️🔋\n\n#DAY6 #Even_of_Day #SF9 #TAEYEON #GirlsGeneration #VLIVE https://t.co/T2fVETLOpj"
+	},
+	{
 		"created_at": "Mon Jul 05 09:07:09 +0000 2021",
 		"id": 1411973123138855000,
 		"id_str": "1411974921341767680",
