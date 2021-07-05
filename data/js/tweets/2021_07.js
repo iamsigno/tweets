@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 04:07:09 +0000 2021",
+		"id": 1411888105963987000,
+		"id_str": "1411899423643275265",
+		"full_text": "#KWONYURI wraps up #보쌈_운명을훔치다, leading the new history of MBN dramas with her perfect visual, acting &amp; viewer ratings!\nKWON YURI’s sincere challenge regardless of genres gathers anticipation for her next step as an actress!\n\n#YURI \n#권유리 #유리\n#소녀시대 #GirlsGeneration https://t.co/IQKM0o49TZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "보쌈_운명을훔치다",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						229,
+						234
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						236,
+						240
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						241,
+						244
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						245,
+						250
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						251,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411886348231864300,
+					"id_str": "1411886348231864320",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1217,
+							"h": 1826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411886348231864300,
+					"id_str": "1411886348231864320",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzmVcAApxsV.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1217,
+							"h": 1826,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411886348227604500,
+					"id_str": "1411886348227604483",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzlUcAMTJFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzlUcAMTJFR.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411886348236050400,
+					"id_str": "1411886348236050438",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJznVUAYBPbc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJznVUAYBPbc.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411886348240228400,
+					"id_str": "1411886348240228353",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gHJzoVEAEEpeP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gHJzoVEAEEpeP.jpg",
+					"url": "https://t.co/IQKM0o49TZ",
+					"display_url": "pic.twitter.com/IQKM0o49TZ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1411888105963986947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9629677,
+			"friends_count": 55,
+			"listed_count": 10201,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/925281250792824832/dfj3nYUe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1509443118",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 841,
+		"favorite_count": 3727,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KWONYURI wraps up #보쌈_운명을훔치다, leading the new history of MBN dramas with her perfect visual, acting &amp; viewer ratings!\nKWON YURI’s sincere challenge regardless of genres gathers anticipation for her next step as an actress!\n\n#YURI \n#권유리 #유리\n#소녀시대 #GirlsGeneration https://t.co/IQKM0o49TZ"
+	},
+	{
 		"created_at": "Mon Jul 05 02:44:56 +0000 2021",
 		"id": 1411875906088439800,
 		"id_str": "1411878736945950720",
