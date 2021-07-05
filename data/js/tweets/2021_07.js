@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 09:07:09 +0000 2021",
+		"id": 1411973123138855000,
+		"id_str": "1411974921341767680",
+		"full_text": "[하이라이트] 와우! 여름이다🍉 눈이 부신 여름 속으로🏖\n\n어딜 가도 여긴 Tropical Night🌴\n무더위를 날려줄 상큼! 청량! 걸그룹 썸머송🍉\n📺https://t.co/stGTdolAuQ\n\n#하이라이트 #썸머송\n#걸스데이 #레드벨벳 #소녀시대 #씨스타\n#에이핑크 #트와이스 #여자친구\n#우주소녀 #여자아이들 #오마이걸 https://t.co/039SsozfGw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하이라이트",
+					"indices": [
+						110,
+						116
+					]
+				},
+				{
+					"text": "썸머송",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "걸스데이",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "씨스타",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "에이핑크",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "여자친구",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "우주소녀",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "여자아이들",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/stGTdolAuQ",
+					"expanded_url": "https://youtu.be/NXCZCOqrxPQ",
+					"display_url": "youtu.be/NXCZCOqrxPQ",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411933302991118300,
+					"id_str": "1411933302991118341",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gx27tUYAUt7Y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gx27tUYAUt7Y3.jpg",
+					"url": "https://t.co/039SsozfGw",
+					"display_url": "pic.twitter.com/039SsozfGw",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1411973123138854913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411933302991118300,
+					"id_str": "1411933302991118341",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/E5gx27tUYAUt7Y3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5gx27tUYAUt7Y3.jpg",
+					"url": "https://t.co/039SsozfGw",
+					"display_url": "pic.twitter.com/039SsozfGw",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1411973123138854913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81323,
+			"friends_count": 333,
+			"listed_count": 314,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7907,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1625438770",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[하이라이트] 와우! 여름이다🍉 눈이 부신 여름 속으로🏖\n\n어딜 가도 여긴 Tropical Night🌴\n무더위를 날려줄 상큼! 청량! 걸그룹 썸머송🍉\n📺https://t.co/stGTdolAuQ\n\n#하이라이트 #썸머송\n#걸스데이 #레드벨벳 #소녀시대 #씨스타\n#에이핑크 #트와이스 #여자친구\n#우주소녀 #여자아이들 #오마이걸 https://t.co/039SsozfGw"
+	},
+	{
 		"created_at": "Mon Jul 05 06:07:08 +0000 2021",
 		"id": 1411921982325620700,
 		"id_str": "1411929621998747649",
