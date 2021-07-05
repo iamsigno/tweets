@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 02:44:56 +0000 2021",
+		"id": 1411875906088439800,
+		"id_str": "1411878736945950720",
+		"full_text": "‘믿듣탱’ 태연, 음악 방송 출격! 신곡 ‘Weekend’ 컴백 무대 8일 ‘엠카운트다운’에서 첫 공개!\n\nTAEYEON to perform her upcoming new song ‘Weekend’ for the first time on 7/8 on M Countdown! \n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration https://t.co/LVaHltZttK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411875561517973500,
+					"id_str": "1411875561517973506",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E5f9V79VgAIb-5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5f9V79VgAIb-5-.jpg",
+					"url": "https://t.co/LVaHltZttK",
+					"display_url": "pic.twitter.com/LVaHltZttK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1411875906088439821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1649,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411875561517973500,
+					"id_str": "1411875561517973506",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E5f9V79VgAIb-5-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5f9V79VgAIb-5-.jpg",
+					"url": "https://t.co/LVaHltZttK",
+					"display_url": "pic.twitter.com/LVaHltZttK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1411875906088439821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1649,
+							"h": 1100,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411875561522155500,
+					"id_str": "1411875561522155526",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/E5f9V7-VUAYgABZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5f9V7-VUAYgABZ.jpg",
+					"url": "https://t.co/LVaHltZttK",
+					"display_url": "pic.twitter.com/LVaHltZttK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1411875906088439821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1649,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3641005,
+			"friends_count": 4,
+			"listed_count": 5424,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2274,
+		"favorite_count": 5188,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘믿듣탱’ 태연, 음악 방송 출격! 신곡 ‘Weekend’ 컴백 무대 8일 ‘엠카운트다운’에서 첫 공개!\n\nTAEYEON to perform her upcoming new song ‘Weekend’ for the first time on 7/8 on M Countdown! \n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration https://t.co/LVaHltZttK"
+	},
+	{
 		"created_at": "Mon Jul 05 02:07:08 +0000 2021",
 		"id": 1411863794553262000,
 		"id_str": "1411869223811432451",
