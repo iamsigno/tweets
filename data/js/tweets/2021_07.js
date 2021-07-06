@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 07:07:13 +0000 2021",
+		"id": 1412301536265265200,
+		"id_str": "1412307126790365188",
+		"full_text": "[#VLIVE] ❗️ SANGAT PENTING ❗️ Weekend: Taeyeon Entertainment 1st Half-Year General Meeting akan segera berlangsung pada:\n📅 Hari ini, jam 15.00 WIB\n📌 VLIVE\nHadirin dimohon untuk dapat hadir tepat waktu✍️🏻\n\n▶️ https://t.co/bX3dHftI2a\n\n#TAEYEON #GirlsGeneration #VLIVEINDONESIA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						233,
+						241
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						242,
+						258
+					]
+				},
+				{
+					"text": "VLIVEINDONESIA",
+					"indices": [
+						259,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bX3dHftI2a",
+					"expanded_url": "https://www.vlive.tv/video/254402",
+					"display_url": "vlive.tv/video/254402",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1105406743352229900,
+			"id_str": "1105406743352229888",
+			"name": "VLIVE INDONESIA",
+			"screen_name": "vliveindonesia",
+			"location": "",
+			"description": "Selamat datang di VLIVE Indonesia Official Account.\n\nChannel V INDONESIA 👇🏻 👇🏻",
+			"url": "https://t.co/2zoxavILHU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2zoxavILHU",
+							"expanded_url": "https://channels.vlive.tv/B4B94F/celeb",
+							"display_url": "channels.vlive.tv/B4B94F/celeb",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34077,
+			"friends_count": 1,
+			"listed_count": 13,
+			"created_at": "Tue Mar 12 09:54:39 +0000 2019",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105480655079534593/xBCJj6Kc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105406743352229888/1562229420",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[#VLIVE] ❗️ SANGAT PENTING ❗️ Weekend: Taeyeon Entertainment 1st Half-Year General Meeting akan segera berlangsung pada:\n📅 Hari ini, jam 15.00 WIB\n📌 VLIVE\nHadirin dimohon untuk dapat hadir tepat waktu✍️🏻\n\n▶️ https://t.co/bX3dHftI2a\n\n#TAEYEON #GirlsGeneration #VLIVEINDONESIA"
+	},
+	{
 		"created_at": "Tue Jul 06 05:46:37 +0000 2021",
 		"id": 1412285446856396800,
 		"id_str": "1412286844612526082",
