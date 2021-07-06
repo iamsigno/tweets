@@ -1,6 +1,1106 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 10:07:35 +0000 2021",
+		"id": 1412335762180382700,
+		"id_str": "1412352518869467137",
+		"full_text": "テヨン(@GirlsGeneration)「Weekend」配信開始🎧\n軽快なギターとレトロなシンセサウンドがマッチした、ポップな楽曲です💗\n\n#태연 #TAEYEON\n#Weekend\n@gg_official_jp\n\n▼レコチョク\nhttps://t.co/DTUHgf5i5P\n\n▼dヒッツ\nhttps://t.co/0tl7FqvoYl\n\n▼RecMusic\nhttps://t.co/2kB2DWqchN https://t.co/C3RnW00sQr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						4,
+						20
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						94,
+						109
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DTUHgf5i5P",
+					"expanded_url": "https://recochoku.jp/song/S1012033139/single",
+					"display_url": "recochoku.jp/song/S10120331…",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/0tl7FqvoYl",
+					"expanded_url": "https://selection.music.dmkt-sp.jp/artist/2000084120",
+					"display_url": "selection.music.dmkt-sp.jp/artist/2000084…",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/2kB2DWqchN",
+					"expanded_url": "https://recmusic.jp/artist/?id=2000084120",
+					"display_url": "recmusic.jp/artist/?id=200…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412235931201855500,
+					"id_str": "1412235931201855495",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1412235931201855495/img/1lmDKu4_Opzj_4DR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1412235931201855495/img/1lmDKu4_Opzj_4DR.jpg",
+					"url": "https://t.co/C3RnW00sQr",
+					"display_url": "pic.twitter.com/C3RnW00sQr",
+					"expanded_url": "https://twitter.com/recochoku_jp/status/1412335762180382721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412235931201855500,
+					"id_str": "1412235931201855495",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1412235931201855495/img/1lmDKu4_Opzj_4DR.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1412235931201855495/img/1lmDKu4_Opzj_4DR.jpg",
+					"url": "https://t.co/C3RnW00sQr",
+					"display_url": "pic.twitter.com/C3RnW00sQr",
+					"expanded_url": "https://twitter.com/recochoku_jp/status/1412335762180382721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 14715,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412235931201855495/vid/1280x720/lIRy07sivQni4EgA.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412235931201855495/vid/480x270/OI0UdW8mSbBv0EMU.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1412235931201855495/vid/640x360/nLvLsnnyapDakUpZ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1412235931201855495/pl/scjECzhPAIe15Auz.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131027338,
+			"id_str": "131027338",
+			"name": "レコチョク《コーポレートアカウント》",
+			"screen_name": "recochoku_jp",
+			"location": "東京都渋谷区",
+			"description": "音楽🎧に関する様々なサービスを展開している、「株式会社レコチョク」の公式アカウントです😆🎵レコチョクが展開する様々なサービスに関する情報や、ここでしか知れないアーティストに関する情報をお届けします🌟\"レコチョクと音楽の今を伝える✨「レコログ」✨\"始めました。詳細は下部リンクから↓↓",
+			"url": "https://t.co/4jD77xC0Jh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4jD77xC0Jh",
+							"expanded_url": "https://recochoku.jp/ch/recolog/",
+							"display_url": "recochoku.jp/ch/recolog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35989,
+			"friends_count": 1962,
+			"listed_count": 308,
+			"created_at": "Fri Apr 09 01:58:56 +0000 2010",
+			"favourites_count": 3261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120666776377761793/v0JBFhMN_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120666776377761793/v0JBFhMN_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131027338/1564647528",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAC5EE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 438,
+		"favorite_count": 696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン(@GirlsGeneration)「Weekend」配信開始🎧\n軽快なギターとレトロなシンセサウンドがマッチした、ポップな楽曲です💗\n\n#태연 #TAEYEON\n#Weekend\n@gg_official_jp\n\n▼レコチョク\nhttps://t.co/DTUHgf5i5P\n\n▼dヒッツ\nhttps://t.co/0tl7FqvoYl\n\n▼RecMusic\nhttps://t.co/2kB2DWqchN https://t.co/C3RnW00sQr"
+	},
+	{
+		"created_at": "Tue Jul 06 10:07:26 +0000 2021",
+		"id": 1412335510186463200,
+		"id_str": "1412352480608989184",
+		"full_text": "#少女時代 #TAEYEON 最新曲『#Weekend』配信開始✈️💖\n\nテヨンちゃんの歌声にぴったりで軽快な雰囲気の今作🍓\nこの曲のおかげで、週末はもちろん平日も頑張れそうです…🥰\n\nテヨンちゃんから届いた可愛い可愛い可愛いメッセージも必見🥺💘\n@gg_official_jp #태연\n🎧https://t.co/cGBF6jixKI https://t.co/t4jmAr4Hfc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						140,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cGBF6jixKI",
+					"expanded_url": "https://mf.awa.fm/3wizxRl",
+					"display_url": "mf.awa.fm/3wizxRl",
+					"indices": [
+						145,
+						168
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411936181470650400,
+					"id_str": "1411936181470650372",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E5g0lguUcAEgDwC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5g0lguUcAEgDwC.jpg",
+					"url": "https://t.co/t4jmAr4Hfc",
+					"display_url": "pic.twitter.com/t4jmAr4Hfc",
+					"expanded_url": "https://twitter.com/AWA_official/status/1412335510186463232/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411936181470650400,
+					"id_str": "1411936181470650372",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E5g0lguUcAEgDwC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5g0lguUcAEgDwC.jpg",
+					"url": "https://t.co/t4jmAr4Hfc",
+					"display_url": "pic.twitter.com/t4jmAr4Hfc",
+					"expanded_url": "https://twitter.com/AWA_official/status/1412335510186463232/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 18819,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411936181470650372/vid/540x540/A1b21zs3NcLIQ5ye.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411936181470650372/vid/320x320/V3zego1zaVT2GcNP.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411936181470650372/vid/720x720/riqKxcSfN94lMvTY.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1411936181470650372/pl/lUL9OCjAuOcr0n1d.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "TAEYEON『Weekend』",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://mf.awa.fm/3wizxRl"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2927579576,
+			"id_str": "2927579576",
+			"name": "AWA＠最新音楽トレンド",
+			"screen_name": "AWA_official",
+			"location": "AWA",
+			"description": "音楽サブスク『AWA』公式Twitter。音楽を愛するAWAエディターたちのつぶやきをお届けします。初めての方は1ヶ月無料🎶",
+			"url": "https://t.co/tLxeTR4let",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLxeTR4let",
+							"expanded_url": "https://mf.awa.fm/downloadtw",
+							"display_url": "mf.awa.fm/downloadtw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196692,
+			"friends_count": 325,
+			"listed_count": 430,
+			"created_at": "Fri Dec 12 13:07:12 +0000 2014",
+			"favourites_count": 3436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 169332,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927579576/1592275896",
+			"profile_link_color": "FC7459",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 447,
+		"favorite_count": 715,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #TAEYEON 最新曲『#Weekend』配信開始✈️💖\n\nテヨンちゃんの歌声にぴったりで軽快な雰囲気の今作🍓\nこの曲のおかげで、週末はもちろん平日も頑張れそうです…🥰\n\nテヨンちゃんから届いた可愛い可愛い可愛いメッセージも必見🥺💘\n@gg_official_jp #태연\n🎧https://t.co/cGBF6jixKI https://t.co/t4jmAr4Hfc"
+	},
+	{
+		"created_at": "Tue Jul 06 10:07:23 +0000 2021",
+		"id": 1412343060634161200,
+		"id_str": "1412352467468271621",
+		"full_text": "#少女時代 の #テヨン が新曲\n\"#Weekend\" でカムバック🎉\n\n週末の気分を盛り上げる\n軽快なディスコポップナンバー🎶\n\nビデオコメントもいただきました！\n#Spotify で新曲をチェック🎧\n▶︎https://t.co/P0dbEDNotN\n\n@GirlsGeneration \n@gg_official_jp\n#TAEYEON https://t.co/6X4j5jJVH8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						18,
+						26
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						163,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						129,
+						145
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/P0dbEDNotN",
+					"expanded_url": "https://spoti.fi/36fIe4p",
+					"display_url": "spoti.fi/36fIe4p",
+					"indices": [
+						104,
+						127
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412342680709861400,
+					"id_str": "1412342680709861408",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1412342680709861408/pu/img/eiG_CwykUKwjo7ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1412342680709861408/pu/img/eiG_CwykUKwjo7ed.jpg",
+					"url": "https://t.co/6X4j5jJVH8",
+					"display_url": "pic.twitter.com/6X4j5jJVH8",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1412343060634161152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412342680709861400,
+					"id_str": "1412342680709861408",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1412342680709861408/pu/img/eiG_CwykUKwjo7ed.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1412342680709861408/pu/img/eiG_CwykUKwjo7ed.jpg",
+					"url": "https://t.co/6X4j5jJVH8",
+					"display_url": "pic.twitter.com/6X4j5jJVH8",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1412343060634161152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 19786,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1412342680709861408/pu/vid/720x720/-CLQRBiyYLqhTsMc.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1412342680709861408/pu/vid/540x540/bqxZcoqLwLzR8UiH.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1412342680709861408/pu/vid/320x320/1UtiQOGTMUCRBkUX.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1412342680709861408/pu/pl/FnBVIHy4lABFJ3nb.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽から、ポッドキャストまで。すべては音からはじまる🎧   世界で3億5600万人以上のファンに選ばれている、オーディオ ストリーミングサービスSpotify（スポティファイ）。 #すべては音からはじまる カスタマーサポート：@SpotifyCaresJP",
+			"url": "https://t.co/8TdfuriFMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfuriFMo",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 204513,
+			"friends_count": 1599,
+			"listed_count": 1042,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 12880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102299,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1623769225",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 651,
+		"favorite_count": 963,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 の #テヨン が新曲\n\"#Weekend\" でカムバック🎉\n\n週末の気分を盛り上げる\n軽快なディスコポップナンバー🎶\n\nビデオコメントもいただきました！\n#Spotify で新曲をチェック🎧\n▶︎https://t.co/P0dbEDNotN\n\n@GirlsGeneration \n@gg_official_jp\n#TAEYEON https://t.co/6X4j5jJVH8"
+	},
+	{
+		"created_at": "Tue Jul 06 09:45:13 +0000 2021",
+		"id": 1412340927398514700,
+		"id_str": "1412346889597505536",
+		"full_text": "태연의 'Weekend'와 설렘 가득한 여름 (with 미공개 사진♥)\n\n포스트 보러 가기 👉🏻https://t.co/IlaLJnPcNg\n\n포스트 속 태연의 미공개 사진도 확인해 보세요! ☁️\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IlaLJnPcNg",
+					"expanded_url": "http://naver.me/5Rc0NA9n",
+					"display_url": "naver.me/5Rc0NA9n",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3642488,
+			"friends_count": 4,
+			"listed_count": 5434,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2084,
+		"favorite_count": 3595,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연의 'Weekend'와 설렘 가득한 여름 (with 미공개 사진♥)\n\n포스트 보러 가기 👉🏻https://t.co/IlaLJnPcNg\n\n포스트 속 태연의 미공개 사진도 확인해 보세요! ☁️\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Tue Jul 06 09:45:09 +0000 2021",
+		"id": 1412340216807919600,
+		"id_str": "1412346872283418625",
+		"full_text": "TAEYEON 태연 [Weekend]\n\n🎧Listen now on your favorite platform\nhttps://t.co/QQj8zJsLTl \n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						114,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQj8zJsLTl",
+					"expanded_url": "https://smarturl.it/TAEYEON_Weekend",
+					"display_url": "smarturl.it/TAEYEON_Weekend",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3642488,
+			"friends_count": 4,
+			"listed_count": 5434,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2873,
+		"favorite_count": 4688,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 [Weekend]\n\n🎧Listen now on your favorite platform\nhttps://t.co/QQj8zJsLTl \n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Tue Jul 06 09:07:23 +0000 2021",
 		"id": 1412335821433180200,
 		"id_str": "1412337368342876162",
