@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 08:07:19 +0000 2021",
+		"id": 1412318361199939600,
+		"id_str": "1412322253145055233",
+		"full_text": "Yuk semua langsung merapat untuk nonton siaran langsung TAEYEON di V LIVE! ❤️\n\n 👉🏻 https://t.co/PrqgJAzrw8\n\n#Weekend #TAEYEON https://t.co/tOB8hzu2zV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Weekend",
+					"indices": [
+						108,
+						116
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						117,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PrqgJAzrw8",
+					"expanded_url": "https://m.vlive.tv/video/254402",
+					"display_url": "m.vlive.tv/video/254402",
+					"indices": [
+						83,
+						106
+					]
+				},
+				{
+					"url": "https://t.co/tOB8hzu2zV",
+					"expanded_url": "https://twitter.com/girlsgeneration/status/1412241275525296128",
+					"display_url": "twitter.com/girlsgeneratio…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 578177,
+			"friends_count": 34,
+			"listed_count": 398,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 87,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412241275525296000,
+		"quoted_status_id_str": "1412241275525296128",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tOB8hzu2zV",
+			"expanded": "https://twitter.com/girlsgeneration/status/1412241275525296128",
+			"display": "twitter.com/girlsgeneratio…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 06 02:45:32 +0000 2021",
+			"id": 1412241275525296000,
+			"id_str": "1412241275525296128",
+			"full_text": "태연 컴백! 신곡 ‘Weekend’ 오늘 공개! \n5시 V 라이브 → 6시 ‘Weekend’ 음원+뮤직비디오 공개!\n\nTAEYEON to comeback with her new song ‘Weekend’ today!\nNAVER V LIVE today at 5PM KST → ‘Weekend’ music and MV release today at 6PM KST! \n\n#태연 #TAEYEON #Weekend #소녀시대 #GirlsGeneration https://t.co/EZbqW5MTEt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "태연",
+						"indices": [
+							204,
+							207
+						]
+					},
+					{
+						"text": "TAEYEON",
+						"indices": [
+							208,
+							216
+						]
+					},
+					{
+						"text": "Weekend",
+						"indices": [
+							217,
+							225
+						]
+					},
+					{
+						"text": "소녀시대",
+						"indices": [
+							226,
+							231
+						]
+					},
+					{
+						"text": "GirlsGeneration",
+						"indices": [
+							232,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1412240747844169700,
+						"id_str": "1412240747844169742",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+						"url": "https://t.co/EZbqW5MTEt",
+						"display_url": "pic.twitter.com/EZbqW5MTEt",
+						"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1412240747844169700,
+						"id_str": "1412240747844169742",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lJelCVcA4IzzI.jpg",
+						"url": "https://t.co/EZbqW5MTEt",
+						"display_url": "pic.twitter.com/EZbqW5MTEt",
+						"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1412240747852570600,
+						"id_str": "1412240747852570625",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lJelEVoAE1Fxp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lJelEVoAE1Fxp.jpg",
+						"url": "https://t.co/EZbqW5MTEt",
+						"display_url": "pic.twitter.com/EZbqW5MTEt",
+						"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1067,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1412240747848343600,
+						"id_str": "1412240747848343553",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/E5lJelDVIAEf5Vh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5lJelDVIAEf5Vh.jpg",
+						"url": "https://t.co/EZbqW5MTEt",
+						"display_url": "pic.twitter.com/EZbqW5MTEt",
+						"expanded_url": "https://twitter.com/GirlsGeneration/status/1412241275525296128/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1067,
+								"h": 1600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391115625,
+				"id_str": "391115625",
+				"name": "Girls' Generation",
+				"screen_name": "GirlsGeneration",
+				"location": "",
+				"description": "No.1 girl group, Girls’ Generation!",
+				"url": "http://t.co/6dDRF9Jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6dDRF9Jo",
+								"expanded_url": "http://girlsgeneration.smtown.com/",
+								"display_url": "girlsgeneration.smtown.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3642041,
+				"friends_count": 4,
+				"listed_count": 5430,
+				"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+				"favourites_count": 63,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2389,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C171E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5046,
+			"favorite_count": 12169,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 30,
+		"favorite_count": 292,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Yuk semua langsung merapat untuk nonton siaran langsung TAEYEON di V LIVE! ❤️\n\n 👉🏻 https://t.co/PrqgJAzrw8\n\n#Weekend #TAEYEON https://t.co/tOB8hzu2zV"
+	},
+	{
+		"created_at": "Tue Jul 06 08:07:11 +0000 2021",
+		"id": 1412311250969587700,
+		"id_str": "1412322219104026626",
+		"full_text": "[#VLIVE] 💌 잠시 후 5시, &lt;Weekend&gt; 태연엔터의 상반기 총회가 VLIVE에서 시작됩니다.🔔 금일 총회는 2021 #태연 상반기 결산을 시작으로 대표님과의 ‘Weekend’ 플랜 간담회 순으로 진행되오니 ✔️ 소원 여러분들은 꼭 참석하시어 자리를 빛내주시기 바랍니다❣️\n\n▶️ https://t.co/jHH0bzcU8q\n\n#TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jHH0bzcU8q",
+					"expanded_url": "https://www.vlive.tv/video/254402",
+					"display_url": "vlive.tv/video/254402",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6229211,
+			"friends_count": 167,
+			"listed_count": 2809,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 549,
+		"favorite_count": 1525,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VLIVE] 💌 잠시 후 5시, &lt;Weekend&gt; 태연엔터의 상반기 총회가 VLIVE에서 시작됩니다.🔔 금일 총회는 2021 #태연 상반기 결산을 시작으로 대표님과의 ‘Weekend’ 플랜 간담회 순으로 진행되오니 ✔️ 소원 여러분들은 꼭 참석하시어 자리를 빛내주시기 바랍니다❣️\n\n▶️ https://t.co/jHH0bzcU8q\n\n#TAEYEON"
+	},
+	{
 		"created_at": "Tue Jul 06 07:07:13 +0000 2021",
 		"id": 1412301536265265200,
 		"id_str": "1412307126790365188",
