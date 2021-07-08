@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 08:07:08 +0000 2021",
+		"id": 1413045929158930400,
+		"id_str": "1413046984668233728",
+		"full_text": "(ENG) 1️⃣ 처음부터 끝까지 눈을 뗄 수 없는 태연 입덕 레전드 영상 여기서 보고 가세요^^ 조련탱 Sㅏ랑해☆ / [문명특급 EP.199-1]\n\n👉🏻 https://t.co/c7cLeiVJJ8\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration \n#문명특급",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						112,
+						115
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						116,
+						124
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						140,
+						156
+					]
+				},
+				{
+					"text": "문명특급",
+					"indices": [
+						158,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c7cLeiVJJ8",
+					"expanded_url": "https://youtu.be/DqmkcddhPAY",
+					"display_url": "youtu.be/DqmkcddhPAY",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3643971,
+			"friends_count": 4,
+			"listed_count": 5432,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 693,
+		"favorite_count": 987,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(ENG) 1️⃣ 처음부터 끝까지 눈을 뗄 수 없는 태연 입덕 레전드 영상 여기서 보고 가세요^^ 조련탱 Sㅏ랑해☆ / [문명특급 EP.199-1]\n\n👉🏻 https://t.co/c7cLeiVJJ8\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration \n#문명특급"
+	},
+	{
 		"created_at": "Thu Jul 08 07:07:09 +0000 2021",
 		"id": 1413030672155832300,
 		"id_str": "1413031885555617793",
