@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 09:07:23 +0000 2021",
+		"id": 1413061755631112200,
+		"id_str": "1413062143558230019",
+		"full_text": "안테나 가문에 SM의 등장이라...🤔 소녀시대 써니와 두 어르신의 ☆칼퇴배★ 씨드밤 대결!｜#오늘도삽질 5삽\n\n👉🏻 https://t.co/9SVZAAKcFB \n\n#써니 #SUNNY #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오늘도삽질",
+					"indices": [
+						51,
+						57
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9SVZAAKcFB",
+					"expanded_url": "https://youtu.be/CbZv9Hlhtdo",
+					"display_url": "youtu.be/CbZv9Hlhtdo",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3643991,
+			"friends_count": 4,
+			"listed_count": 5433,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 336,
+		"favorite_count": 577,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "안테나 가문에 SM의 등장이라...🤔 소녀시대 써니와 두 어르신의 ☆칼퇴배★ 씨드밤 대결!｜#오늘도삽질 5삽\n\n👉🏻 https://t.co/9SVZAAKcFB \n\n#써니 #SUNNY #소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Thu Jul 08 09:07:17 +0000 2021",
+		"id": 1413060483620343800,
+		"id_str": "1413062122104369153",
+		"full_text": "(ENG) 2️⃣소리의 여신 태연이 직접 부르는 신곡 Weekend에 바로 반응해버리는 제로ㄷㄷ Zㅔ로도 믿듣탱인가 봄 / [문명특급 EP.199-2]\n\n 👉🏻 https://t.co/nC0gmfZFKN\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration \n#문명특급 https://t.co/g0Ye9ef7GV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						119,
+						127
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						137,
+						142
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						143,
+						159
+					]
+				},
+				{
+					"text": "문명특급",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nC0gmfZFKN",
+					"expanded_url": "https://youtu.be/US_UBSosXtI",
+					"display_url": "youtu.be/US_UBSosXtI",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413060400409505800,
+					"id_str": "1413060400409505795",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E5wy8oyUcAMRuvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5wy8oyUcAMRuvp.jpg",
+					"url": "https://t.co/g0Ye9ef7GV",
+					"display_url": "pic.twitter.com/g0Ye9ef7GV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1413060483620343810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413060400409505800,
+					"id_str": "1413060400409505795",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/E5wy8oyUcAMRuvp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5wy8oyUcAMRuvp.jpg",
+					"url": "https://t.co/g0Ye9ef7GV",
+					"display_url": "pic.twitter.com/g0Ye9ef7GV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1413060483620343810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "http://t.co/6dDRF9Jo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/6dDRF9Jo",
+							"expanded_url": "http://girlsgeneration.smtown.com/",
+							"display_url": "girlsgeneration.smtown.com",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3643991,
+			"friends_count": 4,
+			"listed_count": 5433,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2399,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1313,
+		"favorite_count": 2146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(ENG) 2️⃣소리의 여신 태연이 직접 부르는 신곡 Weekend에 바로 반응해버리는 제로ㄷㄷ Zㅔ로도 믿듣탱인가 봄 / [문명특급 EP.199-2]\n\n 👉🏻 https://t.co/nC0gmfZFKN\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration \n#문명특급 https://t.co/g0Ye9ef7GV"
+	},
+	{
 		"created_at": "Thu Jul 08 08:07:08 +0000 2021",
 		"id": 1413045929158930400,
 		"id_str": "1413046984668233728",
