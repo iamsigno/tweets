@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 06:07:09 +0000 2021",
+		"id": 1413014989162623000,
+		"id_str": "1413016786845437954",
+		"full_text": "Thanks to TAEYEON, everyday can feel like Saturday and Sunday when you stream, “Weekend”. Say goodbye to weekday boredom with disco pop that just won’t stop! \n\nhttps://t.co/1nyteKu91p\n\n@GirlsGeneration #TAEYEON #Weekend #GirlsGeneration https://t.co/GhYyTfeNsz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						202,
+						210
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						211,
+						219
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						220,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						185,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1nyteKu91p",
+					"expanded_url": "http://spoti.fi/Weekend",
+					"display_url": "spoti.fi/Weekend",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1412975284555378700,
+					"id_str": "1412975284555378689",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1412975284555378689/pu/img/7QKYwJuVDgk14ZmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1412975284555378689/pu/img/7QKYwJuVDgk14ZmP.jpg",
+					"url": "https://t.co/GhYyTfeNsz",
+					"display_url": "pic.twitter.com/GhYyTfeNsz",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1413014989162622977/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1412975284555378700,
+					"id_str": "1412975284555378689",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1412975284555378689/pu/img/7QKYwJuVDgk14ZmP.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1412975284555378689/pu/img/7QKYwJuVDgk14ZmP.jpg",
+					"url": "https://t.co/GhYyTfeNsz",
+					"display_url": "pic.twitter.com/GhYyTfeNsz",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1413014989162622977/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 43000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1412975284555378689/pu/vid/540x540/c67_r58B459_dmxK.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1412975284555378689/pu/vid/720x720/z2uKplVaW6iV1ym0.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1412975284555378689/pu/vid/320x320/b_gnJMglhZKKhEsC.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1412975284555378689/pu/pl/UHtyBJuh9KzpfzWQ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 360125,
+			"friends_count": 219,
+			"listed_count": 333,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 1047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267694939460169728/yQiFh85w_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks to TAEYEON, everyday can feel like Saturday and Sunday when you stream, “Weekend”. Say goodbye to weekday boredom with disco pop that just won’t stop! \n\nhttps://t.co/1nyteKu91p\n\n@GirlsGeneration #TAEYEON #Weekend #GirlsGeneration https://t.co/GhYyTfeNsz"
+	},
+	{
 		"created_at": "Thu Jul 08 05:07:08 +0000 2021",
 		"id": 1412996546837110800,
 		"id_str": "1413001686210207745",
