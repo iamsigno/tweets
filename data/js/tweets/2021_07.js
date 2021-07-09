@@ -1,6 +1,146 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 03:07:14 +0000 2021",
+		"id": 1413325230924177400,
+		"id_str": "1413333900408016897",
+		"full_text": "우리에게 주말 같은 행복을 주는 #태연 의 #스페셜클립 🌟\n오늘 저녁 7시 유튜브에서 최초공개!\n\n#TAEYEON &lt;Weekend&gt; Primiere on 1theK Originals YouTube at 7PM(KST)! \n@GirlsGeneration\n\n▶ https://t.co/0ugNsOzFAd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "스페셜클립",
+					"indices": [
+						24,
+						30
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ugNsOzFAd",
+					"expanded_url": "https://youtu.be/XaeN6y7idyQ",
+					"display_url": "youtu.be/XaeN6y7idyQ",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2252300,
+			"friends_count": 817,
+			"listed_count": 2061,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14959,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1625798352",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 523,
+		"favorite_count": 602,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리에게 주말 같은 행복을 주는 #태연 의 #스페셜클립 🌟\n오늘 저녁 7시 유튜브에서 최초공개!\n\n#TAEYEON &lt;Weekend&gt; Primiere on 1theK Originals YouTube at 7PM(KST)! \n@GirlsGeneration\n\n▶ https://t.co/0ugNsOzFAd"
+	},
+	{
 		"created_at": "Thu Jul 08 11:07:36 +0000 2021",
 		"id": 1413088923199303700,
 		"id_str": "1413092398939484161",
