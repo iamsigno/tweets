@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 14:07:14 +0000 2021",
+		"id": 1413493973599985700,
+		"id_str": "1413499994179526660",
+		"full_text": "[#괴로운체험단] 갤럭시북편 EP02\n\n그거 알아ㅋ😎❓ 디지털 프라자엔  \n⭐️갤럭시북 체험z~one⭐️이 있더라고ㅎ\n신나게 구경했는데 이게 웬걸ㅋ👀\n빚내서 산다고 다들 난리야ㅎ 😂\n함 들려ㅋ 👋🏻\n\n👉 https://t.co/q3kXYy6EtY\n\n#이진호 #이용진 #써니 #꽈뚜룹 #장예원 https://t.co/2TSYcq11tu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "괴로운체험단",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "꽈뚜룹",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "장예원",
+					"indices": [
+						158,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q3kXYy6EtY",
+					"expanded_url": "https://youtu.be/sE90EM8ykT4",
+					"display_url": "youtu.be/sE90EM8ykT4",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413493939869343700,
+					"id_str": "1413493939869343745",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E529P9IUYAEkX0D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E529P9IUYAEkX0D.jpg",
+					"url": "https://t.co/2TSYcq11tu",
+					"display_url": "pic.twitter.com/2TSYcq11tu",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1413493973599985666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413493939869343700,
+					"id_str": "1413493939869343745",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E529P9IUYAEkX0D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E529P9IUYAEkX0D.jpg",
+					"url": "https://t.co/2TSYcq11tu",
+					"display_url": "pic.twitter.com/2TSYcq11tu",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1413493973599985666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page\n\n☠️ 괴로운 데이트2\n🥂 신과 함께\n🏡 잡동산\n 😤소년멘탈캠프2",
+			"url": "https://t.co/qCwgD9FIgZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qCwgD9FIgZ",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35274,
+			"friends_count": 0,
+			"listed_count": 58,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1607069106",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#괴로운체험단] 갤럭시북편 EP02\n\n그거 알아ㅋ😎❓ 디지털 프라자엔  \n⭐️갤럭시북 체험z~one⭐️이 있더라고ㅎ\n신나게 구경했는데 이게 웬걸ㅋ👀\n빚내서 산다고 다들 난리야ㅎ 😂\n함 들려ㅋ 👋🏻\n\n👉 https://t.co/q3kXYy6EtY\n\n#이진호 #이용진 #써니 #꽈뚜룹 #장예원 https://t.co/2TSYcq11tu"
+	},
+	{
 		"created_at": "Fri Jul 09 11:07:09 +0000 2021",
 		"id": 1413445548267380700,
 		"id_str": "1413454672489181185",
