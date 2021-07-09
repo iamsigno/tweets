@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 08:07:08 +0000 2021",
+		"id": 1413397822787911700,
+		"id_str": "1413409372093534209",
+		"full_text": "[#MCOUNTDOWN] This week's pre-voting current TOP20!\n\n☑️ Vote Now at https://t.co/yUxS0yfSzu\n\nJuly 9, 2021 ~ July 12, 2021, 9:00 (KST)\n\n#NCTDREAM #SF9 #DAY6 #Even_of_Day #2PM #TAEYEON #KYUHYUN #JEON_SOYEON #LOONA #ACE #JUSTB #ONEWE https://t.co/gJ9GHVNWKO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "Even_of_Day",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						174,
+						182
+					]
+				},
+				{
+					"text": "KYUHYUN",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "JEON_SOYEON",
+					"indices": [
+						192,
+						204
+					]
+				},
+				{
+					"text": "LOONA",
+					"indices": [
+						205,
+						211
+					]
+				},
+				{
+					"text": "ACE",
+					"indices": [
+						212,
+						216
+					]
+				},
+				{
+					"text": "JUSTB",
+					"indices": [
+						217,
+						223
+					]
+				},
+				{
+					"text": "ONEWE",
+					"indices": [
+						224,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yUxS0yfSzu",
+					"expanded_url": "http://bit.ly/MCD_prevoting",
+					"display_url": "bit.ly/MCD_prevoting",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413397767070781400,
+					"id_str": "1413397767070781450",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E51lx9iVkAo2_fw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51lx9iVkAo2_fw.jpg",
+					"url": "https://t.co/gJ9GHVNWKO",
+					"display_url": "pic.twitter.com/gJ9GHVNWKO",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1413397822787911681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 776,
+							"h": 788,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 776,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413397767070781400,
+					"id_str": "1413397767070781450",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/E51lx9iVkAo2_fw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E51lx9iVkAo2_fw.jpg",
+					"url": "https://t.co/gJ9GHVNWKO",
+					"display_url": "pic.twitter.com/gJ9GHVNWKO",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1413397822787911681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 670,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 776,
+							"h": 788,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 776,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1887127,
+			"friends_count": 319,
+			"listed_count": 1914,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1559616428",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 599,
+		"favorite_count": 724,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN] This week's pre-voting current TOP20!\n\n☑️ Vote Now at https://t.co/yUxS0yfSzu\n\nJuly 9, 2021 ~ July 12, 2021, 9:00 (KST)\n\n#NCTDREAM #SF9 #DAY6 #Even_of_Day #2PM #TAEYEON #KYUHYUN #JEON_SOYEON #LOONA #ACE #JUSTB #ONEWE https://t.co/gJ9GHVNWKO"
+	},
+	{
 		"created_at": "Fri Jul 09 03:07:14 +0000 2021",
 		"id": 1413325230924177400,
 		"id_str": "1413333900408016897",
