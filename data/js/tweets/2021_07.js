@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 09:07:09 +0000 2021",
+		"id": 1413416928643895300,
+		"id_str": "1413424472351199232",
+		"full_text": "☁️다들 탱구 좋아하잖아요💗\n\n🎥: https://t.co/eEWEZSAnJr\n\n#소녀시대 #SNSD #태연 #Weekend #틱톡 https://t.co/awTRR1BZBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						70,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEWEZSAnJr",
+					"expanded_url": "https://www.tiktok.com/@girlsgeneration.official",
+					"display_url": "tiktok.com/@girlsgenerati…",
+					"indices": [
+						20,
+						43
+					]
+				},
+				{
+					"url": "https://t.co/awTRR1BZBq",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1413400156322471942",
+					"display_url": "twitter.com/GirlsGeneratio…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "그 시작은, 틱톡\nIt starts on TikTok",
+			"url": "https://t.co/yABXy07DNe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yABXy07DNe",
+							"expanded_url": "https://vt.tiktok.com/ZS5PcQag/",
+							"display_url": "vt.tiktok.com/ZS5PcQag/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214241,
+			"friends_count": 116,
+			"listed_count": 119,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 1190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377649372821786636/ftDc7veX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377649372821786636/ftDc7veX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1617292181",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413400156322472000,
+		"quoted_status_id_str": "1413400156322471942",
+		"quoted_status_permalink": {
+			"url": "https://t.co/awTRR1BZBq",
+			"expanded": "https://twitter.com/GirlsGeneration/status/1413400156322471942",
+			"display": "twitter.com/GirlsGeneratio…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 09 07:30:31 +0000 2021",
+			"id": 1413400156322472000,
+			"id_str": "1413400156322471942",
+			"full_text": "☁️다들 주말 좋아하잖아요💗\n\nhttps://t.co/AVB3QvqrSr\n\n#Weekend \n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#WeekendChallenge",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Weekend",
+						"indices": [
+							42,
+							50
+						]
+					},
+					{
+						"text": "태연",
+						"indices": [
+							52,
+							55
+						]
+					},
+					{
+						"text": "TAEYEON",
+						"indices": [
+							56,
+							64
+						]
+					},
+					{
+						"text": "소녀시대",
+						"indices": [
+							65,
+							70
+						]
+					},
+					{
+						"text": "GirlsGeneration",
+						"indices": [
+							71,
+							87
+						]
+					},
+					{
+						"text": "WeekendChallenge",
+						"indices": [
+							88,
+							105
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AVB3QvqrSr",
+						"expanded_url": "https://vt.tiktok.com/ZSJbwK612/",
+						"display_url": "vt.tiktok.com/ZSJbwK612/",
+						"indices": [
+							17,
+							40
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 391115625,
+				"id_str": "391115625",
+				"name": "Girls' Generation",
+				"screen_name": "GirlsGeneration",
+				"location": "",
+				"description": "No.1 girl group, Girls’ Generation!",
+				"url": "http://t.co/6dDRF9Jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/6dDRF9Jo",
+								"expanded_url": "http://girlsgeneration.smtown.com/",
+								"display_url": "girlsgeneration.smtown.com",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3644594,
+				"friends_count": 4,
+				"listed_count": 5437,
+				"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+				"favourites_count": 63,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2404,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1C171E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2232,
+			"favorite_count": 4452,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 74,
+		"favorite_count": 95,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☁️다들 탱구 좋아하잖아요💗\n\n🎥: https://t.co/eEWEZSAnJr\n\n#소녀시대 #SNSD #태연 #Weekend #틱톡 https://t.co/awTRR1BZBq"
+	},
+	{
 		"created_at": "Fri Jul 09 08:07:08 +0000 2021",
 		"id": 1413397822787911700,
 		"id_str": "1413409372093534209",
