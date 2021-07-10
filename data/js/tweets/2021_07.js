@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 05:07:08 +0000 2021",
+		"id": 1413724663675502600,
+		"id_str": "1413726461173944322",
+		"full_text": "그거 아시나요❓우주🌌는 태연을 위해 태동했고, 지구🌏는 탱구를 위해 자전하고, 천지🏞는 믿듣탱을 위해 개벽했다는 사실을...🤭\n#태연 #TAEYEON #Weekend #스페셜클립 @GirlsGeneration\n\n#SpecialClip 👉 https://t.co/0ugNsOi4IF https://t.co/V6oAppMLLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "스페셜클립",
+					"indices": [
+						93,
+						99
+					]
+				},
+				{
+					"text": "SpecialClip",
+					"indices": [
+						118,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ugNsOi4IF",
+					"expanded_url": "https://youtu.be/XaeN6y7idyQ",
+					"display_url": "youtu.be/XaeN6y7idyQ",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1413335729791410200,
+					"id_str": "1413335729791410178",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E50tW6qVoAI7bPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50tW6qVoAI7bPA.jpg",
+					"url": "https://t.co/V6oAppMLLm",
+					"display_url": "pic.twitter.com/V6oAppMLLm",
+					"expanded_url": "https://twitter.com/1theK/status/1413724663675502597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413335729791410200,
+					"id_str": "1413335729791410178",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E50tW6qVoAI7bPA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50tW6qVoAI7bPA.jpg",
+					"url": "https://t.co/V6oAppMLLm",
+					"display_url": "pic.twitter.com/V6oAppMLLm",
+					"expanded_url": "https://twitter.com/1theK/status/1413724663675502597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413335729803911200,
+					"id_str": "1413335729803911172",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E50tW6tUYAQpSgZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50tW6tUYAQpSgZ.jpg",
+					"url": "https://t.co/V6oAppMLLm",
+					"display_url": "pic.twitter.com/V6oAppMLLm",
+					"expanded_url": "https://twitter.com/1theK/status/1413724663675502597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413335729787195400,
+					"id_str": "1413335729787195397",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E50tW6pVUAUQgVH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50tW6pVUAUQgVH.jpg",
+					"url": "https://t.co/V6oAppMLLm",
+					"display_url": "pic.twitter.com/V6oAppMLLm",
+					"expanded_url": "https://twitter.com/1theK/status/1413724663675502597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1413335729791332400,
+					"id_str": "1413335729791332354",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E50tW6qUcAIuISp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E50tW6qUcAIuISp.jpg",
+					"url": "https://t.co/V6oAppMLLm",
+					"display_url": "pic.twitter.com/V6oAppMLLm",
+					"expanded_url": "https://twitter.com/1theK/status/1413724663675502597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2252709,
+			"friends_count": 817,
+			"listed_count": 2059,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23276,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1625828407",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 430,
+		"favorite_count": 569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "그거 아시나요❓우주🌌는 태연을 위해 태동했고, 지구🌏는 탱구를 위해 자전하고, 천지🏞는 믿듣탱을 위해 개벽했다는 사실을...🤭\n#태연 #TAEYEON #Weekend #스페셜클립 @GirlsGeneration\n\n#SpecialClip 👉 https://t.co/0ugNsOi4IF https://t.co/V6oAppMLLm"
+	},
+	{
 		"created_at": "Sat Jul 10 01:07:09 +0000 2021",
 		"id": 1413664272127725600,
 		"id_str": "1413666064983117826",
