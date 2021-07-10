@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 01:07:09 +0000 2021",
+		"id": 1413664272127725600,
+		"id_str": "1413666064983117826",
+		"full_text": "Now Playing♬ 2PM - 하.니.뿐 (A.D.T.O.Y)\n&lt;#쇼음악중심&gt; 오늘 오후 3시 10분 기대하쇼쇼쇼 MBC210703방송\n\n✨라인업✨ #태연 #2PM #MSG워너비(M.O.M) #DAY6(Even of Day) #SF9 #전소연 #매드몬스터 #MC민지 #NCTDREAM #이달의소녀 #아웃렛 #원위(#ONEWE) #BDC #DRIPPIN #사이로 #안성준 #KINGDOM https://t.co/juHOJJGjB5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						41,
+						47
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "MSG워너비",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "DAY6",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "매드몬스터",
+					"indices": [
+						144,
+						150
+					]
+				},
+				{
+					"text": "MC민지",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "이달의소녀",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "아웃렛",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "원위",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "ONEWE",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "BDC",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "DRIPPIN",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "사이로",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "안성준",
+					"indices": [
+						210,
+						214
+					]
+				},
+				{
+					"text": "KINGDOM",
+					"indices": [
+						215,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413424014307909600,
+					"id_str": "1413424014307909633",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E52sWiXVoAMiDJI.png",
+					"media_url_https": "https://pbs.twimg.com/media/E52sWiXVoAMiDJI.png",
+					"url": "https://t.co/juHOJJGjB5",
+					"display_url": "pic.twitter.com/juHOJJGjB5",
+					"expanded_url": "https://twitter.com/withMBC/status/1413664272127725568/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413424014307909600,
+					"id_str": "1413424014307909633",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/media/E52sWiXVoAMiDJI.png",
+					"media_url_https": "https://pbs.twimg.com/media/E52sWiXVoAMiDJI.png",
+					"url": "https://t.co/juHOJJGjB5",
+					"display_url": "pic.twitter.com/juHOJJGjB5",
+					"expanded_url": "https://twitter.com/withMBC/status/1413664272127725568/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59927,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1413424014307909633/pl/UVywG3cH6QZjcyWy.m3u8?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1413424014307909633/vid/720x720/C_No4U5-_z-f1fGJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1413424014307909633/vid/320x320/X_cjpFZlazWUlrkj.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1413424014307909633/vid/540x540/xbEzLPP9AKuTBDUo.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/yOEvgSpDjG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yOEvgSpDjG",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007112,
+			"friends_count": 10082,
+			"listed_count": 4218,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1621218372",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Now Playing♬ 2PM - 하.니.뿐 (A.D.T.O.Y)\n&lt;#쇼음악중심&gt; 오늘 오후 3시 10분 기대하쇼쇼쇼 MBC210703방송\n\n✨라인업✨ #태연 #2PM #MSG워너비(M.O.M) #DAY6(Even of Day) #SF9 #전소연 #매드몬스터 #MC민지 #NCTDREAM #이달의소녀 #아웃렛 #원위(#ONEWE) #BDC #DRIPPIN #사이로 #안성준 #KINGDOM https://t.co/juHOJJGjB5"
+	},
+	{
 		"created_at": "Fri Jul 09 16:07:08 +0000 2021",
 		"id": 1413529990210097200,
 		"id_str": "1413530167981527058",
