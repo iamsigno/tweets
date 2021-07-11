@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 05:07:09 +0000 2021",
+		"id": 1414077861846151200,
+		"id_str": "1414088850549379075",
+		"full_text": "[👔] 210711 #착장인가\n\n잠시 후 오후 3시 30분!\n#인기가요 에서 만나요❤\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Weekend @GirlsGeneration https://t.co/CMpbkYVBd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "착장인가",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						34,
+						39
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						62,
+						67
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						68,
+						84
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						85,
+						93
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414077420211110000,
+					"id_str": "1414077420211109889",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/E5_P6-yVgAExmTR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5_P6-yVgAExmTR.jpg",
+					"url": "https://t.co/CMpbkYVBd3",
+					"display_url": "pic.twitter.com/CMpbkYVBd3",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1414077861846151170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414077420211110000,
+					"id_str": "1414077420211109889",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/E5_P6-yVgAExmTR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5_P6-yVgAExmTR.jpg",
+					"url": "https://t.co/CMpbkYVBd3",
+					"display_url": "pic.twitter.com/CMpbkYVBd3",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1414077861846151170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1414077420311773200,
+					"id_str": "1414077420311773194",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/E5_P6_KVgAoavW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5_P6_KVgAoavW9.jpg",
+					"url": "https://t.co/CMpbkYVBd3",
+					"display_url": "pic.twitter.com/CMpbkYVBd3",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1414077861846151170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472492,
+			"friends_count": 77,
+			"listed_count": 483,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1625972715",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1756,
+		"favorite_count": 2554,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[👔] 210711 #착장인가\n\n잠시 후 오후 3시 30분!\n#인기가요 에서 만나요❤\n\n#TAEYEON #태연 #소녀시대 #GirlsGeneration #Weekend @GirlsGeneration https://t.co/CMpbkYVBd3"
+	},
+	{
 		"created_at": "Sun Jul 11 04:07:09 +0000 2021",
 		"id": 1414060090160664600,
 		"id_str": "1414073750715260929",
