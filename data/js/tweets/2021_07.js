@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 06:07:08 +0000 2021",
+		"id": 1414458243460395000,
+		"id_str": "1414466336659578880",
+		"full_text": "월화수목금토일 리즈 갱신🥰\n파워 연예인 믿듣탱과 \n그냥 이끌리는 대로 하고 싶은 위켄드🤫❤\n\nSBS &lt;인기가요&gt;\n☞ 매주 [일] 오후 3시 50분 방송\n\n#SBS인기가요 #인기가요 #inkigayo #specialclip\n#태연 #WEEKEND #TAEYEON https://t.co/rZVB6Spp2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS인기가요",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "specialclip",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "WEEKEND",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						143,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414454433878995000,
+					"id_str": "1414454433878994949",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EpBfRVEAErzLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EpBfRVEAErzLf.jpg",
+					"url": "https://t.co/rZVB6Spp2w",
+					"display_url": "pic.twitter.com/rZVB6Spp2w",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1414458243460395011/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414454433878995000,
+					"id_str": "1414454433878994949",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E6EpBfRVEAErzLf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6EpBfRVEAErzLf.jpg",
+					"url": "https://t.co/rZVB6Spp2w",
+					"display_url": "pic.twitter.com/rZVB6Spp2w",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1414458243460395011/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 244878,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1414454433878994949/pl/lLBXAeEanaSQplcX.m3u8?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414454433878994949/vid/320x400/VmaXGlp1HzGBnG7P.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414454433878994949/vid/480x600/5R7S7UenP0tVqZjv.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414454433878994949/vid/720x900/-XDk6_75a2Q8Nvwj.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "",
+			"description": "SBS 공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1724081,
+			"friends_count": 98,
+			"listed_count": 3008,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1413384931061899267/0ZrFwrli_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1413384931061899267/0ZrFwrli_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1625813161",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 376,
+		"favorite_count": 528,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "월화수목금토일 리즈 갱신🥰\n파워 연예인 믿듣탱과 \n그냥 이끌리는 대로 하고 싶은 위켄드🤫❤\n\nSBS &lt;인기가요&gt;\n☞ 매주 [일] 오후 3시 50분 방송\n\n#SBS인기가요 #인기가요 #inkigayo #specialclip\n#태연 #WEEKEND #TAEYEON https://t.co/rZVB6Spp2w"
+	},
+	{
 		"created_at": "Mon Jul 12 04:07:09 +0000 2021",
 		"id": 1414422407268298800,
 		"id_str": "1414436138417328134",
