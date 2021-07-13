@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 07:07:16 +0000 2021",
+		"id": 1414843671652929500,
+		"id_str": "1414843857032859648",
+		"full_text": "주말이 사람으로 태어난다면?\n매일매일이 태연 바이브💜💜\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration https://t.co/3ALj2fBIOw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						32,
+						35
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						36,
+						44
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						60,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414505028430090200,
+					"id_str": "1414505028430090247",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KIxnQVcAAyDrC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KIxnQVcAAyDrC.jpg",
+					"url": "https://t.co/3ALj2fBIOw",
+					"display_url": "pic.twitter.com/3ALj2fBIOw",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1414843671652929538/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414505028430090200,
+					"id_str": "1414505028430090247",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E6KIxnQVcAAyDrC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6KIxnQVcAAyDrC.jpg",
+					"url": "https://t.co/3ALj2fBIOw",
+					"display_url": "pic.twitter.com/3ALj2fBIOw",
+					"expanded_url": "https://twitter.com/KBSMusicBank/status/1414843671652929538/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 258725,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1414505028430090247/pl/K-2hytS6QgUjaR7a.m3u8?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414505028430090247/vid/1280x720/VxUXV07t2h6P2Kj9.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414505028430090247/vid/480x270/mgg_EmAgspQsT9Co.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1414505028430090247/vid/640x360/6jqvzRbMO6pYCt-6.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52661072,
+			"id_str": "52661072",
+			"name": "뮤직뱅크 (Music Bank)🏦",
+			"screen_name": "KBSMusicBank",
+			"location": "대한민국 서울 (Seoul, South Korea)",
+			"description": "Friday 17:00 KBS 2TV 가장 신뢰할 수 있는 음악 차트 K-Chart, 현재 KBS World를 통해 117개국 방송 中",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1962723,
+			"friends_count": 14,
+			"listed_count": 4918,
+			"created_at": "Wed Jul 01 07:17:45 +0000 2009",
+			"favourites_count": 145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010C0D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345965786691633153/SvTfIsxC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52661072/1558753651",
+			"profile_link_color": "96268B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FADD4B",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "주말이 사람으로 태어난다면?\n매일매일이 태연 바이브💜💜\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration https://t.co/3ALj2fBIOw"
+	},
+	{
 		"created_at": "Tue Jul 13 02:07:09 +0000 2021",
 		"id": 1414764639288586200,
 		"id_str": "1414768327541628928",
