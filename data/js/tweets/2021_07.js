@@ -1,6 +1,184 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 09:07:08 +0000 2021",
+		"id": 1415959570753544200,
+		"id_str": "1415961187058130949",
+		"full_text": "MAX CHANGMIN 최강창민 l 태연 TAEYEON 'Weekend' MV Reaction\n\n🎬https://t.co/7ThL1uTTiE\n\n#최강창민 #MAX_CHANGMIN\n#동방신기 #TVXQ! #東方神起\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최강창민",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "MAX_CHANGMIN",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "東方神起",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						147,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ThL1uTTiE",
+					"expanded_url": "https://youtu.be/jDPFuX8cZl8",
+					"display_url": "youtu.be/jDPFuX8cZl8",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893325893988302800,
+			"id_str": "893325893988302849",
+			"name": "TVXQ!",
+			"screen_name": "TVXQ",
+			"location": "",
+			"description": "동방신기(TVXQ!) Official",
+			"url": "https://t.co/yvbA1T3bOt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yvbA1T3bOt",
+							"expanded_url": "http://tvxq.smtown.com",
+							"display_url": "tvxq.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319808,
+			"friends_count": 1,
+			"listed_count": 927,
+			"created_at": "Fri Aug 04 04:21:05 +0000 2017",
+			"favourites_count": 54,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1027,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1395373634357665796/5sSYvz_w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1395373634357665796/5sSYvz_w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893325893988302849/1621517975",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 727,
+		"favorite_count": 968,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MAX CHANGMIN 최강창민 l 태연 TAEYEON 'Weekend' MV Reaction\n\n🎬https://t.co/7ThL1uTTiE\n\n#최강창민 #MAX_CHANGMIN\n#동방신기 #TVXQ! #東方神起\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Jul 15 23:07:14 +0000 2021",
 		"id": 1415808442111910000,
 		"id_str": "1415810213714747393",
