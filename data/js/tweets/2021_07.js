@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 17 09:07:09 +0000 2021",
+		"id": 1416321776615792600,
+		"id_str": "1416323576542736386",
+		"full_text": "태연 TAEYEON 'Weekend' MV Commentary with 헤.메.스 쌤\n\n👉🏻 https://t.co/6ybvaIFG6K\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration\n#MV_Commentary",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						105,
+						121
+					]
+				},
+				{
+					"text": "MV_Commentary",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ybvaIFG6K",
+					"expanded_url": "https://youtu.be/EJG2O-sD1Ws",
+					"display_url": "youtu.be/EJG2O-sD1Ws",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3648000,
+			"friends_count": 4,
+			"listed_count": 5454,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 818,
+		"favorite_count": 1273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 TAEYEON 'Weekend' MV Commentary with 헤.메.스 쌤\n\n👉🏻 https://t.co/6ybvaIFG6K\n\n#태연 #TAEYEON #Weekend\n#소녀시대 #GirlsGeneration\n#MV_Commentary"
+	},
+	{
 		"created_at": "Fri Jul 16 09:07:08 +0000 2021",
 		"id": 1415959570753544200,
 		"id_str": "1415961187058130949",
