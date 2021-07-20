@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 01:23:46 +0000 2021",
+		"id": 1417053857146839000,
+		"id_str": "1417294126890979342",
+		"full_text": "#퍼스트룩 이 창간 10주년을 맞이하여 특별호를 발행합니다. 스페셜 호의 커버는 #걸스플래닛999소녀대전 3명의 마스터 #여진구 #선미 #티파니 가 장식했는데요. &lt;퍼스트룩 10주년 창간 기념 스페셜 호&gt;는 지금 전국 온라인 서점을 통해 예약 판매 가능합니다. \n\n#1stLook #10thanniversary https://t.co/uy7YaUccQJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "걸스플래닛999소녀대전",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"text": "여진구",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "10thanniversary",
+					"indices": [
+						163,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417053844966559700,
+					"id_str": "1417053844966559745",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E6pi9tDVUAEtiq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6pi9tDVUAEtiq1.jpg",
+					"url": "https://t.co/uy7YaUccQJ",
+					"display_url": "pic.twitter.com/uy7YaUccQJ",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1417053857146839040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417053844966559700,
+					"id_str": "1417053844966559745",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E6pi9tDVUAEtiq1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6pi9tDVUAEtiq1.jpg",
+					"url": "https://t.co/uy7YaUccQJ",
+					"display_url": "pic.twitter.com/uy7YaUccQJ",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1417053857146839040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1417053844970770400,
+					"id_str": "1417053844970770435",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E6pi9tEVkAM_BxH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6pi9tEVkAM_BxH.jpg",
+					"url": "https://t.co/uy7YaUccQJ",
+					"display_url": "pic.twitter.com/uy7YaUccQJ",
+					"expanded_url": "https://twitter.com/1stlookofficial/status/1417053857146839040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 309565415,
+			"id_str": "309565415",
+			"name": "1stlookofficial",
+			"screen_name": "1stlookofficial",
+			"location": "대한민국 서울",
+			"description": "ENTERTAINMENT & LIFESTYLE MAGAZINE  https://t.co/Vh1AQE8BK5",
+			"url": "http://www.firstlook.co.kr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://www.firstlook.co.kr",
+							"expanded_url": null,
+							"indices": [
+								0,
+								26
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh1AQE8BK5",
+							"expanded_url": "http://Instagram.com/1stlookofficial",
+							"display_url": "Instagram.com/1stlookofficial",
+							"indices": [
+								36,
+								59
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 193474,
+			"friends_count": 2,
+			"listed_count": 345,
+			"created_at": "Thu Jun 02 09:15:49 +0000 2011",
+			"favourites_count": 476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/424003706678296576/C7782RwT_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/309565415/1623891418",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1150,
+		"favorite_count": 1834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#퍼스트룩 이 창간 10주년을 맞이하여 특별호를 발행합니다. 스페셜 호의 커버는 #걸스플래닛999소녀대전 3명의 마스터 #여진구 #선미 #티파니 가 장식했는데요. &lt;퍼스트룩 10주년 창간 기념 스페셜 호&gt;는 지금 전국 온라인 서점을 통해 예약 판매 가능합니다. \n\n#1stLook #10thanniversary https://t.co/uy7YaUccQJ"
+	},
+	{
 		"created_at": "Sun Jul 18 11:07:09 +0000 2021",
 		"id": 1416714363482771500,
 		"id_str": "1416716164856700937",
