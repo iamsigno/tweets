@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 20 10:07:09 +0000 2021",
+		"id": 1417422007172407300,
+		"id_str": "1417425838929334289",
+		"full_text": "금주의 #KPop100 차트가 공개되었습니다.👐\n⠀\n방탄소년단의 'Permission to Dance'가 정상에 데뷔했습니다.🔥 태연의 'Weekend'가 6위로 톱 10에 진입했습니다.👍\n⠀\nFull chart available now\nhttps://t.co/OF7kWnqpJF https://t.co/K41OrG8aOZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPop100",
+					"indices": [
+						4,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OF7kWnqpJF",
+					"expanded_url": "http://billboard.co.kr/chart/week/",
+					"display_url": "billboard.co.kr/chart/week/",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417421978089103400,
+					"id_str": "1417421978089103361",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E6uxx3zVIAEpoIY.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6uxx3zVIAEpoIY.png",
+					"url": "https://t.co/K41OrG8aOZ",
+					"display_url": "pic.twitter.com/K41OrG8aOZ",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1417422007172407303/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 710,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417421978089103400,
+					"id_str": "1417421978089103361",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/E6uxx3zVIAEpoIY.png",
+					"media_url_https": "https://pbs.twimg.com/media/E6uxx3zVIAEpoIY.png",
+					"url": "https://t.co/K41OrG8aOZ",
+					"display_url": "pic.twitter.com/K41OrG8aOZ",
+					"expanded_url": "https://twitter.com/billboardkorea/status/1417422007172407303/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 710,
+							"h": 719,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 710,
+							"h": 719,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 996592973964984300,
+			"id_str": "996592973964984320",
+			"name": "빌보드 코리아 Billboard Korea",
+			"screen_name": "billboardkorea",
+			"location": "대한민국 서울",
+			"description": "빌보드 코리아 공식트위터입니다. \n팔로우를 통해 더 많은 KPOP 소식을 받아보세요! \nFollow us to get more KPOP news, chart and events!\n#빌보드코리아 #BillboardKorea",
+			"url": "https://t.co/CLFhjiCU9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CLFhjiCU9P",
+							"expanded_url": "http://billboard.co.kr",
+							"display_url": "billboard.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59183,
+			"friends_count": 31,
+			"listed_count": 131,
+			"created_at": "Wed May 16 03:27:35 +0000 2018",
+			"favourites_count": 44,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999581468971024384/Qvmvzk0r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/996592973964984320/1604568753",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 221,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "금주의 #KPop100 차트가 공개되었습니다.👐\n⠀\n방탄소년단의 'Permission to Dance'가 정상에 데뷔했습니다.🔥 태연의 'Weekend'가 6위로 톱 10에 진입했습니다.👍\n⠀\nFull chart available now\nhttps://t.co/OF7kWnqpJF https://t.co/K41OrG8aOZ"
+	},
+	{
 		"created_at": "Tue Jul 20 01:23:46 +0000 2021",
 		"id": 1417053857146839000,
 		"id_str": "1417294126890979342",
