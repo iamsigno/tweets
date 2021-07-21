@@ -1,6 +1,261 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 09:07:09 +0000 2021",
+		"id": 1417763780751204400,
+		"id_str": "1417773127606673411",
+		"full_text": "[K-Pop Live Sesseion]\n\n#LeeMujin's singin live🎤  Girls' Generation💗\n\n🎬YT LINK\n👉👉 https://t.co/RTbgszB6mC\n\n#Super_KPOP #이무진\n#소녀시대 #이승철 https://t.co/Prm4wWFSTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeeMujin",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "Super_KPOP",
+					"indices": [
+						106,
+						117
+					]
+				},
+				{
+					"text": "이무진",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "이승철",
+					"indices": [
+						129,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RTbgszB6mC",
+					"expanded_url": "https://youtu.be/EYicHbOqYbY",
+					"display_url": "youtu.be/EYicHbOqYbY",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1417730267305836500,
+					"id_str": "1417730267305836545",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"url": "https://t.co/Prm4wWFSTo",
+					"display_url": "pic.twitter.com/Prm4wWFSTo",
+					"expanded_url": "https://twitter.com/arirangworld/status/1417763780751204355/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417730267305836500,
+					"id_str": "1417730267305836545",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6zKiSRVEAAKtiW.jpg",
+					"url": "https://t.co/Prm4wWFSTo",
+					"display_url": "pic.twitter.com/Prm4wWFSTo",
+					"expanded_url": "https://twitter.com/arirangworld/status/1417763780751204355/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 179213,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/vid/640x360/MxK8BgW8UCxrgMXP.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/vid/1280x720/7i1C2EpjcsxvZwZF.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/pl/mb2ZBTviAehjWpmS.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1417730267305836545/vid/480x270/Kr3fwmeFHAeAJvQ4.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 156503,
+			"friends_count": 212,
+			"listed_count": 1215,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25681,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1625216120",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[K-Pop Live Sesseion]\n\n#LeeMujin's singin live🎤  Girls' Generation💗\n\n🎬YT LINK\n👉👉 https://t.co/RTbgszB6mC\n\n#Super_KPOP #이무진\n#소녀시대 #이승철 https://t.co/Prm4wWFSTo"
+	},
+	{
 		"created_at": "Tue Jul 20 10:07:09 +0000 2021",
 		"id": 1417422007172407300,
 		"id_str": "1417425838929334289",
