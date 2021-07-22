@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 04:07:08 +0000 2021",
+		"id": 1418054730622804000,
+		"id_str": "1418060016360296453",
+		"full_text": "권유리, 얼루어 코리아 8월호 화보 공개!\n“‘보쌈-운명을 훔치다’, 운명처럼 찾아온 정말 소중한 작품” \n\n#KWONYURI #권유리\n#YURI #유리\n#GirlsGeneration #소녀시대 https://t.co/cfygSHXaX0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						61,
+						70
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						76,
+						81
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						103,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418054711811338200,
+					"id_str": "1418054711811338246",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E63xP0mVcAYvjrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63xP0mVcAYvjrm.jpg",
+					"url": "https://t.co/cfygSHXaX0",
+					"display_url": "pic.twitter.com/cfygSHXaX0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1418054730622803975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1328,
+							"h": 992,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418054711811338200,
+					"id_str": "1418054711811338246",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E63xP0mVcAYvjrm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63xP0mVcAYvjrm.jpg",
+					"url": "https://t.co/cfygSHXaX0",
+					"display_url": "pic.twitter.com/cfygSHXaX0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1418054730622803975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 896,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 508,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1328,
+							"h": 992,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418054711379337200,
+					"id_str": "1418054711379337218",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E63xPy_VoAIVN_r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63xPy_VoAIVN_r.jpg",
+					"url": "https://t.co/cfygSHXaX0",
+					"display_url": "pic.twitter.com/cfygSHXaX0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1418054730622803975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418054711542894600,
+					"id_str": "1418054711542894592",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E63xPzmVUAAXEV4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63xPzmVUAAXEV4.jpg",
+					"url": "https://t.co/cfygSHXaX0",
+					"display_url": "pic.twitter.com/cfygSHXaX0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1418054730622803975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 992,
+							"h": 1332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 894,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418054711542894600,
+					"id_str": "1418054711542894595",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/E63xPzmVUAMRVRy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E63xPzmVUAMRVRy.jpg",
+					"url": "https://t.co/cfygSHXaX0",
+					"display_url": "pic.twitter.com/cfygSHXaX0",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1418054730622803975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 896,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 992,
+							"h": 1328,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3649594,
+			"friends_count": 4,
+			"listed_count": 5459,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409693453227724807/jbaH6lvs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1593746984",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1213,
+		"favorite_count": 2946,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "권유리, 얼루어 코리아 8월호 화보 공개!\n“‘보쌈-운명을 훔치다’, 운명처럼 찾아온 정말 소중한 작품” \n\n#KWONYURI #권유리\n#YURI #유리\n#GirlsGeneration #소녀시대 https://t.co/cfygSHXaX0"
+	},
+	{
 		"created_at": "Wed Jul 21 09:07:09 +0000 2021",
 		"id": 1417763780751204400,
 		"id_str": "1417773127606673411",
