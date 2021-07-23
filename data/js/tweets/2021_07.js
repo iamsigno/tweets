@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 03:07:08 +0000 2021",
+		"id": 1418390408367730700,
+		"id_str": "1418407304848936965",
+		"full_text": "#스포티파이 만의\n7월 더위 견디는 비법🕶\n#도산대로 에서 확인하기\n\n#규현 의 #Together 로 산뜻하게\n▶ https://t.co/EpGM86LsJa\n\n#태연 의 #Weekend 로 상큼하게\n▶ https://t.co/4nneZ5iDvO\n\n#전소연 #Windy 들으며 썸머파티\n▶ https://t.co/XE4r1UCLBw\n\n@GaemGyu @GirlsGeneration @G_I_DLE https://t.co/2EUO0oe9Hz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"text": "도산대로",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "규현",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "Together",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						89,
+						92
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						95,
+						103
+					]
+				},
+				{
+					"text": "전소연",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "Windy",
+					"indices": [
+						143,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GaemGyu",
+					"name": "ChoKyuHyun",
+					"id": 135527082,
+					"id_str": "135527082",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						195,
+						211
+					]
+				},
+				{
+					"screen_name": "G_I_DLE",
+					"name": "(G)I-DLE·(여자)아이들",
+					"id": 967000437797761000,
+					"id_str": "967000437797761024",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EpGM86LsJa",
+					"expanded_url": "http://spoti.fi/36xzhnh",
+					"display_url": "spoti.fi/36xzhnh",
+					"indices": [
+						64,
+						87
+					]
+				},
+				{
+					"url": "https://t.co/4nneZ5iDvO",
+					"expanded_url": "http://spoti.fi/3ra8lU3",
+					"display_url": "spoti.fi/3ra8lU3",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/XE4r1UCLBw",
+					"expanded_url": "http://spoti.fi/2UMyDQc",
+					"display_url": "spoti.fi/2UMyDQc",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418184035776405500,
+					"id_str": "1418184035776405508",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E65m3d6VIAQZSIg.png",
+					"media_url_https": "https://pbs.twimg.com/media/E65m3d6VIAQZSIg.png",
+					"url": "https://t.co/2EUO0oe9Hz",
+					"display_url": "pic.twitter.com/2EUO0oe9Hz",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418390408367730689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418184035776405500,
+					"id_str": "1418184035776405508",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E65m3d6VIAQZSIg.png",
+					"media_url_https": "https://pbs.twimg.com/media/E65m3d6VIAQZSIg.png",
+					"url": "https://t.co/2EUO0oe9Hz",
+					"display_url": "pic.twitter.com/2EUO0oe9Hz",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418390408367730689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 595,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1418184055107965000,
+					"id_str": "1418184055107964931",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E65m4l7VUAMw7ap.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E65m4l7VUAMw7ap.jpg",
+					"url": "https://t.co/2EUO0oe9Hz",
+					"display_url": "pic.twitter.com/2EUO0oe9Hz",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418390408367730689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418184069435728000,
+					"id_str": "1418184069435727874",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/E65m5bTVoAIKS7g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E65m5bTVoAIKS7g.jpg",
+					"url": "https://t.co/2EUO0oe9Hz",
+					"display_url": "pic.twitter.com/2EUO0oe9Hz",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1418390408367730689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 389,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 686,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "Spotify Korea 공식 계정\n언제 어디서나 음악과 함께.\n새로운 음악을 발견하고, 듣고, 공유해보세요!",
+			"url": "https://t.co/wO2qjsJlaO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wO2qjsJlaO",
+							"expanded_url": "https://www.spotify.com/kr-ko",
+							"display_url": "spotify.com/kr-ko",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62030,
+			"friends_count": 0,
+			"listed_count": 51,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1611891505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#스포티파이 만의\n7월 더위 견디는 비법🕶\n#도산대로 에서 확인하기\n\n#규현 의 #Together 로 산뜻하게\n▶ https://t.co/EpGM86LsJa\n\n#태연 의 #Weekend 로 상큼하게\n▶ https://t.co/4nneZ5iDvO\n\n#전소연 #Windy 들으며 썸머파티\n▶ https://t.co/XE4r1UCLBw\n\n@GaemGyu @GirlsGeneration @G_I_DLE https://t.co/2EUO0oe9Hz"
+	},
+	{
 		"created_at": "Fri Jul 23 02:07:08 +0000 2021",
 		"id": 1418390908244922400,
 		"id_str": "1418392205497090050",
