@@ -1,6 +1,398 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 02:07:08 +0000 2021",
+		"id": 1418390908244922400,
+		"id_str": "1418392205497090050",
+		"full_text": "#멜론 #댓글 #맛집\n멜론 댓글 모음.zip 2탄!\n광야를 떠도는 SM 과몰입러들 모여라🔥\nSMP의 아버지 유영진에게 스며든 멜로너의 댓글\n\n지금 바로 확인해보세요!👉🏻👉🏻https://t.co/piBx3qMmVA\n\n#melon #댓글모음\n#보아 #슈퍼주니어 #소녀시대 #동방신기\n#에스파 #유영진 #디오 #NCT_127 #EXO https://t.co/7YpPu6B0ai",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "멜론",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "댓글",
+					"indices": [
+						4,
+						7
+					]
+				},
+				{
+					"text": "맛집",
+					"indices": [
+						8,
+						11
+					]
+				},
+				{
+					"text": "melon",
+					"indices": [
+						121,
+						127
+					]
+				},
+				{
+					"text": "댓글모음",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "동방신기",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "유영진",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "디오",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "NCT_127",
+					"indices": [
+						171,
+						179
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						180,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/piBx3qMmVA",
+					"expanded_url": "http://kko.to/hVb8cPjfM",
+					"display_url": "kko.to/hVb8cPjfM",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418390700337422300,
+					"id_str": "1418390700337422344",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E68i07ZUYAgwE1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68i07ZUYAgwE1W.jpg",
+					"url": "https://t.co/7YpPu6B0ai",
+					"display_url": "pic.twitter.com/7YpPu6B0ai",
+					"expanded_url": "https://twitter.com/melon/status/1418390908244922369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418390700337422300,
+					"id_str": "1418390700337422344",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E68i07ZUYAgwE1W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68i07ZUYAgwE1W.jpg",
+					"url": "https://t.co/7YpPu6B0ai",
+					"display_url": "pic.twitter.com/7YpPu6B0ai",
+					"expanded_url": "https://twitter.com/melon/status/1418390908244922369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418390700345892900,
+					"id_str": "1418390700345892865",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E68i07bVoAE_uke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68i07bVoAE_uke.jpg",
+					"url": "https://t.co/7YpPu6B0ai",
+					"display_url": "pic.twitter.com/7YpPu6B0ai",
+					"expanded_url": "https://twitter.com/melon/status/1418390908244922369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418390700341661700,
+					"id_str": "1418390700341661701",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E68i07aVEAU2KAd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68i07aVEAU2KAd.jpg",
+					"url": "https://t.co/7YpPu6B0ai",
+					"display_url": "pic.twitter.com/7YpPu6B0ai",
+					"expanded_url": "https://twitter.com/melon/status/1418390908244922369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1418390700337496000,
+					"id_str": "1418390700337496065",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E68i07ZVgAEjtma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E68i07ZVgAEjtma.jpg",
+					"url": "https://t.co/7YpPu6B0ai",
+					"display_url": "pic.twitter.com/7YpPu6B0ai",
+					"expanded_url": "https://twitter.com/melon/status/1418390908244922369/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130250,
+			"friends_count": 63,
+			"listed_count": 621,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#멜론 #댓글 #맛집\n멜론 댓글 모음.zip 2탄!\n광야를 떠도는 SM 과몰입러들 모여라🔥\nSMP의 아버지 유영진에게 스며든 멜로너의 댓글\n\n지금 바로 확인해보세요!👉🏻👉🏻https://t.co/piBx3qMmVA\n\n#melon #댓글모음\n#보아 #슈퍼주니어 #소녀시대 #동방신기\n#에스파 #유영진 #디오 #NCT_127 #EXO https://t.co/7YpPu6B0ai"
+	},
+	{
 		"created_at": "Thu Jul 22 08:44:57 +0000 2021",
 		"id": 1418122196514394000,
 		"id_str": "1418129927812096000",
