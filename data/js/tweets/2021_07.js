@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 27 04:07:09 +0000 2021",
+		"id": 1419870160563888000,
+		"id_str": "1419871956380364812",
+		"full_text": "땡깡이 추는 Weekend \n의상 + 댄스 + 헤어 + 카메라 무빙까지 완벽 ✨\n\nTikTok ID : @ dancekang\n\n#땡깡 #태연 #weekend #댄스 #틱톡 #틱톡코리아 https://t.co/3Garo5OcEw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "땡깡",
+					"indices": [
+						71,
+						74
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "weekend",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "댄스",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "틱톡",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "틱톡코리아",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1419810781227470800,
+					"id_str": "1419810781227470855",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1419810781227470855/img/MjuZ_eyv2w2H1ac6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1419810781227470855/img/MjuZ_eyv2w2H1ac6.jpg",
+					"url": "https://t.co/3Garo5OcEw",
+					"display_url": "pic.twitter.com/3Garo5OcEw",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1419870160563888131/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1419810781227470800,
+					"id_str": "1419810781227470855",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1419810781227470855/img/MjuZ_eyv2w2H1ac6.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1419810781227470855/img/MjuZ_eyv2w2H1ac6.jpg",
+					"url": "https://t.co/3Garo5OcEw",
+					"display_url": "pic.twitter.com/3Garo5OcEw",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1419870160563888131/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 38867,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1419810781227470855/vid/320x568/LJPzSIcXioSE_5SQ.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1419810781227470855/vid/480x852/EPHzOCVwz53DcleJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1419810781227470855/vid/576x1024/dXrkg_3fVrUhEsGn.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1419810781227470855/pl/ba3NAqdIknTfDy-y.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "그 시작은, 틱톡\nIt starts on TikTok",
+			"url": "https://t.co/yABXy07DNe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yABXy07DNe",
+							"expanded_url": "https://vt.tiktok.com/ZS5PcQag/",
+							"display_url": "vt.tiktok.com/ZS5PcQag/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214251,
+			"friends_count": 119,
+			"listed_count": 121,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 1222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377649372821786636/ftDc7veX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377649372821786636/ftDc7veX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1617292181",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "땡깡이 추는 Weekend \n의상 + 댄스 + 헤어 + 카메라 무빙까지 완벽 ✨\n\nTikTok ID : @ dancekang\n\n#땡깡 #태연 #weekend #댄스 #틱톡 #틱톡코리아 https://t.co/3Garo5OcEw"
+	},
+	{
 		"created_at": "Fri Jul 23 03:07:08 +0000 2021",
 		"id": 1418390408367730700,
 		"id_str": "1418407304848936965",
