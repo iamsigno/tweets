@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 30 02:07:09 +0000 2021",
+		"id": 1420927152040530000,
+		"id_str": "1420928920984211457",
+		"full_text": "8월 컴백 아티스트 공개 🍈😍\n📍1주차 : #아스트로 #전소미 #골든차일드 #위클리 #선미\n📍2주차 : #온앤오프 #더보이즈\n📍3주차 : #투모로우바이투게더 #크래비티\n📍4주차 : #스트레이키즈\n📍8월 예정 : #리사 #레드벨벳 #효연 #브레이브걸스\n\n옆으로 넘겨서 확인하세요 👉🏻👉🏻👉🏻\n\n#멜론 #컴백 #아티스트 https://t.co/ah5baFDWCS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아스트로",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "전소미",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						35,
+						41
+					]
+				},
+				{
+					"text": "위클리",
+					"indices": [
+						42,
+						46
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "투모로우바이투게더",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "크래비티",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "스트레이키즈",
+					"indices": [
+						101,
+						108
+					]
+				},
+				{
+					"text": "리사",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "컴백",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "아티스트",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1420927025146069000,
+					"id_str": "1420927025146068993",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E7glmdmVgAEWVeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7glmdmVgAEWVeG.jpg",
+					"url": "https://t.co/ah5baFDWCS",
+					"display_url": "pic.twitter.com/ah5baFDWCS",
+					"expanded_url": "https://twitter.com/melon/status/1420927152040529921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1420927025146069000,
+					"id_str": "1420927025146068993",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E7glmdmVgAEWVeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7glmdmVgAEWVeG.jpg",
+					"url": "https://t.co/ah5baFDWCS",
+					"display_url": "pic.twitter.com/ah5baFDWCS",
+					"expanded_url": "https://twitter.com/melon/status/1420927152040529921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1420927025162776600,
+					"id_str": "1420927025162776576",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E7glmdqUcAAmjAM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7glmdqUcAAmjAM.jpg",
+					"url": "https://t.co/ah5baFDWCS",
+					"display_url": "pic.twitter.com/ah5baFDWCS",
+					"expanded_url": "https://twitter.com/melon/status/1420927152040529921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1420927025204711400,
+					"id_str": "1420927025204711431",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E7glmd0UUAckb1F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7glmd0UUAckb1F.jpg",
+					"url": "https://t.co/ah5baFDWCS",
+					"display_url": "pic.twitter.com/ah5baFDWCS",
+					"expanded_url": "https://twitter.com/melon/status/1420927152040529921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1420927025317965800,
+					"id_str": "1420927025317965830",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E7glmePUcAYw8yr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7glmePUcAYw8yr.jpg",
+					"url": "https://t.co/ah5baFDWCS",
+					"display_url": "pic.twitter.com/ah5baFDWCS",
+					"expanded_url": "https://twitter.com/melon/status/1420927152040529921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130217,
+			"friends_count": 63,
+			"listed_count": 622,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "8월 컴백 아티스트 공개 🍈😍\n📍1주차 : #아스트로 #전소미 #골든차일드 #위클리 #선미\n📍2주차 : #온앤오프 #더보이즈\n📍3주차 : #투모로우바이투게더 #크래비티\n📍4주차 : #스트레이키즈\n📍8월 예정 : #리사 #레드벨벳 #효연 #브레이브걸스\n\n옆으로 넘겨서 확인하세요 👉🏻👉🏻👉🏻\n\n#멜론 #컴백 #아티스트 https://t.co/ah5baFDWCS"
+	},
+	{
 		"created_at": "Tue Jul 27 04:07:09 +0000 2021",
 		"id": 1419870160563888000,
 		"id_str": "1419871956380364812",
