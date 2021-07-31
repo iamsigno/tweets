@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 31 03:07:08 +0000 2021",
+		"id": 1421305053684461600,
+		"id_str": "1421306407924682752",
+		"full_text": "탱DJ와 잠시만 안녕하던 날😥💕\n#소녀시대 멤버들부터 강동원까지 \n탱구에 대한 사랑으로 가~득했던\n막방 영상 먼지 털어봤어요✨\n👉 https://t.co/VkmPg2A7bO\n\n#태연 #태연의친한친구 #화이탱\n#지금은_소녀시대 #앞으로도_소녀시대 #영원히_소녀시대 https://t.co/q04NhHbRfY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						18,
+						23
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "태연의친한친구",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "화이탱",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "지금은_소녀시대",
+					"indices": [
+						116,
+						125
+					]
+				},
+				{
+					"text": "앞으로도_소녀시대",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "영원히_소녀시대",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VkmPg2A7bO",
+					"expanded_url": "https://youtu.be/MneYPkLHwSY",
+					"display_url": "youtu.be/MneYPkLHwSY",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1421297602016862200,
+					"id_str": "1421297602016862211",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/E7l2o4BUYAMGv_N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7l2o4BUYAMGv_N.jpg",
+					"url": "https://t.co/q04NhHbRfY",
+					"display_url": "pic.twitter.com/q04NhHbRfY",
+					"expanded_url": "https://twitter.com/radiombc/status/1421305053684461568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1421297602016862200,
+					"id_str": "1421297602016862211",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/E7l2o4BUYAMGv_N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7l2o4BUYAMGv_N.jpg",
+					"url": "https://t.co/q04NhHbRfY",
+					"display_url": "pic.twitter.com/q04NhHbRfY",
+					"expanded_url": "https://twitter.com/radiombc/status/1421305053684461568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "봉춘라디오 MBC RADIO",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBC라디오 #봉춘라디오",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74461,
+			"friends_count": 44,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탱DJ와 잠시만 안녕하던 날😥💕\n#소녀시대 멤버들부터 강동원까지 \n탱구에 대한 사랑으로 가~득했던\n막방 영상 먼지 털어봤어요✨\n👉 https://t.co/VkmPg2A7bO\n\n#태연 #태연의친한친구 #화이탱\n#지금은_소녀시대 #앞으로도_소녀시대 #영원히_소녀시대 https://t.co/q04NhHbRfY"
+	},
+	{
 		"created_at": "Fri Jul 30 02:07:09 +0000 2021",
 		"id": 1420927152040530000,
 		"id_str": "1420928920984211457",
