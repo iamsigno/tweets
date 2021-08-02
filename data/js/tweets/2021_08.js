@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 02 09:07:13 +0000 2021",
+		"id": 1422119988287000600,
+		"id_str": "1422121798213292033",
+		"full_text": "멋지게 사는 사람들에겐 다 있다! \n바로 스페셜 루틴✨\n더 나은 일상을 꿈꾸는 당신을 위해 \n티파니 영이 만나러 갑니다❣ \n\nSBS &lt;티파니와 아침을&gt;\n☞ 8월 6일 금요일 저녁 6시 첫방송!\n\n#SBS #mobidic #모비딕 #티파니와아침을 \n#티파니영 #TiffanyYoung #소녀시대 #SNSD https://t.co/ss6XlObLIq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "mobidic",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "모비딕",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "티파니와아침을",
+					"indices": [
+						134,
+						142
+					]
+				},
+				{
+					"text": "티파니영",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "TiffanyYoung",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						170,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422101431910162400,
+					"id_str": "1422101431910162436",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E7xTL_gVcAY2ZbY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7xTL_gVcAY2ZbY.jpg",
+					"url": "https://t.co/ss6XlObLIq",
+					"display_url": "pic.twitter.com/ss6XlObLIq",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1422119988287000577/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422101431910162400,
+					"id_str": "1422101431910162436",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/E7xTL_gVcAY2ZbY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7xTL_gVcAY2ZbY.jpg",
+					"url": "https://t.co/ss6XlObLIq",
+					"display_url": "pic.twitter.com/ss6XlObLIq",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1422119988287000577/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31498,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422101431910162436/vid/480x270/tdi_QjJGQjvDxfqb.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422101431910162436/vid/640x360/D68jiUxLqLFaDp2R.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1422101431910162436/vid/1280x720/c4pRNtQB6IyzXOlj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1422101431910162436/pl/0itR0kve0oTdlJZC.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "",
+			"description": "SBS 공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1725392,
+			"friends_count": 103,
+			"listed_count": 3008,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48917,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414832602670796817/-4UpAVbF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414832602670796817/-4UpAVbF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1625813161",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "멋지게 사는 사람들에겐 다 있다! \n바로 스페셜 루틴✨\n더 나은 일상을 꿈꾸는 당신을 위해 \n티파니 영이 만나러 갑니다❣ \n\nSBS &lt;티파니와 아침을&gt;\n☞ 8월 6일 금요일 저녁 6시 첫방송!\n\n#SBS #mobidic #모비딕 #티파니와아침을 \n#티파니영 #TiffanyYoung #소녀시대 #SNSD https://t.co/ss6XlObLIq"
+	},
+	{
 		"created_at": "Sun Aug 01 07:07:08 +0000 2021",
 		"id": 1421726598093361200,
 		"id_str": "1421729193646231555",
