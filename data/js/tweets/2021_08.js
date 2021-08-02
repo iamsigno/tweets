@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 02 15:07:09 +0000 2021",
+		"id": 1422210831706587100,
+		"id_str": "1422212378729537540",
+		"full_text": "순디 후배 가수 💗#태티서💗가 FM데이트 놀러온 날!\n노래 나가는 시간도 그냥 보내지 않죠..🔥\n케미 폭발 #소녀시대 보러 오세요🥰\n\n🎥https://t.co/6k8uloUYvA\n\n#써니의FM데이트 #써니 #태연 #티파니 #서현\n#먼지털기대작전 https://t.co/OS9nF2MY9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태티서",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						60,
+						65
+					]
+				},
+				{
+					"text": "써니의FM데이트",
+					"indices": [
+						101,
+						110
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "먼지털기대작전",
+					"indices": [
+						128,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6k8uloUYvA",
+					"expanded_url": "https://youtu.be/5-fUskUfEBA",
+					"display_url": "youtu.be/5-fUskUfEBA",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422179409780371500,
+					"id_str": "1422179409780371456",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E7yYo17VcAA4rPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7yYo17VcAA4rPE.jpg",
+					"url": "https://t.co/OS9nF2MY9S",
+					"display_url": "pic.twitter.com/OS9nF2MY9S",
+					"expanded_url": "https://twitter.com/radiombc/status/1422210831706587136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422179409780371500,
+					"id_str": "1422179409780371456",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/E7yYo17VcAA4rPE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E7yYo17VcAA4rPE.jpg",
+					"url": "https://t.co/OS9nF2MY9S",
+					"display_url": "pic.twitter.com/OS9nF2MY9S",
+					"expanded_url": "https://twitter.com/radiombc/status/1422210831706587136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "봉춘라디오 MBC RADIO",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBC라디오 #봉춘라디오",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74455,
+			"friends_count": 44,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "순디 후배 가수 💗#태티서💗가 FM데이트 놀러온 날!\n노래 나가는 시간도 그냥 보내지 않죠..🔥\n케미 폭발 #소녀시대 보러 오세요🥰\n\n🎥https://t.co/6k8uloUYvA\n\n#써니의FM데이트 #써니 #태연 #티파니 #서현\n#먼지털기대작전 https://t.co/OS9nF2MY9S"
+	},
+	{
 		"created_at": "Mon Aug 02 09:07:13 +0000 2021",
 		"id": 1422119988287000600,
 		"id_str": "1422121798213292033",
