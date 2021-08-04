@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 15:07:09 +0000 2021",
+		"id": 1422935607555215400,
+		"id_str": "1422937153831645193",
+		"full_text": "축🎉소녀시대 데뷔 14주년🎉하\n여름 그 자체였던 PARTY 활동기\n그때의 완전체 보라 가져왔어요💕\n\n소녀시대와 함께 하는 여기가 PARTY TIME🌊🏝\n🎥 https://t.co/NtJKlojSJd\n\n#소녀시대 #GirlsGeneration\n#지금은_소녀시대\n#앞으로도_소녀시대\n#영원히_소녀시대\n#써니의FM데이트 #먼지털기대작전 https://t.co/2QL4OfO81T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "지금은_소녀시대",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "앞으로도_소녀시대",
+					"indices": [
+						145,
+						155
+					]
+				},
+				{
+					"text": "영원히_소녀시대",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "써니의FM데이트",
+					"indices": [
+						166,
+						175
+					]
+				},
+				{
+					"text": "먼지털기대작전",
+					"indices": [
+						176,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NtJKlojSJd",
+					"expanded_url": "https://youtu.be/ZZt23Wc4KGY",
+					"display_url": "youtu.be/ZZt23Wc4KGY",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1422843304643731500,
+					"id_str": "1422843304643731459",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422843304643731459/pu/img/hPE3t2Beis3dm2YZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422843304643731459/pu/img/hPE3t2Beis3dm2YZ.jpg",
+					"url": "https://t.co/2QL4OfO81T",
+					"display_url": "pic.twitter.com/2QL4OfO81T",
+					"expanded_url": "https://twitter.com/radiombc/status/1422935607555215366/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422843304643731500,
+					"id_str": "1422843304643731459",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422843304643731459/pu/img/hPE3t2Beis3dm2YZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422843304643731459/pu/img/hPE3t2Beis3dm2YZ.jpg",
+					"url": "https://t.co/2QL4OfO81T",
+					"display_url": "pic.twitter.com/2QL4OfO81T",
+					"expanded_url": "https://twitter.com/radiombc/status/1422935607555215366/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22022,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1422843304643731459/pu/pl/QilnCZlUIM806bps.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422843304643731459/pu/vid/480x270/6MwbA03MfqcRXKcY.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422843304643731459/pu/vid/1280x720/uOzXQaW6GiHIiiPE.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1422843304643731459/pu/vid/640x360/eWuIhel8MvuK60hH.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "봉춘라디오 MBC RADIO",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBC라디오 #봉춘라디오",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74488,
+			"friends_count": 44,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "축🎉소녀시대 데뷔 14주년🎉하\n여름 그 자체였던 PARTY 활동기\n그때의 완전체 보라 가져왔어요💕\n\n소녀시대와 함께 하는 여기가 PARTY TIME🌊🏝\n🎥 https://t.co/NtJKlojSJd\n\n#소녀시대 #GirlsGeneration\n#지금은_소녀시대\n#앞으로도_소녀시대\n#영원히_소녀시대\n#써니의FM데이트 #먼지털기대작전 https://t.co/2QL4OfO81T"
+	},
+	{
 		"created_at": "Wed Aug 04 08:07:08 +0000 2021",
 		"id": 1422829659922780200,
 		"id_str": "1422831456909463554",
