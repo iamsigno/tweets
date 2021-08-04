@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 04 08:07:08 +0000 2021",
+		"id": 1422829659922780200,
+		"id_str": "1422831456909463554",
+		"full_text": "심장에 정조준🏹 매력 발사✨ 성공❗ 금메달🥇 드립니다❗\n기술점수 만점, 얼굴점수 만점! 만능 스포츠맨 아이돌 모음.zip\nIDOL member who loves sports!\n#KEY #JAEMIN #SHOWNU #YOONA #SOMI #Yves #KANGSEUNGYOON #KIMYOHAN #Y #KIMSEJEONG #HaYoung #SOHEE https://t.co/m5YurHgp0Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "JAEMIN",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "SHOWNU",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"text": "SOMI",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "Yves",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "KANGSEUNGYOON",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"text": "KIMYOHAN",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "Y",
+					"indices": [
+						163,
+						165
+					]
+				},
+				{
+					"text": "KIMSEJEONG",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "HaYoung",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "SOHEE",
+					"indices": [
+						187,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1422748155083333600,
+					"id_str": "1422748155083333634",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E76d6LSVoAIml4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76d6LSVoAIml4n.jpg",
+					"url": "https://t.co/m5YurHgp0Z",
+					"display_url": "pic.twitter.com/m5YurHgp0Z",
+					"expanded_url": "https://twitter.com/1theK/status/1422829659922780160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1422748155083333600,
+					"id_str": "1422748155083333634",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E76d6LSVoAIml4n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76d6LSVoAIml4n.jpg",
+					"url": "https://t.co/m5YurHgp0Z",
+					"display_url": "pic.twitter.com/m5YurHgp0Z",
+					"expanded_url": "https://twitter.com/1theK/status/1422829659922780160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1422748155087523800,
+					"id_str": "1422748155087523847",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E76d6LTVkAcIneo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76d6LTVkAcIneo.jpg",
+					"url": "https://t.co/m5YurHgp0Z",
+					"display_url": "pic.twitter.com/m5YurHgp0Z",
+					"expanded_url": "https://twitter.com/1theK/status/1422829659922780160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1422748155087515600,
+					"id_str": "1422748155087515648",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E76d6LTVcAAsHEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76d6LTVcAAsHEf.jpg",
+					"url": "https://t.co/m5YurHgp0Z",
+					"display_url": "pic.twitter.com/m5YurHgp0Z",
+					"expanded_url": "https://twitter.com/1theK/status/1422829659922780160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1422748155100110800,
+					"id_str": "1422748155100110851",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/E76d6LWVoAMnixn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E76d6LWVoAMnixn.jpg",
+					"url": "https://t.co/m5YurHgp0Z",
+					"display_url": "pic.twitter.com/m5YurHgp0Z",
+					"expanded_url": "https://twitter.com/1theK/status/1422829659922780160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2254724,
+			"friends_count": 817,
+			"listed_count": 2060,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23303,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1627894803",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 420,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "심장에 정조준🏹 매력 발사✨ 성공❗ 금메달🥇 드립니다❗\n기술점수 만점, 얼굴점수 만점! 만능 스포츠맨 아이돌 모음.zip\nIDOL member who loves sports!\n#KEY #JAEMIN #SHOWNU #YOONA #SOMI #Yves #KANGSEUNGYOON #KIMYOHAN #Y #KIMSEJEONG #HaYoung #SOHEE https://t.co/m5YurHgp0Z"
+	},
+	{
 		"created_at": "Wed Aug 04 07:07:16 +0000 2021",
 		"id": 1422815350823874600,
 		"id_str": "1422816387429502977",
