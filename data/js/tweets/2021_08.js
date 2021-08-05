@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 11:07:11 +0000 2021",
+		"id": 1423238883249033200,
+		"id_str": "1423239155975344138",
+		"full_text": "ฤกษ์งามยามดีในวันที่มีความหมายสำหรับ S♡NE 🎉\n\n#SMTruexTruePoint ตลอดเดือน 8 นี้!\n\nขอเชิญ S♡NE ชาวไทยมาร่วมสนุกลุ้นรับ ❝ มินิอัลบั้มชุดที่ 4 ‘What Do I Call You’ พร้อมลายเซ็น TAEYEON ❞ รวม 1 รางวัล\n\nคลิกใช้ทรูพอยท์ https://t.co/RWy5LkcnnQ\n\n💗 รายละเอียด https://t.co/kxEv1nUT5c https://t.co/BFEOK7oosa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTruexTruePoint",
+					"indices": [
+						45,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RWy5LkcnnQ",
+					"expanded_url": "https://trueid.onelink.me/ln4U/e99016df",
+					"display_url": "trueid.onelink.me/ln4U/e99016df",
+					"indices": [
+						213,
+						236
+					]
+				},
+				{
+					"url": "https://t.co/kxEv1nUT5c",
+					"expanded_url": "https://www.facebook.com/212568845457738/posts/4254773514570564/",
+					"display_url": "facebook.com/21256884545773…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423221243730301000,
+					"id_str": "1423221243730300929",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E8BMLj1VkAEhZWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8BMLj1VkAEhZWI.jpg",
+					"url": "https://t.co/BFEOK7oosa",
+					"display_url": "pic.twitter.com/BFEOK7oosa",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1423238883249033218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423221243730301000,
+					"id_str": "1423221243730300929",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/E8BMLj1VkAEhZWI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8BMLj1VkAEhZWI.jpg",
+					"url": "https://t.co/BFEOK7oosa",
+					"display_url": "pic.twitter.com/BFEOK7oosa",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1423238883249033218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85477,
+			"friends_count": 48,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8288,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ฤกษ์งามยามดีในวันที่มีความหมายสำหรับ S♡NE 🎉\n\n#SMTruexTruePoint ตลอดเดือน 8 นี้!\n\nขอเชิญ S♡NE ชาวไทยมาร่วมสนุกลุ้นรับ ❝ มินิอัลบั้มชุดที่ 4 ‘What Do I Call You’ พร้อมลายเซ็น TAEYEON ❞ รวม 1 รางวัล\n\nคลิกใช้ทรูพอยท์ https://t.co/RWy5LkcnnQ\n\n💗 รายละเอียด https://t.co/kxEv1nUT5c https://t.co/BFEOK7oosa"
+	},
+	{
 		"created_at": "Thu Aug 05 08:44:57 +0000 2021",
 		"id": 1423199292584456200,
 		"id_str": "1423203358718971908",
