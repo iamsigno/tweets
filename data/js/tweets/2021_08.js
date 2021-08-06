@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 06 11:44:57 +0000 2021",
+		"id": 1423602707781230600,
+		"id_str": "1423611044304457730",
+		"full_text": "“Second” \n2021.08.09 6pm KST https://t.co/51PgnljxUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1423602695034732500,
+					"id_str": "1423602695034732546",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423602695034732500,
+					"id_str": "1423602695034732546",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG8rVgAIc9sb.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423602695080796200,
+					"id_str": "1423602695080796161",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG82UYAETdSf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG82UYAETdSf.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423602695089266700,
+					"id_str": "1423602695089266689",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG84VoAE318R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG84VoAE318R.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1423602695080841200,
+					"id_str": "1423602695080841220",
+					"indices": [
+						29,
+						52
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GnG82VEAQhR35.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GnG82VEAQhR35.jpg",
+					"url": "https://t.co/51PgnljxUN",
+					"display_url": "pic.twitter.com/51PgnljxUN",
+					"expanded_url": "https://twitter.com/Hyoyeon_djhyo/status/1423602707781230595/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 792687101842186200,
+			"id_str": "792687101842186240",
+			"name": "Hyoyeon",
+			"screen_name": "Hyoyeon_djhyo",
+			"location": "K",
+			"description": "HyoYeon from Girls’ Generation DJ Hyo",
+			"url": "https://t.co/U9OPugEoAv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/U9OPugEoAv",
+							"expanded_url": "http://hyoyeon.smtown.com",
+							"display_url": "hyoyeon.smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 261433,
+			"friends_count": 9,
+			"listed_count": 585,
+			"created_at": "Sun Oct 30 11:18:27 +0000 2016",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422518129213669376/Svrk3sdy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422518129213669376/Svrk3sdy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/792687101842186240/1628169794",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1520,
+		"favorite_count": 2961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Second” \n2021.08.09 6pm KST https://t.co/51PgnljxUN"
+	},
+	{
 		"created_at": "Fri Aug 06 08:07:09 +0000 2021",
 		"id": 1423545197237981200,
 		"id_str": "1423556233668317185",
