@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 08:07:09 +0000 2021",
+		"id": 1424632139992080400,
+		"id_str": "1424643396778463233",
+		"full_text": "[#VLIVE] 무더위를 시원하게 날려 줄🍹 썸머 퀸 #효연 의 &lt;Second&gt; 카운트다운 라이브가💙 잠시 후 시작됩니다!🏝️ 청량함 가득 썸머 바이브를 풀 충전하고 싶다면〰️🌊 오늘 오후 5시에 효여니가 기다리고있는 VLIVE로 꼭 찾아오세HYO😘\n\n▶️ https://t.co/M1EuizdudM\n\n#HYO #소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VLIVE",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M1EuizdudM",
+					"expanded_url": "https://www.vlive.tv/video/258340",
+					"display_url": "vlive.tv/video/258340",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6476974,
+			"friends_count": 167,
+			"listed_count": 2995,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 211,
+		"favorite_count": 1247,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VLIVE] 무더위를 시원하게 날려 줄🍹 썸머 퀸 #효연 의 &lt;Second&gt; 카운트다운 라이브가💙 잠시 후 시작됩니다!🏝️ 청량함 가득 썸머 바이브를 풀 충전하고 싶다면〰️🌊 오늘 오후 5시에 효여니가 기다리고있는 VLIVE로 꼭 찾아오세HYO😘\n\n▶️ https://t.co/M1EuizdudM\n\n#HYO #소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Mon Aug 09 07:07:08 +0000 2021",
 		"id": 1424613682730860500,
 		"id_str": "1424628296688472065",
