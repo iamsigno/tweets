@@ -1,6 +1,801 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 09:07:34 +0000 2021",
+		"id": 1424658308401565700,
+		"id_str": "1424658602598486019",
+		"full_text": "효연 (HYO) [Second]\n\n🎧 Listen now on your favorite platform\nhttps://t.co/gcBKgy4WDk \n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gcBKgy4WDk",
+					"expanded_url": "https://smarturl.it/HYO_Second",
+					"display_url": "smarturl.it/HYO_Second",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3657164,
+			"friends_count": 4,
+			"listed_count": 5499,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 321,
+		"favorite_count": 425,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "효연 (HYO) [Second]\n\n🎧 Listen now on your favorite platform\nhttps://t.co/gcBKgy4WDk \n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Mon Aug 09 09:07:30 +0000 2021",
+		"id": 1424658156550901800,
+		"id_str": "1424658585368285187",
+		"full_text": "효연 (HYO) [Second]\n\n🎧 Melon: https://t.co/Yk41SHeaOR \n🎧 FLO: https://t.co/K4GSqXoftX \n🎧 genie: https://t.co/xziI40lcPr \n🎧 NAVER VIBE: https://t.co/4cWm4JfWD3 \n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						163,
+						167
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						182,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yk41SHeaOR",
+					"expanded_url": "https://bit.ly/3Cs9z2a",
+					"display_url": "bit.ly/3Cs9z2a",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/K4GSqXoftX",
+					"expanded_url": "https://bit.ly/3jFyarC",
+					"display_url": "bit.ly/3jFyarC",
+					"indices": [
+						60,
+						83
+					]
+				},
+				{
+					"url": "https://t.co/xziI40lcPr",
+					"expanded_url": "https://bit.ly/3iy0NaZ",
+					"display_url": "bit.ly/3iy0NaZ",
+					"indices": [
+						94,
+						117
+					]
+				},
+				{
+					"url": "https://t.co/4cWm4JfWD3",
+					"expanded_url": "https://bit.ly/3lMsXBc",
+					"display_url": "bit.ly/3lMsXBc",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3657164,
+			"friends_count": 4,
+			"listed_count": 5499,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 425,
+		"favorite_count": 530,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "효연 (HYO) [Second]\n\n🎧 Melon: https://t.co/Yk41SHeaOR \n🎧 FLO: https://t.co/K4GSqXoftX \n🎧 genie: https://t.co/xziI40lcPr \n🎧 NAVER VIBE: https://t.co/4cWm4JfWD3 \n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Mon Aug 09 09:07:21 +0000 2021",
+		"id": 1424657892712476700,
+		"id_str": "1424658547200172036",
+		"full_text": "HYOYEON韓国の新曲『Second』の配信がスタート🎧\n『Second』はフィーチャリングにBIBIを迎えた元気が出るダンス曲です。\nそして皆さんへのメッセージも到着🎥ぜひチェックしてください✔️\n#효연 #ヒョヨン #Second #소녀시대 #GirlsGeneration \n\n🎧https://t.co/M68ZJMbDXg\n🎥 https://t.co/s1CBSkPpGm https://t.co/CSRYa1BcaI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "ヒョヨン",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M68ZJMbDXg",
+					"expanded_url": "https://lnk.to/hyosecond",
+					"display_url": "lnk.to/hyosecond",
+					"indices": [
+						145,
+						168
+					]
+				},
+				{
+					"url": "https://t.co/s1CBSkPpGm",
+					"expanded_url": "https://youtu.be/rthppvDJ2fA",
+					"display_url": "youtu.be/rthppvDJ2fA",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424657834180944000,
+					"id_str": "1424657834180943872",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424657834180943872/pu/img/BcSvY4rdTpa-JtPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424657834180943872/pu/img/BcSvY4rdTpa-JtPk.jpg",
+					"url": "https://t.co/CSRYa1BcaI",
+					"display_url": "pic.twitter.com/CSRYa1BcaI",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1424657892712476674/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424657834180944000,
+					"id_str": "1424657834180943872",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1424657834180943872/pu/img/BcSvY4rdTpa-JtPk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1424657834180943872/pu/img/BcSvY4rdTpa-JtPk.jpg",
+					"url": "https://t.co/CSRYa1BcaI",
+					"display_url": "pic.twitter.com/CSRYa1BcaI",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1424657892712476674/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32533,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1424657834180943872/pu/pl/gdRuox39dObz-Wsr.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1424657834180943872/pu/vid/640x360/DI-LC7Ac9p4tu0qg.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1424657834180943872/pu/vid/480x270/dRBR7hiIjIXkOj3n.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1424657834180943872/pu/vid/1280x720/0iQa75nBD4rcTF02.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106625,
+			"friends_count": 0,
+			"listed_count": 498,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 220,
+		"favorite_count": 267,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "HYOYEON韓国の新曲『Second』の配信がスタート🎧\n『Second』はフィーチャリングにBIBIを迎えた元気が出るダンス曲です。\nそして皆さんへのメッセージも到着🎥ぜひチェックしてください✔️\n#효연 #ヒョヨン #Second #소녀시대 #GirlsGeneration \n\n🎧https://t.co/M68ZJMbDXg\n🎥 https://t.co/s1CBSkPpGm https://t.co/CSRYa1BcaI"
+	},
+	{
+		"created_at": "Mon Aug 09 09:07:08 +0000 2021",
+		"id": 1424657148978499600,
+		"id_str": "1424658495400554501",
+		"full_text": "HYO 효연 'Second (Feat. 비비 (BIBI))' MV\n\n🎬 https://t.co/FoiTa2y601\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration https://t.co/oukfmAVuvT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FoiTa2y601",
+					"expanded_url": "https://youtu.be/rthppvDJ2fA",
+					"display_url": "youtu.be/rthppvDJ2fA",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424657063355981800,
+					"id_str": "1424657063355981828",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VmDQwVoAQA3JK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VmDQwVoAQA3JK.jpg",
+					"url": "https://t.co/oukfmAVuvT",
+					"display_url": "pic.twitter.com/oukfmAVuvT",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1424657148978499592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424657063355981800,
+					"id_str": "1424657063355981828",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/E8VmDQwVoAQA3JK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8VmDQwVoAQA3JK.jpg",
+					"url": "https://t.co/oukfmAVuvT",
+					"display_url": "pic.twitter.com/oukfmAVuvT",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1424657148978499592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3657164,
+			"friends_count": 4,
+			"listed_count": 5499,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2463,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2294,
+		"favorite_count": 2631,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HYO 효연 'Second (Feat. 비비 (BIBI))' MV\n\n🎬 https://t.co/FoiTa2y601\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration https://t.co/oukfmAVuvT"
+	},
+	{
 		"created_at": "Mon Aug 09 08:07:09 +0000 2021",
 		"id": 1424632139992080400,
 		"id_str": "1424643396778463233",
