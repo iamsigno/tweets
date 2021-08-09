@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 03:44:56 +0000 2021",
+		"id": 1424564217340854300,
+		"id_str": "1424577411681751050",
+		"full_text": "효연 (HYO) 신곡 ‘Second’ 오늘 오후 6시 공개!\n서머 바이브 가득한 댄스곡으로 찰떡 변신! (Feat. 비비)\n바쁜 일상 속에서 자신에게 마음껏 숨 쉴 시간을 줘도 괜찮다는 메시지!\n\r#효연 #HYO #Second \n#소녀시대 #GirlsGeneration https://t.co/rWJXxChJn5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1424564205533819000,
+					"id_str": "1424564205533818883",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E8URmOaUcAMvm0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8URmOaUcAMvm0h.jpg",
+					"url": "https://t.co/rWJXxChJn5",
+					"display_url": "pic.twitter.com/rWJXxChJn5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1424564217340854274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424564205533819000,
+					"id_str": "1424564205533818883",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E8URmOaUcAMvm0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8URmOaUcAMvm0h.jpg",
+					"url": "https://t.co/rWJXxChJn5",
+					"display_url": "pic.twitter.com/rWJXxChJn5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1424564217340854274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1424564205538078700,
+					"id_str": "1424564205538078721",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E8URmObVcAEwhWR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8URmObVcAEwhWR.jpg",
+					"url": "https://t.co/rWJXxChJn5",
+					"display_url": "pic.twitter.com/rWJXxChJn5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1424564217340854274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1424564205546401800,
+					"id_str": "1424564205546401793",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/E8URmOdUcAEIzRU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8URmOdUcAEIzRU.jpg",
+					"url": "https://t.co/rWJXxChJn5",
+					"display_url": "pic.twitter.com/rWJXxChJn5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1424564217340854274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1499,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3657054,
+			"friends_count": 4,
+			"listed_count": 5500,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2459,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1783,
+		"favorite_count": 4020,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "효연 (HYO) 신곡 ‘Second’ 오늘 오후 6시 공개!\n서머 바이브 가득한 댄스곡으로 찰떡 변신! (Feat. 비비)\n바쁜 일상 속에서 자신에게 마음껏 숨 쉴 시간을 줘도 괜찮다는 메시지!\n\r#효연 #HYO #Second \n#소녀시대 #GirlsGeneration https://t.co/rWJXxChJn5"
+	},
+	{
 		"created_at": "Mon Aug 09 03:07:44 +0000 2021",
 		"id": 1424567802480889900,
 		"id_str": "1424568048565030914",
