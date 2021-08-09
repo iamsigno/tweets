@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 09 07:07:08 +0000 2021",
+		"id": 1424613682730860500,
+		"id_str": "1424628296688472065",
+		"full_text": "효연 (HYO) Rilis Lagu ‘Second’ Sore Ini!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/VISGYKC4yU\n\n@GirlsGeneration #HYO https://t.co/1upyeKWxQK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VISGYKC4yU",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/867143163902699/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424613663961325600,
+					"id_str": "1424613663961325572",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8U-lFaVIAQEINy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8U-lFaVIAQEINy.jpg",
+					"url": "https://t.co/1upyeKWxQK",
+					"display_url": "pic.twitter.com/1upyeKWxQK",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1424613682730860547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424613663961325600,
+					"id_str": "1424613663961325572",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8U-lFaVIAQEINy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8U-lFaVIAQEINy.jpg",
+					"url": "https://t.co/1upyeKWxQK",
+					"display_url": "pic.twitter.com/1upyeKWxQK",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1424613682730860547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1424613664292708400,
+					"id_str": "1424613664292708354",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8U-lGpVoAIftey.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8U-lGpVoAIftey.jpg",
+					"url": "https://t.co/1upyeKWxQK",
+					"display_url": "pic.twitter.com/1upyeKWxQK",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1424613682730860547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1424613664527507500,
+					"id_str": "1424613664527507457",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8U-lHhUYAEYye4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8U-lHhUYAEYye4.jpg",
+					"url": "https://t.co/1upyeKWxQK",
+					"display_url": "pic.twitter.com/1upyeKWxQK",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1424613682730860547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1499,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635145,
+			"friends_count": 34,
+			"listed_count": 416,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 369,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "효연 (HYO) Rilis Lagu ‘Second’ Sore Ini!\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/VISGYKC4yU\n\n@GirlsGeneration #HYO https://t.co/1upyeKWxQK"
+	},
+	{
 		"created_at": "Mon Aug 09 06:07:24 +0000 2021",
 		"id": 1424611472810729500,
 		"id_str": "1424613264386924544",
