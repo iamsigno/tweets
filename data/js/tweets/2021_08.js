@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 03:07:15 +0000 2021",
+		"id": 1424657956327420000,
+		"id_str": "1424930313080385568",
+		"full_text": "#HYO 最新シングル『#Second feat. BIBI』配信開始💖\n\n#ヒョヨン ちゃんとBIBIちゃんのパワフルな歌声が際立つ、この夏にぴったりな楽曲です🌴😍🧡\n\nAWAに届いた豪華なメッセージも要チェック😘🍍💛\n@gg_official_jp #효연 #少女時代 \n🎧https://t.co/6xAPNZJ86M https://t.co/d9i8fvlB9p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"text": "ヒョヨン",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						131,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						111,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6xAPNZJ86M",
+					"expanded_url": "https://mf.awa.fm/3yofbYR",
+					"display_url": "mf.awa.fm/3yofbYR",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1423595591213346800,
+					"id_str": "1423595591213346816",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GhF-4VoAE38Zp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GhF-4VoAE38Zp.jpg",
+					"url": "https://t.co/d9i8fvlB9p",
+					"display_url": "pic.twitter.com/d9i8fvlB9p",
+					"expanded_url": "https://twitter.com/AWA_official/status/1424657956327419907/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1423595591213346800,
+					"id_str": "1423595591213346816",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/E8GhF-4VoAE38Zp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8GhF-4VoAE38Zp.jpg",
+					"url": "https://t.co/d9i8fvlB9p",
+					"display_url": "pic.twitter.com/d9i8fvlB9p",
+					"expanded_url": "https://twitter.com/AWA_official/status/1424657956327419907/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20671,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423595591213346816/vid/640x360/o4DzUE4EKI3Hie7k.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423595591213346816/vid/1280x720/AkwK09CwNGnNXKlF.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1423595591213346816/pl/GuVC79Et4ryNjjYF.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1423595591213346816/vid/480x270/dlblEIg7-rcDz5lc.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "HYO『Second feat. BIBI』",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://mf.awa.fm/3yofbYR"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2927579576,
+			"id_str": "2927579576",
+			"name": "AWA＠最新音楽トレンド",
+			"screen_name": "AWA_official",
+			"location": "AWA",
+			"description": "音楽サブスク『AWA』公式Twitter。音楽を愛するAWAエディターたちのつぶやきをお届けします。初めての方は1ヶ月無料🎶",
+			"url": "https://t.co/tLxeTR4let",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tLxeTR4let",
+							"expanded_url": "https://mf.awa.fm/downloadtw",
+							"display_url": "mf.awa.fm/downloadtw",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196090,
+			"friends_count": 328,
+			"listed_count": 438,
+			"created_at": "Fri Dec 12 13:07:12 +0000 2014",
+			"favourites_count": 3441,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 169616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088341101251948544/YKTfg__F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2927579576/1592275896",
+			"profile_link_color": "FC7459",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 321,
+		"favorite_count": 543,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#HYO 最新シングル『#Second feat. BIBI』配信開始💖\n\n#ヒョヨン ちゃんとBIBIちゃんのパワフルな歌声が際立つ、この夏にぴったりな楽曲です🌴😍🧡\n\nAWAに届いた豪華なメッセージも要チェック😘🍍💛\n@gg_official_jp #효연 #少女時代 \n🎧https://t.co/6xAPNZJ86M https://t.co/d9i8fvlB9p"
+	},
+	{
 		"created_at": "Tue Aug 10 02:07:09 +0000 2021",
 		"id": 1424913858116821000,
 		"id_str": "1424915187996532738",
