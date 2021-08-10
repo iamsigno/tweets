@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 10 09:07:19 +0000 2021",
+		"id": 1425019087349026800,
+		"id_str": "1425020929982320646",
+		"full_text": "#少女時代 の #HYO (@Hyoyeon_djhyo) が\n5thシングル\"#Second (Feat.BIBI)\" \nでカムバック🎊\n\n彼女のパワフルな歌声を堪能できる\nポジティブなサマーダンスポップ🏖🎶\n\nビデオコメントと合わせて\n#Spotify でチェックしてみて😎\n▶︎https://t.co/Ft5hybUleX\n\n@GirlsGeneration \n@gg_official_jp https://t.co/CGN8cx4VA7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						8,
+						12
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						185,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ft5hybUleX",
+					"expanded_url": "https://spoti.fi/3CvuscN",
+					"display_url": "spoti.fi/3CvuscN",
+					"indices": [
+						142,
+						165
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1424951001056825300,
+					"id_str": "1424951001056825345",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"url": "https://t.co/CGN8cx4VA7",
+					"display_url": "pic.twitter.com/CGN8cx4VA7",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1425019087349026816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1424951001056825300,
+					"id_str": "1424951001056825345",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1424951001056825345/img/kSrYDuMkejUH1Kdw.jpg",
+					"url": "https://t.co/CGN8cx4VA7",
+					"display_url": "pic.twitter.com/CGN8cx4VA7",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1425019087349026816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 22472,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/vid/540x540/yB6-AuRgnPa4Gema.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/vid/320x320/_nkC3xiAjovCshQN.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/vid/720x720/wrcTJw1aU8iuVfOA.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1424951001056825345/pl/LG7PXwOp12Cgd8X6.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽から、ポッドキャストまで。すべては音からはじまる🎧 世界で3億6500万人以上のファンに選ばれている、オーディオ ストリーミングサービスSpotify（スポティファイ）。 #すべては音からはじまる カスタマーサポート：@SpotifyCaresJP",
+			"url": "https://t.co/8TdfuriFMo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfuriFMo",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205388,
+			"friends_count": 1598,
+			"listed_count": 1050,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 13246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1623769225",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 46,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 の #HYO (@Hyoyeon_djhyo) が\n5thシングル\"#Second (Feat.BIBI)\" \nでカムバック🎊\n\n彼女のパワフルな歌声を堪能できる\nポジティブなサマーダンスポップ🏖🎶\n\nビデオコメントと合わせて\n#Spotify でチェックしてみて😎\n▶︎https://t.co/Ft5hybUleX\n\n@GirlsGeneration \n@gg_official_jp https://t.co/CGN8cx4VA7"
+	},
+	{
 		"created_at": "Tue Aug 10 08:07:18 +0000 2021",
 		"id": 1425004117483683800,
 		"id_str": "1425005823248457730",
