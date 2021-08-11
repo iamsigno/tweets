@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 05:07:08 +0000 2021",
+		"id": 1425321079002865700,
+		"id_str": "1425322873586130949",
+		"full_text": "외모, 노래, 춤 모든 잘하는 우리 효연이가 딱 하나 메꾸지 못한게 있지...! 그건 바로 효연 셀카랑 #아이돌등판 보고 황'홀'해진 우리 마음..❤😘\n#효연 #HYO #Second #세컨드 @GirlsGeneration\n\n#IDDP 👉https://t.co/7zd6iUUnhC https://t.co/I6RlmnjqDR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌등판",
+					"indices": [
+						58,
+						64
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "세컨드",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "IDDP",
+					"indices": [
+						125,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						107,
+						123
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7zd6iUUnhC",
+					"expanded_url": "https://youtu.be/IzBs5n8nSX4",
+					"display_url": "youtu.be/IzBs5n8nSX4",
+					"indices": [
+						132,
+						155
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425273803005784000,
+					"id_str": "1425273803005784065",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8eW-O_UcAEVHAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8eW-O_UcAEVHAh.jpg",
+					"url": "https://t.co/I6RlmnjqDR",
+					"display_url": "pic.twitter.com/I6RlmnjqDR",
+					"expanded_url": "https://twitter.com/1theK/status/1425321079002865666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425273803005784000,
+					"id_str": "1425273803005784065",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8eW-O_UcAEVHAh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8eW-O_UcAEVHAh.jpg",
+					"url": "https://t.co/I6RlmnjqDR",
+					"display_url": "pic.twitter.com/I6RlmnjqDR",
+					"expanded_url": "https://twitter.com/1theK/status/1425321079002865666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425273804473856000,
+					"id_str": "1425273804473856004",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8eW-UdVcAQEOLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8eW-UdVcAQEOLW.jpg",
+					"url": "https://t.co/I6RlmnjqDR",
+					"display_url": "pic.twitter.com/I6RlmnjqDR",
+					"expanded_url": "https://twitter.com/1theK/status/1425321079002865666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1425273804494758000,
+					"id_str": "1425273804494757896",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/E8eW-UiUYAgWxaB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8eW-UiUYAgWxaB.jpg",
+					"url": "https://t.co/I6RlmnjqDR",
+					"display_url": "pic.twitter.com/I6RlmnjqDR",
+					"expanded_url": "https://twitter.com/1theK/status/1425321079002865666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2258691,
+			"friends_count": 817,
+			"listed_count": 2060,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1628577938",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 86,
+		"favorite_count": 190,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "외모, 노래, 춤 모든 잘하는 우리 효연이가 딱 하나 메꾸지 못한게 있지...! 그건 바로 효연 셀카랑 #아이돌등판 보고 황'홀'해진 우리 마음..❤😘\n#효연 #HYO #Second #세컨드 @GirlsGeneration\n\n#IDDP 👉https://t.co/7zd6iUUnhC https://t.co/I6RlmnjqDR"
+	},
+	{
 		"created_at": "Tue Aug 10 11:07:40 +0000 2021",
 		"id": 1425049581096562700,
 		"id_str": "1425051213821796354",
