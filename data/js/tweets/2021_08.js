@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 11 11:07:12 +0000 2021",
+		"id": 1425411678812786700,
+		"id_str": "1425413485039607810",
+		"full_text": "❤️효연이 dgg에 왔닷❤️\n시원한 썸머 힐링송🏖 #Second 으로 돌아온 #효연 🎶\n#HYO 의 댄스 퍼포먼스⭐️\n내일 #dgg 에서 보고 쉬어가세요!😍\n@Hyoyeon_djhyo\n\nHYO - Second   퍼포먼스 공개\n&gt;&gt; 8/12(목) 오후 8시 (KST) dingo global #DGG \n\n#HYOxBiBi_Second #DJHYOisBack #MOVEREC #dingo_global #딩고 https://t.co/zOpU6Qf39f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Second",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "dgg",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "DGG",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "HYOxBiBi_Second",
+					"indices": [
+						176,
+						192
+					]
+				},
+				{
+					"text": "DJHYOisBack",
+					"indices": [
+						193,
+						205
+					]
+				},
+				{
+					"text": "MOVEREC",
+					"indices": [
+						206,
+						214
+					]
+				},
+				{
+					"text": "dingo_global",
+					"indices": [
+						215,
+						228
+					]
+				},
+				{
+					"text": "딩고",
+					"indices": [
+						229,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						88,
+						102
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425395551076425700,
+					"id_str": "1425395551076425728",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"url": "https://t.co/zOpU6Qf39f",
+					"display_url": "pic.twitter.com/zOpU6Qf39f",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1425411678812786695/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425395551076425700,
+					"id_str": "1425395551076425728",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1425395551076425728/pu/img/bqFoNI7VgfPEGQbL.jpg",
+					"url": "https://t.co/zOpU6Qf39f",
+					"display_url": "pic.twitter.com/zOpU6Qf39f",
+					"expanded_url": "https://twitter.com/dingo_dgg/status/1425411678812786695/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12279,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/vid/1280x720/zKIJ9rw3K_dzBUhK.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/vid/480x270/71L67VphuCsr6S7e.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/pl/mdegnsY6cGG4WhaS.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1425395551076425728/pu/vid/640x360/x1-Al5TUmH1JlvtQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377863784560128000,
+			"id_str": "1377863784560128002",
+			"name": "dgg",
+			"screen_name": "dingo_dgg",
+			"location": "대한민국",
+			"description": "dingo global official twitter! hey DGG🙋🏻‍♀️안녕 내 이름은 디지지❤️💚",
+			"url": "https://t.co/632yww1729",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/632yww1729",
+							"expanded_url": "https://youtube.com/c/dingoglobaldgg",
+							"display_url": "youtube.com/c/dingoglobald…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2469,
+			"friends_count": 1,
+			"listed_count": 10,
+			"created_at": "Fri Apr 02 06:01:48 +0000 2021",
+			"favourites_count": 151,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 93,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392389133864079361/lFsx6_0p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377863784560128002/1620806464",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 210,
+		"favorite_count": 325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️효연이 dgg에 왔닷❤️\n시원한 썸머 힐링송🏖 #Second 으로 돌아온 #효연 🎶\n#HYO 의 댄스 퍼포먼스⭐️\n내일 #dgg 에서 보고 쉬어가세요!😍\n@Hyoyeon_djhyo\n\nHYO - Second   퍼포먼스 공개\n&gt;&gt; 8/12(목) 오후 8시 (KST) dingo global #DGG \n\n#HYOxBiBi_Second #DJHYOisBack #MOVEREC #dingo_global #딩고 https://t.co/zOpU6Qf39f"
+	},
+	{
+		"created_at": "Wed Aug 11 11:07:09 +0000 2021",
+		"id": 1425411940621324300,
+		"id_str": "1425413472007954435",
+		"full_text": "TAEYEON 태연 l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/d5rA58wyBE\n\n#효연 #HYO #Second\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#MV #Reaction",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						143,
+						146
+					]
+				},
+				{
+					"text": "Reaction",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d5rA58wyBE",
+					"expanded_url": "https://youtu.be/Mtvml5_C4zM",
+					"display_url": "youtu.be/Mtvml5_C4zM",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3657821,
+			"friends_count": 4,
+			"listed_count": 5497,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2471,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1126,
+		"favorite_count": 1545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON 태연 l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/d5rA58wyBE\n\n#효연 #HYO #Second\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#MV #Reaction"
+	},
+	{
 		"created_at": "Wed Aug 11 05:07:08 +0000 2021",
 		"id": 1425321079002865700,
 		"id_str": "1425322873586130949",
