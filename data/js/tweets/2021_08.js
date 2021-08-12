@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 13:07:09 +0000 2021",
+		"id": 1425804466914152400,
+		"id_str": "1425806058216435712",
+		"full_text": "Girls’ Generation SUNNY &amp; YOONA  l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/m3Frd79YVw\n\n#효연 #HYO #Second\n#써니 #SUNNY \n#윤아 #YOONA\n#소녀시대 #GirlsGeneration\n#MV #Reaction",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						137,
+						143
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "Reaction",
+					"indices": [
+						183,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m3Frd79YVw",
+					"expanded_url": "https://youtu.be/j8YjKmVMrr4",
+					"display_url": "youtu.be/j8YjKmVMrr4",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3658109,
+			"friends_count": 4,
+			"listed_count": 5498,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2475,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1385,
+		"favorite_count": 1855,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls’ Generation SUNNY &amp; YOONA  l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/m3Frd79YVw\n\n#효연 #HYO #Second\n#써니 #SUNNY \n#윤아 #YOONA\n#소녀시대 #GirlsGeneration\n#MV #Reaction"
+	},
+	{
 		"created_at": "Thu Aug 12 11:07:23 +0000 2021",
 		"id": 1425774845392932900,
 		"id_str": "1425775918757335047",
