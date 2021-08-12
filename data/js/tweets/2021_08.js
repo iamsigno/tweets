@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 08:07:08 +0000 2021",
+		"id": 1425719820583014400,
+		"id_str": "1425730559821627393",
+		"full_text": "명서현의 세컨볼 슛으로\n선제골 넣은 국대 패밀리⚽🥅\n\nSBS &lt;골 때리는 그녀들&gt;\n☞ 매주 [수] 밤 9시 방송\n\n#SBS수요예능 #골때리는그녀들 #골때녀\n#ShootingStars #여자축구 #FC국대패밀리\n#FC개벤져스 #FC불나방 #FC구척장신\n#FC액셔니스타 #FC월드클라쓰 #습피드 #7회 https://t.co/RAny5OiV0B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS수요예능",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "골때리는그녀들",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "골때녀",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "ShootingStars",
+					"indices": [
+						93,
+						107
+					]
+				},
+				{
+					"text": "여자축구",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "FC국대패밀리",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"text": "FC개벤져스",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"text": "FC불나방",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "FC구척장신",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "FC액셔니스타",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"text": "FC월드클라쓰",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "습피드",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "7회",
+					"indices": [
+						169,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1425716313154941000,
+					"id_str": "1425716313154940929",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kslu3VoAY7aj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kslu3VoAY7aj0.jpg",
+					"url": "https://t.co/RAny5OiV0B",
+					"display_url": "pic.twitter.com/RAny5OiV0B",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1425719820583014404/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425716313154941000,
+					"id_str": "1425716313154940929",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kslu3VoAY7aj0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kslu3VoAY7aj0.jpg",
+					"url": "https://t.co/RAny5OiV0B",
+					"display_url": "pic.twitter.com/RAny5OiV0B",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1425719820583014404/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 72139,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425716313154940929/vid/640x360/PuxDe-AtySOMwBrJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1425716313154940929/pl/XdQ_XWHJuKgvoMzU.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425716313154940929/vid/480x270/lwKYQJ4Vq06gHqpI.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1425716313154940929/vid/1280x720/B-_OXRypYCr5PZRQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "",
+			"description": "SBS 공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1726070,
+			"friends_count": 102,
+			"listed_count": 3013,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414832602670796817/-4UpAVbF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414832602670796817/-4UpAVbF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1625813161",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "명서현의 세컨볼 슛으로\n선제골 넣은 국대 패밀리⚽🥅\n\nSBS &lt;골 때리는 그녀들&gt;\n☞ 매주 [수] 밤 9시 방송\n\n#SBS수요예능 #골때리는그녀들 #골때녀\n#ShootingStars #여자축구 #FC국대패밀리\n#FC개벤져스 #FC불나방 #FC구척장신\n#FC액셔니스타 #FC월드클라쓰 #습피드 #7회 https://t.co/RAny5OiV0B"
+	},
+	{
 		"created_at": "Thu Aug 12 07:07:16 +0000 2021",
 		"id": 1425713663583920000,
 		"id_str": "1425715494250848257",
