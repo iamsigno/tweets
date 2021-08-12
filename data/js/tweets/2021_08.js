@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 12 07:07:16 +0000 2021",
+		"id": 1425713663583920000,
+		"id_str": "1425715494250848257",
+		"full_text": "Thank you @TIDAL for featuring #HYO on the K-Solo: K-Pop Breakouts playlist! Listen to #Second feat. BIBI here!\n\n🎵 https://t.co/dsBX5usuVT\n\n#효연 #HYO #Second \n#소녀시대 #GirlsGeneration https://t.co/KI5vr27Fl1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						164,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TIDAL",
+					"name": "TIDAL",
+					"id": 2679055230,
+					"id_str": "2679055230",
+					"indices": [
+						10,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dsBX5usuVT",
+					"expanded_url": "http://TIDAL.link/KPopBreakouts",
+					"display_url": "TIDAL.link/KPopBreakouts",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1425702638994092000,
+					"id_str": "1425702638994092044",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"url": "https://t.co/KI5vr27Fl1",
+					"display_url": "pic.twitter.com/KI5vr27Fl1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1425713663583920128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1425702638994092000,
+					"id_str": "1425702638994092044",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E8kc_xiUcAw5bjP.jpg",
+					"url": "https://t.co/KI5vr27Fl1",
+					"display_url": "pic.twitter.com/KI5vr27Fl1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1425713663583920128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3658021,
+			"friends_count": 4,
+			"listed_count": 5498,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 342,
+		"favorite_count": 760,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @TIDAL for featuring #HYO on the K-Solo: K-Pop Breakouts playlist! Listen to #Second feat. BIBI here!\n\n🎵 https://t.co/dsBX5usuVT\n\n#효연 #HYO #Second \n#소녀시대 #GirlsGeneration https://t.co/KI5vr27Fl1"
+	},
+	{
 		"created_at": "Thu Aug 12 05:44:56 +0000 2021",
 		"id": 1425683330578665500,
 		"id_str": "1425694774112161793",
