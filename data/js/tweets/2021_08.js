@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 13 09:45:05 +0000 2021",
+		"id": 1426116266817777700,
+		"id_str": "1426117594847891458",
+		"full_text": "Second (Feat. 비비(BIBI)) - 효연 (HYO) | KBS 210813 방송\n\n🧡 https://t.co/ZMz5LdnbkA\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#뮤직뱅크 #MusicBank",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						102,
+						118
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZMz5LdnbkA",
+					"expanded_url": "https://tv.naver.com/v/21858246",
+					"display_url": "tv.naver.com/v/21858246",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3658272,
+			"friends_count": 4,
+			"listed_count": 5497,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 727,
+		"favorite_count": 1584,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Second (Feat. 비비(BIBI)) - 효연 (HYO) | KBS 210813 방송\n\n🧡 https://t.co/ZMz5LdnbkA\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#뮤직뱅크 #MusicBank"
+	},
+	{
 		"created_at": "Fri Aug 13 09:07:08 +0000 2021",
 		"id": 1426106249540563000,
 		"id_str": "1426108046573510656",
