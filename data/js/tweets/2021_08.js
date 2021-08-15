@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sun Aug 15 08:07:19 +0000 2021",
+		"id": 1426815911315394600,
+		"id_str": "1426817766212898816",
+		"full_text": "[안방1열 직캠4K] 효연 'Second (Feat. 비비)' 풀캠 (HYO Full Cam)│@ SBS Inkigayo_2021.08.15.\n\n🧡 https://t.co/MfcRTxaOst\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#인기가요 #Inkigayo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						131,
+						147
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "Inkigayo",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MfcRTxaOst",
+					"expanded_url": "https://youtu.be/J5Vp9-Igqro",
+					"display_url": "youtu.be/J5Vp9-Igqro",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3659430,
+			"friends_count": 4,
+			"listed_count": 5501,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 389,
+		"favorite_count": 768,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안방1열 직캠4K] 효연 'Second (Feat. 비비)' 풀캠 (HYO Full Cam)│@ SBS Inkigayo_2021.08.15.\n\n🧡 https://t.co/MfcRTxaOst\n\n#효연 #HYO #Second\n#소녀시대 #GirlsGeneration \n#인기가요 #Inkigayo"
+	},
+	{
+		"created_at": "Sun Aug 15 08:07:15 +0000 2021",
+		"id": 1426813148980338700,
+		"id_str": "1426817753097375747",
+		"full_text": "[🎥#안방1열직캠] 효연 - Second (Feat. 비비)\n\n#효연 #HYO #Second #세컨드 #소녀시대 #GirlsGeneration @Hyoyeon_djhyo @GirlsGeneration\n\n📌https://t.co/OkRXNukmZg https://t.co/99zYeR5ZId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						35,
+						38
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"text": "세컨드",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OkRXNukmZg",
+					"expanded_url": "https://youtu.be/J5Vp9-Igqro",
+					"display_url": "youtu.be/J5Vp9-Igqro",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1426813106026541000,
+					"id_str": "1426813106026541057",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E80O9dmVcAEKFec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E80O9dmVcAEKFec.jpg",
+					"url": "https://t.co/99zYeR5ZId",
+					"display_url": "pic.twitter.com/99zYeR5ZId",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1426813148980338688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426813106026541000,
+					"id_str": "1426813106026541057",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/E80O9dmVcAEKFec.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E80O9dmVcAEKFec.jpg",
+					"url": "https://t.co/99zYeR5ZId",
+					"display_url": "pic.twitter.com/99zYeR5ZId",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1426813148980338688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/qapZ7nOCns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qapZ7nOCns",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 489648,
+			"friends_count": 77,
+			"listed_count": 507,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 3489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1628997571",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 213,
+		"favorite_count": 337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 효연 - Second (Feat. 비비)\n\n#효연 #HYO #Second #세컨드 #소녀시대 #GirlsGeneration @Hyoyeon_djhyo @GirlsGeneration\n\n📌https://t.co/OkRXNukmZg https://t.co/99zYeR5ZId"
+	},
+	{
 		"created_at": "Sun Aug 15 04:07:08 +0000 2021",
 		"id": 1426753581076521000,
 		"id_str": "1426757324409032707",
