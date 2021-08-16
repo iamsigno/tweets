@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 16 11:07:09 +0000 2021",
+		"id": 1427223635152892000,
+		"id_str": "1427225411184992257",
+		"full_text": "효연 (HYO) &amp; 비비 (BIBI)  l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/z9GGTKoIW1\n\n#효연 #HYO #Second\n#비비 #BIBI\n#소녀시대 #GirlsGeneration \n#MV #Reaction",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"text": "비비",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "BIBI",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						132,
+						137
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						138,
+						154
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "Reaction",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z9GGTKoIW1",
+					"expanded_url": "https://youtu.be/Zp4tEa75OrI",
+					"display_url": "youtu.be/Zp4tEa75OrI",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3659975,
+			"friends_count": 4,
+			"listed_count": 5500,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 563,
+		"favorite_count": 1180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "효연 (HYO) &amp; 비비 (BIBI)  l 효연 (HYO) ‘Second (Feat. 비비 (BIBI))' MV Reaction\n\n👉🏻 https://t.co/z9GGTKoIW1\n\n#효연 #HYO #Second\n#비비 #BIBI\n#소녀시대 #GirlsGeneration \n#MV #Reaction"
+	},
+	{
 		"created_at": "Mon Aug 16 07:44:56 +0000 2021",
 		"id": 1427174466556149800,
 		"id_str": "1427174524773142529",
