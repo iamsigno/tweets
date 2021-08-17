@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 05:07:12 +0000 2021",
+		"id": 1427489775825477600,
+		"id_str": "1427497214503530496",
+		"full_text": "확신의 비주얼을 모아 모아😌\n엔딩 요정들 모두 다 인기가요로 쏙!💦\n\nSBS &lt;인기가요&gt;\n☞ 매주 [일] 오후 3시 50분 방송\n\n#SBS인기가요 #인기가요 #inkigayo \n#습스엔딩픽 #엔딩가요 \n#효연 #에릭 #주연 #TEN\n#와이엇 #이션 #효진\n#선미 #박지훈 #하성운 \n#소미 #아스트로 https://t.co/hc3xT4ffj2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SBS인기가요",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "inkigayo",
+					"indices": [
+						94,
+						103
+					]
+				},
+				{
+					"text": "습스엔딩픽",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "엔딩가요",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "에릭",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "주연",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "TEN",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "와이엇",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "이션",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "효진",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "선미",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "소미",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "아스트로",
+					"indices": [
+						168,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427455910146842600,
+					"id_str": "1427455910146842633",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E892B6aVUAIXB7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E892B6aVUAIXB7_.jpg",
+					"url": "https://t.co/hc3xT4ffj2",
+					"display_url": "pic.twitter.com/hc3xT4ffj2",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1427489775825477642/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427455910146842600,
+					"id_str": "1427455910146842633",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/E892B6aVUAIXB7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E892B6aVUAIXB7_.jpg",
+					"url": "https://t.co/hc3xT4ffj2",
+					"display_url": "pic.twitter.com/hc3xT4ffj2",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1427489775825477642/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 95996,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427455910146842633/vid/720x720/niS5jd-241N9GD-T.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1427455910146842633/pl/rZA7BSal2XrPia-J.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427455910146842633/vid/540x540/6WfJTstyBs1Gmx6j.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1427455910146842633/vid/320x320/6B-WJsANXvr_-zZ3.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "",
+			"description": "SBS 공식트위터 '습스나우'",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1726448,
+			"friends_count": 102,
+			"listed_count": 3017,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1414832602670796817/-4UpAVbF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414832602670796817/-4UpAVbF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1625813161",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "확신의 비주얼을 모아 모아😌\n엔딩 요정들 모두 다 인기가요로 쏙!💦\n\nSBS &lt;인기가요&gt;\n☞ 매주 [일] 오후 3시 50분 방송\n\n#SBS인기가요 #인기가요 #inkigayo \n#습스엔딩픽 #엔딩가요 \n#효연 #에릭 #주연 #TEN\n#와이엇 #이션 #효진\n#선미 #박지훈 #하성운 \n#소미 #아스트로 https://t.co/hc3xT4ffj2"
+	},
+	{
 		"created_at": "Mon Aug 16 11:07:09 +0000 2021",
 		"id": 1427223635152892000,
 		"id_str": "1427225411184992257",
