@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 07:07:15 +0000 2021",
+		"id": 1428602658009485300,
+		"id_str": "1428614589869088769",
+		"full_text": "TAEYEON – Weekend MD Collection 💖\n\nTAEYEON – Weekend MD Collection을 SMTOWN &amp;STORE에서 만나보세요!\n\nhttps://t.co/c034JkPxH6 https://t.co/7WEgkQr1mJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c034JkPxH6",
+					"expanded_url": "https://bit.ly/3kceWKn",
+					"display_url": "bit.ly/3kceWKn",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428602654154920000,
+					"id_str": "1428602654154919938",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Nqi34VkAIkkep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Nqi34VkAIkkep.jpg",
+					"url": "https://t.co/7WEgkQr1mJ",
+					"display_url": "pic.twitter.com/7WEgkQr1mJ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1428602658009485317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428602654154920000,
+					"id_str": "1428602654154919938",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Nqi34VkAIkkep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Nqi34VkAIkkep.jpg",
+					"url": "https://t.co/7WEgkQr1mJ",
+					"display_url": "pic.twitter.com/7WEgkQr1mJ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1428602658009485317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428602654146535400,
+					"id_str": "1428602654146535426",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Nqi32VoAIKjLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Nqi32VoAIKjLW.jpg",
+					"url": "https://t.co/7WEgkQr1mJ",
+					"display_url": "pic.twitter.com/7WEgkQr1mJ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1428602658009485317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428602654343647200,
+					"id_str": "1428602654343647235",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Nqi4lVUAMDyAA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Nqi4lVUAMDyAA.jpg",
+					"url": "https://t.co/7WEgkQr1mJ",
+					"display_url": "pic.twitter.com/7WEgkQr1mJ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1428602658009485317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428602654389719000,
+					"id_str": "1428602654389719040",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Nqi4wUUAASrMZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Nqi4wUUAASrMZ.jpg",
+					"url": "https://t.co/7WEgkQr1mJ",
+					"display_url": "pic.twitter.com/7WEgkQr1mJ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1428602658009485317/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428602652170940400,
+		"in_reply_to_status_id_str": "1428602652170940421",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163423,
+			"friends_count": 0,
+			"listed_count": 279,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 364,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON – Weekend MD Collection 💖\n\nTAEYEON – Weekend MD Collection을 SMTOWN &amp;STORE에서 만나보세요!\n\nhttps://t.co/c034JkPxH6 https://t.co/7WEgkQr1mJ"
+	},
+	{
 		"created_at": "Fri Aug 20 06:07:09 +0000 2021",
 		"id": 1428593690121887700,
 		"id_str": "1428599464630046724",
