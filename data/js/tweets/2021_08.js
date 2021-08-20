@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 20 06:07:09 +0000 2021",
+		"id": 1428593690121887700,
+		"id_str": "1428599464630046724",
+		"full_text": "내 맘엔 효연이가 제일 First💞\n다른 이유들은 Second✌️\n\n📷☞ https://t.co/qhmlRUJsrY\n\n210814 #쇼음악중심 #음중 #효연 #HYO #Second #Feat_BIBI #소녀시대 #GirlsGeneration @GirlsGeneration https://t.co/o5c68KYZ5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						73,
+						79
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "Second",
+					"indices": [
+						93,
+						100
+					]
+				},
+				{
+					"text": "Feat_BIBI",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qhmlRUJsrY",
+					"expanded_url": "http://naver.me/54VGeYHl",
+					"display_url": "naver.me/54VGeYHl",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1428591027183440000,
+					"id_str": "1428591027183439872",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Nf-GCUUAAWaTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Nf-GCUUAAWaTP.jpg",
+					"url": "https://t.co/o5c68KYZ5R",
+					"display_url": "pic.twitter.com/o5c68KYZ5R",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1428593690121887748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1428591027183440000,
+					"id_str": "1428591027183439872",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E9Nf-GCUUAAWaTP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9Nf-GCUUAAWaTP.jpg",
+					"url": "https://t.co/o5c68KYZ5R",
+					"display_url": "pic.twitter.com/o5c68KYZ5R",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1428593690121887748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428591115670753300,
+					"id_str": "1428591115670753286",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E9NgDPrVkAYcPas.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9NgDPrVkAYcPas.jpg",
+					"url": "https://t.co/o5c68KYZ5R",
+					"display_url": "pic.twitter.com/o5c68KYZ5R",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1428593690121887748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1379,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1428591126320013300,
+					"id_str": "1428591126320013316",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/E9NgD3WUYAQ8mS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9NgD3WUYAQ8mS9.jpg",
+					"url": "https://t.co/o5c68KYZ5R",
+					"display_url": "pic.twitter.com/o5c68KYZ5R",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1428593690121887748/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 808,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1379,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 458,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 899967,
+			"friends_count": 6,
+			"listed_count": 927,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 229,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "내 맘엔 효연이가 제일 First💞\n다른 이유들은 Second✌️\n\n📷☞ https://t.co/qhmlRUJsrY\n\n210814 #쇼음악중심 #음중 #효연 #HYO #Second #Feat_BIBI #소녀시대 #GirlsGeneration @GirlsGeneration https://t.co/o5c68KYZ5R"
+	},
+	{
 		"created_at": "Fri Aug 20 05:07:08 +0000 2021",
 		"id": 1428582566605607000,
 		"id_str": "1428584364250644480",
