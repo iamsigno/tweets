@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 21 12:07:09 +0000 2021",
+		"id": 1429052410509492200,
+		"id_str": "1429052449214681089",
+		"full_text": "📢 S♡NE ชาวไทยห้ามพลาด! กับการมาร่วมสนุก #SMTruexTruePoint จนถึง 31 ส.ค. 64 เท่านั้น!\n\n🎁 ลุ้นเป็นผู้โชคดีที่จะได้รับ ❝ มินิอัลบั้ม ‘What Do I Call You’ พร้อมลายเซ็น #TAEYEON ❞ ทั้งหมด 1 รางวัล \n\n👉 คลิกใช้ทรูพอยท์ https://t.co/RWy5LkcnnQ\n\n💗 รายละเอียด https://t.co/CH6LWNViV8 https://t.co/9fpSrKZuuj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTruexTruePoint",
+					"indices": [
+						40,
+						57
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						164,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RWy5LkcnnQ",
+					"expanded_url": "https://trueid.onelink.me/ln4U/e99016df",
+					"display_url": "trueid.onelink.me/ln4U/e99016df",
+					"indices": [
+						212,
+						235
+					]
+				},
+				{
+					"url": "https://t.co/CH6LWNViV8",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/4303250999722815",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1429050948245065700,
+					"id_str": "1429050948245065732",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E9UCRBgVEAQ2AzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9UCRBgVEAQ2AzF.jpg",
+					"url": "https://t.co/9fpSrKZuuj",
+					"display_url": "pic.twitter.com/9fpSrKZuuj",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1429052410509492236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1429050948245065700,
+					"id_str": "1429050948245065732",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E9UCRBgVEAQ2AzF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9UCRBgVEAQ2AzF.jpg",
+					"url": "https://t.co/9fpSrKZuuj",
+					"display_url": "pic.twitter.com/9fpSrKZuuj",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1429052410509492236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1100,
+							"h": 620,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85844,
+			"friends_count": 48,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "📢 S♡NE ชาวไทยห้ามพลาด! กับการมาร่วมสนุก #SMTruexTruePoint จนถึง 31 ส.ค. 64 เท่านั้น!\n\n🎁 ลุ้นเป็นผู้โชคดีที่จะได้รับ ❝ มินิอัลบั้ม ‘What Do I Call You’ พร้อมลายเซ็น #TAEYEON ❞ ทั้งหมด 1 รางวัล \n\n👉 คลิกใช้ทรูพอยท์ https://t.co/RWy5LkcnnQ\n\n💗 รายละเอียด https://t.co/CH6LWNViV8 https://t.co/9fpSrKZuuj"
+	},
+	{
 		"created_at": "Fri Aug 20 13:07:09 +0000 2021",
 		"id": 1428703407901003800,
 		"id_str": "1428705161552269318",
