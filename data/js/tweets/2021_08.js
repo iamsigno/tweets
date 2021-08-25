@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 03:07:08 +0000 2021",
+		"id": 1430351723776942000,
+		"id_str": "1430366104619204613",
+		"full_text": "[#NEWS] 김희철·태연·홍현희·강기영, 반려견과 여행…'펫키지' 첫방 D-1\n▶ https://t.co/mlZ0th96mu\n\n#강기영 #펫키지 #KANGKIYOUNG #Petkage https://t.co/L4Fx1342xQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "강기영",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "펫키지",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "KANGKIYOUNG",
+					"indices": [
+						82,
+						94
+					]
+				},
+				{
+					"text": "Petkage",
+					"indices": [
+						95,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mlZ0th96mu",
+					"expanded_url": "http://naver.me/xKQcMGb8",
+					"display_url": "naver.me/xKQcMGb8",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430343095338475500,
+					"id_str": "1430343095338475521",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E9mZd4iVIAE265k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9mZd4iVIAE265k.jpg",
+					"url": "https://t.co/L4Fx1342xQ",
+					"display_url": "pic.twitter.com/L4Fx1342xQ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1430351723776942080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 658,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 914,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430343095338475500,
+					"id_str": "1430343095338475521",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/E9mZd4iVIAE265k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9mZd4iVIAE265k.jpg",
+					"url": "https://t.co/L4Fx1342xQ",
+					"display_url": "pic.twitter.com/L4Fx1342xQ",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1430351723776942080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 658,
+							"h": 914,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 658,
+							"h": 914,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50701,
+			"friends_count": 13,
+			"listed_count": 249,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 김희철·태연·홍현희·강기영, 반려견과 여행…'펫키지' 첫방 D-1\n▶ https://t.co/mlZ0th96mu\n\n#강기영 #펫키지 #KANGKIYOUNG #Petkage https://t.co/L4Fx1342xQ"
+	},
+	{
 		"created_at": "Tue Aug 24 07:07:09 +0000 2021",
 		"id": 1430049873412251600,
 		"id_str": "1430064115414970384",
