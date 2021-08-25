@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 25 09:07:08 +0000 2021",
+		"id": 1430454903479050200,
+		"id_str": "1430456701648613379",
+		"full_text": "[전설의 연습생] 상암동 레전드! 15년차 연습생 순규! ㄴ상상도 못한 정체ㄱ 大.공.개.\n\n비주얼, 노래, 춤, 예능감 모든 것이 갓.벽.하지만! \n데뷔‘만’ 못 하는 연습생계의 레전드!\n📽️https://t.co/HIQja6PQOa\n\n#소녀시대 #써니 \n#전설의연습생 #순규 \n#SF9 #영빈 #유태양\n#위키미키 #최유정\n#더보이즈 https://t.co/LGPPkzetoK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "전설의연습생",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "영빈",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "유태양",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "위키미키",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "최유정",
+					"indices": [
+						177,
+						181
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HIQja6PQOa",
+					"expanded_url": "https://youtu.be/GEtvXXC3H4E",
+					"display_url": "youtu.be/GEtvXXC3H4E",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430449503300063200,
+					"id_str": "1430449503300063233",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E9n6PpFVkAEQZuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9n6PpFVkAEQZuO.jpg",
+					"url": "https://t.co/LGPPkzetoK",
+					"display_url": "pic.twitter.com/LGPPkzetoK",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1430454903479050243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430449503300063200,
+					"id_str": "1430449503300063233",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/E9n6PpFVkAEQZuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9n6PpFVkAEQZuO.jpg",
+					"url": "https://t.co/LGPPkzetoK",
+					"display_url": "pic.twitter.com/LGPPkzetoK",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1430454903479050243/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85030,
+			"friends_count": 338,
+			"listed_count": 319,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1629680523",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 상암동 레전드! 15년차 연습생 순규! ㄴ상상도 못한 정체ㄱ 大.공.개.\n\n비주얼, 노래, 춤, 예능감 모든 것이 갓.벽.하지만! \n데뷔‘만’ 못 하는 연습생계의 레전드!\n📽️https://t.co/HIQja6PQOa\n\n#소녀시대 #써니 \n#전설의연습생 #순규 \n#SF9 #영빈 #유태양\n#위키미키 #최유정\n#더보이즈 https://t.co/LGPPkzetoK"
+	},
+	{
 		"created_at": "Wed Aug 25 03:07:08 +0000 2021",
 		"id": 1430351723776942000,
 		"id_str": "1430366104619204613",
