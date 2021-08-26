@@ -1,6 +1,145 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 04:07:13 +0000 2021",
+		"id": 1430730897486082000,
+		"id_str": "1430743612497743872",
+		"full_text": "KWON YURI participates in ‘W KOREA’’s Greenpeace 50th anniversary project pictorial! \n“It’s very meaningful to me to be part of this environmental campaign” \n\n#KWONYURI #권유리\n#유리 #YURI \n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						174,
+						177
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						185,
+						190
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						191,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1430730891207221200,
+		"in_reply_to_status_id_str": "1430730891207221251",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3664792,
+			"friends_count": 4,
+			"listed_count": 5513,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 275,
+		"favorite_count": 1016,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "KWON YURI participates in ‘W KOREA’’s Greenpeace 50th anniversary project pictorial! \n“It’s very meaningful to me to be part of this environmental campaign” \n\n#KWONYURI #권유리\n#유리 #YURI \n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Aug 26 02:07:09 +0000 2021",
 		"id": 1430711599791186000,
 		"id_str": "1430713393602732032",
