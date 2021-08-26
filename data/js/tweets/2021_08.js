@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 08:07:16 +0000 2021",
+		"id": 1430802197126783000,
+		"id_str": "1430804020134821891",
+		"full_text": "#반려견 과 함께 떠나는 \nPET키지 첫 여행💓\n\n여행을 통해 \n최고의 펫 가이더를 선정한다🔥\n\n댕댕이들에 의한🐶\n댕댕이들만을 위한🐶\n그들만의 개취존중 펫키지!\n\n▶️오늘 밤 10시 30분\n &lt;#펫키지&gt; 본방사수🐶\n#김희철 #태연 #홍현희 #강기영 https://t.co/zldrjSwiLM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "반려견",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "펫키지",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "홍현희",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "강기영",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430689487160418300,
+					"id_str": "1430689487160418304",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E9rU_LFVoAAKRgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9rU_LFVoAAKRgM.jpg",
+					"url": "https://t.co/zldrjSwiLM",
+					"display_url": "pic.twitter.com/zldrjSwiLM",
+					"expanded_url": "https://twitter.com/jtbclove/status/1430802197126782977/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430689487160418300,
+					"id_str": "1430689487160418304",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/E9rU_LFVoAAKRgM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9rU_LFVoAAKRgM.jpg",
+					"url": "https://t.co/zldrjSwiLM",
+					"display_url": "pic.twitter.com/zldrjSwiLM",
+					"expanded_url": "https://twitter.com/jtbclove/status/1430802197126782977/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1430689487160418304/pl/qhR3ZzCoTfTEI5K2.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1430689487160418304/vid/480x270/3VVfQ-jdc2p_zYH9.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1430689487160418304/vid/640x360/lXZriRKIIv8irJ3a.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1430689487160418304/vid/1280x720/cLciVyPdo3iVBcef.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[펫키지] 1회 예고 ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/watch?v=_nm8qA-1CKM"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 454926,
+			"friends_count": 111,
+			"listed_count": 1,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1623634158",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#반려견 과 함께 떠나는 \nPET키지 첫 여행💓\n\n여행을 통해 \n최고의 펫 가이더를 선정한다🔥\n\n댕댕이들에 의한🐶\n댕댕이들만을 위한🐶\n그들만의 개취존중 펫키지!\n\n▶️오늘 밤 10시 30분\n &lt;#펫키지&gt; 본방사수🐶\n#김희철 #태연 #홍현희 #강기영 https://t.co/zldrjSwiLM"
+	},
+	{
 		"created_at": "Thu Aug 26 06:07:28 +0000 2021",
 		"id": 1430713898139742200,
 		"id_str": "1430773872811520003",
