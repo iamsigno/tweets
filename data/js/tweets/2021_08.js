@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 14:07:09 +0000 2021",
+		"id": 1430893962265391000,
+		"id_str": "1430894589594931200",
+		"full_text": "เพลงใหม่ ‘Hate that…’ ของ #KEY จะมีโวคอลควีน #TAEYEON มาร่วมร้อง!\n\nเตรียมนำเสนอการประสานเสียงที่สมบูรณ์แบบของ ‘TAENGKEY’ และเคมีสุดเข้ากันของเสียงร้องที่ท่วมท้นไปด้วยอารมณ์อ่อนไหว!\n\nhttps://t.co/2mljo0Be83\n\n#키 #SHINee #샤이니\n#KEY_HateThat #HateThat\n#태연 #GirlsGeneration https://t.co/PyJjVhJcEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						26,
+						30
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						45,
+						53
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						207,
+						209
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						210,
+						217
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						218,
+						222
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						223,
+						236
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						237,
+						246
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						247,
+						250
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						251,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2mljo0Be83",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/4318399331541315",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430892917170655200,
+					"id_str": "1430892917170655252",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E9uNhueUUBQ_CNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9uNhueUUBQ_CNC.jpg",
+					"url": "https://t.co/PyJjVhJcEH",
+					"display_url": "pic.twitter.com/PyJjVhJcEH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1430893962265391115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1499,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430892917170655200,
+					"id_str": "1430892917170655252",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E9uNhueUUBQ_CNC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9uNhueUUBQ_CNC.jpg",
+					"url": "https://t.co/PyJjVhJcEH",
+					"display_url": "pic.twitter.com/PyJjVhJcEH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1430893962265391115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1499,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1430892930382717000,
+					"id_str": "1430892930382716933",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E9uNifsUYAUH30g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9uNifsUYAUH30g.jpg",
+					"url": "https://t.co/PyJjVhJcEH",
+					"display_url": "pic.twitter.com/PyJjVhJcEH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1430893962265391115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86066,
+			"friends_count": 48,
+			"listed_count": 155,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "เพลงใหม่ ‘Hate that…’ ของ #KEY จะมีโวคอลควีน #TAEYEON มาร่วมร้อง!\n\nเตรียมนำเสนอการประสานเสียงที่สมบูรณ์แบบของ ‘TAENGKEY’ และเคมีสุดเข้ากันของเสียงร้องที่ท่วมท้นไปด้วยอารมณ์อ่อนไหว!\n\nhttps://t.co/2mljo0Be83\n\n#키 #SHINee #샤이니\n#KEY_HateThat #HateThat\n#태연 #GirlsGeneration https://t.co/PyJjVhJcEH"
+	},
+	{
 		"created_at": "Thu Aug 26 10:07:08 +0000 2021",
 		"id": 1430827912047960000,
 		"id_str": "1430834189012774921",
