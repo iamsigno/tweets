@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Fri Aug 27 09:07:09 +0000 2021",
+		"id": 1431179687242485800,
+		"id_str": "1431181477841154053",
+		"full_text": "[전설의 연습생] 두근두근… 처음 만날 선배님은?! 떴다! 💕슈퍼주니어💕\n\n⭐전설의 연습생 순규⭐\n순규의 데뷔’각’을 세우기 위해 \n월.클.아.이.돌.🏆슈퍼주니어🏆 은혁X려욱이 왔다❗❗\n📽️https://t.co/ycQv5SDvSD\n\n#전설의연습생 #소녀시대 #써니\n#슈퍼주니어 #SUPERJUNIOR #은혁 #려욱 https://t.co/xNGV25A6F9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						149,
+						155
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						156,
+						168
+					]
+				},
+				{
+					"text": "은혁",
+					"indices": [
+						169,
+						172
+					]
+				},
+				{
+					"text": "려욱",
+					"indices": [
+						173,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ycQv5SDvSD",
+					"expanded_url": "https://youtu.be/yiBZU-r7BvU",
+					"display_url": "youtu.be/yiBZU-r7BvU",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1431078944187437000,
+					"id_str": "1431078944187437057",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E9w2t7HVUAE1o0p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9w2t7HVUAE1o0p.jpg",
+					"url": "https://t.co/xNGV25A6F9",
+					"display_url": "pic.twitter.com/xNGV25A6F9",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1431179687242485762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1431078944187437000,
+					"id_str": "1431078944187437057",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/E9w2t7HVUAE1o0p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9w2t7HVUAE1o0p.jpg",
+					"url": "https://t.co/xNGV25A6F9",
+					"display_url": "pic.twitter.com/xNGV25A6F9",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1431179687242485762/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85463,
+			"friends_count": 338,
+			"listed_count": 321,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7900,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1629680523",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 두근두근… 처음 만날 선배님은?! 떴다! 💕슈퍼주니어💕\n\n⭐전설의 연습생 순규⭐\n순규의 데뷔’각’을 세우기 위해 \n월.클.아.이.돌.🏆슈퍼주니어🏆 은혁X려욱이 왔다❗❗\n📽️https://t.co/ycQv5SDvSD\n\n#전설의연습생 #소녀시대 #써니\n#슈퍼주니어 #SUPERJUNIOR #은혁 #려욱 https://t.co/xNGV25A6F9"
+	},
+	{
 		"created_at": "Thu Aug 26 14:07:09 +0000 2021",
 		"id": 1430893962265391000,
 		"id_str": "1430894589594931200",
