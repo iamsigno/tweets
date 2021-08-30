@@ -1,6 +1,170 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 30 11:07:12 +0000 2021",
+		"id": 1432292930719342600,
+		"id_str": "1432298853844328451",
+		"full_text": "KEY 키 'Hate that... (Feat. 태연)' \n\n🎧Listen now on your favorite platform\n🔗 https://t.co/CqYi6xF4TQ \n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						105,
+						107
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						116,
+						120
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						135,
+						148
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						149,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CqYi6xF4TQ",
+					"expanded_url": "https://smarturl.it/KEY_Hatethat",
+					"display_url": "smarturl.it/KEY_Hatethat",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "KEY 키 Pre-release Single ‘Hate that…’",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2080480,
+			"friends_count": 2,
+			"listed_count": 5365,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1629730807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2571,
+		"favorite_count": 5202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KEY 키 'Hate that... (Feat. 태연)' \n\n🎧Listen now on your favorite platform\n🔗 https://t.co/CqYi6xF4TQ \n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat"
+	},
+	{
 		"created_at": "Mon Aug 30 10:07:14 +0000 2021",
 		"id": 1432270097695928300,
 		"id_str": "1432283764231712768",
