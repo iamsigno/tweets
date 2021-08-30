@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 30 06:07:08 +0000 2021",
+		"id": 1432221423657832400,
+		"id_str": "1432223342463967233",
+		"full_text": "#KEY วง SHINee จะปล่อยเพลงใหม่และ MV ‘Hate that… (Feat. #TAEYEON)’ ในวันนี้ เวลาไทย 16.00 น.!\n\nhttps://t.co/wRkxJOPA1J\n\nโดยก่อนเพลงปล่อยนั้น KEY จะมาไลฟ์นับถอยหลังทาง https://t.co/pH7sjC0cml ในเวลาไทย 15.00 น. รอติดตามกันนะคะ~\n\n#키 #SHINee #샤이니 #태연 \n#KEY_HateThat #HateThat https://t.co/dOAaFQOfB2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						56,
+						64
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						228,
+						230
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						231,
+						238
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						239,
+						243
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						244,
+						247
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						249,
+						262
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						263,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wRkxJOPA1J",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/4329265783788003",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						95,
+						118
+					]
+				},
+				{
+					"url": "https://t.co/pH7sjC0cml",
+					"expanded_url": "http://vlive.tv/video/260531",
+					"display_url": "vlive.tv/video/260531",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432220266914979800,
+					"id_str": "1432220266914979840",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BEvpmVIAANMwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BEvpmVIAANMwU.jpg",
+					"url": "https://t.co/dOAaFQOfB2",
+					"display_url": "pic.twitter.com/dOAaFQOfB2",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1432221423657832448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 826,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432220266914979800,
+					"id_str": "1432220266914979840",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BEvpmVIAANMwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BEvpmVIAANMwU.jpg",
+					"url": "https://t.co/dOAaFQOfB2",
+					"display_url": "pic.twitter.com/dOAaFQOfB2",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1432221423657832448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 826,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1432220286020034600,
+					"id_str": "1432220286020034561",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BEwwxVIAE-HFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BEwwxVIAE-HFf.jpg",
+					"url": "https://t.co/dOAaFQOfB2",
+					"display_url": "pic.twitter.com/dOAaFQOfB2",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1432221423657832448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86093,
+			"friends_count": 48,
+			"listed_count": 155,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#KEY วง SHINee จะปล่อยเพลงใหม่และ MV ‘Hate that… (Feat. #TAEYEON)’ ในวันนี้ เวลาไทย 16.00 น.!\n\nhttps://t.co/wRkxJOPA1J\n\nโดยก่อนเพลงปล่อยนั้น KEY จะมาไลฟ์นับถอยหลังทาง https://t.co/pH7sjC0cml ในเวลาไทย 15.00 น. รอติดตามกันนะคะ~\n\n#키 #SHINee #샤이니 #태연 \n#KEY_HateThat #HateThat https://t.co/dOAaFQOfB2"
+	},
+	{
 		"created_at": "Mon Aug 30 04:07:09 +0000 2021",
 		"id": 1432172702912057300,
 		"id_str": "1432193144850878469",
