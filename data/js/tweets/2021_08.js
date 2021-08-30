@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 30 07:07:08 +0000 2021",
+		"id": 1432226413910769700,
+		"id_str": "1432238442004504580",
+		"full_text": "KEY Rilis Single ‘Hate that… (Feat. TAEYEON) Sore Ini\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/ONFqtWE5lu\n\n@SHINee #SHINee #KEY #TAEYEON https://t.co/v2nq39k7Jg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHINee",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						170,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ONFqtWE5lu",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/879686029315079/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432226406679728000,
+					"id_str": "1432226406679728132",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BKVCAUUAQXHA_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BKVCAUUAQXHA_.jpg",
+					"url": "https://t.co/v2nq39k7Jg",
+					"display_url": "pic.twitter.com/v2nq39k7Jg",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1432226413910769665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 826,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432226406679728000,
+					"id_str": "1432226406679728132",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BKVCAUUAQXHA_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BKVCAUUAQXHA_.jpg",
+					"url": "https://t.co/v2nq39k7Jg",
+					"display_url": "pic.twitter.com/v2nq39k7Jg",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1432226413910769665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1033,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 468,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 826,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1432226406692315100,
+					"id_str": "1432226406692315146",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BKVCDUYAoq6GE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BKVCDUYAoq6GE.jpg",
+					"url": "https://t.co/v2nq39k7Jg",
+					"display_url": "pic.twitter.com/v2nq39k7Jg",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1432226413910769665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 664389,
+			"friends_count": 34,
+			"listed_count": 432,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 500,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "KEY Rilis Single ‘Hate that… (Feat. TAEYEON) Sore Ini\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/ONFqtWE5lu\n\n@SHINee #SHINee #KEY #TAEYEON https://t.co/v2nq39k7Jg"
+	},
+	{
 		"created_at": "Mon Aug 30 06:07:08 +0000 2021",
 		"id": 1432221423657832400,
 		"id_str": "1432223342463967233",
