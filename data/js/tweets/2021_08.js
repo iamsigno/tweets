@@ -1,6 +1,419 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 30 09:07:21 +0000 2021",
+		"id": 1432267295213056000,
+		"id_str": "1432268693220773890",
+		"full_text": "KEY 키 'Hate that... (Feat. 태연)' MV\n\nhttps://t.co/Wd6s6rU4af\n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						66,
+						68
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						96,
+						109
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wd6s6rU4af",
+					"expanded_url": "https://youtu.be/sz2Dmo1_BjM",
+					"display_url": "youtu.be/sz2Dmo1_BjM",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "KEY 키 Pre-release Single ‘Hate that…’",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2080316,
+			"friends_count": 2,
+			"listed_count": 5363,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1963,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1629730807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5310,
+		"favorite_count": 6134,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "KEY 키 'Hate that... (Feat. 태연)' MV\n\nhttps://t.co/Wd6s6rU4af\n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat"
+	},
+	{
+		"created_at": "Mon Aug 30 09:07:18 +0000 2021",
+		"id": 1432266843163488300,
+		"id_str": "1432268680155574272",
+		"full_text": "[전설의 연습생] ♩♪ 다시 만난 트윈스(Twins) ♬ 연습실에 강림하신 💕슈퍼주니어💕 은혁X려욱\n\n🎊최초공개🎊 엘프도 몰랐던 슈주의 데뷔 꿀TIP!! \n\"SM을 뒤집어 놓으셨다…!\"\n📽️https://t.co/gv0saP0N1m\n\n#전설의연습생  #슈퍼주니어\n#SUPERJUNIOR #은혁 #려욱 \n#소녀시대 #SNSD #써니 #ALLTHEKPOP https://t.co/YFJMjXJsKN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						140,
+						146
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						147,
+						159
+					]
+				},
+				{
+					"text": "은혁",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "려욱",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						185,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gv0saP0N1m",
+					"expanded_url": "https://youtu.be/mdJEt0eDqww",
+					"display_url": "youtu.be/mdJEt0eDqww",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432262346773131300,
+					"id_str": "1432262346773131267",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BrBBSUcAMZlt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BrBBSUcAMZlt2.jpg",
+					"url": "https://t.co/YFJMjXJsKN",
+					"display_url": "pic.twitter.com/YFJMjXJsKN",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432266843163488265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432262346773131300,
+					"id_str": "1432262346773131267",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BrBBSUcAMZlt2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BrBBSUcAMZlt2.jpg",
+					"url": "https://t.co/YFJMjXJsKN",
+					"display_url": "pic.twitter.com/YFJMjXJsKN",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432266843163488265/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86169,
+			"friends_count": 338,
+			"listed_count": 324,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7552,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630281527",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] ♩♪ 다시 만난 트윈스(Twins) ♬ 연습실에 강림하신 💕슈퍼주니어💕 은혁X려욱\n\n🎊최초공개🎊 엘프도 몰랐던 슈주의 데뷔 꿀TIP!! \n\"SM을 뒤집어 놓으셨다…!\"\n📽️https://t.co/gv0saP0N1m\n\n#전설의연습생  #슈퍼주니어\n#SUPERJUNIOR #은혁 #려욱 \n#소녀시대 #SNSD #써니 #ALLTHEKPOP https://t.co/YFJMjXJsKN"
+	},
+	{
 		"created_at": "Mon Aug 30 07:07:08 +0000 2021",
 		"id": 1432226413910769700,
 		"id_str": "1432238442004504580",
