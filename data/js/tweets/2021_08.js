@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 30 10:07:14 +0000 2021",
+		"id": 1432270097695928300,
+		"id_str": "1432283764231712768",
+		"full_text": "KEY 키 'Hate that... (Feat. 태연)' \n\n🎧Melon : https://t.co/5oJ2MJpl3d \n🎧FLO : https://t.co/GSoTNGaAJk \n🎧genie : https://t.co/JS3Z5SEHYp \n🎧VIBE : https://t.co/AnntQqEpRg \n🎧Bugs : https://t.co/4DnGStCeqq \n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						201,
+						205
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						206,
+						208
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						209,
+						216
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						217,
+						221
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						222,
+						230
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						231,
+						234
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						236,
+						249
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						250,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5oJ2MJpl3d",
+					"expanded_url": "https://bit.ly/38ti3Io",
+					"display_url": "bit.ly/38ti3Io",
+					"indices": [
+						43,
+						66
+					]
+				},
+				{
+					"url": "https://t.co/GSoTNGaAJk",
+					"expanded_url": "https://bit.ly/3zvvzqW",
+					"display_url": "bit.ly/3zvvzqW",
+					"indices": [
+						75,
+						98
+					]
+				},
+				{
+					"url": "https://t.co/JS3Z5SEHYp",
+					"expanded_url": "https://bit.ly/2WttFZn",
+					"display_url": "bit.ly/2WttFZn",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/AnntQqEpRg",
+					"expanded_url": "https://bit.ly/38o7FSl",
+					"display_url": "bit.ly/38o7FSl",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/4DnGStCeqq",
+					"expanded_url": "https://bit.ly/2XZYXrs",
+					"display_url": "bit.ly/2XZYXrs",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "KEY 키 Pre-release Single ‘Hate that…’",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2080430,
+			"friends_count": 2,
+			"listed_count": 5364,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1629730807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5357,
+		"favorite_count": 8634,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KEY 키 'Hate that... (Feat. 태연)' \n\n🎧Melon : https://t.co/5oJ2MJpl3d \n🎧FLO : https://t.co/GSoTNGaAJk \n🎧genie : https://t.co/JS3Z5SEHYp \n🎧VIBE : https://t.co/AnntQqEpRg \n🎧Bugs : https://t.co/4DnGStCeqq \n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat"
+	},
+	{
+		"created_at": "Mon Aug 30 10:07:11 +0000 2021",
+		"id": 1432270560872984600,
+		"id_str": "1432283750767992839",
+		"full_text": "KEY 키 'Hate that... (Feat. 태연)' MV\n🎬 https://t.co/4YBHU0TYlQ\n\nแฟนเพลงชาวไทยสามารถฟัง ซิงเกิลใหม่ 'Hate that... (Feat. 태연)' ของ KEY ได้ทาง;\n\nJOOX\n🎧 https://t.co/EtGpUvLJ09\n\nอื่น ๆ\n🎧 https://t.co/SibkSGwCn6\n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat https://t.co/TVfSQrTAq1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						206,
+						210
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						211,
+						213
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						214,
+						221
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						222,
+						226
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						227,
+						235
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						236,
+						239
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						241,
+						254
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						255,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4YBHU0TYlQ",
+					"expanded_url": "https://youtu.be/sz2Dmo1_BjM",
+					"display_url": "youtu.be/sz2Dmo1_BjM",
+					"indices": [
+						37,
+						60
+					]
+				},
+				{
+					"url": "https://t.co/EtGpUvLJ09",
+					"expanded_url": "http://open.joox.com/s/rd?k=m9eR8",
+					"display_url": "open.joox.com/s/rd?k=m9eR8",
+					"indices": [
+						147,
+						170
+					]
+				},
+				{
+					"url": "https://t.co/SibkSGwCn6",
+					"expanded_url": "http://smarturl.it/KEY_Hatethat",
+					"display_url": "smarturl.it/KEY_Hatethat",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432270339615051800,
+					"id_str": "1432270339615051777",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BySQ8VUAEVQ4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BySQ8VUAEVQ4d.jpg",
+					"url": "https://t.co/TVfSQrTAq1",
+					"display_url": "pic.twitter.com/TVfSQrTAq1",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1432270560872984581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432270339615051800,
+					"id_str": "1432270339615051777",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/E-BySQ8VUAEVQ4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-BySQ8VUAEVQ4d.jpg",
+					"url": "https://t.co/TVfSQrTAq1",
+					"display_url": "pic.twitter.com/TVfSQrTAq1",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1432270560872984581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86105,
+			"friends_count": 48,
+			"listed_count": 155,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8524,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "KEY 키 'Hate that... (Feat. 태연)' MV\n🎬 https://t.co/4YBHU0TYlQ\n\nแฟนเพลงชาวไทยสามารถฟัง ซิงเกิลใหม่ 'Hate that... (Feat. 태연)' ของ KEY ได้ทาง;\n\nJOOX\n🎧 https://t.co/EtGpUvLJ09\n\nอื่น ๆ\n🎧 https://t.co/SibkSGwCn6\n\n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연 \n#KEY_HateThat #HateThat https://t.co/TVfSQrTAq1"
+	},
+	{
 		"created_at": "Mon Aug 30 09:07:21 +0000 2021",
 		"id": 1432267295213056000,
 		"id_str": "1432268693220773890",
