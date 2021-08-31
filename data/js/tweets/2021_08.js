@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 31 06:07:09 +0000 2021",
+		"id": 1432560237857296400,
+		"id_str": "1432585731017515013",
+		"full_text": "#KEY is the cover artist of the \"K-Pop Daebak\" playlist on #Spotify !\n \nCheck this link and listen to KEY's new single 'Hate that… (Feat. TAEYEON)' now:\n \n🎵 https://t.co/HfkIfBP5EX\n \n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연\n#KEY_HateThat #HateThat\n@SpotifyKDaebak @SpotifyKR https://t.co/ioIKRUUILB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						188,
+						190
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						204,
+						212
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						213,
+						216
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						217,
+						230
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						231,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKDaebak",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						241,
+						256
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						257,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HfkIfBP5EX",
+					"expanded_url": "https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1?si=8aZ5QyvWR1iG2pDNSBzvEQ&utm_source=copy-link&dl_branch=1&nd=1",
+					"display_url": "open.spotify.com/playlist/37i9d…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432560182463066000,
+					"id_str": "1432560182463066114",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E-F55VsUcAIq6zB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-F55VsUcAIq6zB.jpg",
+					"url": "https://t.co/ioIKRUUILB",
+					"display_url": "pic.twitter.com/ioIKRUUILB",
+					"expanded_url": "https://twitter.com/SHINee/status/1432560237857296387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432560182463066000,
+					"id_str": "1432560182463066114",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/E-F55VsUcAIq6zB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-F55VsUcAIq6zB.jpg",
+					"url": "https://t.co/ioIKRUUILB",
+					"display_url": "pic.twitter.com/ioIKRUUILB",
+					"expanded_url": "https://twitter.com/SHINee/status/1432560237857296387/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "KEY 키 Pre-release Single ‘Hate that…’",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2081254,
+			"friends_count": 2,
+			"listed_count": 5371,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429820747787079680/jUQFbhCL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1629730807",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3085,
+		"favorite_count": 8115,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KEY is the cover artist of the \"K-Pop Daebak\" playlist on #Spotify !\n \nCheck this link and listen to KEY's new single 'Hate that… (Feat. TAEYEON)' now:\n \n🎵 https://t.co/HfkIfBP5EX\n \n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연\n#KEY_HateThat #HateThat\n@SpotifyKDaebak @SpotifyKR https://t.co/ioIKRUUILB"
+	},
+	{
 		"created_at": "Mon Aug 30 11:07:12 +0000 2021",
 		"id": 1432292930719342600,
 		"id_str": "1432298853844328451",
