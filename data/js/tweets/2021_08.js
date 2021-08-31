@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 31 13:07:09 +0000 2021",
+		"id": 1432678923758751700,
+		"id_str": "1432691427188826115",
+		"full_text": "💎 #KEY พาเพลงใหม่ ‘#HateThat...’ เป็นที่นิยมในระดับโลก\n\n👏 คว้าอันดับ 1 บนชาร์ตเพลงในเกาหลี รวมถึงชาร์ต Top Songs ของ iTunes กว่า 10 ประเทศทั่วโลก!\n\n🎬MV https://t.co/4YBHU0TYlQ\n🎧https://t.co/EtGpUvLJ09\n🎧https://t.co/SibkSGwCn6\n\n#키 #SHINee #샤이니\n#TAEYEON #태연\n#KEY_HateThat https://t.co/oA8ZUAdRM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						2,
+						6
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						227,
+						229
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						230,
+						237
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						238,
+						242
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						243,
+						251
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						252,
+						255
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						256,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4YBHU0TYlQ",
+					"expanded_url": "https://youtu.be/sz2Dmo1_BjM",
+					"display_url": "youtu.be/sz2Dmo1_BjM",
+					"indices": [
+						152,
+						175
+					]
+				},
+				{
+					"url": "https://t.co/EtGpUvLJ09",
+					"expanded_url": "http://open.joox.com/s/rd?k=m9eR8",
+					"display_url": "open.joox.com/s/rd?k=m9eR8",
+					"indices": [
+						177,
+						200
+					]
+				},
+				{
+					"url": "https://t.co/SibkSGwCn6",
+					"expanded_url": "http://smarturl.it/KEY_Hatethat",
+					"display_url": "smarturl.it/KEY_Hatethat",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432667936477433900,
+					"id_str": "1432667936477433868",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/E-HdI-MUYAgixW_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-HdI-MUYAgixW_.jpg",
+					"url": "https://t.co/oA8ZUAdRM6",
+					"display_url": "pic.twitter.com/oA8ZUAdRM6",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1432678923758751747/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432667936477433900,
+					"id_str": "1432667936477433868",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/E-HdI-MUYAgixW_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-HdI-MUYAgixW_.jpg",
+					"url": "https://t.co/oA8ZUAdRM6",
+					"display_url": "pic.twitter.com/oA8ZUAdRM6",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1432678923758751747/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 96972,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1432667936477433868/vid/640x360/_yzmJWlUM3zx87Tm.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1432667936477433868/vid/1280x720/fs0V_XpQC5Q5oXzx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1432667936477433868/pl/lsVoYQajFsLeK5L8.m3u8?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1432667936477433868/vid/480x270/2_lnspQN7zOB7DK8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.facebook.com/smtruethailand/posts/4333050396742875"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86114,
+			"friends_count": 48,
+			"listed_count": 155,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 112,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "💎 #KEY พาเพลงใหม่ ‘#HateThat...’ เป็นที่นิยมในระดับโลก\n\n👏 คว้าอันดับ 1 บนชาร์ตเพลงในเกาหลี รวมถึงชาร์ต Top Songs ของ iTunes กว่า 10 ประเทศทั่วโลก!\n\n🎬MV https://t.co/4YBHU0TYlQ\n🎧https://t.co/EtGpUvLJ09\n🎧https://t.co/SibkSGwCn6\n\n#키 #SHINee #샤이니\n#TAEYEON #태연\n#KEY_HateThat https://t.co/oA8ZUAdRM6"
+	},
+	{
 		"created_at": "Tue Aug 31 09:07:09 +0000 2021",
 		"id": 1432629238234968000,
 		"id_str": "1432631029521649670",
