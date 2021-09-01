@@ -1,6 +1,505 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 01 09:07:19 +0000 2021",
+		"id": 1432991626037579800,
+		"id_str": "1432993459976220676",
+		"full_text": "[전설의 연습생] 현실엔 없는 판타지 선배! ♩♪_우우우~ 우우우~_♬ 💕SF9💕 영빈X유태양\n\n🎊오늘은 영빈X유태양 P.A.R.T.Y🎊\n🚨단독공개🚨 중학생 ‘김영빈’의 ‘힙송’ 따라잡기!!\n📽️https://t.co/yiQpaCzYGP\n\n#전설의연습생 #순규 #SF9 \n#영빈 #유태양 #판타지 \n#소녀시대 #SNSD #써니 #ALLTHEKPOP https://t.co/gEzjT06DPa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						134,
+						141
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "영빈",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "유태양",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "판타지",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						173,
+						178
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						183,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yiQpaCzYGP",
+					"expanded_url": "https://youtu.be/T61By73CXmE",
+					"display_url": "youtu.be/T61By73CXmE",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1432933738602655700,
+					"id_str": "1432933738602655744",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"url": "https://t.co/gEzjT06DPa",
+					"display_url": "pic.twitter.com/gEzjT06DPa",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991626037579783/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432933738602655700,
+					"id_str": "1432933738602655744",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LNpKwVcAAPIL3.jpg",
+					"url": "https://t.co/gEzjT06DPa",
+					"display_url": "pic.twitter.com/gEzjT06DPa",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991626037579783/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86556,
+			"friends_count": 338,
+			"listed_count": 324,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630281527",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 96,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 현실엔 없는 판타지 선배! ♩♪_우우우~ 우우우~_♬ 💕SF9💕 영빈X유태양\n\n🎊오늘은 영빈X유태양 P.A.R.T.Y🎊\n🚨단독공개🚨 중학생 ‘김영빈’의 ‘힙송’ 따라잡기!!\n📽️https://t.co/yiQpaCzYGP\n\n#전설의연습생 #순규 #SF9 \n#영빈 #유태양 #판타지 \n#소녀시대 #SNSD #써니 #ALLTHEKPOP https://t.co/gEzjT06DPa"
+	},
+	{
+		"created_at": "Wed Sep 01 09:07:16 +0000 2021",
+		"id": 1432991624590626800,
+		"id_str": "1432993446885797891",
+		"full_text": "친필 싸인 증정 EVENT\n\n순규의 데뷔’각’을 세우기 위해\n찾아온 섹.시.아.이.콘\n🔥SF9🔥 영빈X유태양❗❗\n\n셒구의 잘못된 초심이 궁금하다면?\n\n&lt;전설의 연습생&gt; 본방 보고 인증하면\n💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP \n@legend__2021\n \n#소녀시대 #써니 #순규 \n#SF9 #영빈 #유태양 https://t.co/yaMGG7IXWx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						124,
+						131
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						132,
+						143
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						171,
+						174
+					]
+				},
+				{
+					"text": "SF9",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "영빈",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "유태양",
+					"indices": [
+						185,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "legend__2021",
+					"name": "전설의 연습생",
+					"id": 1420935562630860800,
+					"id_str": "1420935562630860806",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1432928234400739300,
+					"id_str": "1432928234400739334",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"url": "https://t.co/yaMGG7IXWx",
+					"display_url": "pic.twitter.com/yaMGG7IXWx",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991624590626821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1432928234400739300,
+					"id_str": "1432928234400739334",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-LIoyAVcAYAncI.jpg",
+					"url": "https://t.co/yaMGG7IXWx",
+					"display_url": "pic.twitter.com/yaMGG7IXWx",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1432991624590626821/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "ALL about ID♡L, ALL THE K-POP",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86556,
+			"friends_count": 338,
+			"listed_count": 324,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630281527",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "친필 싸인 증정 EVENT\n\n순규의 데뷔’각’을 세우기 위해\n찾아온 섹.시.아.이.콘\n🔥SF9🔥 영빈X유태양❗❗\n\n셒구의 잘못된 초심이 궁금하다면?\n\n&lt;전설의 연습생&gt; 본방 보고 인증하면\n💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP \n@legend__2021\n \n#소녀시대 #써니 #순규 \n#SF9 #영빈 #유태양 https://t.co/yaMGG7IXWx"
+	},
+	{
 		"created_at": "Wed Sep 01 08:07:09 +0000 2021",
 		"id": 1432972251427606500,
 		"id_str": "1432978318056382467",
