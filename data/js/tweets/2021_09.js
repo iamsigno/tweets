@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 10:07:09 +0000 2021",
+		"id": 1433353921104212000,
+		"id_str": "1433370904659173376",
+		"full_text": "순규의 롤모델!  K-POP 걸그룹의 판도를 뒤바꾼 그녀들! 소녀시대 효연&amp;윤아가 순규의 연습실에 찾아온다!  소녀시대의 모든것을 다 알고 있는 내가 바로 소원?! ⭐올어라운드 레전드 걸그룹 소녀시대⭐ 효연&amp;윤아와 함께 하는 전설의 연습생 랜선 방청객을 모집합니다! https://t.co/6z6c0IQZ3A https://t.co/dgFU7eLicp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6z6c0IQZ3A",
+					"expanded_url": "https://forms.gle/PGwF1LU8kBjm44Z49",
+					"display_url": "forms.gle/PGwF1LU8kBjm44…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1433353830737928200,
+					"id_str": "1433353830737928207",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RLtv6UYA8wWHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RLtv6UYA8wWHN.jpg",
+					"url": "https://t.co/dgFU7eLicp",
+					"display_url": "pic.twitter.com/dgFU7eLicp",
+					"expanded_url": "https://twitter.com/legend__2021/status/1433353921104211969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1433353830737928200,
+					"id_str": "1433353830737928207",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RLtv6UYA8wWHN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RLtv6UYA8wWHN.jpg",
+					"url": "https://t.co/dgFU7eLicp",
+					"display_url": "pic.twitter.com/dgFU7eLicp",
+					"expanded_url": "https://twitter.com/legend__2021/status/1433353921104211969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1433353830742184000,
+					"id_str": "1433353830742183938",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/E-RLtv7VUAIpP8d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-RLtv7VUAIpP8d.jpg",
+					"url": "https://t.co/dgFU7eLicp",
+					"display_url": "pic.twitter.com/dgFU7eLicp",
+					"expanded_url": "https://twitter.com/legend__2021/status/1433353921104211969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1420935562630860800,
+			"id_str": "1420935562630860806",
+			"name": "전설의 연습생",
+			"screen_name": "legend__2021",
+			"location": "",
+			"description": "연습 기간만 15년! 상암동 전설의 연습생 순규와 데뷔 비법을 전수하기 위해 찾아온 월클 아이돌 선배님들! 💖",
+			"url": "https://t.co/mTKpw32vTr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mTKpw32vTr",
+							"expanded_url": "https://instagram.com/__legend21",
+							"display_url": "instagram.com/__legend21",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 532,
+			"friends_count": 9,
+			"listed_count": 2,
+			"created_at": "Fri Jul 30 02:33:42 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 34,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422258249068269587/mIFmrOqL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422258249068269587/mIFmrOqL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 515,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "순규의 롤모델!  K-POP 걸그룹의 판도를 뒤바꾼 그녀들! 소녀시대 효연&amp;윤아가 순규의 연습실에 찾아온다!  소녀시대의 모든것을 다 알고 있는 내가 바로 소원?! ⭐올어라운드 레전드 걸그룹 소녀시대⭐ 효연&amp;윤아와 함께 하는 전설의 연습생 랜선 방청객을 모집합니다! https://t.co/6z6c0IQZ3A https://t.co/dgFU7eLicp"
+	},
+	{
 		"created_at": "Thu Sep 02 05:44:56 +0000 2021",
 		"id": 1433298771434037200,
 		"id_str": "1433304919499550720",
