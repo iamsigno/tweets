@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 03:07:09 +0000 2021",
+		"id": 1434347728037765000,
+		"id_str": "1434352371736453121",
+		"full_text": "✨윤아&amp;박정민✨님이 내리실 역은 #정희, 정희역입니다🚃\n영화 #기적 배우들  윤아, 박정민과 정희에서 기적 같은 시간을 만들어요🤍\n\n📻#정오의희망곡 김신영입니다\n✔보이는 라디오는\n✔9월 6일 월요일 오후 1시부터\n✔#봉춘라디오 채널에서 스트리밍됩니다!\n많관부🙏\n\n#윤아 #박정민  #유튜브라이브 https://t.co/15NVEjRUsS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정희",
+					"indices": [
+						22,
+						25
+					]
+				},
+				{
+					"text": "기적",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						79,
+						86
+					]
+				},
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "박정민",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "유튜브라이브",
+					"indices": [
+						161,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434347004818116600,
+					"id_str": "1434347004818116613",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E-fTAFrUUAUxBDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-fTAFrUUAUxBDj.jpg",
+					"url": "https://t.co/15NVEjRUsS",
+					"display_url": "pic.twitter.com/15NVEjRUsS",
+					"expanded_url": "https://twitter.com/radiombc/status/1434347728037765120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434347004818116600,
+					"id_str": "1434347004818116613",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/E-fTAFrUUAUxBDj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-fTAFrUUAUxBDj.jpg",
+					"url": "https://t.co/15NVEjRUsS",
+					"display_url": "pic.twitter.com/15NVEjRUsS",
+					"expanded_url": "https://twitter.com/radiombc/status/1434347728037765120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "봉춘라디오 MBC RADIO",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBC라디오 #봉춘라디오",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74612,
+			"friends_count": 44,
+			"listed_count": 601,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "✨윤아&amp;박정민✨님이 내리실 역은 #정희, 정희역입니다🚃\n영화 #기적 배우들  윤아, 박정민과 정희에서 기적 같은 시간을 만들어요🤍\n\n📻#정오의희망곡 김신영입니다\n✔보이는 라디오는\n✔9월 6일 월요일 오후 1시부터\n✔#봉춘라디오 채널에서 스트리밍됩니다!\n많관부🙏\n\n#윤아 #박정민  #유튜브라이브 https://t.co/15NVEjRUsS"
+	},
+	{
 		"created_at": "Fri Sep 03 20:59:44 +0000 2021",
 		"id": 1433786531701944300,
 		"id_str": "1433897520950697984",
