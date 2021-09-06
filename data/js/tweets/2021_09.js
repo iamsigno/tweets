@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 06 09:07:15 +0000 2021",
+		"id": 1434803564115906600,
+		"id_str": "1434805382195687424",
+		"full_text": "[전설의 연습생] 두근두근♡ 소원을 말해봐♬ 프로미스나인 새롬X지원X지선\n\n“라떼는 🐴말이야” 프로미들의 초.심.공.개🔥\n프미나의 매력을 진짤루~ 탈탈 털고, 또 털어보았습니다❗\n📽️https://t.co/qjm3ztS18f\n\n#전설의연습생 #순규 #프로미스나인 \n#이새롬 #박지원 #노지선\n#소녀시대 #SNSD #써니 https://t.co/Kg3veXjZXO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						127,
+						134
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						135,
+						138
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						139,
+						146
+					]
+				},
+				{
+					"text": "이새롬",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "박지원",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "노지선",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						175,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qjm3ztS18f",
+					"expanded_url": "https://youtu.be/nZZTRzFnFyY",
+					"display_url": "youtu.be/nZZTRzFnFyY",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1434768796141572000,
+					"id_str": "1434768796141572096",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lSnkzVUAAQkZJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lSnkzVUAAQkZJ.jpg",
+					"url": "https://t.co/Kg3veXjZXO",
+					"display_url": "pic.twitter.com/Kg3veXjZXO",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1434803564115906568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434768796141572000,
+					"id_str": "1434768796141572096",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-lSnkzVUAAQkZJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-lSnkzVUAAQkZJ.jpg",
+					"url": "https://t.co/Kg3veXjZXO",
+					"display_url": "pic.twitter.com/Kg3veXjZXO",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1434803564115906568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87403,
+			"friends_count": 338,
+			"listed_count": 325,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630888366",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 251,
+		"favorite_count": 566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 두근두근♡ 소원을 말해봐♬ 프로미스나인 새롬X지원X지선\n\n“라떼는 🐴말이야” 프로미들의 초.심.공.개🔥\n프미나의 매력을 진짤루~ 탈탈 털고, 또 털어보았습니다❗\n📽️https://t.co/qjm3ztS18f\n\n#전설의연습생 #순규 #프로미스나인 \n#이새롬 #박지원 #노지선\n#소녀시대 #SNSD #써니 https://t.co/Kg3veXjZXO"
+	},
+	{
 		"created_at": "Mon Sep 06 08:07:08 +0000 2021",
 		"id": 1434788467108577300,
 		"id_str": "1434790256558153732",
