@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 09:07:18 +0000 2021",
+		"id": 1435528342850216000,
+		"id_str": "1435530170996248581",
+		"full_text": "싸인 네임텍 증정 EVENT\n \n👀 예능 어벤져스로 돌아온 CIX 활약의 大.활.약🔥 \n🌊 조회수의 파도를 일으킬 CIX 선배님의 연습실 방문기 🏄\n \n&lt;전설의 연습생 - CIX편&gt; 본방 보고 인증하면\n💖이벤트 참여 완료💖\n \n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#CIX #배진영 #BX #승훈 #용희 #현석 https://t.co/koQpqsnntR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						141,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "CIX",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "배진영",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "BX",
+					"indices": [
+						177,
+						180
+					]
+				},
+				{
+					"text": "승훈",
+					"indices": [
+						181,
+						184
+					]
+				},
+				{
+					"text": "용희",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "현석",
+					"indices": [
+						189,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435467993559933000,
+					"id_str": "1435467993559932929",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E-vOiOKVIAEQVIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-vOiOKVIAEQVIG.jpg",
+					"url": "https://t.co/koQpqsnntR",
+					"display_url": "pic.twitter.com/koQpqsnntR",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1435528342850215940/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435467993559933000,
+					"id_str": "1435467993559932929",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/E-vOiOKVIAEQVIG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-vOiOKVIAEQVIG.jpg",
+					"url": "https://t.co/koQpqsnntR",
+					"display_url": "pic.twitter.com/koQpqsnntR",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1435528342850215940/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87601,
+			"friends_count": 338,
+			"listed_count": 325,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1630888366",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "싸인 네임텍 증정 EVENT\n \n👀 예능 어벤져스로 돌아온 CIX 활약의 大.활.약🔥 \n🌊 조회수의 파도를 일으킬 CIX 선배님의 연습실 방문기 🏄\n \n&lt;전설의 연습생 - CIX편&gt; 본방 보고 인증하면\n💖이벤트 참여 완료💖\n \n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#CIX #배진영 #BX #승훈 #용희 #현석 https://t.co/koQpqsnntR"
+	},
+	{
 		"created_at": "Tue Sep 07 05:07:08 +0000 2021",
 		"id": 1435095481651273700,
 		"id_str": "1435107345533743107",
