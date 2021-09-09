@@ -1,10 +1,309 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 10:07:08 +0000 2021",
+		"id": 1435215975905783800,
+		"id_str": "1435907619248562178",
+		"full_text": "Thank You!💚 @SpotifyKR\n \n🎵 https://t.co/BCW0nRhYBE\n \n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연\n#KEY_HateThat #HateThat\n@SpotifyKDaebak https://t.co/oCyskpOPih",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KEY",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						58,
+						60
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						69,
+						73
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "KEY_HateThat",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"text": "HateThat",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "SpotifyKDaebak",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						111,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BCW0nRhYBE",
+					"expanded_url": "https://open.spotify.com/album/1UUUddQBS8Q5aOyhCQfGaD?si=U2yndUYBT6C2d6WTH45Duw&dl_branch=1",
+					"display_url": "open.spotify.com/album/1UUUddQB…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435215966439293000,
+					"id_str": "1435215966439292930",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-rpUT-VQAItFaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-rpUT-VQAItFaU.jpg",
+					"url": "https://t.co/oCyskpOPih",
+					"display_url": "pic.twitter.com/oCyskpOPih",
+					"expanded_url": "https://twitter.com/SHINee/status/1435215975905783818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435215966439293000,
+					"id_str": "1435215966439292930",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-rpUT-VQAItFaU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-rpUT-VQAItFaU.jpg",
+					"url": "https://t.co/oCyskpOPih",
+					"display_url": "pic.twitter.com/oCyskpOPih",
+					"expanded_url": "https://twitter.com/SHINee/status/1435215975905783818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1164,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1435215966430904300,
+					"id_str": "1435215966430904320",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/E-rpUT8VQAAEChE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-rpUT8VQAAEChE.jpg",
+					"url": "https://t.co/oCyskpOPih",
+					"display_url": "pic.twitter.com/oCyskpOPih",
+					"expanded_url": "https://twitter.com/SHINee/status/1435215975905783818/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "KEY 키 The 1st Mini Album ‘BAD LOVE’",
+			"url": "https://t.co/vhjnrVMUsq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vhjnrVMUsq",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2090454,
+			"friends_count": 2,
+			"listed_count": 5381,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 64,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1434531843987017733/tV0LKcbZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434531843987017733/tV0LKcbZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1630854020",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6418,
+		"favorite_count": 21831,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank You!💚 @SpotifyKR\n \n🎵 https://t.co/BCW0nRhYBE\n \n#KEY #키 #SHINee #샤이니\n#TAEYEON #태연\n#KEY_HateThat #HateThat\n@SpotifyKDaebak https://t.co/oCyskpOPih"
+	},
+	{
 		"created_at": "Thu Sep 09 06:07:09 +0000 2021",
 		"id": 1435836643261309000,
 		"id_str": "1435847221459755008",
-		"full_text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n​\n▶️ https://t.co/02x57TkdBN\n​\n#써니",
+		"full_text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n\n▶️ https://t.co/02x57TkdBN\n\n#써니",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -127,7 +426,7 @@ Grailbird.data.tweets_2021_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n​\n▶️ https://t.co/02x57TkdBN\n​\n#써니"
+		"text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n\n▶️ https://t.co/02x57TkdBN\n\n#써니"
 	},
 	{
 		"created_at": "Thu Sep 09 03:07:09 +0000 2021",
