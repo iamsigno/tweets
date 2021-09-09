@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 03:07:09 +0000 2021",
+		"id": 1435786845703475200,
+		"id_str": "1435801923211382785",
+		"full_text": "우리들의 탱블리 #태연 이 NOW.에 옵니다🎙 #Taeyeon 에게 궁금한 모든 것! #무물보 하실 분?!👏🏻 [태연] 말머리 달고 미리 남겨주세요 📲 문자번호 #7117 (정보이용료 100원) 하고 싶은 말 / 지금도 여전한지 궁금한 TMI 질문도 받아요🤭 #NOW온에어 #0910_마감 #설화수_스페셜쇼 #커밍순 #WITH재재 https://t.co/dqfdEG20ao",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"text": "무물보",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						145,
+						152
+					]
+				},
+				{
+					"text": "0910_마감",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "설화수_스페셜쇼",
+					"indices": [
+						162,
+						171
+					]
+				},
+				{
+					"text": "커밍순",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "WITH재재",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1435786838057255000,
+					"id_str": "1435786838057254921",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-zwhaeVgAk6GeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-zwhaeVgAk6GeG.jpg",
+					"url": "https://t.co/dqfdEG20ao",
+					"display_url": "pic.twitter.com/dqfdEG20ao",
+					"expanded_url": "https://twitter.com/kr_now/status/1435786845703475204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1598,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435786838057255000,
+					"id_str": "1435786838057254921",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/E-zwhaeVgAk6GeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-zwhaeVgAk6GeG.jpg",
+					"url": "https://t.co/dqfdEG20ao",
+					"display_url": "pic.twitter.com/dqfdEG20ao",
+					"expanded_url": "https://twitter.com/kr_now/status/1435786845703475204/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1598,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 936,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151038,
+			"friends_count": 2,
+			"listed_count": 259,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 619,
+		"favorite_count": 803,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리들의 탱블리 #태연 이 NOW.에 옵니다🎙 #Taeyeon 에게 궁금한 모든 것! #무물보 하실 분?!👏🏻 [태연] 말머리 달고 미리 남겨주세요 📲 문자번호 #7117 (정보이용료 100원) 하고 싶은 말 / 지금도 여전한지 궁금한 TMI 질문도 받아요🤭 #NOW온에어 #0910_마감 #설화수_스페셜쇼 #커밍순 #WITH재재 https://t.co/dqfdEG20ao"
+	},
+	{
 		"created_at": "Wed Sep 08 09:07:18 +0000 2021",
 		"id": 1435528342850216000,
 		"id_str": "1435530170996248581",
