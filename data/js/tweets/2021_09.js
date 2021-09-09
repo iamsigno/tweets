@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 06:07:09 +0000 2021",
+		"id": 1435836643261309000,
+		"id_str": "1435847221459755008",
+		"full_text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n​\n▶️ https://t.co/02x57TkdBN\n​\n#써니",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼핑LIVE",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"text": "VLIVE",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						184,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02x57TkdBN",
+					"expanded_url": "https://view.shoppinglive.naver.com/lives/234362",
+					"display_url": "view.shoppinglive.naver.com/lives/234362",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1459223742,
+			"id_str": "1459223742",
+			"name": "V LIVE",
+			"screen_name": "Vliveofficial",
+			"location": "Korea",
+			"description": "V LIVE lets celebs broadcast live videos to you. You can see what they are seeing in real time from anywhere in the world.",
+			"url": "https://t.co/Z7eVOHipm5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z7eVOHipm5",
+							"expanded_url": "http://www.vlive.tv",
+							"display_url": "vlive.tv",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6743378,
+			"friends_count": 167,
+			"listed_count": 3108,
+			"created_at": "Sun May 26 09:50:22 +0000 2013",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/935805024059375616/rcj1NsPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1459223742/1511948291",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 1436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🐶오늘 밤 7PM🐱 &lt;써니의 월간멍냥&gt; 3화❣️ 비만관리편이 #쇼핑LIVE 와 #VLIVE 에서 시작됩니다🌟 수의사와 함께하는 우리집 뚱냥이 고민해결 타임부터💭 냥집사 써니가 들려주는 찐 사용후기까지💬 가득 담았으니!🎁 알림 설정 눌러두고🔔 월간멍냥에서 만나요👋\n​\n▶️ https://t.co/02x57TkdBN\n​\n#써니"
+	},
+	{
 		"created_at": "Thu Sep 09 03:07:09 +0000 2021",
 		"id": 1435786845703475200,
 		"id_str": "1435801923211382785",
