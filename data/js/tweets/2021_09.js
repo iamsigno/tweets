@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 06:08:10 +0000 2021",
+		"id": 1436198764868341800,
+		"id_str": "1436209868499738627",
+		"full_text": "Alasan YOONA Mendapatkan Banyak Cinta di Film ‘The Miracle’\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/gmdcWw8HYW\n\n@GirlsGeneration #YOONA https://t.co/OPpv9sKOLw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						172,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						155,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gmdcWw8HYW",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/886416028642079/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436198721608323000,
+					"id_str": "1436198721608323073",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5nIMRVkAE285O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5nIMRVkAE285O.jpg",
+					"url": "https://t.co/OPpv9sKOLw",
+					"display_url": "pic.twitter.com/OPpv9sKOLw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1436198764868341760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436198721608323000,
+					"id_str": "1436198721608323073",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5nIMRVkAE285O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5nIMRVkAE285O.jpg",
+					"url": "https://t.co/OPpv9sKOLw",
+					"display_url": "pic.twitter.com/OPpv9sKOLw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1436198764868341760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436198721608319000,
+					"id_str": "1436198721608318977",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5nIMRVgAExcWW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5nIMRVgAExcWW.jpg",
+					"url": "https://t.co/OPpv9sKOLw",
+					"display_url": "pic.twitter.com/OPpv9sKOLw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1436198764868341760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436198721612517400,
+					"id_str": "1436198721612517392",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5nIMSVkBAjQ_1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5nIMSVkBAjQ_1.jpg",
+					"url": "https://t.co/OPpv9sKOLw",
+					"display_url": "pic.twitter.com/OPpv9sKOLw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1436198764868341760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1436198721662820400,
+					"id_str": "1436198721662820354",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5nIMeVIAIpunq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5nIMeVIAIpunq.jpg",
+					"url": "https://t.co/OPpv9sKOLw",
+					"display_url": "pic.twitter.com/OPpv9sKOLw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1436198764868341760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682996,
+			"friends_count": 34,
+			"listed_count": 437,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 649,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Alasan YOONA Mendapatkan Banyak Cinta di Film ‘The Miracle’\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/gmdcWw8HYW\n\n@GirlsGeneration #YOONA https://t.co/OPpv9sKOLw"
+	},
+	{
 		"created_at": "Fri Sep 10 04:07:09 +0000 2021",
 		"id": 1436172732811530200,
 		"id_str": "1436179410726572032",
