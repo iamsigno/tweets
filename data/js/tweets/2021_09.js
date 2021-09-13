@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 09:07:13 +0000 2021",
+		"id": 1437340278529134600,
+		"id_str": "1437342089038241792",
+		"full_text": "[전설의 연습생] Oh! Oh! Oh! Oh! ♬ 베리베리 사랑해 ♬ VERIVERY 동헌X민찬X연호X강민\n\n⚡베러들 심장 정조준! 🎯 카.리.스.마 베리베리⚡ \n벨벨-\"우린 아직 초심이야!\" vs 순규-\"초심을 잃으셨다고요!\"\n📽️https://t.co/sqEdYGaIAQ\n\n#전설의연습생 #순규 #써니 \n#VERIVERY #동헌 #민찬 #연호 #강민 https://t.co/9NOgfM9nb3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						155,
+						162
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "VERIVERY",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "동헌",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "민찬",
+					"indices": [
+						186,
+						189
+					]
+				},
+				{
+					"text": "연호",
+					"indices": [
+						190,
+						193
+					]
+				},
+				{
+					"text": "강민",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sqEdYGaIAQ",
+					"expanded_url": "https://youtu.be/meU_euisi5A",
+					"display_url": "youtu.be/meU_euisi5A",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437313183673241600,
+					"id_str": "1437313183673241600",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"url": "https://t.co/9NOgfM9nb3",
+					"display_url": "pic.twitter.com/9NOgfM9nb3",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437340278529134592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437313183673241600,
+					"id_str": "1437313183673241600",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_Jcua_UUAAxdaT.jpg",
+					"url": "https://t.co/9NOgfM9nb3",
+					"display_url": "pic.twitter.com/9NOgfM9nb3",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437340278529134592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88081,
+			"friends_count": 338,
+			"listed_count": 326,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 258,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] Oh! Oh! Oh! Oh! ♬ 베리베리 사랑해 ♬ VERIVERY 동헌X민찬X연호X강민\n\n⚡베러들 심장 정조준! 🎯 카.리.스.마 베리베리⚡ \n벨벨-\"우린 아직 초심이야!\" vs 순규-\"초심을 잃으셨다고요!\"\n📽️https://t.co/sqEdYGaIAQ\n\n#전설의연습생 #순규 #써니 \n#VERIVERY #동헌 #민찬 #연호 #강민 https://t.co/9NOgfM9nb3"
+	},
+	{
 		"created_at": "Mon Sep 13 06:07:08 +0000 2021",
 		"id": 1437294984328147000,
 		"id_str": "1437296772452335619",
