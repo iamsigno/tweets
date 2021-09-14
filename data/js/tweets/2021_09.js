@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 09:07:09 +0000 2021",
+		"id": 1437702664427479000,
+		"id_str": "1437704462051811328",
+		"full_text": "[전설의 연습생] 🌟순규의 데뷔길을 발키리🌟 원어스\n\n원어스도 처음 발견한 개인기는? (Feat. 흔한_내_동료의_비즈니즈😨) \n차마 예고에는 넣지 못한 원어스의 눈물까지…!!\n📽️https://t.co/oSv7KPYGc9\n\n#전설의연습생 #순규 #써니 #원어스 \n#ONEUS #레이븐 #서호 #이도 #건희 #환웅 #시온 https://t.co/7CIV6tE647",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						126,
+						133
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "원어스",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "ONEUS",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"text": "레이븐",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "서호",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "이도",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "건희",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "환웅",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "시온",
+					"indices": [
+						176,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oSv7KPYGc9",
+					"expanded_url": "https://youtu.be/Okmhj0S_a4I",
+					"display_url": "youtu.be/Okmhj0S_a4I",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1437689066149924900,
+					"id_str": "1437689066149924869",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"url": "https://t.co/7CIV6tE647",
+					"display_url": "pic.twitter.com/7CIV6tE647",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437702664427479050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437689066149924900,
+					"id_str": "1437689066149924869",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_OylqVUUAUNeFF.jpg",
+					"url": "https://t.co/7CIV6tE647",
+					"display_url": "pic.twitter.com/7CIV6tE647",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1437702664427479050/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88215,
+			"friends_count": 338,
+			"listed_count": 326,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7898,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 567,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 🌟순규의 데뷔길을 발키리🌟 원어스\n\n원어스도 처음 발견한 개인기는? (Feat. 흔한_내_동료의_비즈니즈😨) \n차마 예고에는 넣지 못한 원어스의 눈물까지…!!\n📽️https://t.co/oSv7KPYGc9\n\n#전설의연습생 #순규 #써니 #원어스 \n#ONEUS #레이븐 #서호 #이도 #건희 #환웅 #시온 https://t.co/7CIV6tE647"
+	},
+	{
 		"created_at": "Tue Sep 14 06:07:08 +0000 2021",
 		"id": 1437651449622634500,
 		"id_str": "1437659160624119812",
