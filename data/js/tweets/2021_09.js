@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 11:07:08 +0000 2021",
+		"id": 1438807209895346200,
+		"id_str": "1438821821386792962",
+		"full_text": "오늘은 탱리더🧡 #태연 과 #재재  NOW.에서 [설화수투디오] 오픈합니다🧡 지금 막 시작했고 재재탱 서로 우쭈쭈 하는 중! 얼른 오세요🧡 #NOW온에어 #TAEYEON 보쇼🧡바로보기https://t.co/2VY8hHZLlj https://t.co/1lic0eH4YP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "재재",
+					"indices": [
+						15,
+						18
+					]
+				},
+				{
+					"text": "NOW온에어",
+					"indices": [
+						78,
+						85
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2VY8hHZLlj",
+					"expanded_url": "http://naver.me/Ft8JxEW9",
+					"display_url": "naver.me/Ft8JxEW9",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438807198088368000,
+					"id_str": "1438807198088368130",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"url": "https://t.co/1lic0eH4YP",
+					"display_url": "pic.twitter.com/1lic0eH4YP",
+					"expanded_url": "https://twitter.com/kr_now/status/1438807209895346182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1763,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438807198088368000,
+					"id_str": "1438807198088368130",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_erhgZVEAIeJ-6.jpg",
+					"url": "https://t.co/1lic0eH4YP",
+					"display_url": "pic.twitter.com/1lic0eH4YP",
+					"expanded_url": "https://twitter.com/kr_now/status/1438807209895346182/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1763,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 585,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1033,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153597,
+			"friends_count": 3,
+			"listed_count": 270,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 394,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘은 탱리더🧡 #태연 과 #재재  NOW.에서 [설화수투디오] 오픈합니다🧡 지금 막 시작했고 재재탱 서로 우쭈쭈 하는 중! 얼른 오세요🧡 #NOW온에어 #TAEYEON 보쇼🧡바로보기https://t.co/2VY8hHZLlj https://t.co/1lic0eH4YP"
+	},
+	{
 		"created_at": "Fri Sep 17 04:07:08 +0000 2021",
 		"id": 1438705743780221000,
 		"id_str": "1438716125211201536",
