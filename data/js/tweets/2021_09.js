@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 09:07:09 +0000 2021",
+		"id": 1439876989138133000,
+		"id_str": "1439878786649137155",
+		"full_text": "[싸인 네임텍 증정 EVENT]\n\n✨트로트 여신 홍지윤X은가은✨\n행사 여왕들이 전하는 💵익스펜시브💵한 즉석 라이브 무대🎶\n\n&lt;전설의 연습생 - 홍지윤/은가은 편&gt; 본방 보고 인증하면\n 💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#홍지윤 #은가은 #윤짱지구대 #응가더러버 https://t.co/UQzKEDFzPb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "ALLTHEKPOP",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "홍지윤",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "은가은",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "윤짱지구대",
+					"indices": [
+						166,
+						172
+					]
+				},
+				{
+					"text": "응가더러버",
+					"indices": [
+						173,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439841415765266400,
+					"id_str": "1439841415765266436",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"url": "https://t.co/UQzKEDFzPb",
+					"display_url": "pic.twitter.com/UQzKEDFzPb",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1439876989138132993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439841415765266400,
+					"id_str": "1439841415765266436",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_tYI5eVkAQa27y.jpg",
+					"url": "https://t.co/UQzKEDFzPb",
+					"display_url": "pic.twitter.com/UQzKEDFzPb",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1439876989138132993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 88973,
+			"friends_count": 339,
+			"listed_count": 328,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[싸인 네임텍 증정 EVENT]\n\n✨트로트 여신 홍지윤X은가은✨\n행사 여왕들이 전하는 💵익스펜시브💵한 즉석 라이브 무대🎶\n\n&lt;전설의 연습생 - 홍지윤/은가은 편&gt; 본방 보고 인증하면\n 💖이벤트 참여 완료💖\n\n#전설의연습생 #ALLTHEKPOP\n#소녀시대 #써니 #순규\n#홍지윤 #은가은 #윤짱지구대 #응가더러버 https://t.co/UQzKEDFzPb"
+	},
+	{
 		"created_at": "Fri Sep 17 11:07:08 +0000 2021",
 		"id": 1438807209895346200,
 		"id_str": "1438821821386792962",
