@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 23 02:07:17 +0000 2021",
+		"id": 1440858604597252000,
+		"id_str": "1440860287234674688",
+		"full_text": "[#NEWS] 서현, 빛이 난다 [화보]\n▶ https://t.co/QcVgQsivgg\n\n#서현 #퍼스트룩 #메트로시티 #SEOHYUN #1stLook #Metrocity https://t.co/JMRexQ7SWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "메트로시티",
+					"indices": [
+						60,
+						66
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "Metrocity",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QcVgQsivgg",
+					"expanded_url": "http://naver.me/FWJ1RfF6",
+					"display_url": "naver.me/FWJ1RfF6",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1440858578378641400,
+					"id_str": "1440858578378641417",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E_71PjfVUAkTQfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_71PjfVUAkTQfA.jpg",
+					"url": "https://t.co/JMRexQ7SWU",
+					"display_url": "pic.twitter.com/JMRexQ7SWU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1440858604597252098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1440858578378641400,
+					"id_str": "1440858578378641417",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E_71PjfVUAkTQfA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_71PjfVUAkTQfA.jpg",
+					"url": "https://t.co/JMRexQ7SWU",
+					"display_url": "pic.twitter.com/JMRexQ7SWU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1440858604597252098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440858578395414500,
+					"id_str": "1440858578395414528",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E_71PjjVQAAI7oM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_71PjjVQAAI7oM.jpg",
+					"url": "https://t.co/JMRexQ7SWU",
+					"display_url": "pic.twitter.com/JMRexQ7SWU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1440858604597252098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440858578378653700,
+					"id_str": "1440858578378653698",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E_71PjfVgAICOBl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_71PjfVgAICOBl.jpg",
+					"url": "https://t.co/JMRexQ7SWU",
+					"display_url": "pic.twitter.com/JMRexQ7SWU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1440858604597252098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1440858578428989400,
+					"id_str": "1440858578428989446",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/E_71PjrVkAYO7GW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_71PjrVkAYO7GW.jpg",
+					"url": "https://t.co/JMRexQ7SWU",
+					"display_url": "pic.twitter.com/JMRexQ7SWU",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1440858604597252098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1875,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52327,
+			"friends_count": 13,
+			"listed_count": 250,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 101,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현, 빛이 난다 [화보]\n▶ https://t.co/QcVgQsivgg\n\n#서현 #퍼스트룩 #메트로시티 #SEOHYUN #1stLook #Metrocity https://t.co/JMRexQ7SWU"
+	},
+	{
 		"created_at": "Wed Sep 22 05:07:12 +0000 2021",
 		"id": 1440538548143210500,
 		"id_str": "1440543177924960256",
