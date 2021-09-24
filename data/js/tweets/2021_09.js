@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 24 09:07:09 +0000 2021",
+		"id": 1441326540789272600,
+		"id_str": "1441328339151560713",
+		"full_text": "[전설의 연습생] 드디어! ⭐소.녀.시.대⭐ 선배님의 방문! 이름만으로도 황홀한 💖효연X윤아💖\n\n🎀기다리고 기다리던 레전드의 등장! 소녀시대 효연X윤아🎀소시가 하면 모든 것이 아트다 아트👍\n📽️https://t.co/YDxfBf8fba\n\n#전설의연습생 #효연 #윤아 #순규\n#소녀시대 #GirlsGeneration #소원 #써니 https://t.co/SV0w4GkOgM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "소원",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						180,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YDxfBf8fba",
+					"expanded_url": "https://youtu.be/R4JrRzSvIJY",
+					"display_url": "youtu.be/R4JrRzSvIJY",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1441305174845231000,
+					"id_str": "1441305174845231104",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FACLa4-VEAAqFXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FACLa4-VEAAqFXY.jpg",
+					"url": "https://t.co/SV0w4GkOgM",
+					"display_url": "pic.twitter.com/SV0w4GkOgM",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1441326540789272576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1441305174845231000,
+					"id_str": "1441305174845231104",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FACLa4-VEAAqFXY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FACLa4-VEAAqFXY.jpg",
+					"url": "https://t.co/SV0w4GkOgM",
+					"display_url": "pic.twitter.com/SV0w4GkOgM",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1441326540789272576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89373,
+			"friends_count": 339,
+			"listed_count": 330,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1631491129",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 드디어! ⭐소.녀.시.대⭐ 선배님의 방문! 이름만으로도 황홀한 💖효연X윤아💖\n\n🎀기다리고 기다리던 레전드의 등장! 소녀시대 효연X윤아🎀소시가 하면 모든 것이 아트다 아트👍\n📽️https://t.co/YDxfBf8fba\n\n#전설의연습생 #효연 #윤아 #순규\n#소녀시대 #GirlsGeneration #소원 #써니 https://t.co/SV0w4GkOgM"
+	},
+	{
 		"created_at": "Fri Sep 24 03:07:09 +0000 2021",
 		"id": 1441235954086264800,
 		"id_str": "1441237742860390415",
