@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 27 09:07:58 +0000 2021",
+		"id": 1442413712996896800,
+		"id_str": "1442415707812073474",
+		"full_text": "(ENG) [전설의 연습생] I GOT A BOY 멋진♬ I GOT A BOY 성운♬ 💖하성운💖\n\n💙연습실을 꽉 채우는 독.보.적 존재감 하성운💙\n순규X하성운의 듀.엣.무.대💃🕺 최초공개! 그 정체는… 겨드랑이 댄스⁉\n📽️https://t.co/BVzyMZvTYe\n\n#전설의연습생 #순규 #하성운\n#HASUNGWOON #하늘 #소녀시대 #SNSD #써니 https://t.co/bk91vHCHSy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "순규",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "하성운",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "HASUNGWOON",
+					"indices": [
+						166,
+						177
+					]
+				},
+				{
+					"text": "하늘",
+					"indices": [
+						178,
+						181
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						194,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BVzyMZvTYe",
+					"expanded_url": "https://youtu.be/_9sjYCTTr94",
+					"display_url": "youtu.be/_9sjYCTTr94",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1442396942751854600,
+					"id_str": "1442396942751854592",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FARsYJXVcAAjJQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FARsYJXVcAAjJQB.jpg",
+					"url": "https://t.co/bk91vHCHSy",
+					"display_url": "pic.twitter.com/bk91vHCHSy",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1442413712996896775/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1442396942751854600,
+					"id_str": "1442396942751854592",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FARsYJXVcAAjJQB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FARsYJXVcAAjJQB.jpg",
+					"url": "https://t.co/bk91vHCHSy",
+					"display_url": "pic.twitter.com/bk91vHCHSy",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1442413712996896775/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89777,
+			"friends_count": 339,
+			"listed_count": 330,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1632701915",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 695,
+		"favorite_count": 1043,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "(ENG) [전설의 연습생] I GOT A BOY 멋진♬ I GOT A BOY 성운♬ 💖하성운💖\n\n💙연습실을 꽉 채우는 독.보.적 존재감 하성운💙\n순규X하성운의 듀.엣.무.대💃🕺 최초공개! 그 정체는… 겨드랑이 댄스⁉\n📽️https://t.co/BVzyMZvTYe\n\n#전설의연습생 #순규 #하성운\n#HASUNGWOON #하늘 #소녀시대 #SNSD #써니 https://t.co/bk91vHCHSy"
+	},
+	{
 		"created_at": "Mon Sep 27 05:07:09 +0000 2021",
 		"id": 1442353306052042800,
 		"id_str": "1442355104380764162",
