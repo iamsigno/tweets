@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 29 10:07:09 +0000 2021",
+		"id": 1443140843800383500,
+		"id_str": "1443155376929660932",
+		"full_text": "[전설의 연습생] 지금은 소녀시대! 💖효연X윤아💖\n\n순규X효연X윤아 ORIGINAL ✨다시 만난 세계✨\n족상 전문가 효연 선배님의 말씀 “연습실에선 신발을 벗어라!” \n📽️https://t.co/KnjZczaoB6\n\n#전설의연습생 #효연 #윤아 #써니 \n#소녀시대 #GirlsGeneration @GirlsGeneration https://t.co/5by3saRR41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전설의연습생",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						137,
+						140
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						148,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						165,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KnjZczaoB6",
+					"expanded_url": "https://youtu.be/5QouJSo3zEg",
+					"display_url": "youtu.be/5QouJSo3zEg",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443140498122625000,
+					"id_str": "1443140498122625026",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FAcQow-UUAIdhQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAcQow-UUAIdhQQ.jpg",
+					"url": "https://t.co/5by3saRR41",
+					"display_url": "pic.twitter.com/5by3saRR41",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1443140843800383488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443140498122625000,
+					"id_str": "1443140498122625026",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/FAcQow-UUAIdhQQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAcQow-UUAIdhQQ.jpg",
+					"url": "https://t.co/5by3saRR41",
+					"display_url": "pic.twitter.com/5by3saRR41",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1443140843800383488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90041,
+			"friends_count": 339,
+			"listed_count": 331,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7775,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1632701915",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 246,
+		"favorite_count": 255,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[전설의 연습생] 지금은 소녀시대! 💖효연X윤아💖\n\n순규X효연X윤아 ORIGINAL ✨다시 만난 세계✨\n족상 전문가 효연 선배님의 말씀 “연습실에선 신발을 벗어라!” \n📽️https://t.co/KnjZczaoB6\n\n#전설의연습생 #효연 #윤아 #써니 \n#소녀시대 #GirlsGeneration @GirlsGeneration https://t.co/5by3saRR41"
+	},
+	{
 		"created_at": "Wed Sep 29 09:07:09 +0000 2021",
 		"id": 1443138479135801300,
 		"id_str": "1443140277527584768",
