@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 30 03:07:09 +0000 2021",
+		"id": 1443410269779075000,
+		"id_str": "1443412068237971460",
+		"full_text": "&lt;MINIMO Jukebox&gt; #미니모쥬크박스 투표 결과 공개!🗳\n크러쉬 &amp; 태연 - 잊어버리지마 커버 풀버전이 추후 #CRAVITY (@CRAVITYstarship) 공식 유튜브 채널에 공개됩니다!\n\n🥰&lt;미니모쥬크박스&gt; 전편 다시보기💌\nDream ▶ https://t.co/nMWj6VtGsS\nGive Love ▶ https://t.co/LHpzGmgEXn https://t.co/OF7Ou4TlyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미니모쥬크박스",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "CRAVITY",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nMWj6VtGsS",
+					"expanded_url": "http://youtu.be/WQXvJG-SeGc",
+					"display_url": "youtu.be/WQXvJG-SeGc",
+					"indices": [
+						157,
+						180
+					]
+				},
+				{
+					"url": "https://t.co/LHpzGmgEXn",
+					"expanded_url": "http://youtu.be/a0Mqj7HVY0U",
+					"display_url": "youtu.be/a0Mqj7HVY0U",
+					"indices": [
+						193,
+						216
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443388782317764600,
+					"id_str": "1443388782317764609",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FAfyczrVgAEmhAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAfyczrVgAEmhAn.jpg",
+					"url": "https://t.co/OF7Ou4TlyQ",
+					"display_url": "pic.twitter.com/OF7Ou4TlyQ",
+					"expanded_url": "https://twitter.com/1theK/status/1443410269779075081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443388782317764600,
+					"id_str": "1443388782317764609",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FAfyczrVgAEmhAn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAfyczrVgAEmhAn.jpg",
+					"url": "https://t.co/OF7Ou4TlyQ",
+					"display_url": "pic.twitter.com/OF7Ou4TlyQ",
+					"expanded_url": "https://twitter.com/1theK/status/1443410269779075081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2275173,
+			"friends_count": 817,
+			"listed_count": 2112,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1632909612",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;MINIMO Jukebox&gt; #미니모쥬크박스 투표 결과 공개!🗳\n크러쉬 &amp; 태연 - 잊어버리지마 커버 풀버전이 추후 #CRAVITY (@CRAVITYstarship) 공식 유튜브 채널에 공개됩니다!\n\n🥰&lt;미니모쥬크박스&gt; 전편 다시보기💌\nDream ▶ https://t.co/nMWj6VtGsS\nGive Love ▶ https://t.co/LHpzGmgEXn https://t.co/OF7Ou4TlyQ"
+	},
+	{
 		"created_at": "Wed Sep 29 10:07:09 +0000 2021",
 		"id": 1443140843800383500,
 		"id_str": "1443155376929660932",
