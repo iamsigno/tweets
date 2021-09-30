@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 30 08:07:09 +0000 2021",
+		"id": 1443485767351746600,
+		"id_str": "1443487565819138052",
+		"full_text": "홍사장&amp;강기사의 양양 여행\n낭만적인 바닷가에서의 \n마무리는 힐링 코스다🌊\n\n↖춘천으로 떠난 탱사장&amp;희실장↗\n댕댕이와의 여행 어디까지인가?\n\n자신만만 탱사장🔥\n무조건 이긴다 홍사장💥\n과연 이번 여행의 승리팀은?!\n\n▶️오늘 밤 10시 30분\n &lt;#펫키지&gt; 본방사수🐶\n#김희철 #태연 #홍현희 #강기영 https://t.co/b5fF3xClu7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "펫키지",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "홍현희",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "강기영",
+					"indices": [
+						176,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443399464887095300,
+					"id_str": "1443399464887095297",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FAf93TRUcAQt3CZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAf93TRUcAQt3CZ.jpg",
+					"url": "https://t.co/b5fF3xClu7",
+					"display_url": "pic.twitter.com/b5fF3xClu7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1443485767351746562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443399464887095300,
+					"id_str": "1443399464887095297",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FAf93TRUcAQt3CZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAf93TRUcAQt3CZ.jpg",
+					"url": "https://t.co/b5fF3xClu7",
+					"display_url": "pic.twitter.com/b5fF3xClu7",
+					"expanded_url": "https://twitter.com/jtbclove/status/1443485767351746562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 52052,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443399464887095297/vid/640x360/7qdXDbKr8cwLSgxW.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443399464887095297/vid/1280x720/U4u0L-gaWAUMCIFi.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1443399464887095297/vid/480x270/zm0RCsHw5GPAeWJU.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1443399464887095297/pl/0dDbvKPJmzU_Obhy.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[펫키지] 6회 예고 ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.youtube.com/watch?v=9Jomb0SUGL8"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/320ZFCs3nQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/320ZFCs3nQ",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 455867,
+			"friends_count": 111,
+			"listed_count": 757,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23291,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1381488444128432131/05xHSfgm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1630977575",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "홍사장&amp;강기사의 양양 여행\n낭만적인 바닷가에서의 \n마무리는 힐링 코스다🌊\n\n↖춘천으로 떠난 탱사장&amp;희실장↗\n댕댕이와의 여행 어디까지인가?\n\n자신만만 탱사장🔥\n무조건 이긴다 홍사장💥\n과연 이번 여행의 승리팀은?!\n\n▶️오늘 밤 10시 30분\n &lt;#펫키지&gt; 본방사수🐶\n#김희철 #태연 #홍현희 #강기영 https://t.co/b5fF3xClu7"
+	},
+	{
 		"created_at": "Thu Sep 30 03:07:09 +0000 2021",
 		"id": 1443410269779075000,
 		"id_str": "1443412068237971460",
