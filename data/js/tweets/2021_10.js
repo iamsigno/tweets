@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 10:07:09 +0000 2021",
+		"id": 1445680457723510800,
+		"id_str": "1445692092148170754",
+		"full_text": "YOONA Terpilih Menjadi Brand Ambassador ‘Miu Miu’\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/a6106Niulu\n\n@GirlsGeneration #YOONA https://t.co/qJTXReaQJA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YOONA",
+					"indices": [
+						162,
+						168
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						145,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a6106Niulu",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/902205990396416/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1445680447820759000,
+					"id_str": "1445680447820759040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAWtS8VgAALRTg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAWtS8VgAALRTg.jpg",
+					"url": "https://t.co/qJTXReaQJA",
+					"display_url": "pic.twitter.com/qJTXReaQJA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1445680457723510791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445680447820759000,
+					"id_str": "1445680447820759040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAWtS8VgAALRTg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAWtS8VgAALRTg.jpg",
+					"url": "https://t.co/qJTXReaQJA",
+					"display_url": "pic.twitter.com/qJTXReaQJA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1445680457723510791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445680447816487000,
+					"id_str": "1445680447816486913",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAWtS7UUAEycNU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAWtS7UUAEycNU.jpg",
+					"url": "https://t.co/qJTXReaQJA",
+					"display_url": "pic.twitter.com/qJTXReaQJA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1445680457723510791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445680447929806800,
+					"id_str": "1445680447929806857",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAWtTWVcAklZfy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAWtTWVcAklZfy.jpg",
+					"url": "https://t.co/qJTXReaQJA",
+					"display_url": "pic.twitter.com/qJTXReaQJA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1445680457723510791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445680447938183200,
+					"id_str": "1445680447938183169",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FBAWtTYVQAEaJ8v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBAWtTYVQAEaJ8v.jpg",
+					"url": "https://t.co/qJTXReaQJA",
+					"display_url": "pic.twitter.com/qJTXReaQJA",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1445680457723510791/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 725132,
+			"friends_count": 34,
+			"listed_count": 447,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "YOONA Terpilih Menjadi Brand Ambassador ‘Miu Miu’\n\nCek artikel lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/a6106Niulu\n\n@GirlsGeneration #YOONA https://t.co/qJTXReaQJA"
+	},
+	{
 		"created_at": "Wed Oct 06 01:44:57 +0000 2021",
 		"id": 1445561912452812800,
 		"id_str": "1445565710260789259",
