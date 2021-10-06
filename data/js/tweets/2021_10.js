@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 06 01:44:57 +0000 2021",
+		"id": 1445561912452812800,
+		"id_str": "1445565710260789259",
+		"full_text": "#임윤아, ‘미우미우’ 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증\n전 세계에서 사랑받는 패션 아이콘으로서의 활약 기대\n\nLIM YOONA becomes the ambassador of ‘Miu Miu’, raising anticipation for her activities as a global fashion icon! \n\n#LIMYOONA \n#윤아 #YOONA \n#미우미우 #MiuMiu https://t.co/b4aFwdgak1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						196,
+						199
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						200,
+						206
+					]
+				},
+				{
+					"text": "미우미우",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "MiuMiu",
+					"indices": [
+						214,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1445561842550468600,
+					"id_str": "1445561842550468609",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1445561842550468600,
+					"id_str": "1445561842550468609",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j4UcAEHvYj.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445561842567291000,
+					"id_str": "1445561842567290881",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j8VIAE95_3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j8VIAE95_3.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445561842546344000,
+					"id_str": "1445561842546343943",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j3VgAcupsF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j3VgAcupsF.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1445561842558910500,
+					"id_str": "1445561842558910467",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FA-q1j6VQAMKRP-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FA-q1j6VQAMKRP-.jpg",
+					"url": "https://t.co/b4aFwdgak1",
+					"display_url": "pic.twitter.com/b4aFwdgak1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1445561912452812805/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3671625,
+			"friends_count": 4,
+			"listed_count": 5572,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2506,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1851,
+		"favorite_count": 3766,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아, ‘미우미우’ 대표 앰버서더로 선정! ‘글로벌 퀸’ 저력 입증\n전 세계에서 사랑받는 패션 아이콘으로서의 활약 기대\n\nLIM YOONA becomes the ambassador of ‘Miu Miu’, raising anticipation for her activities as a global fashion icon! \n\n#LIMYOONA \n#윤아 #YOONA \n#미우미우 #MiuMiu https://t.co/b4aFwdgak1"
+	},
+	{
 		"created_at": "Sat Oct 02 05:07:09 +0000 2021",
 		"id": 1444159014514749400,
 		"id_str": "1444167043452899330",
