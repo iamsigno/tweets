@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 08 07:07:09 +0000 2021",
+		"id": 1446362735021752300,
+		"id_str": "1446371569253691409",
+		"full_text": "[#VIDEO] [1stLook Vol.226] 주얼리 여신 등극! #서현 의 보석보다 빛나는 모먼트✨\n▶ https://t.co/DED6jvu5Dn\n\n#서현 #퍼스트룩 #메트로시티 #SEOHYUN #1stLook #Metrocity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						38,
+						41
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "퍼스트룩",
+					"indices": [
+						89,
+						94
+					]
+				},
+				{
+					"text": "메트로시티",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "1stLook",
+					"indices": [
+						111,
+						119
+					]
+				},
+				{
+					"text": "Metrocity",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DED6jvu5Dn",
+					"expanded_url": "https://youtu.be/yDCTw9w0-bs",
+					"display_url": "youtu.be/yDCTw9w0-bs",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52895,
+			"friends_count": 13,
+			"listed_count": 253,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] [1stLook Vol.226] 주얼리 여신 등극! #서현 의 보석보다 빛나는 모먼트✨\n▶ https://t.co/DED6jvu5Dn\n\n#서현 #퍼스트룩 #메트로시티 #SEOHYUN #1stLook #Metrocity"
+	},
+	{
 		"created_at": "Thu Oct 07 03:07:09 +0000 2021",
 		"id": 1445946988604768300,
 		"id_str": "1445948784396144646",
