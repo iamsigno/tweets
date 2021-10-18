@@ -1,6 +1,606 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 18 03:07:20 +0000 2021",
+		"id": 1449933285585404000,
+		"id_str": "1449935096769925120",
+		"full_text": "🎈금요일\n✔️ &lt;신과함께 2&gt; 12화 선공개 2 #윤박\n✔️ &lt;미스터캠퍼&gt; 8화 #이수근 #규현\n✔️ &lt;롤로트립&gt; 5화  #효연 #하영\n\n🎈 토요일\n✔️&lt;후야TV 슈퍼 아이돌 리그 - D&amp;E&gt; 1화 다시 보기 #동해 #은혁\n\n🎈 일요일\n✔️&lt;후야TV 슈퍼 아이돌 리그 - D&amp;E&gt; 2화 다시 보기 #동해 #은혁 https://t.co/WgA3se8FcQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤박",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "이수근",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "규현",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "하영",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "동해",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "은혁",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "동해",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "은혁",
+					"indices": [
+						208,
+						211
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449933278840955000,
+					"id_str": "1449933278840954883",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8yopFVIAM3AO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8yopFVIAM3AO-.jpg",
+					"url": "https://t.co/WgA3se8FcQ",
+					"display_url": "pic.twitter.com/WgA3se8FcQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449933285585403910/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449933278840955000,
+					"id_str": "1449933278840954883",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8yopFVIAM3AO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8yopFVIAM3AO-.jpg",
+					"url": "https://t.co/WgA3se8FcQ",
+					"display_url": "pic.twitter.com/WgA3se8FcQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449933285585403910/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449933278937424000,
+					"id_str": "1449933278937423873",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8yopcVIAEFb6n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8yopcVIAEFb6n.jpg",
+					"url": "https://t.co/WgA3se8FcQ",
+					"display_url": "pic.twitter.com/WgA3se8FcQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449933285585403910/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449933279075790800,
+					"id_str": "1449933279075790852",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8yop9UcAQpzjS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8yop9UcAQpzjS.jpg",
+					"url": "https://t.co/WgA3se8FcQ",
+					"display_url": "pic.twitter.com/WgA3se8FcQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449933285585403910/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449933276102099000,
+		"in_reply_to_status_id_str": "1449933276102098946",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43538,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎈금요일\n✔️ &lt;신과함께 2&gt; 12화 선공개 2 #윤박\n✔️ &lt;미스터캠퍼&gt; 8화 #이수근 #규현\n✔️ &lt;롤로트립&gt; 5화  #효연 #하영\n\n🎈 토요일\n✔️&lt;후야TV 슈퍼 아이돌 리그 - D&amp;E&gt; 1화 다시 보기 #동해 #은혁\n\n🎈 일요일\n✔️&lt;후야TV 슈퍼 아이돌 리그 - D&amp;E&gt; 2화 다시 보기 #동해 #은혁 https://t.co/WgA3se8FcQ"
+	},
+	{
+		"created_at": "Mon Oct 18 03:07:11 +0000 2021",
+		"id": 1449933276102099000,
+		"id_str": "1449935058501001220",
+		"full_text": "🎈수요일\n✔️ &lt;미스터캠퍼&gt; 7화 #이수근 #규현\n✔️ &lt;집쿡연구소&gt; 9화 선공개  #에드워드권\n✔️ &lt;롤로트립&gt; 3화  #효연 #하영\n\n🎈목요일\n✔️ &lt;신과함께 2&gt; 12화 선공개 1 #윤박\n✔️ &lt;충전 100% 슈퍼트립&gt; 7화 #이특 #동해 #려욱\n✔️ &lt;롤로트립&gt; 4화  #효연 #하영 https://t.co/clVcyGNrK6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이수근",
+					"indices": [
+						25,
+						29
+					]
+				},
+				{
+					"text": "규현",
+					"indices": [
+						30,
+						33
+					]
+				},
+				{
+					"text": "에드워드권",
+					"indices": [
+						59,
+						65
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "하영",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "윤박",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "이특",
+					"indices": [
+						159,
+						162
+					]
+				},
+				{
+					"text": "동해",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "려욱",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "하영",
+					"indices": [
+						195,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449933270423007200,
+					"id_str": "1449933270423007236",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8yoJuVcAQNUcL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8yoJuVcAQNUcL.jpg",
+					"url": "https://t.co/clVcyGNrK6",
+					"display_url": "pic.twitter.com/clVcyGNrK6",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449933276102098946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449933270423007200,
+					"id_str": "1449933270423007236",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8yoJuVcAQNUcL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8yoJuVcAQNUcL.jpg",
+					"url": "https://t.co/clVcyGNrK6",
+					"display_url": "pic.twitter.com/clVcyGNrK6",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449933276102098946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1449933270540427300,
+					"id_str": "1449933270540427273",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/media/FB8yoKKVIAkxvC7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB8yoKKVIAkxvC7.jpg",
+					"url": "https://t.co/clVcyGNrK6",
+					"display_url": "pic.twitter.com/clVcyGNrK6",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1449933276102098946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1001,
+							"h": 1001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1449933267847704600,
+		"in_reply_to_status_id_str": "1449933267847704584",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43538,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎈수요일\n✔️ &lt;미스터캠퍼&gt; 7화 #이수근 #규현\n✔️ &lt;집쿡연구소&gt; 9화 선공개  #에드워드권\n✔️ &lt;롤로트립&gt; 3화  #효연 #하영\n\n🎈목요일\n✔️ &lt;신과함께 2&gt; 12화 선공개 1 #윤박\n✔️ &lt;충전 100% 슈퍼트립&gt; 7화 #이특 #동해 #려욱\n✔️ &lt;롤로트립&gt; 4화  #효연 #하영 https://t.co/clVcyGNrK6"
+	},
+	{
 		"created_at": "Wed Oct 13 03:07:09 +0000 2021",
 		"id": 1448112737087676400,
 		"id_str": "1448123111677771776",
