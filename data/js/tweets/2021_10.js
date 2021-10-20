@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 11:07:09 +0000 2021",
+		"id": 1450773789956927500,
+		"id_str": "1450780621543022599",
+		"full_text": "[#🌳] 서현이 먼저 유혹했다는 게 학계의 정설\n▶ https://t.co/VKFBZlRMpw\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/yDCYulN4tg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서현",
+					"indices": [
+						54,
+						57
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"text": "NAMOOCONTENTS",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VKFBZlRMpw",
+					"expanded_url": "http://naver.me/5cTp2g9x",
+					"display_url": "naver.me/5cTp2g9x",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450694927399096300,
+					"id_str": "1450694927399096324",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FCHnWbEVkAQRWZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCHnWbEVkAQRWZe.jpg",
+					"url": "https://t.co/yDCYulN4tg",
+					"display_url": "pic.twitter.com/yDCYulN4tg",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1450773789956927490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 645,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1138,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1197,
+							"h": 1262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450694927399096300,
+					"id_str": "1450694927399096324",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/FCHnWbEVkAQRWZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCHnWbEVkAQRWZe.jpg",
+					"url": "https://t.co/yDCYulN4tg",
+					"display_url": "pic.twitter.com/yDCYulN4tg",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1450773789956927490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 645,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1138,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1197,
+							"h": 1262,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정\n4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. \n📸 고화질 아니면 죽음을 달라\n🌳주접은 그저 나무가 내뿜는 산소일 뿐\ninstagram: @namooactors\nyoutube: namooofficial",
+			"url": "https://t.co/pDrppn6MXI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pDrppn6MXI",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53338,
+			"friends_count": 13,
+			"listed_count": 253,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 274,
+		"favorite_count": 321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#🌳] 서현이 먼저 유혹했다는 게 학계의 정설\n▶ https://t.co/VKFBZlRMpw\n\n#서현 #SEOHYUN #NAMOOCONTENTS https://t.co/yDCYulN4tg"
+	},
+	{
 		"created_at": "Wed Oct 20 09:07:09 +0000 2021",
 		"id": 1450748638137753600,
 		"id_str": "1450750422822625280",
