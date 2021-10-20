@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 09:07:09 +0000 2021",
+		"id": 1450748638137753600,
+		"id_str": "1450750422822625280",
+		"full_text": "[#롤로트립🌷EP.3] 다이어터 금지구역\n온몸의 세포가 반응하는 찐 맛집!\n\n👉https://t.co/S2STY1Sgyi\n\n#효연#오하영#HYOYEON#OHHAYOUNG\n#경남관광#경남관광재단#MBC경남#언택트관광경남#필환경여행경남\n#경상남도_남해 #SNS핫플 #수제버거맛집\n#다이어트_저리가라 #뷰맛집 https://t.co/71YbqXt2XD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤로트립",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "경상남도_남해",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "SNS핫플",
+					"indices": [
+						139,
+						145
+					]
+				},
+				{
+					"text": "수제버거맛집",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "다이어트_저리가라",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "뷰맛집",
+					"indices": [
+						165,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S2STY1Sgyi",
+					"expanded_url": "https://youtu.be/9FMlnM9zenY",
+					"display_url": "youtu.be/9FMlnM9zenY",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450689275012391000,
+					"id_str": "1450689275012390915",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FCHiNaSVIAMxc1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCHiNaSVIAMxc1r.jpg",
+					"url": "https://t.co/71YbqXt2XD",
+					"display_url": "pic.twitter.com/71YbqXt2XD",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1450748638137753609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450689275012391000,
+					"id_str": "1450689275012390915",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FCHiNaSVIAMxc1r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCHiNaSVIAMxc1r.jpg",
+					"url": "https://t.co/71YbqXt2XD",
+					"display_url": "pic.twitter.com/71YbqXt2XD",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1450748638137753609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43603,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#롤로트립🌷EP.3] 다이어터 금지구역\n온몸의 세포가 반응하는 찐 맛집!\n\n👉https://t.co/S2STY1Sgyi\n\n#효연#오하영#HYOYEON#OHHAYOUNG\n#경남관광#경남관광재단#MBC경남#언택트관광경남#필환경여행경남\n#경상남도_남해 #SNS핫플 #수제버거맛집\n#다이어트_저리가라 #뷰맛집 https://t.co/71YbqXt2XD"
+	},
+	{
 		"created_at": "Tue Oct 19 09:07:08 +0000 2021",
 		"id": 1450386246396780500,
 		"id_str": "1450388033694543874",
