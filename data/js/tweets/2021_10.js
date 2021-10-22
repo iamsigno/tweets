@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 04:07:09 +0000 2021",
+		"id": 1451397906100064300,
+		"id_str": "1451399701434093572",
+		"full_text": "#크래비티 #민희 #정모 'Crush - 잊어버리지마 (Feat. 태연)' 공개💕\n나 지금 너무 걱정돼... 미니모가 지구에서 노래하면...천국은 누가 지켜?😲\nWatch #CRAVITY #Minhee and #Jungmo 's 'Don't Forget'\nfull ver. 👉 https://t.co/tjG7XeyLko\n\n#미니모쥬크박스 @CRAVITYstarship https://t.co/m34vCLFAbC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크래비티",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "민희",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "정모",
+					"indices": [
+						10,
+						13
+					]
+				},
+				{
+					"text": "CRAVITY",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "Minhee",
+					"indices": [
+						105,
+						112
+					]
+				},
+				{
+					"text": "Jungmo",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "미니모쥬크박스",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						189,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tjG7XeyLko",
+					"expanded_url": "http://youtu.be/ga69wZs7-Fw",
+					"display_url": "youtu.be/ga69wZs7-Fw",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451368038930944000,
+					"id_str": "1451368038930944007",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1451368038930944007/img/5lOWVzNvWfRUo9eq.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1451368038930944007/img/5lOWVzNvWfRUo9eq.jpg",
+					"url": "https://t.co/m34vCLFAbC",
+					"display_url": "pic.twitter.com/m34vCLFAbC",
+					"expanded_url": "https://twitter.com/1theK/status/1451397906100064259/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451368038930944000,
+					"id_str": "1451368038930944007",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1451368038930944007/img/5lOWVzNvWfRUo9eq.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1451368038930944007/img/5lOWVzNvWfRUo9eq.jpg",
+					"url": "https://t.co/m34vCLFAbC",
+					"display_url": "pic.twitter.com/m34vCLFAbC",
+					"expanded_url": "https://twitter.com/1theK/status/1451397906100064259/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59893,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1451368038930944007/vid/640x360/E7WX-uZBW-tXJgRr.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1451368038930944007/vid/1280x720/cTGSqE_PVbrcR6C2.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1451368038930944007/pl/TcYjRqaMhO8NYWLA.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1451368038930944007/vid/480x270/gWyHolmvvswyqzec.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/ga69wZs7-Fw"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "\"K-POP Wonderland\" 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2284839,
+			"friends_count": 817,
+			"listed_count": 2134,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14835,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1634634004",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 135,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#크래비티 #민희 #정모 'Crush - 잊어버리지마 (Feat. 태연)' 공개💕\n나 지금 너무 걱정돼... 미니모가 지구에서 노래하면...천국은 누가 지켜?😲\nWatch #CRAVITY #Minhee and #Jungmo 's 'Don't Forget'\nfull ver. 👉 https://t.co/tjG7XeyLko\n\n#미니모쥬크박스 @CRAVITYstarship https://t.co/m34vCLFAbC"
+	},
+	{
 		"created_at": "Wed Oct 20 13:44:57 +0000 2021",
 		"id": 1450817865289027600,
 		"id_str": "1450820334270226441",
