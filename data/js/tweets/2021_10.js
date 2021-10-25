@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 25 05:07:08 +0000 2021",
+		"id": 1452491706465616000,
+		"id_str": "1452501963145465860",
+		"full_text": "[#아이돌차트]\n[NEW POLL] 드라마와 영화 OST에 찰떡인 가수는?\n\n이 장면엔 내 최애 목소리지!\nOST의 왕👑은 누구?\n\nhttps://t.co/9T8pGjzdKG\n\n#강다니엘 #김우석 #김호중 #린 #백지영 #아이유 #에스파 #윈터 #정은지 #카더가든 #태연 #이승철 #악동뮤지션 #강혜연 #김종국 #린 https://t.co/a8poJ2FY43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						99,
+						104
+					]
+				},
+				{
+					"text": "김우석",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "김호중",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "린",
+					"indices": [
+						115,
+						117
+					]
+				},
+				{
+					"text": "백지영",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "정은지",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "카더가든",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "이승철",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "악동뮤지션",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"text": "강혜연",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "김종국",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "린",
+					"indices": [
+						174,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9T8pGjzdKG",
+					"expanded_url": "https://idol-chart.com/poll/",
+					"display_url": "idol-chart.com/poll/",
+					"indices": [
+						74,
+						97
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1452491469755805700,
+					"id_str": "1452491469755805697",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FChJS84UcAECs6F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FChJS84UcAECs6F.jpg",
+					"url": "https://t.co/a8poJ2FY43",
+					"display_url": "pic.twitter.com/a8poJ2FY43",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1452491706465615875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1452491469755805700,
+					"id_str": "1452491469755805697",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/FChJS84UcAECs6F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FChJS84UcAECs6F.jpg",
+					"url": "https://t.co/a8poJ2FY43",
+					"display_url": "pic.twitter.com/a8poJ2FY43",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1452491706465615875/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1762,
+			"friends_count": 30,
+			"listed_count": 11,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1809,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌차트]\n[NEW POLL] 드라마와 영화 OST에 찰떡인 가수는?\n\n이 장면엔 내 최애 목소리지!\nOST의 왕👑은 누구?\n\nhttps://t.co/9T8pGjzdKG\n\n#강다니엘 #김우석 #김호중 #린 #백지영 #아이유 #에스파 #윈터 #정은지 #카더가든 #태연 #이승철 #악동뮤지션 #강혜연 #김종국 #린 https://t.co/a8poJ2FY43"
+	},
+	{
 		"created_at": "Mon Oct 25 03:07:21 +0000 2021",
 		"id": 1452470054474301400,
 		"id_str": "1452471815666810886",
