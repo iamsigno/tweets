@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 25 09:07:09 +0000 2021",
+		"id": 1452560563725234200,
+		"id_str": "1452562361957683204",
+		"full_text": "[#롤로트립🌷EP.6] 할렐루야! 캠핑장에 강림하신 고느님♥\n\n👉https://t.co/q2CWIDT3li\n\n#효연 #오하영 \n#HYOYEON #OHHAYOUNG \n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 \n#경상남도_사천 #솔섬오토캠핑장 #갬성캠핑 \n#배불러도_고기배는_따로 #고느님_영접 https://t.co/JGaMEp8nm7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤로트립",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "오하영",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						71,
+						79
+					]
+				},
+				{
+					"text": "OHHAYOUNG",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "경남관광",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "경남관광재단",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "MBC경남",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "언택트관광경남",
+					"indices": [
+						113,
+						121
+					]
+				},
+				{
+					"text": "필환경여행경남",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"text": "경상남도_사천",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"text": "솔섬오토캠핑장",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "갬성캠핑",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "배불러도_고기배는_따로",
+					"indices": [
+						157,
+						170
+					]
+				},
+				{
+					"text": "고느님_영접",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/q2CWIDT3li",
+					"expanded_url": "https://youtu.be/s8KXEcNckqo",
+					"display_url": "youtu.be/s8KXEcNckqo",
+					"indices": [
+						36,
+						59
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1452464725669789700,
+					"id_str": "1452464725669789700",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FCgw-PZVQAQ0tDE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCgw-PZVQAQ0tDE.jpg",
+					"url": "https://t.co/JGaMEp8nm7",
+					"display_url": "pic.twitter.com/JGaMEp8nm7",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1452560563725234176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1452464725669789700,
+					"id_str": "1452464725669789700",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FCgw-PZVQAQ0tDE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCgw-PZVQAQ0tDE.jpg",
+					"url": "https://t.co/JGaMEp8nm7",
+					"display_url": "pic.twitter.com/JGaMEp8nm7",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1452560563725234176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43723,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#롤로트립🌷EP.6] 할렐루야! 캠핑장에 강림하신 고느님♥\n\n👉https://t.co/q2CWIDT3li\n\n#효연 #오하영 \n#HYOYEON #OHHAYOUNG \n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 \n#경상남도_사천 #솔섬오토캠핑장 #갬성캠핑 \n#배불러도_고기배는_따로 #고느님_영접 https://t.co/JGaMEp8nm7"
+	},
+	{
 		"created_at": "Mon Oct 25 05:07:08 +0000 2021",
 		"id": 1452491706465616000,
 		"id_str": "1452501963145465860",
