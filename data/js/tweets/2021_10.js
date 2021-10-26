@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 11:07:09 +0000 2021",
+		"id": 1452945377078902800,
+		"id_str": "1452954949181231112",
+		"full_text": "여러분 울 쨘공주가 이렇게 계속 태연하게 MC를 해도 되는 거예요⁉️더쇼는 진짜 울 쪼댕이 볼 때마다 걱정이 태산이에요🤦🏻‍♀️ 매주 요정인 걸 너무 티내버리니까•••요정나라에서 울 대왕 댕댕 요정이 없어진 걸 알고 다시 데리고 갈까봐.. 늘 불안해 죽겠다구요〰️😖\n\n#지한 #쪼댕이 #THESHOW @_Weeekly https://t.co/omxuBClC9c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지한",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "쪼댕이",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "THESHOW",
+					"indices": [
+						159,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Weeekly",
+					"name": "Weeekly (위클리)",
+					"id": 874918428825485300,
+					"id_str": "874918428825485312",
+					"indices": [
+						168,
+						177
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1452945365510938600,
+					"id_str": "1452945365510938631",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FCnmHKVUYAcxqGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCnmHKVUYAcxqGu.jpg",
+					"url": "https://t.co/omxuBClC9c",
+					"display_url": "pic.twitter.com/omxuBClC9c",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1452945377078902789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1452945365510938600,
+					"id_str": "1452945365510938631",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FCnmHKVUYAcxqGu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCnmHKVUYAcxqGu.jpg",
+					"url": "https://t.co/omxuBClC9c",
+					"display_url": "pic.twitter.com/omxuBClC9c",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1452945377078902789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 511,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1538,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1452945365511000000,
+					"id_str": "1452945365511000070",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FCnmHKVVUAYhga6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCnmHKVVUAYhga6.jpg",
+					"url": "https://t.co/omxuBClC9c",
+					"display_url": "pic.twitter.com/omxuBClC9c",
+					"expanded_url": "https://twitter.com/sbsmtvtheshow/status/1452945377078902789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 517295819,
+			"id_str": "517295819",
+			"name": "THE SHOW",
+			"screen_name": "sbsmtvtheshow",
+			"location": "",
+			"description": "SBS MTV THE SHOW",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 999644,
+			"friends_count": 106,
+			"listed_count": 1665,
+			"created_at": "Wed Mar 07 06:49:30 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/998746706702315520/avXWfYK7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/517295819/1528422724",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 527,
+		"favorite_count": 1696,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "여러분 울 쨘공주가 이렇게 계속 태연하게 MC를 해도 되는 거예요⁉️더쇼는 진짜 울 쪼댕이 볼 때마다 걱정이 태산이에요🤦🏻‍♀️ 매주 요정인 걸 너무 티내버리니까•••요정나라에서 울 대왕 댕댕 요정이 없어진 걸 알고 다시 데리고 갈까봐.. 늘 불안해 죽겠다구요〰️😖\n\n#지한 #쪼댕이 #THESHOW @_Weeekly https://t.co/omxuBClC9c"
+	},
+	{
 		"created_at": "Tue Oct 26 09:07:08 +0000 2021",
 		"id": 1452922958851285000,
 		"id_str": "1452924749106061314",
