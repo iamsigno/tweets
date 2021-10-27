@@ -1,10 +1,266 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 27 09:07:08 +0000 2021",
+		"id": 1453285338927992800,
+		"id_str": "1453287137424650242",
+		"full_text": "[#롤로트립🌷EP.8] 꾸며도 꾸며도 개꾸져! 빠졌다 ‘꾸꾸꾸’의 늪  \n\n👉https://t.co/FHTXwfQutx\n\n#효연 #오하영\n#HYOYEON #OHHAYOUNG\n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 https://t.co/MsWFBRwZ3F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤로트립",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "오하영",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "OHHAYOUNG",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "경남관광",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "경남관광재단",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "MBC경남",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "언택트관광경남",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"text": "필환경여행경남",
+					"indices": [
+						127,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FHTXwfQutx",
+					"expanded_url": "https://youtu.be/LYV-gtRR_X0",
+					"display_url": "youtu.be/LYV-gtRR_X0",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1453268085415235600,
+					"id_str": "1453268085415235588",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FCsLn7qWUAQsn8p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCsLn7qWUAQsn8p.jpg",
+					"url": "https://t.co/MsWFBRwZ3F",
+					"display_url": "pic.twitter.com/MsWFBRwZ3F",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1453285338927992836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453268085415235600,
+					"id_str": "1453268085415235588",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/FCsLn7qWUAQsn8p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCsLn7qWUAQsn8p.jpg",
+					"url": "https://t.co/MsWFBRwZ3F",
+					"display_url": "pic.twitter.com/MsWFBRwZ3F",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1453285338927992836/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43805,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#롤로트립🌷EP.8] 꾸며도 꾸며도 개꾸져! 빠졌다 ‘꾸꾸꾸’의 늪  \n\n👉https://t.co/FHTXwfQutx\n\n#효연 #오하영\n#HYOYEON #OHHAYOUNG\n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 https://t.co/MsWFBRwZ3F"
+	},
+	{
 		"created_at": "Tue Oct 26 11:07:09 +0000 2021",
 		"id": 1452945377078902800,
 		"id_str": "1452954949181231112",
-		"full_text": "여러분 울 쨘공주가 이렇게 계속 태연하게 MC를 해도 되는 거예요⁉️더쇼는 진짜 울 쪼댕이 볼 때마다 걱정이 태산이에요🤦🏻‍♀️ 매주 요정인 걸 너무 티내버리니까•••요정나라에서 울 대왕 댕댕 요정이 없어진 걸 알고 다시 데리고 갈까봐.. 늘 불안해 죽겠다구요〰️😖\n\n#지한 #쪼댕이 #THESHOW @_Weeekly https://t.co/omxuBClC9c",
+		"full_text": "여러분 울 쨘공주가 이렇게 계속 태연하게 MC를 해도 되는 거예요⁉️더쇼는 진짜 울 쪼댕이 볼 때마다 걱정이 태산이에요🤦🏻♀️ 매주 요정인 걸 너무 티내버리니까•••요정나라에서 울 대왕 댕댕 요정이 없어진 걸 알고 다시 데리고 갈까봐.. 늘 불안해 죽겠다구요〰️😖\n\n#지한 #쪼댕이 #THESHOW @_Weeekly https://t.co/omxuBClC9c",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -229,7 +485,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "여러분 울 쨘공주가 이렇게 계속 태연하게 MC를 해도 되는 거예요⁉️더쇼는 진짜 울 쪼댕이 볼 때마다 걱정이 태산이에요🤦🏻‍♀️ 매주 요정인 걸 너무 티내버리니까•••요정나라에서 울 대왕 댕댕 요정이 없어진 걸 알고 다시 데리고 갈까봐.. 늘 불안해 죽겠다구요〰️😖\n\n#지한 #쪼댕이 #THESHOW @_Weeekly https://t.co/omxuBClC9c"
+		"text": "여러분 울 쨘공주가 이렇게 계속 태연하게 MC를 해도 되는 거예요⁉️더쇼는 진짜 울 쪼댕이 볼 때마다 걱정이 태산이에요🤦🏻♀️ 매주 요정인 걸 너무 티내버리니까•••요정나라에서 울 대왕 댕댕 요정이 없어진 걸 알고 다시 데리고 갈까봐.. 늘 불안해 죽겠다구요〰️😖\n\n#지한 #쪼댕이 #THESHOW @_Weeekly https://t.co/omxuBClC9c"
 	},
 	{
 		"created_at": "Tue Oct 26 09:07:08 +0000 2021",
