@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 10:44:56 +0000 2021",
+		"id": 1454029945399746600,
+		"id_str": "1454036525298114562",
+		"full_text": "【#SONEJAPAN】メンバーの個性を特集したデジタルマガジン『SONE NOTE LIVE』のVol.34を更新しました！今回のメンバーはヒョヨン💚\nそんなヒョヨンからメッセージ動画をお届け！\nぜひチェックしてください♪\n※会員様限定コンテンツのため転載禁止です。\n\n#少女時代\n#HYOYEON\n#ヒョヨン\n#SONENOTELIVE https://t.co/hgaG7bgZzg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SONEJAPAN",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "ヒョヨン",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "SONENOTELIVE",
+					"indices": [
+						157,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1454029849195348000,
+					"id_str": "1454029849195347968",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1454029849195347968/pu/img/uzoT85xlFP2TeKXk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1454029849195347968/pu/img/uzoT85xlFP2TeKXk.jpg",
+					"url": "https://t.co/hgaG7bgZzg",
+					"display_url": "pic.twitter.com/hgaG7bgZzg",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1454029945399746562/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1454029849195348000,
+					"id_str": "1454029849195347968",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1454029849195347968/pu/img/uzoT85xlFP2TeKXk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1454029849195347968/pu/img/uzoT85xlFP2TeKXk.jpg",
+					"url": "https://t.co/hgaG7bgZzg",
+					"display_url": "pic.twitter.com/hgaG7bgZzg",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1454029945399746562/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 9376,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1454029849195347968/pu/vid/1280x720/lqHZByKhJELiWi6u.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1454029849195347968/pu/pl/8HFT6ZktADQ9aMd5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1454029849195347968/pu/vid/640x360/rphtzD20K6eUmTgr.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1454029849195347968/pu/vid/480x270/nenbqr0KfX8qTtFL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107263,
+			"friends_count": 0,
+			"listed_count": 498,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 317,
+		"favorite_count": 629,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#SONEJAPAN】メンバーの個性を特集したデジタルマガジン『SONE NOTE LIVE』のVol.34を更新しました！今回のメンバーはヒョヨン💚\nそんなヒョヨンからメッセージ動画をお届け！\nぜひチェックしてください♪\n※会員様限定コンテンツのため転載禁止です。\n\n#少女時代\n#HYOYEON\n#ヒョヨン\n#SONENOTELIVE https://t.co/hgaG7bgZzg"
+	},
+	{
 		"created_at": "Fri Oct 29 09:07:08 +0000 2021",
 		"id": 1454010125874876400,
 		"id_str": "1454011912849604611",
