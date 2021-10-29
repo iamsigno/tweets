@@ -1,10 +1,266 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 09:07:08 +0000 2021",
+		"id": 1454010125874876400,
+		"id_str": "1454011912849604611",
+		"full_text": "[#롤로트립🌷EP.10] “박박 맛있어...” \n마지막에 찾은 우리들의 연결고리♥ \n\n👉https://t.co/fnNGLD3VxF\n\n#효연 #오하영\n#HYOYEON #OHHAYOUNG\n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 https://t.co/7xxEPizuB6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤로트립",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "오하영",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "OHHAYOUNG",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"text": "경남관광",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "경남관광재단",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "MBC경남",
+					"indices": [
+						117,
+						123
+					]
+				},
+				{
+					"text": "언택트관광경남",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "필환경여행경남",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fnNGLD3VxF",
+					"expanded_url": "https://youtu.be/0igyjXvyTtc",
+					"display_url": "youtu.be/0igyjXvyTtc",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1453583443908960300,
+					"id_str": "1453583443908960260",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FCwqcNmVIAQXkpc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCwqcNmVIAQXkpc.jpg",
+					"url": "https://t.co/7xxEPizuB6",
+					"display_url": "pic.twitter.com/7xxEPizuB6",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1454010125874876417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453583443908960300,
+					"id_str": "1453583443908960260",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FCwqcNmVIAQXkpc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCwqcNmVIAQXkpc.jpg",
+					"url": "https://t.co/7xxEPizuB6",
+					"display_url": "pic.twitter.com/7xxEPizuB6",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1454010125874876417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTyeyd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTyeyd",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 43906,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1632906156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#롤로트립🌷EP.10] “박박 맛있어...” \n마지막에 찾은 우리들의 연결고리♥ \n\n👉https://t.co/fnNGLD3VxF\n\n#효연 #오하영\n#HYOYEON #OHHAYOUNG\n#경남관광 #경남관광재단 #MBC경남 #언택트관광경남 #필환경여행경남 https://t.co/7xxEPizuB6"
+	},
+	{
 		"created_at": "Fri Oct 29 03:07:17 +0000 2021",
 		"id": 1453919520842829800,
 		"id_str": "1453921351018893316",
-		"full_text": "[🎁탱키박스] 선공개 대 공개 🎊\n\n탱키박스 볼 사람 여기여기 붙어라~ 우리,, SM 깐부자너,,, 🙋‍♀️🙋‍♂️🤸‍♀️🤸‍♂️\n친구같이 편안한 예능이 곧 찾아갑니다 커밍순~🙇‍♂️💌\n👉https://t.co/fqQQFg8lcl\n\n11월 12일 (금) 오후 12시 첫 공개\n#웨이브 에서 만나요 🌊\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n@wavve_official https://t.co/plcL2qV9mk",
+		"full_text": "[🎁탱키박스] 선공개 대 공개 🎊\n\n탱키박스 볼 사람 여기여기 붙어라~ 우리,, SM 깐부자너,,, 🙋♀️🙋♂️🤸♀️🤸♂️\n친구같이 편안한 예능이 곧 찾아갑니다 커밍순~🙇♂️💌\n👉https://t.co/fqQQFg8lcl\n\n11월 12일 (금) 오후 12시 첫 공개\n#웨이브 에서 만나요 🌊\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n@wavve_official https://t.co/plcL2qV9mk",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -237,7 +493,7 @@ Grailbird.data.tweets_2021_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[🎁탱키박스] 선공개 대 공개 🎊\n\n탱키박스 볼 사람 여기여기 붙어라~ 우리,, SM 깐부자너,,, 🙋‍♀️🙋‍♂️🤸‍♀️🤸‍♂️\n친구같이 편안한 예능이 곧 찾아갑니다 커밍순~🙇‍♂️💌\n👉https://t.co/fqQQFg8lcl\n\n11월 12일 (금) 오후 12시 첫 공개\n#웨이브 에서 만나요 🌊\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n@wavve_official https://t.co/plcL2qV9mk"
+		"text": "[🎁탱키박스] 선공개 대 공개 🎊\n\n탱키박스 볼 사람 여기여기 붙어라~ 우리,, SM 깐부자너,,, 🙋♀️🙋♂️🤸♀️🤸♂️\n친구같이 편안한 예능이 곧 찾아갑니다 커밍순~🙇♂️💌\n👉https://t.co/fqQQFg8lcl\n\n11월 12일 (금) 오후 12시 첫 공개\n#웨이브 에서 만나요 🌊\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n@wavve_official https://t.co/plcL2qV9mk"
 	},
 	{
 		"created_at": "Thu Oct 28 09:07:08 +0000 2021",
