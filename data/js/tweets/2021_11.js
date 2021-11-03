@@ -1,10 +1,265 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 06:07:08 +0000 2021",
+		"id": 1455776758616232000,
+		"id_str": "1455778553480585219",
+		"full_text": "2022 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR \n3. HARD COVER DIARY\n4. POSTCARD SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. ACCORDION POSTCARD SET\n\n예약판매 진행 중 https://t.co/XuIFi9xVGV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455719424712126500,
+					"id_str": "1455719424712126465",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPBGqKaMAE92dG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPBGqKaMAE92dG.jpg",
+					"url": "https://t.co/XuIFi9xVGV",
+					"display_url": "pic.twitter.com/XuIFi9xVGV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1455776758616231936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 349,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 616,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1051,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455719424712126500,
+					"id_str": "1455719424712126465",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPBGqKaMAE92dG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPBGqKaMAE92dG.jpg",
+					"url": "https://t.co/XuIFi9xVGV",
+					"display_url": "pic.twitter.com/XuIFi9xVGV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1455776758616231936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 349,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 616,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1051,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455719424707948500,
+					"id_str": "1455719424707948544",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPBGqJacAAZEZx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPBGqJacAAZEZx.jpg",
+					"url": "https://t.co/XuIFi9xVGV",
+					"display_url": "pic.twitter.com/XuIFi9xVGV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1455776758616231936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 887,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 520,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 295,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455719424712126500,
+					"id_str": "1455719424712126464",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FDPBGqKaMAApMlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDPBGqKaMAApMlg.jpg",
+					"url": "https://t.co/XuIFi9xVGV",
+					"display_url": "pic.twitter.com/XuIFi9xVGV",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1455776758616231936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 251,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 442,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 755,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3672525,
+			"friends_count": 4,
+			"listed_count": 5584,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1666,
+		"favorite_count": 2238,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 SM ARTIST SEASON’S GREETINGS Oh!GG #소녀시대\n\n[구성 안내]\n1. PACKAGE\n2. DESK CALENDAR \n3. HARD COVER DIARY\n4. POSTCARD SET\n5. FOLDED POSTER CALENDAR SET\n6. STICKER SET ( PHOTO &amp; HANDWRITING )\n7. A4 POSTER SET\n8. MINI BROCHURE\n9. ACCORDION POSTCARD SET\n\n예약판매 진행 중 https://t.co/XuIFi9xVGV"
+	},
+	{
 		"created_at": "Wed Nov 03 05:07:08 +0000 2021",
 		"id": 1455754943609008000,
 		"id_str": "1455763454351007749",
-		"full_text": "📍เตรียมพบกับ #TAEYEON #GIRLSGENERATION และ #KEY #SHINee​ ในรายการ #TAENGKEYBOX\n\nอัปเดตตอนใหม่ พร้อมซับ🇹🇭 ทุกวันศุกร์ เวลา 16.00 น.สัปดาห์ละ 2 EP เจอกัน 19 พ.ย.นี้ ที่ ทรูไอดี ทางแพ็กเกจ TrueID+ ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี30วัน https://t.co/j8kMz0nT2Q https://t.co/H4iqjkurQc",
+		"full_text": "📍เตรียมพบกับ #TAEYEON #GIRLSGENERATION และ #KEY #SHINee ในรายการ #TAENGKEYBOX\n\nอัปเดตตอนใหม่ พร้อมซับ🇹🇭 ทุกวันศุกร์ เวลา 16.00 น.สัปดาห์ละ 2 EP เจอกัน 19 พ.ย.นี้ ที่ ทรูไอดี ทางแพ็กเกจ TrueID+ ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี30วัน https://t.co/j8kMz0nT2Q https://t.co/H4iqjkurQc",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -238,7 +493,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "th",
-		"text": "📍เตรียมพบกับ #TAEYEON #GIRLSGENERATION และ #KEY #SHINee​ ในรายการ #TAENGKEYBOX\n\nอัปเดตตอนใหม่ พร้อมซับ🇹🇭 ทุกวันศุกร์ เวลา 16.00 น.สัปดาห์ละ 2 EP เจอกัน 19 พ.ย.นี้ ที่ ทรูไอดี ทางแพ็กเกจ TrueID+ ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี30วัน https://t.co/j8kMz0nT2Q https://t.co/H4iqjkurQc"
+		"text": "📍เตรียมพบกับ #TAEYEON #GIRLSGENERATION และ #KEY #SHINee ในรายการ #TAENGKEYBOX\n\nอัปเดตตอนใหม่ พร้อมซับ🇹🇭 ทุกวันศุกร์ เวลา 16.00 น.สัปดาห์ละ 2 EP เจอกัน 19 พ.ย.นี้ ที่ ทรูไอดี ทางแพ็กเกจ TrueID+ ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี30วัน https://t.co/j8kMz0nT2Q https://t.co/H4iqjkurQc"
 	},
 	{
 		"created_at": "Mon Nov 01 03:07:09 +0000 2021",
