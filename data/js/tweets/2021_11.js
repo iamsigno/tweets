@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 04 03:12:22 +0000 2021",
+		"id": 1456083948832903200,
+		"id_str": "1456096959232626688",
+		"full_text": "[#2021MAMA] Best Dance Performance Solo Nominee l #taeyeon #태연 #Weekend\n\nMake Some Noise, 2021 MAMA\n2021.12.11 (SAT)\n\n#MnetASIANMUSICAWARDS #MAMA #MakeSomeNoise #Mnet https://t.co/GWOYrde5Xj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						118,
+						139
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						146,
+						160
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456083916465803300,
+					"id_str": "1456083916465803264",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUMm3wakAAfm1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUMm3wakAAfm1a.jpg",
+					"url": "https://t.co/GWOYrde5Xj",
+					"display_url": "pic.twitter.com/GWOYrde5Xj",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1456083948832903170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456083916465803300,
+					"id_str": "1456083916465803264",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FDUMm3wakAAfm1a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDUMm3wakAAfm1a.jpg",
+					"url": "https://t.co/GWOYrde5Xj",
+					"display_url": "pic.twitter.com/GWOYrde5Xj",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1456083948832903170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpCZ91k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpCZ91k",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2320182,
+			"friends_count": 105,
+			"listed_count": 2089,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450332871143555076/fWEqukGE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450332871143555076/fWEqukGE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1634621277",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 844,
+		"favorite_count": 2230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "[#2021MAMA] Best Dance Performance Solo Nominee l #taeyeon #태연 #Weekend\n\nMake Some Noise, 2021 MAMA\n2021.12.11 (SAT)\n\n#MnetASIANMUSICAWARDS #MAMA #MakeSomeNoise #Mnet https://t.co/GWOYrde5Xj"
+	},
+	{
 		"created_at": "Wed Nov 03 15:07:09 +0000 2021",
 		"id": 1455910340961570800,
 		"id_str": "1455914449932533764",
