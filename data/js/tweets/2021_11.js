@@ -1,10 +1,318 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 04:07:10 +0000 2021",
+		"id": 1456471335303929900,
+		"id_str": "1456473135058935816",
+		"full_text": "[🎁#탱키박스] 포스터 대 공개 🎊\n \n소녀시대 태연과 샤이니 키의 즐거운 수다 party time !\n이대로 계속 party time ~💘\nSo special한 예능이 곧 찾아갑니다 많관부 많관부~🌈✨\n \n11월 12일 (금) 오후 12시 첫 공개\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n#웨이브오리지널 @wavve_official https://t.co/p5uvrC9nUk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱키박스",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						146,
+						148
+					]
+				},
+				{
+					"text": "탱키박스",
+					"indices": [
+						149,
+						154
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						169,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wavve_official",
+					"name": "wavve(웨이브)",
+					"id": 859926865972043800,
+					"id_str": "859926865972043776",
+					"indices": [
+						178,
+						193
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456143598001754000,
+					"id_str": "1456143598001754112",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVC4yzakAAt1bf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVC4yzakAAt1bf.jpg",
+					"url": "https://t.co/p5uvrC9nUk",
+					"display_url": "pic.twitter.com/p5uvrC9nUk",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1456471335303929861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456143598001754000,
+					"id_str": "1456143598001754112",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVC4yzakAAt1bf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVC4yzakAAt1bf.jpg",
+					"url": "https://t.co/p5uvrC9nUk",
+					"display_url": "pic.twitter.com/p5uvrC9nUk",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1456471335303929861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456143598173720600,
+					"id_str": "1456143598173720576",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVC4zcakAAJqrK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVC4zcakAAJqrK.jpg",
+					"url": "https://t.co/p5uvrC9nUk",
+					"display_url": "pic.twitter.com/p5uvrC9nUk",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1456471335303929861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456143598177894400,
+					"id_str": "1456143598177894400",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FDVC4zdaQAAHf2c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDVC4zdaQAAHf2c.jpg",
+					"url": "https://t.co/p5uvrC9nUk",
+					"display_url": "pic.twitter.com/p5uvrC9nUk",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1456471335303929861/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                ⛱ NCT LIFE in 가평 🚗 텔미썸씽 🏕미스터캠퍼 🚙슈퍼트립",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44583,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1635755625",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 197,
+		"favorite_count": 175,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎁#탱키박스] 포스터 대 공개 🎊\n \n소녀시대 태연과 샤이니 키의 즐거운 수다 party time !\n이대로 계속 party time ~💘\nSo special한 예능이 곧 찾아갑니다 많관부 많관부~🌈✨\n \n11월 12일 (금) 오후 12시 첫 공개\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n#웨이브오리지널 @wavve_official https://t.co/p5uvrC9nUk"
+	},
+	{
 		"created_at": "Thu Nov 04 05:07:17 +0000 2021",
 		"id": 1456108948545851400,
 		"id_str": "1456125876060446722",
-		"full_text": "📢 19 พ.ย.นี้ พบกับ #KEY #SHINee และ #TAEYEON #GIRLSGENERATION​ ในรายการ #TAENGKEYBOX ที่ ทรูไอดี ทางแพ็กเกจ #ทรูไอดีพลัส\n\nอัปเดตตอนใหม่ พร้อมซับไทย ทุกวันศุกร์ เวลา 16.00 น. สัปดาห์ละ 2 EP ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี 30 วัน https://t.co/j8kMz06ibi https://t.co/5ScyeQcSnO",
+		"full_text": "📢 19 พ.ย.นี้ พบกับ #KEY #SHINee และ #TAEYEON #GIRLSGENERATION ในรายการ #TAENGKEYBOX ที่ ทรูไอดี ทางแพ็กเกจ #ทรูไอดีพลัส\n\nอัปเดตตอนใหม่ พร้อมซับไทย ทุกวันศุกร์ เวลา 16.00 น. สัปดาห์ละ 2 EP ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี 30 วัน https://t.co/j8kMz06ibi https://t.co/5ScyeQcSnO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -245,7 +553,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "th",
-		"text": "📢 19 พ.ย.นี้ พบกับ #KEY #SHINee และ #TAEYEON #GIRLSGENERATION​ ในรายการ #TAENGKEYBOX ที่ ทรูไอดี ทางแพ็กเกจ #ทรูไอดีพลัส\n\nอัปเดตตอนใหม่ พร้อมซับไทย ทุกวันศุกร์ เวลา 16.00 น. สัปดาห์ละ 2 EP ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี 30 วัน https://t.co/j8kMz06ibi https://t.co/5ScyeQcSnO"
+		"text": "📢 19 พ.ย.นี้ พบกับ #KEY #SHINee และ #TAEYEON #GIRLSGENERATION ในรายการ #TAENGKEYBOX ที่ ทรูไอดี ทางแพ็กเกจ #ทรูไอดีพลัส\n\nอัปเดตตอนใหม่ พร้อมซับไทย ทุกวันศุกร์ เวลา 16.00 น. สัปดาห์ละ 2 EP ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี 30 วัน https://t.co/j8kMz06ibi https://t.co/5ScyeQcSnO"
 	},
 	{
 		"created_at": "Thu Nov 04 03:12:22 +0000 2021",
