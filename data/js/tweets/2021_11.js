@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 06:07:08 +0000 2021",
+		"id": 1456471336155431000,
+		"id_str": "1456503329341771776",
+		"full_text": "#TAENGKEYBOX รายการใหม่ จาก #TAEYEON #GIRLSGENERATION และ #KEY #SHINee\n\n พบกัน 19 พ.ย.นี้ ที่ ทรูไอดี ทางแพ็กเกจ #TrueIDPlus\n\nอัปเดตตอนใหม่ พร้อมซับไทย ทุกวันศุกร์ เวลา 16.00 น. สัปดาห์ละ 2 EP ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี 30 วัน https://t.co/j8kMz0nT2Q https://t.co/LhKVH1P1BQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAENGKEYBOX",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "GIRLSGENERATION",
+					"indices": [
+						37,
+						53
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "TrueIDPlus",
+					"indices": [
+						113,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j8kMz0nT2Q",
+					"expanded_url": "https://trueid.onelink.me/14Ip/d9cb2c1e",
+					"display_url": "trueid.onelink.me/14Ip/d9cb2c1e",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456231734702268400,
+					"id_str": "1456231734702268423",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FDWTDBmUYAcpQU8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDWTDBmUYAcpQU8.jpg",
+					"url": "https://t.co/LhKVH1P1BQ",
+					"display_url": "pic.twitter.com/LhKVH1P1BQ",
+					"expanded_url": "https://twitter.com/TrueID_TH/status/1456471336155430914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1441,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456231734702268400,
+					"id_str": "1456231734702268423",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FDWTDBmUYAcpQU8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDWTDBmUYAcpQU8.jpg",
+					"url": "https://t.co/LhKVH1P1BQ",
+					"display_url": "pic.twitter.com/LhKVH1P1BQ",
+					"expanded_url": "https://twitter.com/TrueID_TH/status/1456471336155430914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1441,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 844,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893367612515549200,
+			"id_str": "893367612515549184",
+			"name": "TrueID",
+			"screen_name": "TrueID_TH",
+			"location": "Thailand",
+			"description": "Unlimited Lifestyle สัมผัสโลกไร้ขีดจำกัดกับทรูไอดี ดาวน์โหลดแอป #ทรูไอดี ได้ที่ https://t.co/xmdwUuNZPH | IG : https://t.co/OF5TJXj91V",
+			"url": "https://t.co/xmdwUuNZPH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xmdwUuNZPH",
+							"expanded_url": "http://bit.ly/trueid_dl",
+							"display_url": "bit.ly/trueid_dl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/xmdwUuNZPH",
+							"expanded_url": "http://bit.ly/trueid_dl",
+							"display_url": "bit.ly/trueid_dl",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/OF5TJXj91V",
+							"expanded_url": "http://instagram.com/trueid_th",
+							"display_url": "instagram.com/trueid_th",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23849,
+			"friends_count": 396,
+			"listed_count": 31,
+			"created_at": "Fri Aug 04 07:06:51 +0000 2017",
+			"favourites_count": 25865,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 37492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1396669487730937856/flSRnX_6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396669487730937856/flSRnX_6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893367612515549184/1635732329",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#TAENGKEYBOX รายการใหม่ จาก #TAEYEON #GIRLSGENERATION และ #KEY #SHINee\n\n พบกัน 19 พ.ย.นี้ ที่ ทรูไอดี ทางแพ็กเกจ #TrueIDPlus\n\nอัปเดตตอนใหม่ พร้อมซับไทย ทุกวันศุกร์ เวลา 16.00 น. สัปดาห์ละ 2 EP ดูฟรี 3 ตอนแรก\n\nสมัครแพ็กเกจ ทรูไอดี พลัส ครั้งแรก ดูฟรี 30 วัน https://t.co/j8kMz0nT2Q https://t.co/LhKVH1P1BQ"
+	},
+	{
 		"created_at": "Fri Nov 05 04:07:10 +0000 2021",
 		"id": 1456471335303929900,
 		"id_str": "1456473135058935816",
