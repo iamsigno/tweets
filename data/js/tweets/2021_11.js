@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 03:07:08 +0000 2021",
+		"id": 1457543444583252000,
+		"id_str": "1457545194522431489",
+		"full_text": "🎈 토요일\n✔️ &lt;후야TV 슈퍼 아이돌 리그 - 카이&gt; 3화 다시 보기 #EXO #카이\n✔️ &lt;탱키박스&gt; 1화 비하인드 #태연 #키 \n\n🎈 일요일\n✔️&lt;후야TV 슈퍼 아이돌 리그 - 카이&gt; 4화 다시 보기 #EXO #카이\n\n👍구독👍과 ⏰알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요✨ \n👉 https://t.co/Coo1ZHYiOD https://t.co/6Hqow19B21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EXO",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						83,
+						85
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						138,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Coo1ZHYiOD",
+					"expanded_url": "https://www.youtube.com/SMCCStudio",
+					"display_url": "youtube.com/SMCCStudio",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457543437788790800,
+					"id_str": "1457543437788790784",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FDo8CMYaQAAgfWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDo8CMYaQAAgfWm.jpg",
+					"url": "https://t.co/6Hqow19B21",
+					"display_url": "pic.twitter.com/6Hqow19B21",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1457543444583251975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457543437788790800,
+					"id_str": "1457543437788790784",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FDo8CMYaQAAgfWm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDo8CMYaQAAgfWm.jpg",
+					"url": "https://t.co/6Hqow19B21",
+					"display_url": "pic.twitter.com/6Hqow19B21",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1457543444583251975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1457543437784580000,
+					"id_str": "1457543437784580096",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FDo8CMXaAAACcLq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDo8CMXaAAACcLq.jpg",
+					"url": "https://t.co/6Hqow19B21",
+					"display_url": "pic.twitter.com/6Hqow19B21",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1457543444583251975/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1457543434525233200,
+		"in_reply_to_status_id_str": "1457543434525233155",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  🍚신과함께 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44703,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1636091985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎈 토요일\n✔️ &lt;후야TV 슈퍼 아이돌 리그 - 카이&gt; 3화 다시 보기 #EXO #카이\n✔️ &lt;탱키박스&gt; 1화 비하인드 #태연 #키 \n\n🎈 일요일\n✔️&lt;후야TV 슈퍼 아이돌 리그 - 카이&gt; 4화 다시 보기 #EXO #카이\n\n👍구독👍과 ⏰알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요✨ \n👉 https://t.co/Coo1ZHYiOD https://t.co/6Hqow19B21"
+	},
+	{
 		"created_at": "Fri Nov 05 14:44:56 +0000 2021",
 		"id": 1456621915888570400,
 		"id_str": "1456633638041358343",
