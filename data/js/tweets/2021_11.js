@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 06:07:08 +0000 2021",
+		"id": 1457576599121920000,
+		"id_str": "1457590492619759623",
+		"full_text": "[#아이돌차트]\n[NEW POLL] 예능 프로그램 '나혼자 산다'에서 보고 싶은 스타는?\n\n혼자 사는 내 최애😍\n브라운관으로 보고싶다면? 📺\nhttps://t.co/9T8pGjzdKG\n\n#나혼자산다 #김우석 #민현 #박지훈 #뷔 #진 #방탄소년단 #블랙핑크 #제니 #이대휘 #AB6IX #태연 #트와이스 #나연 #프로미스나인 #이새롬 https://t.co/vYL6ytU7Ui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌차트",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "나혼자산다",
+					"indices": [
+						104,
+						110
+					]
+				},
+				{
+					"text": "김우석",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "민현",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "박지훈",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "뷔",
+					"indices": [
+						125,
+						127
+					]
+				},
+				{
+					"text": "진",
+					"indices": [
+						128,
+						130
+					]
+				},
+				{
+					"text": "방탄소년단",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "제니",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "이대휘",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "AB6IX",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						160,
+						163
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						164,
+						169
+					]
+				},
+				{
+					"text": "나연",
+					"indices": [
+						170,
+						173
+					]
+				},
+				{
+					"text": "프로미스나인",
+					"indices": [
+						174,
+						181
+					]
+				},
+				{
+					"text": "이새롬",
+					"indices": [
+						182,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9T8pGjzdKG",
+					"expanded_url": "https://idol-chart.com/poll/",
+					"display_url": "idol-chart.com/poll/",
+					"indices": [
+						79,
+						102
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457576592251957200,
+					"id_str": "1457576592251957248",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpaMCYaMAA9Wu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpaMCYaMAA9Wu4.jpg",
+					"url": "https://t.co/vYL6ytU7Ui",
+					"display_url": "pic.twitter.com/vYL6ytU7Ui",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1457576599121920005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457576592251957200,
+					"id_str": "1457576592251957248",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FDpaMCYaMAA9Wu4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDpaMCYaMAA9Wu4.jpg",
+					"url": "https://t.co/vYL6ytU7Ui",
+					"display_url": "pic.twitter.com/vYL6ytU7Ui",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1457576599121920005/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1763,
+			"friends_count": 30,
+			"listed_count": 11,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌차트]\n[NEW POLL] 예능 프로그램 '나혼자 산다'에서 보고 싶은 스타는?\n\n혼자 사는 내 최애😍\n브라운관으로 보고싶다면? 📺\nhttps://t.co/9T8pGjzdKG\n\n#나혼자산다 #김우석 #민현 #박지훈 #뷔 #진 #방탄소년단 #블랙핑크 #제니 #이대휘 #AB6IX #태연 #트와이스 #나연 #프로미스나인 #이새롬 https://t.co/vYL6ytU7Ui"
+	},
+	{
 		"created_at": "Mon Nov 08 03:07:08 +0000 2021",
 		"id": 1457543444583252000,
 		"id_str": "1457545194522431489",
