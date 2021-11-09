@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 07:07:28 +0000 2021",
+		"id": 1457964343773986800,
+		"id_str": "1457968061353545729",
+		"full_text": "[🎁탱키박스]\n\n열려라 ~ 탱키박스~!!🎁\n드디어 드디어 이.번.주.에 박스가 활짝 열립니다 ~!🤗\n\n👉 https://t.co/LqFAiot3Vd\n\n✔11/9 메인 티저\n✔11/10  1화 예고\n✔11/12 첫방송 (12 PM)\n \n#wavve 에서 만나요~ 🌊\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n#웨이브오리지널 @wavve_official https://t.co/Je8ICW02HP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wavve",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						154,
+						156
+					]
+				},
+				{
+					"text": "탱키박스",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						172,
+						176
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						177,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wavve_official",
+					"name": "wavve(웨이브)",
+					"id": 859926865972043800,
+					"id_str": "859926865972043776",
+					"indices": [
+						186,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LqFAiot3Vd",
+					"expanded_url": "https://youtu.be/n6Q29nVTQpc",
+					"display_url": "youtu.be/n6Q29nVTQpc",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1457964333888336000,
+					"id_str": "1457964333888335872",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FDu61kiacAADGb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDu61kiacAADGb2.jpg",
+					"url": "https://t.co/Je8ICW02HP",
+					"display_url": "pic.twitter.com/Je8ICW02HP",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1457964343773986822/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457964333888336000,
+					"id_str": "1457964333888335872",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FDu61kiacAADGb2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDu61kiacAADGb2.jpg",
+					"url": "https://t.co/Je8ICW02HP",
+					"display_url": "pic.twitter.com/Je8ICW02HP",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1457964343773986822/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  🍚신과함께 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44728,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1636091985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎁탱키박스]\n\n열려라 ~ 탱키박스~!!🎁\n드디어 드디어 이.번.주.에 박스가 활짝 열립니다 ~!🤗\n\n👉 https://t.co/LqFAiot3Vd\n\n✔11/9 메인 티저\n✔11/10  1화 예고\n✔11/12 첫방송 (12 PM)\n \n#wavve 에서 만나요~ 🌊\n \n#태연 #키 #탱키박스 #TAEYEON #KEY\n#웨이브오리지널 @wavve_official https://t.co/Je8ICW02HP"
+	},
+	{
 		"created_at": "Tue Nov 09 04:07:08 +0000 2021",
 		"id": 1457905791630037000,
 		"id_str": "1457922681593020420",
