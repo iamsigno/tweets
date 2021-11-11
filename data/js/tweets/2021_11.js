@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 08:07:08 +0000 2021",
+		"id": 1458699622395035600,
+		"id_str": "1458707855788453890",
+		"full_text": "메인보컬 배틀부터 댄스 배틀까지!\n끝날 때까지 방심은 금물❌\n깡으로 악으로 살아남게 될 야생돌은?🙌\n\n&lt;#극한데뷔야생돌&gt; 오늘 밤 9시 방송\n#야생돌 #김종국 #차태현 #이선빈 #이현이 #김성규 #유정 #지연 #조권 #우영 #효연 #공민지 #김동현 MBC211111방송 https://t.co/AOhg48a6Ii",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "극한데뷔야생돌",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "야생돌",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "김종국",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "차태현",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "이선빈",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "이현이",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "김성규",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "유정",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "지연",
+					"indices": [
+						119,
+						122
+					]
+				},
+				{
+					"text": "조권",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "우영",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "공민지",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "김동현",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458697501566210000,
+					"id_str": "1458697501566210049",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FD5Xj3macAAX_v8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD5Xj3macAAX_v8.jpg",
+					"url": "https://t.co/AOhg48a6Ii",
+					"display_url": "pic.twitter.com/AOhg48a6Ii",
+					"expanded_url": "https://twitter.com/withMBC/status/1458699622395035650/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458697501566210000,
+					"id_str": "1458697501566210049",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FD5Xj3macAAX_v8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD5Xj3macAAX_v8.jpg",
+					"url": "https://t.co/AOhg48a6Ii",
+					"display_url": "pic.twitter.com/AOhg48a6Ii",
+					"expanded_url": "https://twitter.com/withMBC/status/1458699622395035650/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26993,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1458697501566210049/pl/uYPcbij6GVII6viT.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1458697501566210049/vid/480x270/Sho8kx7mkfRSe7lz.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1458697501566210049/vid/640x360/WOHIeWLlXzGvjBp2.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1458697501566210049/vid/1280x720/f24vsB8zzy0UifsV.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "MBC 방송 프로그램 홍보 트위터 MBC PR",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006933,
+			"friends_count": 10016,
+			"listed_count": 4231,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1635815269",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "메인보컬 배틀부터 댄스 배틀까지!\n끝날 때까지 방심은 금물❌\n깡으로 악으로 살아남게 될 야생돌은?🙌\n\n&lt;#극한데뷔야생돌&gt; 오늘 밤 9시 방송\n#야생돌 #김종국 #차태현 #이선빈 #이현이 #김성규 #유정 #지연 #조권 #우영 #효연 #공민지 #김동현 MBC211111방송 https://t.co/AOhg48a6Ii"
+	},
+	{
 		"created_at": "Wed Nov 10 11:07:08 +0000 2021",
 		"id": 1458383935017128000,
 		"id_str": "1458390766154305536",
