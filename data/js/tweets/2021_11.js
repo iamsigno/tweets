@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 03:07:08 +0000 2021",
+		"id": 1460081015808876500,
+		"id_str": "1460081909082513413",
+		"full_text": "🎈목요일\n✔️ &lt;신과함께 2&gt; 16화 선공개 1 #강주은\n✔️ &lt;지금 당신의 음악, 박선영입니다&gt; 4화 #박선영 #이진아 #윤석철\n\n🎈금요일\n✔️ &lt;신과함께 2&gt; 16화 선공개 2 #강주은\n\n🎈 토요일\n✔️ &lt;후야TV 슈퍼 아이돌 리그 - 카이&gt; 5화 다시 보기 #EXO #카이\n✔️ &lt;탱키박스&gt; 2화 비하인드 #태연 #키 https://t.co/7MVwkj3VZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강주은",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "박선영",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "이진아",
+					"indices": [
+						75,
+						79
+					]
+				},
+				{
+					"text": "윤석철",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "강주은",
+					"indices": [
+						119,
+						123
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						171,
+						175
+					]
+				},
+				{
+					"text": "카이",
+					"indices": [
+						176,
+						179
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						204,
+						207
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						208,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460081007554891800,
+					"id_str": "1460081007554891787",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FEM_8MaakAsveEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEM_8MaakAsveEy.jpg",
+					"url": "https://t.co/7MVwkj3VZY",
+					"display_url": "pic.twitter.com/7MVwkj3VZY",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1460081015808876550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460081007554891800,
+					"id_str": "1460081007554891787",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FEM_8MaakAsveEy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEM_8MaakAsveEy.jpg",
+					"url": "https://t.co/7MVwkj3VZY",
+					"display_url": "pic.twitter.com/7MVwkj3VZY",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1460081015808876550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460081007739437000,
+					"id_str": "1460081007739437057",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FEM_8NGagAE5eFW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEM_8NGagAE5eFW.jpg",
+					"url": "https://t.co/7MVwkj3VZY",
+					"display_url": "pic.twitter.com/7MVwkj3VZY",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1460081015808876550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460081007819124700,
+					"id_str": "1460081007819124737",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FEM_8NZacAEoUDW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEM_8NZacAEoUDW.jpg",
+					"url": "https://t.co/7MVwkj3VZY",
+					"display_url": "pic.twitter.com/7MVwkj3VZY",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1460081015808876550/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1460081004547244000,
+		"in_reply_to_status_id_str": "1460081004547244035",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  🍚신과함께 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44919,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1636091985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎈목요일\n✔️ &lt;신과함께 2&gt; 16화 선공개 1 #강주은\n✔️ &lt;지금 당신의 음악, 박선영입니다&gt; 4화 #박선영 #이진아 #윤석철\n\n🎈금요일\n✔️ &lt;신과함께 2&gt; 16화 선공개 2 #강주은\n\n🎈 토요일\n✔️ &lt;후야TV 슈퍼 아이돌 리그 - 카이&gt; 5화 다시 보기 #EXO #카이\n✔️ &lt;탱키박스&gt; 2화 비하인드 #태연 #키 https://t.co/7MVwkj3VZY"
+	},
+	{
 		"created_at": "Thu Nov 11 08:07:08 +0000 2021",
 		"id": 1458699622395035600,
 		"id_str": "1458707855788453890",
