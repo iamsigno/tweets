@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 14:07:09 +0000 2021",
+		"id": 1461334819980206000,
+		"id_str": "1461335168552259596",
+		"full_text": "📢첫 인도네시아 케이팝 아이돌! #디타 왕크왕캠☀️\n1년만에 돌아온 시크릿넘버의 &lt;불토&gt;와 티아라-소녀시대-2ne1으로 이어지는 환상 댄스메들리까지! 알차게 모아봤음👀\n\n💗The Bigger The Better Cam💗 DITA  of SECRET NUMBER\nhttps://t.co/CG6VtVhOPc\n\n#시크릿넘버 #secret_number #dita #DITA https://t.co/hRxJOK9qn9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "디타",
+					"indices": [
+						18,
+						21
+					]
+				},
+				{
+					"text": "시크릿넘버",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "secret_number",
+					"indices": [
+						184,
+						198
+					]
+				},
+				{
+					"text": "dita",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "DITA",
+					"indices": [
+						205,
+						210
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CG6VtVhOPc",
+					"expanded_url": "https://youtu.be/YUhWWjBdIrA",
+					"display_url": "youtu.be/YUhWWjBdIrA",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461334628917477400,
+					"id_str": "1461334628917477376",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461334628917477376/pu/img/MhlfgOumlYGO9hld.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461334628917477376/pu/img/MhlfgOumlYGO9hld.jpg",
+					"url": "https://t.co/hRxJOK9qn9",
+					"display_url": "pic.twitter.com/hRxJOK9qn9",
+					"expanded_url": "https://twitter.com/radiombc/status/1461334819980206088/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461334628917477400,
+					"id_str": "1461334628917477376",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461334628917477376/pu/img/MhlfgOumlYGO9hld.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461334628917477376/pu/img/MhlfgOumlYGO9hld.jpg",
+					"url": "https://t.co/hRxJOK9qn9",
+					"display_url": "pic.twitter.com/hRxJOK9qn9",
+					"expanded_url": "https://twitter.com/radiombc/status/1461334819980206088/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 359,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 633,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							256,
+							135
+						],
+						"duration_millis": 16683,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1461334628917477376/pu/pl/QHyrprhyvjJLitny.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461334628917477376/pu/vid/682x360/bYMMbbOz_h9W9zPD.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461334628917477376/pu/vid/512x270/zlUU4rsZTtsgqAvB.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1461334628917477376/pu/vid/1364x720/FDCq7EuQJT9kO__o.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74836,
+			"friends_count": 44,
+			"listed_count": 598,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢첫 인도네시아 케이팝 아이돌! #디타 왕크왕캠☀️\n1년만에 돌아온 시크릿넘버의 &lt;불토&gt;와 티아라-소녀시대-2ne1으로 이어지는 환상 댄스메들리까지! 알차게 모아봤음👀\n\n💗The Bigger The Better Cam💗 DITA  of SECRET NUMBER\nhttps://t.co/CG6VtVhOPc\n\n#시크릿넘버 #secret_number #dita #DITA https://t.co/hRxJOK9qn9"
+	},
+	{
 		"created_at": "Thu Nov 18 10:07:16 +0000 2021",
 		"id": 1461268117473009700,
 		"id_str": "1461274803067834371",
