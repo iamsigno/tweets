@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 10:07:09 +0000 2021",
+		"id": 1461635371448549400,
+		"id_str": "1461637158209572865",
+		"full_text": "[쇼챔 개인 직캠 4K] bugAboo - bugAboo (버가부 - 버가부)\n\n유우나(Yoona) https://t.co/mAXcJrDnCZ\n초연(ChoYeon) https://t.co/AZapMTwh8I\n\n#쇼챔피언 #bugAboo #버가부 @bugAboo_offcl https://t.co/h0D0es32nw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "bugAboo",
+					"indices": [
+						123,
+						131
+					]
+				},
+				{
+					"text": "버가부",
+					"indices": [
+						132,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bugAboo_offcl",
+					"name": "bugAboo",
+					"id": 1400013924435517400,
+					"id_str": "1400013924435517442",
+					"indices": [
+						137,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mAXcJrDnCZ",
+					"expanded_url": "https://youtu.be/_nHZNUxJC7I",
+					"display_url": "youtu.be/_nHZNUxJC7I",
+					"indices": [
+						56,
+						79
+					]
+				},
+				{
+					"url": "https://t.co/AZapMTwh8I",
+					"expanded_url": "https://youtu.be/hN4PFfOXyAA",
+					"display_url": "youtu.be/hN4PFfOXyAA",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1461612145616244700,
+					"id_str": "1461612145616244737",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FEiwgKLaUAEAhFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEiwgKLaUAEAhFp.jpg",
+					"url": "https://t.co/h0D0es32nw",
+					"display_url": "pic.twitter.com/h0D0es32nw",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1461635371448549384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461612145616244700,
+					"id_str": "1461612145616244737",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FEiwgKLaUAEAhFp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEiwgKLaUAEAhFp.jpg",
+					"url": "https://t.co/h0D0es32nw",
+					"display_url": "pic.twitter.com/h0D0es32nw",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1461635371448549384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 5PM KST\n      📌 WEEKLY IDOL, 8PM KST",
+			"url": "https://t.co/0kbjbCne8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCne8R",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 98132,
+			"friends_count": 341,
+			"listed_count": 347,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1636934699",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[쇼챔 개인 직캠 4K] bugAboo - bugAboo (버가부 - 버가부)\n\n유우나(Yoona) https://t.co/mAXcJrDnCZ\n초연(ChoYeon) https://t.co/AZapMTwh8I\n\n#쇼챔피언 #bugAboo #버가부 @bugAboo_offcl https://t.co/h0D0es32nw"
+	},
+	{
 		"created_at": "Thu Nov 18 14:07:09 +0000 2021",
 		"id": 1461334819980206000,
 		"id_str": "1461335168552259596",
