@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 15:07:09 +0000 2021",
+		"id": 1462069470441009200,
+		"id_str": "1462075043987472386",
+		"full_text": "[8화 예고] 모방범인가, 진범인가?!\n\n재환과 유진, 중엽, 효경은 공조를 시작하고\n'키마이라'는 다음 타겟으로 서현태를 지목하는데..!\n\n연쇄폭발 추적 스릴러 #키마이라\n매주 토.일 밤 10시 30분 OCN 본 방송\n\n#박해수 #수현 #이희준\n#토일드라마 #OCN #키마이라\n#OCNDRAMA #KDRAMA #Chimera https://t.co/d2s15vQbGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "키마이라",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "박해수",
+					"indices": [
+						124,
+						128
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "이희준",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "OCN",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "키마이라",
+					"indices": [
+						150,
+						155
+					]
+				},
+				{
+					"text": "OCNDRAMA",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "KDRAMA",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "Chimera",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461719086787084300,
+					"id_str": "1461719086787084289",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FEkS7DiaAAAT4Lb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEkS7DiaAAAT4Lb.jpg",
+					"url": "https://t.co/d2s15vQbGo",
+					"display_url": "pic.twitter.com/d2s15vQbGo",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1462069470441009159/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461719086787084300,
+					"id_str": "1461719086787084289",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FEkS7DiaAAAT4Lb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEkS7DiaAAAT4Lb.jpg",
+					"url": "https://t.co/d2s15vQbGo",
+					"display_url": "pic.twitter.com/d2s15vQbGo",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1462069470441009159/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1461719086787084289/pl/_mHi47zSxTFoXnNq.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461719086787084289/vid/1280x720/gEmm1qc5BzB8wqH_.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461719086787084289/vid/640x360/1cr5m1pRjeWGK2d_.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1461719086787084289/vid/480x270/0DFg-ZO9qS8Hf3qE.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "👁 연쇄폭발 추적 스릴러 #키마이라\n🌟10월 30일 10시 30분 첫방송🌟",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57453,
+			"friends_count": 1,
+			"listed_count": 359,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1365176964290473986/jJ09ENwL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365176964290473986/jJ09ENwL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1618888677",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[8화 예고] 모방범인가, 진범인가?!\n\n재환과 유진, 중엽, 효경은 공조를 시작하고\n'키마이라'는 다음 타겟으로 서현태를 지목하는데..!\n\n연쇄폭발 추적 스릴러 #키마이라\n매주 토.일 밤 10시 30분 OCN 본 방송\n\n#박해수 #수현 #이희준\n#토일드라마 #OCN #키마이라\n#OCNDRAMA #KDRAMA #Chimera https://t.co/d2s15vQbGo"
+	},
+	{
 		"created_at": "Fri Nov 19 10:07:09 +0000 2021",
 		"id": 1461635371448549400,
 		"id_str": "1461637158209572865",
