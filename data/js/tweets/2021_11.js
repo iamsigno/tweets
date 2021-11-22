@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 03:07:10 +0000 2021",
+		"id": 1462617800762028000,
+		"id_str": "1462618633314652174",
+		"full_text": "써니 SUNNY [‘너의 환한 미소가 하늘 구름 위에 있어’-너의 밤이 되어줄게 OST Part.2]\n\n🎧Melon: https://t.co/cqfSMKLex4 \n🎧FLO: https://t.co/xuBYwwgAsq \n🎧genie: https://t.co/TQe1RAJ2Xf \n🎧NAVER VIBE: https://t.co/KUO2sYe6OH \n\n#써니 #SUNNY \n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "써니",
+					"indices": [
+						194,
+						197
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						198,
+						204
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						212,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cqfSMKLex4",
+					"expanded_url": "https://bit.ly/3x9tRew",
+					"display_url": "bit.ly/3x9tRew",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/xuBYwwgAsq",
+					"expanded_url": "https://bit.ly/3cQxz3D",
+					"display_url": "bit.ly/3cQxz3D",
+					"indices": [
+						97,
+						120
+					]
+				},
+				{
+					"url": "https://t.co/TQe1RAJ2Xf",
+					"expanded_url": "https://bit.ly/3nDLTCH",
+					"display_url": "bit.ly/3nDLTCH",
+					"indices": [
+						130,
+						153
+					]
+				},
+				{
+					"url": "https://t.co/KUO2sYe6OH",
+					"expanded_url": "https://bit.ly/3qYNzIQ",
+					"display_url": "bit.ly/3qYNzIQ",
+					"indices": [
+						168,
+						191
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3673355,
+			"friends_count": 4,
+			"listed_count": 5580,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 398,
+		"favorite_count": 594,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "써니 SUNNY [‘너의 환한 미소가 하늘 구름 위에 있어’-너의 밤이 되어줄게 OST Part.2]\n\n🎧Melon: https://t.co/cqfSMKLex4 \n🎧FLO: https://t.co/xuBYwwgAsq \n🎧genie: https://t.co/TQe1RAJ2Xf \n🎧NAVER VIBE: https://t.co/KUO2sYe6OH \n\n#써니 #SUNNY \n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Sat Nov 20 15:07:09 +0000 2021",
 		"id": 1462069470441009200,
 		"id_str": "1462075043987472386",
