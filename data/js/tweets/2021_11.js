@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 04:07:09 +0000 2021",
+		"id": 1462985725570273300,
+		"id_str": "1462996113317842947",
+		"full_text": "오늘의 셀럽 – 효사장 EP.3 TEASER 💝\n\n믿고 쓰는 효연의 리얼 사용 후기! ✨\n효사장이 직접 고르고 직접 사용해본 홈 스타일링 가전 아이템들을 만나보는 시간! 💓\n여기 나온 상품이 궁금해? 🥰\n\n✔️11월 25일 목요일 오후 7시, 네이버 쇼핑라이브 세 번째 방송!\nhttps://t.co/oopqtkeI5N https://t.co/J7Horgy4ax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oopqtkeI5N",
+					"expanded_url": "https://view.shoppinglive.naver.com/lives/317056",
+					"display_url": "view.shoppinglive.naver.com/lives/317056",
+					"indices": [
+						155,
+						178
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1462985583639543800,
+					"id_str": "1462985583639543808",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462985583639543808/pu/img/j570oDJcczTzxYfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462985583639543808/pu/img/j570oDJcczTzxYfq.jpg",
+					"url": "https://t.co/J7Horgy4ax",
+					"display_url": "pic.twitter.com/J7Horgy4ax",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1462985725570273287/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462985583639543800,
+					"id_str": "1462985583639543808",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462985583639543808/pu/img/j570oDJcczTzxYfq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462985583639543808/pu/img/j570oDJcczTzxYfq.jpg",
+					"url": "https://t.co/J7Horgy4ax",
+					"display_url": "pic.twitter.com/J7Horgy4ax",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1462985725570273287/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 74965,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462985583639543808/pu/vid/320x568/BGiKIlcQ1QE870GC.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462985583639543808/pu/vid/720x1280/d8mTHKUrMBmY_oBk.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1462985583639543808/pu/pl/KvZRXU-CpEfcnA3e.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1462985583639543808/pu/vid/480x852/i3nbvNZEppbFg9oA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 183880,
+			"friends_count": 0,
+			"listed_count": 309,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 227,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 셀럽 – 효사장 EP.3 TEASER 💝\n\n믿고 쓰는 효연의 리얼 사용 후기! ✨\n효사장이 직접 고르고 직접 사용해본 홈 스타일링 가전 아이템들을 만나보는 시간! 💓\n여기 나온 상품이 궁금해? 🥰\n\n✔️11월 25일 목요일 오후 7시, 네이버 쇼핑라이브 세 번째 방송!\nhttps://t.co/oopqtkeI5N https://t.co/J7Horgy4ax"
+	},
+	{
 		"created_at": "Mon Nov 22 03:07:10 +0000 2021",
 		"id": 1462617800762028000,
 		"id_str": "1462618633314652174",
