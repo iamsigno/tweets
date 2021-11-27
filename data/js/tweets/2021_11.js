@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 27 07:07:08 +0000 2021",
+		"id": 1464489163793830000,
+		"id_str": "1464490961476767747",
+		"full_text": "[🎁#탱키박스]\n\n열려라 ~ 비하인드 박스!!\nHOT 트렌드 바.디.프.로.필 대란에\n궁금증 폭발한 🦋 🔑 ㅋㅋㅋ\n현장을 🥯 터트린 탱키의 질문이 궁금하다면 바로 확인 👀\n\n👉 https://t.co/gmT2QhGhQJ\n\n✔️ 매주 금 12 PM (본방송)\n\n#wavve 에서 만나요~🌊\n\n#태연 #키 #탱키박스 #웨이브오리지널 https://t.co/CU5OnBYF3u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱키박스",
+					"indices": [
+						2,
+						7
+					]
+				},
+				{
+					"text": "wavve",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						166,
+						168
+					]
+				},
+				{
+					"text": "탱키박스",
+					"indices": [
+						169,
+						174
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						175,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gmT2QhGhQJ",
+					"expanded_url": "https://youtu.be/Yf3bBH_8_Qw",
+					"display_url": "youtu.be/Yf3bBH_8_Qw",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1464229893815021600,
+					"id_str": "1464229893815021569",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FFH9VKJaMAE46eI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFH9VKJaMAE46eI.jpg",
+					"url": "https://t.co/CU5OnBYF3u",
+					"display_url": "pic.twitter.com/CU5OnBYF3u",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1464489163793829892/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1464229893815021600,
+					"id_str": "1464229893815021569",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FFH9VKJaMAE46eI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFH9VKJaMAE46eI.jpg",
+					"url": "https://t.co/CU5OnBYF3u",
+					"display_url": "pic.twitter.com/CU5OnBYF3u",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1464489163793829892/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  🍚신과함께 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45260,
+			"friends_count": 0,
+			"listed_count": 68,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1636091985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎁#탱키박스]\n\n열려라 ~ 비하인드 박스!!\nHOT 트렌드 바.디.프.로.필 대란에\n궁금증 폭발한 🦋 🔑 ㅋㅋㅋ\n현장을 🥯 터트린 탱키의 질문이 궁금하다면 바로 확인 👀\n\n👉 https://t.co/gmT2QhGhQJ\n\n✔️ 매주 금 12 PM (본방송)\n\n#wavve 에서 만나요~🌊\n\n#태연 #키 #탱키박스 #웨이브오리지널 https://t.co/CU5OnBYF3u"
+	},
+	{
 		"created_at": "Sat Nov 27 04:07:09 +0000 2021",
 		"id": 1464435864507875300,
 		"id_str": "1464445665023512580",
