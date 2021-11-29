@@ -1,10 +1,307 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 29 05:07:09 +0000 2021",
+		"id": 1465170522027671600,
+		"id_str": "1465185540790267910",
+		"full_text": "🎈목요일\n✔️ &lt;신과함께 2&gt; 18화 선공개 1 #이석훈\n✔️ &lt;지금 당신의 음악, 박선영입니다&gt; 8화 #박선영\n\n🎈금요일\n✔️ &lt;신과함께 2&gt; 18화 선공개 2 #이석훈\n\n🎈 토요일\n✔️ &lt;희스토리&gt; 1화 다시 보기 #희철 #이특\n✔️ &lt;탱키박스&gt; 4주차 비하인드 #태연 #키 https://t.co/LAJULH9V6O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이석훈",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "박선영",
+					"indices": [
+						70,
+						74
+					]
+				},
+				{
+					"text": "이석훈",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "희철",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "이특",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						183,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465170457209237500,
+					"id_str": "1465170457209237509",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFVUxJ1acAUBYAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFVUxJ1acAUBYAp.jpg",
+					"url": "https://t.co/LAJULH9V6O",
+					"display_url": "pic.twitter.com/LAJULH9V6O",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1465170522027671559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465170457209237500,
+					"id_str": "1465170457209237509",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFVUxJ1acAUBYAp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFVUxJ1acAUBYAp.jpg",
+					"url": "https://t.co/LAJULH9V6O",
+					"display_url": "pic.twitter.com/LAJULH9V6O",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1465170522027671559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465170457448284200,
+					"id_str": "1465170457448284161",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFVUxKuaAAEnz4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFVUxKuaAAEnz4e.jpg",
+					"url": "https://t.co/LAJULH9V6O",
+					"display_url": "pic.twitter.com/LAJULH9V6O",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1465170522027671559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465170457653805000,
+					"id_str": "1465170457653805062",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/FFVUxLfaAAYMUGK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFVUxLfaAAYMUGK.jpg",
+					"url": "https://t.co/LAJULH9V6O",
+					"display_url": "pic.twitter.com/LAJULH9V6O",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1465170522027671559/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1465170516436656000,
+		"in_reply_to_status_id_str": "1465170516436656129",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  🍚신과함께 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45363,
+			"friends_count": 0,
+			"listed_count": 67,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1636091985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎈목요일\n✔️ &lt;신과함께 2&gt; 18화 선공개 1 #이석훈\n✔️ &lt;지금 당신의 음악, 박선영입니다&gt; 8화 #박선영\n\n🎈금요일\n✔️ &lt;신과함께 2&gt; 18화 선공개 2 #이석훈\n\n🎈 토요일\n✔️ &lt;희스토리&gt; 1화 다시 보기 #희철 #이특\n✔️ &lt;탱키박스&gt; 4주차 비하인드 #태연 #키 https://t.co/LAJULH9V6O"
+	},
+	{
 		"created_at": "Sun Nov 28 10:07:09 +0000 2021",
 		"id": 1464888003776553000,
 		"id_str": "1464898648777674752",
-		"full_text": "태연 ‘나의 작은 정원’ Released!!\n❤️‍🔥 https://t.co/S18zFilvC2\n⠀ https://t.co/1VF68Mfcfn",
+		"full_text": "태연 ‘나의 작은 정원’ Released!!\n❤️🔥 https://t.co/S18zFilvC2\n⠀ https://t.co/1VF68Mfcfn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -183,7 +480,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "태연 ‘나의 작은 정원’ Released!!\n❤️‍🔥 https://t.co/S18zFilvC2\n⠀ https://t.co/1VF68Mfcfn"
+		"text": "태연 ‘나의 작은 정원’ Released!!\n❤️🔥 https://t.co/S18zFilvC2\n⠀ https://t.co/1VF68Mfcfn"
 	},
 	{
 		"created_at": "Sun Nov 28 02:07:09 +0000 2021",
