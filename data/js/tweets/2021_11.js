@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 30 09:07:08 +0000 2021",
+		"id": 1465607163896729600,
+		"id_str": "1465608324834074626",
+		"full_text": "마녀수프 아닙니다, 꼬소한 보말라면이어요..(feat. 소녀시대 써니) [라면꼰대] EP.03\n\n👉🏻https://t.co/e1vWBaKZ8k \n\n#써니 #SUNNY\n#소녀시대 #GirlsGeneration \n#더밥스튜디오 #라면꼰대 https://t.co/waB66vtzSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "써니",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						86,
+						92
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"text": "더밥스튜디오",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "라면꼰대",
+					"indices": [
+						125,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e1vWBaKZ8k",
+					"expanded_url": "https://youtu.be/kTtqd3-_esA",
+					"display_url": "youtu.be/kTtqd3-_esA",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465606401011888000,
+					"id_str": "1465606401011888133",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FFbhQbDaMAU7CR_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFbhQbDaMAU7CR_.jpg",
+					"url": "https://t.co/waB66vtzSz",
+					"display_url": "pic.twitter.com/waB66vtzSz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1465607163896729600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465606401011888000,
+					"id_str": "1465606401011888133",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FFbhQbDaMAU7CR_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFbhQbDaMAU7CR_.jpg",
+					"url": "https://t.co/waB66vtzSz",
+					"display_url": "pic.twitter.com/waB66vtzSz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1465607163896729600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3673248,
+			"friends_count": 4,
+			"listed_count": 5594,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2517,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 540,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "마녀수프 아닙니다, 꼬소한 보말라면이어요..(feat. 소녀시대 써니) [라면꼰대] EP.03\n\n👉🏻https://t.co/e1vWBaKZ8k \n\n#써니 #SUNNY\n#소녀시대 #GirlsGeneration \n#더밥스튜디오 #라면꼰대 https://t.co/waB66vtzSz"
+	},
+	{
 		"created_at": "Mon Nov 29 12:07:09 +0000 2021",
 		"id": 1465277509562343400,
 		"id_str": "1465291236378648581",
