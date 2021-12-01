@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 01 09:44:56 +0000 2021",
+		"id": 1465980213402079200,
+		"id_str": "1465980224898846720",
+		"full_text": "임윤아, 7년 연속 '가요대제전' MC…이준호·장성규와 호흡\n\nLIM YOONA to become the MC of this year’s '가요대제전' as well, making it the 7th year in a row!\n\nhttps://t.co/c5ZPuXhstP  \n\n#윤아 #YOONA\n#임윤아 #LIMYOONA\n#소녀시대 #GirlsGeneration https://t.co/qpcE7tgNNh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						159,
+						165
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5ZPuXhstP",
+					"expanded_url": "https://n.news.naver.com/entertain/article/629/0000119240",
+					"display_url": "n.news.naver.com/entertain/arti…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465979551285084200,
+					"id_str": "1465979551285084165",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg0ooJVgAUW8dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg0ooJVgAUW8dp.jpg",
+					"url": "https://t.co/qpcE7tgNNh",
+					"display_url": "pic.twitter.com/qpcE7tgNNh",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1465980213402079234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 269,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 269,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465979551285084200,
+					"id_str": "1465979551285084165",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FFg0ooJVgAUW8dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFg0ooJVgAUW8dp.jpg",
+					"url": "https://t.co/qpcE7tgNNh",
+					"display_url": "pic.twitter.com/qpcE7tgNNh",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1465980213402079234/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 269,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 269,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 269,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3673158,
+			"friends_count": 4,
+			"listed_count": 5592,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2519,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1257,
+		"favorite_count": 2133,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임윤아, 7년 연속 '가요대제전' MC…이준호·장성규와 호흡\n\nLIM YOONA to become the MC of this year’s '가요대제전' as well, making it the 7th year in a row!\n\nhttps://t.co/c5ZPuXhstP  \n\n#윤아 #YOONA\n#임윤아 #LIMYOONA\n#소녀시대 #GirlsGeneration https://t.co/qpcE7tgNNh"
+	},
+	{
 		"created_at": "Wed Dec 01 09:07:09 +0000 2021",
 		"id": 1465959320328102000,
 		"id_str": "1465970712850616325",
