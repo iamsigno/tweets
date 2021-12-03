@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 06:07:08 +0000 2021",
+		"id": 1466637358821159000,
+		"id_str": "1466650189528289283",
+		"full_text": "[#플리캠] bugAboo FanCam🎬\n\n✔YOONA👉 https://t.co/ARzyUeMBcO\n✔ZIN👉 https://t.co/3u5SqmBPrE\n\n#K_ROUND #크라운드\n#bugAboo #버가부 @bugAboo_offcl https://t.co/xvBsxocBuJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "플리캠",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "K_ROUND",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "크라운드",
+					"indices": [
+						96,
+						101
+					]
+				},
+				{
+					"text": "bugAboo",
+					"indices": [
+						102,
+						110
+					]
+				},
+				{
+					"text": "버가부",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bugAboo_offcl",
+					"name": "bugAboo",
+					"id": 1400013924435517400,
+					"id_str": "1400013924435517442",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ARzyUeMBcO",
+					"expanded_url": "https://youtu.be/eZt9uAOLRbY",
+					"display_url": "youtu.be/eZt9uAOLRbY",
+					"indices": [
+						32,
+						55
+					]
+				},
+				{
+					"url": "https://t.co/3u5SqmBPrE",
+					"expanded_url": "https://youtu.be/tHeVvqdHRU4",
+					"display_url": "youtu.be/tHeVvqdHRU4",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466635632625987600,
+					"id_str": "1466635632625987584",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FFqJVlmaMAAT9yK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFqJVlmaMAAT9yK.jpg",
+					"url": "https://t.co/xvBsxocBuJ",
+					"display_url": "pic.twitter.com/xvBsxocBuJ",
+					"expanded_url": "https://twitter.com/PLAY_K_ROUND/status/1466637358821158914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466635632625987600,
+					"id_str": "1466635632625987584",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FFqJVlmaMAAT9yK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFqJVlmaMAAT9yK.jpg",
+					"url": "https://t.co/xvBsxocBuJ",
+					"display_url": "pic.twitter.com/xvBsxocBuJ",
+					"expanded_url": "https://twitter.com/PLAY_K_ROUND/status/1466637358821158914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1466635632835711000,
+					"id_str": "1466635632835710976",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FFqJVmYaUAA_N8m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFqJVmYaUAA_N8m.jpg",
+					"url": "https://t.co/xvBsxocBuJ",
+					"display_url": "pic.twitter.com/xvBsxocBuJ",
+					"expanded_url": "https://twitter.com/PLAY_K_ROUND/status/1466637358821158914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1204659086215671800,
+			"id_str": "1204659086215671808",
+			"name": "K-ROUND",
+			"screen_name": "PLAY_K_ROUND",
+			"location": "",
+			"description": "Playground for K-Pop Fans All Around the World! [official]\n전 세계 K-POP 팬들의 덕질 놀이터, K-ROUND",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15275,
+			"friends_count": 3,
+			"listed_count": 109,
+			"created_at": "Wed Dec 11 07:08:16 +0000 2019",
+			"favourites_count": 414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1211805481875820545/Ej0dDVoB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1204659086215671808/1577751796",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "[#플리캠] bugAboo FanCam🎬\n\n✔YOONA👉 https://t.co/ARzyUeMBcO\n✔ZIN👉 https://t.co/3u5SqmBPrE\n\n#K_ROUND #크라운드\n#bugAboo #버가부 @bugAboo_offcl https://t.co/xvBsxocBuJ"
+	},
+	{
 		"created_at": "Fri Dec 03 03:07:09 +0000 2021",
 		"id": 1466592282732540000,
 		"id_str": "1466604894568259588",
