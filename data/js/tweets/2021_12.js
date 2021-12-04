@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 07:07:09 +0000 2021",
+		"id": 1467025884087402500,
+		"id_str": "1467027677638975491",
+		"full_text": "[#탱키박스🎁]\n\n열려라 ~ 비하인드 박스!!🎁\n1-2년만 지나면 우는 니트…지겨와🤦🏻‍♀️\n그래서 준비한 일명 : 오프숄더 니트(?) 피하는 방법!\n\n🦋🔑와 함께 니트 수납법 알고싶은 사람~?\n👉 https://t.co/OyiXjNfZwx\n\n✔️ 매주 금 12 PM (본방송)\n#wavve 에서 만나요~🌊\n\n#태연 #키 #웨이브오리지널 https://t.co/TZ9373u2UE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "탱키박스",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "wavve",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						173,
+						176
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						177,
+						179
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OyiXjNfZwx",
+					"expanded_url": "https://youtu.be/qQ8pK8ZxfK8",
+					"display_url": "youtu.be/qQ8pK8ZxfK8",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466268271507046400,
+					"id_str": "1466268271507046401",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FFk7OWyagAEg73p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFk7OWyagAEg73p.jpg",
+					"url": "https://t.co/TZ9373u2UE",
+					"display_url": "pic.twitter.com/TZ9373u2UE",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1467025884087402498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466268271507046400,
+					"id_str": "1466268271507046401",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FFk7OWyagAEg73p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFk7OWyagAEg73p.jpg",
+					"url": "https://t.co/TZ9373u2UE",
+					"display_url": "pic.twitter.com/TZ9373u2UE",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1467025884087402498/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  🍚신과함께 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45575,
+			"friends_count": 0,
+			"listed_count": 68,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1636091985",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#탱키박스🎁]\n\n열려라 ~ 비하인드 박스!!🎁\n1-2년만 지나면 우는 니트…지겨와🤦🏻‍♀️\n그래서 준비한 일명 : 오프숄더 니트(?) 피하는 방법!\n\n🦋🔑와 함께 니트 수납법 알고싶은 사람~?\n👉 https://t.co/OyiXjNfZwx\n\n✔️ 매주 금 12 PM (본방송)\n#wavve 에서 만나요~🌊\n\n#태연 #키 #웨이브오리지널 https://t.co/TZ9373u2UE"
+	},
+	{
 		"created_at": "Sat Dec 04 02:07:09 +0000 2021",
 		"id": 1466950633433485300,
 		"id_str": "1466952182805278727",
