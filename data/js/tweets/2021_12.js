@@ -1,10 +1,224 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 11:07:08 +0000 2021",
+		"id": 1467086467503911000,
+		"id_str": "1467088074165440512",
+		"full_text": "🎂Happy Birthday to YUL🎂\n12/05 SUN 12:05AM (KST)\n'유리한TV'로 오세요 🥳\n\n👉🏻 https://t.co/2SDixM3Zps \n\n#유리 #YURI\n#소녀시대 #GirlsGeneration https://t.co/ywrUHrwDJW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						93,
+						96
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						109,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2SDixM3Zps",
+					"expanded_url": "https://youtube.com/channel/UCeUXR_8AOMCji1OEaVne9aQ",
+					"display_url": "youtube.com/channel/UCeUXR…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467086456376086500,
+					"id_str": "1467086456376086528",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwjW-8VUAAlcCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwjW-8VUAAlcCP.jpg",
+					"url": "https://t.co/ywrUHrwDJW",
+					"display_url": "pic.twitter.com/ywrUHrwDJW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1467086467503910922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467086456376086500,
+					"id_str": "1467086456376086528",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FFwjW-8VUAAlcCP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFwjW-8VUAAlcCP.jpg",
+					"url": "https://t.co/ywrUHrwDJW",
+					"display_url": "pic.twitter.com/ywrUHrwDJW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1467086467503910922/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3672965,
+			"friends_count": 4,
+			"listed_count": 5589,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1422754170503794688/NQRUTTC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1628046003",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1089,
+		"favorite_count": 1701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎂Happy Birthday to YUL🎂\n12/05 SUN 12:05AM (KST)\n'유리한TV'로 오세요 🥳\n\n👉🏻 https://t.co/2SDixM3Zps \n\n#유리 #YURI\n#소녀시대 #GirlsGeneration https://t.co/ywrUHrwDJW"
+	},
+	{
 		"created_at": "Sat Dec 04 07:07:09 +0000 2021",
 		"id": 1467025884087402500,
 		"id_str": "1467027677638975491",
-		"full_text": "[#탱키박스🎁]\n\n열려라 ~ 비하인드 박스!!🎁\n1-2년만 지나면 우는 니트…지겨와🤦🏻‍♀️\n그래서 준비한 일명 : 오프숄더 니트(?) 피하는 방법!\n\n🦋🔑와 함께 니트 수납법 알고싶은 사람~?\n👉 https://t.co/OyiXjNfZwx\n\n✔️ 매주 금 12 PM (본방송)\n#wavve 에서 만나요~🌊\n\n#태연 #키 #웨이브오리지널 https://t.co/TZ9373u2UE",
+		"full_text": "[#탱키박스🎁]\n\n열려라 ~ 비하인드 박스!!🎁\n1-2년만 지나면 우는 니트…지겨와🤦🏻♀️\n그래서 준비한 일명 : 오프숄더 니트(?) 피하는 방법!\n\n🦋🔑와 함께 니트 수납법 알고싶은 사람~?\n👉 https://t.co/OyiXjNfZwx\n\n✔️ 매주 금 12 PM (본방송)\n#wavve 에서 만나요~🌊\n\n#태연 #키 #웨이브오리지널 https://t.co/TZ9373u2UE",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -219,7 +433,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#탱키박스🎁]\n\n열려라 ~ 비하인드 박스!!🎁\n1-2년만 지나면 우는 니트…지겨와🤦🏻‍♀️\n그래서 준비한 일명 : 오프숄더 니트(?) 피하는 방법!\n\n🦋🔑와 함께 니트 수납법 알고싶은 사람~?\n👉 https://t.co/OyiXjNfZwx\n\n✔️ 매주 금 12 PM (본방송)\n#wavve 에서 만나요~🌊\n\n#태연 #키 #웨이브오리지널 https://t.co/TZ9373u2UE"
+		"text": "[#탱키박스🎁]\n\n열려라 ~ 비하인드 박스!!🎁\n1-2년만 지나면 우는 니트…지겨와🤦🏻♀️\n그래서 준비한 일명 : 오프숄더 니트(?) 피하는 방법!\n\n🦋🔑와 함께 니트 수납법 알고싶은 사람~?\n👉 https://t.co/OyiXjNfZwx\n\n✔️ 매주 금 12 PM (본방송)\n#wavve 에서 만나요~🌊\n\n#태연 #키 #웨이브오리지널 https://t.co/TZ9373u2UE"
 	},
 	{
 		"created_at": "Sat Dec 04 02:07:09 +0000 2021",
