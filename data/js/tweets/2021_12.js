@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 02:07:10 +0000 2021",
+		"id": 1467675280982839300,
+		"id_str": "1467676963317891078",
+		"full_text": "[#NOTICE] SEOHYUN 2022 SEASON’S GREETINGS &lt;LIKE A SHADOW&gt; Special Present\n\n✔ 2021. 12. 06 Mon. 11am ~ 2021. 12. 19 Sun. 11pm (KST) \n▶ https://t.co/Arlh1vaf8h\n\n#서현 #2022시즌그리팅 #LIKE_A_SHADOW \n#SEOHYUN #2022SEASONSGREETINGS #NAMOOACTORS https://t.co/GJyGLIRx7P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NOTICE",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						165,
+						168
+					]
+				},
+				{
+					"text": "2022시즌그리팅",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "LIKE_A_SHADOW",
+					"indices": [
+						180,
+						194
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "2022SEASONSGREETINGS",
+					"indices": [
+						205,
+						226
+					]
+				},
+				{
+					"text": "NAMOOACTORS",
+					"indices": [
+						227,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Arlh1vaf8h",
+					"expanded_url": "https://bit.ly/3xZoejK",
+					"display_url": "bit.ly/3xZoejK",
+					"indices": [
+						140,
+						163
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1467675268592861200,
+					"id_str": "1467675268592861184",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FF464XYagAAb5yL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF464XYagAAb5yL.jpg",
+					"url": "https://t.co/GJyGLIRx7P",
+					"display_url": "pic.twitter.com/GJyGLIRx7P",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1467675280982839296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467675268592861200,
+					"id_str": "1467675268592861184",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FF464XYagAAb5yL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FF464XYagAAb5yL.jpg",
+					"url": "https://t.co/GJyGLIRx7P",
+					"display_url": "pic.twitter.com/GJyGLIRx7P",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1467675280982839296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1467675158961787000,
+		"in_reply_to_status_id_str": "1467675158961786882",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55332,
+			"friends_count": 13,
+			"listed_count": 263,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14810,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#NOTICE] SEOHYUN 2022 SEASON’S GREETINGS &lt;LIKE A SHADOW&gt; Special Present\n\n✔ 2021. 12. 06 Mon. 11am ~ 2021. 12. 19 Sun. 11pm (KST) \n▶ https://t.co/Arlh1vaf8h\n\n#서현 #2022시즌그리팅 #LIKE_A_SHADOW \n#SEOHYUN #2022SEASONSGREETINGS #NAMOOACTORS https://t.co/GJyGLIRx7P"
+	},
+	{
 		"created_at": "Sun Dec 05 05:07:23 +0000 2021",
 		"id": 1467355370754433000,
 		"id_str": "1467359926729199617",
