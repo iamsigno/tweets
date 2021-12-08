@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 09:07:09 +0000 2021",
+		"id": 1468505640872022000,
+		"id_str": "1468507429075890176",
+		"full_text": "2016년...&lt;도깨비&gt; 써니한테 안 치인 사람 없었다...☆\ntvN 대표 꿀보이스 유인나의 tvN 유니버스!\n\n풀버전 : https://t.co/cnykb7WIMP \n\ntvN의 15년을 함께 되돌아본다!\ntvN 15주년 특별기획 '투게더 리와인드'\n\n#tvN #투게더리와인드 #유인나 #yooinna #도깨비 #내귀에캔디 #연애상담 #선다방 https://t.co/6B7dzyiW7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tvN",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "투게더리와인드",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "유인나",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "yooinna",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "도깨비",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "내귀에캔디",
+					"indices": [
+						180,
+						186
+					]
+				},
+				{
+					"text": "연애상담",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "선다방",
+					"indices": [
+						193,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cnykb7WIMP",
+					"expanded_url": "https://youtu.be/j7-LC4qgl_g",
+					"display_url": "youtu.be/j7-LC4qgl_g",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468441868660707300,
+					"id_str": "1468441868660707328",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468441868660707328/pu/img/H6B2z7Dvc2bkPln_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468441868660707328/pu/img/H6B2z7Dvc2bkPln_.jpg",
+					"url": "https://t.co/6B7dzyiW7E",
+					"display_url": "pic.twitter.com/6B7dzyiW7E",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1468505640872022021/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468441868660707300,
+					"id_str": "1468441868660707328",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1468441868660707328/pu/img/H6B2z7Dvc2bkPln_.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1468441868660707328/pu/img/H6B2z7Dvc2bkPln_.jpg",
+					"url": "https://t.co/6B7dzyiW7E",
+					"display_url": "pic.twitter.com/6B7dzyiW7E",
+					"expanded_url": "https://twitter.com/CJnDrama/status/1468505640872022021/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 48482,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468441868660707328/pu/vid/1280x720/MDhVdyP_hTZZsHu9.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468441868660707328/pu/vid/640x360/NwrCKesbSjPHS05d.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1468441868660707328/pu/vid/480x270/_WFIqZdxn81O4u9O.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1468441868660707328/pu/pl/St7OPZ-cukZiB9XH.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335749973,
+			"id_str": "335749973",
+			"name": "tvN drama",
+			"screen_name": "CJnDrama",
+			"location": "",
+			"description": "tvN drama 공식 계정 #tvN #티비엔 #어사와조이 #멜랑꼴리아 #해피니스 #지리산",
+			"url": "https://t.co/ULT2t2vLzK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ULT2t2vLzK",
+							"expanded_url": "http://www.youtube.com/user/CJENMDRAMA",
+							"display_url": "youtube.com/user/CJENMDRAMA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555867,
+			"friends_count": 44,
+			"listed_count": 957,
+			"created_at": "Fri Jul 15 05:15:36 +0000 2011",
+			"favourites_count": 196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 35956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432861860588621824/XoMgD8Ir_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432861860588621824/XoMgD8Ir_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335749973/1630455866",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2016년...&lt;도깨비&gt; 써니한테 안 치인 사람 없었다...☆\ntvN 대표 꿀보이스 유인나의 tvN 유니버스!\n\n풀버전 : https://t.co/cnykb7WIMP \n\ntvN의 15년을 함께 되돌아본다!\ntvN 15주년 특별기획 '투게더 리와인드'\n\n#tvN #투게더리와인드 #유인나 #yooinna #도깨비 #내귀에캔디 #연애상담 #선다방 https://t.co/6B7dzyiW7E"
+	},
+	{
 		"created_at": "Tue Dec 07 03:07:25 +0000 2021",
 		"id": 1468053601981726700,
 		"id_str": "1468054511549923329",
