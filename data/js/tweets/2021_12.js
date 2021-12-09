@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 10:07:08 +0000 2021",
+		"id": 1468883141909946400,
+		"id_str": "1468884914498064391",
+		"full_text": "써니의 월간멍냥 시작했어요🐶🐱\n\n👉🏻 https://t.co/02RlLDWXKv\n\n#써니 #SUNNY\n#소녀시대 #GirlsGeneration\n#월간멍냥 #써니의_월간멍냥 https://t.co/AgEYvVuL4u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "써니",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						50,
+						56
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"text": "월간멍냥",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "써니의_월간멍냥",
+					"indices": [
+						86,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/02RlLDWXKv",
+					"expanded_url": "http://naver.me/FMRbnPii",
+					"display_url": "naver.me/FMRbnPii",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468883132451471400,
+					"id_str": "1468883132451471366",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKFbS5VQAYkSKg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKFbS5VQAYkSKg.jpg",
+					"url": "https://t.co/AgEYvVuL4u",
+					"display_url": "pic.twitter.com/AgEYvVuL4u",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1468883141909946372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468883132451471400,
+					"id_str": "1468883132451471366",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKFbS5VQAYkSKg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKFbS5VQAYkSKg.jpg",
+					"url": "https://t.co/AgEYvVuL4u",
+					"display_url": "pic.twitter.com/AgEYvVuL4u",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1468883141909946372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468883132463997000,
+					"id_str": "1468883132463996928",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKFbS8UYAAiDb_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKFbS8UYAAiDb_.jpg",
+					"url": "https://t.co/AgEYvVuL4u",
+					"display_url": "pic.twitter.com/AgEYvVuL4u",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1468883141909946372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468883132455657500,
+					"id_str": "1468883132455657475",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FGKFbS6VIAMjHlM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGKFbS6VIAMjHlM.jpg",
+					"url": "https://t.co/AgEYvVuL4u",
+					"display_url": "pic.twitter.com/AgEYvVuL4u",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1468883141909946372/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2046,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3674625,
+			"friends_count": 4,
+			"listed_count": 5593,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468491422047211521/M6yNgDMR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468491422047211521/M6yNgDMR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 780,
+		"favorite_count": 1608,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "써니의 월간멍냥 시작했어요🐶🐱\n\n👉🏻 https://t.co/02RlLDWXKv\n\n#써니 #SUNNY\n#소녀시대 #GirlsGeneration\n#월간멍냥 #써니의_월간멍냥 https://t.co/AgEYvVuL4u"
+	},
+	{
 		"created_at": "Wed Dec 08 09:07:09 +0000 2021",
 		"id": 1468505640872022000,
 		"id_str": "1468507429075890176",
