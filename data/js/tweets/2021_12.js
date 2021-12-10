@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 09:44:56 +0000 2021",
+		"id": 1469240847749513200,
+		"id_str": "1469241715915689990",
+		"full_text": "公演+アルバム+展示で繋がる総合コンテンツプロジェクト『SMTOWN 2022 – SMCU EXPRESS』がスタートします！\n1/1(土)には無料オンラインコンサート『SMTOWN LIVE 2022 - SMCU EXPRESS@KWANGYA』の開催が決定しました！\n#SMTOWN2022 #SMCU_EXPRESS\n\n🔗詳細はこちら\nhttps://t.co/jBOxBW1Tmf https://t.co/RPBPODxnvJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						150,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jBOxBW1Tmf",
+					"expanded_url": "https://girls-generation.jp/news/3902",
+					"display_url": "girls-generation.jp/news/3902",
+					"indices": [
+						173,
+						196
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1469240841805787100,
+					"id_str": "1469240841805787139",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPKwuFUcAMid9l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPKwuFUcAMid9l.jpg",
+					"url": "https://t.co/RPBPODxnvJ",
+					"display_url": "pic.twitter.com/RPBPODxnvJ",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1469240847749513218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469240841805787100,
+					"id_str": "1469240841805787139",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FGPKwuFUcAMid9l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGPKwuFUcAMid9l.jpg",
+					"url": "https://t.co/RPBPODxnvJ",
+					"display_url": "pic.twitter.com/RPBPODxnvJ",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1469240847749513218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107553,
+			"friends_count": 0,
+			"listed_count": 494,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 235,
+		"favorite_count": 473,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "公演+アルバム+展示で繋がる総合コンテンツプロジェクト『SMTOWN 2022 – SMCU EXPRESS』がスタートします！\n1/1(土)には無料オンラインコンサート『SMTOWN LIVE 2022 - SMCU EXPRESS@KWANGYA』の開催が決定しました！\n#SMTOWN2022 #SMCU_EXPRESS\n\n🔗詳細はこちら\nhttps://t.co/jBOxBW1Tmf https://t.co/RPBPODxnvJ"
+	},
+	{
 		"created_at": "Thu Dec 09 10:07:08 +0000 2021",
 		"id": 1468883141909946400,
 		"id_str": "1468884914498064391",
