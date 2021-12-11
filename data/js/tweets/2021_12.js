@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 07:07:08 +0000 2021",
+		"id": 1469562600656625700,
+		"id_str": "1469564391913885697",
+		"full_text": "[🎁탱키박스]\n\n열려라 ~ 비하인드 박스!!🎁\n읽었는데 안 읽었어요.\n아니 진짜 읽었는데 안 읽었어요.\n\n책 제목이 기억 안나는 🦋과\n이 구역의 독서왕 🔑가 추천하는\nBook  대공개✨\n👉 https://t.co/PgyZOQfPtW\n\n✔️ 매주 금 12 PM (본방송)\n#wavve에서 만나요~🌊\n\n#태연 #키 #탱키박스 #웨이브오리지널 https://t.co/Sgh4q5aI4d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wavve에서",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						167,
+						170
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						171,
+						173
+					]
+				},
+				{
+					"text": "탱키박스",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						180,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PgyZOQfPtW",
+					"expanded_url": "https://www.youtube.com/watch?v=JF29nqOo4pc",
+					"display_url": "youtube.com/watch?v=JF29nq…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468826984000077800,
+					"id_str": "1468826984000077827",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJSXBnVQAMlsMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJSXBnVQAMlsMx.jpg",
+					"url": "https://t.co/Sgh4q5aI4d",
+					"display_url": "pic.twitter.com/Sgh4q5aI4d",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1469562600656625665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468826984000077800,
+					"id_str": "1468826984000077827",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/media/FGJSXBnVQAMlsMx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGJSXBnVQAMlsMx.jpg",
+					"url": "https://t.co/Sgh4q5aI4d",
+					"display_url": "pic.twitter.com/Sgh4q5aI4d",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1469562600656625665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  ⛺️군필돌 캠프 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45815,
+			"friends_count": 0,
+			"listed_count": 68,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1638865291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎁탱키박스]\n\n열려라 ~ 비하인드 박스!!🎁\n읽었는데 안 읽었어요.\n아니 진짜 읽었는데 안 읽었어요.\n\n책 제목이 기억 안나는 🦋과\n이 구역의 독서왕 🔑가 추천하는\nBook  대공개✨\n👉 https://t.co/PgyZOQfPtW\n\n✔️ 매주 금 12 PM (본방송)\n#wavve에서 만나요~🌊\n\n#태연 #키 #탱키박스 #웨이브오리지널 https://t.co/Sgh4q5aI4d"
+	},
+	{
 		"created_at": "Fri Dec 10 09:44:56 +0000 2021",
 		"id": 1469240847749513200,
 		"id_str": "1469241715915689990",
