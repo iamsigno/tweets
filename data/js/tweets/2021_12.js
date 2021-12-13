@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 10:07:16 +0000 2021",
+		"id": 1470332783419871200,
+		"id_str": "1470334500076982274",
+		"full_text": "13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/7HlhKNrFUI\n \n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						102,
+						109
+					]
+				},
+				{
+					"text": "괴로운데이트",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "아름다운재단",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "열여덟어른",
+					"indices": [
+						126,
+						132
+					]
+				},
+				{
+					"text": "카카오같이가치",
+					"indices": [
+						133,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7HlhKNrFUI",
+					"expanded_url": "https://bit.ly/3IIyH88",
+					"display_url": "bit.ly/3IIyH88",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470332778709663700,
+		"in_reply_to_status_id_str": "1470332778709663749",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10294610,
+			"friends_count": 55,
+			"listed_count": 11256,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11307,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/7HlhKNrFUI\n \n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치"
+	},
+	{
 		"created_at": "Mon Dec 13 09:07:09 +0000 2021",
 		"id": 1470317579382128600,
 		"id_str": "1470319367887937541",
