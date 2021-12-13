@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 03:07:08 +0000 2021",
+		"id": 1470227122463834000,
+		"id_str": "1470228769961037829",
+		"full_text": "🎈금요일\n✔️ &lt;신과함께 2&gt; 20화 선공개 2 #이윤지\n✔️&lt;군필돌캠프&gt; 6화 #이진기 #이기광 #이진호\n\n🎈 일요일\n✔️&lt;희스토리&gt; 6화 다시 보기 #희철 #동해\n✔️ &lt;탱키박스&gt; 6주차 비하인드 #태연 #키 \n\n👍구독👍과 ⏰알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요✨ \n👉 https://t.co/Coo1ZHHfMD https://t.co/QYrt9siYjk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "이윤지",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "이진기",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						62,
+						66
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "희철",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "동해",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						140,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Coo1ZHHfMD",
+					"expanded_url": "https://www.youtube.com/SMCCStudio",
+					"display_url": "youtube.com/SMCCStudio",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470227109050126300,
+					"id_str": "1470227109050126336",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdLxB4VEAAavHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdLxB4VEAAavHL.jpg",
+					"url": "https://t.co/QYrt9siYjk",
+					"display_url": "pic.twitter.com/QYrt9siYjk",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1470227122463834115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470227109050126300,
+					"id_str": "1470227109050126336",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdLxB4VEAAavHL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdLxB4VEAAavHL.jpg",
+					"url": "https://t.co/QYrt9siYjk",
+					"display_url": "pic.twitter.com/QYrt9siYjk",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1470227122463834115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1470227109175984000,
+					"id_str": "1470227109175984128",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FGdLxCWVgAA6Dkr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGdLxCWVgAA6Dkr.jpg",
+					"url": "https://t.co/QYrt9siYjk",
+					"display_url": "pic.twitter.com/QYrt9siYjk",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1470227122463834115/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1470226978762489900,
+		"in_reply_to_status_id_str": "1470226978762489856",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  ⛺️군필돌 캠프 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45867,
+			"friends_count": 0,
+			"listed_count": 68,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 979,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334771996035432449/onNJRvYu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1638865291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎈금요일\n✔️ &lt;신과함께 2&gt; 20화 선공개 2 #이윤지\n✔️&lt;군필돌캠프&gt; 6화 #이진기 #이기광 #이진호\n\n🎈 일요일\n✔️&lt;희스토리&gt; 6화 다시 보기 #희철 #동해\n✔️ &lt;탱키박스&gt; 6주차 비하인드 #태연 #키 \n\n👍구독👍과 ⏰알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요✨ \n👉 https://t.co/Coo1ZHHfMD https://t.co/QYrt9siYjk"
+	},
+	{
 		"created_at": "Sat Dec 11 13:07:09 +0000 2021",
 		"id": 1469649055081201700,
 		"id_str": "1469654990725787653",
