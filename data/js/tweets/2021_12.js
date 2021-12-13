@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 09:07:09 +0000 2021",
+		"id": 1470317579382128600,
+		"id_str": "1470319367887937541",
+		"full_text": "[특별한체험단 X 열여덟어른]\n 특별한 어른 용진호와 써니, 열여덟 어른이 함께 만든 가장 특별한 이모티콘 출시 임박!\n \n13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/eO9mwQrtEq\n \n#SMTOWN #SMile #써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트 https://t.co/1t9DMdsKBC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						135,
+						142
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						143,
+						149
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						161,
+						165
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "괴로운데이트",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eO9mwQrtEq",
+					"expanded_url": "https://bit.ly/30m2zpj",
+					"display_url": "bit.ly/30m2zpj",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1470316247329869800,
+					"id_str": "1470316247329869824",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"url": "https://t.co/1t9DMdsKBC",
+					"display_url": "pic.twitter.com/1t9DMdsKBC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470317579382128643/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470316247329869800,
+					"id_str": "1470316247329869824",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470316247329869824/pu/img/suCxWV-_KJUmM47Q.jpg",
+					"url": "https://t.co/1t9DMdsKBC",
+					"display_url": "pic.twitter.com/1t9DMdsKBC",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470317579382128643/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 22208,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/640x360/aBIBLl-FcaAAU9Qi.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/1280x720/obCmqMdikcc73x3T.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/pl/u86DY8u-HbNRTNhW.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1470316247329869824/pu/vid/480x270/V9iN4ToUCgYCJlQz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10294436,
+			"friends_count": 55,
+			"listed_count": 11259,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 195,
+		"favorite_count": 1263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[특별한체험단 X 열여덟어른]\n 특별한 어른 용진호와 써니, 열여덟 어른이 함께 만든 가장 특별한 이모티콘 출시 임박!\n \n13일(월) 밤 9시 괴로운 체험단 Youtube 채널에서 확인하세요🙂\nhttps://t.co/eO9mwQrtEq\n \n#SMTOWN #SMile #써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트 https://t.co/1t9DMdsKBC"
+	},
+	{
 		"created_at": "Mon Dec 13 03:07:08 +0000 2021",
 		"id": 1470227122463834000,
 		"id_str": "1470228769961037829",
