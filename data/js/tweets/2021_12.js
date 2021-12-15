@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 03:07:09 +0000 2021",
+		"id": 1470947224217882600,
+		"id_str": "1470953546510217217",
+		"full_text": "The poster of PARK SOOYOUNG’s new drama ‘한 사람만’ has been released! \nFirst episode to air on 12/20 at 11PM KST on JTBC!\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/eOk9kzyBkU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						125,
+						138
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						154,
+						164
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470947046529978400,
+					"id_str": "1470947046529978372",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"url": "https://t.co/eOk9kzyBkU",
+					"display_url": "pic.twitter.com/eOk9kzyBkU",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470947224217882629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1450,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470947046529978400,
+					"id_str": "1470947046529978372",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGnai5_UUAQBn9u.jpg",
+					"url": "https://t.co/eOk9kzyBkU",
+					"display_url": "pic.twitter.com/eOk9kzyBkU",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1470947224217882629/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1450,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10299916,
+			"friends_count": 55,
+			"listed_count": 11268,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1347,
+		"favorite_count": 3648,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The poster of PARK SOOYOUNG’s new drama ‘한 사람만’ has been released! \nFirst episode to air on 12/20 at 11PM KST on JTBC!\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY\n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/eOk9kzyBkU"
+	},
+	{
 		"created_at": "Mon Dec 13 10:07:16 +0000 2021",
 		"id": 1470332783419871200,
 		"id_str": "1470334500076982274",
