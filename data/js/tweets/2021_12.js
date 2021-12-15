@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 15 07:07:09 +0000 2021",
+		"id": 1471004250402857000,
+		"id_str": "1471013944768798721",
+		"full_text": "[#괴로운체험단] 열여덟어른 캠페인편 EP.07 \n\n광야 기운☀️ 한껏 받으며\nPO연예인WER😎과 열여덟 어른🤓이 만든 이모티콘!\n👉https://t.co/bkDUo2olLG\n\n👇이모티콘 다운로드 링크 좌표 쪄dream👇\nhttps://t.co/mSGif9Y653\n\n#이용진 #이진호 #써니 https://t.co/gfhrOcFXhP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "괴로운체험단",
+					"indices": [
+						1,
+						8
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						149,
+						153
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						159,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bkDUo2olLG",
+					"expanded_url": "https://youtu.be/cWVwacAd1Lc",
+					"display_url": "youtu.be/cWVwacAd1Lc",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/mSGif9Y653",
+					"expanded_url": "https://together.kakao.com/events/eighteen-project",
+					"display_url": "together.kakao.com/events/eightee…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471004127610114000,
+					"id_str": "1471004127610114049",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FGoOddlVkAEjwvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGoOddlVkAEjwvU.jpg",
+					"url": "https://t.co/gfhrOcFXhP",
+					"display_url": "pic.twitter.com/gfhrOcFXhP",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1471004250402856962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471004127610114000,
+					"id_str": "1471004127610114049",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FGoOddlVkAEjwvU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGoOddlVkAEjwvU.jpg",
+					"url": "https://t.co/gfhrOcFXhP",
+					"display_url": "pic.twitter.com/gfhrOcFXhP",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1471004250402856962/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  ⛺️군필돌 캠프 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45928,
+			"friends_count": 0,
+			"listed_count": 69,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1638865291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#괴로운체험단] 열여덟어른 캠페인편 EP.07 \n\n광야 기운☀️ 한껏 받으며\nPO연예인WER😎과 열여덟 어른🤓이 만든 이모티콘!\n👉https://t.co/bkDUo2olLG\n\n👇이모티콘 다운로드 링크 좌표 쪄dream👇\nhttps://t.co/mSGif9Y653\n\n#이용진 #이진호 #써니 https://t.co/gfhrOcFXhP"
+	},
+	{
 		"created_at": "Wed Dec 15 06:07:09 +0000 2021",
 		"id": 1470997047490789400,
 		"id_str": "1470998845177929729",
