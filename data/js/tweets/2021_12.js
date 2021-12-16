@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 03:07:18 +0000 2021",
+		"id": 1471314172269203500,
+		"id_str": "1471315972300718087",
+		"full_text": "열여덟 어른 모금함 기부하기 \n👉 https://t.co/ZGNDAhQlZX  \n\n본 캠페인은 SM엔터테인먼트 SMile, 아름다운재단, 카카오같이가치가 함께합니다.\n\n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치 https://t.co/eBHtQCqZKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "SMile",
+					"indices": [
+						102,
+						108
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "이용진",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "이진호",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "특별한체험단",
+					"indices": [
+						130,
+						137
+					]
+				},
+				{
+					"text": "괴로운데이트",
+					"indices": [
+						138,
+						145
+					]
+				},
+				{
+					"text": "아름다운재단",
+					"indices": [
+						146,
+						153
+					]
+				},
+				{
+					"text": "열여덟어른",
+					"indices": [
+						154,
+						160
+					]
+				},
+				{
+					"text": "카카오같이가치",
+					"indices": [
+						161,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZGNDAhQlZX",
+					"expanded_url": "https://together.kakao.com/fundraisings/93007",
+					"display_url": "together.kakao.com/fundraisings/9…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471314163200774100,
+					"id_str": "1471314163200774147",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471314163200774100,
+					"id_str": "1471314163200774147",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob6KVUAMmDkK.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471314163288789000,
+					"id_str": "1471314163288788994",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob6fUUAIucVs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob6fUUAIucVs.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471314163498565600,
+					"id_str": "1471314163498565633",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FGsob7RVQAE-QIm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGsob7RVQAE-QIm.jpg",
+					"url": "https://t.co/eBHtQCqZKg",
+					"display_url": "pic.twitter.com/eBHtQCqZKg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471314172269203468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471314160952967200,
+		"in_reply_to_status_id_str": "1471314160952967170",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10303265,
+			"friends_count": 55,
+			"listed_count": 11288,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 189,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "열여덟 어른 모금함 기부하기 \n👉 https://t.co/ZGNDAhQlZX  \n\n본 캠페인은 SM엔터테인먼트 SMile, 아름다운재단, 카카오같이가치가 함께합니다.\n\n#SMTOWN #SMile\n#써니 #SUNNY #이용진 #이진호 #특별한체험단 #괴로운데이트\n#아름다운재단 #열여덟어른 #카카오같이가치 https://t.co/eBHtQCqZKg"
+	},
+	{
 		"created_at": "Thu Dec 16 02:07:09 +0000 2021",
 		"id": 1471299045138534400,
 		"id_str": "1471300835141427202",
