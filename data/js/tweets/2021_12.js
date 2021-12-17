@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 06:07:09 +0000 2021",
+		"id": 1471709602073186300,
+		"id_str": "1471723620384792577",
+		"full_text": "PARK SOOYOUNG transforms into a popular influencer for the drama ‘한 사람만’!  \nHer first return as a drama actress after 3 years! \n“It’s a piece with a diverse story filled with laughs and friendship”\n\n#박수영 #PARKSOOYOUNG \n#조이 #JOY  \n#레드벨벳 #RedVelvet  \n#한사람만 https://t.co/MBW2yLHSqh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						199,
+						203
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						204,
+						217
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						219,
+						222
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						223,
+						227
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						236,
+						246
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						249,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471704035300626400,
+					"id_str": "1471704035300626433",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"url": "https://t.co/MBW2yLHSqh",
+					"display_url": "pic.twitter.com/MBW2yLHSqh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471709602073186305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471704035300626400,
+					"id_str": "1471704035300626433",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyLBc6aUAE9V4I.jpg",
+					"url": "https://t.co/MBW2yLHSqh",
+					"display_url": "pic.twitter.com/MBW2yLHSqh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471709602073186305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1471704035321614300,
+					"id_str": "1471704035321614336",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/FGyLBc_akAA_-Sd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGyLBc_akAA_-Sd.jpg",
+					"url": "https://t.co/MBW2yLHSqh",
+					"display_url": "pic.twitter.com/MBW2yLHSqh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1471709602073186305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10306376,
+			"friends_count": 55,
+			"listed_count": 11297,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3349,
+		"favorite_count": 9176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PARK SOOYOUNG transforms into a popular influencer for the drama ‘한 사람만’!  \nHer first return as a drama actress after 3 years! \n“It’s a piece with a diverse story filled with laughs and friendship”\n\n#박수영 #PARKSOOYOUNG \n#조이 #JOY  \n#레드벨벳 #RedVelvet  \n#한사람만 https://t.co/MBW2yLHSqh"
+	},
+	{
 		"created_at": "Thu Dec 16 03:07:18 +0000 2021",
 		"id": 1471314172269203500,
 		"id_str": "1471315972300718087",
