@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 11:44:57 +0000 2021",
+		"id": 1471806322538840000,
+		"id_str": "1471808632258011136",
+		"full_text": "'놀라운 토요일' 비하인드🎒😲\n내일 7:40PM '놀라운 토요일'도 본방사수💗\n\n'Amazing Saturday' Behind the scenes🎒😲\nTomorrow at 7:40PM KST! Stay tuned for the 'Amazing Saturday'💗\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/jfCFV1C1Ry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						148,
+						151
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						152,
+						160
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						193,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471806239625871400,
+					"id_str": "1471806239625871368",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471806239625871368/pu/img/eHKQI-LkeVT_-uzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471806239625871368/pu/img/eHKQI-LkeVT_-uzo.jpg",
+					"url": "https://t.co/jfCFV1C1Ry",
+					"display_url": "pic.twitter.com/jfCFV1C1Ry",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1471806322538840070/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471806239625871400,
+					"id_str": "1471806239625871368",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471806239625871368/pu/img/eHKQI-LkeVT_-uzo.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471806239625871368/pu/img/eHKQI-LkeVT_-uzo.jpg",
+					"url": "https://t.co/jfCFV1C1Ry",
+					"display_url": "pic.twitter.com/jfCFV1C1Ry",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1471806322538840070/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 21494,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471806239625871368/pu/pl/BqilKaipmjLJj3Tj.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471806239625871368/pu/vid/720x1280/nIZIpJ9D0R1Dmj6-.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471806239625871368/pu/vid/480x852/f7pS5iE9N1WugVDY.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471806239625871368/pu/vid/320x568/WI7SVtXJN5TIAN3p.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3687286,
+			"friends_count": 4,
+			"listed_count": 5635,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2859,
+		"favorite_count": 4583,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'놀라운 토요일' 비하인드🎒😲\n내일 7:40PM '놀라운 토요일'도 본방사수💗\n\n'Amazing Saturday' Behind the scenes🎒😲\nTomorrow at 7:40PM KST! Stay tuned for the 'Amazing Saturday'💗\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration \n#놀라운토요일 #AmazingSaturday https://t.co/jfCFV1C1Ry"
+	},
+	{
 		"created_at": "Fri Dec 17 08:07:08 +0000 2021",
 		"id": 1471753399784046600,
 		"id_str": "1471753819117826050",
