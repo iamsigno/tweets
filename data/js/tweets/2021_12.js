@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 18 15:07:08 +0000 2021",
+		"id": 1472216330187194400,
+		"id_str": "1472221902378782720",
+		"full_text": "[최종화 예고] \"악마를 만난 적 있으십니까?\"\n\n서현태에게로 향하는 효경 \n그녀를 막으련는 재환과 유진 그리고 중엽까지!\n과연 키마이라의 마지막 선택은..?!\n\n연쇄폭발 추적 스릴러 #키마이라\n내일 밤 10시 30분 OCN 최종화 방송\n#박해수 #수현 #이희준 #차주영\n#토일드라마 #OCN\n#OCNDRAMA #Chimera https://t.co/f4LlconoXd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "키마이라",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "박해수",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "수현",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "이희준",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "차주영",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "토일드라마",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "OCN",
+					"indices": [
+						159,
+						163
+					]
+				},
+				{
+					"text": "OCNDRAMA",
+					"indices": [
+						164,
+						173
+					]
+				},
+				{
+					"text": "Chimera",
+					"indices": [
+						174,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471834649169395700,
+					"id_str": "1471834649169395714",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FG0CoODaAAQOhO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG0CoODaAAQOhO6.jpg",
+					"url": "https://t.co/f4LlconoXd",
+					"display_url": "pic.twitter.com/f4LlconoXd",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1472216330187194376/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471834649169395700,
+					"id_str": "1471834649169395714",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FG0CoODaAAQOhO6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG0CoODaAAQOhO6.jpg",
+					"url": "https://t.co/f4LlconoXd",
+					"display_url": "pic.twitter.com/f4LlconoXd",
+					"expanded_url": "https://twitter.com/OCN_ORIGINAL/status/1472216330187194376/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471834649169395714/vid/480x270/JrpSF04J1F2zRvx_.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471834649169395714/vid/640x360/9d3DB2Bpi-mOiO7L.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1471834649169395714/vid/1280x720/wIFHgY5sVZqzXuyT.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1471834649169395714/pl/ePjHRO871Z7xO2-w.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226483444,
+			"id_str": "226483444",
+			"name": "OCN ORIGINAL",
+			"screen_name": "OCN_ORIGINAL",
+			"location": "대한민국 서울",
+			"description": "👁 연쇄폭발 추적 스릴러 #키마이라\n🌟10월 30일 10시 30분 첫방송🌟",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58012,
+			"friends_count": 1,
+			"listed_count": 360,
+			"created_at": "Tue Dec 14 07:56:11 +0000 2010",
+			"favourites_count": 1575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1365176964290473986/jJ09ENwL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365176964290473986/jJ09ENwL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226483444/1618888677",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[최종화 예고] \"악마를 만난 적 있으십니까?\"\n\n서현태에게로 향하는 효경 \n그녀를 막으련는 재환과 유진 그리고 중엽까지!\n과연 키마이라의 마지막 선택은..?!\n\n연쇄폭발 추적 스릴러 #키마이라\n내일 밤 10시 30분 OCN 최종화 방송\n#박해수 #수현 #이희준 #차주영\n#토일드라마 #OCN\n#OCNDRAMA #Chimera https://t.co/f4LlconoXd"
+	},
+	{
 		"created_at": "Sat Dec 18 10:07:08 +0000 2021",
 		"id": 1472135044516909000,
 		"id_str": "1472146405972140036",
