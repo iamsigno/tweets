@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 03:07:09 +0000 2021",
+		"id": 1472401305700348000,
+		"id_str": "1472403097855139846",
+		"full_text": "[🎁탱키박스]\n열려라 ~ 제작진박스!🎁\n고생한 🦋🔑를 위해\n제작진이 준비한 작고 소듕한 선물…✨\n\n 받자마자 🥯터진 탱키 ㅋㅋㅋㅋ\n그 선물의 정체가 궁금하다면?\n\n👉 https://t.co/vyAPfVb1GG\n✔️ 매주 금 12 PM (본방송)\n\n#wavve에서 만나요~🌊\n\n#태연 #키 #탱키박스 #TAEYEON #KEY #웨이브오리지널 https://t.co/Kd6rinaJsl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "wavve에서",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						158,
+						160
+					]
+				},
+				{
+					"text": "탱키박스",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "웨이브오리지널",
+					"indices": [
+						181,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vyAPfVb1GG",
+					"expanded_url": "https://youtu.be/93fFB4W2fIE",
+					"display_url": "youtu.be/93fFB4W2fIE",
+					"indices": [
+						93,
+						116
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1471784431363178500,
+					"id_str": "1471784431363178498",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FGzUJHlaQAIGIVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGzUJHlaQAIGIVe.jpg",
+					"url": "https://t.co/Kd6rinaJsl",
+					"display_url": "pic.twitter.com/Kd6rinaJsl",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1472401305700347907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471784431363178500,
+					"id_str": "1471784431363178498",
+					"indices": [
+						190,
+						213
+					],
+					"media_url": "http://pbs.twimg.com/media/FGzUJHlaQAIGIVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGzUJHlaQAIGIVe.jpg",
+					"url": "https://t.co/Kd6rinaJsl",
+					"display_url": "pic.twitter.com/Kd6rinaJsl",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1472401305700347907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                  ⛺️군필돌 캠프 ⛰아날로그 트립 🎁탱키박스",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46032,
+			"friends_count": 0,
+			"listed_count": 69,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1638865291",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎁탱키박스]\n열려라 ~ 제작진박스!🎁\n고생한 🦋🔑를 위해\n제작진이 준비한 작고 소듕한 선물…✨\n\n 받자마자 🥯터진 탱키 ㅋㅋㅋㅋ\n그 선물의 정체가 궁금하다면?\n\n👉 https://t.co/vyAPfVb1GG\n✔️ 매주 금 12 PM (본방송)\n\n#wavve에서 만나요~🌊\n\n#태연 #키 #탱키박스 #TAEYEON #KEY #웨이브오리지널 https://t.co/Kd6rinaJsl"
+	},
+	{
 		"created_at": "Sat Dec 18 15:07:08 +0000 2021",
 		"id": 1472216330187194400,
 		"id_str": "1472221902378782720",
