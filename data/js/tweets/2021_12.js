@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 10:07:15 +0000 2021",
+		"id": 1472869476182163500,
+		"id_str": "1472871207691300864",
+		"full_text": "💗GirlsGeneration-OH!GG💗\n🚂SMCU EXPRESS Behind🚂\n\n#소녀시대 #GirlsGeneration \n#SMTOWN2022 #SMCU_EXPRESS https://t.co/I3a0fSyoz2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						53,
+						69
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						71,
+						82
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472868294038528000,
+					"id_str": "1472868294038528003",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FHCt6OsaIAMVEUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHCt6OsaIAMVEUB.jpg",
+					"url": "https://t.co/I3a0fSyoz2",
+					"display_url": "pic.twitter.com/I3a0fSyoz2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472869476182163456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472868294038528000,
+					"id_str": "1472868294038528003",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FHCt6OsaIAMVEUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHCt6OsaIAMVEUB.jpg",
+					"url": "https://t.co/I3a0fSyoz2",
+					"display_url": "pic.twitter.com/I3a0fSyoz2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472869476182163456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1472868315597242400,
+					"id_str": "1472868315597242369",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/FHCt7fAaAAEhWFa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHCt7fAaAAEhWFa.jpg",
+					"url": "https://t.co/I3a0fSyoz2",
+					"display_url": "pic.twitter.com/I3a0fSyoz2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1472869476182163456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3687951,
+			"friends_count": 4,
+			"listed_count": 5623,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2592,
+		"favorite_count": 3722,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗GirlsGeneration-OH!GG💗\n🚂SMCU EXPRESS Behind🚂\n\n#소녀시대 #GirlsGeneration \n#SMTOWN2022 #SMCU_EXPRESS https://t.co/I3a0fSyoz2"
+	},
+	{
+		"created_at": "Mon Dec 20 10:07:11 +0000 2021",
+		"id": 1472869388235653000,
+		"id_str": "1472871190456934407",
+		"full_text": "원더케이가 준비한 크리스마스 선물 도착🎁\n#아이브(@IVEstarship) 천재보컬 #리즈 가 들려주는\n태연, 아이유, 백예린 선배님의 따뜻한 윈터송 메들리!💝\n내일 (12/21) 저녁 7시 원더케이 전 채널, #확신의메보 에서 확인하세요!\nDon't miss #IVE #LIZ's Christmas medley tomorrow at 7pm! https://t.co/055iImjoRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이브",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"text": "리즈",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "확신의메보",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "IVE",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "LIZ",
+					"indices": [
+						151,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472787382261153800,
+					"id_str": "1472787382261153796",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1472787382261153796/img/MSKcATUoWLgtbMCz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1472787382261153796/img/MSKcATUoWLgtbMCz.jpg",
+					"url": "https://t.co/055iImjoRG",
+					"display_url": "pic.twitter.com/055iImjoRG",
+					"expanded_url": "https://twitter.com/1theK/status/1472869388235653125/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472787382261153800,
+					"id_str": "1472787382261153796",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1472787382261153796/img/MSKcATUoWLgtbMCz.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1472787382261153796/img/MSKcATUoWLgtbMCz.jpg",
+					"url": "https://t.co/055iImjoRG",
+					"display_url": "pic.twitter.com/055iImjoRG",
+					"expanded_url": "https://twitter.com/1theK/status/1472869388235653125/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 23556,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472787382261153796/vid/1280x720/A_3n5zrJlghB3NXA.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472787382261153796/vid/640x360/GaUvCP2keQrh8WRG.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1472787382261153796/pl/Gh3EBAzfRoLCoNIB.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472787382261153796/vid/480x270/SqRu88meqdr3ysF-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2305017,
+			"friends_count": 815,
+			"listed_count": 2156,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1639652393",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 905,
+		"favorite_count": 1944,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "원더케이가 준비한 크리스마스 선물 도착🎁\n#아이브(@IVEstarship) 천재보컬 #리즈 가 들려주는\n태연, 아이유, 백예린 선배님의 따뜻한 윈터송 메들리!💝\n내일 (12/21) 저녁 7시 원더케이 전 채널, #확신의메보 에서 확인하세요!\nDon't miss #IVE #LIZ's Christmas medley tomorrow at 7pm! https://t.co/055iImjoRG"
+	},
+	{
 		"created_at": "Mon Dec 20 07:07:08 +0000 2021",
 		"id": 1472824085415661600,
 		"id_str": "1472825883165614083",
