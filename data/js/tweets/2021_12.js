@@ -1,6 +1,389 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 21 10:07:09 +0000 2021",
+		"id": 1473232295201226800,
+		"id_str": "1473233571351764992",
+		"full_text": "#아이브 천재보컬 햇살 목소리 #리즈 가\n태연, IU, 백예린의 크리스마스 #mood 곡을 커버한다..?!\n이거 완전 확신의 레전드…😍\n올 겨울 전기장판도 필요 없다… 리즈 목소리로만 #가보자고\n\n두 곡 중 풀버전으로 보고 싶은 곡에 투표하세요🗳\n#IVE #LIZ @IVEstarship https://t.co/R5ZPjJWaCE https://t.co/7AlazGcKGr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이브",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "리즈",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "mood",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "가보자고",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "IVE",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "LIZ",
+					"indices": [
+						143,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						148,
+						160
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/R5ZPjJWaCE",
+					"expanded_url": "https://twitter.com/1thek/status/1473231767398404097",
+					"display_url": "twitter.com/1thek/status/1…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1473232143614898200,
+					"id_str": "1473232143614898179",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FHH5xVIaMAEs4l4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHH5xVIaMAEs4l4.jpg",
+					"url": "https://t.co/7AlazGcKGr",
+					"display_url": "pic.twitter.com/7AlazGcKGr",
+					"expanded_url": "https://twitter.com/1theK/status/1473232295201226755/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473232143614898200,
+					"id_str": "1473232143614898179",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FHH5xVIaMAEs4l4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHH5xVIaMAEs4l4.jpg",
+					"url": "https://t.co/7AlazGcKGr",
+					"display_url": "pic.twitter.com/7AlazGcKGr",
+					"expanded_url": "https://twitter.com/1theK/status/1473232295201226755/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 135381,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1473232143614898179/pu/vid/640x360/hZ9wILIsyr0hEMFN.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1473232143614898179/pu/vid/480x270/-Eh0xLGKENkb5K4t.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1473232143614898179/pu/pl/wAUVzTw5kQ0K69GH.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1473232143614898179/pu/vid/1280x720/m9CbXD7em4RQ5QPz.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2305124,
+			"friends_count": 815,
+			"listed_count": 2155,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 23856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1639652393",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473231767398404000,
+		"quoted_status_id_str": "1473231767398404097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R5ZPjJWaCE",
+			"expanded": "https://twitter.com/1thek/status/1473231767398404097",
+			"display": "twitter.com/1thek/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 21 09:59:59 +0000 2021",
+			"id": 1473231767398404000,
+			"id_str": "1473231767398404097",
+			"full_text": "풀버전으로 보고 싶은 아이브 리즈의 커버곡은?\nVote for 1 song you want to see in full version! ☞ https://t.co/Ilk3ZY4rK9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ilk3ZY4rK9",
+						"expanded_url": "https://youtu.be/lmfJQ__eaTw",
+						"display_url": "youtu.be/lmfJQ__eaTw",
+						"indices": [
+							77,
+							100
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568871711,
+				"id_str": "568871711",
+				"name": "1theK(원더케이)",
+				"screen_name": "1theK",
+				"location": "Korea",
+				"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+				"url": "https://t.co/BmRz0M5nTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BmRz0M5nTk",
+								"expanded_url": "http://www.youtube.com/1thek",
+								"display_url": "youtube.com/1thek",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2305124,
+				"friends_count": 815,
+				"listed_count": 2155,
+				"created_at": "Wed May 02 07:04:27 +0000 2012",
+				"favourites_count": 14793,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23856,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1639652393",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 404,
+			"favorite_count": 890,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 757,
+		"favorite_count": 1404,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#아이브 천재보컬 햇살 목소리 #리즈 가\n태연, IU, 백예린의 크리스마스 #mood 곡을 커버한다..?!\n이거 완전 확신의 레전드…😍\n올 겨울 전기장판도 필요 없다… 리즈 목소리로만 #가보자고\n\n두 곡 중 풀버전으로 보고 싶은 곡에 투표하세요🗳\n#IVE #LIZ @IVEstarship https://t.co/R5ZPjJWaCE https://t.co/7AlazGcKGr"
+	},
+	{
 		"created_at": "Mon Dec 20 10:07:15 +0000 2021",
 		"id": 1472869476182163500,
 		"id_str": "1472871207691300864",
