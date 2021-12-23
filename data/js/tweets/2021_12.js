@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 23 11:07:08 +0000 2021",
+		"id": 1473971648336318500,
+		"id_str": "1473973444530388993",
+		"full_text": "❄\"This Christmas (태연)\" \nCover by Kep1er 김채현, 김다연, 서영은\n🔗 https://t.co/s2TxcyWTOo \n\n#뮤플리 #MUPLY\n#Kep1er #케플러 #김채현 #김다연 #서영은 \n#크리스마스 #Christmas @official_kep1er https://t.co/IHmiXpVUpH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "뮤플리",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "MUPLY",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "Kep1er",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "케플러",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "김채현",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "김다연",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "서영은",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "크리스마스",
+					"indices": [
+						123,
+						129
+					]
+				},
+				{
+					"text": "Christmas",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "official_kep1er",
+					"name": "Kep1er",
+					"id": 1448627067856179200,
+					"id_str": "1448627067856179203",
+					"indices": [
+						141,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/s2TxcyWTOo",
+					"expanded_url": "http://youtu.be/AU-GxjLYiQw",
+					"display_url": "youtu.be/AU-GxjLYiQw",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1473920249880023000,
+					"id_str": "1473920249880023045",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FHRqqHlakAUdqa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHRqqHlakAUdqa3.jpg",
+					"url": "https://t.co/IHmiXpVUpH",
+					"display_url": "pic.twitter.com/IHmiXpVUpH",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1473971648336318468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473920249880023000,
+					"id_str": "1473920249880023045",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FHRqqHlakAUdqa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHRqqHlakAUdqa3.jpg",
+					"url": "https://t.co/IHmiXpVUpH",
+					"display_url": "pic.twitter.com/IHmiXpVUpH",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1473971648336318468/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "💜 PLAY YOUR MUSIC #MUPLY #뮤플리 💜\n🌜#돌들의침묵 💚 #OUTNOWUnlimited",
+			"url": "https://t.co/0hfNihIe33",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihIe33",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27824,
+			"friends_count": 86,
+			"listed_count": 68,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468456459008897026/iTjYN3nF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468456459008897026/iTjYN3nF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1638942278",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 903,
+		"favorite_count": 932,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❄\"This Christmas (태연)\" \nCover by Kep1er 김채현, 김다연, 서영은\n🔗 https://t.co/s2TxcyWTOo \n\n#뮤플리 #MUPLY\n#Kep1er #케플러 #김채현 #김다연 #서영은 \n#크리스마스 #Christmas @official_kep1er https://t.co/IHmiXpVUpH"
+	},
+	{
 		"created_at": "Wed Dec 22 09:07:08 +0000 2021",
 		"id": 1473577716482195500,
 		"id_str": "1473580857554259971",
