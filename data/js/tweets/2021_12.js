@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 05:07:09 +0000 2021",
+		"id": 1474234582925217800,
+		"id_str": "1474245236171943963",
+		"full_text": "PARK SOOYOUNG of the JTBC drama ‘한 사람만’ perfectly absorbs her character giving a strong impression to viewers with her liveliness and diverse emotional expressions! \n\n#박수영 #PARKSOOYOUNG \n#조이 #JOY  \n#레드벨벳 #RedVelvet  \n#한사람만 https://t.co/nILILeSU8R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						167,
+						171
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						191,
+						195
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						204,
+						214
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						217,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1474231812990075000,
+					"id_str": "1474231812990074880",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FHWGBenagAAQYAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHWGBenagAAQYAj.jpg",
+					"url": "https://t.co/nILILeSU8R",
+					"display_url": "pic.twitter.com/nILILeSU8R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1474234582925217795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474231812990075000,
+					"id_str": "1474231812990074880",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FHWGBenagAAQYAj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHWGBenagAAQYAj.jpg",
+					"url": "https://t.co/nILILeSU8R",
+					"display_url": "pic.twitter.com/nILILeSU8R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1474234582925217795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1474231812973273000,
+					"id_str": "1474231812973273088",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FHWGBejaIAAmMkq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHWGBejaIAAmMkq.jpg",
+					"url": "https://t.co/nILILeSU8R",
+					"display_url": "pic.twitter.com/nILILeSU8R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1474234582925217795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 391,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 679,
+							"h": 1182,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 679,
+							"h": 1182,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1474231812969078800,
+					"id_str": "1474231812969078796",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FHWGBeiaIAwYbba.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHWGBeiaIAwYbba.jpg",
+					"url": "https://t.co/nILILeSU8R",
+					"display_url": "pic.twitter.com/nILILeSU8R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1474234582925217795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10330953,
+			"friends_count": 55,
+			"listed_count": 11341,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2603,
+		"favorite_count": 7646,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PARK SOOYOUNG of the JTBC drama ‘한 사람만’ perfectly absorbs her character giving a strong impression to viewers with her liveliness and diverse emotional expressions! \n\n#박수영 #PARKSOOYOUNG \n#조이 #JOY  \n#레드벨벳 #RedVelvet  \n#한사람만 https://t.co/nILILeSU8R"
+	},
+	{
 		"created_at": "Fri Dec 24 02:07:09 +0000 2021",
 		"id": 1474198390518911000,
 		"id_str": "1474199938640793600",
