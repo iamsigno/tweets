@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 16:07:09 +0000 2021",
+		"id": 1474403527250563000,
+		"id_str": "1474411330178359308",
+		"full_text": "Merry Christmas!🎄\nfrom #TAEYEON of #GirlsGeneration💗\n\n💗Album➫ 2021.12.27 6PM KST \n\n💗Free online concert➫ 2022.01.01 1PM KST\n🎥Live on SMTOWN YouTube / Beyond LIVE / TikTok / Twitter / Instagram / Facebook / Twitch\n\n#SMTOWN_LIVE #SMCU_EXPRESS https://t.co/Jy9Ep5PNFT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						214,
+						226
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						227,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1474393514775818200,
+					"id_str": "1474393514775818244",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FHYZFwtaMAQqEzu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHYZFwtaMAQqEzu.jpg",
+					"url": "https://t.co/Jy9Ep5PNFT",
+					"display_url": "pic.twitter.com/Jy9Ep5PNFT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1474403527250563076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1786,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474393514775818200,
+					"id_str": "1474393514775818244",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FHYZFwtaMAQqEzu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHYZFwtaMAQqEzu.jpg",
+					"url": "https://t.co/Jy9Ep5PNFT",
+					"display_url": "pic.twitter.com/Jy9Ep5PNFT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1474403527250563076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1786,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1474393514897461200,
+					"id_str": "1474393514897461260",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FHYZFxKaUAwyVEf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHYZFxKaUAwyVEf.jpg",
+					"url": "https://t.co/Jy9Ep5PNFT",
+					"display_url": "pic.twitter.com/Jy9Ep5PNFT",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1474403527250563076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10333900,
+			"friends_count": 55,
+			"listed_count": 11356,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4536,
+		"favorite_count": 11225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Merry Christmas!🎄\nfrom #TAEYEON of #GirlsGeneration💗\n\n💗Album➫ 2021.12.27 6PM KST \n\n💗Free online concert➫ 2022.01.01 1PM KST\n🎥Live on SMTOWN YouTube / Beyond LIVE / TikTok / Twitter / Instagram / Facebook / Twitch\n\n#SMTOWN_LIVE #SMCU_EXPRESS https://t.co/Jy9Ep5PNFT"
+	},
+	{
 		"created_at": "Fri Dec 24 05:07:09 +0000 2021",
 		"id": 1474234582925217800,
 		"id_str": "1474245236171943963",
