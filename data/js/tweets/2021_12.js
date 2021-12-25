@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 25 01:07:09 +0000 2021",
+		"id": 1474545432323772400,
+		"id_str": "1474547227242766336",
+		"full_text": "Now Playing♬ 트와이스 - 메리앤해피(#TWICE - Merry&amp;Happy)\n\n&lt;#쇼음악중심&gt; 하이라이트🦌🎄 오늘 오후 3시 15분 호호호🎅\n\n✨라인업✨ #정우 X #민주 X #리노 #MSG워너비 #태연 #SHINee #2PM #아이유 #하이라이트 #브레이브걸스 #오마이걸 #트와이스 #ROSÉ #NCT127 #StrayKids #ITZY #임영웅 #aespa https://t.co/bXvGHbNx8O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TWICE",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "정우",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "민주",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "리노",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "MSG워너비",
+					"indices": [
+						117,
+						124
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						129,
+						136
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						147,
+						153
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						154,
+						161
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "ROSÉ",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						180,
+						187
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "임영웅",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						210,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1473937909560787000,
+					"id_str": "1473937909560786946",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FHR-KInacAAySlC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FHR-KInacAAySlC.png",
+					"url": "https://t.co/bXvGHbNx8O",
+					"display_url": "pic.twitter.com/bXvGHbNx8O",
+					"expanded_url": "https://twitter.com/withMBC/status/1474545432323772416/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473937909560787000,
+					"id_str": "1473937909560786946",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FHR-KInacAAySlC.png",
+					"media_url_https": "https://pbs.twimg.com/media/FHR-KInacAAySlC.png",
+					"url": "https://t.co/bXvGHbNx8O",
+					"display_url": "pic.twitter.com/bXvGHbNx8O",
+					"expanded_url": "https://twitter.com/withMBC/status/1474545432323772416/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59926,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1473937909560786946/vid/320x320/A95wFiaPNXvUzRAP.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1473937909560786946/vid/540x540/Kz2NtQ5riG3CKhcJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1473937909560786946/pl/9ikGF8marmDZe_HA.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1473937909560786946/vid/720x720/7q3bFhIDNm_Aom7z.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1008855,
+			"friends_count": 9990,
+			"listed_count": 4226,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1636707798",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Now Playing♬ 트와이스 - 메리앤해피(#TWICE - Merry&amp;Happy)\n\n&lt;#쇼음악중심&gt; 하이라이트🦌🎄 오늘 오후 3시 15분 호호호🎅\n\n✨라인업✨ #정우 X #민주 X #리노 #MSG워너비 #태연 #SHINee #2PM #아이유 #하이라이트 #브레이브걸스 #오마이걸 #트와이스 #ROSÉ #NCT127 #StrayKids #ITZY #임영웅 #aespa https://t.co/bXvGHbNx8O"
+	},
+	{
 		"created_at": "Fri Dec 24 16:07:09 +0000 2021",
 		"id": 1474403527250563000,
 		"id_str": "1474411330178359308",
