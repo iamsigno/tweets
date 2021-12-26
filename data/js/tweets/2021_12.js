@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 26 08:07:09 +0000 2021",
+		"id": 1475013763254284300,
+		"id_str": "1475015310533181442",
+		"full_text": "[#2021MAMA Present] #choisooyoung #최수영\nWink 😉😉😉 #MakeSomeNoise\n\n#MnetASIANMUSICAWARDS #MAMA #Mnet https://t.co/zndIoHESC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "choisooyoung",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "MakeSomeNoise",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"text": "MnetASIANMUSICAWARDS",
+					"indices": [
+						64,
+						85
+					]
+				},
+				{
+					"text": "MAMA",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1474324189956165600,
+					"id_str": "1474324189956165632",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FHXbbqTaIAM-Ibd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHXbbqTaIAM-Ibd.jpg",
+					"url": "https://t.co/zndIoHESC4",
+					"display_url": "pic.twitter.com/zndIoHESC4",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1475013763254284288/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474324189956165600,
+					"id_str": "1474324189956165632",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/FHXbbqTaIAM-Ibd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHXbbqTaIAM-Ibd.jpg",
+					"url": "https://t.co/zndIoHESC4",
+					"display_url": "pic.twitter.com/zndIoHESC4",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1475013763254284288/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 12721,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1474324189956165632/vid/320x568/vt9rUUgLDoXVisXM.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1474324189956165632/vid/480x852/JC3zOyDnUowrKPFK.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1474324189956165632/pl/RNQLI0lOTlLyOo8T.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1474324189956165632/vid/720x1280/lDQLROssjl9z0l-8.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA(엠넷아시안뮤직어워즈)",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA(Mnet Asian Music Awards) Official Twitter 2021.12.11",
+			"url": "https://t.co/klitpDhifs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/klitpDhifs",
+							"expanded_url": "http://2021mama.com",
+							"display_url": "2021mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2463167,
+			"friends_count": 103,
+			"listed_count": 2159,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457615292180627456/3a77AT11_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1639992216",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 235,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#2021MAMA Present] #choisooyoung #최수영\nWink 😉😉😉 #MakeSomeNoise\n\n#MnetASIANMUSICAWARDS #MAMA #Mnet https://t.co/zndIoHESC4"
+	},
+	{
 		"created_at": "Sat Dec 25 01:07:09 +0000 2021",
 		"id": 1474545432323772400,
 		"id_str": "1474547227242766336",
