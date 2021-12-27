@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 27 08:07:11 +0000 2021",
+		"id": 1475374837514137600,
+		"id_str": "1475377707659706370",
+		"full_text": "💥 SM Girls รวมตัว! เริ่มต้นโปรเจกต์ ‘Girls On Top(GOT)’ ด้วยยูนิตแรก ‘GOT the beat’!!\n\nhttps://t.co/FUzaTjBZfw\n\nเวทีพิเศษใน SMTOWN LIVE 2022➫01.01.2022\nเพลงใหม่➫03.01.2022\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/yN50JAi5Tv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						185,
+						189
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						216,
+						220
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						221,
+						229
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						230,
+						238
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						239,
+						246
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						247,
+						253
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						254,
+						261
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						262,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FUzaTjBZfw",
+					"expanded_url": "http://www.facebook.com/smtruethailand/posts/4724465744268003",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1475372518655467500,
+					"id_str": "1475372518655467523",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FHmTfSXVIAMyHdd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHmTfSXVIAMyHdd.jpg",
+					"url": "https://t.co/yN50JAi5Tv",
+					"display_url": "pic.twitter.com/yN50JAi5Tv",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1475374837514137600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1475372518655467500,
+					"id_str": "1475372518655467523",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FHmTfSXVIAMyHdd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHmTfSXVIAMyHdd.jpg",
+					"url": "https://t.co/yN50JAi5Tv",
+					"display_url": "pic.twitter.com/yN50JAi5Tv",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1475374837514137600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90094,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💥 SM Girls รวมตัว! เริ่มต้นโปรเจกต์ ‘Girls On Top(GOT)’ ด้วยยูนิตแรก ‘GOT the beat’!!\n\nhttps://t.co/FUzaTjBZfw\n\nเวทีพิเศษใน SMTOWN LIVE 2022➫01.01.2022\nเพลงใหม่➫03.01.2022\n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/yN50JAi5Tv"
+	},
+	{
 		"created_at": "Mon Dec 27 05:07:09 +0000 2021",
 		"id": 1475317438958891000,
 		"id_str": "1475332399575842817",
