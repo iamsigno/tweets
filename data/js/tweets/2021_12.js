@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 27 09:07:08 +0000 2021",
+		"id": 1475391003112591400,
+		"id_str": "1475392797167566851",
+		"full_text": "[M-ding 요정]\n#쇼음중 12월 4주차 엠딩요정🧚🧚‍♀️🧚‍♂️\n\n#정우 #리노 #민주 #2PM #아이유 #태연 #StrayKids #ITZY #NCT #OHMYGIRL #TWICE https://t.co/CaRyxDIoAM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "쇼음중",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "정우",
+					"indices": [
+						40,
+						43
+					]
+				},
+				{
+					"text": "리노",
+					"indices": [
+						44,
+						47
+					]
+				},
+				{
+					"text": "민주",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						98,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1475067319491924000,
+					"id_str": "1475067319491923968",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FHiFRAcaMAE3rmU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHiFRAcaMAE3rmU.jpg",
+					"url": "https://t.co/CaRyxDIoAM",
+					"display_url": "pic.twitter.com/CaRyxDIoAM",
+					"expanded_url": "https://twitter.com/withMBC/status/1475391003112591361/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1475067319491924000,
+					"id_str": "1475067319491923968",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FHiFRAcaMAE3rmU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHiFRAcaMAE3rmU.jpg",
+					"url": "https://t.co/CaRyxDIoAM",
+					"display_url": "pic.twitter.com/CaRyxDIoAM",
+					"expanded_url": "https://twitter.com/withMBC/status/1475391003112591361/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59993,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1475067319491923968/vid/480x270/WJwp7HInjuBggr-c.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1475067319491923968/vid/1280x720/8HVv8aKzpSeFAc-Y.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1475067319491923968/vid/640x360/IkbLGlJ9NRN0Byaj.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1475067319491923968/pl/du69mLv0KtyxZ3s8.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1009063,
+			"friends_count": 9989,
+			"listed_count": 4225,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1636707798",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[M-ding 요정]\n#쇼음중 12월 4주차 엠딩요정🧚🧚‍♀️🧚‍♂️\n\n#정우 #리노 #민주 #2PM #아이유 #태연 #StrayKids #ITZY #NCT #OHMYGIRL #TWICE https://t.co/CaRyxDIoAM"
+	},
+	{
 		"created_at": "Mon Dec 27 08:07:11 +0000 2021",
 		"id": 1475374837514137600,
 		"id_str": "1475377707659706370",
