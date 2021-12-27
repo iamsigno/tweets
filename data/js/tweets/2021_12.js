@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 27 14:07:10 +0000 2021",
+		"id": 1475456296925429800,
+		"id_str": "1475468302126395394",
+		"full_text": "https://t.co/1nXYqGxabR \n\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #TAEYEON #HYOYEON #GirlsGeneration #ONEW #KEY #MINHO #SHINee #KAI #EXO #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #aespa #GOTthebeat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						34,
+						38
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						105,
+						111
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "KAI",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"text": "NCTU",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "WayV",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						171,
+						177
+					]
+				},
+				{
+					"text": "GOTthebeat",
+					"indices": [
+						178,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1nXYqGxabR",
+					"expanded_url": "https://twitter.com/i/events/1471167754891771907",
+					"display_url": "twitter.com/i/events/14711…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1475420406513541000,
+		"in_reply_to_status_id_str": "1475420406513541130",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10353344,
+			"friends_count": 56,
+			"listed_count": 11418,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 413,
+		"favorite_count": 1642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/1nXYqGxabR \n\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #TAEYEON #HYOYEON #GirlsGeneration #ONEW #KEY #MINHO #SHINee #KAI #EXO #RedVelvet #NCTU #NCT127 #NCTDREAM #WayV #aespa #GOTthebeat"
+	},
+	{
 		"created_at": "Mon Dec 27 10:44:57 +0000 2021",
 		"id": 1475409157025316900,
 		"id_str": "1475417410329055234",
