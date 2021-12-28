@@ -1,10 +1,518 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 28 15:07:17 +0000 2021",
+		"id": 1475844344355897300,
+		"id_str": "1475845817542094853",
+		"full_text": "GOT the beat(GOT:Girls On Top)\n#KARINA \n\nSpecial Stage ➫ 2022.01.01\nNew Song Release ➫ 2022.01.03. 6PM KST \n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/fLKnNLz3aL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KARINA",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						126,
+						131
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						132,
+						145
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						176,
+						183
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						184,
+						190
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						191,
+						198
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						199,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1475844339364688000,
+					"id_str": "1475844339364687877",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FHtAm3eacAUYYvl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHtAm3eacAUYYvl.jpg",
+					"url": "https://t.co/fLKnNLz3aL",
+					"display_url": "pic.twitter.com/fLKnNLz3aL",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1475844344355897347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1475844339364688000,
+					"id_str": "1475844339364687877",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FHtAm3eacAUYYvl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHtAm3eacAUYYvl.jpg",
+					"url": "https://t.co/fLKnNLz3aL",
+					"display_url": "pic.twitter.com/fLKnNLz3aL",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1475844344355897347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206773,
+			"friends_count": 5,
+			"listed_count": 469,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475119317725618178/u-8E-ffY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475119317725618178/u-8E-ffY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12482,
+		"favorite_count": 19096,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOT the beat(GOT:Girls On Top)\n#KARINA \n\nSpecial Stage ➫ 2022.01.01\nNew Song Release ➫ 2022.01.03. 6PM KST \n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/fLKnNLz3aL"
+	},
+	{
+		"created_at": "Tue Dec 28 15:07:12 +0000 2021",
+		"id": 1475844281328111600,
+		"id_str": "1475845795874324480",
+		"full_text": "GOT the beat(GOT:Girls On Top)\n#WENDY \n\nSpecial Stage ➫ 2022.01.01\nNew Song Release ➫ 2022.01.03. 6PM KST \n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/GxhvuKH3aw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WENDY",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"text": "GirlsOnTop",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "GOT",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "걸스온탑",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						131,
+						144
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						166,
+						174
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						198,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1475844272167747600,
+					"id_str": "1475844272167747585",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FHtAi9JagAEzaZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHtAi9JagAEzaZ4.jpg",
+					"url": "https://t.co/GxhvuKH3aw",
+					"display_url": "pic.twitter.com/GxhvuKH3aw",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1475844281328111617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1475844272167747600,
+					"id_str": "1475844272167747585",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FHtAi9JagAEzaZ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHtAi9JagAEzaZ4.jpg",
+					"url": "https://t.co/GxhvuKH3aw",
+					"display_url": "pic.twitter.com/GxhvuKH3aw",
+					"expanded_url": "https://twitter.com/GirlsOnTop_SM/status/1475844281328111617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1472876868416475100,
+			"id_str": "1472876868416475141",
+			"name": "Girls On Top",
+			"screen_name": "GirlsOnTop_SM",
+			"location": "",
+			"description": "Girls, bring it on",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206773,
+			"friends_count": 5,
+			"listed_count": 469,
+			"created_at": "Mon Dec 20 10:29:56 +0000 2021",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475119317725618178/u-8E-ffY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475119317725618178/u-8E-ffY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1472876868416475141/1640530827",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11644,
+		"favorite_count": 17876,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GOT the beat(GOT:Girls On Top)\n#WENDY \n\nSpecial Stage ➫ 2022.01.01\nNew Song Release ➫ 2022.01.03. 6PM KST \n\n#GirlsOnTop #GOT #걸스온탑\n#GOT_the_beat #갓더비트 \n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/GxhvuKH3aw"
+	},
+	{
 		"created_at": "Tue Dec 28 10:07:09 +0000 2021",
 		"id": 1475769674491379700,
 		"id_str": "1475770284988841990",
-		"full_text": "💗🚶🏻‍♀️KWANGYA runway🚶🏻‍♀️💗\n🎥filmed by SUNNY🎥\n\nhttps://t.co/egOrqubkeL \n\n#소녀시대 #GirlsGeneration \n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA",
+		"full_text": "💗🚶🏻♀️KWANGYA runway🚶🏻♀️💗\n🎥filmed by SUNNY🎥\n\nhttps://t.co/egOrqubkeL \n\n#소녀시대 #GirlsGeneration \n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -169,7 +677,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "💗🚶🏻‍♀️KWANGYA runway🚶🏻‍♀️💗\n🎥filmed by SUNNY🎥\n\nhttps://t.co/egOrqubkeL \n\n#소녀시대 #GirlsGeneration \n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA"
+		"text": "💗🚶🏻♀️KWANGYA runway🚶🏻♀️💗\n🎥filmed by SUNNY🎥\n\nhttps://t.co/egOrqubkeL \n\n#소녀시대 #GirlsGeneration \n#SMTOWN2022 #SMCU_EXPRESS \n#2021_WINTER_SMTOWN \n#SMTOWN #SMTOWN_LIVE #SMCU #KWANGYA"
 	},
 	{
 		"created_at": "Tue Dec 28 08:07:09 +0000 2021",
