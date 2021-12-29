@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 29 05:07:08 +0000 2021",
+		"id": 1476055499783041000,
+		"id_str": "1476057174648500224",
+		"full_text": "GOT the beat Rilis Teaser Image HYO, WENDY, dan KARINA\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/thvLfc6QnM\n\n@GirlsOnTop_SM\n#GOT #GOT_the_beat #StepBack\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/ICS5lUvFP7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOT",
+					"indices": [
+						154,
+						158
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						197,
+						205
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						206,
+						213
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						214,
+						220
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						221,
+						228
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						229,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						139,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/thvLfc6QnM",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/954692658481082",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1476055410029170700,
+					"id_str": "1476055410029170688",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FHwAky-VEAAqEuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHwAky-VEAAqEuU.jpg",
+					"url": "https://t.co/ICS5lUvFP7",
+					"display_url": "pic.twitter.com/ICS5lUvFP7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1476055499783041029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476055410029170700,
+					"id_str": "1476055410029170688",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FHwAky-VEAAqEuU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHwAky-VEAAqEuU.jpg",
+					"url": "https://t.co/ICS5lUvFP7",
+					"display_url": "pic.twitter.com/ICS5lUvFP7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1476055499783041029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1476055459320586200,
+					"id_str": "1476055459320586242",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FHwAnqmUYAIiP_I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHwAnqmUYAIiP_I.jpg",
+					"url": "https://t.co/ICS5lUvFP7",
+					"display_url": "pic.twitter.com/ICS5lUvFP7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1476055499783041029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1476055477310001200,
+					"id_str": "1476055477310001154",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FHwAotnVEAI-iN8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHwAotnVEAI-iN8.jpg",
+					"url": "https://t.co/ICS5lUvFP7",
+					"display_url": "pic.twitter.com/ICS5lUvFP7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1476055499783041029/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 844834,
+			"friends_count": 35,
+			"listed_count": 551,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2703,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "GOT the beat Rilis Teaser Image HYO, WENDY, dan KARINA\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/thvLfc6QnM\n\n@GirlsOnTop_SM\n#GOT #GOT_the_beat #StepBack\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/ICS5lUvFP7"
+	},
+	{
 		"created_at": "Wed Dec 29 01:07:09 +0000 2021",
 		"id": 1475994979298279400,
 		"id_str": "1475996777069305861",
