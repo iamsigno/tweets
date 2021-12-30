@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 30 03:07:09 +0000 2021",
+		"id": 1476387568182726700,
+		"id_str": "1476389364527685633",
+		"full_text": "[특별한체험단 X 열여덟어른]\n특별한 어른 #용진호 와 #써니, 열여덟어른이 함께 만든 이모티콘이 1만명에게 배포 되었습니다👏👏👏  보호종료청년을 응원해주시고 함께 해주신 모든 분들께 감사드립니다.\n이모티콘 열심히 사용하시면서 매년 사회로 나오는 2,500여명의 보호종료청년을 기억해주세요😃 https://t.co/7fkHTk6mmN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "용진호",
+					"indices": [
+						24,
+						28
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						31,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1476088813688860700,
+					"id_str": "1476088813688860672",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1476088813688860672/pu/img/brKPQWwHAZD12hX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1476088813688860672/pu/img/brKPQWwHAZD12hX1.jpg",
+					"url": "https://t.co/7fkHTk6mmN",
+					"display_url": "pic.twitter.com/7fkHTk6mmN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1476387568182726659/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476088813688860700,
+					"id_str": "1476088813688860672",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1476088813688860672/pu/img/brKPQWwHAZD12hX1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1476088813688860672/pu/img/brKPQWwHAZD12hX1.jpg",
+					"url": "https://t.co/7fkHTk6mmN",
+					"display_url": "pic.twitter.com/7fkHTk6mmN",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1476387568182726659/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42142,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476088813688860672/pu/vid/480x270/BFq1W3uAHEugjH8S.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476088813688860672/pu/vid/640x360/kRy1X9VPis3J28k5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1476088813688860672/pu/pl/diSzrm_lU3VyB__7.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1476088813688860672/pu/vid/1280x720/0FRAwTYEtIwMLxyi.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10366463,
+			"friends_count": 56,
+			"listed_count": 11454,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1468958715566985226/eed5B2Wp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1639062025",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 94,
+		"favorite_count": 1026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[특별한체험단 X 열여덟어른]\n특별한 어른 #용진호 와 #써니, 열여덟어른이 함께 만든 이모티콘이 1만명에게 배포 되었습니다👏👏👏  보호종료청년을 응원해주시고 함께 해주신 모든 분들께 감사드립니다.\n이모티콘 열심히 사용하시면서 매년 사회로 나오는 2,500여명의 보호종료청년을 기억해주세요😃 https://t.co/7fkHTk6mmN"
+	},
+	{
 		"created_at": "Wed Dec 29 09:07:09 +0000 2021",
 		"id": 1476107242466279400,
 		"id_str": "1476117573548793861",
