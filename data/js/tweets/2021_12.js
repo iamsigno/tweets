@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 31 09:07:09 +0000 2021",
+		"id": 1476841093300109300,
+		"id_str": "1476842348835487744",
+		"full_text": "2022 SM ARTIST SEASON’S GREETINGS #GirlsGenerationOhGG\n\n👉🏻 https://t.co/GLIbB0glyq\n\n#태연 #TAEYEON #써니 #SUNNY\n#효연 #HYOYEON #유리 #YURI #윤아 #YOONA\n#소녀시대 #GirlsGeneration https://t.co/O47LqUUWa2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGenerationOhGG",
+					"indices": [
+						34,
+						54
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						112,
+						120
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						121,
+						124
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						135,
+						141
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						148,
+						164
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GLIbB0glyq",
+					"expanded_url": "https://youtu.be/jeyo_jzvWvo",
+					"display_url": "youtu.be/jeyo_jzvWvo",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1476841069774241800,
+					"id_str": "1476841069774241796",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7LINmaAAQd3xs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7LINmaAAQd3xs.jpg",
+					"url": "https://t.co/O47LqUUWa2",
+					"display_url": "pic.twitter.com/O47LqUUWa2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1476841093300109321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476841069774241800,
+					"id_str": "1476841069774241796",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7LINmaAAQd3xs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7LINmaAAQd3xs.jpg",
+					"url": "https://t.co/O47LqUUWa2",
+					"display_url": "pic.twitter.com/O47LqUUWa2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1476841093300109321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3692269,
+			"friends_count": 4,
+			"listed_count": 5638,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 856,
+		"favorite_count": 1118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 SM ARTIST SEASON’S GREETINGS #GirlsGenerationOhGG\n\n👉🏻 https://t.co/GLIbB0glyq\n\n#태연 #TAEYEON #써니 #SUNNY\n#효연 #HYOYEON #유리 #YURI #윤아 #YOONA\n#소녀시대 #GirlsGeneration https://t.co/O47LqUUWa2"
+	},
+	{
 		"created_at": "Fri Dec 31 08:07:09 +0000 2021",
 		"id": 1476825457668411400,
 		"id_str": "1476827249953460235",
