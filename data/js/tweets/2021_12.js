@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 31 13:07:09 +0000 2021",
+		"id": 1476897202002075600,
+		"id_str": "1476902747291230233",
+		"full_text": "🏆&lt;#2021MC가요대제전&gt;🏆 \nMC #윤아 #이준호 #장성규\n\n12월 31일(금) 밤 8시 40분 방송\n다시보기▶ https://t.co/9h5WdHS8vN https://t.co/SDlItq1tPI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2021MC가요대제전",
+					"indices": [
+						5,
+						17
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "이준호",
+					"indices": [
+						31,
+						35
+					]
+				},
+				{
+					"text": "장성규",
+					"indices": [
+						36,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9h5WdHS8vN",
+					"expanded_url": "http://www.imbc.com",
+					"display_url": "imbc.com",
+					"indices": [
+						71,
+						94
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1476897186864861200,
+					"id_str": "1476897186864861189",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7-KqDakAURfj9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7-KqDakAURfj9.jpg",
+					"url": "https://t.co/SDlItq1tPI",
+					"display_url": "pic.twitter.com/SDlItq1tPI",
+					"expanded_url": "https://twitter.com/withMBC/status/1476897202002075651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 995,
+							"h": 798,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 995,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476897186864861200,
+					"id_str": "1476897186864861189",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/FH7-KqDakAURfj9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH7-KqDakAURfj9.jpg",
+					"url": "https://t.co/SDlItq1tPI",
+					"display_url": "pic.twitter.com/SDlItq1tPI",
+					"expanded_url": "https://twitter.com/withMBC/status/1476897202002075651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 995,
+							"h": 798,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 995,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 545,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1009545,
+			"friends_count": 9987,
+			"listed_count": 4227,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1636707798",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 523,
+		"favorite_count": 763,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆&lt;#2021MC가요대제전&gt;🏆 \nMC #윤아 #이준호 #장성규\n\n12월 31일(금) 밤 8시 40분 방송\n다시보기▶ https://t.co/9h5WdHS8vN https://t.co/SDlItq1tPI"
+	},
+	{
 		"created_at": "Fri Dec 31 09:07:09 +0000 2021",
 		"id": 1476841093300109300,
 		"id_str": "1476842348835487744",
