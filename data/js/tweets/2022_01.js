@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 03 05:07:09 +0000 2022",
+		"id": 1477862601333743600,
+		"id_str": "1477869116040089602",
+		"full_text": "Proyek Unit SM Entertainment, GOT the beat, Rilis Lagu ‘Step Back’ Sore Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/AOlswiuy1D\n\n@GirlsOnTop_SM \n#GOT #GOT_the_beat #StepBack\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/AVq58pParf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GOT",
+					"indices": [
+						176,
+						180
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						181,
+						194
+					]
+				},
+				{
+					"text": "StepBack",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						210,
+						218
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						219,
+						227
+					]
+				},
+				{
+					"text": "SEULGI",
+					"indices": [
+						228,
+						235
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						236,
+						242
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						243,
+						250
+					]
+				},
+				{
+					"text": "WINTER",
+					"indices": [
+						251,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						160,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AOlswiuy1D",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/957755608174787",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1477862565933826000,
+					"id_str": "1477862565933826052",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJsLHVVQAQrVcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJsLHVVQAQrVcf.jpg",
+					"url": "https://t.co/AVq58pParf",
+					"display_url": "pic.twitter.com/AVq58pParf",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1477862601333743618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1477862565933826000,
+					"id_str": "1477862565933826052",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FIJsLHVVQAQrVcf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIJsLHVVQAQrVcf.jpg",
+					"url": "https://t.co/AVq58pParf",
+					"display_url": "pic.twitter.com/AVq58pParf",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1477862601333743618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 852584,
+			"friends_count": 35,
+			"listed_count": 556,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2721,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 665,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Proyek Unit SM Entertainment, GOT the beat, Rilis Lagu ‘Step Back’ Sore Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/AOlswiuy1D\n\n@GirlsOnTop_SM \n#GOT #GOT_the_beat #StepBack\n#BoA #TAEYEON #HYOYEON #SEULGI #WENDY #KARINA #WINTER https://t.co/AVq58pParf"
+	},
+	{
 		"created_at": "Sat Jan 01 04:07:08 +0000 2022",
 		"id": 1477125145064243200,
 		"id_str": "1477129238658568192",
