@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 11:44:57 +0000 2022",
+		"id": 1479056235026870300,
+		"id_str": "1479056388756279296",
+		"full_text": "탱✌🏻 at SMTOWN '빛 (Hope from KWANGYA)' MV 촬영장\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#SMTOWN2022\n#빛 #Hope_from_KWANGYA https://t.co/DDZPHivBRA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						59,
+						64
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						65,
+						81
+					]
+				},
+				{
+					"text": "SMTOWN2022",
+					"indices": [
+						82,
+						93
+					]
+				},
+				{
+					"text": "빛",
+					"indices": [
+						94,
+						96
+					]
+				},
+				{
+					"text": "Hope_from_KWANGYA",
+					"indices": [
+						97,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479053122714861600,
+					"id_str": "1479053122714861577",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FIan11sagAQwxjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIan11sagAQwxjg.jpg",
+					"url": "https://t.co/DDZPHivBRA",
+					"display_url": "pic.twitter.com/DDZPHivBRA",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1479056235026870276/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479053122714861600,
+					"id_str": "1479053122714861577",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FIan11sagAQwxjg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIan11sagAQwxjg.jpg",
+					"url": "https://t.co/DDZPHivBRA",
+					"display_url": "pic.twitter.com/DDZPHivBRA",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1479056235026870276/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 320,
+							"h": 568,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 11761,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1479053122714861577/pl/t5wHjwXXaGI3dmXH.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1479053122714861577/vid/720x1280/d5JkoFT34B7om0p-.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1479053122714861577/vid/480x852/8CQyxpFdknNj5auJ.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1479053122714861577/vid/320x568/MQPRKGOzHzPyG7Oa.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3694845,
+			"friends_count": 4,
+			"listed_count": 5654,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2453,
+		"favorite_count": 4032,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탱✌🏻 at SMTOWN '빛 (Hope from KWANGYA)' MV 촬영장\n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#SMTOWN2022\n#빛 #Hope_from_KWANGYA https://t.co/DDZPHivBRA"
+	},
+	{
 		"created_at": "Thu Jan 06 04:07:09 +0000 2022",
 		"id": 1478935821978042400,
 		"id_str": "1478941178724769792",
