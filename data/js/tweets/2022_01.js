@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 09:07:09 +0000 2022",
+		"id": 1479377269495844900,
+		"id_str": "1479379064255352836",
+		"full_text": "SM 치트키 #SuperM VS #GOT_the_beat\n\n팬들의 판타지를 이뤄준 레전드 그룹! \n\n스엠 진짜 일 잘한다….\n\n#갓더비트 #GOT_the_beat #보아 #태연 #효연 #슬기 #웬디 #카리나 #윈터 #Step_Back #슈퍼엠 #SuperM\n@superm @GirlsOnTop_SM \n\n[YO!GO!보라GO! FULL VER] https://t.co/nDwpBKbyLY https://t.co/cUc86fR9TE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SuperM",
+					"indices": [
+						7,
+						14
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"text": "갓더비트",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						91,
+						94
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "슬기",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "윈터",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "Step_Back",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "슈퍼엠",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "SuperM",
+					"indices": [
+						136,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "superm",
+					"name": "SuperM",
+					"id": 1135806843773542400,
+					"id_str": "1135806843773542401",
+					"indices": [
+						144,
+						151
+					]
+				},
+				{
+					"screen_name": "GirlsOnTop_SM",
+					"name": "Girls On Top",
+					"id": 1472876868416475100,
+					"id_str": "1472876868416475141",
+					"indices": [
+						152,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nDwpBKbyLY",
+					"expanded_url": "https://youtu.be/jGvgNF_yamM",
+					"display_url": "youtu.be/jGvgNF_yamM",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1479373350787252200,
+					"id_str": "1479373350787252227",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1479373350787252227/img/VvgqZPzSUPjNUKFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1479373350787252227/img/VvgqZPzSUPjNUKFS.jpg",
+					"url": "https://t.co/cUc86fR9TE",
+					"display_url": "pic.twitter.com/cUc86fR9TE",
+					"expanded_url": "https://twitter.com/TheKpop/status/1479377269495844866/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479373350787252200,
+					"id_str": "1479373350787252227",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1479373350787252227/img/VvgqZPzSUPjNUKFS.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1479373350787252227/img/VvgqZPzSUPjNUKFS.jpg",
+					"url": "https://t.co/cUc86fR9TE",
+					"display_url": "pic.twitter.com/cUc86fR9TE",
+					"expanded_url": "https://twitter.com/TheKpop/status/1479377269495844866/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31631,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1479373350787252227/vid/1280x720/zCP0kPe2kvV8ZinB.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1479373350787252227/pl/dLw5y6beh17ocaX2.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1479373350787252227/vid/640x360/bo5Ssjz27NiNRicV.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1479373350787252227/vid/480x270/nmETbr2lMIEEoEfC.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113842072,
+			"id_str": "113842072",
+			"name": "THE K-POP",
+			"screen_name": "TheKpop",
+			"location": "Seoul, Republic of Korea",
+			"description": "We provide 'SBS medianet' original K-POP shows. https://t.co/DvR4tkL53U",
+			"url": "https://t.co/87WseQ3dJp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87WseQ3dJp",
+							"expanded_url": "https://mtv.sbs.co.kr/channel.html",
+							"display_url": "mtv.sbs.co.kr/channel.html",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DvR4tkL53U",
+							"expanded_url": "http://youtube.com/c/TheKPOP",
+							"display_url": "youtube.com/c/TheKPOP",
+							"indices": [
+								48,
+								71
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 776368,
+			"friends_count": 1043,
+			"listed_count": 1345,
+			"created_at": "Sat Feb 13 06:30:47 +0000 2010",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6136,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113842072/1640769201",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 57,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM 치트키 #SuperM VS #GOT_the_beat\n\n팬들의 판타지를 이뤄준 레전드 그룹! \n\n스엠 진짜 일 잘한다….\n\n#갓더비트 #GOT_the_beat #보아 #태연 #효연 #슬기 #웬디 #카리나 #윈터 #Step_Back #슈퍼엠 #SuperM\n@superm @GirlsOnTop_SM \n\n[YO!GO!보라GO! FULL VER] https://t.co/nDwpBKbyLY https://t.co/cUc86fR9TE"
+	},
+	{
 		"created_at": "Thu Jan 06 11:44:57 +0000 2022",
 		"id": 1479056235026870300,
 		"id_str": "1479056388756279296",
