@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 09:44:57 +0000 2022",
+		"id": 1480467725286015000,
+		"id_str": "1480475741477384196",
+		"full_text": "유리의 첫 후야TV &lt;#슈퍼아이돌리그&gt;\n창의공방 편 도전기!\n오늘은 무엇을 만들까~요?😉\n많이 기대해주세요.✨\n\n2022.01.10 8PM KST\nhttps://t.co/T1l5kfNcGe \n\n#YURI #유리 #소녀시대 #GirlsGeneration #후야 #HUYA https://t.co/drzUxy64bz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼아이돌리그",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						130,
+						146
+					]
+				},
+				{
+					"text": "후야",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "HUYA",
+					"indices": [
+						151,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T1l5kfNcGe",
+					"expanded_url": "http://www.huya.com/637215",
+					"display_url": "huya.com/637215",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480467720034746400,
+					"id_str": "1480467720034746368",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FIutjCoagAArUMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIutjCoagAArUMT.jpg",
+					"url": "https://t.co/drzUxy64bz",
+					"display_url": "pic.twitter.com/drzUxy64bz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1480467725286014978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480467720034746400,
+					"id_str": "1480467720034746368",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FIutjCoagAArUMT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIutjCoagAArUMT.jpg",
+					"url": "https://t.co/drzUxy64bz",
+					"display_url": "pic.twitter.com/drzUxy64bz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1480467725286014978/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3695235,
+			"friends_count": 4,
+			"listed_count": 5657,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2570,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1157,
+		"favorite_count": 2905,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "유리의 첫 후야TV &lt;#슈퍼아이돌리그&gt;\n창의공방 편 도전기!\n오늘은 무엇을 만들까~요?😉\n많이 기대해주세요.✨\n\n2022.01.10 8PM KST\nhttps://t.co/T1l5kfNcGe \n\n#YURI #유리 #소녀시대 #GirlsGeneration #후야 #HUYA https://t.co/drzUxy64bz"
+	},
+	{
 		"created_at": "Sun Jan 09 04:44:56 +0000 2022",
 		"id": 1480025597770358800,
 		"id_str": "1480037853711196161",
