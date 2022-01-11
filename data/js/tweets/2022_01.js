@@ -1,6 +1,496 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 03:07:25 +0000 2022",
+		"id": 1480736316623298600,
+		"id_str": "1480738087521116160",
+		"full_text": "TAEYEON 태연 Pre-release Single [Can't Control Myself]\n\n➫2022.01.17. 6PM KST \n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/LE5HY84bgh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						96,
+						112
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						113,
+						131
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						132,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480736306435334100,
+					"id_str": "1480736306435334148",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FIyh008aIAQ4x3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIyh008aIAQ4x3T.jpg",
+					"url": "https://t.co/LE5HY84bgh",
+					"display_url": "pic.twitter.com/LE5HY84bgh",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1480736316623298562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480736306435334100,
+					"id_str": "1480736306435334148",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FIyh008aIAQ4x3T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIyh008aIAQ4x3T.jpg",
+					"url": "https://t.co/LE5HY84bgh",
+					"display_url": "pic.twitter.com/LE5HY84bgh",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1480736316623298562/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3695377,
+			"friends_count": 4,
+			"listed_count": 5658,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1469321995682660354/RuPtHUXm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1638950614",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2528,
+		"favorite_count": 3039,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 Pre-release Single [Can't Control Myself]\n\n➫2022.01.17. 6PM KST \n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/LE5HY84bgh"
+	},
+	{
+		"created_at": "Tue Jan 11 03:07:18 +0000 2022",
+		"id": 1480727709282369500,
+		"id_str": "1480738057280233483",
+		"full_text": "PARK SOOYOUNG of the JTBC drama ‘한 사람만’ overwhelmed atmosphere with a fancy hot pink dress and stimulates viewers curiosity with a lonely expression contrary to the fancy party look!\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY \n#레드벨벳 #RedVelvet @RVsmtown \n#한사람만 https://t.co/msK1absj4T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						184,
+						188
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						189,
+						202
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						203,
+						206
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						207,
+						211
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						213,
+						218
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						219,
+						229
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						241,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1480726454170419200,
+					"id_str": "1480726454170419202",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FIyY3WZaAAIKypF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIyY3WZaAAIKypF.jpg",
+					"url": "https://t.co/msK1absj4T",
+					"display_url": "pic.twitter.com/msK1absj4T",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1480727709282369537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480726454170419200,
+					"id_str": "1480726454170419202",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FIyY3WZaAAIKypF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIyY3WZaAAIKypF.jpg",
+					"url": "https://t.co/msK1absj4T",
+					"display_url": "pic.twitter.com/msK1absj4T",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1480727709282369537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1480726454145269800,
+					"id_str": "1480726454145269772",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FIyY3WTaQAwQoFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIyY3WTaQAwQoFZ.jpg",
+					"url": "https://t.co/msK1absj4T",
+					"display_url": "pic.twitter.com/msK1absj4T",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1480727709282369537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10449946,
+			"friends_count": 56,
+			"listed_count": 11532,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11644,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2541,
+		"favorite_count": 8215,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PARK SOOYOUNG of the JTBC drama ‘한 사람만’ overwhelmed atmosphere with a fancy hot pink dress and stimulates viewers curiosity with a lonely expression contrary to the fancy party look!\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY \n#레드벨벳 #RedVelvet @RVsmtown \n#한사람만 https://t.co/msK1absj4T"
+	},
+	{
 		"created_at": "Mon Jan 10 09:44:57 +0000 2022",
 		"id": 1480467725286015000,
 		"id_str": "1480475741477384196",
