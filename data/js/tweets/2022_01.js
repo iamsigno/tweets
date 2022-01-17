@@ -1,6 +1,717 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 10:07:28 +0000 2022",
+		"id": 1483005407698174000,
+		"id_str": "1483018123242622977",
+		"full_text": "❤️‍🩹#少女時代 #TAEYEON💔\n新曲「Can't Control Myself」配信開始❣️\n\n3rdフルアルバムからの先行リリース🥀テヨンの切ない歌声に引き込まれます😌\n\nテヨンがカバーを飾るプレイリスト「K-Girls」で聴いてね🩹❤️\n🎧https://t.co/dHUIvdhpom\n\n#CantControlMyself @gg_official_jp @GirlsGeneration https://t.co/kFJL8cYEEH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						4,
+						9
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						151,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						170,
+						185
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dHUIvdhpom",
+					"expanded_url": "https://amzn.to/3GElNq0",
+					"display_url": "amzn.to/3GElNq0",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483003659478700000,
+					"id_str": "1483003659478700034",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSxG-ZVkAQgt0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSxG-ZVkAQgt0U.jpg",
+					"url": "https://t.co/kFJL8cYEEH",
+					"display_url": "pic.twitter.com/kFJL8cYEEH",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1483005407698173954/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483003659478700000,
+					"id_str": "1483003659478700034",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSxG-ZVkAQgt0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSxG-ZVkAQgt0U.jpg",
+					"url": "https://t.co/kFJL8cYEEH",
+					"display_url": "pic.twitter.com/kFJL8cYEEH",
+					"expanded_url": "https://twitter.com/amazonmusicjp/status/1483005407698173954/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 320,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 36336,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483003659478700034/pl/cPP_IHn_Ybmw_iT_.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483003659478700034/vid/320x320/Tmfs2p62BIrdzhqX.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483003659478700034/vid/720x720/9nJHrFZy0Gv7OxpU.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483003659478700034/vid/540x540/BY7Ni_8E53i3HsjJ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 910751840492412900,
+			"id_str": "910751840492412928",
+			"name": "Amazon Music JP",
+			"screen_name": "amazonmusicjp",
+			"location": "",
+			"description": "好きな音楽を好きなだけ🎵\n音楽聴き放題サービス、Amazon Music（アマゾンミュージック）の公式Twitterです。最新の音楽情報や、お得なキャンペーン、ここでしか見られないアーティストのオリジナルコンテンツなどを配信中！",
+			"url": "https://t.co/7OrQKXIK8g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7OrQKXIK8g",
+							"expanded_url": "https://www.amazon.co.jp/amu",
+							"display_url": "amazon.co.jp/amu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163749,
+			"friends_count": 2249,
+			"listed_count": 495,
+			"created_at": "Thu Sep 21 06:25:34 +0000 2017",
+			"favourites_count": 1738,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 380612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1065506331203780608/LcW1Gjrh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/910751840492412928/1634720558",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 524,
+		"favorite_count": 765,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "❤️‍🩹#少女時代 #TAEYEON💔\n新曲「Can't Control Myself」配信開始❣️\n\n3rdフルアルバムからの先行リリース🥀テヨンの切ない歌声に引き込まれます😌\n\nテヨンがカバーを飾るプレイリスト「K-Girls」で聴いてね🩹❤️\n🎧https://t.co/dHUIvdhpom\n\n#CantControlMyself @gg_official_jp @GirlsGeneration https://t.co/kFJL8cYEEH"
+	},
+	{
+		"created_at": "Mon Jan 17 10:07:20 +0000 2022",
+		"id": 1483006882919100400,
+		"id_str": "1483018089209942016",
+		"full_text": "❤️‍🩹เพลงใหม่ ‘Can't Control Myself’ ของ #TAEYEON ปล่อยออกมาเรียบร้อย!\n\n🎬เพิ่มความอินให้กับทุกคนด้วย MV ที่มีการกำกับแบบภาพยนตร์ + การแสดงของ TAEYEON\n\nhttps://t.co/TNztF4mpzm\n\nMV https://t.co/9ZR0h0czr1\nJOOX https://t.co/u4uuzBU0b6\nอื่น ๆ https://t.co/4p28s5MNch\n\n#CantControlMyself https://t.co/6IIkhv9Tey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						263,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TNztF4mpzm",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4793727960675114",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						150,
+						173
+					]
+				},
+				{
+					"url": "https://t.co/9ZR0h0czr1",
+					"expanded_url": "https://youtu.be/RccDIpx4ZMM",
+					"display_url": "youtu.be/RccDIpx4ZMM",
+					"indices": [
+						178,
+						201
+					]
+				},
+				{
+					"url": "https://t.co/u4uuzBU0b6",
+					"expanded_url": "https://open.joox.com/s/rd?k=ZbJDP",
+					"display_url": "open.joox.com/s/rd?k=ZbJDP",
+					"indices": [
+						207,
+						230
+					]
+				},
+				{
+					"url": "https://t.co/4p28s5MNch",
+					"expanded_url": "https://smarturl.it/TY_CantControlMyself",
+					"display_url": "smarturl.it/TY_CantControl…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483005988982882300,
+					"id_str": "1483005988982882306",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSyFvUaAAID7Ft.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSyFvUaAAID7Ft.jpg",
+					"url": "https://t.co/6IIkhv9Tey",
+					"display_url": "pic.twitter.com/6IIkhv9Tey",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1483006882919100417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483005988982882300,
+					"id_str": "1483005988982882306",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSyFvUaAAID7Ft.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSyFvUaAAID7Ft.jpg",
+					"url": "https://t.co/6IIkhv9Tey",
+					"display_url": "pic.twitter.com/6IIkhv9Tey",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1483006882919100417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483006020788297700,
+					"id_str": "1483006020788297732",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSyHlzaIAQSSZ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSyHlzaIAQSSZ5.jpg",
+					"url": "https://t.co/6IIkhv9Tey",
+					"display_url": "pic.twitter.com/6IIkhv9Tey",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1483006882919100417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1949,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483006020796711000,
+					"id_str": "1483006020796710917",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSyHl1agAUqjAE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSyHl1agAUqjAE.jpg",
+					"url": "https://t.co/6IIkhv9Tey",
+					"display_url": "pic.twitter.com/6IIkhv9Tey",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1483006882919100417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90687,
+			"friends_count": 49,
+			"listed_count": 157,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10213,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "❤️‍🩹เพลงใหม่ ‘Can't Control Myself’ ของ #TAEYEON ปล่อยออกมาเรียบร้อย!\n\n🎬เพิ่มความอินให้กับทุกคนด้วย MV ที่มีการกำกับแบบภาพยนตร์ + การแสดงของ TAEYEON\n\nhttps://t.co/TNztF4mpzm\n\nMV https://t.co/9ZR0h0czr1\nJOOX https://t.co/u4uuzBU0b6\nอื่น ๆ https://t.co/4p28s5MNch\n\n#CantControlMyself https://t.co/6IIkhv9Tey"
+	},
+	{
+		"created_at": "Mon Jan 17 09:45:25 +0000 2022",
+		"id": 1483005069738246100,
+		"id_str": "1483012575818354689",
+		"full_text": "우리킹 태연을 향한 사랑, ‘Can’t Control Myself’\n➫ https://t.co/62Ym4Kq1OR \n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						66,
+						74
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						102,
+						120
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						121,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/62Ym4Kq1OR",
+					"expanded_url": "http://naver.me/FKpb32bN",
+					"display_url": "naver.me/FKpb32bN",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3700949,
+			"friends_count": 4,
+			"listed_count": 5691,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2110,
+		"favorite_count": 3125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우리킹 태연을 향한 사랑, ‘Can’t Control Myself’\n➫ https://t.co/62Ym4Kq1OR \n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself"
+	},
+	{
 		"created_at": "Mon Jan 17 09:07:29 +0000 2022",
 		"id": 1483001252669657000,
 		"id_str": "1483003029276315648",
