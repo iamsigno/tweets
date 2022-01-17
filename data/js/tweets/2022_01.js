@@ -1,6 +1,483 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 09:07:29 +0000 2022",
+		"id": 1483001252669657000,
+		"id_str": "1483003029276315648",
+		"full_text": "TAEYEON 태연 'Can't Control Myself' MV\n\n\n\nhttps://t.co/FrEdYO38ig \n\n\n\n#TAEYEON #태연\n\n#소녀시대 #GirlsGeneration\n\n#CantControlMyself #TAEYEON_CantControlMyself",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						106,
+						124
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						125,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FrEdYO38ig",
+					"expanded_url": "https://youtu.be/RccDIpx4ZMM",
+					"display_url": "youtu.be/RccDIpx4ZMM",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3700763,
+			"friends_count": 4,
+			"listed_count": 5691,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4984,
+		"favorite_count": 4780,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 'Can't Control Myself' MV\n\n\n\nhttps://t.co/FrEdYO38ig \n\n\n\n#TAEYEON #태연\n\n#소녀시대 #GirlsGeneration\n\n#CantControlMyself #TAEYEON_CantControlMyself"
+	},
+	{
+		"created_at": "Mon Jan 17 09:07:18 +0000 2022",
+		"id": 1483002634428874800,
+		"id_str": "1483002982165794818",
+		"full_text": "태연 TAEYEON [Can’t Control Myself]\n\n🎧 Listen now on your favorite platform\nhttps://t.co/i6iyIc3aUt\n\n#TAEYEON #태연 \n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						108,
+						111
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						136,
+						154
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						155,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i6iyIc3aUt",
+					"expanded_url": "https://smarturl.it/TY_CantControlMyself",
+					"display_url": "smarturl.it/TY_CantControl…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3700763,
+			"friends_count": 4,
+			"listed_count": 5691,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 822,
+		"favorite_count": 861,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "태연 TAEYEON [Can’t Control Myself]\n\n🎧 Listen now on your favorite platform\nhttps://t.co/i6iyIc3aUt\n\n#TAEYEON #태연 \n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself"
+	},
+	{
+		"created_at": "Mon Jan 17 09:07:11 +0000 2022",
+		"id": 1483002228952940500,
+		"id_str": "1483002951333523457",
+		"full_text": "태연 TAEYEON [Can’t Control Myself]\n\n🎧Melon : https://t.co/dFsrcXimtu \n\n🎧genie : https://t.co/vzvkkskeOf \n\n🎧FLO : https://t.co/rx9OCMUl3y \n\n🎧VIBE : https://t.co/ET7kMk2Dzr  \n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						173,
+						181
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						192,
+						208
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						209,
+						227
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						228,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dFsrcXimtu",
+					"expanded_url": "http://kko.to/rulaP-uNP",
+					"display_url": "kko.to/rulaP-uNP",
+					"indices": [
+						44,
+						67
+					]
+				},
+				{
+					"url": "https://t.co/vzvkkskeOf",
+					"expanded_url": "http://genie.co.kr/4FJVG4",
+					"display_url": "genie.co.kr/4FJVG4",
+					"indices": [
+						79,
+						102
+					]
+				},
+				{
+					"url": "https://t.co/rx9OCMUl3y",
+					"expanded_url": "http://flomuz.io/s/b.EEDiZ",
+					"display_url": "flomuz.io/s/b.EEDiZ",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/ET7kMk2Dzr",
+					"expanded_url": "http://naver.me/GjdKNL6r",
+					"display_url": "naver.me/GjdKNL6r",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3700763,
+			"friends_count": 4,
+			"listed_count": 5691,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1139,
+		"favorite_count": 1144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "태연 TAEYEON [Can’t Control Myself]\n\n🎧Melon : https://t.co/dFsrcXimtu \n\n🎧genie : https://t.co/vzvkkskeOf \n\n🎧FLO : https://t.co/rx9OCMUl3y \n\n🎧VIBE : https://t.co/ET7kMk2Dzr  \n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself"
+	},
+	{
 		"created_at": "Mon Jan 17 05:44:57 +0000 2022",
 		"id": 1482943413259440000,
 		"id_str": "1482952057967546368",
