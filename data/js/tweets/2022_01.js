@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 05:07:08 +0000 2022",
+		"id": 1482932949284954000,
+		"id_str": "1482942544443023383",
+		"full_text": "TAEYEON Rilis Lagu ‘Can’t Control Myself’ Hari Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/cq4pvoh9sU\n\n@GirlsGeneration \n#TAEYEON #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/AJsRCeRHsO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						179,
+						197
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						198,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cq4pvoh9sU",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/965609124056102",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1482932922965704700,
+					"id_str": "1482932922965704705",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"url": "https://t.co/AJsRCeRHsO",
+					"display_url": "pic.twitter.com/AJsRCeRHsO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1482932949284954114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482932922965704700,
+					"id_str": "1482932922965704705",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRvovMaQAEv8si.jpg",
+					"url": "https://t.co/AJsRCeRHsO",
+					"display_url": "pic.twitter.com/AJsRCeRHsO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1482932949284954114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1482932922965721000,
+					"id_str": "1482932922965721089",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FJRvovMagAEL9I0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJRvovMagAEL9I0.jpg",
+					"url": "https://t.co/AJsRCeRHsO",
+					"display_url": "pic.twitter.com/AJsRCeRHsO",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1482932949284954114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1949,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 871168,
+			"friends_count": 35,
+			"listed_count": 574,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Rilis Lagu ‘Can’t Control Myself’ Hari Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/cq4pvoh9sU\n\n@GirlsGeneration \n#TAEYEON #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself https://t.co/AJsRCeRHsO"
+	},
+	{
 		"created_at": "Mon Jan 17 02:44:57 +0000 2022",
 		"id": 1482897525082316800,
 		"id_str": "1482906758855208969",
