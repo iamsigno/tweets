@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 01:07:16 +0000 2022",
+		"id": 1483242737109373000,
+		"id_str": "1483244564186112000",
+		"full_text": "[예고] 요가 마스터 언니와 커플 요가 🧘‍♀\n어색한 남매 사이 타파를 위한 매일 개인 톡하기 💬\n쌍둥이 형제의 서로 생일상 챙겨주기 🎂\n#호적메이트 오늘 밤 9시 ⏰\n#이경규 #김정은 #딘딘\n#최수영 #최수진 #김진우 #조준혁 #조준호 https://t.co/NQfobaCZ5I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "호적메이트",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "이경규",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "김정은",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "딘딘",
+					"indices": [
+						104,
+						107
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "최수진",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "김진우",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "조준혁",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "조준호",
+					"indices": [
+						128,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483000343823007700,
+					"id_str": "1483000343823007744",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSs9JdaQAAB2Pm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSs9JdaQAAB2Pm.jpg",
+					"url": "https://t.co/NQfobaCZ5I",
+					"display_url": "pic.twitter.com/NQfobaCZ5I",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1483242737109372929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483000343823007700,
+					"id_str": "1483000343823007744",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSs9JdaQAAB2Pm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSs9JdaQAAB2Pm.jpg",
+					"url": "https://t.co/NQfobaCZ5I",
+					"display_url": "pic.twitter.com/NQfobaCZ5I",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1483242737109372929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483000343839797200,
+					"id_str": "1483000343839797251",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSs9JhacAMJNHJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSs9JhacAMJNHJ.jpg",
+					"url": "https://t.co/NQfobaCZ5I",
+					"display_url": "pic.twitter.com/NQfobaCZ5I",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1483242737109372929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483000343827185700,
+					"id_str": "1483000343827185666",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSs9JeaAAIMWPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSs9JeaAAIMWPT.jpg",
+					"url": "https://t.co/NQfobaCZ5I",
+					"display_url": "pic.twitter.com/NQfobaCZ5I",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1483242737109372929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483000343818813400,
+					"id_str": "1483000343818813440",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FJSs9JcaQAAOF73.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJSs9JcaQAAOF73.jpg",
+					"url": "https://t.co/NQfobaCZ5I",
+					"display_url": "pic.twitter.com/NQfobaCZ5I",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1483242737109372929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 929358,
+			"friends_count": 6,
+			"listed_count": 996,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예고] 요가 마스터 언니와 커플 요가 🧘‍♀\n어색한 남매 사이 타파를 위한 매일 개인 톡하기 💬\n쌍둥이 형제의 서로 생일상 챙겨주기 🎂\n#호적메이트 오늘 밤 9시 ⏰\n#이경규 #김정은 #딘딘\n#최수영 #최수진 #김진우 #조준혁 #조준호 https://t.co/NQfobaCZ5I"
+	},
+	{
 		"created_at": "Mon Jan 17 23:07:09 +0000 2022",
 		"id": 1483204987387891700,
 		"id_str": "1483214336730583043",
