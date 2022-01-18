@@ -1,10 +1,380 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 03:07:17 +0000 2022",
+		"id": 1483265386594381800,
+		"id_str": "1483274767906058243",
+		"full_text": "[선공개] 맥주를 마시면서 요가를?!🍺\n#최수영 &amp; #최수진 자매의 비어 요가 도전기❣\n\n&lt;#호적메이트&gt; 오늘 밤 9시 방송🙌\nMBC220118방송 https://t.co/i7KsJuUEdH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "최수영",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "최수진",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "호적메이트",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483248261745897500,
+					"id_str": "1483248261745897473",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FJWSckXVQAIPkE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJWSckXVQAIPkE3.jpg",
+					"url": "https://t.co/i7KsJuUEdH",
+					"display_url": "pic.twitter.com/i7KsJuUEdH",
+					"expanded_url": "https://twitter.com/withMBC/status/1483265386594381834/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483248261745897500,
+					"id_str": "1483248261745897473",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FJWSckXVQAIPkE3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJWSckXVQAIPkE3.jpg",
+					"url": "https://t.co/i7KsJuUEdH",
+					"display_url": "pic.twitter.com/i7KsJuUEdH",
+					"expanded_url": "https://twitter.com/withMBC/status/1483265386594381834/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 230058,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483248261745897473/vid/640x360/ND677IxOWp76ozVW.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483248261745897473/pl/GOBOBqSCJTEpwXaE.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483248261745897473/vid/1280x720/DnKzZ2NCOqyAYyNT.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483248261745897473/vid/480x270/Z_aLPj8tHj9K4xy_.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011265,
+			"friends_count": 9981,
+			"listed_count": 4233,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1641175824",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 맥주를 마시면서 요가를?!🍺\n#최수영 &amp; #최수진 자매의 비어 요가 도전기❣\n\n&lt;#호적메이트&gt; 오늘 밤 9시 방송🙌\nMBC220118방송 https://t.co/i7KsJuUEdH"
+	},
+	{
+		"created_at": "Tue Jan 18 03:07:15 +0000 2022",
+		"id": 1483261203598098400,
+		"id_str": "1483274759001489410",
+		"full_text": "TAEYEON’s Pre-release Single ‘Can't Control Myself’ tops various domestic music charts &amp; iTunes Top Albums Chart of 14 international regions!\n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						156,
+						159
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						166,
+						182
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						183,
+						201
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						202,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483261201928786000,
+		"in_reply_to_status_id_str": "1483261201928785924",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3701642,
+			"friends_count": 4,
+			"listed_count": 5697,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2602,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 777,
+		"favorite_count": 1763,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TAEYEON’s Pre-release Single ‘Can't Control Myself’ tops various domestic music charts &amp; iTunes Top Albums Chart of 14 international regions!\n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration\n#CantControlMyself #TAEYEON_CantControlMyself"
+	},
+	{
 		"created_at": "Tue Jan 18 02:07:09 +0000 2022",
 		"id": 1483257838138888200,
 		"id_str": "1483259634119061509",
-		"full_text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵‍💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs",
+		"full_text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -216,7 +586,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵‍💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs"
+		"text": "[D-DAY] 하나부터 열까지 모~두 다른 최수영 X 최수진 자매 😵💫\n#호적메이트 매주 화요일 밤 9시 🔍\n#이경규 #김정은 #딘딘 #최수영 #최수진 https://t.co/dlspuRGJrs"
 	},
 	{
 		"created_at": "Tue Jan 18 01:07:16 +0000 2022",
