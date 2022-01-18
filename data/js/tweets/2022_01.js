@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 09:07:08 +0000 2022",
+		"id": 1483361624920522800,
+		"id_str": "1483365330290421762",
+		"full_text": "☑️ 맥시멀리스트 언니를 위한 수영의 정리 프로젝트!👭 \n☑️ 항상 티격태격, 없으면 못 사는 애증의 쌍둥이!👬\n☑️ 호적만 공유한 진짜 '호적'메이트 남매👫\n\n&lt;#호적메이트&gt; 오늘 밤 9시 방송🙌\nMBC220118방송 #이경규 #김정은 #딘딘 #최수영 #최수진 #김진우 #조준호 #조준현 https://t.co/qeMMW606u2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "호적메이트",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "이경규",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "김정은",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "딘딘",
+					"indices": [
+						139,
+						142
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "최수진",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "김진우",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "조준호",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "조준현",
+					"indices": [
+						163,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483361390983213000,
+					"id_str": "1483361390983213056",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FJX1g6XVgAI7tLE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJX1g6XVgAI7tLE.jpg",
+					"url": "https://t.co/qeMMW606u2",
+					"display_url": "pic.twitter.com/qeMMW606u2",
+					"expanded_url": "https://twitter.com/withMBC/status/1483361624920522758/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483361390983213000,
+					"id_str": "1483361390983213056",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/FJX1g6XVgAI7tLE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJX1g6XVgAI7tLE.jpg",
+					"url": "https://t.co/qeMMW606u2",
+					"display_url": "pic.twitter.com/qeMMW606u2",
+					"expanded_url": "https://twitter.com/withMBC/status/1483361624920522758/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 49015,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483361390983213056/pl/zNOIykbUT0RH5k_y.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483361390983213056/vid/640x360/eUXZZm9qpwx1H1PG.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483361390983213056/vid/1280x720/OUO9qa1iST2hvt-l.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483361390983213056/vid/480x270/3iYXm6UbJwSy0AtZ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011250,
+			"friends_count": 9981,
+			"listed_count": 4234,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 46890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1641175824",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "☑️ 맥시멀리스트 언니를 위한 수영의 정리 프로젝트!👭 \n☑️ 항상 티격태격, 없으면 못 사는 애증의 쌍둥이!👬\n☑️ 호적만 공유한 진짜 '호적'메이트 남매👫\n\n&lt;#호적메이트&gt; 오늘 밤 9시 방송🙌\nMBC220118방송 #이경규 #김정은 #딘딘 #최수영 #최수진 #김진우 #조준호 #조준현 https://t.co/qeMMW606u2"
+	},
+	{
 		"created_at": "Tue Jan 18 07:07:08 +0000 2022",
 		"id": 1483321227813200000,
 		"id_str": "1483335131322585089",
