@@ -1,6 +1,592 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 06:07:20 +0000 2022",
+		"id": 1483673354955477000,
+		"id_str": "1483682466711879680",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA - BEHIND ITEMS 🚂\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA에서 만난 제품들이 궁금했다면 주목! 🥸\n이특과 신동, 효연이 소개한 그 아이템들을 SMTOWN &amp;STORE 10만원쿠폰 등 풍성한혜택과 함께 지금 바로 만나 보세요.👐🏻\n\nhttps://t.co/bNm1n1car4 https://t.co/NOEVLgAS77",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNm1n1car4",
+					"expanded_url": "https://bit.ly/3fB7Ltk",
+					"display_url": "bit.ly/3fB7Ltk",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483673350924685300,
+					"id_str": "1483673350924685314",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRDUSUUAIr-Qa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRDUSUUAIr-Qa.jpg",
+					"url": "https://t.co/NOEVLgAS77",
+					"display_url": "pic.twitter.com/NOEVLgAS77",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673354955476994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483673350924685300,
+					"id_str": "1483673350924685314",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRDUSUUAIr-Qa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRDUSUUAIr-Qa.jpg",
+					"url": "https://t.co/NOEVLgAS77",
+					"display_url": "pic.twitter.com/NOEVLgAS77",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673354955476994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483673350949851100,
+					"id_str": "1483673350949851138",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRDUYUUAI__AG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRDUYUUAI__AG.jpg",
+					"url": "https://t.co/NOEVLgAS77",
+					"display_url": "pic.twitter.com/NOEVLgAS77",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673354955476994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483673351071486000,
+					"id_str": "1483673351071485952",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRDU1UUAAAsjy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRDU1UUAAAsjy.jpg",
+					"url": "https://t.co/NOEVLgAS77",
+					"display_url": "pic.twitter.com/NOEVLgAS77",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673354955476994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483673351096651800,
+					"id_str": "1483673351096651778",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRDU7UUAIJdVA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRDU7UUAIJdVA.jpg",
+					"url": "https://t.co/NOEVLgAS77",
+					"display_url": "pic.twitter.com/NOEVLgAS77",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673354955476994/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483673348877865000,
+		"in_reply_to_status_id_str": "1483673348877864960",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197427,
+			"friends_count": 0,
+			"listed_count": 331,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA - BEHIND ITEMS 🚂\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA에서 만난 제품들이 궁금했다면 주목! 🥸\n이특과 신동, 효연이 소개한 그 아이템들을 SMTOWN &amp;STORE 10만원쿠폰 등 풍성한혜택과 함께 지금 바로 만나 보세요.👐🏻\n\nhttps://t.co/bNm1n1car4 https://t.co/NOEVLgAS77"
+	},
+	{
+		"created_at": "Wed Jan 19 06:07:18 +0000 2022",
+		"id": 1483673348877865000,
+		"id_str": "1483682457832628230",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA - BEHIND ITEMS 🚂\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA에서 만난 제품들이 궁금했다면 주목! 🥸\n이특과 신동, 효연이 소개한 그 아이템들을 SMTOWN &amp;STORE 10만원쿠폰 등 풍성한혜택과 함께 지금 바로 만나 보세요.👐🏻\n\nhttps://t.co/bNm1n1car4 https://t.co/NjyBiVV39g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNm1n1car4",
+					"expanded_url": "https://bit.ly/3fB7Ltk",
+					"display_url": "bit.ly/3fB7Ltk",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483673344461271000,
+					"id_str": "1483673344461271040",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRC8NUcAAKg4Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRC8NUcAAKg4Q.jpg",
+					"url": "https://t.co/NjyBiVV39g",
+					"display_url": "pic.twitter.com/NjyBiVV39g",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673348877864960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483673344461271000,
+					"id_str": "1483673344461271040",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRC8NUcAAKg4Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRC8NUcAAKg4Q.jpg",
+					"url": "https://t.co/NjyBiVV39g",
+					"display_url": "pic.twitter.com/NjyBiVV39g",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673348877864960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483673344587165700,
+					"id_str": "1483673344587165699",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRC8rVcAMYLya.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRC8rVcAMYLya.jpg",
+					"url": "https://t.co/NjyBiVV39g",
+					"display_url": "pic.twitter.com/NjyBiVV39g",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673348877864960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483673344570323000,
+					"id_str": "1483673344570322944",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRC8nUcAAdtQl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRC8nUcAAdtQl.jpg",
+					"url": "https://t.co/NjyBiVV39g",
+					"display_url": "pic.twitter.com/NjyBiVV39g",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673348877864960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1483673344612323300,
+					"id_str": "1483673344612323328",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FJcRC8xVUAAqD-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJcRC8xVUAAqD-K.jpg",
+					"url": "https://t.co/NjyBiVV39g",
+					"display_url": "pic.twitter.com/NjyBiVV39g",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1483673348877864960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1483673342431293400,
+		"in_reply_to_status_id_str": "1483673342431293441",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197427,
+			"friends_count": 0,
+			"listed_count": 331,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA - BEHIND ITEMS 🚂\n\nSMTOWN LIVE 2022 : SMCU EXPRESS@KWANGYA에서 만난 제품들이 궁금했다면 주목! 🥸\n이특과 신동, 효연이 소개한 그 아이템들을 SMTOWN &amp;STORE 10만원쿠폰 등 풍성한혜택과 함께 지금 바로 만나 보세요.👐🏻\n\nhttps://t.co/bNm1n1car4 https://t.co/NjyBiVV39g"
+	},
+	{
 		"created_at": "Wed Jan 19 05:07:09 +0000 2022",
 		"id": 1483655021409587200,
 		"id_str": "1483667321277362178",
