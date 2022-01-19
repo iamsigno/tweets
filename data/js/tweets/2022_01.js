@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 19 10:07:09 +0000 2022",
+		"id": 1483740877181026300,
+		"id_str": "1483742817885245441",
+		"full_text": "Siapa yang setuju kalau lagu dan MV TAEYEON ‘Can’t Control Myself’ memang mantap?🙋🏻‍♀️\nYuk kita balas pantun TAEYEON dengan reply tweet ini!😉\n\nJangan lupa nonton MV TAEYEON ‘Can’t Control Myself’: https://t.co/ZtClbEStgw\n\n@GirlsGeneration #TAEYEON_CantControlMyself https://t.co/LHkTAqQNey",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						239,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZtClbEStgw",
+					"expanded_url": "https://youtu.be/RccDIpx4ZMM",
+					"display_url": "youtu.be/RccDIpx4ZMM",
+					"indices": [
+						197,
+						220
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483738746701086700,
+					"id_str": "1483738746701086723",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FJdObG0aMAYW9YM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJdObG0aMAYW9YM.jpg",
+					"url": "https://t.co/LHkTAqQNey",
+					"display_url": "pic.twitter.com/LHkTAqQNey",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1483740877181026312/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483738746701086700,
+					"id_str": "1483738746701086723",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FJdObG0aMAYW9YM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJdObG0aMAYW9YM.jpg",
+					"url": "https://t.co/LHkTAqQNey",
+					"display_url": "pic.twitter.com/LHkTAqQNey",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1483740877181026312/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28541,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483738746701086723/vid/480x270/nW-GThXLoA-o00-j.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1483738746701086723/pl/3k8G_TKac5zpz6mb.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483738746701086723/vid/1280x720/qK1Hxn1clQ7w4IJO.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1483738746701086723/vid/640x360/DL1aT3KXzl-rCO-t.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 873754,
+			"friends_count": 35,
+			"listed_count": 576,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2760,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Siapa yang setuju kalau lagu dan MV TAEYEON ‘Can’t Control Myself’ memang mantap?🙋🏻‍♀️\nYuk kita balas pantun TAEYEON dengan reply tweet ini!😉\n\nJangan lupa nonton MV TAEYEON ‘Can’t Control Myself’: https://t.co/ZtClbEStgw\n\n@GirlsGeneration #TAEYEON_CantControlMyself https://t.co/LHkTAqQNey"
+	},
+	{
 		"created_at": "Wed Jan 19 06:07:20 +0000 2022",
 		"id": 1483673354955477000,
 		"id_str": "1483682466711879680",
