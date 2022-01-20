@@ -1,10 +1,195 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 02:07:09 +0000 2022",
+		"id": 1483978964196806700,
+		"id_str": "1483984410995216388",
+		"full_text": "쿨룩 LIVE ▷ 턴즈 ‘다시 만난 세계’[원곡: 소녀시대] /[비투비의 키스 더 라디오] l KBS 220119 방송\nhttps://t.co/GSWuSaECKS https://t.co/Z4leFoLLzv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GSWuSaECKS",
+					"expanded_url": "https://youtu.be/UmU1ik84Ppw",
+					"display_url": "youtu.be/UmU1ik84Ppw",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1483978953048354800,
+					"id_str": "1483978953048354817",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FJgm_s6acAEkHBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJgm_s6acAEkHBj.jpg",
+					"url": "https://t.co/Z4leFoLLzv",
+					"display_url": "pic.twitter.com/Z4leFoLLzv",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1483978964196806656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483978953048354800,
+					"id_str": "1483978953048354817",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/FJgm_s6acAEkHBj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJgm_s6acAEkHBj.jpg",
+					"url": "https://t.co/Z4leFoLLzv",
+					"display_url": "pic.twitter.com/Z4leFoLLzv",
+					"expanded_url": "https://twitter.com/KBS_COOL_FM/status/1483978964196806656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2292392636,
+			"id_str": "2292392636",
+			"name": "KBS Cool FM",
+			"screen_name": "KBS_COOL_FM",
+			"location": "",
+			"description": "KBS 쿨FM 오피셜 계정입니다🆒📻💗\n#쿨FM #89.1MHz",
+			"url": "https://t.co/iWikkJSsdH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iWikkJSsdH",
+							"expanded_url": "https://www.youtube.com/channel/UCbVRtqsTmYh1xhrDSTfSQLg",
+							"display_url": "youtube.com/channel/UCbVRt…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22856,
+			"friends_count": 3,
+			"listed_count": 119,
+			"created_at": "Wed Jan 15 08:45:26 +0000 2014",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343472294094462977/nW_jHN92_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2292392636/1609143731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "쿨룩 LIVE ▷ 턴즈 ‘다시 만난 세계’[원곡: 소녀시대] /[비투비의 키스 더 라디오] l KBS 220119 방송\nhttps://t.co/GSWuSaECKS https://t.co/Z4leFoLLzv"
+	},
+	{
 		"created_at": "Wed Jan 19 10:07:09 +0000 2022",
 		"id": 1483740877181026300,
 		"id_str": "1483742817885245441",
-		"full_text": "Siapa yang setuju kalau lagu dan MV TAEYEON ‘Can’t Control Myself’ memang mantap?🙋🏻‍♀️\nYuk kita balas pantun TAEYEON dengan reply tweet ini!😉\n\nJangan lupa nonton MV TAEYEON ‘Can’t Control Myself’: https://t.co/ZtClbEStgw\n\n@GirlsGeneration #TAEYEON_CantControlMyself https://t.co/LHkTAqQNey",
+		"full_text": "Siapa yang setuju kalau lagu dan MV TAEYEON ‘Can’t Control Myself’ memang mantap?🙋🏻♀️\nYuk kita balas pantun TAEYEON dengan reply tweet ini!😉\n\nJangan lupa nonton MV TAEYEON ‘Can’t Control Myself’: https://t.co/ZtClbEStgw\n\n@GirlsGeneration #TAEYEON_CantControlMyself https://t.co/LHkTAqQNey",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -236,7 +421,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "in",
-		"text": "Siapa yang setuju kalau lagu dan MV TAEYEON ‘Can’t Control Myself’ memang mantap?🙋🏻‍♀️\nYuk kita balas pantun TAEYEON dengan reply tweet ini!😉\n\nJangan lupa nonton MV TAEYEON ‘Can’t Control Myself’: https://t.co/ZtClbEStgw\n\n@GirlsGeneration #TAEYEON_CantControlMyself https://t.co/LHkTAqQNey"
+		"text": "Siapa yang setuju kalau lagu dan MV TAEYEON ‘Can’t Control Myself’ memang mantap?🙋🏻♀️\nYuk kita balas pantun TAEYEON dengan reply tweet ini!😉\n\nJangan lupa nonton MV TAEYEON ‘Can’t Control Myself’: https://t.co/ZtClbEStgw\n\n@GirlsGeneration #TAEYEON_CantControlMyself https://t.co/LHkTAqQNey"
 	},
 	{
 		"created_at": "Wed Jan 19 06:07:20 +0000 2022",
