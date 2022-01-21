@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 11:07:09 +0000 2022",
+		"id": 1484469801921564700,
+		"id_str": "1484482692913811460",
+		"full_text": "📺 รับชมรีมาสเตอร์มิวสิกวิดีโอ ‘Into The New World’ เพลงเดบิวต์ของ #GirlsGeneration ได้แล้วตอนนี้!\n\nhttps://t.co/Wyr1xGFQ8j\n\n-\n\nGirls' Generation '#Into_The_New_World' MV\n💖 https://t.co/9wQN7SQqzN\n \n#SM_Remastering_Project \n#RemasterMV #SMSTATION\n#소녀시대  \n#다시만난세계 https://t.co/jlbK9LrTr8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						66,
+						82
+					]
+				},
+				{
+					"text": "Into_The_New_World",
+					"indices": [
+						146,
+						165
+					]
+				},
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						198,
+						221
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						223,
+						234
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						235,
+						245
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						246,
+						251
+					]
+				},
+				{
+					"text": "다시만난세계",
+					"indices": [
+						254,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wyr1xGFQ8j",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4811740582207185",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						99,
+						122
+					]
+				},
+				{
+					"url": "https://t.co/9wQN7SQqzN",
+					"expanded_url": "https://youtu.be/0k2Zzkw_-0I",
+					"display_url": "youtu.be/0k2Zzkw_-0I",
+					"indices": [
+						172,
+						195
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484468600161276000,
+					"id_str": "1484468600161275906",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"url": "https://t.co/jlbK9LrTr8",
+					"display_url": "pic.twitter.com/jlbK9LrTr8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1484469801921564677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484468600161276000,
+					"id_str": "1484468600161275906",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJnkU6jVkAIM9cy.jpg",
+					"url": "https://t.co/jlbK9LrTr8",
+					"display_url": "pic.twitter.com/jlbK9LrTr8",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1484469801921564677/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90770,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "📺 รับชมรีมาสเตอร์มิวสิกวิดีโอ ‘Into The New World’ เพลงเดบิวต์ของ #GirlsGeneration ได้แล้วตอนนี้!\n\nhttps://t.co/Wyr1xGFQ8j\n\n-\n\nGirls' Generation '#Into_The_New_World' MV\n💖 https://t.co/9wQN7SQqzN\n \n#SM_Remastering_Project \n#RemasterMV #SMSTATION\n#소녀시대  \n#다시만난세계 https://t.co/jlbK9LrTr8"
+	},
+	{
 		"created_at": "Fri Jan 21 05:07:08 +0000 2022",
 		"id": 1484386497138946000,
 		"id_str": "1484392095896985600",
