@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 05:07:08 +0000 2022",
+		"id": 1484386497138946000,
+		"id_str": "1484392095896985600",
+		"full_text": "Girls' Generation 소녀시대 '다시 만난 세계 (Into The New World)' MV\n\nhttps://t.co/6zNFynf3If\n\n#SM_Remastering_Project #RemasterMV #리마스터링프로젝트 #SMSTATION\n#소녀시대 #GirlsGeneration \n#다시만난세계\n#Into_The_New_World https://t.co/LfbigP2SZu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SM_Remastering_Project",
+					"indices": [
+						84,
+						107
+					]
+				},
+				{
+					"text": "RemasterMV",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"text": "리마스터링프로젝트",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "SMSTATION",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						148,
+						164
+					]
+				},
+				{
+					"text": "다시만난세계",
+					"indices": [
+						166,
+						173
+					]
+				},
+				{
+					"text": "Into_The_New_World",
+					"indices": [
+						174,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6zNFynf3If",
+					"expanded_url": "https://youtu.be/0k2Zzkw_-0I",
+					"display_url": "youtu.be/0k2Zzkw_-0I",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484386253630218200,
+					"id_str": "1484386253630218241",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmZbt0aIAECCHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmZbt0aIAECCHs.jpg",
+					"url": "https://t.co/LfbigP2SZu",
+					"display_url": "pic.twitter.com/LfbigP2SZu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1484386497138946048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484386253630218200,
+					"id_str": "1484386253630218241",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmZbt0aIAECCHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJmZbt0aIAECCHs.jpg",
+					"url": "https://t.co/LfbigP2SZu",
+					"display_url": "pic.twitter.com/LfbigP2SZu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1484386497138946048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10504493,
+			"friends_count": 56,
+			"listed_count": 11582,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11697,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4383,
+		"favorite_count": 6778,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Girls' Generation 소녀시대 '다시 만난 세계 (Into The New World)' MV\n\nhttps://t.co/6zNFynf3If\n\n#SM_Remastering_Project #RemasterMV #리마스터링프로젝트 #SMSTATION\n#소녀시대 #GirlsGeneration \n#다시만난세계\n#Into_The_New_World https://t.co/LfbigP2SZu"
+	},
+	{
 		"created_at": "Thu Jan 20 02:07:09 +0000 2022",
 		"id": 1483978964196806700,
 		"id_str": "1483984410995216388",
