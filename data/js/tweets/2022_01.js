@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 22 13:07:09 +0000 2022",
+		"id": 1484873516470403000,
+		"id_str": "1484875279893995523",
+		"full_text": "❤️‍🩹탱 Control Myself🕹\n\nhttps://t.co/wlrLb9f5hb\n\n #TAEYEON  #태연\n #소녀시대 #GirlsGeneration \n #CantControlMyself #TAEYEON_CantControlMyself\n#탱ControlMyself https://t.co/99iImilr0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						89,
+						107
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						108,
+						134
+					]
+				},
+				{
+					"text": "탱ControlMyself",
+					"indices": [
+						135,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wlrLb9f5hb",
+					"expanded_url": "https://youtu.be/CZf-EsEyIV0",
+					"display_url": "youtu.be/CZf-EsEyIV0",
+					"indices": [
+						23,
+						46
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1484873509923082200,
+					"id_str": "1484873509923082244",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtUlw9aUAQNPYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtUlw9aUAQNPYl.jpg",
+					"url": "https://t.co/99iImilr0g",
+					"display_url": "pic.twitter.com/99iImilr0g",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1484873516470403073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484873509923082200,
+					"id_str": "1484873509923082244",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FJtUlw9aUAQNPYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJtUlw9aUAQNPYl.jpg",
+					"url": "https://t.co/99iImilr0g",
+					"display_url": "pic.twitter.com/99iImilr0g",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1484873516470403073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3703710,
+			"friends_count": 4,
+			"listed_count": 5706,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1733,
+		"favorite_count": 2303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❤️‍🩹탱 Control Myself🕹\n\nhttps://t.co/wlrLb9f5hb\n\n #TAEYEON  #태연\n #소녀시대 #GirlsGeneration \n #CantControlMyself #TAEYEON_CantControlMyself\n#탱ControlMyself https://t.co/99iImilr0g"
+	},
+	{
 		"created_at": "Sat Jan 22 05:07:09 +0000 2022",
 		"id": 1484752937108787200,
 		"id_str": "1484754484991561732",
