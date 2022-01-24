@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 06:07:09 +0000 2022",
+		"id": 1485482494308896800,
+		"id_str": "1485494359206342657",
+		"full_text": "오직 2021 가요대제전에서만 볼 수 있는 최고의 조합❤\n사이버 세상을 HOT🔥하게 달군 듀엣 무대 ´౪`\n\n📷 ☞ https://t.co/8GxP2qWshl\n\n2021 가요대제전 #소녀시대 #2PM #레드벨벳 #10CM #MAMAMOO #이무진 #윤아 #준호 #조이 #권정열 #화사 @GirlsGeneration @follow_2PM @RVsmtowon @RBW_MAMAMOO https://t.co/PjxmMMQONQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "2PM",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "10CM",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "MAMAMOO",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "이무진",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						138,
+						141
+					]
+				},
+				{
+					"text": "준호",
+					"indices": [
+						142,
+						145
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "권정열",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "화사",
+					"indices": [
+						155,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"screen_name": "follow_2PM",
+					"name": "2PM",
+					"id": 137779150,
+					"id_str": "137779150",
+					"indices": [
+						176,
+						187
+					]
+				},
+				{
+					"screen_name": "RBW_MAMAMOO",
+					"name": "마마무(MAMAMOO)",
+					"id": 2295631308,
+					"id_str": "2295631308",
+					"indices": [
+						199,
+						211
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8GxP2qWshl",
+					"expanded_url": "http://naver.me/GhPkCu9k",
+					"display_url": "naver.me/GhPkCu9k",
+					"indices": [
+						65,
+						88
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485480948896772000,
+					"id_str": "1485480948896772100",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ19DXeaMAQsTxn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ19DXeaMAQsTxn.jpg",
+					"url": "https://t.co/PjxmMMQONQ",
+					"display_url": "pic.twitter.com/PjxmMMQONQ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1485482494308896770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485480948896772000,
+					"id_str": "1485480948896772100",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ19DXeaMAQsTxn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ19DXeaMAQsTxn.jpg",
+					"url": "https://t.co/PjxmMMQONQ",
+					"display_url": "pic.twitter.com/PjxmMMQONQ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1485482494308896770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485480976679858200,
+					"id_str": "1485480976679858179",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ19E--acAMLYIs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ19E--acAMLYIs.jpg",
+					"url": "https://t.co/PjxmMMQONQ",
+					"display_url": "pic.twitter.com/PjxmMMQONQ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1485482494308896770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485481034456375300,
+					"id_str": "1485481034456375296",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ19IWNaIAAvBKP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ19IWNaIAAvBKP.jpg",
+					"url": "https://t.co/PjxmMMQONQ",
+					"display_url": "pic.twitter.com/PjxmMMQONQ",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1485482494308896770/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 930438,
+			"friends_count": 6,
+			"listed_count": 997,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 416,
+		"favorite_count": 591,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오직 2021 가요대제전에서만 볼 수 있는 최고의 조합❤\n사이버 세상을 HOT🔥하게 달군 듀엣 무대 ´౪`\n\n📷 ☞ https://t.co/8GxP2qWshl\n\n2021 가요대제전 #소녀시대 #2PM #레드벨벳 #10CM #MAMAMOO #이무진 #윤아 #준호 #조이 #권정열 #화사 @GirlsGeneration @follow_2PM @RVsmtowon @RBW_MAMAMOO https://t.co/PjxmMMQONQ"
+	},
+	{
 		"created_at": "Mon Jan 24 03:07:09 +0000 2022",
 		"id": 1485443487201960000,
 		"id_str": "1485449060882468871",
