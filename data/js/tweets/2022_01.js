@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 12:07:09 +0000 2022",
+		"id": 1485583276312252400,
+		"id_str": "1485584957607235588",
+		"full_text": "'Can’t Control Myself' MV Behind | 태연 TAEYEON\n\nhttps://t.co/7Yib1XY0u4\n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration \n#CantControlMyself #TAEYEON_CantControlMyself\n#MV #Behind https://t.co/8BsXMKqv8e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						72,
+						80
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						81,
+						84
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						85,
+						90
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						91,
+						107
+					]
+				},
+				{
+					"text": "CantControlMyself",
+					"indices": [
+						109,
+						127
+					]
+				},
+				{
+					"text": "TAEYEON_CantControlMyself",
+					"indices": [
+						128,
+						154
+					]
+				},
+				{
+					"text": "MV",
+					"indices": [
+						155,
+						158
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						159,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Yib1XY0u4",
+					"expanded_url": "https://youtu.be/7KqSYHnuKlI",
+					"display_url": "youtu.be/7KqSYHnuKlI",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485583272021467100,
+					"id_str": "1485583272021467138",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3aHW0aIAIdyzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3aHW0aIAIdyzD.jpg",
+					"url": "https://t.co/8BsXMKqv8e",
+					"display_url": "pic.twitter.com/8BsXMKqv8e",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1485583276312252417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485583272021467100,
+					"id_str": "1485583272021467138",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ3aHW0aIAIdyzD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ3aHW0aIAIdyzD.jpg",
+					"url": "https://t.co/8BsXMKqv8e",
+					"display_url": "pic.twitter.com/8BsXMKqv8e",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1485583276312252417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBUL3Ez",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBUL3Ez",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3704488,
+			"friends_count": 4,
+			"listed_count": 5706,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481098657684279297/z0LhLh5e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1641956413",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1311,
+		"favorite_count": 1721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Can’t Control Myself' MV Behind | 태연 TAEYEON\n\nhttps://t.co/7Yib1XY0u4\n\n#TAEYEON #태연\n#소녀시대 #GirlsGeneration \n#CantControlMyself #TAEYEON_CantControlMyself\n#MV #Behind https://t.co/8BsXMKqv8e"
+	},
+	{
 		"created_at": "Mon Jan 24 06:07:09 +0000 2022",
 		"id": 1485482494308896800,
 		"id_str": "1485494359206342657",
