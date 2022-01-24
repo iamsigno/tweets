@@ -1,10 +1,106 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 02:07:09 +0000 2022",
+		"id": 1485431755125706800,
+		"id_str": "1485433961786785796",
+		"full_text": "[1/24 (월) 엠뮤톡] 12시 15분 시작! DAY6/IU/ENHYPEN/AB6IX/Kep1er/Stray Kids/악동뮤지션/태연/방탄소년단/프로미스나인 월요일도 힘차게 엠피디와 함께! 월요팅 해보자구! 다들 늦지말고 놀러와😘",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1228805,
+			"friends_count": 440,
+			"listed_count": 1506,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19608,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[1/24 (월) 엠뮤톡] 12시 15분 시작! DAY6/IU/ENHYPEN/AB6IX/Kep1er/Stray Kids/악동뮤지션/태연/방탄소년단/프로미스나인 월요일도 힘차게 엠피디와 함께! 월요팅 해보자구! 다들 늦지말고 놀러와😘"
+	},
+	{
 		"created_at": "Sat Jan 22 13:07:09 +0000 2022",
 		"id": 1484873516470403000,
 		"id_str": "1484875279893995523",
-		"full_text": "❤️‍🩹탱 Control Myself🕹\n\nhttps://t.co/wlrLb9f5hb\n\n #TAEYEON  #태연\n #소녀시대 #GirlsGeneration \n #CantControlMyself #TAEYEON_CantControlMyself\n#탱ControlMyself https://t.co/99iImilr0g",
+		"full_text": "❤️🩹탱 Control Myself🕹\n\nhttps://t.co/wlrLb9f5hb\n\n #TAEYEON  #태연\n #소녀시대 #GirlsGeneration \n #CantControlMyself #TAEYEON_CantControlMyself\n#탱ControlMyself https://t.co/99iImilr0g",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -233,7 +329,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "❤️‍🩹탱 Control Myself🕹\n\nhttps://t.co/wlrLb9f5hb\n\n #TAEYEON  #태연\n #소녀시대 #GirlsGeneration \n #CantControlMyself #TAEYEON_CantControlMyself\n#탱ControlMyself https://t.co/99iImilr0g"
+		"text": "❤️🩹탱 Control Myself🕹\n\nhttps://t.co/wlrLb9f5hb\n\n #TAEYEON  #태연\n #소녀시대 #GirlsGeneration \n #CantControlMyself #TAEYEON_CantControlMyself\n#탱ControlMyself https://t.co/99iImilr0g"
 	},
 	{
 		"created_at": "Sat Jan 22 05:07:09 +0000 2022",
