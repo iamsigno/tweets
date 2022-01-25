@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 09:07:09 +0000 2022",
+		"id": 1485900469142634500,
+		"id_str": "1485902045580337153",
+		"full_text": "ScreaM TOGETHER! \n\n1월 28일 SHOWME #004 DJ는 ScreaM Records에서 싱글 ‘The Riot (Feat. 텐, 샤오쥔 of WayV)’을, SM STATION에서 ‘Raiden, 효연 (HYO) - Think About Me (Feat. Coogie) (GINJO Remix)’를 발매하면서 뛰어난 실력을 입증한 ScreaM Records 소속 프로듀서 겸 DJ GINJO(긴조)입니다! https://t.co/GonAAZKf4A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485900456077320200,
+					"id_str": "1485900456077320196",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ76l5gUYAQBQg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ76l5gUYAQBQg_.jpg",
+					"url": "https://t.co/GonAAZKf4A",
+					"display_url": "pic.twitter.com/GonAAZKf4A",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1485900469142634497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485900456077320200,
+					"id_str": "1485900456077320196",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ76l5gUYAQBQg_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ76l5gUYAQBQg_.jpg",
+					"url": "https://t.co/GonAAZKf4A",
+					"display_url": "pic.twitter.com/GonAAZKf4A",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1485900469142634497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247789684672974800,
+			"id_str": "1247789684672974851",
+			"name": "Beyond_LIVE",
+			"screen_name": "Beyond_LIVE",
+			"location": "",
+			"description": "\"A new era of live concert begins\"",
+			"url": "https://t.co/oa8CdfHBJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oa8CdfHBJH",
+							"expanded_url": "https://beyondlive.com",
+							"display_url": "beyondlive.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 45310,
+			"friends_count": 9,
+			"listed_count": 68,
+			"created_at": "Wed Apr 08 07:33:56 +0000 2020",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 837,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247789684672974851/1587525142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ScreaM TOGETHER! \n\n1월 28일 SHOWME #004 DJ는 ScreaM Records에서 싱글 ‘The Riot (Feat. 텐, 샤오쥔 of WayV)’을, SM STATION에서 ‘Raiden, 효연 (HYO) - Think About Me (Feat. Coogie) (GINJO Remix)’를 발매하면서 뛰어난 실력을 입증한 ScreaM Records 소속 프로듀서 겸 DJ GINJO(긴조)입니다! https://t.co/GonAAZKf4A"
+	},
+	{
 		"created_at": "Tue Jan 25 04:07:09 +0000 2022",
 		"id": 1485821991240495000,
 		"id_str": "1485826548024365059",
