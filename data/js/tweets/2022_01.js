@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 25 03:07:12 +0000 2022",
+		"id": 1485809659160105000,
+		"id_str": "1485811463038119940",
+		"full_text": "💚 제 11회 #가온차트뮤직어워즈 💚\n\n👉🏻2022년 1월 27일 (목) 오후 5시\n멜론 PC/모바일 생중계에서 만나요 😍\n\n#멜론 #Melon #가온차트 \n#NCTDREAM #NCT127 #오마이걸 #레드벨벳\n#태연 #강다니엘 #스테이씨 #더보이즈 #브레이브걸스\n#샤이니 #스탠딩에그 #이무진 #이찬원 #임영웅 #호미들 https://t.co/DKNS9Oi9gm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "가온차트뮤직어워즈",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						74,
+						80
+					]
+				},
+				{
+					"text": "가온차트",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						98,
+						105
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "강다니엘",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "브레이브걸스",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "스탠딩에그",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "이무진",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "이찬원",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "임영웅",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "호미들",
+					"indices": [
+						175,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1485803734420852700,
+					"id_str": "1485803734420852737",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6in9QakAEUFuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6in9QakAEUFuF.jpg",
+					"url": "https://t.co/DKNS9Oi9gm",
+					"display_url": "pic.twitter.com/DKNS9Oi9gm",
+					"expanded_url": "https://twitter.com/melon/status/1485809659160104960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485803734420852700,
+					"id_str": "1485803734420852737",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6in9QakAEUFuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6in9QakAEUFuF.jpg",
+					"url": "https://t.co/DKNS9Oi9gm",
+					"display_url": "pic.twitter.com/DKNS9Oi9gm",
+					"expanded_url": "https://twitter.com/melon/status/1485809659160104960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485803734383083500,
+					"id_str": "1485803734383083520",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6in9HaQAAmT_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6in9HaQAAmT_6.jpg",
+					"url": "https://t.co/DKNS9Oi9gm",
+					"display_url": "pic.twitter.com/DKNS9Oi9gm",
+					"expanded_url": "https://twitter.com/melon/status/1485809659160104960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1485803734408241200,
+					"id_str": "1485803734408241152",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ6in9NaIAA9i94.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ6in9NaIAA9i94.jpg",
+					"url": "https://t.co/DKNS9Oi9gm",
+					"display_url": "pic.twitter.com/DKNS9Oi9gm",
+					"expanded_url": "https://twitter.com/melon/status/1485809659160104960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "음악이 필요한 순간 '멜론'",
+			"url": "http://t.co/Wo8qZOx1KA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Wo8qZOx1KA",
+							"expanded_url": "http://www.melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154435,
+			"friends_count": 76,
+			"listed_count": 643,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1592531049",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💚 제 11회 #가온차트뮤직어워즈 💚\n\n👉🏻2022년 1월 27일 (목) 오후 5시\n멜론 PC/모바일 생중계에서 만나요 😍\n\n#멜론 #Melon #가온차트 \n#NCTDREAM #NCT127 #오마이걸 #레드벨벳\n#태연 #강다니엘 #스테이씨 #더보이즈 #브레이브걸스\n#샤이니 #스탠딩에그 #이무진 #이찬원 #임영웅 #호미들 https://t.co/DKNS9Oi9gm"
+	},
+	{
 		"created_at": "Tue Jan 25 02:07:11 +0000 2022",
 		"id": 1485787001026605000,
 		"id_str": "1485796358304980993",
