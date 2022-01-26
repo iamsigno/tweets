@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 26 08:07:09 +0000 2022",
+		"id": 1486242915227934700,
+		"id_str": "1486249333775347713",
+		"full_text": "‘โวคอล ควีน’ TAEYEON จะกลับมาพร้อมอัลบั้มเต็มชุดที่ 3 ‘INVU’ ในวันที่ 14 กุมภาพันธ์นี้!\n\n💖 https://t.co/gcu8wKMHB2\n\n#태연 #TAEYEON #INVU\n#소녀시대 #GirlsGeneration https://t.co/PU6CwJozou",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						141,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gcu8wKMHB2",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4833958796652030",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1486241879264231400,
+					"id_str": "1486241879264231424",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FKAxHV_agAAfe40.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKAxHV_agAAfe40.jpg",
+					"url": "https://t.co/PU6CwJozou",
+					"display_url": "pic.twitter.com/PU6CwJozou",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1486242915227934721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486241879264231400,
+					"id_str": "1486241879264231424",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FKAxHV_agAAfe40.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKAxHV_agAAfe40.jpg",
+					"url": "https://t.co/PU6CwJozou",
+					"display_url": "pic.twitter.com/PU6CwJozou",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1486242915227934721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90810,
+			"friends_count": 49,
+			"listed_count": 157,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 89,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "‘โวคอล ควีน’ TAEYEON จะกลับมาพร้อมอัลบั้มเต็มชุดที่ 3 ‘INVU’ ในวันที่ 14 กุมภาพันธ์นี้!\n\n💖 https://t.co/gcu8wKMHB2\n\n#태연 #TAEYEON #INVU\n#소녀시대 #GirlsGeneration https://t.co/PU6CwJozou"
+	},
+	{
 		"created_at": "Wed Jan 26 06:07:09 +0000 2022",
 		"id": 1486210573352435700,
 		"id_str": "1486219135356973057",
