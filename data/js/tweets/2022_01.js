@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 28 05:07:13 +0000 2022",
+		"id": 1486920958409527300,
+		"id_str": "1486928829537042434",
+		"full_text": "오늘의 셀럽 - 효사장 - AFTER SERVICE 💓\n\n새해를 맞아 진행된 2022년 첫 방송! 한복이 찰떡같이 잘 어울린 효사장 &amp; 꽃도령 쫑대리의 케미 폭발 입담으로 새해부터 웃음 가득 했습니다.🎁\n\n더욱 풍성한 혜택으로 돌아올 &lt;오늘의 셀럽 - 효사장&gt; 여섯 번째 방송도 많관부~🥰\n#효연 #오늘의셀럽 https://t.co/HUElWGA2HW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						172,
+						175
+					]
+				},
+				{
+					"text": "오늘의셀럽",
+					"indices": [
+						176,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1486920951887401000,
+					"id_str": "1486920951887400964",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKaukpVkAQ9KzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKaukpVkAQ9KzL.jpg",
+					"url": "https://t.co/HUElWGA2HW",
+					"display_url": "pic.twitter.com/HUElWGA2HW",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1486920958409527298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1486920951887401000,
+					"id_str": "1486920951887400964",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKaukpVkAQ9KzL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKaukpVkAQ9KzL.jpg",
+					"url": "https://t.co/HUElWGA2HW",
+					"display_url": "pic.twitter.com/HUElWGA2HW",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1486920958409527298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486920951883178000,
+					"id_str": "1486920951883177985",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKaukoVIAEbW4w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKaukoVIAEbW4w.jpg",
+					"url": "https://t.co/HUElWGA2HW",
+					"display_url": "pic.twitter.com/HUElWGA2HW",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1486920958409527298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486920952160014300,
+					"id_str": "1486920952160014338",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKaulqVUAIowrQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKaulqVUAIowrQ.jpg",
+					"url": "https://t.co/HUElWGA2HW",
+					"display_url": "pic.twitter.com/HUElWGA2HW",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1486920958409527298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1486920952160014300,
+					"id_str": "1486920952160014339",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FKKaulqVUAMMv2B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKKaulqVUAMMv2B.jpg",
+					"url": "https://t.co/HUElWGA2HW",
+					"display_url": "pic.twitter.com/HUElWGA2HW",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1486920958409527298/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 201343,
+			"friends_count": 0,
+			"listed_count": 337,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2242,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘의 셀럽 - 효사장 - AFTER SERVICE 💓\n\n새해를 맞아 진행된 2022년 첫 방송! 한복이 찰떡같이 잘 어울린 효사장 &amp; 꽃도령 쫑대리의 케미 폭발 입담으로 새해부터 웃음 가득 했습니다.🎁\n\n더욱 풍성한 혜택으로 돌아올 &lt;오늘의 셀럽 - 효사장&gt; 여섯 번째 방송도 많관부~🥰\n#효연 #오늘의셀럽 https://t.co/HUElWGA2HW"
+	},
+	{
 		"created_at": "Fri Jan 28 04:07:18 +0000 2022",
 		"id": 1486910369561911300,
 		"id_str": "1486913751064649732",
