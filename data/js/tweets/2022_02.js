@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 06:07:08 +0000 2022",
+		"id": 1489116485318447000,
+		"id_str": "1489118237405163523",
+		"full_text": "2022 SM ARTIST SEASON'S GREETINGS PHOTO PACK #Oh!GG #소녀시대\n\n2월 4일 (금) 오후 3시부터 다양한 온라인 판매처를 통해 예약하실 수 있습니다.\n \n▶ Online Store\nSMTOWN &amp;STORE : https://t.co/JRDkAYBXgU\nSM Global Shop : https://t.co/WbK4TtcQC5\nSM true Store : https://t.co/MyTKQPuPHc https://t.co/DTQnMKbdms",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Oh",
+					"indices": [
+						45,
+						48
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						52,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRDkAYBXgU",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/WbK4TtcQC5",
+					"expanded_url": "http://smglobalshop.com/",
+					"display_url": "smglobalshop.com",
+					"indices": [
+						184,
+						207
+					]
+				},
+				{
+					"url": "https://t.co/MyTKQPuPHc",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489116475541446700,
+					"id_str": "1489116475541446656",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FKpni3nUYAA49KL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKpni3nUYAA49KL.jpg",
+					"url": "https://t.co/DTQnMKbdms",
+					"display_url": "pic.twitter.com/DTQnMKbdms",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1489116485318447105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 642,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 376,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 213,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489116475541446700,
+					"id_str": "1489116475541446656",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/FKpni3nUYAA49KL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKpni3nUYAA49KL.jpg",
+					"url": "https://t.co/DTQnMKbdms",
+					"display_url": "pic.twitter.com/DTQnMKbdms",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1489116485318447105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 642,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 376,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 213,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3709710,
+			"friends_count": 4,
+			"listed_count": 5727,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 916,
+		"favorite_count": 1377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 SM ARTIST SEASON'S GREETINGS PHOTO PACK #Oh!GG #소녀시대\n\n2월 4일 (금) 오후 3시부터 다양한 온라인 판매처를 통해 예약하실 수 있습니다.\n \n▶ Online Store\nSMTOWN &amp;STORE : https://t.co/JRDkAYBXgU\nSM Global Shop : https://t.co/WbK4TtcQC5\nSM true Store : https://t.co/MyTKQPuPHc https://t.co/DTQnMKbdms"
+	},
+	{
 		"created_at": "Thu Feb 03 05:07:08 +0000 2022",
 		"id": 1489096507320008700,
 		"id_str": "1489103137772298241",
