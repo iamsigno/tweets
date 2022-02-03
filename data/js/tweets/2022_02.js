@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 03 02:07:24 +0000 2022",
+		"id": 1489047606319743000,
+		"id_str": "1489057904024076288",
+		"full_text": "[2/3(목) 엠뮤톡] 12시 51분 시작~!  김우석/위아이/IVE/\n업텐션/YENA/TOMORROW X TOGETHER/이달의 소녀/\n온앤오프/전소미/에이티즈/문별/비투비/태연/\n방탄소년단/워너원/Kep1er/샤이니\n오늘은 신청곡 데이!! 신청해준 곡들로 데리고 왔지!! \n오늘도 재미있게 놀아보자구!👍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1228954,
+			"friends_count": 442,
+			"listed_count": 1506,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19691,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 193,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[2/3(목) 엠뮤톡] 12시 51분 시작~!  김우석/위아이/IVE/\n업텐션/YENA/TOMORROW X TOGETHER/이달의 소녀/\n온앤오프/전소미/에이티즈/문별/비투비/태연/\n방탄소년단/워너원/Kep1er/샤이니\n오늘은 신청곡 데이!! 신청해준 곡들로 데리고 왔지!! \n오늘도 재미있게 놀아보자구!👍"
+	},
+	{
+		"created_at": "Thu Feb 03 02:07:21 +0000 2022",
+		"id": 1489046014916919300,
+		"id_str": "1489057890925256712",
+		"full_text": "[#MCOUNTDOWN] EP.738 Line up✨\n\n▶Watch Live on https://t.co/e48DcATvTD \n(THU, 6PM KST)\n\n#TWICE #NCT127 #StrayKids #EXO #SEVENTEEN #ENHYPEN #BTS #TAEYEON #TOMORROW_X_TOGETHER and more!! https://t.co/fjtL2O0XX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						87,
+						93
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "StrayKids",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"text": "EXO",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "SEVENTEEN",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"text": "ENHYPEN",
+					"indices": [
+						129,
+						137
+					]
+				},
+				{
+					"text": "BTS",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"text": "TOMORROW_X_TOGETHER",
+					"indices": [
+						152,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e48DcATvTD",
+					"expanded_url": "http://bit.ly/MCD_Mwave",
+					"display_url": "bit.ly/MCD_Mwave",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489045872373493800,
+					"id_str": "1489045872373493760",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489045872373493760/pu/img/_EbmOrYl6m8Cl7L8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489045872373493760/pu/img/_EbmOrYl6m8Cl7L8.jpg",
+					"url": "https://t.co/fjtL2O0XX4",
+					"display_url": "pic.twitter.com/fjtL2O0XX4",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1489046014916919300/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489045872373493800,
+					"id_str": "1489045872373493760",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489045872373493760/pu/img/_EbmOrYl6m8Cl7L8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489045872373493760/pu/img/_EbmOrYl6m8Cl7L8.jpg",
+					"url": "https://t.co/fjtL2O0XX4",
+					"display_url": "pic.twitter.com/fjtL2O0XX4",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1489046014916919300/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30034,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489045872373493760/pu/vid/640x360/qb-J9uX4SlljEUjj.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1489045872373493760/pu/pl/MUy9dCTygFWSoQDQ.m3u8?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489045872373493760/pu/vid/480x270/PImSpcX_Zrj6IT3B.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1489045872373493760/pu/vid/1280x720/VviGb30_Kb2U8w1d.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1926661,
+			"friends_count": 326,
+			"listed_count": 1970,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42717,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1629766349",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 124,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN] EP.738 Line up✨\n\n▶Watch Live on https://t.co/e48DcATvTD \n(THU, 6PM KST)\n\n#TWICE #NCT127 #StrayKids #EXO #SEVENTEEN #ENHYPEN #BTS #TAEYEON #TOMORROW_X_TOGETHER and more!! https://t.co/fjtL2O0XX4"
+	},
+	{
+		"created_at": "Thu Feb 03 02:07:13 +0000 2022",
+		"id": 1489044570608308200,
+		"id_str": "1489057856838111240",
+		"full_text": "TAEYEON’s ‘INVU’, the title song of the 3rd Album, is an intense &amp; ardent love song!\nTAEYEON heralded her deep vocal charm!\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						133,
+						141
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						169,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1489044568968286200,
+		"in_reply_to_status_id_str": "1489044568968286210",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3709571,
+			"friends_count": 4,
+			"listed_count": 5726,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 896,
+		"favorite_count": 1913,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TAEYEON’s ‘INVU’, the title song of the 3rd Album, is an intense &amp; ardent love song!\nTAEYEON heralded her deep vocal charm!\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Feb 03 01:07:09 +0000 2022",
 		"id": 1489038690210881500,
 		"id_str": "1489042740864299013",
