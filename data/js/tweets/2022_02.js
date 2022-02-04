@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 10:07:08 +0000 2022",
+		"id": 1489538276763783200,
+		"id_str": "1489541023403495435",
+		"full_text": "นิทรรศการสำหรับอัลบั้มเต็มชุดที่ 3 ‘𝗜𝗡𝗩𝗨’ ของ 𝗧𝗔𝗘𝗬𝗘𝗢𝗡 จะเริ่มขึ้นในวันที่ 7 กุมภาพันธ์นี้ ณ กรุงโซล ประเทศเกาหลีใต้!\n\n💖 https://t.co/n4Mpi4EaD9\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/yjZu5Ps5Xo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						149,
+						157
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						159,
+						164
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						165,
+						178
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						185,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n4Mpi4EaD9",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4867321453315764",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489538119343181800,
+					"id_str": "1489538119343181828",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FKvnBxLakAQtseR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKvnBxLakAQtseR.jpg",
+					"url": "https://t.co/yjZu5Ps5Xo",
+					"display_url": "pic.twitter.com/yjZu5Ps5Xo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1489538276763783168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489538119343181800,
+					"id_str": "1489538119343181828",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FKvnBxLakAQtseR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKvnBxLakAQtseR.jpg",
+					"url": "https://t.co/yjZu5Ps5Xo",
+					"display_url": "pic.twitter.com/yjZu5Ps5Xo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1489538276763783168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1489538119401894000,
+					"id_str": "1489538119401893893",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FKvnBxZacAUB9wm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKvnBxZacAUB9wm.jpg",
+					"url": "https://t.co/yjZu5Ps5Xo",
+					"display_url": "pic.twitter.com/yjZu5Ps5Xo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1489538276763783168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1489538119380906000,
+					"id_str": "1489538119380905985",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FKvnBxUaMAEF7Uy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKvnBxUaMAEF7Uy.jpg",
+					"url": "https://t.co/yjZu5Ps5Xo",
+					"display_url": "pic.twitter.com/yjZu5Ps5Xo",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1489538276763783168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90968,
+			"friends_count": 49,
+			"listed_count": 158,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "นิทรรศการสำหรับอัลบั้มเต็มชุดที่ 3 ‘𝗜𝗡𝗩𝗨’ ของ 𝗧𝗔𝗘𝗬𝗘𝗢𝗡 จะเริ่มขึ้นในวันที่ 7 กุมภาพันธ์นี้ ณ กรุงโซล ประเทศเกาหลีใต้!\n\n💖 https://t.co/n4Mpi4EaD9\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/yjZu5Ps5Xo"
+	},
+	{
 		"created_at": "Fri Feb 04 09:07:08 +0000 2022",
 		"id": 1489524250696650800,
 		"id_str": "1489525923997233152",
