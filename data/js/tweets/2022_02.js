@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 04:07:08 +0000 2022",
+		"id": 1489443522801713200,
+		"id_str": "1489450426403598341",
+		"full_text": "TAEYEON Buka Pameran Tanggal 7 Februari 2022 Dalam Rangka Perilisan Full-length Album ke-3 ‘INVU’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/QEqemwpp5l\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/pHhGHKLQSp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						199,
+						207
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						208,
+						213
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						214,
+						227
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						228,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						182,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QEqemwpp5l",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/975611713055843",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489443470096089000,
+					"id_str": "1489443470096089089",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuQ8dQaQAEfVhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuQ8dQaQAEfVhA.jpg",
+					"url": "https://t.co/pHhGHKLQSp",
+					"display_url": "pic.twitter.com/pHhGHKLQSp",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1489443522801713152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489443470096089000,
+					"id_str": "1489443470096089089",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuQ8dQaQAEfVhA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuQ8dQaQAEfVhA.jpg",
+					"url": "https://t.co/pHhGHKLQSp",
+					"display_url": "pic.twitter.com/pHhGHKLQSp",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1489443522801713152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1489443494888636400,
+					"id_str": "1489443494888636417",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuQ95nagAEe3Xp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuQ95nagAEe3Xp.jpg",
+					"url": "https://t.co/pHhGHKLQSp",
+					"display_url": "pic.twitter.com/pHhGHKLQSp",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1489443522801713152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1489443495115096000,
+					"id_str": "1489443495115096064",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuQ96daAAAnEgD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuQ96daAAAnEgD.jpg",
+					"url": "https://t.co/pHhGHKLQSp",
+					"display_url": "pic.twitter.com/pHhGHKLQSp",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1489443522801713152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/vbjfZGuM9Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vbjfZGuM9Y",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 889157,
+			"friends_count": 35,
+			"listed_count": 579,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 264,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Buka Pameran Tanggal 7 Februari 2022 Dalam Rangka Perilisan Full-length Album ke-3 ‘INVU’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/QEqemwpp5l\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/pHhGHKLQSp"
+	},
+	{
 		"created_at": "Fri Feb 04 02:44:57 +0000 2022",
 		"id": 1489422192429666300,
 		"id_str": "1489429740582850561",
