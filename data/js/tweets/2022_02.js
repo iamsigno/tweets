@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 04 05:07:08 +0000 2022",
+		"id": 1489454206259896300,
+		"id_str": "1489465525130387459",
+		"full_text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇‍♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "댸니쇼",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						27,
+						30
+					]
+				},
+				{
+					"text": "동해",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "은혁",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "댸니쇼",
+					"indices": [
+						96,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F0LyfUasH3",
+					"expanded_url": "https://now.naver.com/show/541",
+					"display_url": "now.naver.com/show/541",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1489454195694440400,
+					"id_str": "1489454195694440449",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"url": "https://t.co/dl67sXv9QM",
+					"display_url": "pic.twitter.com/dl67sXv9QM",
+					"expanded_url": "https://twitter.com/kr_now/status/1489454206259896322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489454195694440400,
+					"id_str": "1489454195694440449",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKuasxOVEAEBukE.jpg",
+					"url": "https://t.co/dl67sXv9QM",
+					"display_url": "pic.twitter.com/dl67sXv9QM",
+					"expanded_url": "https://twitter.com/kr_now/status/1489454206259896322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 177340,
+			"friends_count": 1,
+			"listed_count": 308,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 484,
+		"favorite_count": 865,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#댸니쇼 100회 특집💙💙 축하사절단 #소녀시대 #써니 와 함께한댸니🎉 슈주x소시 이 조합 찬성일세👍 미리알림 설정하고 오후5시 본방사수 부탁한댸니🙇‍♂️🙇 #동해 #은혁 #댸니쇼\n \n✅미리알림설정\nhttps://t.co/F0LyfUasH3 https://t.co/dl67sXv9QM"
+	},
+	{
 		"created_at": "Fri Feb 04 04:07:08 +0000 2022",
 		"id": 1489443522801713200,
 		"id_str": "1489450426403598341",
