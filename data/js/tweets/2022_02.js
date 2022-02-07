@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 06:45:03 +0000 2022",
+		"id": 1490573592832409600,
+		"id_str": "1490577328778493953",
+		"full_text": "[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 \"INVU\", 같이 기다릴래? ❤\n \nhttps://t.co/26jipYN4L5\n \n#모두가_ENVY하는_태연_INVU\n#태연 #TAEYEON #INVU\n#2월14일_킹태연컴백 https://t.co/5g7PowpVCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "모두가_ENVY하는_태연_INVU",
+					"indices": [
+						77,
+						96
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						110,
+						115
+					]
+				},
+				{
+					"text": "2월14일_킹태연컴백",
+					"indices": [
+						116,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/26jipYN4L5",
+					"expanded_url": "http://naver.me/FoWn1yH1",
+					"display_url": "naver.me/FoWn1yH1",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490573587279138800,
+					"id_str": "1490573587279138817",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-Ux71aUAEgcOK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-Ux71aUAEgcOK.jpg",
+					"url": "https://t.co/5g7PowpVCC",
+					"display_url": "pic.twitter.com/5g7PowpVCC",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490573592832409602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490573587279138800,
+					"id_str": "1490573587279138817",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-Ux71aUAEgcOK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-Ux71aUAEgcOK.jpg",
+					"url": "https://t.co/5g7PowpVCC",
+					"display_url": "pic.twitter.com/5g7PowpVCC",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490573592832409602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3716738,
+			"friends_count": 4,
+			"listed_count": 5743,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1800,
+		"favorite_count": 4165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EVENT] 모두가 ENVY 하는 킹태연 정규 3집 \"INVU\", 같이 기다릴래? ❤\n \nhttps://t.co/26jipYN4L5\n \n#모두가_ENVY하는_태연_INVU\n#태연 #TAEYEON #INVU\n#2월14일_킹태연컴백 https://t.co/5g7PowpVCC"
+	},
+	{
 		"created_at": "Mon Feb 07 06:07:13 +0000 2022",
 		"id": 1490566145271033900,
 		"id_str": "1490567809453207553",
