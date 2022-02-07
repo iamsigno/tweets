@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 06:07:13 +0000 2022",
+		"id": 1490566145271033900,
+		"id_str": "1490567809453207553",
+		"full_text": "TAEYEON - INVU : THE EXHIBIT MD🎀\n\nTAEYEON의 정규 3집 'INVU' 발매를 기념하는 전시회 INVU : THE EXHIBIT💖\n전시회 못 가서 아쉬운 분들을 위해서💦\nINVU : THE EXHIBIT의 1차 MD 라인업이 공개되었습니다! https://t.co/LqqiKggymT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490562360448544800,
+					"id_str": "1490562360448544770",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-KkcoacAIJtST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-KkcoacAIJtST.jpg",
+					"url": "https://t.co/LqqiKggymT",
+					"display_url": "pic.twitter.com/LqqiKggymT",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1490566145271033859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490562360448544800,
+					"id_str": "1490562360448544770",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-KkcoacAIJtST.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-KkcoacAIJtST.jpg",
+					"url": "https://t.co/LqqiKggymT",
+					"display_url": "pic.twitter.com/LqqiKggymT",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1490566145271033859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490562360473702400,
+					"id_str": "1490562360473702402",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-KkcuaUAIva0G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-KkcuaUAIva0G.jpg",
+					"url": "https://t.co/LqqiKggymT",
+					"display_url": "pic.twitter.com/LqqiKggymT",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1490566145271033859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490562360469508000,
+					"id_str": "1490562360469508097",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-KkctaUAE7gBI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-KkctaUAE7gBI.jpg",
+					"url": "https://t.co/LqqiKggymT",
+					"display_url": "pic.twitter.com/LqqiKggymT",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1490566145271033859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490562360448553000,
+					"id_str": "1490562360448552961",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FK-KkcoakAE--xn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK-KkcoakAE--xn.jpg",
+					"url": "https://t.co/LqqiKggymT",
+					"display_url": "pic.twitter.com/LqqiKggymT",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1490566145271033859/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203004,
+			"friends_count": 0,
+			"listed_count": 339,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON - INVU : THE EXHIBIT MD🎀\n\nTAEYEON의 정규 3집 'INVU' 발매를 기념하는 전시회 INVU : THE EXHIBIT💖\n전시회 못 가서 아쉬운 분들을 위해서💦\nINVU : THE EXHIBIT의 1차 MD 라인업이 공개되었습니다! https://t.co/LqqiKggymT"
+	},
+	{
 		"created_at": "Mon Feb 07 03:45:05 +0000 2022",
 		"id": 1490521195803938800,
 		"id_str": "1490532038180589569",
