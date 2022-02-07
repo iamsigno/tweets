@@ -1,6 +1,550 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 03:45:05 +0000 2022",
+		"id": 1490521195803938800,
+		"id_str": "1490532038180589569",
+		"full_text": "TAEYEON 태연 The 3rd Album [INVU] Album Detail - ENVY Version\n\n🎧 2022.02.14. 6PM KST\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/0tpryd4xeK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490516409340010500,
+					"id_str": "1490516409340010497",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FK9gxvaaIAE7Dgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK9gxvaaIAE7Dgt.jpg",
+					"url": "https://t.co/0tpryd4xeK",
+					"display_url": "pic.twitter.com/0tpryd4xeK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490521195803938817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490516409340010500,
+					"id_str": "1490516409340010497",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FK9gxvaaIAE7Dgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK9gxvaaIAE7Dgt.jpg",
+					"url": "https://t.co/0tpryd4xeK",
+					"display_url": "pic.twitter.com/0tpryd4xeK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490521195803938817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490516432953970700,
+					"id_str": "1490516432953970688",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FK9gzHYakAA1alP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK9gzHYakAA1alP.jpg",
+					"url": "https://t.co/0tpryd4xeK",
+					"display_url": "pic.twitter.com/0tpryd4xeK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490521195803938817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 644,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 377,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 214,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490516432953933800,
+					"id_str": "1490516432953933824",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FK9gzHYaAAAqtV8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK9gzHYaAAAqtV8.jpg",
+					"url": "https://t.co/0tpryd4xeK",
+					"display_url": "pic.twitter.com/0tpryd4xeK",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490521195803938817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 461,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 270,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 153,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3716448,
+			"friends_count": 4,
+			"listed_count": 5742,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4701,
+		"favorite_count": 8983,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 The 3rd Album [INVU] Album Detail - ENVY Version\n\n🎧 2022.02.14. 6PM KST\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/0tpryd4xeK"
+	},
+	{
+		"created_at": "Mon Feb 07 03:44:59 +0000 2022",
+		"id": 1490520944103809000,
+		"id_str": "1490532012481990656",
+		"full_text": "TAEYEON 태연 The 3rd Album [INVU] Album Detail - TAPE Version\n\n🎧 2022.02.14. 6PM KST\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/nd33Ld3QkW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						88,
+						96
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490516267341869000,
+					"id_str": "1490516267341869056",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FK9gpebacAAK0-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK9gpebacAAK0-r.jpg",
+					"url": "https://t.co/nd33Ld3QkW",
+					"display_url": "pic.twitter.com/nd33Ld3QkW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490520944103809025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490516267341869000,
+					"id_str": "1490516267341869056",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FK9gpebacAAK0-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK9gpebacAAK0-r.jpg",
+					"url": "https://t.co/nd33Ld3QkW",
+					"display_url": "pic.twitter.com/nd33Ld3QkW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490520944103809025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490516284936953900,
+					"id_str": "1490516284936953858",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FK9gqf-aIAIrnDS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK9gqf-aIAIrnDS.jpg",
+					"url": "https://t.co/nd33Ld3QkW",
+					"display_url": "pic.twitter.com/nd33Ld3QkW",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1490520944103809025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 732,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 429,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 243,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3716448,
+			"friends_count": 4,
+			"listed_count": 5742,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3749,
+		"favorite_count": 6100,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TAEYEON 태연 The 3rd Album [INVU] Album Detail - TAPE Version\n\n🎧 2022.02.14. 6PM KST\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/nd33Ld3QkW"
+	},
+	{
 		"created_at": "Sun Feb 06 15:44:57 +0000 2022",
 		"id": 1490339503868825600,
 		"id_str": "1490350810349412355",
