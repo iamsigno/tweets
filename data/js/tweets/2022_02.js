@@ -1,6 +1,489 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 08 02:07:20 +0000 2022",
+		"id": 1490869580264542200,
+		"id_str": "1490869825878568963",
+		"full_text": "‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고!\n\nTAEYEON’s new Album ‘INVU’ heralded rich music with well-made 13 songs!\n\nhttps://t.co/yOQHhXKBDw\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						140,
+						143
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						160,
+						173
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						180,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yOQHhXKBDw",
+					"expanded_url": "https://bit.ly/3JaDJJJ",
+					"display_url": "bit.ly/3JaDJJJ",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3717849,
+			"friends_count": 4,
+			"listed_count": 5750,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 298,
+		"favorite_count": 522,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘컴백’ 태연 정규 3집 ‘INVU’, 웰메이드 13곡으로 귀호강 예고!\n\nTAEYEON’s new Album ‘INVU’ heralded rich music with well-made 13 songs!\n\nhttps://t.co/yOQHhXKBDw\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Tue Feb 08 02:07:14 +0000 2022",
+		"id": 1490868413077782500,
+		"id_str": "1490869800209457159",
+		"full_text": "Drama ‘한 사람만’ ends today! PARK SOOYOUNG of Red Velvet to show an unexpected ending. \nPARK SOOYOUNG presented ‘The Essence of Human Romance’ with her proven acting skills as a leading actress.\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY \n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/D9gsOKhRpv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						198,
+						211
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						212,
+						215
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						216,
+						220
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						222,
+						227
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						228,
+						238
+					]
+				},
+				{
+					"text": "한사람만",
+					"indices": [
+						239,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490867812755447800,
+					"id_str": "1490867812755447810",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1324,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490867812755447800,
+					"id_str": "1490867812755447810",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHJaIAIw8fJ.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1324,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490867812763857000,
+					"id_str": "1490867812763856897",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHLacAE22S4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHLacAE22S4.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1324,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490867812759642000,
+					"id_str": "1490867812759642112",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHKaIAAa2vX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHKaIAAa2vX.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1201,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1490867812763857000,
+					"id_str": "1490867812763856896",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/FLCgYHLacAAeO1E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLCgYHLacAAeO1E.jpg",
+					"url": "https://t.co/D9gsOKhRpv",
+					"display_url": "pic.twitter.com/D9gsOKhRpv",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1490868413077782528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 496,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1314,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10571598,
+			"friends_count": 56,
+			"listed_count": 11717,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 320,
+		"favorite_count": 1253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Drama ‘한 사람만’ ends today! PARK SOOYOUNG of Red Velvet to show an unexpected ending. \nPARK SOOYOUNG presented ‘The Essence of Human Romance’ with her proven acting skills as a leading actress.\n\n#박수영 #PARKSOOYOUNG\n#조이 #JOY \n#레드벨벳 #RedVelvet\n#한사람만 https://t.co/D9gsOKhRpv"
+	},
+	{
 		"created_at": "Mon Feb 07 15:44:59 +0000 2022",
 		"id": 1490702138531479600,
 		"id_str": "1490713205752147973",
