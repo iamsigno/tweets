@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 03:07:08 +0000 2022",
+		"id": 1491232264730341400,
+		"id_str": "1491247265901682691",
+		"full_text": "#FANDOM_DONATE_EVENT\nNEW MISSION for Birthday\n\"Donate 10000 masks\"😷\n\n#fromis_9 #PARKJIWON\n▶️https://t.co/8fDct4QDum\n\n#TAEYEON\n▶️https://t.co/4mXyPorAWT\n\n#Apink #PARKCHORONG\n▶️https://t.co/1Nkox0d5UB\n\n#Dreamcatcher #HANDONG\n▶️https://t.co/xOvVMlXjFU https://t.co/oifjd5u8nA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FANDOM_DONATE_EVENT",
+					"indices": [
+						0,
+						20
+					]
+				},
+				{
+					"text": "fromis_9",
+					"indices": [
+						69,
+						78
+					]
+				},
+				{
+					"text": "PARKJIWON",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "Apink",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "PARKCHORONG",
+					"indices": [
+						160,
+						172
+					]
+				},
+				{
+					"text": "Dreamcatcher",
+					"indices": [
+						200,
+						213
+					]
+				},
+				{
+					"text": "HANDONG",
+					"indices": [
+						214,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8fDct4QDum",
+					"expanded_url": "https://bit.ly/34IGT8T",
+					"display_url": "bit.ly/34IGT8T",
+					"indices": [
+						92,
+						115
+					]
+				},
+				{
+					"url": "https://t.co/4mXyPorAWT",
+					"expanded_url": "https://bit.ly/3oymHxe",
+					"display_url": "bit.ly/3oymHxe",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/1Nkox0d5UB",
+					"expanded_url": "https://bit.ly/3rDlfMk",
+					"display_url": "bit.ly/3rDlfMk",
+					"indices": [
+						175,
+						198
+					]
+				},
+				{
+					"url": "https://t.co/xOvVMlXjFU",
+					"expanded_url": "https://bit.ly/3oAsLFI",
+					"display_url": "bit.ly/3oAsLFI",
+					"indices": [
+						225,
+						248
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491232247030370300,
+					"id_str": "1491232247030370312",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FLHr0-naUAgJWeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLHr0-naUAgJWeL.jpg",
+					"url": "https://t.co/oifjd5u8nA",
+					"display_url": "pic.twitter.com/oifjd5u8nA",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1491232264730341377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1046,
+							"h": 1514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491232247030370300,
+					"id_str": "1491232247030370312",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FLHr0-naUAgJWeL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLHr0-naUAgJWeL.jpg",
+					"url": "https://t.co/oifjd5u8nA",
+					"display_url": "pic.twitter.com/oifjd5u8nA",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1491232264730341377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 470,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 829,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1046,
+							"h": 1514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1491232259214803000,
+		"in_reply_to_status_id_str": "1491232259214802946",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 93309,
+			"friends_count": 106,
+			"listed_count": 235,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1580881175",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FANDOM_DONATE_EVENT\nNEW MISSION for Birthday\n\"Donate 10000 masks\"😷\n\n#fromis_9 #PARKJIWON\n▶️https://t.co/8fDct4QDum\n\n#TAEYEON\n▶️https://t.co/4mXyPorAWT\n\n#Apink #PARKCHORONG\n▶️https://t.co/1Nkox0d5UB\n\n#Dreamcatcher #HANDONG\n▶️https://t.co/xOvVMlXjFU https://t.co/oifjd5u8nA"
+	},
+	{
 		"created_at": "Wed Feb 09 02:07:23 +0000 2022",
 		"id": 1491231973515620400,
 		"id_str": "1491232227874816001",
