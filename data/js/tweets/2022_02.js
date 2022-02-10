@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 12:07:08 +0000 2022",
+		"id": 1491732036960530400,
+		"id_str": "1491745549200076804",
+		"full_text": "อัลบั้มเต็มชุดที่ 3 ‘#INVU’ ของ #TAEYEON จะมาพร้อมเพลงหลากหลายแนว ตั้งแต่เพลงป๊อปจังหวะเร็วไปจนถึงเพลงบัลลาด!\n\n‘No Love Again’ เพลงที่มีจังหวะน่าเต้น และ ‘Some Nights’ เพลงที่มีเสน่ห์อันงดงามเหมือนฝัน\n\n💖 https://t.co/m0GkCfMaPw\n\n#태연 #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/zyckGKuyLx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						21,
+						26
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						229,
+						232
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						233,
+						246
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						247,
+						252
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						253,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m0GkCfMaPw",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4885999978114578",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491731686505459700,
+					"id_str": "1491731686505459713",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FLOyELpaMAE0rlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLOyELpaMAE0rlL.jpg",
+					"url": "https://t.co/zyckGKuyLx",
+					"display_url": "pic.twitter.com/zyckGKuyLx",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1491732036960530440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491731686505459700,
+					"id_str": "1491731686505459713",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FLOyELpaMAE0rlL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLOyELpaMAE0rlL.jpg",
+					"url": "https://t.co/zyckGKuyLx",
+					"display_url": "pic.twitter.com/zyckGKuyLx",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1491732036960530440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1463,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1491731686551621600,
+					"id_str": "1491731686551621634",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FLOyEL0akAI51QL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLOyEL0akAI51QL.jpg",
+					"url": "https://t.co/zyckGKuyLx",
+					"display_url": "pic.twitter.com/zyckGKuyLx",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1491732036960530440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91056,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "อัลบั้มเต็มชุดที่ 3 ‘#INVU’ ของ #TAEYEON จะมาพร้อมเพลงหลากหลายแนว ตั้งแต่เพลงป๊อปจังหวะเร็วไปจนถึงเพลงบัลลาด!\n\n‘No Love Again’ เพลงที่มีจังหวะน่าเต้น และ ‘Some Nights’ เพลงที่มีเสน่ห์อันงดงามเหมือนฝัน\n\n💖 https://t.co/m0GkCfMaPw\n\n#태연 #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/zyckGKuyLx"
+	},
+	{
 		"created_at": "Thu Feb 10 09:07:09 +0000 2022",
 		"id": 1491698629924757500,
 		"id_str": "1491700251450826752",
