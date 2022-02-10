@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 10 09:07:09 +0000 2022",
+		"id": 1491698629924757500,
+		"id_str": "1491700251450826752",
+		"full_text": "TAEYEON 태연 'INVU' Clip #3 Set Myself On Fire\n\nTAEYEON 태연 The 3rd Album [INVU]\n\n🎧 2022.02.14. 6PM KST\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/vBPBkyjcY8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						142,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491698275732582400,
+					"id_str": "1491698275732582400",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1491698275732582400/img/i2KqgeyxhChS_5Zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1491698275732582400/img/i2KqgeyxhChS_5Zu.jpg",
+					"url": "https://t.co/vBPBkyjcY8",
+					"display_url": "pic.twitter.com/vBPBkyjcY8",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1491698629924757507/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491698275732582400,
+					"id_str": "1491698275732582400",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1491698275732582400/img/i2KqgeyxhChS_5Zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1491698275732582400/img/i2KqgeyxhChS_5Zu.jpg",
+					"url": "https://t.co/vBPBkyjcY8",
+					"display_url": "pic.twitter.com/vBPBkyjcY8",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1491698629924757507/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 27193,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491698275732582400/vid/320x400/wOC5SkNdcBhspKgE.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491698275732582400/vid/720x900/o_GsR2GOY7xjRX5b.mp4?tag=14"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1491698275732582400/vid/480x600/ieMGUMlPh5oSrXQX.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1491698275732582400/pl/rut-6gPY_RmsbzyU.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3720767,
+			"friends_count": 4,
+			"listed_count": 5764,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2676,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2845,
+		"favorite_count": 3488,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TAEYEON 태연 'INVU' Clip #3 Set Myself On Fire\n\nTAEYEON 태연 The 3rd Album [INVU]\n\n🎧 2022.02.14. 6PM KST\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/vBPBkyjcY8"
+	},
+	{
 		"created_at": "Thu Feb 10 04:07:08 +0000 2022",
 		"id": 1491620502703526000,
 		"id_str": "1491624752670257153",
