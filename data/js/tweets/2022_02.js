@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 12 03:07:09 +0000 2022",
+		"id": 1492332643014393900,
+		"id_str": "1492334431083900929",
+		"full_text": "정규3집으로 돌아온 믿듣탱💜\n우리 정희에서 곧 만나유🏹🖤\n\n📻#정오의희망곡 김신영입니다\n✔보이는 라디오는\n✔2월 15일 화요일 오후 12시부터\n✔봉춘라디오 채널에서 스트리밍됩니다!\n많관부🙏\n\n2/15(TUE) 12pm(KST),\n#TAEYEON will appear on MBC radio Live streaming!\n\n#태연 #INVU #소녀시대 https://t.co/7eLtDiLpQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1492036234822430700,
+					"id_str": "1492036234822430723",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTHDOiaMAMHC68.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTHDOiaMAMHC68.jpg",
+					"url": "https://t.co/7eLtDiLpQq",
+					"display_url": "pic.twitter.com/7eLtDiLpQq",
+					"expanded_url": "https://twitter.com/radiombc/status/1492332643014393858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492036234822430700,
+					"id_str": "1492036234822430723",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTHDOiaMAMHC68.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTHDOiaMAMHC68.jpg",
+					"url": "https://t.co/7eLtDiLpQq",
+					"display_url": "pic.twitter.com/7eLtDiLpQq",
+					"expanded_url": "https://twitter.com/radiombc/status/1492332643014393858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75888,
+			"friends_count": 44,
+			"listed_count": 598,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 205,
+		"favorite_count": 241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "정규3집으로 돌아온 믿듣탱💜\n우리 정희에서 곧 만나유🏹🖤\n\n📻#정오의희망곡 김신영입니다\n✔보이는 라디오는\n✔2월 15일 화요일 오후 12시부터\n✔봉춘라디오 채널에서 스트리밍됩니다!\n많관부🙏\n\n2/15(TUE) 12pm(KST),\n#TAEYEON will appear on MBC radio Live streaming!\n\n#태연 #INVU #소녀시대 https://t.co/7eLtDiLpQq"
+	},
+	{
 		"created_at": "Sat Feb 12 02:07:10 +0000 2022",
 		"id": 1492306282719903700,
 		"id_str": "1492319338870841344",
