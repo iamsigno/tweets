@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 07:07:08 +0000 2022",
+		"id": 1493117805415305200,
+		"id_str": "1493119603584684033",
+		"full_text": "잠시 후 5시, YouTube GIRLS’ GENERATION 채널에서 &lt;TAEYEON ‘INVU’ Countdown Live&gt;가 시작됩니다! 태연이 직접 소개하는 정규 3집 ‘INVU’ 이야기, 놓치지 마세요! 💙🧡\n\n🔴 https://t.co/pjOyF8vYle \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/w0uogIvmp1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			213
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						157,
+						160
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						177,
+						190
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						191,
+						196
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						197,
+						213
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pjOyF8vYle",
+					"expanded_url": "https://youtu.be/aCf9-Yj_Cwo",
+					"display_url": "youtu.be/aCf9-Yj_Cwo",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493109984036470800,
+					"id_str": "1493109984036470784",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FLiXnqEVQAAHqBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLiXnqEVQAAHqBS.jpg",
+					"url": "https://t.co/w0uogIvmp1",
+					"display_url": "pic.twitter.com/w0uogIvmp1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1493117805415305220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493109984036470800,
+					"id_str": "1493109984036470784",
+					"indices": [
+						214,
+						237
+					],
+					"media_url": "http://pbs.twimg.com/media/FLiXnqEVQAAHqBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLiXnqEVQAAHqBS.jpg",
+					"url": "https://t.co/w0uogIvmp1",
+					"display_url": "pic.twitter.com/w0uogIvmp1",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1493117805415305220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3725873,
+			"friends_count": 4,
+			"listed_count": 5764,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1097,
+		"favorite_count": 1491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "잠시 후 5시, YouTube GIRLS’ GENERATION 채널에서 &lt;TAEYEON ‘INVU’ Countdown Live&gt;가 시작됩니다! 태연이 직접 소개하는 정규 3집 ‘INVU’ 이야기, 놓치지 마세요! 💙🧡\n\n🔴 https://t.co/pjOyF8vYle \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/w0uogIvmp1"
+	},
+	{
 		"created_at": "Mon Feb 14 06:07:09 +0000 2022",
 		"id": 1493101292860100600,
 		"id_str": "1493104504274833408",
