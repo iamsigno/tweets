@@ -1,6 +1,1041 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 09:07:41 +0000 2022",
+		"id": 1493149670788702200,
+		"id_str": "1493149939505025024",
+		"full_text": "TAEYEON’s 3rd Album “INVU” is out now!\n\nGet your Digital Booklet &amp; check out TAEYEON’s handwritten Q&amp;As and an exclusive photo, only available on iTunes now! \n\n☑️ https://t.co/VudjlthN9z \n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/2tTjF5zCOn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						197,
+						200
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						210,
+						215
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						216,
+						229
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						236,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VudjlthN9z",
+					"expanded_url": "http://smarturl.it/TAEYEON_INVU",
+					"display_url": "smarturl.it/TAEYEON_INVU",
+					"indices": [
+						171,
+						194
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493117737794945000,
+					"id_str": "1493117737794945026",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FLifyTTaUAAfGPo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLifyTTaUAAfGPo.jpg",
+					"url": "https://t.co/2tTjF5zCOn",
+					"display_url": "pic.twitter.com/2tTjF5zCOn",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1493149670788702212/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493117737794945000,
+					"id_str": "1493117737794945026",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FLifyTTaUAAfGPo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLifyTTaUAAfGPo.jpg",
+					"url": "https://t.co/2tTjF5zCOn",
+					"display_url": "pic.twitter.com/2tTjF5zCOn",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1493149670788702212/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1018,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							256,
+							181
+						],
+						"duration_millis": 33700,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493117737794945026/vid/380x270/YNpE_EjAADRGlKCv.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493117737794945026/vid/1018x720/MsqOqAa3jjjxIknN.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1493117737794945026/vid/508x360/XPeQ3wZv7arE0BTi.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1493117737794945026/pl/xy1ENRRu_AnLsk1-.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3726026,
+			"friends_count": 4,
+			"listed_count": 5764,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 556,
+		"favorite_count": 690,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON’s 3rd Album “INVU” is out now!\n\nGet your Digital Booklet &amp; check out TAEYEON’s handwritten Q&amp;As and an exclusive photo, only available on iTunes now! \n\n☑️ https://t.co/VudjlthN9z \n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/2tTjF5zCOn"
+	},
+	{
+		"created_at": "Mon Feb 14 09:07:34 +0000 2022",
+		"id": 1493149502962045000,
+		"id_str": "1493149909696098306",
+		"full_text": "태연 TAEYEON The 3rd Album [INVU]\n\n🎧 Listen now on your favorite platform\nhttps://t.co/rjvSRpSkEt\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						101,
+						109
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						111,
+						116
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rjvSRpSkEt",
+					"expanded_url": "https://smarturl.it/TAEYEON_INVU",
+					"display_url": "smarturl.it/TAEYEON_INVU",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3726026,
+			"friends_count": 4,
+			"listed_count": 5764,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 778,
+		"favorite_count": 919,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "태연 TAEYEON The 3rd Album [INVU]\n\n🎧 Listen now on your favorite platform\nhttps://t.co/rjvSRpSkEt\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Mon Feb 14 09:07:32 +0000 2022",
+		"id": 1493148995644162000,
+		"id_str": "1493149900841832452",
+		"full_text": "태연 TAEYEON The 3rd Album [INVU]\n\n🎧Melon : https://t.co/wvEPJ9G0Xb\n\n🎧genie : https://t.co/d1nHwaXyxe \n\n🎧FLO : https://t.co/p8c1PXkvS5\n\n🎧VIBE : https://t.co/Al5FxNnytZ \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						188,
+						201
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						202,
+						207
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						208,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wvEPJ9G0Xb",
+					"expanded_url": "http://kko.to/CZZKhmNfj",
+					"display_url": "kko.to/CZZKhmNfj",
+					"indices": [
+						42,
+						65
+					]
+				},
+				{
+					"url": "https://t.co/d1nHwaXyxe",
+					"expanded_url": "http://www.genie.co.kr/RFN867",
+					"display_url": "genie.co.kr/RFN867",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/p8c1PXkvS5",
+					"expanded_url": "http://flomuz.io/s/a.BJ4Kr",
+					"display_url": "flomuz.io/s/a.BJ4Kr",
+					"indices": [
+						109,
+						132
+					]
+				},
+				{
+					"url": "https://t.co/Al5FxNnytZ",
+					"expanded_url": "http://naver.me/x3bfmM1O",
+					"display_url": "naver.me/x3bfmM1O",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3726026,
+			"friends_count": 4,
+			"listed_count": 5764,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1098,
+		"favorite_count": 1218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "태연 TAEYEON The 3rd Album [INVU]\n\n🎧Melon : https://t.co/wvEPJ9G0Xb\n\n🎧genie : https://t.co/d1nHwaXyxe \n\n🎧FLO : https://t.co/p8c1PXkvS5\n\n🎧VIBE : https://t.co/Al5FxNnytZ \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Mon Feb 14 09:07:25 +0000 2022",
+		"id": 1493148895874269200,
+		"id_str": "1493149871016194049",
+		"full_text": "テヨン 韓国3rd正規アルバム『INVU』が各デジタル配信サービスで配信スタート＆MVも公開しました🎧\nそしてテヨンからメッセージも到着❣️\nぜひたくさん聴いてください🎵\n#태연 #TAEYEON #テヨン #INVU #TAEYEON_INVU\n\n🎧https://t.co/K0kt1Adxe5\n🎥https://t.co/G8NrE9yfRp https://t.co/oF0FjnVKuM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						90,
+						98
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						110,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K0kt1Adxe5",
+					"expanded_url": "https://lnk.to/tyinvuuj",
+					"display_url": "lnk.to/tyinvuuj",
+					"indices": [
+						126,
+						149
+					]
+				},
+				{
+					"url": "https://t.co/G8NrE9yfRp",
+					"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+					"display_url": "youtu.be/AbZH7XWDW_k",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493148583922913300,
+					"id_str": "1493148583922913280",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493148583922913280/pu/img/qgaJQVjJadA-UM6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493148583922913280/pu/img/qgaJQVjJadA-UM6f.jpg",
+					"url": "https://t.co/oF0FjnVKuM",
+					"display_url": "pic.twitter.com/oF0FjnVKuM",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1493148895874269185/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493148583922913300,
+					"id_str": "1493148583922913280",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493148583922913280/pu/img/qgaJQVjJadA-UM6f.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493148583922913280/pu/img/qgaJQVjJadA-UM6f.jpg",
+					"url": "https://t.co/oF0FjnVKuM",
+					"display_url": "pic.twitter.com/oF0FjnVKuM",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1493148895874269185/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 26526,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493148583922913280/pu/vid/480x270/NXPmoqJH_ll3XJD7.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493148583922913280/pu/pl/zZGPng8n91ufirX5.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493148583922913280/pu/vid/640x360/ZpvXCg6y3yCDkX2Y.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493148583922913280/pu/vid/1280x720/KnZ-jLpCIFEr6Van.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 108962,
+			"friends_count": 0,
+			"listed_count": 498,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 433,
+		"favorite_count": 439,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "テヨン 韓国3rd正規アルバム『INVU』が各デジタル配信サービスで配信スタート＆MVも公開しました🎧\nそしてテヨンからメッセージも到着❣️\nぜひたくさん聴いてください🎵\n#태연 #TAEYEON #テヨン #INVU #TAEYEON_INVU\n\n🎧https://t.co/K0kt1Adxe5\n🎥https://t.co/G8NrE9yfRp https://t.co/oF0FjnVKuM"
+	},
+	{
+		"created_at": "Mon Feb 14 09:07:17 +0000 2022",
+		"id": 1493148162231763000,
+		"id_str": "1493149837000429568",
+		"full_text": "TAEYEON - 정규 3집 ‘INVU’ 발매기념 VIDEO CALL EVENT💖\n\nTAEYEON 정규 3집 ‘INVU’ 발매를 기념하여 VIDEO CALL EVENT가 진행됩니다!🎀\n태연과 함께하는 VIDEO CALL EVENT를 지금 바로 SMTOWN &amp;STORE 온라인에서 만나보세요!👀👀\n\nhttps://t.co/7NTIyBPvrd https://t.co/GeX3PGTYnH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7NTIyBPvrd",
+					"expanded_url": "https://bit.ly/3gJnE1z",
+					"display_url": "bit.ly/3gJnE1z",
+					"indices": [
+						170,
+						193
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493147070664167400,
+					"id_str": "1493147070664167425",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FLi5WYhaUAEhK7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLi5WYhaUAEhK7w.jpg",
+					"url": "https://t.co/GeX3PGTYnH",
+					"display_url": "pic.twitter.com/GeX3PGTYnH",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1493148162231762950/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493147070664167400,
+					"id_str": "1493147070664167425",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FLi5WYhaUAEhK7w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLi5WYhaUAEhK7w.jpg",
+					"url": "https://t.co/GeX3PGTYnH",
+					"display_url": "pic.twitter.com/GeX3PGTYnH",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1493148162231762950/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206596,
+			"friends_count": 0,
+			"listed_count": 350,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 111,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON - 정규 3집 ‘INVU’ 발매기념 VIDEO CALL EVENT💖\n\nTAEYEON 정규 3집 ‘INVU’ 발매를 기념하여 VIDEO CALL EVENT가 진행됩니다!🎀\n태연과 함께하는 VIDEO CALL EVENT를 지금 바로 SMTOWN &amp;STORE 온라인에서 만나보세요!👀👀\n\nhttps://t.co/7NTIyBPvrd https://t.co/GeX3PGTYnH"
+	},
+	{
 		"created_at": "Mon Feb 14 07:07:08 +0000 2022",
 		"id": 1493117805415305200,
 		"id_str": "1493119603584684033",
