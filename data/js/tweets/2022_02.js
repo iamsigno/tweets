@@ -1,6 +1,908 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 10:07:35 +0000 2022",
+		"id": 1493163111607529500,
+		"id_str": "1493165013690982403",
+		"full_text": "소시랑 슈주 찐남매 관계성 환장한다🤦‍♀️🤦‍♀️\n\n오랜만에 보여주는 써니 애교에\n놀릴 생각만 하는 슈퍼주니어 동해, 은혁ㅋㅋ\n\n✅ 목, 금 오후 5시! #동해 #은혁의 #댸니쇼 #네이버NOW\n✅ 알림 설정 🔔 https://t.co/F0LyfUasH3\n✅VIBE에서 다시 보기 👉 https://t.co/3ZQLjbgKn0\n#소녀시대 #써니 #SNSD https://t.co/wD4IHwRCGJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "동해",
+					"indices": [
+						86,
+						89
+					]
+				},
+				{
+					"text": "은혁의",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "댸니쇼",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						182,
+						187
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						188,
+						191
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						192,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F0LyfUasH3",
+					"expanded_url": "https://now.naver.com/show/541",
+					"display_url": "now.naver.com/show/541",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/3ZQLjbgKn0",
+					"expanded_url": "https://bit.ly/3Anrhld",
+					"display_url": "bit.ly/3Anrhld",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492068197788356600,
+					"id_str": "1492068197788356614",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492068197788356614/pu/img/d5Rxg_EuPE6kyoQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492068197788356614/pu/img/d5Rxg_EuPE6kyoQc.jpg",
+					"url": "https://t.co/wD4IHwRCGJ",
+					"display_url": "pic.twitter.com/wD4IHwRCGJ",
+					"expanded_url": "https://twitter.com/kr_now/status/1493163111607529476/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492068197788356600,
+					"id_str": "1492068197788356614",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492068197788356614/pu/img/d5Rxg_EuPE6kyoQc.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492068197788356614/pu/img/d5Rxg_EuPE6kyoQc.jpg",
+					"url": "https://t.co/wD4IHwRCGJ",
+					"display_url": "pic.twitter.com/wD4IHwRCGJ",
+					"expanded_url": "https://twitter.com/kr_now/status/1493163111607529476/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 26659,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1492068197788356614/pu/vid/720x1280/ogjQVXURM7pjxASq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1492068197788356614/pu/pl/s6CmbT-09-cSQ1yX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1492068197788356614/pu/vid/320x568/Bj18a312a7nkDyit.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1492068197788356614/pu/vid/480x852/_o0Qwyd1ldcvRv9T.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179518,
+			"friends_count": 1,
+			"listed_count": 310,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소시랑 슈주 찐남매 관계성 환장한다🤦‍♀️🤦‍♀️\n\n오랜만에 보여주는 써니 애교에\n놀릴 생각만 하는 슈퍼주니어 동해, 은혁ㅋㅋ\n\n✅ 목, 금 오후 5시! #동해 #은혁의 #댸니쇼 #네이버NOW\n✅ 알림 설정 🔔 https://t.co/F0LyfUasH3\n✅VIBE에서 다시 보기 👉 https://t.co/3ZQLjbgKn0\n#소녀시대 #써니 #SNSD https://t.co/wD4IHwRCGJ"
+	},
+	{
+		"created_at": "Mon Feb 14 10:07:28 +0000 2022",
+		"id": 1493153530680512500,
+		"id_str": "1493164983840120837",
+		"full_text": "โวคอลควีน 'แทยอน' คัมแบคพร้อมอัลบั้มเต็มชุดที่ 3 'INVU' ที่ให้ความรู้สึกนุ่มนวลชวนฝัน 💗\n\nดู MV กันเลย 👉 https://t.co/OZo3opghv3\nช้อปอัลบั้มพี่แท 👉 https://t.co/3Awt6zuL0G\n\n#ShopeeTH #태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration\n#TAEYEON_INVU_COMEBACK https://t.co/vVBWTwt8pT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ShopeeTH",
+					"indices": [
+						172,
+						181
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						182,
+						185
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						195,
+						200
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						201,
+						214
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						215,
+						220
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						221,
+						237
+					]
+				},
+				{
+					"text": "TAEYEON_INVU_COMEBACK",
+					"indices": [
+						238,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OZo3opghv3",
+					"expanded_url": "https://shp.ee/qtbswjz",
+					"display_url": "shp.ee/qtbswjz",
+					"indices": [
+						104,
+						127
+					]
+				},
+				{
+					"url": "https://t.co/3Awt6zuL0G",
+					"expanded_url": "https://shp.ee/fxfianz",
+					"display_url": "shp.ee/fxfianz",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493153087644594200,
+					"id_str": "1493153087644594177",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493153087644594177/pu/img/2YegTFOol7qRL_y2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493153087644594177/pu/img/2YegTFOol7qRL_y2.jpg",
+					"url": "https://t.co/vVBWTwt8pT",
+					"display_url": "pic.twitter.com/vVBWTwt8pT",
+					"expanded_url": "https://twitter.com/ShopeeTH/status/1493153530680512515/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493153087644594200,
+					"id_str": "1493153087644594177",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493153087644594177/pu/img/2YegTFOol7qRL_y2.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493153087644594177/pu/img/2YegTFOol7qRL_y2.jpg",
+					"url": "https://t.co/vVBWTwt8pT",
+					"display_url": "pic.twitter.com/vVBWTwt8pT",
+					"expanded_url": "https://twitter.com/ShopeeTH/status/1493153530680512515/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 46046,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493153087644594177/pu/vid/1280x720/O_8WWcFW-634i7eC.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493153087644594177/pu/vid/480x270/wbXKu3vMMbP1VFK5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493153087644594177/pu/pl/k5f6EzNIOPmB_msX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493153087644594177/pu/vid/640x360/VrEuVjJoDJmDmTKQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2989424728,
+			"id_str": "2989424728",
+			"name": "Shopee Thailand",
+			"screen_name": "ShopeeTH",
+			"location": "Thailand",
+			"description": "ของในตะกร้า รอจ่ายเงินอยู่น้าเตง 🧡 #ShopeeTH",
+			"url": "https://t.co/VZjCQ3UaI7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VZjCQ3UaI7",
+							"expanded_url": "https://shp.ee/fvp8bfh",
+							"display_url": "shp.ee/fvp8bfh",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248371,
+			"friends_count": 18,
+			"listed_count": 61,
+			"created_at": "Wed Jan 21 09:29:49 +0000 2015",
+			"favourites_count": 479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18981,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1491664728774438912/EsN_nZBr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491664728774438912/EsN_nZBr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2989424728/1644475561",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 393,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "โวคอลควีน 'แทยอน' คัมแบคพร้อมอัลบั้มเต็มชุดที่ 3 'INVU' ที่ให้ความรู้สึกนุ่มนวลชวนฝัน 💗\n\nดู MV กันเลย 👉 https://t.co/OZo3opghv3\nช้อปอัลบั้มพี่แท 👉 https://t.co/3Awt6zuL0G\n\n#ShopeeTH #태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration\n#TAEYEON_INVU_COMEBACK https://t.co/vVBWTwt8pT"
+	},
+	{
+		"created_at": "Mon Feb 14 10:07:19 +0000 2022",
+		"id": 1493159513687732200,
+		"id_str": "1493164945642504195",
+		"full_text": "TAEYEON 태연 'INVU' MV\n🎬 https://t.co/6rO2lJke3n\n\nรับฟังอัลบั้มเต็มชุดที่ 3 'INVU' ของ TAEYEON ได้ทาง;\n🎧 แพลตฟอร์มต่าง ๆ https://t.co/5en0Jus5Eh\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/cWbuaq7Urm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						144,
+						147
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						178,
+						183
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						184,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6rO2lJke3n",
+					"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+					"display_url": "youtu.be/AbZH7XWDW_k",
+					"indices": [
+						23,
+						46
+					]
+				},
+				{
+					"url": "https://t.co/5en0Jus5Eh",
+					"expanded_url": "https://smarturl.it/TAEYEON_INVU",
+					"display_url": "smarturl.it/TAEYEON_INVU",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493158782536667100,
+					"id_str": "1493158782536667145",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FLjEAGpaUAkuVbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLjEAGpaUAkuVbe.jpg",
+					"url": "https://t.co/cWbuaq7Urm",
+					"display_url": "pic.twitter.com/cWbuaq7Urm",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493159513687732229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493158782536667100,
+					"id_str": "1493158782536667145",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FLjEAGpaUAkuVbe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLjEAGpaUAkuVbe.jpg",
+					"url": "https://t.co/cWbuaq7Urm",
+					"display_url": "pic.twitter.com/cWbuaq7Urm",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493159513687732229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493158829642911700,
+					"id_str": "1493158829642911745",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FLjEC2IakAEXIqk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLjEC2IakAEXIqk.jpg",
+					"url": "https://t.co/cWbuaq7Urm",
+					"display_url": "pic.twitter.com/cWbuaq7Urm",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493159513687732229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493158864740831200,
+					"id_str": "1493158864740831232",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FLjEE44aUAA9AYP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLjEE44aUAA9AYP.jpg",
+					"url": "https://t.co/cWbuaq7Urm",
+					"display_url": "pic.twitter.com/cWbuaq7Urm",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493159513687732229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493158915873570800,
+					"id_str": "1493158915873570817",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FLjEH3XaAAEoS2l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLjEH3XaAAEoS2l.jpg",
+					"url": "https://t.co/cWbuaq7Urm",
+					"display_url": "pic.twitter.com/cWbuaq7Urm",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493159513687732229/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91086,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10406,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "TAEYEON 태연 'INVU' MV\n🎬 https://t.co/6rO2lJke3n\n\nรับฟังอัลบั้มเต็มชุดที่ 3 'INVU' ของ TAEYEON ได้ทาง;\n🎧 แพลตฟอร์มต่าง ๆ https://t.co/5en0Jus5Eh\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/cWbuaq7Urm"
+	},
+	{
 		"created_at": "Mon Feb 14 09:07:41 +0000 2022",
 		"id": 1493149670788702200,
 		"id_str": "1493149939505025024",
