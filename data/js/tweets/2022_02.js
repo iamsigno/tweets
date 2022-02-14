@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 05:07:23 +0000 2022",
+		"id": 1493081074867765200,
+		"id_str": "1493089464046039042",
+		"full_text": "TAEYEON Rilis Full-length Album ke-3 ‘INVU’ Hari Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/TmCj7Z2gRx\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/NnePjUylCq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						183,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						137,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TmCj7Z2gRx",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/981225715827776",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493081022174744600,
+					"id_str": "1493081022174744576",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FLh9R2uaUAATSzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLh9R2uaUAATSzv.jpg",
+					"url": "https://t.co/NnePjUylCq",
+					"display_url": "pic.twitter.com/NnePjUylCq",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1493081074867765249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493081022174744600,
+					"id_str": "1493081022174744576",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FLh9R2uaUAATSzv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLh9R2uaUAATSzv.jpg",
+					"url": "https://t.co/NnePjUylCq",
+					"display_url": "pic.twitter.com/NnePjUylCq",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1493081074867765249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493081022426419200,
+					"id_str": "1493081022426419200",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FLh9R3qakAAmFfJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLh9R3qakAAmFfJ.jpg",
+					"url": "https://t.co/NnePjUylCq",
+					"display_url": "pic.twitter.com/NnePjUylCq",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1493081074867765249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 1948,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 902993,
+			"friends_count": 35,
+			"listed_count": 576,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 338,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Rilis Full-length Album ke-3 ‘INVU’ Hari Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/TmCj7Z2gRx\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/NnePjUylCq"
+	},
+	{
+		"created_at": "Mon Feb 14 05:07:08 +0000 2022",
+		"id": 1493078938746495000,
+		"id_str": "1493089404608552969",
+		"full_text": "[#NEWS] [퍼스널리티] 서현, 나 이제 더 이상 소녀가 아니에요~\n▶ https://t.co/NoLh7cOg0U\n\n#서현 #모럴센스 #SEOHYUN #LoveandLeashes https://t.co/0HJpR4LopV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						67,
+						70
+					]
+				},
+				{
+					"text": "모럴센스",
+					"indices": [
+						71,
+						76
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"text": "LoveandLeashes",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NoLh7cOg0U",
+					"expanded_url": "http://naver.me/GHZ8oHb1",
+					"display_url": "naver.me/GHZ8oHb1",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493078914113368000,
+					"id_str": "1493078914113368064",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FLh7XJlacAAFakY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLh7XJlacAAFakY.jpg",
+					"url": "https://t.co/0HJpR4LopV",
+					"display_url": "pic.twitter.com/0HJpR4LopV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1493078938746494977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493078914113368000,
+					"id_str": "1493078914113368064",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FLh7XJlacAAFakY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLh7XJlacAAFakY.jpg",
+					"url": "https://t.co/0HJpR4LopV",
+					"display_url": "pic.twitter.com/0HJpR4LopV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1493078938746494977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493078914092380200,
+					"id_str": "1493078914092380162",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FLh7XJgaMAIYUTY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLh7XJgaMAIYUTY.jpg",
+					"url": "https://t.co/0HJpR4LopV",
+					"display_url": "pic.twitter.com/0HJpR4LopV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1493078938746494977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57330,
+			"friends_count": 13,
+			"listed_count": 268,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 248,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] [퍼스널리티] 서현, 나 이제 더 이상 소녀가 아니에요~\n▶ https://t.co/NoLh7cOg0U\n\n#서현 #모럴센스 #SEOHYUN #LoveandLeashes https://t.co/0HJpR4LopV"
+	},
+	{
 		"created_at": "Mon Feb 14 03:07:17 +0000 2022",
 		"id": 1493047341133222000,
 		"id_str": "1493059239773982726",
