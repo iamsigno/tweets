@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 02:07:21 +0000 2022",
+		"id": 1493163109682499600,
+		"id_str": "1493406544809111559",
+		"full_text": "INVU로 돌아온 태연의 #스포티파이퀴즈 \n\n여러분의 최애 파트를 \n스포티파이 가사 기능으로 공유해 주세요🎶\n\n[지금 바로 태연의 INVU 들으러]\nhttps://t.co/kdZ4fxBSag\n\n퀴즈 정답은 5일 뒤 태연이 직접 공개합니다!\n\n@GirlsGeneration\n#태연 #INVU https://t.co/K0wtSJt1EI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스포티파이퀴즈",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						152,
+						155
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kdZ4fxBSag",
+					"expanded_url": "http://spoti.fi/3LwXjBR",
+					"display_url": "spoti.fi/3LwXjBR",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493152449355739100,
+					"id_str": "1493152449355739137",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493152449355739137/pu/img/sJNyuwAj1c0ZGnhT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493152449355739137/pu/img/sJNyuwAj1c0ZGnhT.jpg",
+					"url": "https://t.co/K0wtSJt1EI",
+					"display_url": "pic.twitter.com/K0wtSJt1EI",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1493163109682499586/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493152449355739100,
+					"id_str": "1493152449355739137",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493152449355739137/pu/img/sJNyuwAj1c0ZGnhT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493152449355739137/pu/img/sJNyuwAj1c0ZGnhT.jpg",
+					"url": "https://t.co/K0wtSJt1EI",
+					"display_url": "pic.twitter.com/K0wtSJt1EI",
+					"expanded_url": "https://twitter.com/SpotifyKR/status/1493163109682499586/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 48917,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493152449355739137/pu/vid/540x540/qWXw6Dvb4iQR1z7J.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493152449355739137/pu/vid/320x320/S6tM98DNSAn39_80.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493152449355739137/pu/pl/cPEj6sPkNdrfK8k6.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493152449355739137/pu/vid/720x720/gly60qoYjXOUZrlf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1207908245118963700,
+			"id_str": "1207908245118963712",
+			"name": "Spotify Korea",
+			"screen_name": "SpotifyKR",
+			"location": "",
+			"description": "나보다 날 더 잘 아는 스포티파이",
+			"url": "https://t.co/FQrT8uLzS4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FQrT8uLzS4",
+							"expanded_url": "http://spoti.fi/3HChrQm",
+							"display_url": "spoti.fi/3HChrQm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81768,
+			"friends_count": 0,
+			"listed_count": 63,
+			"created_at": "Fri Dec 20 06:19:10 +0000 2019",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1353870296768536576/NhMYuOqa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1207908245118963712/1641529229",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 743,
+		"favorite_count": 1418,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "INVU로 돌아온 태연의 #스포티파이퀴즈 \n\n여러분의 최애 파트를 \n스포티파이 가사 기능으로 공유해 주세요🎶\n\n[지금 바로 태연의 INVU 들으러]\nhttps://t.co/kdZ4fxBSag\n\n퀴즈 정답은 5일 뒤 태연이 직접 공개합니다!\n\n@GirlsGeneration\n#태연 #INVU https://t.co/K0wtSJt1EI"
+	},
+	{
+		"created_at": "Tue Feb 15 02:07:17 +0000 2022",
+		"id": 1493268296954568700,
+		"id_str": "1493406531697709056",
+		"full_text": ".@GirlsGeneration's Taeyeon's has released #INVU - The 3rd Album! \n\nSo naturally, we are streaming 100% Taeyeon right now 😍 https://t.co/EV21u9xBYh\n\n #TAEYEON #TAEYEON_INVU https://t.co/7QqYp1MVak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						43,
+						48
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						150,
+						158
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						159,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EV21u9xBYh",
+					"expanded_url": "https://dzr.lnk.to/100TAEYEONTW",
+					"display_url": "dzr.lnk.to/100TAEYEONTW",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493222531897176000,
+					"id_str": "1493222531897176065",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"url": "https://t.co/7QqYp1MVak",
+					"display_url": "pic.twitter.com/7QqYp1MVak",
+					"expanded_url": "https://twitter.com/Deezer/status/1493268296954568705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493222531897176000,
+					"id_str": "1493222531897176065",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLj9-zhXMAEw31G.jpg",
+					"url": "https://t.co/7QqYp1MVak",
+					"display_url": "pic.twitter.com/7QqYp1MVak",
+					"expanded_url": "https://twitter.com/Deezer/status/1493268296954568705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375861459,
+			"id_str": "375861459",
+			"name": "Deezer",
+			"screen_name": "Deezer",
+			"location": "",
+			"description": "You bring the passion. We bring the music. 🎶 Need help? Head to @DeezerHelp. Deezer is also available in HiFi.\nJust press play.",
+			"url": "https://t.co/RmIhu620xB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RmIhu620xB",
+							"expanded_url": "http://www.deezer.com",
+							"display_url": "deezer.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 241690,
+			"friends_count": 929,
+			"listed_count": 1059,
+			"created_at": "Sun Sep 18 21:30:06 +0000 2011",
+			"favourites_count": 13613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263469903950106626/zCK-Zj1Q_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375861459/1609867928",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 329,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@GirlsGeneration's Taeyeon's has released #INVU - The 3rd Album! \n\nSo naturally, we are streaming 100% Taeyeon right now 😍 https://t.co/EV21u9xBYh\n\n #TAEYEON #TAEYEON_INVU https://t.co/7QqYp1MVak"
+	},
+	{
 		"created_at": "Tue Feb 15 01:07:09 +0000 2022",
 		"id": 1493378807255875600,
 		"id_str": "1493391395847118849",
