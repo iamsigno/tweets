@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 04:07:14 +0000 2022",
+		"id": 1493435416036315100,
+		"id_str": "1493436717654757381",
+		"full_text": "TAEYEON Dominasi Tangga Lagu dengan Full-length Album ke-3 ‘INVU’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/4amcjbA7K3\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/42pMAMkURJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						167,
+						175
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						182,
+						195
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						196,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						150,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4amcjbA7K3",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/981801575770190",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493435363808854000,
+					"id_str": "1493435363808854017",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FLm_jQLVQAEULNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLm_jQLVQAEULNw.jpg",
+					"url": "https://t.co/42pMAMkURJ",
+					"display_url": "pic.twitter.com/42pMAMkURJ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1493435416036315137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493435363808854000,
+					"id_str": "1493435363808854017",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FLm_jQLVQAEULNw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLm_jQLVQAEULNw.jpg",
+					"url": "https://t.co/42pMAMkURJ",
+					"display_url": "pic.twitter.com/42pMAMkURJ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1493435416036315137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493435363838234600,
+					"id_str": "1493435363838234624",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FLm_jQSVkAAttVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLm_jQSVkAAttVj.jpg",
+					"url": "https://t.co/42pMAMkURJ",
+					"display_url": "pic.twitter.com/42pMAMkURJ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1493435416036315137/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 904605,
+			"friends_count": 35,
+			"listed_count": 575,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 155,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Dominasi Tangga Lagu dengan Full-length Album ke-3 ‘INVU’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/4amcjbA7K3\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/42pMAMkURJ"
+	},
+	{
 		"created_at": "Tue Feb 15 03:07:16 +0000 2022",
 		"id": 1493410919417667600,
 		"id_str": "1493421623445184513",
