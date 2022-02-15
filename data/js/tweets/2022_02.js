@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 08:07:09 +0000 2022",
+		"id": 1493495731306786800,
+		"id_str": "1493497091842363392",
+		"full_text": "No, you don’t get it…we’re OBSESSED with TAEYEON’s new album, “INVU” 🔥 \n\nhttps://t.co/OMnkbmCqIG\n\n#TAEYEON #INVU #TAEYEON_INVU @GirlsGeneration https://t.co/eFtIz9a5vq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						113,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						127,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OMnkbmCqIG",
+					"expanded_url": "https://spoti.fi/INVU",
+					"display_url": "spoti.fi/INVU",
+					"indices": [
+						73,
+						96
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493495647328424000,
+					"id_str": "1493495647328423936",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"url": "https://t.co/eFtIz9a5vq",
+					"display_url": "pic.twitter.com/eFtIz9a5vq",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1493495731306786816/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493495647328424000,
+					"id_str": "1493495647328423936",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493495647328423936/pu/img/ZpK554jjUT_JZFNg.jpg",
+					"url": "https://t.co/eFtIz9a5vq",
+					"display_url": "pic.twitter.com/eFtIz9a5vq",
+					"expanded_url": "https://twitter.com/SpotifyKDaebak/status/1493495731306786816/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 47000,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/vid/320x320/L4cFH8fFQbqBPXRJ.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/vid/720x720/8Xo-fPji1BqRnMtu.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/pl/YPXYNyI2zu8JSCad.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493495647328423936/pu/vid/540x540/Hv8hkTpmeOPbecdL.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKDaebak",
+			"location": "",
+			"description": "Do you eat, sleep, and breathe K-Pop like we do? For all the news, music, entertainment and more, follow our official Spotify K-pop profile right now.",
+			"url": "https://t.co/TSbcWtrINY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TSbcWtrINY",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370837,
+			"friends_count": 229,
+			"listed_count": 372,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 3537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1452877966795370497/RJLDN9Fo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452877966795370497/RJLDN9Fo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1591077004",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No, you don’t get it…we’re OBSESSED with TAEYEON’s new album, “INVU” 🔥 \n\nhttps://t.co/OMnkbmCqIG\n\n#TAEYEON #INVU #TAEYEON_INVU @GirlsGeneration https://t.co/eFtIz9a5vq"
+	},
+	{
 		"created_at": "Tue Feb 15 06:07:18 +0000 2022",
 		"id": 1493465422716608500,
 		"id_str": "1493466931801776132",
