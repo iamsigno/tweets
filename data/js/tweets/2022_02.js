@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 06:07:18 +0000 2022",
+		"id": 1493465422716608500,
+		"id_str": "1493466931801776132",
+		"full_text": "TAEYEON - INVU : THE EXHIBIT MD🎀\n\nTAEYEON의 정규 3집 'INVU' 발매기념 전시회 INVU : THE EXHIBIT 재밌게 즐기셨나요~?\nINVU : THE EXHIBIT의 향기로운 2차 MD 라인업이 공개되었습니다!🌷 https://t.co/pNVdYMyhf3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1493461604343885800,
+					"id_str": "1493461604343885824",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FLnXapyaMAAY9_q.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLnXapyaMAAY9_q.png",
+					"url": "https://t.co/pNVdYMyhf3",
+					"display_url": "pic.twitter.com/pNVdYMyhf3",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1493465422716608513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493461604343885800,
+					"id_str": "1493461604343885824",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FLnXapyaMAAY9_q.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLnXapyaMAAY9_q.png",
+					"url": "https://t.co/pNVdYMyhf3",
+					"display_url": "pic.twitter.com/pNVdYMyhf3",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1493465422716608513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493461604335501300,
+					"id_str": "1493461604335501315",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FLnXapwaQAMO4DK.png",
+					"media_url_https": "https://pbs.twimg.com/media/FLnXapwaQAMO4DK.png",
+					"url": "https://t.co/pNVdYMyhf3",
+					"display_url": "pic.twitter.com/pNVdYMyhf3",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1493465422716608513/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 700,
+							"h": 700,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206713,
+			"friends_count": 0,
+			"listed_count": 345,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "TAEYEON - INVU : THE EXHIBIT MD🎀\n\nTAEYEON의 정규 3집 'INVU' 발매기념 전시회 INVU : THE EXHIBIT 재밌게 즐기셨나요~?\nINVU : THE EXHIBIT의 향기로운 2차 MD 라인업이 공개되었습니다!🌷 https://t.co/pNVdYMyhf3"
+	},
+	{
+		"created_at": "Tue Feb 15 06:07:12 +0000 2022",
+		"id": 1493465093970927600,
+		"id_str": "1493466906103365632",
+		"full_text": "TAEYEON ‘INVU : THE EXHIBIT’\nOFFICIAL MD 2nd LINE UP ONLINE SALES NOTICE\n\n▶ Sales Day\n2022. 02. 15 (TUE) 15:00 ~ 2022. 02. 21 (MON) 23:59 [KST]\n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/JRDkAYBXgU https://t.co/iWscfsuV43",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRDkAYBXgU",
+					"expanded_url": "http://smtownandstore.com/",
+					"display_url": "smtownandstore.com",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492049499912507400,
+					"id_str": "1492049499912507393",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTTHW2VkAEKnJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTTHW2VkAEKnJ-.jpg",
+					"url": "https://t.co/iWscfsuV43",
+					"display_url": "pic.twitter.com/iWscfsuV43",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1493465093970927621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 602,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 353,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492049499912507400,
+					"id_str": "1492049499912507393",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FLTTHW2VkAEKnJ-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLTTHW2VkAEKnJ-.jpg",
+					"url": "https://t.co/iWscfsuV43",
+					"display_url": "pic.twitter.com/iWscfsuV43",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1493465093970927621/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 200,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 602,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 353,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3727561,
+			"friends_count": 4,
+			"listed_count": 5765,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 702,
+		"favorite_count": 1078,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON ‘INVU : THE EXHIBIT’\nOFFICIAL MD 2nd LINE UP ONLINE SALES NOTICE\n\n▶ Sales Day\n2022. 02. 15 (TUE) 15:00 ~ 2022. 02. 21 (MON) 23:59 [KST]\n\n▶ Online Store \nSMTOWN &amp;STORE : https://t.co/JRDkAYBXgU https://t.co/iWscfsuV43"
+	},
+	{
 		"created_at": "Tue Feb 15 04:07:14 +0000 2022",
 		"id": 1493435416036315100,
 		"id_str": "1493436717654757381",
