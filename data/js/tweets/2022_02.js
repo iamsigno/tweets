@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 12:07:18 +0000 2022",
+		"id": 1493554380976525300,
+		"id_str": "1493557527476330498",
+		"full_text": "โวคอล ควีนที่ ‘ไม่มีใครแทนได้’ #TAEYEON ครองอันดับ 1 บนชาร์ตในเกาหลีและต่างประเทศ ด้วยอัลบั้มเต็มชุดที่ 3 ‘#INVU’!\n\n🏹 https://t.co/UlsEYxljbZ\n\nMV 🎬 https://t.co/DxNsvWr9YU\nJOOX 🎧 https://t.co/XdNHDV0bHD\nอื่น ๆ 🎧 https://t.co/9Km6eXVHpV\nLINE MELODY 🎵 https://t.co/WbQZD6yCpq https://t.co/8dzAkUj1ew",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						31,
+						39
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UlsEYxljbZ",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/4901429743238268",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/DxNsvWr9YU",
+					"expanded_url": "http://youtu.be/AbZH7XWDW_k",
+					"display_url": "youtu.be/AbZH7XWDW_k",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/XdNHDV0bHD",
+					"expanded_url": "http://open.joox.com/s/rd?k=ZlnBg",
+					"display_url": "open.joox.com/s/rd?k=ZlnBg",
+					"indices": [
+						179,
+						202
+					]
+				},
+				{
+					"url": "https://t.co/9Km6eXVHpV",
+					"expanded_url": "http://smarturl.it/TAEYEON_INVU",
+					"display_url": "smarturl.it/TAEYEON_INVU",
+					"indices": [
+						212,
+						235
+					]
+				},
+				{
+					"url": "https://t.co/WbQZD6yCpq",
+					"expanded_url": "http://lin.ee/swJujPB/ddkh/INVU",
+					"display_url": "lin.ee/swJujPB/ddkh/I…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493553309856120800,
+					"id_str": "1493553309856120834",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"url": "https://t.co/8dzAkUj1ew",
+					"display_url": "pic.twitter.com/8dzAkUj1ew",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493554380976525313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493553309856120800,
+					"id_str": "1493553309856120834",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoq0ncVQAIY1oF.jpg",
+					"url": "https://t.co/8dzAkUj1ew",
+					"display_url": "pic.twitter.com/8dzAkUj1ew",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493554380976525313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1493553310195863600,
+					"id_str": "1493553310195863556",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FLoq0otVUAQENw2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLoq0otVUAQENw2.jpg",
+					"url": "https://t.co/8dzAkUj1ew",
+					"display_url": "pic.twitter.com/8dzAkUj1ew",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1493554380976525313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1500,
+							"h": 1001,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91211,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "โวคอล ควีนที่ ‘ไม่มีใครแทนได้’ #TAEYEON ครองอันดับ 1 บนชาร์ตในเกาหลีและต่างประเทศ ด้วยอัลบั้มเต็มชุดที่ 3 ‘#INVU’!\n\n🏹 https://t.co/UlsEYxljbZ\n\nMV 🎬 https://t.co/DxNsvWr9YU\nJOOX 🎧 https://t.co/XdNHDV0bHD\nอื่น ๆ 🎧 https://t.co/9Km6eXVHpV\nLINE MELODY 🎵 https://t.co/WbQZD6yCpq https://t.co/8dzAkUj1ew"
+	},
+	{
 		"created_at": "Tue Feb 15 11:07:19 +0000 2022",
 		"id": 1493541060962062300,
 		"id_str": "1493542432931201027",
