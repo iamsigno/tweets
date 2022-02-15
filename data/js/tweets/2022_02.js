@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 09:07:09 +0000 2022",
+		"id": 1493350381614682000,
+		"id_str": "1493512191114461186",
+		"full_text": "Petition to change Valentine’s Day to #INVU album release day?\n\n👑 Listen to #TAEYEON's new album now on Amazon Music: https://t.co/yIdhK0mXm5 https://t.co/dAGP5W3r2u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yIdhK0mXm5",
+					"expanded_url": "https://amzn.to/3rPgLlO",
+					"display_url": "amzn.to/3rPgLlO",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493350379664380000,
+					"id_str": "1493350379664379908",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FLlyQhkXEAQ5qco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLlyQhkXEAQ5qco.jpg",
+					"url": "https://t.co/dAGP5W3r2u",
+					"display_url": "pic.twitter.com/dAGP5W3r2u",
+					"expanded_url": "https://twitter.com/amazonmusic/status/1493350381614682114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493350379664380000,
+					"id_str": "1493350379664379908",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FLlyQhkXEAQ5qco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLlyQhkXEAQ5qco.jpg",
+					"url": "https://t.co/dAGP5W3r2u",
+					"display_url": "pic.twitter.com/dAGP5W3r2u",
+					"expanded_url": "https://twitter.com/amazonmusic/status/1493350381614682114/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14740219,
+			"id_str": "14740219",
+			"name": "Amazon Music",
+			"screen_name": "amazonmusic",
+			"location": "Seattle",
+			"description": "Unlimited access to 90 million songs | Now in HD + Ultra HD at no extra cost | Podcasts and Livestreams",
+			"url": "https://t.co/JUg49hiHEL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JUg49hiHEL",
+							"expanded_url": "https://amzn.to/3iUzYhA",
+							"display_url": "amzn.to/3iUzYhA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1979646,
+			"friends_count": 3668,
+			"listed_count": 10552,
+			"created_at": "Mon May 12 04:02:08 +0000 2008",
+			"favourites_count": 43821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476302208987660289/Q4kwsl1r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476302208987660289/Q4kwsl1r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14740219/1641931820",
+			"profile_link_color": "669933",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 588,
+		"favorite_count": 1563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Petition to change Valentine’s Day to #INVU album release day?\n\n👑 Listen to #TAEYEON's new album now on Amazon Music: https://t.co/yIdhK0mXm5 https://t.co/dAGP5W3r2u"
+	},
+	{
 		"created_at": "Tue Feb 15 08:07:09 +0000 2022",
 		"id": 1493495731306786800,
 		"id_str": "1493497091842363392",
