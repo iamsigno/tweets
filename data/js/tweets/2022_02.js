@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 03:07:09 +0000 2022",
+		"id": 1493673970729693200,
+		"id_str": "1493783981522837504",
+		"full_text": "After nearly fifteen years in the industry, #Taeyeon is still evolving on her mystical third solo album, 'INVU.'\nhttps://t.co/ojNQzepavr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Taeyeon",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ojNQzepavr",
+					"expanded_url": "https://www.nylon.com/entertainment/taeyeon-invu-album-girls-generation-got-the-beat?utm_campaign=nylon&utm_content=1644954600&utm_medium=owned&utm_source=twitter",
+					"display_url": "nylon.com/entertainment/…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14222518,
+			"id_str": "14222518",
+			"name": "NYLON",
+			"screen_name": "NylonMag",
+			"location": "New York, USA",
+			"description": "",
+			"url": "https://t.co/y3ZV25Sa16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/y3ZV25Sa16",
+							"expanded_url": "http://nylon.com",
+							"display_url": "nylon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1107243,
+			"friends_count": 1350,
+			"listed_count": 10259,
+			"created_at": "Wed Mar 26 03:18:38 +0000 2008",
+			"favourites_count": 3787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 88808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252597094247849984/oxnLQnt4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14222518/1638367581",
+			"profile_link_color": "EB0C8D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "8FF9FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1006,
+		"favorite_count": 2400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After nearly fifteen years in the industry, #Taeyeon is still evolving on her mystical third solo album, 'INVU.'\nhttps://t.co/ojNQzepavr"
+	},
+	{
 		"created_at": "Wed Feb 16 02:07:16 +0000 2022",
 		"id": 1493767083821179000,
 		"id_str": "1493768911707381765",
