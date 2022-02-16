@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 10:07:08 +0000 2022",
+		"id": 1493887884906033200,
+		"id_str": "1493889677052596230",
+		"full_text": "MBTI INVU인 사람들 봉춘으로 모여라🏹\n오늘따라 키범 같은 탱구?!\n탱킹쇼부터 과몰입 완! 밸런스게임까지 모아왔탱💜\n\nCheck below link to watch it!\n▶️https://t.co/fp0hDy8fFK\n\n#태연 #TAEYEON #INVU #소녀시대 #GirlsGeneration\n#정오의희망곡 #봉춘라디오 #KPOP https://t.co/Q0HGbln780",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						130,
+						138
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						151,
+						167
+					]
+				},
+				{
+					"text": "정오의희망곡",
+					"indices": [
+						168,
+						175
+					]
+				},
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						176,
+						182
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						183,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fp0hDy8fFK",
+					"expanded_url": "https://youtu.be/j4uY8P6hX-E",
+					"display_url": "youtu.be/j4uY8P6hX-E",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493883299630284800,
+					"id_str": "1493883299630284800",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493883299630284800/pu/img/iSTW9UOLOJk9d6ql.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493883299630284800/pu/img/iSTW9UOLOJk9d6ql.jpg",
+					"url": "https://t.co/Q0HGbln780",
+					"display_url": "pic.twitter.com/Q0HGbln780",
+					"expanded_url": "https://twitter.com/radiombc/status/1493887884906033155/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493883299630284800,
+					"id_str": "1493883299630284800",
+					"indices": [
+						189,
+						212
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493883299630284800/pu/img/iSTW9UOLOJk9d6ql.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493883299630284800/pu/img/iSTW9UOLOJk9d6ql.jpg",
+					"url": "https://t.co/Q0HGbln780",
+					"display_url": "pic.twitter.com/Q0HGbln780",
+					"expanded_url": "https://twitter.com/radiombc/status/1493887884906033155/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55701,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493883299630284800/pu/vid/480x270/k9a2nfploQWZA2oW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493883299630284800/pu/pl/Z3pOZNTLSpz1h8GM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493883299630284800/pu/vid/640x360/kPfgi8iQbaYVoExn.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493883299630284800/pu/vid/1280x720/eCQ50pFyrj0TNf6e.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75896,
+			"friends_count": 44,
+			"listed_count": 597,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "MBTI INVU인 사람들 봉춘으로 모여라🏹\n오늘따라 키범 같은 탱구?!\n탱킹쇼부터 과몰입 완! 밸런스게임까지 모아왔탱💜\n\nCheck below link to watch it!\n▶️https://t.co/fp0hDy8fFK\n\n#태연 #TAEYEON #INVU #소녀시대 #GirlsGeneration\n#정오의희망곡 #봉춘라디오 #KPOP https://t.co/Q0HGbln780"
+	},
+	{
 		"created_at": "Wed Feb 16 06:07:18 +0000 2022",
 		"id": 1493827674430906400,
 		"id_str": "1493829318539100172",
