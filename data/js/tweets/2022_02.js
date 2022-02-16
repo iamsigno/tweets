@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 02:07:16 +0000 2022",
+		"id": 1493767083821179000,
+		"id_str": "1493768911707381765",
+		"full_text": "[#MCOUNTDOWN] Ep.740 Line up✨\n\n▶ Watch Live on https://t.co/e48DcATvTD (THU, 6PM KST)\n\n#TAEYEON #Apink #WONPIL #WONHO #VIVIZ #RAVI and more!! https://t.co/loHUi2m9PG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "Apink",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "WONPIL",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"text": "WONHO",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						125,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e48DcATvTD",
+					"expanded_url": "http://bit.ly/MCD_Mwave",
+					"display_url": "bit.ly/MCD_Mwave",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1493752109489324000,
+					"id_str": "1493752109489324034",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493752109489324034/pu/img/WE45Dbn8o52ZQWsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493752109489324034/pu/img/WE45Dbn8o52ZQWsW.jpg",
+					"url": "https://t.co/loHUi2m9PG",
+					"display_url": "pic.twitter.com/loHUi2m9PG",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1493767083821178884/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1493752109489324000,
+					"id_str": "1493752109489324034",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1493752109489324034/pu/img/WE45Dbn8o52ZQWsW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1493752109489324034/pu/img/WE45Dbn8o52ZQWsW.jpg",
+					"url": "https://t.co/loHUi2m9PG",
+					"display_url": "pic.twitter.com/loHUi2m9PG",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1493767083821178884/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 47067,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493752109489324034/pu/vid/640x360/5iOi4bzIBmXOvUBJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1493752109489324034/pu/pl/s4p3NEC1ECX0Vhsx.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493752109489324034/pu/vid/1280x720/ZB-QpoYEElJj5H_9.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1493752109489324034/pu/vid/480x270/w8vN1Hj4LLPOAhwt.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1928256,
+			"friends_count": 326,
+			"listed_count": 1972,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1629766349",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN] Ep.740 Line up✨\n\n▶ Watch Live on https://t.co/e48DcATvTD (THU, 6PM KST)\n\n#TAEYEON #Apink #WONPIL #WONHO #VIVIZ #RAVI and more!! https://t.co/loHUi2m9PG"
+	},
+	{
+		"created_at": "Wed Feb 16 02:07:13 +0000 2022",
+		"id": 1493757884772929500,
+		"id_str": "1493768902685437953",
+		"full_text": "TAEYEON’s ‘INVU’ performance video of Youtube ‘STUDIO CHOOM’ to be released on 2/18! Heralded a sensuous performance with lyrics-oriented choreography!\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						153,
+						156
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						173,
+						186
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						187,
+						192
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						193,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1493757882751324200,
+		"in_reply_to_status_id_str": "1493757882751324161",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3728260,
+			"friends_count": 4,
+			"listed_count": 5762,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 626,
+		"favorite_count": 1607,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "TAEYEON’s ‘INVU’ performance video of Youtube ‘STUDIO CHOOM’ to be released on 2/18! Heralded a sensuous performance with lyrics-oriented choreography!\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Tue Feb 15 12:07:18 +0000 2022",
 		"id": 1493554380976525300,
 		"id_str": "1493557527476330498",
