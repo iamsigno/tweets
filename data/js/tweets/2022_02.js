@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 12:07:08 +0000 2022",
+		"id": 1494271521140797400,
+		"id_str": "1494282264154456071",
+		"full_text": "케이팝 역사상 전무후무 유일무이할 그 이름 🤍킹태연🤍 모두가 ENVY하는 태연의 INVU 컴백 무대로 여러분을 초대합니다😘 #태연 #INVU #TAEYEON @GirlsGeneration #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/Xdc1aENhng\nVertical Ver. ▶ https://t.co/PuLMV61ESR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						117,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						88,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xdc1aENhng",
+					"expanded_url": "https://youtu.be/4YDGr-k2GXc",
+					"display_url": "youtu.be/4YDGr-k2GXc",
+					"indices": [
+						143,
+						166
+					]
+				},
+				{
+					"url": "https://t.co/PuLMV61ESR",
+					"expanded_url": "https://youtu.be/38F_Fb-IwQs",
+					"display_url": "youtu.be/38F_Fb-IwQs",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1228751,
+			"friends_count": 443,
+			"listed_count": 1509,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19738,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 957,
+		"favorite_count": 1044,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "케이팝 역사상 전무후무 유일무이할 그 이름 🤍킹태연🤍 모두가 ENVY하는 태연의 INVU 컴백 무대로 여러분을 초대합니다😘 #태연 #INVU #TAEYEON @GirlsGeneration #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/Xdc1aENhng\nVertical Ver. ▶ https://t.co/PuLMV61ESR"
+	},
+	{
+		"created_at": "Thu Feb 17 11:45:00 +0000 2022",
+		"id": 1494275210815500300,
+		"id_str": "1494276691954384897",
+		"full_text": "[MPD직캠] 태연 직캠 8K 'INVU' (Horizontal Ver.) (TAEYEON FanCam)\n\n🏹 https://t.co/4mB7UxkvrT \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						88,
+						91
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						122,
+						127
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						128,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4mB7UxkvrT",
+					"expanded_url": "https://youtu.be/4YDGr-k2GXc",
+					"display_url": "youtu.be/4YDGr-k2GXc",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3729490,
+			"friends_count": 4,
+			"listed_count": 5765,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1696,
+		"favorite_count": 2206,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[MPD직캠] 태연 직캠 8K 'INVU' (Horizontal Ver.) (TAEYEON FanCam)\n\n🏹 https://t.co/4mB7UxkvrT \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Thu Feb 17 11:07:08 +0000 2022",
 		"id": 1494254269809442800,
 		"id_str": "1494267164391579654",
