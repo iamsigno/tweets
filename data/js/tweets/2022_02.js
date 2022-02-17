@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 03:07:08 +0000 2022",
+		"id": 1494138027073224700,
+		"id_str": "1494146368713244674",
+		"full_text": "[#NEWS] [기자의 재발견] 서현, '모럴센스'로 '아이돌' 얼굴 지우다\n▶ https://t.co/FphbyQXRm5\n\n#서현 #모럴센스 #SEOHYUN #LoveandLeashes https://t.co/1tME0E93PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "모럴센스",
+					"indices": [
+						74,
+						79
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"text": "LoveandLeashes",
+					"indices": [
+						89,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FphbyQXRm5",
+					"expanded_url": "http://naver.me/GrMp6n8V",
+					"display_url": "naver.me/GrMp6n8V",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494137974963191800,
+					"id_str": "1494137974963191811",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw-kmsaQAMfTyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw-kmsaQAMfTyF.jpg",
+					"url": "https://t.co/1tME0E93PM",
+					"display_url": "pic.twitter.com/1tME0E93PM",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1494138027073224708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1383,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494137974963191800,
+					"id_str": "1494137974963191811",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw-kmsaQAMfTyF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw-kmsaQAMfTyF.jpg",
+					"url": "https://t.co/1tME0E93PM",
+					"display_url": "pic.twitter.com/1tME0E93PM",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1494138027073224708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1383,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494137974950629400,
+					"id_str": "1494137974950629377",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FLw-kmpakAEXfjo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLw-kmpakAEXfjo.jpg",
+					"url": "https://t.co/1tME0E93PM",
+					"display_url": "pic.twitter.com/1tME0E93PM",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1494138027073224708/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 810,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1383,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 459,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57428,
+			"friends_count": 13,
+			"listed_count": 269,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 149,
+		"favorite_count": 194,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] [기자의 재발견] 서현, '모럴센스'로 '아이돌' 얼굴 지우다\n▶ https://t.co/FphbyQXRm5\n\n#서현 #모럴센스 #SEOHYUN #LoveandLeashes https://t.co/1tME0E93PM"
+	},
+	{
 		"created_at": "Thu Feb 17 02:07:15 +0000 2022",
 		"id": 1494121621287993300,
 		"id_str": "1494131295873638403",
