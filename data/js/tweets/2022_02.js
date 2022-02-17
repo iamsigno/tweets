@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 04:07:08 +0000 2022",
+		"id": 1494156911100711000,
+		"id_str": "1494161468463501312",
+		"full_text": "TAEYEON Tampilkan Lagu ‘INVU’ di Program Musik\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/UQTYpMSGuD\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/3j4uqlTor5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						163,
+						176
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						177,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UQTYpMSGuD",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/982955335654814",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494156876367667200,
+					"id_str": "1494156876367667202",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FLxPwz6aIAIaR9m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLxPwz6aIAIaR9m.jpg",
+					"url": "https://t.co/3j4uqlTor5",
+					"display_url": "pic.twitter.com/3j4uqlTor5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1494156911100710914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494156876367667200,
+					"id_str": "1494156876367667202",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FLxPwz6aIAIaR9m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLxPwz6aIAIaR9m.jpg",
+					"url": "https://t.co/3j4uqlTor5",
+					"display_url": "pic.twitter.com/3j4uqlTor5",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1494156911100710914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1367,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 907217,
+			"friends_count": 35,
+			"listed_count": 576,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 224,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "TAEYEON Tampilkan Lagu ‘INVU’ di Program Musik\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/UQTYpMSGuD\n\n@GirlsGeneration\n#TAEYEON #INVU #TAEYEON_INVU #GirlsGeneration https://t.co/3j4uqlTor5"
+	},
+	{
 		"created_at": "Thu Feb 17 03:07:08 +0000 2022",
 		"id": 1494138027073224700,
 		"id_str": "1494146368713244674",
