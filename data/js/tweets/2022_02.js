@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 17 08:07:12 +0000 2022",
+		"id": 1494138026003349500,
+		"id_str": "1494221879904722946",
+		"full_text": "💙#テヨン(#少女時代)🦋\n￣￣￣￣￣￣￣￣￣￣￣￣\n待望の3rdフルアルバム\n『#INVU』が絶賛配信中！💋💄\n\nタイトル曲をはじめ、\n\"愛\"に対する複雑な感情を\n#TAEYEON ならではの多彩な雰囲気で\n表現した全13曲を収録！🎧👇\nhttps://t.co/IcCJ6RBYsj\n\n#TAEYEON_INVU\n@GirlsGeneration @gg_official_jp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "テヨン",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						145,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						176,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IcCJ6RBYsj",
+					"expanded_url": "https://lin.ee/k4wIWkN/lnms",
+					"display_url": "lin.ee/k4wIWkN/lnms",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3015879513,
+			"id_str": "3015879513",
+			"name": "LINE MUSIC",
+			"screen_name": "LINEMUSIC_JP",
+			"location": "",
+			"description": "LINEの音楽ストリーミングサービス #LINEMUSIC \n好きな音楽が聴き放題🎧⚡️\nまずは無料体験！\n\nお問合せ👉https://t.co/oybTHRcshp",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oybTHRcshp",
+							"expanded_url": "http://lin.ee/ch6haNi",
+							"display_url": "lin.ee/ch6haNi",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 240623,
+			"friends_count": 191,
+			"listed_count": 453,
+			"created_at": "Wed Feb 04 01:23:45 +0000 2015",
+			"favourites_count": 3394,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3015879513/1624002240",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 92,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "💙#テヨン(#少女時代)🦋\n￣￣￣￣￣￣￣￣￣￣￣￣\n待望の3rdフルアルバム\n『#INVU』が絶賛配信中！💋💄\n\nタイトル曲をはじめ、\n\"愛\"に対する複雑な感情を\n#TAEYEON ならではの多彩な雰囲気で\n表現した全13曲を収録！🎧👇\nhttps://t.co/IcCJ6RBYsj\n\n#TAEYEON_INVU\n@GirlsGeneration @gg_official_jp"
+	},
+	{
 		"created_at": "Thu Feb 17 04:07:08 +0000 2022",
 		"id": 1494156911100711000,
 		"id_str": "1494161468463501312",
