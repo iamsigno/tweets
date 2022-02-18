@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 08:07:12 +0000 2022",
+		"id": 1494576425755496400,
+		"id_str": "1494584270601531450",
+		"full_text": "[#MCOUNTDOWN] This week's pre-voting current TOP10!\n\n☑Vote Now at https://t.co/yUxS0yfSzu\n\nFebruary 18, 2022 ~ February 21, 2022, 9:00 (KST)\n\n#TAEYEON #Apink #VIVIZ #WONHO #RAVI #OMEGA_X #DRIPIN #WONPIL #Rumbleg #JWiiver https://t.co/XbFIWZ34eZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"text": "Apink",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"text": "VIVIZ",
+					"indices": [
+						158,
+						164
+					]
+				},
+				{
+					"text": "WONHO",
+					"indices": [
+						165,
+						171
+					]
+				},
+				{
+					"text": "RAVI",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "OMEGA_X",
+					"indices": [
+						178,
+						186
+					]
+				},
+				{
+					"text": "DRIPIN",
+					"indices": [
+						187,
+						194
+					]
+				},
+				{
+					"text": "WONPIL",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"text": "Rumbleg",
+					"indices": [
+						203,
+						211
+					]
+				},
+				{
+					"text": "JWiiver",
+					"indices": [
+						212,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yUxS0yfSzu",
+					"expanded_url": "http://bit.ly/MCD_prevoting",
+					"display_url": "bit.ly/MCD_prevoting",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494576387658698800,
+					"id_str": "1494576387658698753",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3NTlQVUAEjmc2.png",
+					"media_url_https": "https://pbs.twimg.com/media/FL3NTlQVUAEjmc2.png",
+					"url": "https://t.co/XbFIWZ34eZ",
+					"display_url": "pic.twitter.com/XbFIWZ34eZ",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1494576425755496450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 709,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 611,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494576387658698800,
+					"id_str": "1494576387658698753",
+					"indices": [
+						221,
+						244
+					],
+					"media_url": "http://pbs.twimg.com/media/FL3NTlQVUAEjmc2.png",
+					"media_url_https": "https://pbs.twimg.com/media/FL3NTlQVUAEjmc2.png",
+					"url": "https://t.co/XbFIWZ34eZ",
+					"display_url": "pic.twitter.com/XbFIWZ34eZ",
+					"expanded_url": "https://twitter.com/OfficialMwave/status/1494576425755496450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 611,
+							"h": 709,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 611,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 369934613,
+			"id_str": "369934613",
+			"name": "Mwave",
+			"screen_name": "OfficialMwave",
+			"location": "Worldwide",
+			"description": "The official twitter of Mwave!\nEnjoy Mnet K-POP, Mwave",
+			"url": "https://t.co/eqYCWBhWa5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eqYCWBhWa5",
+							"expanded_url": "http://mwave.me",
+							"display_url": "mwave.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1928540,
+			"friends_count": 326,
+			"listed_count": 1971,
+			"created_at": "Thu Sep 08 05:50:31 +0000 2011",
+			"favourites_count": 496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 42750,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/466737283379388416/RJdh_Mlz_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/369934613/1629766349",
+			"profile_link_color": "E50277",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 343,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "[#MCOUNTDOWN] This week's pre-voting current TOP10!\n\n☑Vote Now at https://t.co/yUxS0yfSzu\n\nFebruary 18, 2022 ~ February 21, 2022, 9:00 (KST)\n\n#TAEYEON #Apink #VIVIZ #WONHO #RAVI #OMEGA_X #DRIPIN #WONPIL #Rumbleg #JWiiver https://t.co/XbFIWZ34eZ"
+	},
+	{
 		"created_at": "Fri Feb 18 05:07:08 +0000 2022",
 		"id": 1494524784834916400,
 		"id_str": "1494538955995373588",
