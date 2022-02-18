@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 05:07:08 +0000 2022",
+		"id": 1494524784834916400,
+		"id_str": "1494538955995373588",
+		"full_text": "Program ‘Today’s Celeb’ dengan HYOYEON Tayang Hari Ini \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/TnXJF2hiJF\n\n@GirlsGeneration\n#HYOYEON #GirlsGeneration https://t.co/XiAVk4GXvc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						166,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						140,
+						156
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TnXJF2hiJF",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/983522392264775",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494524662533193700,
+					"id_str": "1494524662533193729",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FL2eQyJaAAEPOKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL2eQyJaAAEPOKf.jpg",
+					"url": "https://t.co/XiAVk4GXvc",
+					"display_url": "pic.twitter.com/XiAVk4GXvc",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1494524784834916354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494524662533193700,
+					"id_str": "1494524662533193729",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FL2eQyJaAAEPOKf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL2eQyJaAAEPOKf.jpg",
+					"url": "https://t.co/XiAVk4GXvc",
+					"display_url": "pic.twitter.com/XiAVk4GXvc",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1494524784834916354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 2000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 908395,
+			"friends_count": 35,
+			"listed_count": 577,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Program ‘Today’s Celeb’ dengan HYOYEON Tayang Hari Ini \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/TnXJF2hiJF\n\n@GirlsGeneration\n#HYOYEON #GirlsGeneration https://t.co/XiAVk4GXvc"
+	},
+	{
 		"created_at": "Fri Feb 18 03:44:56 +0000 2022",
 		"id": 1494512816786661400,
 		"id_str": "1494518269591572497",
