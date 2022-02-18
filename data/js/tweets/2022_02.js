@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 13:07:09 +0000 2022",
+		"id": 1494632526203129900,
+		"id_str": "1494659752865017858",
+		"full_text": "บรรยากาศงานแถลงข่าว INVO อัลบั้มเต็มในรอบ 2 ปีของ #TAEYEON \n“ทุกครั้งที่ปล่อยเพลงใหม่ ฉันจะหาวิธีพัฒนาตัวเองอยู่เสมอ ครั้งนี้ฉันพยายามขยายช่วงเสียงร้องให้กว้างขึ้น ด้วยการลองสไตล์และเทคนิคที่แตกต่างกันไปค่ะ”\n\n#태연 #GirlsGeneration #소녀시대 #TAEYEON_INVU #INVU @SMTrueThailand https://t.co/IzvK2mQ0tq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						209,
+						212
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						213,
+						229
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						230,
+						235
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						236,
+						249
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						250,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTrueThailand",
+					"name": "SM True",
+					"id": 1093456514700828700,
+					"id_str": "1093456514700828672",
+					"indices": [
+						256,
+						271
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494624772210131000,
+					"id_str": "1494624772210130944",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FL35T7wVgAARzyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL35T7wVgAARzyE.jpg",
+					"url": "https://t.co/IzvK2mQ0tq",
+					"display_url": "pic.twitter.com/IzvK2mQ0tq",
+					"expanded_url": "https://twitter.com/Sanook/status/1494632526203129858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494624772210131000,
+					"id_str": "1494624772210130944",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FL35T7wVgAARzyE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL35T7wVgAARzyE.jpg",
+					"url": "https://t.co/IzvK2mQ0tq",
+					"display_url": "pic.twitter.com/IzvK2mQ0tq",
+					"expanded_url": "https://twitter.com/Sanook/status/1494632526203129858/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23032702,
+			"id_str": "23032702",
+			"name": "Sanook.com",
+			"screen_name": "Sanook",
+			"location": "Bangkok, Thailand",
+			"description": "ครบทุกเรื่องเพื่อทุกคน",
+			"url": "https://t.co/fvsQXpB4KS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fvsQXpB4KS",
+							"expanded_url": "https://www.sanook.com/",
+							"display_url": "sanook.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 225469,
+			"friends_count": 759,
+			"listed_count": 610,
+			"created_at": "Fri Mar 06 04:57:25 +0000 2009",
+			"favourites_count": 1307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 401753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFD9DA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410231751901732876/q6YEVK6__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410231751901732876/q6YEVK6__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23032702/1644998144",
+			"profile_link_color": "B80600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEBEB",
+			"profile_text_color": "4F4F4F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "บรรยากาศงานแถลงข่าว INVO อัลบั้มเต็มในรอบ 2 ปีของ #TAEYEON \n“ทุกครั้งที่ปล่อยเพลงใหม่ ฉันจะหาวิธีพัฒนาตัวเองอยู่เสมอ ครั้งนี้ฉันพยายามขยายช่วงเสียงร้องให้กว้างขึ้น ด้วยการลองสไตล์และเทคนิคที่แตกต่างกันไปค่ะ”\n\n#태연 #GirlsGeneration #소녀시대 #TAEYEON_INVU #INVU @SMTrueThailand https://t.co/IzvK2mQ0tq"
+	},
+	{
 		"created_at": "Fri Feb 18 11:07:15 +0000 2022",
 		"id": 1494629543067684900,
 		"id_str": "1494629579394330628",
