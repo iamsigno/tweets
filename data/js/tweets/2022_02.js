@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 09:07:09 +0000 2022",
+		"id": 1494571393354465300,
+		"id_str": "1494599354564456450",
+		"full_text": "#THREAD \n\nSONE dapet salam nih dari Taeyeon😍\n\nUntuk merayakan comeback Taeyeon, tim K-Talk akan seru-seruan main game 'Taeyeon Once Said...\".\n\nPenasaran? Simak di sini ya👇\n--\n@SMTOWN_Idn #KTalk #TAEYEON #INVU #TAEYEON_INVU https://t.co/eaVd9RQS1o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "THREAD",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "KTalk",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						203,
+						208
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						209,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTOWN_Idn",
+					"name": "SMTOWN Indonesia",
+					"id": 1064828006487609300,
+					"id_str": "1064828006487609345",
+					"indices": [
+						175,
+						186
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494561658202914800,
+					"id_str": "1494561658202914816",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494561658202914816/pu/img/GCpSVcA-bFBXVQBz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494561658202914816/pu/img/GCpSVcA-bFBXVQBz.jpg",
+					"url": "https://t.co/eaVd9RQS1o",
+					"display_url": "pic.twitter.com/eaVd9RQS1o",
+					"expanded_url": "https://twitter.com/detikhot/status/1494571393354465282/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494561658202914800,
+					"id_str": "1494561658202914816",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494561658202914816/pu/img/GCpSVcA-bFBXVQBz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494561658202914816/pu/img/GCpSVcA-bFBXVQBz.jpg",
+					"url": "https://t.co/eaVd9RQS1o",
+					"display_url": "pic.twitter.com/eaVd9RQS1o",
+					"expanded_url": "https://twitter.com/detikhot/status/1494571393354465282/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 65319,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1494561658202914816/pu/pl/3zFm0FDyeQtc4t6B.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494561658202914816/pu/vid/1280x720/D6VocFfidA6JV_lO.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494561658202914816/pu/vid/480x270/B9yyukN6QPPOF3Dp.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1494561658202914816/pu/vid/640x360/NinX6VO0tvUni2iu.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 137282671,
+			"id_str": "137282671",
+			"name": "detikhot",
+			"screen_name": "detikhot",
+			"location": "Jakarta, Indonesia",
+			"description": "Akun Resmi Situs Berita Hiburan Update Banget! Follow instagram kami : @detikHot Contact: redaksi@detikhot.com",
+			"url": "https://t.co/nLtyFQ31SP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nLtyFQ31SP",
+							"expanded_url": "http://www.detikhot.com",
+							"display_url": "detikhot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1472883,
+			"friends_count": 175,
+			"listed_count": 1029,
+			"created_at": "Mon Apr 26 09:52:46 +0000 2010",
+			"favourites_count": 467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 281057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357506882613563393/qEcAjxK5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357506882613563393/qEcAjxK5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/137282671/1636970601",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "DBE9ED",
+			"profile_sidebar_fill_color": "E6F6F9",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 213,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "#THREAD \n\nSONE dapet salam nih dari Taeyeon😍\n\nUntuk merayakan comeback Taeyeon, tim K-Talk akan seru-seruan main game 'Taeyeon Once Said...\".\n\nPenasaran? Simak di sini ya👇\n--\n@SMTOWN_Idn #KTalk #TAEYEON #INVU #TAEYEON_INVU https://t.co/eaVd9RQS1o"
+	},
+	{
 		"created_at": "Fri Feb 18 08:07:12 +0000 2022",
 		"id": 1494576425755496400,
 		"id_str": "1494584270601531450",
