@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 01:07:09 +0000 2022",
+		"id": 1494839150880587800,
+		"id_str": "1494840946256760834",
+		"full_text": "[예고] 서현의 스태프들은 서현만 보여..🌻💛\n먹잘알 쩝쩝박사 권율의 맛집은 과연?! 🍽\n#전지적참견시점 토요일 밤 11시~📺\n#이영자 #전현무 #송은이 #양세형  #유병재 #홍현희\n#서현 #권율 https://t.co/AZ8S7Z52XV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "이영자",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "송은이",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "유병재",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "홍현희",
+					"indices": [
+						97,
+						101
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "권율",
+					"indices": [
+						106,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494556943687753700,
+					"id_str": "1494556943687753728",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FL27ny0aIAAU0CB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL27ny0aIAAU0CB.jpg",
+					"url": "https://t.co/AZ8S7Z52XV",
+					"display_url": "pic.twitter.com/AZ8S7Z52XV",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1494839150880587778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494556943687753700,
+					"id_str": "1494556943687753728",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FL27ny0aIAAU0CB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL27ny0aIAAU0CB.jpg",
+					"url": "https://t.co/AZ8S7Z52XV",
+					"display_url": "pic.twitter.com/AZ8S7Z52XV",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1494839150880587778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494556943721320400,
+					"id_str": "1494556943721320453",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FL27ny8aUAU9Hwk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL27ny8aUAU9Hwk.jpg",
+					"url": "https://t.co/AZ8S7Z52XV",
+					"display_url": "pic.twitter.com/AZ8S7Z52XV",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1494839150880587778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494556943717134300,
+					"id_str": "1494556943717134337",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FL27ny7acAEnySs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL27ny7acAEnySs.jpg",
+					"url": "https://t.co/AZ8S7Z52XV",
+					"display_url": "pic.twitter.com/AZ8S7Z52XV",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1494839150880587778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494556943721312300,
+					"id_str": "1494556943721312259",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FL27ny8aMAM6vo3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL27ny8aMAM6vo3.jpg",
+					"url": "https://t.co/AZ8S7Z52XV",
+					"display_url": "pic.twitter.com/AZ8S7Z52XV",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1494839150880587778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 [official]",
+			"url": "https://t.co/7U66BOeSeR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7U66BOeSeR",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 932212,
+			"friends_count": 6,
+			"listed_count": 992,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 16976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112884226515300353/LvfV_hgR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1555047387",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예고] 서현의 스태프들은 서현만 보여..🌻💛\n먹잘알 쩝쩝박사 권율의 맛집은 과연?! 🍽\n#전지적참견시점 토요일 밤 11시~📺\n#이영자 #전현무 #송은이 #양세형  #유병재 #홍현희\n#서현 #권율 https://t.co/AZ8S7Z52XV"
+	},
+	{
 		"created_at": "Fri Feb 18 14:07:13 +0000 2022",
 		"id": 1494673773068390400,
 		"id_str": "1494674869832888324",
