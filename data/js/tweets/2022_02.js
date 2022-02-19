@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 19 02:07:24 +0000 2022",
+		"id": 1494854249427046400,
+		"id_str": "1494856109001220098",
+		"full_text": "매 순간이 A컷!✨ 서현의 화보 촬영 현장📸\n쩝쩝박사 먹잘알 권율의 맛집 공개!🙌\n\n&lt;#전지적참견시점&gt; 오늘 밤 11시 방송\n#서현 #권율 https://t.co/muJncstQMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						76,
+						79
+					]
+				},
+				{
+					"text": "권율",
+					"indices": [
+						80,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1494552470420275200,
+					"id_str": "1494552470420275200",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FL23jamVQAAJjI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL23jamVQAAJjI-.jpg",
+					"url": "https://t.co/muJncstQMJ",
+					"display_url": "pic.twitter.com/muJncstQMJ",
+					"expanded_url": "https://twitter.com/withMBC/status/1494854249427046401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494552470420275200,
+					"id_str": "1494552470420275200",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FL23jamVQAAJjI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL23jamVQAAJjI-.jpg",
+					"url": "https://t.co/muJncstQMJ",
+					"display_url": "pic.twitter.com/muJncstQMJ",
+					"expanded_url": "https://twitter.com/withMBC/status/1494854249427046401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494552470432858000,
+					"id_str": "1494552470432858114",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FL23japVQAIsFA1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL23japVQAIsFA1.jpg",
+					"url": "https://t.co/muJncstQMJ",
+					"display_url": "pic.twitter.com/muJncstQMJ",
+					"expanded_url": "https://twitter.com/withMBC/status/1494854249427046401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494552470420263000,
+					"id_str": "1494552470420262913",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FL23jamVEAEI10q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL23jamVEAEI10q.jpg",
+					"url": "https://t.co/muJncstQMJ",
+					"display_url": "pic.twitter.com/muJncstQMJ",
+					"expanded_url": "https://twitter.com/withMBC/status/1494854249427046401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1494552470437052400,
+					"id_str": "1494552470437052421",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FL23jaqVQAUeLhC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL23jaqVQAUeLhC.jpg",
+					"url": "https://t.co/muJncstQMJ",
+					"display_url": "pic.twitter.com/muJncstQMJ",
+					"expanded_url": "https://twitter.com/withMBC/status/1494854249427046401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011196,
+			"friends_count": 9964,
+			"listed_count": 4231,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 47203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1643175334",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "매 순간이 A컷!✨ 서현의 화보 촬영 현장📸\n쩝쩝박사 먹잘알 권율의 맛집 공개!🙌\n\n&lt;#전지적참견시점&gt; 오늘 밤 11시 방송\n#서현 #권율 https://t.co/muJncstQMJ"
+	},
+	{
+		"created_at": "Sat Feb 19 02:07:17 +0000 2022",
+		"id": 1494851744622583800,
+		"id_str": "1494856079192244225",
+		"full_text": "[#NEWS] 서현-이준영이 눈에 들어온다면 [모럴센스 리플레이②]\n▶ https://t.co/W7udCKMDPp\n\n#서현 #모럴센스 #SEOHYUN #LoveandLeashes https://t.co/SuICcoZSnj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "모럴센스",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "LoveandLeashes",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W7udCKMDPp",
+					"expanded_url": "https://bit.ly/3ByA4D4",
+					"display_url": "bit.ly/3ByA4D4",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1494851739098685400,
+					"id_str": "1494851739098685445",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FL7HvJTaIAU2mWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL7HvJTaIAU2mWn.jpg",
+					"url": "https://t.co/SuICcoZSnj",
+					"display_url": "pic.twitter.com/SuICcoZSnj",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1494851744622583808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1494851739098685400,
+					"id_str": "1494851739098685445",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/FL7HvJTaIAU2mWn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FL7HvJTaIAU2mWn.jpg",
+					"url": "https://t.co/SuICcoZSnj",
+					"display_url": "pic.twitter.com/SuICcoZSnj",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1494851744622583808/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57489,
+			"friends_count": 13,
+			"listed_count": 267,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 90,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 서현-이준영이 눈에 들어온다면 [모럴센스 리플레이②]\n▶ https://t.co/W7udCKMDPp\n\n#서현 #모럴센스 #SEOHYUN #LoveandLeashes https://t.co/SuICcoZSnj"
+	},
+	{
 		"created_at": "Sat Feb 19 01:07:09 +0000 2022",
 		"id": 1494839150880587800,
 		"id_str": "1494840946256760834",
