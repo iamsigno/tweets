@@ -1,6 +1,203 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 04:07:08 +0000 2022",
+		"id": 1495244613338034200,
+		"id_str": "1495248631661834242",
+		"full_text": "#INVU 으로 돌아온 #TAEYEON 🏹 \n‘스브스케이팝/SBSKPOP’ 금주의 PICK은 #태연 입니다!\n\n❗❗충격 아르테미스 실존❗❗\n인기가요에 아르테미스가 나오면 그리스 로마는 어떡해ㅠㅠ\n태연 진짜 INVU 모든게 다 INVU 🏛💟\n\n🌙스브스케이팝/SBSKPOP의 새로운 헤더를 확인해 보세요🌙 https://t.co/TEWlOrdXY7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						52,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495244604630704000,
+					"id_str": "1495244604630704129",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAtC7dVIAEUJHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAtC7dVIAEUJHS.jpg",
+					"url": "https://t.co/TEWlOrdXY7",
+					"display_url": "pic.twitter.com/TEWlOrdXY7",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1495244613338034181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 820,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495244604630704000,
+					"id_str": "1495244604630704129",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/FMAtC7dVIAEUJHS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMAtC7dVIAEUJHS.jpg",
+					"url": "https://t.co/TEWlOrdXY7",
+					"display_url": "pic.twitter.com/TEWlOrdXY7",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1495244613338034181/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 299,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 820,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsnRTm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsnRTm",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 617514,
+			"friends_count": 78,
+			"listed_count": 669,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 4733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1645329057",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 261,
+		"favorite_count": 429,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#INVU 으로 돌아온 #TAEYEON 🏹 \n‘스브스케이팝/SBSKPOP’ 금주의 PICK은 #태연 입니다!\n\n❗❗충격 아르테미스 실존❗❗\n인기가요에 아르테미스가 나오면 그리스 로마는 어떡해ㅠㅠ\n태연 진짜 INVU 모든게 다 INVU 🏛💟\n\n🌙스브스케이팝/SBSKPOP의 새로운 헤더를 확인해 보세요🌙 https://t.co/TEWlOrdXY7"
+	},
+	{
 		"created_at": "Sun Feb 20 01:07:18 +0000 2022",
 		"id": 1495202648274120700,
 		"id_str": "1495203372915478528",
