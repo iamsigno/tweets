@@ -1,6 +1,811 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 09:07:39 +0000 2022",
+		"id": 1495322336425222100,
+		"id_str": "1495324256950968323",
+		"full_text": "📢아르탱미스🏹 탱구 여신님 #왔다갔디오👑💜\n들을 때마다 최애곡이 바뀌는 마법 같은 탱구 앨범🥰\n여러분의 최애곡은 무엇인가요?👀\n\nTAEYEON's interview with MBC RADIO.\nCheck below link to watch it!\n▶https://t.co/rYEvNY4rL5\n\n#태연 #TAEYEON #INVU #소녀시대\n#정희 #봉춘라디오 #MBCRADIO https://t.co/7zWnwxJMtB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "왔다갔디오",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						168,
+						176
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						177,
+						182
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						183,
+						188
+					]
+				},
+				{
+					"text": "정희",
+					"indices": [
+						189,
+						192
+					]
+				},
+				{
+					"text": "봉춘라디오",
+					"indices": [
+						193,
+						199
+					]
+				},
+				{
+					"text": "MBCRADIO",
+					"indices": [
+						200,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rYEvNY4rL5",
+					"expanded_url": "https://youtu.be/3wB5eUg4NIU",
+					"display_url": "youtu.be/3wB5eUg4NIU",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495027968867172400,
+					"id_str": "1495027968867172353",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495027968867172353/pu/img/7ncdVsWrcxYUpgiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495027968867172353/pu/img/7ncdVsWrcxYUpgiJ.jpg",
+					"url": "https://t.co/7zWnwxJMtB",
+					"display_url": "pic.twitter.com/7zWnwxJMtB",
+					"expanded_url": "https://twitter.com/radiombc/status/1495322336425222146/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495027968867172400,
+					"id_str": "1495027968867172353",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1495027968867172353/pu/img/7ncdVsWrcxYUpgiJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1495027968867172353/pu/img/7ncdVsWrcxYUpgiJ.jpg",
+					"url": "https://t.co/7zWnwxJMtB",
+					"display_url": "pic.twitter.com/7zWnwxJMtB",
+					"expanded_url": "https://twitter.com/radiombc/status/1495322336425222146/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 19093,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495027968867172353/pu/vid/480x270/gzvvZz5XEtiUeCbB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1495027968867172353/pu/pl/VLOzIGZmffY2jzlA.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495027968867172353/pu/vid/640x360/-Hij0QiRimj4PZ8N.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1495027968867172353/pu/vid/1280x720/EB1S0WkaF4gg3rTV.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75908,
+			"friends_count": 44,
+			"listed_count": 597,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8340,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 200,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "📢아르탱미스🏹 탱구 여신님 #왔다갔디오👑💜\n들을 때마다 최애곡이 바뀌는 마법 같은 탱구 앨범🥰\n여러분의 최애곡은 무엇인가요?👀\n\nTAEYEON's interview with MBC RADIO.\nCheck below link to watch it!\n▶https://t.co/rYEvNY4rL5\n\n#태연 #TAEYEON #INVU #소녀시대\n#정희 #봉춘라디오 #MBCRADIO https://t.co/7zWnwxJMtB"
+	},
+	{
+		"created_at": "Sun Feb 20 09:07:09 +0000 2022",
+		"id": 1495314782605299700,
+		"id_str": "1495324129913970691",
+		"full_text": "[🎥#안방1열직캠] 태연 - INVU\n\n#인기가요 #태연 #TAEYEON #INVU @GirlsGeneration\n\n📌https://t.co/usgQ2LsN1I https://t.co/meIKaV1z68",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "안방1열직캠",
+					"indices": [
+						2,
+						9
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						28,
+						31
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						41,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						47,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/usgQ2LsN1I",
+					"expanded_url": "https://youtu.be/jNHlbIqwImk",
+					"display_url": "youtu.be/jNHlbIqwImk",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495306867139965000,
+					"id_str": "1495306867139964932",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FMBlrFYUcAQRdKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMBlrFYUcAQRdKv.jpg",
+					"url": "https://t.co/meIKaV1z68",
+					"display_url": "pic.twitter.com/meIKaV1z68",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1495314782605299723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495306867139965000,
+					"id_str": "1495306867139964932",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FMBlrFYUcAQRdKv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMBlrFYUcAQRdKv.jpg",
+					"url": "https://t.co/meIKaV1z68",
+					"display_url": "pic.twitter.com/meIKaV1z68",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1495314782605299723/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 / SBS KPOP",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsnRTm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsnRTm",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 617780,
+			"friends_count": 78,
+			"listed_count": 672,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 4746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 4700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1645329057",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1045,
+		"favorite_count": 1222,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[🎥#안방1열직캠] 태연 - INVU\n\n#인기가요 #태연 #TAEYEON #INVU @GirlsGeneration\n\n📌https://t.co/usgQ2LsN1I https://t.co/meIKaV1z68"
+	},
+	{
+		"created_at": "Sun Feb 20 08:45:07 +0000 2022",
+		"id": 1495318191601758200,
+		"id_str": "1495318586423975942",
+		"full_text": "[안방1열 직캠4K] 태연 'INVU' (TAEYEON FanCam)│@ SBS Inkigayo_2022.02.20.\n\n🏹 https://t.co/TRfmVmD1jw\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						94,
+						97
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						114,
+						127
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						134,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TRfmVmD1jw",
+					"expanded_url": "https://youtu.be/jNHlbIqwImk",
+					"display_url": "youtu.be/jNHlbIqwImk",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3731838,
+			"friends_count": 4,
+			"listed_count": 5773,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1094,
+		"favorite_count": 1704,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안방1열 직캠4K] 태연 'INVU' (TAEYEON FanCam)│@ SBS Inkigayo_2022.02.20.\n\n🏹 https://t.co/TRfmVmD1jw\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Sun Feb 20 08:45:04 +0000 2022",
+		"id": 1495318016057540600,
+		"id_str": "1495318573388079107",
+		"full_text": "[안방1열 직캠4K] 태연 'INVU' 풀캠 (TAEYEON Full Cam)│@ SBS Inkigayo_2022.02.20.\n\n🏹 https://t.co/j6ZNNA7DYz\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						119,
+						132
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j6ZNNA7DYz",
+					"expanded_url": "https://youtu.be/X998lTiMeeQ",
+					"display_url": "youtu.be/X998lTiMeeQ",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3731838,
+			"friends_count": 4,
+			"listed_count": 5773,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2735,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 967,
+		"favorite_count": 1341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[안방1열 직캠4K] 태연 'INVU' 풀캠 (TAEYEON Full Cam)│@ SBS Inkigayo_2022.02.20.\n\n🏹 https://t.co/j6ZNNA7DYz\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Sun Feb 20 08:07:08 +0000 2022",
 		"id": 1495305017053487000,
 		"id_str": "1495309029559701506",
