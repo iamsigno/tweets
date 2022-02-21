@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 02:07:27 +0000 2022",
+		"id": 1495580143783669800,
+		"id_str": "1495580898699489280",
+		"full_text": "Check out #INVU on The Chart Show w/ @BrookeReese on @AppleMusic. ❣️\n \nListen here: https://t.co/CQ7Yf7pXj6 \n2022.02.21 6AM PST | 11PM KST\n \n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration\n#AppleMusic #애플뮤직 https://t.co/SU1LKu3EoG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						141,
+						144
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						154,
+						159
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						160,
+						173
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"text": "AppleMusic",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "애플뮤직",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrookeReese",
+					"name": "Brooke Reese",
+					"id": 201547358,
+					"id_str": "201547358",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "AppleMusic",
+					"name": "Apple Music",
+					"id": 74580436,
+					"id_str": "74580436",
+					"indices": [
+						53,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CQ7Yf7pXj6",
+					"expanded_url": "http://apple.co/Chart",
+					"display_url": "apple.co/Chart",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495580139203461000,
+					"id_str": "1495580139203461126",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFeNnJaAAYx-qC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFeNnJaAAYx-qC.jpg",
+					"url": "https://t.co/SU1LKu3EoG",
+					"display_url": "pic.twitter.com/SU1LKu3EoG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1495580143783669760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495580139203461000,
+					"id_str": "1495580139203461126",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFeNnJaAAYx-qC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFeNnJaAAYx-qC.jpg",
+					"url": "https://t.co/SU1LKu3EoG",
+					"display_url": "pic.twitter.com/SU1LKu3EoG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1495580143783669760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3732413,
+			"friends_count": 4,
+			"listed_count": 5776,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 242,
+		"favorite_count": 518,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out #INVU on The Chart Show w/ @BrookeReese on @AppleMusic. ❣️\n \nListen here: https://t.co/CQ7Yf7pXj6 \n2022.02.21 6AM PST | 11PM KST\n \n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration\n#AppleMusic #애플뮤직 https://t.co/SU1LKu3EoG"
+	},
+	{
+		"created_at": "Mon Feb 21 02:07:22 +0000 2022",
+		"id": 1495579023497314300,
+		"id_str": "1495580877279137797",
+		"full_text": "[#NEWS] LOVE LOVE LOVE / 서현과 이준영\n▶ https://t.co/XYaNE9Uqo3\n\n#서현 #얼루어 #모럴센스 #SEOHYUN #allurekorea #LoveandLeashes https://t.co/VicSiIlcyV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "얼루어",
+					"indices": [
+						64,
+						68
+					]
+				},
+				{
+					"text": "모럴센스",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "allurekorea",
+					"indices": [
+						84,
+						96
+					]
+				},
+				{
+					"text": "LoveandLeashes",
+					"indices": [
+						97,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XYaNE9Uqo3",
+					"expanded_url": "https://bit.ly/3h2UL0w",
+					"display_url": "bit.ly/3h2UL0w",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495575312138383400,
+					"id_str": "1495575312138383362",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFZ0o7aMAIobq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFZ0o7aMAIobq3.jpg",
+					"url": "https://t.co/VicSiIlcyV",
+					"display_url": "pic.twitter.com/VicSiIlcyV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1495579023497314308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1276,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1094,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495575312138383400,
+					"id_str": "1495575312138383362",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFZ0o7aMAIobq3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFZ0o7aMAIobq3.jpg",
+					"url": "https://t.co/VicSiIlcyV",
+					"display_url": "pic.twitter.com/VicSiIlcyV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1495579023497314308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1276,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1094,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495575312155177000,
+					"id_str": "1495575312155176961",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFZ0o_acAEPwCS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFZ0o_acAEPwCS.jpg",
+					"url": "https://t.co/VicSiIlcyV",
+					"display_url": "pic.twitter.com/VicSiIlcyV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1495579023497314308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495575312134176800,
+					"id_str": "1495575312134176769",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFZ0o6aAAEQ178.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFZ0o6aAAEQ178.jpg",
+					"url": "https://t.co/VicSiIlcyV",
+					"display_url": "pic.twitter.com/VicSiIlcyV",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1495579023497314308/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1069,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57594,
+			"friends_count": 13,
+			"listed_count": 268,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] LOVE LOVE LOVE / 서현과 이준영\n▶ https://t.co/XYaNE9Uqo3\n\n#서현 #얼루어 #모럴센스 #SEOHYUN #allurekorea #LoveandLeashes https://t.co/VicSiIlcyV"
+	},
+	{
+		"created_at": "Mon Feb 21 02:07:16 +0000 2022",
+		"id": 1495578345849106400,
+		"id_str": "1495580851630977025",
+		"full_text": "#임윤아, 패션 매거진 커버 장식!\n“‘본체’인 내가 갖고 있는 게 풍부해야 ‘아티스트’ 임윤아가 성장한다고 생각”\n\nCover of the March issue of ‘#ELLE KOREA’! \n\"I think ‘Artist’ #LIMYOONA grows when ‘the essence of myself’ has wide experience\"\n\n#윤아 #YOONA\n#소녀시대 #GirlsGeneration https://t.co/Pw3J5jEiR4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "ELLE",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						128,
+						137
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						195,
+						198
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						206,
+						211
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						212,
+						228
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495578340123877400,
+					"id_str": "1495578340123877380",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFck5DaIAQTrza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFck5DaIAQTrza.jpg",
+					"url": "https://t.co/Pw3J5jEiR4",
+					"display_url": "pic.twitter.com/Pw3J5jEiR4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1495578345849106432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1441,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495578340123877400,
+					"id_str": "1495578340123877380",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFck5DaIAQTrza.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFck5DaIAQTrza.jpg",
+					"url": "https://t.co/Pw3J5jEiR4",
+					"display_url": "pic.twitter.com/Pw3J5jEiR4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1495578345849106432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1441,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495578340144840700,
+					"id_str": "1495578340144840709",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFck5IaAAUQ_vs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFck5IaAAUQ_vs.jpg",
+					"url": "https://t.co/Pw3J5jEiR4",
+					"display_url": "pic.twitter.com/Pw3J5jEiR4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1495578345849106432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1441,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495578340337791000,
+					"id_str": "1495578340337790976",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFck52aMAAvFbX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFck52aMAAvFbX.jpg",
+					"url": "https://t.co/Pw3J5jEiR4",
+					"display_url": "pic.twitter.com/Pw3J5jEiR4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1495578345849106432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1495578340333604900,
+					"id_str": "1495578340333604868",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FMFck51aUAQ8m0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMFck51aUAQ8m0f.jpg",
+					"url": "https://t.co/Pw3J5jEiR4",
+					"display_url": "pic.twitter.com/Pw3J5jEiR4",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1495578345849106432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1153,
+							"h": 1440,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3732413,
+			"friends_count": 4,
+			"listed_count": 5776,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 857,
+		"favorite_count": 1707,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아, 패션 매거진 커버 장식!\n“‘본체’인 내가 갖고 있는 게 풍부해야 ‘아티스트’ 임윤아가 성장한다고 생각”\n\nCover of the March issue of ‘#ELLE KOREA’! \n\"I think ‘Artist’ #LIMYOONA grows when ‘the essence of myself’ has wide experience\"\n\n#윤아 #YOONA\n#소녀시대 #GirlsGeneration https://t.co/Pw3J5jEiR4"
+	},
+	{
 		"created_at": "Sun Feb 20 14:07:14 +0000 2022",
 		"id": 1495398442965016600,
 		"id_str": "1495399649611505667",
