@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 12:07:09 +0000 2022",
+		"id": 1495671311498190800,
+		"id_str": "1495731816967426049",
+		"full_text": "#임윤아 #윤아 #LimYoona #Yoona\n\n그렇게 웃지 마요... 심장 떨리니까. ♥\n&lt;엘르&gt; #짤터뷰 에 임윤아가 찾아왔습니다.\n윤아를 둘러싼 모든 짤들의 비하인드를 오늘 공개합니다. \n\n🎬 https://t.co/ajXgbRqzyj https://t.co/iVZl19jZ7g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						5,
+						8
+					]
+				},
+				{
+					"text": "LimYoona",
+					"indices": [
+						9,
+						18
+					]
+				},
+				{
+					"text": "Yoona",
+					"indices": [
+						19,
+						25
+					]
+				},
+				{
+					"text": "짤터뷰",
+					"indices": [
+						62,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ajXgbRqzyj",
+					"expanded_url": "http://shorturl.at/cjC17",
+					"display_url": "shorturl.at/cjC17",
+					"indices": [
+						117,
+						140
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1495671017997357000,
+					"id_str": "1495671017997357057",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGw3dCUUAEjm5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGw3dCUUAEjm5V.jpg",
+					"url": "https://t.co/iVZl19jZ7g",
+					"display_url": "pic.twitter.com/iVZl19jZ7g",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1495671311498190851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495671017997357000,
+					"id_str": "1495671017997357057",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/FMGw3dCUUAEjm5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMGw3dCUUAEjm5V.jpg",
+					"url": "https://t.co/iVZl19jZ7g",
+					"display_url": "pic.twitter.com/iVZl19jZ7g",
+					"expanded_url": "https://twitter.com/ELLE_KOREA/status/1495671311498190851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 226107231,
+			"id_str": "226107231",
+			"name": "ELLE Korea 엘르",
+			"screen_name": "ELLE_KOREA",
+			"location": "대한민국 서울",
+			"description": "패션 매거진 엘르 공식 트위터입니다.\nELLE Korea Official Twitter",
+			"url": "https://t.co/KhZaXio9fc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhZaXio9fc",
+							"expanded_url": "https://instabio.cc/ELLEKOREA",
+							"display_url": "instabio.cc/ELLEKOREA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147940,
+			"friends_count": 3411,
+			"listed_count": 472,
+			"created_at": "Mon Dec 13 09:50:12 +0000 2010",
+			"favourites_count": 878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072785819729985537/jVpoS08w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/226107231/1644891108",
+			"profile_link_color": "161F24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1246,
+		"favorite_count": 2083,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아 #윤아 #LimYoona #Yoona\n\n그렇게 웃지 마요... 심장 떨리니까. ♥\n&lt;엘르&gt; #짤터뷰 에 임윤아가 찾아왔습니다.\n윤아를 둘러싼 모든 짤들의 비하인드를 오늘 공개합니다. \n\n🎬 https://t.co/ajXgbRqzyj https://t.co/iVZl19jZ7g"
+	},
+	{
 		"created_at": "Mon Feb 21 10:07:16 +0000 2022",
 		"id": 1495699828835328000,
 		"id_str": "1495701647636541440",
