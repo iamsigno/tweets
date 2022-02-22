@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 08:07:09 +0000 2022",
+		"id": 1496021021841043500,
+		"id_str": "1496033806406590471",
+		"full_text": "드디어 아르탱미스 킬보 하는 날🤭\n딩고만 보기 아쉬워서 사진 한 장 더 풀어DREAM💕\n\n7시에 최초 공개합니다🏹\n갓태연의 킬링보이스를 라이브로!\n🔗https://t.co/7OkpbR8525\n\n가장 빠른 소식은 인스타로 확인하세요! @ dingo_music\n#딩고뮤직 #태연 #TAEYEON #킬링보이스 #KillingVoice https://t.co/nG4GKqlhmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "딩고뮤직",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "킬링보이스",
+					"indices": [
+						163,
+						169
+					]
+				},
+				{
+					"text": "KillingVoice",
+					"indices": [
+						170,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7OkpbR8525",
+					"expanded_url": "https://youtu.be/5ch94AaPZRQ",
+					"display_url": "youtu.be/5ch94AaPZRQ",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496021012609388500,
+					"id_str": "1496021012609388546",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FMLvL0kaUAI6nwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMLvL0kaUAI6nwH.jpg",
+					"url": "https://t.co/nG4GKqlhmU",
+					"display_url": "pic.twitter.com/nG4GKqlhmU",
+					"expanded_url": "https://twitter.com/dingo_official/status/1496021021841043456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496021012609388500,
+					"id_str": "1496021012609388546",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FMLvL0kaUAI6nwH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMLvL0kaUAI6nwH.jpg",
+					"url": "https://t.co/nG4GKqlhmU",
+					"display_url": "pic.twitter.com/nG4GKqlhmU",
+					"expanded_url": "https://twitter.com/dingo_official/status/1496021021841043456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 936446104136065000,
+			"id_str": "936446104136065024",
+			"name": "dingo(딩고)",
+			"screen_name": "dingo_official",
+			"location": "",
+			"description": "딩고봇이 운영하는 #딩고 오피셜 계정입니다. 딩고봇은 리트윗🔁이랑 마음❤️ 좋아해!",
+			"url": "https://t.co/kDZqCE1lkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kDZqCE1lkP",
+							"expanded_url": "https://www.facebook.com/dingo.officialpage.kr/",
+							"display_url": "facebook.com/dingo.official…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129963,
+			"friends_count": 1,
+			"listed_count": 158,
+			"created_at": "Fri Dec 01 04:05:24 +0000 2017",
+			"favourites_count": 13947,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2845,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442408035968700418/jYGZltDk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/936446104136065024/1632731850",
+			"profile_link_color": "FF3823",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1401,
+		"favorite_count": 1393,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "드디어 아르탱미스 킬보 하는 날🤭\n딩고만 보기 아쉬워서 사진 한 장 더 풀어DREAM💕\n\n7시에 최초 공개합니다🏹\n갓태연의 킬링보이스를 라이브로!\n🔗https://t.co/7OkpbR8525\n\n가장 빠른 소식은 인스타로 확인하세요! @ dingo_music\n#딩고뮤직 #태연 #TAEYEON #킬링보이스 #KillingVoice https://t.co/nG4GKqlhmU"
+	},
+	{
 		"created_at": "Mon Feb 21 12:07:09 +0000 2022",
 		"id": 1495671311498190800,
 		"id_str": "1495731816967426049",
