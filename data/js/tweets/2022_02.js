@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 11:07:16 +0000 2022",
+		"id": 1496077353386377200,
+		"id_str": "1496079138108620808",
+		"full_text": "🎙🤭✨💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#킬링보이스 #KillingVoice\n#소녀시대 #GirlsGeneration https://t.co/zl7KQ1j0c9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						6,
+						9
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						26,
+						39
+					]
+				},
+				{
+					"text": "킬링보이스",
+					"indices": [
+						40,
+						46
+					]
+				},
+				{
+					"text": "KillingVoice",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496077341080301600,
+					"id_str": "1496077341080301568",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMiakeaMAAbhMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMiakeaMAAbhMb.jpg",
+					"url": "https://t.co/zl7KQ1j0c9",
+					"display_url": "pic.twitter.com/zl7KQ1j0c9",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496077353386377218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496077341080301600,
+					"id_str": "1496077341080301568",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMiakeaMAAbhMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMiakeaMAAbhMb.jpg",
+					"url": "https://t.co/zl7KQ1j0c9",
+					"display_url": "pic.twitter.com/zl7KQ1j0c9",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496077353386377218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3733429,
+			"friends_count": 4,
+			"listed_count": 5779,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2742,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2805,
+		"favorite_count": 4378,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎙🤭✨💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#킬링보이스 #KillingVoice\n#소녀시대 #GirlsGeneration https://t.co/zl7KQ1j0c9"
+	},
+	{
 		"created_at": "Tue Feb 22 10:07:08 +0000 2022",
 		"id": 1496062239228702700,
 		"id_str": "1496064004648804353",
