@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 10:07:08 +0000 2022",
+		"id": 1496062239228702700,
+		"id_str": "1496064004648804353",
+		"full_text": "태연 (TAEYEON)의 킬링보이스를 라이브로!ㅣ딩고뮤직ㅣDingo Music\n\n🏹 https://t.co/XzS9WPjrgx\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#킬링보이스 #KillingVoice\n#소녀시대 #GirlsGeneration https://t.co/PVQOoVsJdz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						86,
+						91
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"text": "킬링보이스",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "KillingVoice",
+					"indices": [
+						113,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						127,
+						132
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						133,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XzS9WPjrgx",
+					"expanded_url": "https://youtu.be/5ch94AaPZRQ",
+					"display_url": "youtu.be/5ch94AaPZRQ",
+					"indices": [
+						47,
+						70
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496062227740500000,
+					"id_str": "1496062227740499976",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMUq25aIAgkZG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMUq25aIAgkZG1.jpg",
+					"url": "https://t.co/PVQOoVsJdz",
+					"display_url": "pic.twitter.com/PVQOoVsJdz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496062239228702721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496062227740500000,
+					"id_str": "1496062227740499976",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FMMUq25aIAgkZG1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMMUq25aIAgkZG1.jpg",
+					"url": "https://t.co/PVQOoVsJdz",
+					"display_url": "pic.twitter.com/PVQOoVsJdz",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496062239228702721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3733382,
+			"friends_count": 4,
+			"listed_count": 5779,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2254,
+		"favorite_count": 2271,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "태연 (TAEYEON)의 킬링보이스를 라이브로!ㅣ딩고뮤직ㅣDingo Music\n\n🏹 https://t.co/XzS9WPjrgx\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#킬링보이스 #KillingVoice\n#소녀시대 #GirlsGeneration https://t.co/PVQOoVsJdz"
+	},
+	{
 		"created_at": "Tue Feb 22 08:07:09 +0000 2022",
 		"id": 1496021021841043500,
 		"id_str": "1496033806406590471",
