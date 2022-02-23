@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 05:07:09 +0000 2022",
+		"id": 1496349110638878700,
+		"id_str": "1496350895587614722",
+		"full_text": "이번 회차가 마지막이라는 건😭\n정말 깨기 싫은 꿈 🎶 \n\n24일 저녁 8시\n유리로 채운 꿈💖 같은\n후야에서 만나요 👀\n\n2022.02.24 20:00 KST\nhttps://t.co/T1l5kfNcGe \n\n#YURI #유리 \n#소녀시대 #GirlsGeneration \n#후야 #HUYA https://t.co/zy8WF4p3RF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YURI",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						120,
+						123
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						131,
+						147
+					]
+				},
+				{
+					"text": "후야",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "HUYA",
+					"indices": [
+						153,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T1l5kfNcGe",
+					"expanded_url": "http://www.huya.com/637215",
+					"display_url": "huya.com/637215",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496349104859127800,
+					"id_str": "1496349104859127810",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQZlTcaIAIygnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQZlTcaIAIygnM.jpg",
+					"url": "https://t.co/zy8WF4p3RF",
+					"display_url": "pic.twitter.com/zy8WF4p3RF",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496349110638878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496349104859127800,
+					"id_str": "1496349104859127810",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQZlTcaIAIygnM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQZlTcaIAIygnM.jpg",
+					"url": "https://t.co/zy8WF4p3RF",
+					"display_url": "pic.twitter.com/zy8WF4p3RF",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496349110638878720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3734284,
+			"friends_count": 4,
+			"listed_count": 5782,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2743,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 565,
+		"favorite_count": 1246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 회차가 마지막이라는 건😭\n정말 깨기 싫은 꿈 🎶 \n\n24일 저녁 8시\n유리로 채운 꿈💖 같은\n후야에서 만나요 👀\n\n2022.02.24 20:00 KST\nhttps://t.co/T1l5kfNcGe \n\n#YURI #유리 \n#소녀시대 #GirlsGeneration \n#후야 #HUYA https://t.co/zy8WF4p3RF"
+	},
+	{
 		"created_at": "Wed Feb 23 04:07:09 +0000 2022",
 		"id": 1496323218176880600,
 		"id_str": "1496335796139442177",
