@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 07:44:56 +0000 2022",
+		"id": 1496381303545303000,
+		"id_str": "1496390606637121536",
+		"full_text": "[EN/JP] [퀸덤2] 세상을 이끄는 QUEEN, 바로 너야! | 3/31(목) 밤 9시 20분 첫방송 #퀸덤2 EP.0\n\nhttps://t.co/21AMr9YtSU\n\n#태연 #TAEYEON #QUEENDOM2\n#소녀시대 #GirlsGeneration https://t.co/Y85UbCKlN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "퀸덤2",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "QUEENDOM2",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						119,
+						124
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						125,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/21AMr9YtSU",
+					"expanded_url": "https://youtu.be/PqaGOM7aNco",
+					"display_url": "youtu.be/PqaGOM7aNco",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496380462327296000,
+					"id_str": "1496380462327296000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"url": "https://t.co/Y85UbCKlN5",
+					"display_url": "pic.twitter.com/Y85UbCKlN5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496381303545303043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496380462327296000,
+					"id_str": "1496380462327296000",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMQ2GjHacAAJRru.jpg",
+					"url": "https://t.co/Y85UbCKlN5",
+					"display_url": "pic.twitter.com/Y85UbCKlN5",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496381303545303043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3734379,
+			"friends_count": 4,
+			"listed_count": 5778,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2147,
+		"favorite_count": 3896,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[EN/JP] [퀸덤2] 세상을 이끄는 QUEEN, 바로 너야! | 3/31(목) 밤 9시 20분 첫방송 #퀸덤2 EP.0\n\nhttps://t.co/21AMr9YtSU\n\n#태연 #TAEYEON #QUEENDOM2\n#소녀시대 #GirlsGeneration https://t.co/Y85UbCKlN5"
+	},
+	{
 		"created_at": "Wed Feb 23 05:07:09 +0000 2022",
 		"id": 1496349110638878700,
 		"id_str": "1496350895587614722",
