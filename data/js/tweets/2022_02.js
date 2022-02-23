@@ -1,6 +1,388 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 23 13:07:18 +0000 2022",
+		"id": 1496470505632956400,
+		"id_str": "1496471729744580613",
+		"full_text": "탱키왔다햇! 20220223/Mukbang, eating show \n\nhttps://t.co/VdTI9Zb4NV\n\n#태연 #TAEYEON #입짧은햇님\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						68,
+						76
+					]
+				},
+				{
+					"text": "입짧은햇님",
+					"indices": [
+						77,
+						83
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						90,
+						103
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						104,
+						109
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VdTI9Zb4NV",
+					"expanded_url": "https://youtu.be/zz9vYLRdyQU",
+					"display_url": "youtu.be/zz9vYLRdyQU",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3734625,
+			"friends_count": 4,
+			"listed_count": 5778,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 747,
+		"favorite_count": 918,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탱키왔다햇! 20220223/Mukbang, eating show \n\nhttps://t.co/VdTI9Zb4NV\n\n#태연 #TAEYEON #입짧은햇님\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
+		"created_at": "Wed Feb 23 13:07:16 +0000 2022",
+		"id": 1496470083023282200,
+		"id_str": "1496471720911413256",
+		"full_text": "탱키&amp;햇님표 먹방 곧 시작🍴\n\n#태연 #TAEYEON #입짧은햇님\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/9bWbgr3o3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"text": "입짧은햇님",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496469828307386400,
+					"id_str": "1496469828307386369",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FMSHYVVaAAEkDuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMSHYVVaAAEkDuF.jpg",
+					"url": "https://t.co/9bWbgr3o3n",
+					"display_url": "pic.twitter.com/9bWbgr3o3n",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496470083023282178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496469828307386400,
+					"id_str": "1496469828307386369",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FMSHYVVaAAEkDuF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMSHYVVaAAEkDuF.jpg",
+					"url": "https://t.co/9bWbgr3o3n",
+					"display_url": "pic.twitter.com/9bWbgr3o3n",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1496470083023282178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3734625,
+			"friends_count": 4,
+			"listed_count": 5778,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2283,
+		"favorite_count": 3454,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "탱키&amp;햇님표 먹방 곧 시작🍴\n\n#태연 #TAEYEON #입짧은햇님\n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration https://t.co/9bWbgr3o3n"
+	},
+	{
 		"created_at": "Wed Feb 23 07:44:56 +0000 2022",
 		"id": 1496381303545303000,
 		"id_str": "1496390606637121536",
