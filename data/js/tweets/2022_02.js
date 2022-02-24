@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 11:07:08 +0000 2022",
+		"id": 1496802089044877300,
+		"id_str": "1496803879878541313",
+		"full_text": "[🏹 ประกาศ 🏹] รายชื่อผู้โชคดีที่ได้รับ ❝ อัลบั้มเต็มชุดที่ 3 ‘#INVU’ พร้อมลายเซ็น #TAEYEON ❞ รวม 2 รางวัล\n\n🎁 ทีมงานสุ่มเลือกผู้โชคดีมาจากผู้ที่ร่วมเล่นกิจกรรม #TAEYEON_INVU_withThaiSONE ในช่วงวันที่ 14 ~ 21 ก.พ. 65 ที่ผ่านมา\n\n💜 รายละเอียด https://t.co/nVbWfZOAyB\n\n#SMTrue https://t.co/eFGmd3VAIO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "INVU",
+					"indices": [
+						61,
+						66
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "TAEYEON_INVU_withThaiSONE",
+					"indices": [
+						158,
+						184
+					]
+				},
+				{
+					"text": "SMTrue",
+					"indices": [
+						263,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nVbWfZOAyB",
+					"expanded_url": "https://www.facebook.com/smtruethailand/posts/4929634300417812",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496793196826747000,
+					"id_str": "1496793196826746885",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWte28UYAUWqwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWte28UYAUWqwt.jpg",
+					"url": "https://t.co/eFGmd3VAIO",
+					"display_url": "pic.twitter.com/eFGmd3VAIO",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1496802089044877313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496793196826747000,
+					"id_str": "1496793196826746885",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FMWte28UYAUWqwt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMWte28UYAUWqwt.jpg",
+					"url": "https://t.co/eFGmd3VAIO",
+					"display_url": "pic.twitter.com/eFGmd3VAIO",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1496802089044877313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91292,
+			"friends_count": 49,
+			"listed_count": 156,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10451,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "[🏹 ประกาศ 🏹] รายชื่อผู้โชคดีที่ได้รับ ❝ อัลบั้มเต็มชุดที่ 3 ‘#INVU’ พร้อมลายเซ็น #TAEYEON ❞ รวม 2 รางวัล\n\n🎁 ทีมงานสุ่มเลือกผู้โชคดีมาจากผู้ที่ร่วมเล่นกิจกรรม #TAEYEON_INVU_withThaiSONE ในช่วงวันที่ 14 ~ 21 ก.พ. 65 ที่ผ่านมา\n\n💜 รายละเอียด https://t.co/nVbWfZOAyB\n\n#SMTrue https://t.co/eFGmd3VAIO"
+	},
+	{
 		"created_at": "Thu Feb 24 07:07:09 +0000 2022",
 		"id": 1496734135338946600,
 		"id_str": "1496743483088195589",
