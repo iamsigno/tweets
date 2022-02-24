@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 07:07:09 +0000 2022",
+		"id": 1496734135338946600,
+		"id_str": "1496743483088195589",
+		"full_text": "#少女時代 #テヨン の3rdフルアルバム\n\"#INVU\" はもう聴きましたか？💘\n\nフルアルバムのリリースは、\n約2年3ヶ月ぶり✨\n\nダンスナンバーからバラードまで\n多彩な彼女の音楽を\n#Spotify で堪能して🎧\n👉https://t.co/415QTtHqxH\n\n #TAEYEON  #TAEYEON_INVU \n@GirlsGeneration @gg_official_jp https://t.co/QQM8A4IVt4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						6,
+						10
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "Spotify",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						147,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						162,
+						178
+					]
+				},
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						179,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/415QTtHqxH",
+					"expanded_url": "https://spoti.fi/3peryUL",
+					"display_url": "spoti.fi/3peryUL",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1496682389795262500,
+					"id_str": "1496682389795262465",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1496682389795262465/img/7UQELkqiLmFuyHkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1496682389795262465/img/7UQELkqiLmFuyHkt.jpg",
+					"url": "https://t.co/QQM8A4IVt4",
+					"display_url": "pic.twitter.com/QQM8A4IVt4",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1496734135338946565/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496682389795262500,
+					"id_str": "1496682389795262465",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1496682389795262465/img/7UQELkqiLmFuyHkt.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1496682389795262465/img/7UQELkqiLmFuyHkt.jpg",
+					"url": "https://t.co/QQM8A4IVt4",
+					"display_url": "pic.twitter.com/QQM8A4IVt4",
+					"expanded_url": "https://twitter.com/SpotifyJP/status/1496734135338946565/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34667,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1496682389795262465/vid/320x320/bF8YqJO3XbgED3qJ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1496682389795262465/pl/GF7BjWKJnPZuyvpH.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1496682389795262465/vid/540x540/8dDjUKcMs8wUrK4f.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1496682389795262465/vid/720x720/OoWJwUsKJIzMFZOv.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 749773449459937300,
+			"id_str": "749773449459937280",
+			"name": "Spotify Japan",
+			"screen_name": "SpotifyJP",
+			"location": "日本 東京",
+			"description": "音楽からポッドキャストまで。 \n#すべては音からはじまる🎧  世界で4億600万人以上のファンに選ばれているオーディオ ストリーミングサービス。\nカスタマーサポート：@SpotifyCaresJP",
+			"url": "https://t.co/8TdfurAP0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8TdfurAP0w",
+							"expanded_url": "https://www.spotifypremium.jp/",
+							"display_url": "spotifypremium.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 214837,
+			"friends_count": 1627,
+			"listed_count": 1107,
+			"created_at": "Mon Jul 04 01:14:55 +0000 2016",
+			"favourites_count": 16106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212038380407513088/P9PqU4OY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/749773449459937280/1640964398",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 237,
+		"favorite_count": 541,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "#少女時代 #テヨン の3rdフルアルバム\n\"#INVU\" はもう聴きましたか？💘\n\nフルアルバムのリリースは、\n約2年3ヶ月ぶり✨\n\nダンスナンバーからバラードまで\n多彩な彼女の音楽を\n#Spotify で堪能して🎧\n👉https://t.co/415QTtHqxH\n\n #TAEYEON  #TAEYEON_INVU \n@GirlsGeneration @gg_official_jp https://t.co/QQM8A4IVt4"
+	},
+	{
 		"created_at": "Thu Feb 24 05:07:12 +0000 2022",
 		"id": 1496713001722081300,
 		"id_str": "1496713296006848514",
