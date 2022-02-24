@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 04:07:08 +0000 2022",
+		"id": 1496683206351134700,
+		"id_str": "1496698183275192334",
+		"full_text": "#타짜 #김윤석 #서복 #박보검 #다만악에서구하소서 #이정재 #조작된도시 #지창욱 #베테랑 #유아인 #형 #도경수 #협상 #현빈 #기생충 #최우식 #도굴 #이제훈 #설국열차 #틸다스윈튼 #엑시트 #윤아 #불한당 #전혜진",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "타짜",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "김윤석",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "서복",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "박보검",
+					"indices": [
+						13,
+						17
+					]
+				},
+				{
+					"text": "다만악에서구하소서",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"text": "이정재",
+					"indices": [
+						29,
+						33
+					]
+				},
+				{
+					"text": "조작된도시",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						41,
+						45
+					]
+				},
+				{
+					"text": "베테랑",
+					"indices": [
+						46,
+						50
+					]
+				},
+				{
+					"text": "유아인",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "형",
+					"indices": [
+						56,
+						58
+					]
+				},
+				{
+					"text": "도경수",
+					"indices": [
+						59,
+						63
+					]
+				},
+				{
+					"text": "협상",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						68,
+						71
+					]
+				},
+				{
+					"text": "기생충",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "최우식",
+					"indices": [
+						77,
+						81
+					]
+				},
+				{
+					"text": "도굴",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "이제훈",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "설국열차",
+					"indices": [
+						91,
+						96
+					]
+				},
+				{
+					"text": "틸다스윈튼",
+					"indices": [
+						97,
+						103
+					]
+				},
+				{
+					"text": "엑시트",
+					"indices": [
+						104,
+						108
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						109,
+						112
+					]
+				},
+				{
+					"text": "불한당",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "전혜진",
+					"indices": [
+						118,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1496683101254471700,
+		"in_reply_to_status_id_str": "1496683101254471680",
+		"in_reply_to_user_id": 452664114,
+		"in_reply_to_user_id_str": "452664114",
+		"in_reply_to_screen_name": "CJENMMOVIE",
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcHopT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcHopT",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329416,
+			"friends_count": 10742,
+			"listed_count": 234,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6412,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "#타짜 #김윤석 #서복 #박보검 #다만악에서구하소서 #이정재 #조작된도시 #지창욱 #베테랑 #유아인 #형 #도경수 #협상 #현빈 #기생충 #최우식 #도굴 #이제훈 #설국열차 #틸다스윈튼 #엑시트 #윤아 #불한당 #전혜진"
+	},
+	{
 		"created_at": "Thu Feb 24 02:07:20 +0000 2022",
 		"id": 1496659015665086500,
 		"id_str": "1496668034680991753",
