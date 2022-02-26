@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 14:07:09 +0000 2022",
+		"id": 1497572156120572000,
+		"id_str": "1497573956311826442",
+		"full_text": "[Full Focused] TAEYEON(태연) - INVU\n\n▶ https://t.co/cqk2hjCRCg\n\n#BE_ORIGINAL #태연 #INVU\n#TAEYEON @GirlsGeneration #STUDIOCHOOM https://t.co/lXLsLMhAwf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BE_ORIGINAL",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						75,
+						78
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "STUDIOCHOOM",
+					"indices": [
+						111,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cqk2hjCRCg",
+					"expanded_url": "http://youtu.be/613rWA0lXPA",
+					"display_url": "youtu.be/613rWA0lXPA",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497146212012609500,
+					"id_str": "1497146212012609537",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbujC_VUAESp0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbujC_VUAESp0o.jpg",
+					"url": "https://t.co/lXLsLMhAwf",
+					"display_url": "pic.twitter.com/lXLsLMhAwf",
+					"expanded_url": "https://twitter.com/M2MPD/status/1497572156120571907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497146212012609500,
+					"id_str": "1497146212012609537",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbujC_VUAESp0o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbujC_VUAESp0o.jpg",
+					"url": "https://t.co/lXLsLMhAwf",
+					"display_url": "pic.twitter.com/lXLsLMhAwf",
+					"expanded_url": "https://twitter.com/M2MPD/status/1497572156120571907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1229268,
+			"friends_count": 445,
+			"listed_count": 1509,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 568,
+		"favorite_count": 596,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "[Full Focused] TAEYEON(태연) - INVU\n\n▶ https://t.co/cqk2hjCRCg\n\n#BE_ORIGINAL #태연 #INVU\n#TAEYEON @GirlsGeneration #STUDIOCHOOM https://t.co/lXLsLMhAwf"
+	},
+	{
 		"created_at": "Sat Feb 26 13:07:11 +0000 2022",
 		"id": 1497557399515054000,
 		"id_str": "1497558864014856192",
