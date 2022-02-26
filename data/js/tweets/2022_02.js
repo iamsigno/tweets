@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 06:44:57 +0000 2022",
+		"id": 1497457156580581400,
+		"id_str": "1497462671670661128",
+		"full_text": "🗳 2/26 쇼! #음악중심 1위 투표 안내💜\n\n✔️ 투표 방법\n➡️ #0505 로 '태연' 또는 ‘2’ 입력 후 전송📱\n(건당 유료 100원 부과됩니다.)\n\n✔️ 투표 시간\n➡️ 실시간 문자투표 종료까지\n\n많은 응원 부탁드립니다🏹\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "음악중심",
+					"indices": [
+						10,
+						15
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						131,
+						134
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						135,
+						143
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						151,
+						164
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						171,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3736899,
+			"friends_count": 4,
+			"listed_count": 5776,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485990971917877258/ZyKbbdwA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1434,
+		"favorite_count": 2504,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "🗳 2/26 쇼! #음악중심 1위 투표 안내💜\n\n✔️ 투표 방법\n➡️ #0505 로 '태연' 또는 ‘2’ 입력 후 전송📱\n(건당 유료 100원 부과됩니다.)\n\n✔️ 투표 시간\n➡️ 실시간 문자투표 종료까지\n\n많은 응원 부탁드립니다🏹\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Fri Feb 25 09:07:09 +0000 2022",
 		"id": 1497134281767936000,
 		"id_str": "1497136069703262235",
