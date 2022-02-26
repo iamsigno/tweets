@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 13:07:11 +0000 2022",
+		"id": 1497557399515054000,
+		"id_str": "1497558864014856192",
+		"full_text": "TAEYEON 태연 ‘INVU’ Jacket Behind The Scenes \n\nhttps://t.co/hWYLbto3cF\n\n#태연 #TAEYEON \n#TAEYEONOfficial @TAEYEONsmtown\n#INVU #TAEYEON_INVU\n#Jacket #Behind https://t.co/4qCoBip9fS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						74,
+						82
+					]
+				},
+				{
+					"text": "TAEYEONOfficial",
+					"indices": [
+						84,
+						100
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "Jacket",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						144,
+						151
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hWYLbto3cF",
+					"expanded_url": "https://youtu.be/E_hnfC1Dg34",
+					"display_url": "youtu.be/E_hnfC1Dg34",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497557394465112000,
+					"id_str": "1497557394465112068",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FMhkhA_aQAQBtvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMhkhA_aQAQBtvC.jpg",
+					"url": "https://t.co/4qCoBip9fS",
+					"display_url": "pic.twitter.com/4qCoBip9fS",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1497557399515054084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497557394465112000,
+					"id_str": "1497557394465112068",
+					"indices": [
+						152,
+						175
+					],
+					"media_url": "http://pbs.twimg.com/media/FMhkhA_aQAQBtvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMhkhA_aQAQBtvC.jpg",
+					"url": "https://t.co/4qCoBip9fS",
+					"display_url": "pic.twitter.com/4qCoBip9fS",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1497557399515054084/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 669,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1199,
+							"h": 669,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3737153,
+			"friends_count": 5,
+			"listed_count": 5780,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1643122832",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1177,
+		"favorite_count": 1672,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON 태연 ‘INVU’ Jacket Behind The Scenes \n\nhttps://t.co/hWYLbto3cF\n\n#태연 #TAEYEON \n#TAEYEONOfficial @TAEYEONsmtown\n#INVU #TAEYEON_INVU\n#Jacket #Behind https://t.co/4qCoBip9fS"
+	},
+	{
 		"created_at": "Sat Feb 26 06:44:57 +0000 2022",
 		"id": 1497457156580581400,
 		"id_str": "1497462671670661128",
