@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 03:07:13 +0000 2022",
+		"id": 1497768489951678500,
+		"id_str": "1497770268164595713",
+		"full_text": "【#TAEYEON】\n＼本日2/27(日)23:59まで！⏰／\n韓国3rd正規アルバム『#INVU』\nオンラインサイン会応募抽選シリアルコード特典付き商品まもなく販売終了！\n抽選で「テヨン直筆サイン入りポラロイド」もプレゼント🎁\nご予約はこちら →https://t.co/eTTquPZ1lk\n#TAEYEON_INVU #テヨン https://t.co/MJ6OdO3vr0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"text": "テヨン",
+					"indices": [
+						162,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eTTquPZ1lk",
+					"expanded_url": "https://bit.ly/3gJPXNt",
+					"display_url": "bit.ly/3gJPXNt",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1497768486852087800,
+					"id_str": "1497768486852087809",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FMkkgNaX0AEuTOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMkkgNaX0AEuTOa.jpg",
+					"url": "https://t.co/MJ6OdO3vr0",
+					"display_url": "pic.twitter.com/MJ6OdO3vr0",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1497768489951678474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497768486852087800,
+					"id_str": "1497768486852087809",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FMkkgNaX0AEuTOa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMkkgNaX0AEuTOa.jpg",
+					"url": "https://t.co/MJ6OdO3vr0",
+					"display_url": "pic.twitter.com/MJ6OdO3vr0",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1497768489951678474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 38743,
+			"friends_count": 157,
+			"listed_count": 250,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 32,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【#TAEYEON】\n＼本日2/27(日)23:59まで！⏰／\n韓国3rd正規アルバム『#INVU』\nオンラインサイン会応募抽選シリアルコード特典付き商品まもなく販売終了！\n抽選で「テヨン直筆サイン入りポラロイド」もプレゼント🎁\nご予約はこちら →https://t.co/eTTquPZ1lk\n#TAEYEON_INVU #テヨン https://t.co/MJ6OdO3vr0"
+	},
+	{
 		"created_at": "Sat Feb 26 14:07:09 +0000 2022",
 		"id": 1497572156120572000,
 		"id_str": "1497573956311826442",
