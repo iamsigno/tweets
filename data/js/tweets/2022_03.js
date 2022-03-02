@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 02 07:07:09 +0000 2022",
+		"id": 1498908474234728400,
+		"id_str": "1498917810201841664",
+		"full_text": "[#SMTrue_PreOrder]\n\n❝ อัลบั้มเต็มชุดที่ 3 ‘𝗜𝗡𝗩𝗨’ (𝗟𝗣 𝗩𝗲𝗿.) ของ #TAEYEON ❞\n\n🏹 อัลบั้มละ 2,150 บาท\n\n🏹 ตอนนี้ ~ 7 มี.ค. 65 เวลา 12.00 น. ทาง https://t.co/WCIqokSdtm\n\n🏹 สินค้าพร้อมจัดส่งประมาณ ธ.ค. 65\n\n🏹 รายละเอียด https://t.co/ipnuhyeR0O\n\n#태연 #INVU #GirlsGeneration https://t.co/ehrIXPDHrh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTrue_PreOrder",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						236,
+						239
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						240,
+						245
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						246,
+						262
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WCIqokSdtm",
+					"expanded_url": "http://store.weloveshopping.com/thsumstore",
+					"display_url": "store.weloveshopping.com/thsumstore",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/ipnuhyeR0O",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/4945895515458357",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1498906483475447800,
+					"id_str": "1498906483475447808",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FM0vgVMVgAAleV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM0vgVMVgAAleV5.jpg",
+					"url": "https://t.co/ehrIXPDHrh",
+					"display_url": "pic.twitter.com/ehrIXPDHrh",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1498908474234728449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498906483475447800,
+					"id_str": "1498906483475447808",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/media/FM0vgVMVgAAleV5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM0vgVMVgAAleV5.jpg",
+					"url": "https://t.co/ehrIXPDHrh",
+					"display_url": "pic.twitter.com/ehrIXPDHrh",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1498908474234728449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91472,
+			"friends_count": 50,
+			"listed_count": 154,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "[#SMTrue_PreOrder]\n\n❝ อัลบั้มเต็มชุดที่ 3 ‘𝗜𝗡𝗩𝗨’ (𝗟𝗣 𝗩𝗲𝗿.) ของ #TAEYEON ❞\n\n🏹 อัลบั้มละ 2,150 บาท\n\n🏹 ตอนนี้ ~ 7 มี.ค. 65 เวลา 12.00 น. ทาง https://t.co/WCIqokSdtm\n\n🏹 สินค้าพร้อมจัดส่งประมาณ ธ.ค. 65\n\n🏹 รายละเอียด https://t.co/ipnuhyeR0O\n\n#태연 #INVU #GirlsGeneration https://t.co/ehrIXPDHrh"
+	},
+	{
 		"created_at": "Wed Mar 02 05:07:09 +0000 2022",
 		"id": 1498876435985203200,
 		"id_str": "1498887610730749954",
