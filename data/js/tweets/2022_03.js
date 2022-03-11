@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 11 15:07:09 +0000 2022",
+		"id": 1502294279833944000,
+		"id_str": "1502300096297373704",
+		"full_text": "🎵 효정 - 그대라는 시 (원곡: 태연)\n\n#HYOJUNG - All about you (TAEYEON) Live\nClick the link to watch the full ver.\nhttps://t.co/opZXRTOqSO\n\n#효정 #그대라는_시 #오마이걸 #OHMYGIRL\n#봉춘뮤직 #MBCRADIO #KPOP https://t.co/f5iV6B3BnR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOJUNG",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"text": "효정",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "그대라는_시",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "오마이걸",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						145,
+						154
+					]
+				},
+				{
+					"text": "봉춘뮤직",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "MBCRADIO",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "KPOP",
+					"indices": [
+						171,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/opZXRTOqSO",
+					"expanded_url": "https://youtu.be/tgFgwsp_iy4",
+					"display_url": "youtu.be/tgFgwsp_iy4",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1502294121687715800,
+					"id_str": "1502294121687715841",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502294121687715841/pu/img/RGa7cDjZDi5xxDzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502294121687715841/pu/img/RGa7cDjZDi5xxDzQ.jpg",
+					"url": "https://t.co/f5iV6B3BnR",
+					"display_url": "pic.twitter.com/f5iV6B3BnR",
+					"expanded_url": "https://twitter.com/radiombc/status/1502294279833944070/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502294121687715800,
+					"id_str": "1502294121687715841",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1502294121687715841/pu/img/RGa7cDjZDi5xxDzQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1502294121687715841/pu/img/RGa7cDjZDi5xxDzQ.jpg",
+					"url": "https://t.co/f5iV6B3BnR",
+					"display_url": "pic.twitter.com/f5iV6B3BnR",
+					"expanded_url": "https://twitter.com/radiombc/status/1502294279833944070/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30463,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502294121687715841/pu/vid/1280x720/LZzr25kWlWEfpTGU.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502294121687715841/pu/vid/480x270/lnGOhP6PHsbOfT7T.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1502294121687715841/pu/pl/no942qsLD0Fxddrm.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1502294121687715841/pu/vid/640x360/4JMMuH0P2PdXw0W2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/aMXLX3vY7V",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aMXLX3vY7V",
+							"expanded_url": "https://www.youtube.com/RadioMBC",
+							"display_url": "youtube.com/RadioMBC",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76186,
+			"friends_count": 44,
+			"listed_count": 597,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 9,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290175170045292544/Caze5N6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🎵 효정 - 그대라는 시 (원곡: 태연)\n\n#HYOJUNG - All about you (TAEYEON) Live\nClick the link to watch the full ver.\nhttps://t.co/opZXRTOqSO\n\n#효정 #그대라는_시 #오마이걸 #OHMYGIRL\n#봉춘뮤직 #MBCRADIO #KPOP https://t.co/f5iV6B3BnR"
+	},
+	{
 		"created_at": "Wed Mar 09 07:07:09 +0000 2022",
 		"id": 1501439891581718500,
 		"id_str": "1501454525290500099",
