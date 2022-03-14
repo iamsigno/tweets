@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 14 06:07:25 +0000 2022",
+		"id": 1503240184934002700,
+		"id_str": "1503251432635523072",
+		"full_text": "[#오덕상점]\n▪︎스테이씨(STAYC)▪︎\n짱테이씨😎가 띵곡으로 ‘RUN TO SWITH’💨 하니까\n태연하게 케이팝🎤 점령🔥한 런투유 활동 기념🎊\n스테이씨 사인 폴라 이벤트!💥\n-\n👉참여 : https://t.co/qEpX2qoRr8\n-\n#쇼챔피언 #SHOWCHAMPION\n#STAYC #스테이씨 https://t.co/SQD6iR4Ra0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "오덕상점",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "쇼챔피언",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "SHOWCHAMPION",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"text": "STAYC",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"text": "스테이씨",
+					"indices": [
+						160,
+						165
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qEpX2qoRr8",
+					"expanded_url": "https://bit.ly/3KCwqeI",
+					"display_url": "bit.ly/3KCwqeI",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1503240153703223300,
+					"id_str": "1503240153703223300",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FNyU9I2VkAQc6lQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNyU9I2VkAQc6lQ.jpg",
+					"url": "https://t.co/SQD6iR4Ra0",
+					"display_url": "pic.twitter.com/SQD6iR4Ra0",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1503240184934002689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503240153703223300,
+					"id_str": "1503240153703223300",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/media/FNyU9I2VkAQc6lQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNyU9I2VkAQc6lQ.jpg",
+					"url": "https://t.co/SQD6iR4Ra0",
+					"display_url": "pic.twitter.com/SQD6iR4Ra0",
+					"expanded_url": "https://twitter.com/mbcplusm/status/1503240184934002689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 447600838,
+			"id_str": "447600838",
+			"name": "MBC M",
+			"screen_name": "mbcplusm",
+			"location": "일산 MBC드림센터",
+			"description": "MBC M 공식 트위터입니다.",
+			"url": "https://t.co/CNaCbZTOqc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CNaCbZTOqc",
+							"expanded_url": "http://www.instagram.com/mbcplus_m",
+							"display_url": "instagram.com/mbcplus_m",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187683,
+			"friends_count": 11,
+			"listed_count": 378,
+			"created_at": "Tue Dec 27 02:37:54 +0000 2011",
+			"favourites_count": 828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229594541151248387/pgzxX2lI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/447600838/1644198695",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#오덕상점]\n▪︎스테이씨(STAYC)▪︎\n짱테이씨😎가 띵곡으로 ‘RUN TO SWITH’💨 하니까\n태연하게 케이팝🎤 점령🔥한 런투유 활동 기념🎊\n스테이씨 사인 폴라 이벤트!💥\n-\n👉참여 : https://t.co/qEpX2qoRr8\n-\n#쇼챔피언 #SHOWCHAMPION\n#STAYC #스테이씨 https://t.co/SQD6iR4Ra0"
+	},
+	{
 		"created_at": "Mon Mar 14 02:07:09 +0000 2022",
 		"id": 1503189169039806500,
 		"id_str": "1503190967083573253",
