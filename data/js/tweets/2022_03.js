@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 15 02:07:08 +0000 2022",
+		"id": 1503549055615795200,
+		"id_str": "1503553354290671621",
+		"full_text": "#KWONYURI, joining Disney+ variety show 'The Zone: Survival Mission'! \n\"Please look forward to the pleasant chemistry with YOO JAESEOK and LEE KWANGSOO along with my different side.”\nTo show her new sense of humor and fun! \n\n#권유리 #더존_버텨야산다 \n#소녀시대 #GirlsGeneration https://t.co/qbtde37MA3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						225,
+						229
+					]
+				},
+				{
+					"text": "더존_버텨야산다",
+					"indices": [
+						230,
+						239
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						241,
+						246
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						247,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1503549050989461500,
+					"id_str": "1503549050989461505",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FN2t5U6aQAEo0MK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN2t5U6aQAEo0MK.jpg",
+					"url": "https://t.co/qbtde37MA3",
+					"display_url": "pic.twitter.com/qbtde37MA3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1503549055615795200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1503549050989461500,
+					"id_str": "1503549050989461505",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/FN2t5U6aQAEo0MK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FN2t5U6aQAEo0MK.jpg",
+					"url": "https://t.co/qbtde37MA3",
+					"display_url": "pic.twitter.com/qbtde37MA3",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1503549055615795200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10686371,
+			"friends_count": 56,
+			"listed_count": 11959,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 720,
+		"favorite_count": 2236,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#KWONYURI, joining Disney+ variety show 'The Zone: Survival Mission'! \n\"Please look forward to the pleasant chemistry with YOO JAESEOK and LEE KWANGSOO along with my different side.”\nTo show her new sense of humor and fun! \n\n#권유리 #더존_버텨야산다 \n#소녀시대 #GirlsGeneration https://t.co/qbtde37MA3"
+	},
+	{
 		"created_at": "Mon Mar 14 06:07:25 +0000 2022",
 		"id": 1503240184934002700,
 		"id_str": "1503251432635523072",
