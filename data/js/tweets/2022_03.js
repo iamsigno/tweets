@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 04:45:06 +0000 2022",
+		"id": 1504271982153846800,
+		"id_str": "1504680269164466182",
+		"full_text": "역시 ‘믿듣탱’! 태연 정규 3집 ‘INVU’ 가온차트 4주 연속 2관왕! 음악방송 7관왕!\n'독보적 음원퀸' 롱런 인기 입증!\n \nhttps://t.co/bGenK2NDbf\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						113,
+						118
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						119,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bGenK2NDbf",
+					"expanded_url": "https://bit.ly/37q6CUH",
+					"display_url": "bit.ly/37q6CUH",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80643,
+			"friends_count": 2,
+			"listed_count": 220,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1617,
+		"favorite_count": 4293,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역시 ‘믿듣탱’! 태연 정규 3집 ‘INVU’ 가온차트 4주 연속 2관왕! 음악방송 7관왕!\n'독보적 음원퀸' 롱런 인기 입증!\n \nhttps://t.co/bGenK2NDbf\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU"
+	},
+	{
+		"created_at": "Fri Mar 18 04:45:01 +0000 2022",
+		"id": 1502919326760059000,
+		"id_str": "1504680247698071553",
+		"full_text": "🏆#인기가요 INVU 1위🏆\n값진 7관왕 감사합니다🏹🎉💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#INVU7thWin #INVU2ndTripleCrown https://t.co/DI5bU26KvV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "인기가요",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						33,
+						36
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"text": "INVU7thWin",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"text": "INVU2ndTripleCrown",
+					"indices": [
+						79,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1502919316085547000,
+					"id_str": "1502919316085547008",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FNtxJ7laIAAXgGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNtxJ7laIAAXgGU.jpg",
+					"url": "https://t.co/DI5bU26KvV",
+					"display_url": "pic.twitter.com/DI5bU26KvV",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1502919326760058885/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1502919316085547000,
+					"id_str": "1502919316085547008",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FNtxJ7laIAAXgGU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNtxJ7laIAAXgGU.jpg",
+					"url": "https://t.co/DI5bU26KvV",
+					"display_url": "pic.twitter.com/DI5bU26KvV",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1502919326760058885/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80643,
+			"friends_count": 2,
+			"listed_count": 220,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 28,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7837,
+		"favorite_count": 20167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🏆#인기가요 INVU 1위🏆\n값진 7관왕 감사합니다🏹🎉💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#INVU7thWin #INVU2ndTripleCrown https://t.co/DI5bU26KvV"
+	},
+	{
 		"created_at": "Thu Mar 17 13:07:09 +0000 2022",
 		"id": 1504432429716897800,
 		"id_str": "1504444225458524160",
