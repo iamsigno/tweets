@@ -1,10 +1,384 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Tue Mar 22 03:07:17 +0000 2022",
+		"id": 1506104221879664600,
+		"id_str": "1506105203975757824",
+		"full_text": "거의 요즘 아침-점심 수준\n너무 극명해서 오히려 좋아❤️\n같은 사람 다른 온도 내 최애는?\n\n#C네마을 #김태리 #현빈 #김혜수 #이정재 #윤아 #정우성 #1987 #아가씨 #공조 #협상 #타짜 #국가부도의날 #사바하 #다만악에서구하소서 #엑시트 #나를잊지말아요 #아수라 #온도차 https://t.co/lqfHTsXT0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "C네마을",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "김태리",
+					"indices": [
+						58,
+						62
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						63,
+						66
+					]
+				},
+				{
+					"text": "김혜수",
+					"indices": [
+						67,
+						71
+					]
+				},
+				{
+					"text": "이정재",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "정우성",
+					"indices": [
+						81,
+						85
+					]
+				},
+				{
+					"text": "아가씨",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "공조",
+					"indices": [
+						97,
+						100
+					]
+				},
+				{
+					"text": "협상",
+					"indices": [
+						101,
+						104
+					]
+				},
+				{
+					"text": "타짜",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "국가부도의날",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "사바하",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "다만악에서구하소서",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"text": "엑시트",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "나를잊지말아요",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "아수라",
+					"indices": [
+						147,
+						151
+					]
+				},
+				{
+					"text": "온도차",
+					"indices": [
+						152,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506104214560600000,
+					"id_str": "1506104214560600064",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FObBza-acAAGaiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObBza-acAAGaiN.jpg",
+					"url": "https://t.co/lqfHTsXT0o",
+					"display_url": "pic.twitter.com/lqfHTsXT0o",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1506104221879664641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506104214560600000,
+					"id_str": "1506104214560600064",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FObBza-acAAGaiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObBza-acAAGaiN.jpg",
+					"url": "https://t.co/lqfHTsXT0o",
+					"display_url": "pic.twitter.com/lqfHTsXT0o",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1506104221879664641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1506104214560608300,
+					"id_str": "1506104214560608257",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FObBza-akAEHvHg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObBza-akAEHvHg.jpg",
+					"url": "https://t.co/lqfHTsXT0o",
+					"display_url": "pic.twitter.com/lqfHTsXT0o",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1506104221879664641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1506104215210717200,
+					"id_str": "1506104215210717191",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FObBzdZacAcPokf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FObBzdZacAcPokf.jpg",
+					"url": "https://t.co/lqfHTsXT0o",
+					"display_url": "pic.twitter.com/lqfHTsXT0o",
+					"expanded_url": "https://twitter.com/CJENMMOVIE/status/1506104221879664641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 452664114,
+			"id_str": "452664114",
+			"name": "CJ ENM Movie",
+			"screen_name": "CJENMMOVIE",
+			"location": "",
+			"description": "아시아 No.1 스튜디오 CJ ENM_Movie 공식 트위터입니다. 28년 동안 한 우물만 파고 있는 C네마을🏡",
+			"url": "https://t.co/RJkRVcHopT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RJkRVcHopT",
+							"expanded_url": "https://www.youtube.com/user/cjenmmovie",
+							"display_url": "youtube.com/user/cjenmmovie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 329099,
+			"friends_count": 10738,
+			"listed_count": 0,
+			"created_at": "Mon Jan 02 03:32:49 +0000 2012",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412645930050805762/NLrBIhfv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/452664114/1625636011",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "거의 요즘 아침-점심 수준\n너무 극명해서 오히려 좋아❤️\n같은 사람 다른 온도 내 최애는?\n\n#C네마을 #김태리 #현빈 #김혜수 #이정재 #윤아 #정우성 #1987 #아가씨 #공조 #협상 #타짜 #국가부도의날 #사바하 #다만악에서구하소서 #엑시트 #나를잊지말아요 #아수라 #온도차 https://t.co/lqfHTsXT0o"
+	},
+	{
 		"created_at": "Sat Mar 19 08:44:57 +0000 2022",
 		"id": 1505096651589193700,
 		"id_str": "1505103016160071681",
-		"full_text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚‍♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS",
+		"full_text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -216,7 +590,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚‍♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS"
+		"text": "🥇#음악중심 INVU 1위 🥇\n4주 연속 소원의 응원 감사합니다! 🧚♀️💜\n\n#태연 #TAEYEON\n#INVU #TAEYEON_INVU\n#INVU8thWin https://t.co/WkV60dfLPS"
 	},
 	{
 		"created_at": "Fri Mar 18 04:45:06 +0000 2022",
