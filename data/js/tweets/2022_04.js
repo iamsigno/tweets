@@ -1,6 +1,369 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 11:07:09 +0000 2022",
+		"id": 1511297944624181200,
+		"id_str": "1511299395534393347",
+		"full_text": "자. 게임을 시작하지. #크래비티 와의 \n아찔심쿵아드레날린뿜! 마피아 게임🔫\n트와이스부터 BTS, 오마이걸, 태연까지?!\n달콤상콤 봄 플레이리스트 중 안무를 다르게 추는 마피아를 찾아라!🍀\n\n여러분이 생각하는 마피아팀에 투표하세요🗳\n#CRAVITY @CRAVITYstarship https://t.co/YRfiPU54Sa https://t.co/GzpmUW9G9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "크래비티",
+					"indices": [
+						13,
+						18
+					]
+				},
+				{
+					"text": "CRAVITY",
+					"indices": [
+						130,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CRAVITYstarship",
+					"name": "CRAVITY OFFICIAL",
+					"id": 1220250953091174400,
+					"id_str": "1220250953091174400",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YRfiPU54Sa",
+					"expanded_url": "https://twitter.com/1thek/status/1511297602889064449",
+					"display_url": "twitter.com/1thek/status/1…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511297882066145300,
+					"id_str": "1511297882066145280",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FPk1lVrakA4Z9Y-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPk1lVrakA4Z9Y-.jpg",
+					"url": "https://t.co/GzpmUW9G9S",
+					"display_url": "pic.twitter.com/GzpmUW9G9S",
+					"expanded_url": "https://twitter.com/1theK/status/1511297944624181255/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511297882066145300,
+					"id_str": "1511297882066145280",
+					"indices": [
+						180,
+						203
+					],
+					"media_url": "http://pbs.twimg.com/media/FPk1lVrakA4Z9Y-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPk1lVrakA4Z9Y-.jpg",
+					"url": "https://t.co/GzpmUW9G9S",
+					"display_url": "pic.twitter.com/GzpmUW9G9S",
+					"expanded_url": "https://twitter.com/1theK/status/1511297944624181255/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122389,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511297882066145280/pu/vid/640x360/ddymbyq27Rfy3O1y.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511297882066145280/pu/vid/1280x720/qA0Rvj0JVeXyAEHI.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1511297882066145280/pu/vid/480x270/BWD6ScKn8Ks41-mt.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1511297882066145280/pu/pl/GlHTn0_J9n_AjCoy.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2322739,
+			"friends_count": 813,
+			"listed_count": 2188,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14699,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1648810778",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1511297602889064400,
+		"quoted_status_id_str": "1511297602889064449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YRfiPU54Sa",
+			"expanded": "https://twitter.com/1thek/status/1511297602889064449",
+			"display": "twitter.com/1thek/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 05 11:00:01 +0000 2022",
+			"id": 1511297602889064400,
+			"id_str": "1511297602889064449",
+			"full_text": "🌸케이팝 봄 노래 플레이리스트✨\n킬링파트 마피아가 된 크래비티 멤버들은 누구?! \nWhich team is a dance mafia team in #CRAVITY? ☞ https://t.co/of8lAXkRLW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CRAVITY",
+						"indices": [
+							82,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/of8lAXkRLW",
+						"expanded_url": "https://youtu.be/cQlkldD6SE4",
+						"display_url": "youtu.be/cQlkldD6SE4",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568871711,
+				"id_str": "568871711",
+				"name": "1theK(원더케이)",
+				"screen_name": "1theK",
+				"location": "Korea",
+				"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+				"url": "https://t.co/BmRz0M5nTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BmRz0M5nTk",
+								"expanded_url": "http://www.youtube.com/1thek",
+								"display_url": "youtube.com/1thek",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2322739,
+				"friends_count": 813,
+				"listed_count": 2188,
+				"created_at": "Wed May 02 07:04:27 +0000 2012",
+				"favourites_count": 14699,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24093,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1648810778",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 77,
+			"favorite_count": 94,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 130,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "자. 게임을 시작하지. #크래비티 와의 \n아찔심쿵아드레날린뿜! 마피아 게임🔫\n트와이스부터 BTS, 오마이걸, 태연까지?!\n달콤상콤 봄 플레이리스트 중 안무를 다르게 추는 마피아를 찾아라!🍀\n\n여러분이 생각하는 마피아팀에 투표하세요🗳\n#CRAVITY @CRAVITYstarship https://t.co/YRfiPU54Sa https://t.co/GzpmUW9G9S"
+	},
+	{
 		"created_at": "Sun Apr 03 10:07:08 +0000 2022",
 		"id": 1510557721824796700,
 		"id_str": "1510559518693990403",
