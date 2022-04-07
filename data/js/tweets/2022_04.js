@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 03:07:09 +0000 2022",
+		"id": 1511894153004683300,
+		"id_str": "1511903375000219648",
+		"full_text": "TAEYEON’s ‘INVU’ also won two crowns on Gaon March monthly charts!\nTopped on digital and streaming charts! \n\nhttps://t.co/DyNPahT6IC\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#가온차트 #gaonchart",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						138,
+						146
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						148,
+						153
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						154,
+						167
+					]
+				},
+				{
+					"text": "가온차트",
+					"indices": [
+						168,
+						173
+					]
+				},
+				{
+					"text": "gaonchart",
+					"indices": [
+						174,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DyNPahT6IC",
+					"expanded_url": "https://bit.ly/3KgGZEo",
+					"display_url": "bit.ly/3KgGZEo",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1511894150987149300,
+		"in_reply_to_status_id_str": "1511894150987149319",
+		"in_reply_to_user_id": 1496499777965822000,
+		"in_reply_to_user_id_str": "1496499777965821956",
+		"in_reply_to_screen_name": "TAEYEONsmtown",
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 90288,
+			"friends_count": 2,
+			"listed_count": 263,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 36,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON’s ‘INVU’ also won two crowns on Gaon March monthly charts!\nTopped on digital and streaming charts! \n\nhttps://t.co/DyNPahT6IC\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU\n#가온차트 #gaonchart"
+	},
+	{
 		"created_at": "Tue Apr 05 11:07:09 +0000 2022",
 		"id": 1511297944624181200,
 		"id_str": "1511299395534393347",
