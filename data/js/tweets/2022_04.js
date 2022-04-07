@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 06:07:11 +0000 2022",
+		"id": 1511935468576772000,
+		"id_str": "1511948681666248705",
+		"full_text": "매일매일 새로운 기록을 달성 중인 INVU 🏹 \n\n소원 덕에 아직도 INVU가 많은 분들께 사랑을 받고 있는 것 같아요👍\n항상 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						99,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1511935465619816400,
+		"in_reply_to_status_id_str": "1511935465619816449",
+		"in_reply_to_user_id": 391115625,
+		"in_reply_to_user_id_str": "391115625",
+		"in_reply_to_screen_name": "GirlsGeneration",
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3742943,
+			"friends_count": 5,
+			"listed_count": 5837,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1646751605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 314,
+		"favorite_count": 977,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "매일매일 새로운 기록을 달성 중인 INVU 🏹 \n\n소원 덕에 아직도 INVU가 많은 분들께 사랑을 받고 있는 것 같아요👍\n항상 감사합니다💜\n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU"
+	},
+	{
+		"created_at": "Thu Apr 07 05:45:00 +0000 2022",
+		"id": 1511935465619816400,
+		"id_str": "1511943102138929154",
+		"full_text": "👑가온 3월 월간차트 1위로 2관왕 달성👑 \n\n음원 및 음반차트 1위 \n음악방송 8관왕\n아이튠즈 톱 앨범 차트 전 세계 23개 지역 1위\n중국 QQ 뮤직 디지털 앨범 판매 차트 및 \nMV 차트 한국 부문 1위 기록❗️ \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU https://t.co/KLtGEm1bUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						128,
+						136
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						144,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511935457440911400,
+					"id_str": "1511935457440911362",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt5SbgVUAIo2xH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt5SbgVUAIo2xH.jpg",
+					"url": "https://t.co/KLtGEm1bUX",
+					"display_url": "pic.twitter.com/KLtGEm1bUX",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1511935465619816449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511935457440911400,
+					"id_str": "1511935457440911362",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FPt5SbgVUAIo2xH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPt5SbgVUAIo2xH.jpg",
+					"url": "https://t.co/KLtGEm1bUX",
+					"display_url": "pic.twitter.com/KLtGEm1bUX",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1511935465619816449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 853,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3742943,
+			"friends_count": 5,
+			"listed_count": 5837,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1646751605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1300,
+		"favorite_count": 3606,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👑가온 3월 월간차트 1위로 2관왕 달성👑 \n\n음원 및 음반차트 1위 \n음악방송 8관왕\n아이튠즈 톱 앨범 차트 전 세계 23개 지역 1위\n중국 QQ 뮤직 디지털 앨범 판매 차트 및 \nMV 차트 한국 부문 1위 기록❗️ \n\n#태연 #TAEYEON \n#INVU #TAEYEON_INVU https://t.co/KLtGEm1bUX"
+	},
+	{
 		"created_at": "Thu Apr 07 03:07:09 +0000 2022",
 		"id": 1511894153004683300,
 		"id_str": "1511903375000219648",
