@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 03:07:09 +0000 2022",
+		"id": 1512256414743507000,
+		"id_str": "1512265763528261634",
+		"full_text": "[#NEWS] 인간 듀엘 ‘서현’이 듀엘에 왔서현\n▶ https://t.co/4nYes0SIvN\n\n#서현 #듀엘 #SEOHYUN #DEWL https://t.co/4R3O6iOjV6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "듀엘",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "DEWL",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4nYes0SIvN",
+					"expanded_url": "https://bit.ly/35Wf7Xq",
+					"display_url": "bit.ly/35Wf7Xq",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512252983337095200,
+					"id_str": "1512252983337095170",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FPyaE3pVEAIyNBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPyaE3pVEAIyNBi.jpg",
+					"url": "https://t.co/4R3O6iOjV6",
+					"display_url": "pic.twitter.com/4R3O6iOjV6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1512256414743506949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 477,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512252983337095200,
+					"id_str": "1512252983337095170",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FPyaE3pVEAIyNBi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPyaE3pVEAIyNBi.jpg",
+					"url": "https://t.co/4R3O6iOjV6",
+					"display_url": "pic.twitter.com/4R3O6iOjV6",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1512256414743506949/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 477,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 477,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59339,
+			"friends_count": 12,
+			"listed_count": 265,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 104,
+		"favorite_count": 128,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 인간 듀엘 ‘서현’이 듀엘에 왔서현\n▶ https://t.co/4nYes0SIvN\n\n#서현 #듀엘 #SEOHYUN #DEWL https://t.co/4R3O6iOjV6"
+	},
+	{
 		"created_at": "Thu Apr 07 12:07:08 +0000 2022",
 		"id": 1512028510113579000,
 		"id_str": "1512039269254189060",
