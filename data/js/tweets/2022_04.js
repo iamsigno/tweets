@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 19 06:07:08 +0000 2022",
+		"id": 1516282611047432200,
+		"id_str": "1516297327568465929",
+		"full_text": "KWON YURI confirmed to star in new romantic investigative drama 'Good Job’! She will be coming back as a bright and cheerful character with a super-vision ability. \nExcitement is high for this new drama!\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob \n#소녀시대 #GirlsGeneration https://t.co/G0NN41RQAz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						205,
+						209
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						220,
+						223
+					]
+				},
+				{
+					"text": "GoodJob",
+					"indices": [
+						224,
+						232
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						234,
+						239
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516282601605980200,
+					"id_str": "1516282601605980161",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FQrq_hfUYAE5W_F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQrq_hfUYAE5W_F.jpg",
+					"url": "https://t.co/G0NN41RQAz",
+					"display_url": "pic.twitter.com/G0NN41RQAz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516282611047432198/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516282601605980200,
+					"id_str": "1516282601605980161",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FQrq_hfUYAE5W_F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQrq_hfUYAE5W_F.jpg",
+					"url": "https://t.co/G0NN41RQAz",
+					"display_url": "pic.twitter.com/G0NN41RQAz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516282611047432198/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1516282601597677600,
+					"id_str": "1516282601597677568",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FQrq_hdVsAAf29d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQrq_hdVsAAf29d.jpg",
+					"url": "https://t.co/G0NN41RQAz",
+					"display_url": "pic.twitter.com/G0NN41RQAz",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516282611047432198/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10767133,
+			"friends_count": 56,
+			"listed_count": 12082,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1120,
+		"favorite_count": 3428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON YURI confirmed to star in new romantic investigative drama 'Good Job’! She will be coming back as a bright and cheerful character with a super-vision ability. \nExcitement is high for this new drama!\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob \n#소녀시대 #GirlsGeneration https://t.co/G0NN41RQAz"
+	},
+	{
 		"created_at": "Wed Apr 13 05:07:09 +0000 2022",
 		"id": 1514106246030569500,
 		"id_str": "1514107902167900160",
