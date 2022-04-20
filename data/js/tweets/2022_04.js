@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 11:07:08 +0000 2022",
+		"id": 1516722320597188600,
+		"id_str": "1516735211874226180",
+		"full_text": "LIM YOONA คอนเฟิร์มรับบทแสดงนำ ในละครโรแมนติกคอมเมดี้เรื่องใหม่ ‘King the Land’!\n\n💖 https://t.co/i5PL2khqUJ\n\n#임윤아 #LIMYOONA\n#킹더랜드 #KingTheLand \n#소녀시대 #GirlsGeneration https://t.co/iH0xbqV8qd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						109,
+						113
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "킹더랜드",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "KingTheLand",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						150,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i5PL2khqUJ",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/5074884942559413",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1516722144172212200,
+					"id_str": "1516722144172212226",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FQx6wRJagAI9T4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQx6wRJagAI9T4W.jpg",
+					"url": "https://t.co/iH0xbqV8qd",
+					"display_url": "pic.twitter.com/iH0xbqV8qd",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1516722320597188614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516722144172212200,
+					"id_str": "1516722144172212226",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FQx6wRJagAI9T4W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQx6wRJagAI9T4W.jpg",
+					"url": "https://t.co/iH0xbqV8qd",
+					"display_url": "pic.twitter.com/iH0xbqV8qd",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1516722320597188614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 92915,
+			"friends_count": 50,
+			"listed_count": 154,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 10949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "LIM YOONA คอนเฟิร์มรับบทแสดงนำ ในละครโรแมนติกคอมเมดี้เรื่องใหม่ ‘King the Land’!\n\n💖 https://t.co/i5PL2khqUJ\n\n#임윤아 #LIMYOONA\n#킹더랜드 #KingTheLand \n#소녀시대 #GirlsGeneration https://t.co/iH0xbqV8qd"
+	},
+	{
 		"created_at": "Wed Apr 20 06:07:09 +0000 2022",
 		"id": 1516657222780354600,
 		"id_str": "1516659715501084674",
