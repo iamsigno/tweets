@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 20 04:07:09 +0000 2022",
+		"id": 1516622148797755400,
+		"id_str": "1516629516688543745",
+		"full_text": "LIM YOONA is confirmed to star as a lead in the upcoming romantic comedy ‘King the Land’, building upon her acting portfolio with this hotelier role!\n\n#임윤아 #LIMYOONA\n#킹더랜드 #KingTheLand \n#소녀시대 #GirlsGeneration https://t.co/e2tGqxLUbL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "킹더랜드",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "KingTheLand",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						192,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1516622141545885700,
+					"id_str": "1516622141545885696",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"url": "https://t.co/e2tGqxLUbL",
+					"display_url": "pic.twitter.com/e2tGqxLUbL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516622148797755394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1516622141545885700,
+					"id_str": "1516622141545885696",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQwfzWVVsAA8ZKI.jpg",
+					"url": "https://t.co/e2tGqxLUbL",
+					"display_url": "pic.twitter.com/e2tGqxLUbL",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1516622148797755394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10769054,
+			"friends_count": 56,
+			"listed_count": 12090,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1414,
+		"favorite_count": 3748,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIM YOONA is confirmed to star as a lead in the upcoming romantic comedy ‘King the Land’, building upon her acting portfolio with this hotelier role!\n\n#임윤아 #LIMYOONA\n#킹더랜드 #KingTheLand \n#소녀시대 #GirlsGeneration https://t.co/e2tGqxLUbL"
+	},
+	{
 		"created_at": "Tue Apr 19 06:07:08 +0000 2022",
 		"id": 1516282611047432200,
 		"id_str": "1516297327568465929",
