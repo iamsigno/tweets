@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 12:07:09 +0000 2022",
+		"id": 1517111056954699800,
+		"id_str": "1517112700870049794",
+		"full_text": "LIM YOONA 임윤아 l  ONEW 온유 'DICE'🎲 MV Reaction\n\nhttps://t.co/JA0JVZwwoU \n \n#LIMYOONA #임윤아 #Reaction\n#GirlsGeneration #소녀시대\n#ONEW #온유 #SHINee #샤이니\n#DICE #ONEW_DICE https://t.co/bZGjQSExAO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "Reaction",
+					"indices": [
+						88,
+						97
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						98,
+						114
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						115,
+						120
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						131,
+						138
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "DICE",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "ONEW_DICE",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JA0JVZwwoU",
+					"expanded_url": "https://youtu.be/tYwFSzaLqbc",
+					"display_url": "youtu.be/tYwFSzaLqbc",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1517110627944505300,
+					"id_str": "1517110627944505346",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3cE_-aIAIqM9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3cE_-aIAIqM9r.jpg",
+					"url": "https://t.co/bZGjQSExAO",
+					"display_url": "pic.twitter.com/bZGjQSExAO",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1517111056954699776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517110627944505300,
+					"id_str": "1517110627944505346",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ3cE_-aIAIqM9r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ3cE_-aIAIqM9r.jpg",
+					"url": "https://t.co/bZGjQSExAO",
+					"display_url": "pic.twitter.com/bZGjQSExAO",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1517111056954699776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3744468,
+			"friends_count": 5,
+			"listed_count": 5849,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1497557135445880832/K_1Hu8uu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1646751605",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 923,
+		"favorite_count": 1464,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "LIM YOONA 임윤아 l  ONEW 온유 'DICE'🎲 MV Reaction\n\nhttps://t.co/JA0JVZwwoU \n \n#LIMYOONA #임윤아 #Reaction\n#GirlsGeneration #소녀시대\n#ONEW #온유 #SHINee #샤이니\n#DICE #ONEW_DICE https://t.co/bZGjQSExAO"
+	},
+	{
 		"created_at": "Wed Apr 20 11:07:08 +0000 2022",
 		"id": 1516722320597188600,
 		"id_str": "1516735211874226180",
