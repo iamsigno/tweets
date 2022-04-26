@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 03:07:09 +0000 2022",
+		"id": 1518780182760280000,
+		"id_str": "1518788744647778306",
+		"full_text": "'빅마우스', 7월 MBC 편성 확정..이종석X임윤아 특급 만남\n\n‘The Big Mouth’ featuring LIM YOONA X Lee Jong Suk is scheduled to air in July on MBC!\n\nhttps://t.co/W5xnybABwS\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouse\n#소녀시대 #GirlsGeneration https://t.co/jy0Pgup27r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						165,
+						170
+					]
+				},
+				{
+					"text": "TheBigMouse",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						184,
+						189
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						190,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/W5xnybABwS",
+					"expanded_url": "https://bit.ly/3EUduqg",
+					"display_url": "bit.ly/3EUduqg",
+					"indices": [
+						125,
+						148
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1518780177668485000,
+					"id_str": "1518780177668485120",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FRPKhlXVsAAWxz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRPKhlXVsAAWxz5.jpg",
+					"url": "https://t.co/jy0Pgup27r",
+					"display_url": "pic.twitter.com/jy0Pgup27r",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1518780182760280066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1518780177668485000,
+					"id_str": "1518780177668485120",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FRPKhlXVsAAWxz5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRPKhlXVsAAWxz5.jpg",
+					"url": "https://t.co/jy0Pgup27r",
+					"display_url": "pic.twitter.com/jy0Pgup27r",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1518780182760280066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10782775,
+			"friends_count": 56,
+			"listed_count": 12100,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12153,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 814,
+		"favorite_count": 2421,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'빅마우스', 7월 MBC 편성 확정..이종석X임윤아 특급 만남\n\n‘The Big Mouth’ featuring LIM YOONA X Lee Jong Suk is scheduled to air in July on MBC!\n\nhttps://t.co/W5xnybABwS\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouse\n#소녀시대 #GirlsGeneration https://t.co/jy0Pgup27r"
+	},
+	{
 		"created_at": "Tue Apr 26 01:44:57 +0000 2022",
 		"id": 1518763781391847400,
 		"id_str": "1518768058206236672",
