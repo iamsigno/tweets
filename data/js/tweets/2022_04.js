@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 03:07:08 +0000 2022",
+		"id": 1519149423196094500,
+		"id_str": "1519151132022607876",
+		"full_text": "iScreaM Vol.15 : INVU Remixes \n\n➫ 2022.04.28 6PM KST \n\n#태연 #TAEYEON @TAEYEONsmtown\n#소녀시대 #GirlsGeneration @GirlsGeneration \n#INVU #TAEYEON_INVU \n#Remix\n#ZHU \n#MoonKyoo \n#GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/2db3mGvUMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						55,
+						58
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						124,
+						129
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						145,
+						151
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						152,
+						156
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						169,
+						175
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						176,
+						184
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						185,
+						199
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						200,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						106,
+						122
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519147456835252200,
+					"id_str": "1519147456835252225",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FRUYkC4acAE-u_p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRUYkC4acAE-u_p.jpg",
+					"url": "https://t.co/2db3mGvUMM",
+					"display_url": "pic.twitter.com/2db3mGvUMM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519149423196094466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519147456835252200,
+					"id_str": "1519147456835252225",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FRUYkC4acAE-u_p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRUYkC4acAE-u_p.jpg",
+					"url": "https://t.co/2db3mGvUMM",
+					"display_url": "pic.twitter.com/2db3mGvUMM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519149423196094466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519147456822661000,
+					"id_str": "1519147456822661120",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FRUYkC1aUAA5VQw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRUYkC1aUAA5VQw.jpg",
+					"url": "https://t.co/2db3mGvUMM",
+					"display_url": "pic.twitter.com/2db3mGvUMM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519149423196094466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519147456839417900,
+					"id_str": "1519147456839417856",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/FRUYkC5aAAAeeHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRUYkC5aAAAeeHs.jpg",
+					"url": "https://t.co/2db3mGvUMM",
+					"display_url": "pic.twitter.com/2db3mGvUMM",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519149423196094466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10783702,
+			"friends_count": 56,
+			"listed_count": 12117,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 810,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.15 : INVU Remixes \n\n➫ 2022.04.28 6PM KST \n\n#태연 #TAEYEON @TAEYEONsmtown\n#소녀시대 #GirlsGeneration @GirlsGeneration \n#INVU #TAEYEON_INVU \n#Remix\n#ZHU \n#MoonKyoo \n#GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/2db3mGvUMM"
+	},
+	{
 		"created_at": "Tue Apr 26 08:07:08 +0000 2022",
 		"id": 1518856064157950000,
 		"id_str": "1518864240798535683",
