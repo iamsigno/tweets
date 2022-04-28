@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 11:07:11 +0000 2022",
+		"id": 1519632798566744000,
+		"id_str": "1519634327902068742",
+		"full_text": "TAEYEON 태연 'INVU (Moon Kyoo Remix)' Live Performance\n\nhttps://t.co/CF8JXuVTVe\n\n#태연 #TAEYEON @TAEYEONsmtown\n#소녀시대 #GirlsGeneration @GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/WxrpmPwA1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						79,
+						82
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						83,
+						91
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						113,
+						129
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						167,
+						173
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						189,
+						195
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						205,
+						219
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						220,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						130,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CF8JXuVTVe",
+					"expanded_url": "https://youtu.be/IlyqY0Fz8dg",
+					"display_url": "youtu.be/IlyqY0Fz8dg",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519629012897005600,
+					"id_str": "1519629012897005573",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRbOiTAagAUmPrA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRbOiTAagAUmPrA.jpg",
+					"url": "https://t.co/WxrpmPwA1f",
+					"display_url": "pic.twitter.com/WxrpmPwA1f",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519632798566744064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519629012897005600,
+					"id_str": "1519629012897005573",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRbOiTAagAUmPrA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRbOiTAagAUmPrA.jpg",
+					"url": "https://t.co/WxrpmPwA1f",
+					"display_url": "pic.twitter.com/WxrpmPwA1f",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1519632798566744064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10785907,
+			"friends_count": 56,
+			"listed_count": 12114,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12165,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 569,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "TAEYEON 태연 'INVU (Moon Kyoo Remix)' Live Performance\n\nhttps://t.co/CF8JXuVTVe\n\n#태연 #TAEYEON @TAEYEONsmtown\n#소녀시대 #GirlsGeneration @GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN https://t.co/WxrpmPwA1f"
+	},
+	{
 		"created_at": "Thu Apr 28 10:07:17 +0000 2022",
 		"id": 1519605810418286600,
 		"id_str": "1519619251145003009",
