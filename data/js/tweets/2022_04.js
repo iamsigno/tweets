@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 05:07:08 +0000 2022",
+		"id": 1519541921806434300,
+		"id_str": "1519543717761372161",
+		"full_text": "[#아낌없이주는나무]\n\n이름만으로도 화려한 서현👋\n꿈에서만 느껴본 판타지를 실현🌠\n아프로디테 여신의 출현💗\n\n#서현 #듀엘 #SEOHYUN #DEWL https://t.co/RjdiTDW8I4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아낌없이주는나무",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						61,
+						64
+					]
+				},
+				{
+					"text": "듀엘",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"text": "DEWL",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519517936842850300,
+					"id_str": "1519517936842850304",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZpg0daQAAKAke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZpg0daQAAKAke.jpg",
+					"url": "https://t.co/RjdiTDW8I4",
+					"display_url": "pic.twitter.com/RjdiTDW8I4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1519541921806434305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519517936842850300,
+					"id_str": "1519517936842850304",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZpg0daQAAKAke.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZpg0daQAAKAke.jpg",
+					"url": "https://t.co/RjdiTDW8I4",
+					"display_url": "pic.twitter.com/RjdiTDW8I4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1519541921806434305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519517965334761500,
+					"id_str": "1519517965334761472",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZpiemaUAA9Hp-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZpiemaUAA9Hp-.jpg",
+					"url": "https://t.co/RjdiTDW8I4",
+					"display_url": "pic.twitter.com/RjdiTDW8I4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1519541921806434305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519517965448020000,
+					"id_str": "1519517965448019968",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZpifBagAAvFjH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZpifBagAAvFjH.jpg",
+					"url": "https://t.co/RjdiTDW8I4",
+					"display_url": "pic.twitter.com/RjdiTDW8I4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1519541921806434305/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59836,
+			"friends_count": 12,
+			"listed_count": 268,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아낌없이주는나무]\n\n이름만으로도 화려한 서현👋\n꿈에서만 느껴본 판타지를 실현🌠\n아프로디테 여신의 출현💗\n\n#서현 #듀엘 #SEOHYUN #DEWL https://t.co/RjdiTDW8I4"
+	},
+	{
 		"created_at": "Thu Apr 28 04:07:09 +0000 2022",
 		"id": 1519519488894328800,
 		"id_str": "1519528619802075138",
