@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 04:07:09 +0000 2022",
+		"id": 1519519488894328800,
+		"id_str": "1519528619802075138",
+		"full_text": "Lagu TAEYEON 'INVU' Versi Remix Rilis Sore Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/JjwoJtejNC\n\n@GirlsGeneration\n#TAEYEON #GirlsGeneration #INVU #TAEYEON_INVU  \n#iScreaM #ScreaMRecords #SMTOWN https://t.co/bXyTDqJNAw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						148,
+						156
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						180,
+						193
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						205,
+						219
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						220,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JjwoJtejNC",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/1024625354821145",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1519519411027136500,
+					"id_str": "1519519411027136513",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZq2oOVUAEe2QS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZq2oOVUAEe2QS.jpg",
+					"url": "https://t.co/bXyTDqJNAw",
+					"display_url": "pic.twitter.com/bXyTDqJNAw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1519519488894328832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519519411027136500,
+					"id_str": "1519519411027136513",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZq2oOVUAEe2QS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZq2oOVUAEe2QS.jpg",
+					"url": "https://t.co/bXyTDqJNAw",
+					"display_url": "pic.twitter.com/bXyTDqJNAw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1519519488894328832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1620,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519519428840358000,
+					"id_str": "1519519428840357890",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZq3qlVgAIGg2N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZq3qlVgAIGg2N.jpg",
+					"url": "https://t.co/bXyTDqJNAw",
+					"display_url": "pic.twitter.com/bXyTDqJNAw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1519519488894328832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519519429876363300,
+					"id_str": "1519519429876363264",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZq3ucVsAApXe1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZq3ucVsAApXe1.jpg",
+					"url": "https://t.co/bXyTDqJNAw",
+					"display_url": "pic.twitter.com/bXyTDqJNAw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1519519488894328832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1519519429880533000,
+					"id_str": "1519519429880532992",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FRZq3udVUAA6TOB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRZq3udVUAA6TOB.jpg",
+					"url": "https://t.co/bXyTDqJNAw",
+					"display_url": "pic.twitter.com/bXyTDqJNAw",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1519519488894328832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1710,
+							"h": 1710,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965140,
+			"friends_count": 36,
+			"listed_count": 597,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Lagu TAEYEON 'INVU' Versi Remix Rilis Sore Ini\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/JjwoJtejNC\n\n@GirlsGeneration\n#TAEYEON #GirlsGeneration #INVU #TAEYEON_INVU  \n#iScreaM #ScreaMRecords #SMTOWN https://t.co/bXyTDqJNAw"
+	},
+	{
 		"created_at": "Thu Apr 28 03:07:09 +0000 2022",
 		"id": 1519508107218497500,
 		"id_str": "1519513520123088898",
