@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 10:07:17 +0000 2022",
+		"id": 1519605810418286600,
+		"id_str": "1519619251145003009",
+		"full_text": "iScreaM Vol.15 : INVU Remixes \n\nListen now on your favorite platform\n➫ https://t.co/KhwDiEHB6l\n\n#태연 #TAEYEON \n@TAEYEONsmtown\n#소녀시대 #GirlsGeneration \n@GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						125,
+						130
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						131,
+						147
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						186,
+						192
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						193,
+						197
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						198,
+						207
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						208,
+						214
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						215,
+						223
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						224,
+						238
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						239,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TAEYEONsmtown",
+					"name": "TAEYEON Official",
+					"id": 1496499777965822000,
+					"id_str": "1496499777965821956",
+					"indices": [
+						110,
+						124
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						149,
+						165
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KhwDiEHB6l",
+					"expanded_url": "https://smarturl.it/iScreaMvol15_INVU",
+					"display_url": "smarturl.it/iScreaMvol15_I…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10785873,
+			"friends_count": 56,
+			"listed_count": 12113,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 1181,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "iScreaM Vol.15 : INVU Remixes \n\nListen now on your favorite platform\n➫ https://t.co/KhwDiEHB6l\n\n#태연 #TAEYEON \n@TAEYEONsmtown\n#소녀시대 #GirlsGeneration \n@GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
+		"created_at": "Thu Apr 28 10:07:09 +0000 2022",
+		"id": 1519605237023408000,
+		"id_str": "1519619217049403392",
+		"full_text": "iScreaM Vol.15 : INVU Remixes\n\nMelon➫ https://t.co/9egQNq0tm6\nFLO➫https://t.co/LY3rRZgCTA\ngenie➫https://t.co/lbJbh4kKil \nNAVER➫ https://t.co/yY2WuNs53B \n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						154,
+						157
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						158,
+						166
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						190,
+						195
+					]
+				},
+				{
+					"text": "TAEYEON_INVU",
+					"indices": [
+						196,
+						209
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"text": "ZHU",
+					"indices": [
+						217,
+						221
+					]
+				},
+				{
+					"text": "MoonKyoo",
+					"indices": [
+						222,
+						231
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						232,
+						238
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						239,
+						247
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						248,
+						262
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						263,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9egQNq0tm6",
+					"expanded_url": "http://kko.to/U309BcNtH",
+					"display_url": "kko.to/U309BcNtH",
+					"indices": [
+						38,
+						61
+					]
+				},
+				{
+					"url": "https://t.co/LY3rRZgCTA",
+					"expanded_url": "http://flomuz.io/s/a.BMwEk",
+					"display_url": "flomuz.io/s/a.BMwEk",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/lbJbh4kKil",
+					"expanded_url": "http://www.genie.co.kr/CDEFI6",
+					"display_url": "genie.co.kr/CDEFI6",
+					"indices": [
+						96,
+						119
+					]
+				},
+				{
+					"url": "https://t.co/yY2WuNs53B",
+					"expanded_url": "http://naver.me/5dO4A6ul",
+					"display_url": "naver.me/5dO4A6ul",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10785873,
+			"friends_count": 56,
+			"listed_count": 12113,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12163,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 1053,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "iScreaM Vol.15 : INVU Remixes\n\nMelon➫ https://t.co/9egQNq0tm6\nFLO➫https://t.co/LY3rRZgCTA\ngenie➫https://t.co/lbJbh4kKil \nNAVER➫ https://t.co/yY2WuNs53B \n\n#태연 #TAEYEON\n#소녀시대 #GirlsGeneration\n#INVU #TAEYEON_INVU #Remix\n#ZHU #MoonKyoo #GINJO\n#iScreaM\n#ScreaMRecords\n#SMTOWN"
+	},
+	{
 		"created_at": "Thu Apr 28 09:07:17 +0000 2022",
 		"id": 1519602631765008400,
 		"id_str": "1519604150849486850",
