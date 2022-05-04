@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 04 04:07:08 +0000 2022",
+		"id": 1521701148431769600,
+		"id_str": "1521702946030956546",
+		"full_text": "PERFECT HARMONY is possible for Weeekly😌\n\nCan Kpop Group finish the lyrics of IU, BTS, TAEYEON, ATEEZ &amp; TXT?\n👉👉 FLC #WEEEKLY Episode\n\n✔Go check the full episode right now!\n👉👉 https://t.co/OZ97P1Si27\n\n#ROLLINGinKPOP #FLC https://t.co/AIUlnrXNQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WEEEKLY",
+					"indices": [
+						120,
+						128
+					]
+				},
+				{
+					"text": "ROLLINGinKPOP",
+					"indices": [
+						204,
+						218
+					]
+				},
+				{
+					"text": "FLC",
+					"indices": [
+						219,
+						223
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OZ97P1Si27",
+					"expanded_url": "https://youtu.be/TnBQG29TfXc",
+					"display_url": "youtu.be/TnBQG29TfXc",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1521463591140233200,
+					"id_str": "1521463591140233216",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1521463591140233216/img/5A1g8YmWAIAJILLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1521463591140233216/img/5A1g8YmWAIAJILLD.jpg",
+					"url": "https://t.co/AIUlnrXNQ3",
+					"display_url": "pic.twitter.com/AIUlnrXNQ3",
+					"expanded_url": "https://twitter.com/arirangworld/status/1521701148431769600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521463591140233200,
+					"id_str": "1521463591140233216",
+					"indices": [
+						224,
+						247
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1521463591140233216/img/5A1g8YmWAIAJILLD.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1521463591140233216/img/5A1g8YmWAIAJILLD.jpg",
+					"url": "https://t.co/AIUlnrXNQ3",
+					"display_url": "pic.twitter.com/AIUlnrXNQ3",
+					"expanded_url": "https://twitter.com/arirangworld/status/1521701148431769600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 608,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							76,
+							135
+						],
+						"duration_millis": 28607,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1521463591140233216/vid/320x568/4W07llkfvJV7muze.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1521463591140233216/vid/608x1080/Dvc_XJ0VrA4ZfPpA.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1521463591140233216/pl/Q_GS3hFZt9ogg-hf.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1521463591140233216/vid/480x852/w2IKG3aOKyQWs6_f.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66625290,
+			"id_str": "66625290",
+			"name": "Arirang World",
+			"screen_name": "arirangworld",
+			"location": "South Korea",
+			"description": "Arirang TV & Radio",
+			"url": "https://t.co/eRqGeUFAHR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eRqGeUFAHR",
+							"expanded_url": "https://www.youtube.com/arirangworld",
+							"display_url": "youtube.com/arirangworld",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157033,
+			"friends_count": 134,
+			"listed_count": 1235,
+			"created_at": "Tue Aug 18 07:40:53 +0000 2009",
+			"favourites_count": 6336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E6E6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410884603825455105/PsIcEN-m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66625290/1625216120",
+			"profile_link_color": "ED1846",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFB2D7",
+			"profile_text_color": "0A0A0A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PERFECT HARMONY is possible for Weeekly😌\n\nCan Kpop Group finish the lyrics of IU, BTS, TAEYEON, ATEEZ &amp; TXT?\n👉👉 FLC #WEEEKLY Episode\n\n✔Go check the full episode right now!\n👉👉 https://t.co/OZ97P1Si27\n\n#ROLLINGinKPOP #FLC https://t.co/AIUlnrXNQ3"
+	},
+	{
 		"created_at": "Wed May 04 02:44:56 +0000 2022",
 		"id": 1521675397674459100,
 		"id_str": "1521682259895590912",
