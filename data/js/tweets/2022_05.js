@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 10:07:08 +0000 2022",
+		"id": 1522506165439000600,
+		"id_str": "1522518318304972801",
+		"full_text": "[#LIVE] 백상예술대상 레드카펫\n▶ https://t.co/zrIKYxNakI\n\n#구교환 #박은빈 #서현 #백상예술대상 #KOOKYOHWAN #PARKEUNBIN #SEOHYUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVE",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "구교환",
+					"indices": [
+						47,
+						51
+					]
+				},
+				{
+					"text": "박은빈",
+					"indices": [
+						52,
+						56
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						57,
+						60
+					]
+				},
+				{
+					"text": "백상예술대상",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "KOOKYOHWAN",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "PARKEUNBIN",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zrIKYxNakI",
+					"expanded_url": "https://vt.tiktok.com/ZSdaXGkR2/",
+					"display_url": "vt.tiktok.com/ZSdaXGkR2/",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60001,
+			"friends_count": 12,
+			"listed_count": 268,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 172,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LIVE] 백상예술대상 레드카펫\n▶ https://t.co/zrIKYxNakI\n\n#구교환 #박은빈 #서현 #백상예술대상 #KOOKYOHWAN #PARKEUNBIN #SEOHYUN"
+	},
+	{
 		"created_at": "Fri May 06 06:44:57 +0000 2022",
 		"id": 1522466247824183300,
 		"id_str": "1522467436704026629",
