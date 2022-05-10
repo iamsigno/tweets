@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 04:07:08 +0000 2022",
+		"id": 1523679245347680300,
+		"id_str": "1523877273656569861",
+		"full_text": "HYO 효연 'DEEP' Mood Clip \n\nHYO 효연 The 1st Mini Album [DEEP] \n\n🎧 2022.05.16. 6PM KST \n\n#HYO #효연\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/tR5HifpHv2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						85,
+						89
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						90,
+						93
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						110,
+						126
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						127,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523675399430959000,
+					"id_str": "1523675399430959111",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1523675399430959111/img/Fwr_50ZiRSLXAwBJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1523675399430959111/img/Fwr_50ZiRSLXAwBJ.jpg",
+					"url": "https://t.co/tR5HifpHv2",
+					"display_url": "pic.twitter.com/tR5HifpHv2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1523679245347680256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523675399430959000,
+					"id_str": "1523675399430959111",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1523675399430959111/img/Fwr_50ZiRSLXAwBJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1523675399430959111/img/Fwr_50ZiRSLXAwBJ.jpg",
+					"url": "https://t.co/tR5HifpHv2",
+					"display_url": "pic.twitter.com/tR5HifpHv2",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1523679245347680256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9801,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1523675399430959111/vid/320x320/i3qOCNECMXjD-akX.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1523675399430959111/vid/720x720/xYk9dq2cp7ABarAx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1523675399430959111/pl/K2qUu3767rFDuC5t.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1523675399430959111/vid/540x540/rZHiWl0bQlNrU1kx.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3757698,
+			"friends_count": 5,
+			"listed_count": 5869,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7352,
+		"favorite_count": 12138,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "et",
+		"text": "HYO 효연 'DEEP' Mood Clip \n\nHYO 효연 The 1st Mini Album [DEEP] \n\n🎧 2022.05.16. 6PM KST \n\n#HYO #효연\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/tR5HifpHv2"
+	},
+	{
 		"created_at": "Tue May 10 02:44:57 +0000 2022",
 		"id": 1523848916155863000,
 		"id_str": "1523856588569776129",
