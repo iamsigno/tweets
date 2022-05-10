@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 02:44:57 +0000 2022",
+		"id": 1523848916155863000,
+		"id_str": "1523856588569776129",
+		"full_text": "'퍼포먼스 퀸' #효연 첫 미니앨범 타이틀 곡 '#DEEP' 강렬한 EDM 댄스곡!\n중독성 강한 후렴구+재치 있는 가사 기대감 UP!\n\n‘Performance Queen’ #HYO’s 1st mini album title track ‘#DEEP’ is a heavy EDM dance song with an addictive chorus &amp; witty lyrics!\n\nhttps://t.co/eD5VvbNzca\n\n#HYO_DEEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						27,
+						32
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						235,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eD5VvbNzca",
+					"expanded_url": "https://bit.ly/39PLXe6",
+					"display_url": "bit.ly/39PLXe6",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3757661,
+			"friends_count": 5,
+			"listed_count": 5870,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 846,
+		"favorite_count": 1850,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'퍼포먼스 퀸' #효연 첫 미니앨범 타이틀 곡 '#DEEP' 강렬한 EDM 댄스곡!\n중독성 강한 후렴구+재치 있는 가사 기대감 UP!\n\n‘Performance Queen’ #HYO’s 1st mini album title track ‘#DEEP’ is a heavy EDM dance song with an addictive chorus &amp; witty lyrics!\n\nhttps://t.co/eD5VvbNzca\n\n#HYO_DEEP"
+	},
+	{
 		"created_at": "Mon May 09 16:44:57 +0000 2022",
 		"id": 1523692720539140000,
 		"id_str": "1523705593390903296",
