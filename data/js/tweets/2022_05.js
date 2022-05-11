@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 03:07:19 +0000 2022",
+		"id": 1524223473429614600,
+		"id_str": "1524224606898425856",
+		"full_text": "[권유리]의 유리한 봄🌸\n\n포스트 보러 가기👉https://t.co/gUxfwvi4Vf\n\n#권유리 #KWONYURI\n#유리 #YURI\n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						92,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gUxfwvi4Vf",
+					"expanded_url": "http://naver.me/G5IbKoaJ",
+					"display_url": "naver.me/G5IbKoaJ",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3758186,
+			"friends_count": 5,
+			"listed_count": 5872,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 229,
+		"favorite_count": 480,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[권유리]의 유리한 봄🌸\n\n포스트 보러 가기👉https://t.co/gUxfwvi4Vf\n\n#권유리 #KWONYURI\n#유리 #YURI\n#GirlsGeneration #소녀시대"
+	},
+	{
+		"created_at": "Wed May 11 03:07:16 +0000 2022",
+		"id": 1524221393508106200,
+		"id_str": "1524224593812152320",
+		"full_text": "HYO Tampilkan Energi Positif lewat Lagu ‘Stupid’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/NezAeovads\n\n@GirlsGeneration @Hyoyeon_djhyo \n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/FX4Nn1R6k8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						171,
+						176
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						150,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NezAeovads",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/1033033673980313",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524221375476801500,
+					"id_str": "1524221375476801536",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FScfQ-xaIAA8A8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FScfQ-xaIAA8A8f.jpg",
+					"url": "https://t.co/FX4Nn1R6k8",
+					"display_url": "pic.twitter.com/FX4Nn1R6k8",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524221393508106240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524221375476801500,
+					"id_str": "1524221375476801536",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FScfQ-xaIAA8A8f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FScfQ-xaIAA8A8f.jpg",
+					"url": "https://t.co/FX4Nn1R6k8",
+					"display_url": "pic.twitter.com/FX4Nn1R6k8",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524221393508106240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1372,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 804,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524221375476826000,
+					"id_str": "1524221375476826112",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FScfQ-xagAAz9o7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FScfQ-xagAAz9o7.jpg",
+					"url": "https://t.co/FX4Nn1R6k8",
+					"display_url": "pic.twitter.com/FX4Nn1R6k8",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524221393508106240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1462,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 977238,
+			"friends_count": 36,
+			"listed_count": 602,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 169,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "HYO Tampilkan Energi Positif lewat Lagu ‘Stupid’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/NezAeovads\n\n@GirlsGeneration @Hyoyeon_djhyo \n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/FX4Nn1R6k8"
+	},
+	{
 		"created_at": "Tue May 10 15:45:26 +0000 2022",
 		"id": 1524045598965395500,
 		"id_str": "1524053003904471043",
