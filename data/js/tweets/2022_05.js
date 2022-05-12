@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 05:07:23 +0000 2022",
+		"id": 1524615420288057300,
+		"id_str": "1524617209678606337",
+		"full_text": "4. 오직 24시간 동안만 만날 수 있는 라이브 방송 현장감이 담긴 미공개 컷 포토카드 특전 SET 득템하기\n5. 추첨을 통해 효연의 친필 사인이 담긴 폴라로이드 득템하기\n🔹라이브 방송 시간: 2022. 05. 16 (MON) 19:00 (KST) ~\n🔹판매 기간: 2022. 05. 16 (MON) 19:00 ~ 2022. 05. 17 (TUE) 18:59 (KST)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1524615418711019500,
+		"in_reply_to_status_id_str": "1524615418711019521",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217833,
+			"friends_count": 0,
+			"listed_count": 359,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "4. 오직 24시간 동안만 만날 수 있는 라이브 방송 현장감이 담긴 미공개 컷 포토카드 특전 SET 득템하기\n5. 추첨을 통해 효연의 친필 사인이 담긴 폴라로이드 득템하기\n🔹라이브 방송 시간: 2022. 05. 16 (MON) 19:00 (KST) ~\n🔹판매 기간: 2022. 05. 16 (MON) 19:00 ~ 2022. 05. 17 (TUE) 18:59 (KST)"
+	},
+	{
+		"created_at": "Thu May 12 05:07:20 +0000 2022",
+		"id": 1524615418711019500,
+		"id_str": "1524617196634320896",
+		"full_text": "[라이브 방송 시청 및 구매 방법]\n1. YouTube GIRLS’ GENERATION 채널에서 &lt;HYO 효연 ‘DEEP’ Commentary Live&gt; 생방송 시청하기\n(https://t.co/e3o3DJIg1w)\n2. 라이브 방송 중에 오픈 되는 SMTOWN &amp;STORE 공식 온라인몰 구매 링크 확인하기\n3. 구매 링크를 통해 효연의 앨범 구매하기",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e3o3DJIg1w",
+					"expanded_url": "https://www.youtube.com/GIRLSGENERATION",
+					"display_url": "youtube.com/GIRLSGENERATION",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1524615417469485000,
+		"in_reply_to_status_id_str": "1524615417469485056",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 217833,
+			"friends_count": 0,
+			"listed_count": 359,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[라이브 방송 시청 및 구매 방법]\n1. YouTube GIRLS’ GENERATION 채널에서 &lt;HYO 효연 ‘DEEP’ Commentary Live&gt; 생방송 시청하기\n(https://t.co/e3o3DJIg1w)\n2. 라이브 방송 중에 오픈 되는 SMTOWN &amp;STORE 공식 온라인몰 구매 링크 확인하기\n3. 구매 링크를 통해 효연의 앨범 구매하기"
+	},
+	{
 		"created_at": "Thu May 12 03:07:16 +0000 2022",
 		"id": 1524582460230561800,
 		"id_str": "1524586980813717506",
