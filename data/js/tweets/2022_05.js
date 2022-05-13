@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 04:07:08 +0000 2022",
+		"id": 1524954772821815300,
+		"id_str": "1524964437249204243",
+		"full_text": "HYO Bertransformasi Menjadi ‘Spider Woman’ Melalui Mini-album Pertama ‘DEEP’ \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/4WjIIRnwGE\n\n@GirlsGeneration @Hyoyeon_djhyo\n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/oBjahigafY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						200,
+						205
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						163,
+						179
+					]
+				},
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						180,
+						194
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4WjIIRnwGE",
+					"expanded_url": "https://www.facebook.com/299527763997578/posts/pfbid038J8cyxA9Pe2F6kFNAaGiC4rEVgTEFHnsCHPgjnGt8VTyt18VvRYTniDZ79KQqnVol/?d=n",
+					"display_url": "facebook.com/29952776399757…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524954753850937300,
+					"id_str": "1524954753850937344",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"url": "https://t.co/oBjahigafY",
+					"display_url": "pic.twitter.com/oBjahigafY",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524954772821815297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524954753850937300,
+					"id_str": "1524954753850937344",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSm6ROHUEAA3NI-.jpg",
+					"url": "https://t.co/oBjahigafY",
+					"display_url": "pic.twitter.com/oBjahigafY",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524954772821815297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1524954753863536600,
+					"id_str": "1524954753863536640",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/FSm6ROKUUAA-_Pl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSm6ROKUUAA-_Pl.jpg",
+					"url": "https://t.co/oBjahigafY",
+					"display_url": "pic.twitter.com/oBjahigafY",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1524954772821815297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1347,
+							"h": 1886,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 857,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 979151,
+			"friends_count": 36,
+			"listed_count": 601,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 88,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 180,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "HYO Bertransformasi Menjadi ‘Spider Woman’ Melalui Mini-album Pertama ‘DEEP’ \n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/4WjIIRnwGE\n\n@GirlsGeneration @Hyoyeon_djhyo\n#HYO #DEEP #HYO_DEEP\n#GirlsGeneration https://t.co/oBjahigafY"
+	},
+	{
 		"created_at": "Fri May 13 03:07:09 +0000 2022",
 		"id": 1524945980738547700,
 		"id_str": "1524949339625373715",
