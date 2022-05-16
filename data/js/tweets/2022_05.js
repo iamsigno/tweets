@@ -1,6 +1,880 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 16 10:07:38 +0000 2022",
+		"id": 1526141439222366200,
+		"id_str": "1526142320709607424",
+		"full_text": "🔹응모 기간 : 2022. 05. 16 (MON) 19:00 ~ 2022. 05. 17 (TUE) 18:59 (KST)\n🔹응모 장소 : SMTOWN &amp;STORE ONLINE (https://t.co/THLLxkEPk3)\n🔹응모 대상 : 효연 (HYO) 미니 1집 'DEEP’ Package (ILLUSION Ver. + POISON Ver.) 1 SET 구매자",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/THLLxkEPk3",
+					"expanded_url": "http://www.SMTOWNandSTORE.com",
+					"display_url": "SMTOWNandSTORE.com",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1526141437179744300,
+		"in_reply_to_status_id_str": "1526141437179744256",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 218427,
+			"friends_count": 0,
+			"listed_count": 365,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🔹응모 기간 : 2022. 05. 16 (MON) 19:00 ~ 2022. 05. 17 (TUE) 18:59 (KST)\n🔹응모 장소 : SMTOWN &amp;STORE ONLINE (https://t.co/THLLxkEPk3)\n🔹응모 대상 : 효연 (HYO) 미니 1집 'DEEP’ Package (ILLUSION Ver. + POISON Ver.) 1 SET 구매자"
+	},
+	{
+		"created_at": "Mon May 16 10:07:35 +0000 2022",
+		"id": 1526141432029139000,
+		"id_str": "1526142307669618690",
+		"full_text": "HYO's 'DEEP' UNBOXING EVENT💖\n\n효연이 직접 언박싱하는 미니 1집 'DEEP'👀👀\n잠시 후 7시 YouTube GIRLS’ GENERATION 채널에서\n📽HYO 효연 ‘DEEP’ Commentary Live📽가 시작됩니다!\n라이브 방송 속 SMTOWN &amp;STORE 온라인 링크를 통해 앨범 구매하러 Let's GO! https://t.co/OKG8VjT9de",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526138914830172200,
+					"id_str": "1526138914830172161",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FS3vQdhaQAEZJOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS3vQdhaQAEZJOR.jpg",
+					"url": "https://t.co/OKG8VjT9de",
+					"display_url": "pic.twitter.com/OKG8VjT9de",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1526141432029138944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526138914830172200,
+					"id_str": "1526138914830172161",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FS3vQdhaQAEZJOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS3vQdhaQAEZJOR.jpg",
+					"url": "https://t.co/OKG8VjT9de",
+					"display_url": "pic.twitter.com/OKG8VjT9de",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1526141432029138944/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 218427,
+			"friends_count": 0,
+			"listed_count": 365,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "HYO's 'DEEP' UNBOXING EVENT💖\n\n효연이 직접 언박싱하는 미니 1집 'DEEP'👀👀\n잠시 후 7시 YouTube GIRLS’ GENERATION 채널에서\n📽HYO 효연 ‘DEEP’ Commentary Live📽가 시작됩니다!\n라이브 방송 속 SMTOWN &amp;STORE 온라인 링크를 통해 앨범 구매하러 Let's GO! https://t.co/OKG8VjT9de"
+	},
+	{
+		"created_at": "Mon May 16 09:45:28 +0000 2022",
+		"id": 1526131210833264600,
+		"id_str": "1526136745309396992",
+		"full_text": "HYO’s [DEEP] iTunes Booklet is out now!\n\nGet your Digital Booklet with HYO’s exclusive photo and special hand-written interview (SUB EN&amp;JP)!\n\n☑️ https://t.co/7MPAf4ox4c\n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/jtYjbAUQaA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						198,
+						203
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						204,
+						213
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						214,
+						230
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						231,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						183,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7MPAf4ox4c",
+					"expanded_url": "https://smarturl.it/HYO_DEEP/itunes",
+					"display_url": "smarturl.it/HYO_DEEP/itunes",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526131068432433200,
+					"id_str": "1526131068432433152",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526131068432433152/pu/img/gZSkp06bzvl1ZBZ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526131068432433152/pu/img/gZSkp06bzvl1ZBZ7.jpg",
+					"url": "https://t.co/jtYjbAUQaA",
+					"display_url": "pic.twitter.com/jtYjbAUQaA",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1526131210833264641/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526131068432433200,
+					"id_str": "1526131068432433152",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526131068432433152/pu/img/gZSkp06bzvl1ZBZ7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526131068432433152/pu/img/gZSkp06bzvl1ZBZ7.jpg",
+					"url": "https://t.co/jtYjbAUQaA",
+					"display_url": "pic.twitter.com/jtYjbAUQaA",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1526131210833264641/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1744,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							218,
+							135
+						],
+						"duration_millis": 24400,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526131068432433152/pu/vid/580x360/iv43GggH7-HHKaPH.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526131068432433152/pu/vid/1162x720/JLluxtkgmsfW-JLG.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526131068432433152/pu/vid/436x270/e4nRDddMvO9168Ho.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526131068432433152/pu/pl/IueH9D9UNdyxvMjr.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3761125,
+			"friends_count": 5,
+			"listed_count": 5870,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 811,
+		"favorite_count": 1265,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYO’s [DEEP] iTunes Booklet is out now!\n\nGet your Digital Booklet with HYO’s exclusive photo and special hand-written interview (SUB EN&amp;JP)!\n\n☑️ https://t.co/7MPAf4ox4c\n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 https://t.co/jtYjbAUQaA"
+	},
+	{
+		"created_at": "Mon May 16 09:45:20 +0000 2022",
+		"id": 1526129544109133800,
+		"id_str": "1526136711213944834",
+		"full_text": "HYO 효연 The 1st Mini Album [DEEP]\n\nListen now on your favorite platform \n🎧https://t.co/QWwgRwij3f\n\n#HYO #효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						156,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						107,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QWwgRwij3f",
+					"expanded_url": "https://smarturl.it/HYO_DEEP",
+					"display_url": "smarturl.it/HYO_DEEP",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3761125,
+			"friends_count": 5,
+			"listed_count": 5870,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 998,
+		"favorite_count": 1695,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYO 효연 The 1st Mini Album [DEEP]\n\nListen now on your favorite platform \n🎧https://t.co/QWwgRwij3f\n\n#HYO #효연 @Hyoyeon_djhyo \n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대"
+	},
+	{
+		"created_at": "Mon May 16 09:45:14 +0000 2022",
+		"id": 1526128961516105700,
+		"id_str": "1526136685096062980",
+		"full_text": "[인터뷰] 효연에 'DEEP'하게 휩쓸려? 오히려 좋아\n\nhttps://t.co/TvcHtHPwFE\n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						62,
+						65
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						97,
+						113
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						114,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						66,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TvcHtHPwFE",
+					"expanded_url": "http://naver.me/GyLnkFjs",
+					"display_url": "naver.me/GyLnkFjs",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3761125,
+			"friends_count": 5,
+			"listed_count": 5870,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2833,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 697,
+		"favorite_count": 1230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[인터뷰] 효연에 'DEEP'하게 휩쓸려? 오히려 좋아\n\nhttps://t.co/TvcHtHPwFE\n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대"
+	},
+	{
 		"created_at": "Mon May 16 09:07:39 +0000 2022",
 		"id": 1526126845225480200,
 		"id_str": "1526127226642628608",
