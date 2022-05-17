@@ -1,10 +1,132 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 02:45:05 +0000 2022",
+		"id": 1526388227309211600,
+		"id_str": "1526393337602875394",
+		"full_text": "레전드가 돌아온다! #소녀시대 완전체 컴백! 데뷔 15주년 기념 앨범 8월 발매\n'넘사벽 클래스'로 여름 가요계 평정 예고\n\nThe legends are back! #GirlsGeneration will release an album as 8 members to celebrate their 15th anniversary this August!\n\nhttps://t.co/SqrXHEiL90",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						11,
+						16
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SqrXHEiL90",
+					"expanded_url": "https://bit.ly/39TZkK8",
+					"display_url": "bit.ly/39TZkK8",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3762540,
+			"friends_count": 5,
+			"listed_count": 5879,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520784620396367872/n-mDvaB1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1651417198",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17688,
+		"favorite_count": 25618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "레전드가 돌아온다! #소녀시대 완전체 컴백! 데뷔 15주년 기념 앨범 8월 발매\n'넘사벽 클래스'로 여름 가요계 평정 예고\n\nThe legends are back! #GirlsGeneration will release an album as 8 members to celebrate their 15th anniversary this August!\n\nhttps://t.co/SqrXHEiL90"
+	},
+	{
 		"created_at": "Tue May 17 02:07:17 +0000 2022",
 		"id": 1526126012081115100,
 		"id_str": "1526383824803864577",
-		"full_text": "#少女時代 #HYO (@gg_official_jp)\n初ミニアルバム『DEEP』配信開始🕷️❤️‍🔥\n🕸️https://t.co/n6H4c2TPz9\n\n#ヒョヨン が楽曲のポイントについて語ってくれました😉💕これまでのソロ楽曲を盛り込んだ全7曲🫶\n\nヒョヨナがカバーに登場！プレイリスト「K-Beats」でも▶️https://t.co/UdUEw9nSJI\n\n@Hyoyeon_djhyo https://t.co/2N0Bn9CzKF",
+		"full_text": "#少女時代 #HYO (@gg_official_jp)\n初ミニアルバム『DEEP』配信開始🕷️❤️🔥\n🕸️https://t.co/n6H4c2TPz9\n\n#ヒョヨン が楽曲のポイントについて語ってくれました😉💕これまでのソロ楽曲を盛り込んだ全7曲🫶\n\nヒョヨナがカバーに登場！プレイリスト「K-Beats」でも▶️https://t.co/UdUEw9nSJI\n\n@Hyoyeon_djhyo https://t.co/2N0Bn9CzKF",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -266,7 +388,7 @@ Grailbird.data.tweets_2022_05 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ja",
-		"text": "#少女時代 #HYO (@gg_official_jp)\n初ミニアルバム『DEEP』配信開始🕷️❤️‍🔥\n🕸️https://t.co/n6H4c2TPz9\n\n#ヒョヨン が楽曲のポイントについて語ってくれました😉💕これまでのソロ楽曲を盛り込んだ全7曲🫶\n\nヒョヨナがカバーに登場！プレイリスト「K-Beats」でも▶️https://t.co/UdUEw9nSJI\n\n@Hyoyeon_djhyo https://t.co/2N0Bn9CzKF"
+		"text": "#少女時代 #HYO (@gg_official_jp)\n初ミニアルバム『DEEP』配信開始🕷️❤️🔥\n🕸️https://t.co/n6H4c2TPz9\n\n#ヒョヨン が楽曲のポイントについて語ってくれました😉💕これまでのソロ楽曲を盛り込んだ全7曲🫶\n\nヒョヨナがカバーに登場！プレイリスト「K-Beats」でも▶️https://t.co/UdUEw9nSJI\n\n@Hyoyeon_djhyo https://t.co/2N0Bn9CzKF"
 	},
 	{
 		"created_at": "Mon May 16 10:07:38 +0000 2022",
