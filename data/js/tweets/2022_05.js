@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 13:07:08 +0000 2022",
+		"id": 1526911192643448800,
+		"id_str": "1526912271955415040",
+		"full_text": "HYO &amp; WENDY at Wendy's Young Street 🕷💙 \n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 @GirlsGeneration\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 @RVsmtown\n#웬디의영스트리트 #영스트리트 https://t.co/E579dGzbfg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						102,
+						107
+					]
+				},
+				{
+					"text": "웬디",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "WENDY",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"text": "완디",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "웬디의영스트리트",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "영스트리트",
+					"indices": [
+						177,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hyoyeon_djhyo",
+					"name": "Hyoyeon",
+					"id": 792687101842186200,
+					"id_str": "792687101842186240",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "RVsmtown",
+					"name": "Red Velvet",
+					"id": 873092428755894300,
+					"id_str": "873092428755894272",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526911167288856600,
+					"id_str": "1526911167288856576",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"url": "https://t.co/E579dGzbfg",
+					"display_url": "pic.twitter.com/E579dGzbfg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1526911192643448833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526911167288856600,
+					"id_str": "1526911167288856576",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTCtneHUUAASnx6.jpg",
+					"url": "https://t.co/E579dGzbfg",
+					"display_url": "pic.twitter.com/E579dGzbfg",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1526911192643448833/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10824294,
+			"friends_count": 56,
+			"listed_count": 12174,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1193,
+		"favorite_count": 2713,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYO &amp; WENDY at Wendy's Young Street 🕷💙 \n\n#HYO #효연 @Hyoyeon_djhyo\n#DEEP #HYO_DEEP\n#GirlsGeneration #소녀시대 @GirlsGeneration\n#웬디 #WENDY #완디\n#RedVelvet #레드벨벳 @RVsmtown\n#웬디의영스트리트 #영스트리트 https://t.co/E579dGzbfg"
+	},
+	{
 		"created_at": "Wed May 18 09:45:02 +0000 2022",
 		"id": 1526852266107383800,
 		"id_str": "1526861409589547009",
