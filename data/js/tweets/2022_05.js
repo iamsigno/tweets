@@ -1,6 +1,273 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 05:07:09 +0000 2022",
+		"id": 1527142584698941400,
+		"id_str": "1527153865786904576",
+		"full_text": "&lt;슈퍼맨이 돌아왔다&gt; 핑크 공주로 변신한 세은&gt;_&lt; 서현’s 메이크업 샵 오픈💄 | KBS 220513 방송\n\n핑크 공주로 변신한 세은이 예쁘넹~\n상황극하며 엄마 네일도 완성💅\n\n#슈퍼맨이돌아왔다 #슈돌 #백종원 #소유진 #백용희 #백서현 #백세은 #육아 #슈퍼맨 #메이크업 #화장 #핑크공주 #KBS https://t.co/SHNCEucN4y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슈퍼맨이돌아왔다",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "슈돌",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "백종원",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "소유진",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "백용희",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "백서현",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "백세은",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "육아",
+					"indices": [
+						151,
+						154
+					]
+				},
+				{
+					"text": "슈퍼맨",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "메이크업",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "화장",
+					"indices": [
+						166,
+						169
+					]
+				},
+				{
+					"text": "핑크공주",
+					"indices": [
+						170,
+						175
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						176,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527142524451975200,
+					"id_str": "1527142524451975169",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FTGACOtacAEiAXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTGACOtacAEiAXo.jpg",
+					"url": "https://t.co/SHNCEucN4y",
+					"display_url": "pic.twitter.com/SHNCEucN4y",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1527142584698941440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527142524451975200,
+					"id_str": "1527142524451975169",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FTGACOtacAEiAXo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTGACOtacAEiAXo.jpg",
+					"url": "https://t.co/SHNCEucN4y",
+					"display_url": "pic.twitter.com/SHNCEucN4y",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1527142584698941440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Ykps",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Ykps",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106625,
+			"friends_count": 56935,
+			"listed_count": 2115,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1651211070",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;슈퍼맨이 돌아왔다&gt; 핑크 공주로 변신한 세은&gt;_&lt; 서현’s 메이크업 샵 오픈💄 | KBS 220513 방송\n\n핑크 공주로 변신한 세은이 예쁘넹~\n상황극하며 엄마 네일도 완성💅\n\n#슈퍼맨이돌아왔다 #슈돌 #백종원 #소유진 #백용희 #백서현 #백세은 #육아 #슈퍼맨 #메이크업 #화장 #핑크공주 #KBS https://t.co/SHNCEucN4y"
+	},
+	{
 		"created_at": "Thu May 19 03:07:08 +0000 2022",
 		"id": 1527113561822179300,
 		"id_str": "1527123664444989440",
