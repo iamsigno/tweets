@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 03:07:08 +0000 2022",
+		"id": 1527113561822179300,
+		"id_str": "1527123664444989440",
+		"full_text": "[#NEWS] '징크스의 연인' 서현 윤지혜, 비밀을 감춘 모녀 케미 예고\n▶ https://t.co/ib2jZLFT7f\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/2Wt0CSSytm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						73,
+						80
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ib2jZLFT7f",
+					"expanded_url": "http://naver.me/GDbu3XTb",
+					"display_url": "naver.me/GDbu3XTb",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1527106704260755500,
+					"id_str": "1527106704260755457",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FTFfdOGUcAE4IsH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTFfdOGUcAE4IsH.jpg",
+					"url": "https://t.co/2Wt0CSSytm",
+					"display_url": "pic.twitter.com/2Wt0CSSytm",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1527113561822179328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527106704260755500,
+					"id_str": "1527106704260755457",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FTFfdOGUcAE4IsH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTFfdOGUcAE4IsH.jpg",
+					"url": "https://t.co/2Wt0CSSytm",
+					"display_url": "pic.twitter.com/2Wt0CSSytm",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1527113561822179328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527106704336310300,
+					"id_str": "1527106704336310272",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/FTFfdOYVUAA1RZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTFfdOYVUAA1RZa.jpg",
+					"url": "https://t.co/2Wt0CSSytm",
+					"display_url": "pic.twitter.com/2Wt0CSSytm",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1527113561822179328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60198,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 146,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현 윤지혜, 비밀을 감춘 모녀 케미 예고\n▶ https://t.co/ib2jZLFT7f\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/2Wt0CSSytm"
+	},
+	{
 		"created_at": "Wed May 18 13:44:56 +0000 2022",
 		"id": 1526915680699723800,
 		"id_str": "1526921784603320321",
