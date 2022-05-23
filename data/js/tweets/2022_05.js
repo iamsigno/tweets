@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 04:07:09 +0000 2022",
+		"id": 1528577577043996700,
+		"id_str": "1528588316605652992",
+		"full_text": "🖤#HYO(#少女時代)💗\n￣￣￣￣￣￣￣￣￣￣￣\nソロとして初のミニアルバム\n『#DEEP』でカムバック🕸💥\n\n強烈なEDMサウンドが特徴の\nタイトル曲をはじめ、\n\n多彩な雰囲気の\nエレクトロニックジャンルの\n全7曲を収録！💋👠\n\n#ヒョヨン #효연 #HYO_DEEP\n@gg_official_jp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						6,
+						11
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						41,
+						46
+					]
+				},
+				{
+					"text": "ヒョヨン",
+					"indices": [
+						117,
+						122
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "HYO_DEEP",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gg_official_jp",
+					"name": "少女時代 JAPAN OFFICIAL",
+					"id": 2585025200,
+					"id_str": "2585025200",
+					"indices": [
+						137,
+						152
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3015879513,
+			"id_str": "3015879513",
+			"name": "LINE MUSIC",
+			"screen_name": "LINEMUSIC_JP",
+			"location": "",
+			"description": "音楽も対象LINEスタンプも聴き放題&使い放題！💚音楽ストリーミングサービス #LINEMUSIC は今なら3ヶ月無料！#君のスマホでLINEMUSIC📱詳しくはこちら👉https://t.co/jw8hSueoGV",
+			"url": "https://t.co/enu5XPNyoS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/enu5XPNyoS",
+							"expanded_url": "https://music.line.me/about/",
+							"display_url": "music.line.me/about/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jw8hSueoGV",
+							"expanded_url": "http://lin.ee/vQXXL7T/lnms",
+							"display_url": "lin.ee/vQXXL7T/lnms",
+							"indices": [
+								85,
+								108
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 264263,
+			"friends_count": 193,
+			"listed_count": 485,
+			"created_at": "Wed Feb 04 01:23:45 +0000 2015",
+			"favourites_count": 3531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 142025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425474601048547335/ZJeufhgO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3015879513/1652432407",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 87,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ja",
+		"text": "🖤#HYO(#少女時代)💗\n￣￣￣￣￣￣￣￣￣￣￣\nソロとして初のミニアルバム\n『#DEEP』でカムバック🕸💥\n\n強烈なEDMサウンドが特徴の\nタイトル曲をはじめ、\n\n多彩な雰囲気の\nエレクトロニックジャンルの\n全7曲を収録！💋👠\n\n#ヒョヨン #효연 #HYO_DEEP\n@gg_official_jp"
+	},
+	{
 		"created_at": "Mon May 23 03:07:08 +0000 2022",
 		"id": 1528563868867235800,
 		"id_str": "1528573215894908929",
