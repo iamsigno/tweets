@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 11:07:08 +0000 2022",
+		"id": 1529769293507793000,
+		"id_str": "1529781175870492672",
+		"full_text": "👑퍼포먼스 퀸 효연의 엠카 컴백무대👑 데뷔 16년차 횬니에게 매번 더 DEEP 하게 빠져들어❤ #효연 #DEEP #HYO @GirlsGeneration #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/7G4dLmkPPk\nVertical Ver. ▶ https://t.co/xlbcwYTauz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "효연",
+					"indices": [
+						53,
+						56
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						57,
+						62
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						63,
+						67
+					]
+				},
+				{
+					"text": "MCOUNTDOWN",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "MPD직캠",
+					"indices": [
+						97,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						68,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7G4dLmkPPk",
+					"expanded_url": "https://youtu.be/Gsnnq6zrbHM",
+					"display_url": "youtu.be/Gsnnq6zrbHM",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/xlbcwYTauz",
+					"expanded_url": "https://youtu.be/sILmKVw55Jo",
+					"display_url": "youtu.be/sILmKVw55Jo",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1246227,
+			"friends_count": 459,
+			"listed_count": 1537,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "👑퍼포먼스 퀸 효연의 엠카 컴백무대👑 데뷔 16년차 횬니에게 매번 더 DEEP 하게 빠져들어❤ #효연 #DEEP #HYO @GirlsGeneration #MCOUNTDOWN #MPD직캠\n\nHorizontal Ver. ▶ https://t.co/7G4dLmkPPk\nVertical Ver. ▶ https://t.co/xlbcwYTauz"
+	},
+	{
 		"created_at": "Thu May 26 08:07:12 +0000 2022",
 		"id": 1529734084569624600,
 		"id_str": "1529735890700062720",
