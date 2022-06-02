@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 06:07:21 +0000 2022",
+		"id": 1532224873883238400,
+		"id_str": "1532242445173391360",
+		"full_text": "TAEYEON shows strong presence and majesty as the grand master of ‘Queendom 2’! \nThe world-class host captivates global fans! \n“It was a delightful time for me to do this together with fellow singers”  \n\nhttps://t.co/CjoqICIOAL\n\n#태연 #TAEYEON \n#퀸덤2 #Queendom2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						228,
+						231
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						232,
+						240
+					]
+				},
+				{
+					"text": "퀸덤2",
+					"indices": [
+						242,
+						246
+					]
+				},
+				{
+					"text": "Queendom2",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CjoqICIOAL",
+					"expanded_url": "https://bit.ly/3N9Ht0p",
+					"display_url": "bit.ly/3N9Ht0p",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1532224871668719600,
+		"in_reply_to_status_id_str": "1532224871668719616",
+		"in_reply_to_user_id": 1496499777965822000,
+		"in_reply_to_user_id_str": "1496499777965821956",
+		"in_reply_to_screen_name": "TAEYEONsmtown",
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107892,
+			"friends_count": 2,
+			"listed_count": 331,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 53,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 500,
+		"favorite_count": 1178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TAEYEON shows strong presence and majesty as the grand master of ‘Queendom 2’! \nThe world-class host captivates global fans! \n“It was a delightful time for me to do this together with fellow singers”  \n\nhttps://t.co/CjoqICIOAL\n\n#태연 #TAEYEON \n#퀸덤2 #Queendom2"
+	},
+	{
+		"created_at": "Thu Jun 02 06:07:09 +0000 2022",
+		"id": 1532229971368116200,
+		"id_str": "1532242393747099649",
+		"full_text": "[#DRAMA] [티저] 엄청난 능력의 무녀 슬비X징크스의 남자 수광의 판타지 희망 로맨스❤ 6월 15일 수요일 첫방송✨ [징크스의 연인] | KBS 방송\n▶ https://t.co/OnTvlR2JVt\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRAMA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						114,
+						117
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						118,
+						125
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OnTvlR2JVt",
+					"expanded_url": "https://youtu.be/Xq4CnVYWda4",
+					"display_url": "youtu.be/Xq4CnVYWda4",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60390,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15705,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 119,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#DRAMA] [티저] 엄청난 능력의 무녀 슬비X징크스의 남자 수광의 판타지 희망 로맨스❤ 6월 15일 수요일 첫방송✨ [징크스의 연인] | KBS 방송\n▶ https://t.co/OnTvlR2JVt\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst"
+	},
+	{
 		"created_at": "Thu Jun 02 02:07:09 +0000 2022",
 		"id": 1532178986402427000,
 		"id_str": "1532181995782127617",
