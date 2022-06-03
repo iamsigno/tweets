@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 03 10:07:15 +0000 2022",
+		"id": 1532656604675379200,
+		"id_str": "1532665208669446144",
+		"full_text": "화, 수요일에는 동방신기에게 72시간이 주어진다면?⏰\n &lt;동방신기의 72시간&gt;과 함께해요~\n\n목, 금요일에는 소녀시대의 힐링여행✈️\n&lt;소녀포레스트&gt; 가 준비되어 있습니다! https://t.co/l0IphnbvXv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532656576548417500,
+					"id_str": "1532656576548417536",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FUUXCTfVsAAYl_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUUXCTfVsAAYl_M.jpg",
+					"url": "https://t.co/l0IphnbvXv",
+					"display_url": "pic.twitter.com/l0IphnbvXv",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1532656604675379200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532656576548417500,
+					"id_str": "1532656576548417536",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FUUXCTfVsAAYl_M.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUUXCTfVsAAYl_M.jpg",
+					"url": "https://t.co/l0IphnbvXv",
+					"display_url": "pic.twitter.com/l0IphnbvXv",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1532656604675379200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532656576716107800,
+					"id_str": "1532656576716107776",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FUUXCUHUcAApfjN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUUXCUHUcAApfjN.jpg",
+					"url": "https://t.co/l0IphnbvXv",
+					"display_url": "pic.twitter.com/l0IphnbvXv",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1532656604675379200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532656576892285000,
+					"id_str": "1532656576892284928",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FUUXCUxUsAAXwAY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUUXCUxUsAAXwAY.jpg",
+					"url": "https://t.co/l0IphnbvXv",
+					"display_url": "pic.twitter.com/l0IphnbvXv",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1532656604675379200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1532656577051648000,
+					"id_str": "1532656577051648000",
+					"indices": [
+						108,
+						131
+					],
+					"media_url": "http://pbs.twimg.com/media/FUUXCVXUYAAAslo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUUXCVXUYAAAslo.jpg",
+					"url": "https://t.co/l0IphnbvXv",
+					"display_url": "pic.twitter.com/l0IphnbvXv",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1532656604675379200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1532656334734336000,
+		"in_reply_to_status_id_str": "1532656334734336001",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                   🚘리얼나우 🗺엑사세3 ☕️신과함께",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51845,
+			"friends_count": 0,
+			"listed_count": 80,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1649040267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "화, 수요일에는 동방신기에게 72시간이 주어진다면?⏰\n &lt;동방신기의 72시간&gt;과 함께해요~\n\n목, 금요일에는 소녀시대의 힐링여행✈️\n&lt;소녀포레스트&gt; 가 준비되어 있습니다! https://t.co/l0IphnbvXv"
+	},
+	{
 		"created_at": "Fri Jun 03 07:07:08 +0000 2022",
 		"id": 1532615007061823500,
 		"id_str": "1532619880842788864",
