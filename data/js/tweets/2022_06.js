@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 03:07:08 +0000 2022",
+		"id": 1534369665329549300,
+		"id_str": "1534371421530603521",
+		"full_text": "임윤아X이종석 '빅마우스', 대본 리딩 첫 공개…'믿보배' 군단 총출동\n\nScript reading photos of ‘The Big Mouth’ featuring LIM YOONA X Lee Jong Suk were first released!\n\nhttps://t.co/cqnmv3gxv4\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/fNeS4ePj6U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						169,
+						178
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						186,
+						198
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						205,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cqnmv3gxv4",
+					"expanded_url": "https://bit.ly/3xh2EHp",
+					"display_url": "bit.ly/3xh2EHp",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1534369658111131600,
+					"id_str": "1534369658111131648",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"url": "https://t.co/fNeS4ePj6U",
+					"display_url": "pic.twitter.com/fNeS4ePj6U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534369665329549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1534369658111131600,
+					"id_str": "1534369658111131648",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUstExnaAAAbjDd.jpg",
+					"url": "https://t.co/fNeS4ePj6U",
+					"display_url": "pic.twitter.com/fNeS4ePj6U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534369665329549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1534369658132123600,
+					"id_str": "1534369658132123649",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FUstExsaUAE0jX5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUstExsaUAE0jX5.jpg",
+					"url": "https://t.co/fNeS4ePj6U",
+					"display_url": "pic.twitter.com/fNeS4ePj6U",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1534369665329549312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YWlJE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YWlJE5",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10874902,
+			"friends_count": 56,
+			"listed_count": 12279,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477835872729206786/4DNyIiTo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1641178515",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 369,
+		"favorite_count": 1004,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "임윤아X이종석 '빅마우스', 대본 리딩 첫 공개…'믿보배' 군단 총출동\n\nScript reading photos of ‘The Big Mouth’ featuring LIM YOONA X Lee Jong Suk were first released!\n\nhttps://t.co/cqnmv3gxv4\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/fNeS4ePj6U"
+	},
+	{
 		"created_at": "Wed Jun 08 02:07:08 +0000 2022",
 		"id": 1534349141505343500,
 		"id_str": "1534356322526822402",
