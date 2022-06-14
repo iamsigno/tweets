@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 12:07:09 +0000 2022",
+		"id": 1536643331991941000,
+		"id_str": "1536681645050417159",
+		"full_text": "[#신동] \nNCT DREAM 비트박스 추가 홍보 걸고 게임 가보자고 (ft. 소녀시대 윤아🌸) [만나달라] Ep.2\n\n📍 https://t.co/1XunNWqJW3\n\n#슈퍼주니어 #SUPERJUNIOR\n#SHINDONG \n#만나달라",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신동",
+					"indices": [
+						1,
+						4
+					]
+				},
+				{
+					"text": "슈퍼주니어",
+					"indices": [
+						94,
+						100
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"text": "SHINDONG",
+					"indices": [
+						114,
+						123
+					]
+				},
+				{
+					"text": "만나달라",
+					"indices": [
+						125,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1XunNWqJW3",
+					"expanded_url": "https://youtu.be/a926f_82Ds4",
+					"display_url": "youtu.be/a926f_82Ds4",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 965487301722701800,
+			"id_str": "965487301722701826",
+			"name": "SUPER JUNIOR",
+			"screen_name": "SJofficial",
+			"location": "",
+			"description": "#SUPERJUNIOR #슈퍼주니어 Official Twitter",
+			"url": "https://t.co/EFr3comQYb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EFr3comQYb",
+							"expanded_url": "https://www.youtube.com/SUPERJUNIOR",
+							"display_url": "youtube.com/SUPERJUNIOR",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1404384,
+			"friends_count": 10,
+			"listed_count": 2834,
+			"created_at": "Mon Feb 19 07:24:45 +0000 2018",
+			"favourites_count": 246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536589885192417280/bTUoT4TF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536589885192417280/bTUoT4TF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/965487301722701826/1655186854",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1168,
+		"favorite_count": 3195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#신동] \nNCT DREAM 비트박스 추가 홍보 걸고 게임 가보자고 (ft. 소녀시대 윤아🌸) [만나달라] Ep.2\n\n📍 https://t.co/1XunNWqJW3\n\n#슈퍼주니어 #SUPERJUNIOR\n#SHINDONG \n#만나달라"
+	},
+	{
 		"created_at": "Tue Jun 14 09:07:15 +0000 2022",
 		"id": 1536635439310065700,
 		"id_str": "1536636375331749889",
