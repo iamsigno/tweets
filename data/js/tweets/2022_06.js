@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 15 08:07:09 +0000 2022",
+		"id": 1536980689651847200,
+		"id_str": "1536983634984554501",
+		"full_text": "[#DRAMA] [하이라이트] 서현X나인우X전광렬X기도훈X윤지혜, 당신의 마음을 위로할 마법같은 사랑이 온다 l #징크스의연인 6/15(수) 밤 9시 50분 KBS 2TV 첫 방송\n▶ https://t.co/NLBzEoQo0O\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRAMA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						63,
+						70
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						128,
+						131
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						140,
+						148
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						149,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NLBzEoQo0O",
+					"expanded_url": "https://youtu.be/G4lgOxs2Pc4",
+					"display_url": "youtu.be/G4lgOxs2Pc4",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60602,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#DRAMA] [하이라이트] 서현X나인우X전광렬X기도훈X윤지혜, 당신의 마음을 위로할 마법같은 사랑이 온다 l #징크스의연인 6/15(수) 밤 9시 50분 KBS 2TV 첫 방송\n▶ https://t.co/NLBzEoQo0O\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst"
+	},
+	{
 		"created_at": "Wed Jun 15 05:07:08 +0000 2022",
 		"id": 1536929188791591000,
 		"id_str": "1536938336396394496",
