@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 19 04:07:09 +0000 2022",
+		"id": 1538371241924382700,
+		"id_str": "1538372790633611264",
+		"full_text": "[#TMINEWSSHOW/17회] ☞소녀시대 완전체 컴백☜ 융프로디테 윤아가 방송에서 열풍을 일으킨 음식의 정체는?!\n\n▶️ https://t.co/09bxuWsNPK\n▶️ https://t.co/aBIPjTgQ9Q\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #경윤 #재찬 #종형 #DKZ #엠넷 https://t.co/O8yfbIFVgd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						176,
+						178
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						179,
+						182
+					]
+				},
+				{
+					"text": "경윤",
+					"indices": [
+						183,
+						186
+					]
+				},
+				{
+					"text": "재찬",
+					"indices": [
+						187,
+						190
+					]
+				},
+				{
+					"text": "종형",
+					"indices": [
+						191,
+						194
+					]
+				},
+				{
+					"text": "DKZ",
+					"indices": [
+						195,
+						199
+					]
+				},
+				{
+					"text": "엠넷",
+					"indices": [
+						200,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/09bxuWsNPK",
+					"expanded_url": "http://youtu.be/gu20AwYLMJw",
+					"display_url": "youtu.be/gu20AwYLMJw",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/aBIPjTgQ9Q",
+					"expanded_url": "http://tv.naver.com/v/27369489",
+					"display_url": "tv.naver.com/v/27369489",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1537665711568392200,
+					"id_str": "1537665711568392192",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbi0VlVEAA7XTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbi0VlVEAA7XTH.jpg",
+					"url": "https://t.co/O8yfbIFVgd",
+					"display_url": "pic.twitter.com/O8yfbIFVgd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1538371241924382720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537665711568392200,
+					"id_str": "1537665711568392192",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FVbi0VlVEAA7XTH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVbi0VlVEAA7XTH.jpg",
+					"url": "https://t.co/O8yfbIFVgd",
+					"display_url": "pic.twitter.com/O8yfbIFVgd",
+					"expanded_url": "https://twitter.com/MnetKR/status/1538371241924382720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3065558,
+			"friends_count": 20916,
+			"listed_count": 3029,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW/17회] ☞소녀시대 완전체 컴백☜ 융프로디테 윤아가 방송에서 열풍을 일으킨 음식의 정체는?!\n\n▶️ https://t.co/09bxuWsNPK\n▶️ https://t.co/aBIPjTgQ9Q\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #경윤 #재찬 #종형 #DKZ #엠넷 https://t.co/O8yfbIFVgd"
+	},
+	{
 		"created_at": "Fri Jun 17 15:44:57 +0000 2022",
 		"id": 1537816543014228000,
 		"id_str": "1537823620617191425",
