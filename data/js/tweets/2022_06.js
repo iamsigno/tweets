@@ -1,6 +1,281 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 09:07:09 +0000 2022",
+		"id": 1539533651213398000,
+		"id_str": "1539535450196647936",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO \n待望の追加公演が決定しました❣\nこちらもお楽しみに✨\n\n✔ 8/27, 28  公演SOLD OUT\n🆕8/29(月) 17:30\n\n詳細は\nhttps://t.co/VrVj4WmC9a\nhttps://t.co/lUllBsxZbc\nhttps://t.co/wWYMdnYncl\n\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO\n#少女時代 #TAEYEON #HYOYEON https://t.co/SJ9bSWZBYL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						198,
+						217
+					]
+				},
+				{
+					"text": "少女時代",
+					"indices": [
+						218,
+						223
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						224,
+						232
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						233,
+						241
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VrVj4WmC9a",
+					"expanded_url": "https://smtown.jp",
+					"display_url": "smtown.jp",
+					"indices": [
+						112,
+						135
+					]
+				},
+				{
+					"url": "https://t.co/lUllBsxZbc",
+					"expanded_url": "https://smtown-official.jp",
+					"display_url": "smtown-official.jp",
+					"indices": [
+						136,
+						159
+					]
+				},
+				{
+					"url": "https://t.co/wWYMdnYncl",
+					"expanded_url": "https://girls-generation.jp/news/3948",
+					"display_url": "girls-generation.jp/news/3948",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1539444487659090000,
+					"id_str": "1539444487659089920",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"url": "https://t.co/SJ9bSWZBYL",
+					"display_url": "pic.twitter.com/SJ9bSWZBYL",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1539533651213398017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539444487659090000,
+					"id_str": "1539444487659089920",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV00mu5acAAZn58.jpg",
+					"url": "https://t.co/SJ9bSWZBYL",
+					"display_url": "pic.twitter.com/SJ9bSWZBYL",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1539533651213398017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1451,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 482,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539444524057239600,
+					"id_str": "1539444524057239552",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FV00o2faIAAyp6F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV00o2faIAAyp6F.jpg",
+					"url": "https://t.co/SJ9bSWZBYL",
+					"display_url": "pic.twitter.com/SJ9bSWZBYL",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1539533651213398017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 783,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1337,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112807,
+			"friends_count": 0,
+			"listed_count": 515,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS @ TOKYO \n待望の追加公演が決定しました❣\nこちらもお楽しみに✨\n\n✔ 8/27, 28  公演SOLD OUT\n🆕8/29(月) 17:30\n\n詳細は\nhttps://t.co/VrVj4WmC9a\nhttps://t.co/lUllBsxZbc\nhttps://t.co/wWYMdnYncl\n\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO\n#少女時代 #TAEYEON #HYOYEON https://t.co/SJ9bSWZBYL"
+	},
+	{
 		"created_at": "Wed Jun 22 08:07:22 +0000 2022",
 		"id": 1539519149197906000,
 		"id_str": "1539520405458796544",
