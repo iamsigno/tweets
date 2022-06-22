@@ -1,6 +1,642 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 08:07:22 +0000 2022",
+		"id": 1539519149197906000,
+		"id_str": "1539520405458796544",
+		"full_text": "[#하드터는_나무꾼🌳]\n\n나무꾼만 가지고 있기엔 아까운\n美공개 사진 THE 공개✨\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/KajYcAT0aB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하드터는_나무꾼",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						47,
+						50
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						51,
+						58
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539518948928278500,
+					"id_str": "1539518948928278528",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FV14U8vaUAAxoIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV14U8vaUAAxoIf.jpg",
+					"url": "https://t.co/KajYcAT0aB",
+					"display_url": "pic.twitter.com/KajYcAT0aB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539519149197905920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539518948928278500,
+					"id_str": "1539518948928278528",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FV14U8vaUAAxoIf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV14U8vaUAAxoIf.jpg",
+					"url": "https://t.co/KajYcAT0aB",
+					"display_url": "pic.twitter.com/KajYcAT0aB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539519149197905920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 961,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539518950236909600,
+					"id_str": "1539518950236909573",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FV14VBnacAUbAUa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV14VBnacAUbAUa.jpg",
+					"url": "https://t.co/KajYcAT0aB",
+					"display_url": "pic.twitter.com/KajYcAT0aB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539519149197905920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539518950241087500,
+					"id_str": "1539518950241087488",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FV14VBoaMAAPmQL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV14VBoaMAAPmQL.jpg",
+					"url": "https://t.co/KajYcAT0aB",
+					"display_url": "pic.twitter.com/KajYcAT0aB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539519149197905920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1201,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539518950236901400,
+					"id_str": "1539518950236901376",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/FV14VBnaUAAGRz9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV14VBnaUAAGRz9.jpg",
+					"url": "https://t.co/KajYcAT0aB",
+					"display_url": "pic.twitter.com/KajYcAT0aB",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539519149197905920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1539518732833554400,
+		"in_reply_to_status_id_str": "1539518732833554432",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60811,
+			"friends_count": 12,
+			"listed_count": 269,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#하드터는_나무꾼🌳]\n\n나무꾼만 가지고 있기엔 아까운\n美공개 사진 THE 공개✨\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/KajYcAT0aB"
+	},
+	{
+		"created_at": "Wed Jun 22 08:07:18 +0000 2022",
+		"id": 1539518552268492800,
+		"id_str": "1539520388169928704",
+		"full_text": "[#아낌없이주는나무]\n\n징짜 재밌는 드라마 KBS2 &lt;징크스의 연인&gt; 제작발표회 비하인드!\n슬비가 된 서현 배우의 핑크빛 외출 공개💟\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/jUPRhf0DjG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아낌없이주는나무",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						86,
+						93
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						103,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539517480959615000,
+					"id_str": "1539517480959614976",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FV12_gIaIAAg9h5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV12_gIaIAAg9h5.jpg",
+					"url": "https://t.co/jUPRhf0DjG",
+					"display_url": "pic.twitter.com/jUPRhf0DjG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539518552268492800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539517480959615000,
+					"id_str": "1539517480959614976",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FV12_gIaIAAg9h5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV12_gIaIAAg9h5.jpg",
+					"url": "https://t.co/jUPRhf0DjG",
+					"display_url": "pic.twitter.com/jUPRhf0DjG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539518552268492800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 961,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539517480959623200,
+					"id_str": "1539517480959623168",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FV12_gIaQAAos-9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV12_gIaQAAos-9.jpg",
+					"url": "https://t.co/jUPRhf0DjG",
+					"display_url": "pic.twitter.com/jUPRhf0DjG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539518552268492800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1539517480959606800,
+					"id_str": "1539517480959606785",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FV12_gIaAAE6ad0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV12_gIaAAE6ad0.jpg",
+					"url": "https://t.co/jUPRhf0DjG",
+					"display_url": "pic.twitter.com/jUPRhf0DjG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539518552268492800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1539517480963833900,
+					"id_str": "1539517480963833857",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FV12_gJagAEJ3Fi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FV12_gJagAEJ3Fi.jpg",
+					"url": "https://t.co/jUPRhf0DjG",
+					"display_url": "pic.twitter.com/jUPRhf0DjG",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1539518552268492800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60811,
+			"friends_count": 12,
+			"listed_count": 269,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15831,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 136,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아낌없이주는나무]\n\n징짜 재밌는 드라마 KBS2 &lt;징크스의 연인&gt; 제작발표회 비하인드!\n슬비가 된 서현 배우의 핑크빛 외출 공개💟\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/jUPRhf0DjG"
+	},
+	{
 		"created_at": "Wed Jun 22 05:07:08 +0000 2022",
 		"id": 1539460670118297600,
 		"id_str": "1539475050885222402",
