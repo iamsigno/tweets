@@ -1,6 +1,272 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 09:07:09 +0000 2022",
+		"id": 1541346843086692400,
+		"id_str": "1541347389444849664",
+		"full_text": "[복수엔딩] \" 해 봐, 할 수 있다면🔪 \"\n예측불허 한이한의 기습💥 태연한 구진기🤷\n\n&lt;#닥터로이어&gt; 매주 금·토 밤 9시 50분 방송🔥\n#소지섭 #신성록 #임수향 #법정드라마 #의학드라마 #닥터 #로이어 MBC220624방송 https://t.co/c5txPNV7zB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "닥터로이어",
+					"indices": [
+						53,
+						59
+					]
+				},
+				{
+					"text": "소지섭",
+					"indices": [
+						84,
+						88
+					]
+				},
+				{
+					"text": "신성록",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "임수향",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "법정드라마",
+					"indices": [
+						99,
+						105
+					]
+				},
+				{
+					"text": "의학드라마",
+					"indices": [
+						106,
+						112
+					]
+				},
+				{
+					"text": "닥터",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "로이어",
+					"indices": [
+						117,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541346582049980400,
+					"id_str": "1541346582049980416",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP2wpnakAACWeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP2wpnakAACWeF.jpg",
+					"url": "https://t.co/c5txPNV7zB",
+					"display_url": "pic.twitter.com/c5txPNV7zB",
+					"expanded_url": "https://twitter.com/withMBC/status/1541346843086692352/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541346582049980400,
+					"id_str": "1541346582049980416",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FWP2wpnakAACWeF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWP2wpnakAACWeF.jpg",
+					"url": "https://t.co/c5txPNV7zB",
+					"display_url": "pic.twitter.com/c5txPNV7zB",
+					"expanded_url": "https://twitter.com/withMBC/status/1541346843086692352/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59926,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1541346582049980416/vid/480x600/8GQEr5Di7S-tRgoS.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1541346582049980416/vid/320x400/tTbYH1y_lnt3MmUQ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1541346582049980416/pl/7p8XZLj0MRR8iz7b.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1541346582049980416/vid/720x900/KuBEQFFahHEhJyzl.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1007626,
+			"friends_count": 9883,
+			"listed_count": 4214,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 126,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48218,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1653354719",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[복수엔딩] \" 해 봐, 할 수 있다면🔪 \"\n예측불허 한이한의 기습💥 태연한 구진기🤷\n\n&lt;#닥터로이어&gt; 매주 금·토 밤 9시 50분 방송🔥\n#소지섭 #신성록 #임수향 #법정드라마 #의학드라마 #닥터 #로이어 MBC220624방송 https://t.co/c5txPNV7zB"
+	},
+	{
 		"created_at": "Mon Jun 27 08:07:08 +0000 2022",
 		"id": 1541322941656273000,
 		"id_str": "1541332289262583809",
