@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 05:07:08 +0000 2022",
+		"id": 1541276453719142400,
+		"id_str": "1541286989949014018",
+		"full_text": "‘탐’나는 소녀시대의 ‘탐’나는 예능 정복기&lt;#소시탐탐&gt;에서\n#소녀시대 와 특별한 추억이 있는 분들의 사연을 모집합니다!\n\n6월 27일(월)부터 7월 6일(목)까지\n소시탐탐 홈페이지 [소원이 말해봐] 게시판에 사연을 올려주세요!\n👉 https://t.co/Qf0IyQMv0C https://t.co/RToHNeGV7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소시탐탐",
+					"indices": [
+						28,
+						33
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						40,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qf0IyQMv0C",
+					"expanded_url": "https://tv.jtbc.joins.com/board/pr10011488/pm10065270",
+					"display_url": "tv.jtbc.joins.com/board/pr100114…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1541276202929111000,
+					"id_str": "1541276202929111040",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWO2imBaQAAx4fR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWO2imBaQAAx4fR.jpg",
+					"url": "https://t.co/RToHNeGV7I",
+					"display_url": "pic.twitter.com/RToHNeGV7I",
+					"expanded_url": "https://twitter.com/jtbclove/status/1541276453719142401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541276202929111000,
+					"id_str": "1541276202929111040",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/FWO2imBaQAAx4fR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWO2imBaQAAx4fR.jpg",
+					"url": "https://t.co/RToHNeGV7I",
+					"display_url": "pic.twitter.com/RToHNeGV7I",
+					"expanded_url": "https://twitter.com/jtbclove/status/1541276453719142401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 471032,
+			"friends_count": 108,
+			"listed_count": 810,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24852,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1654762580",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 534,
+		"favorite_count": 593,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘탐’나는 소녀시대의 ‘탐’나는 예능 정복기&lt;#소시탐탐&gt;에서\n#소녀시대 와 특별한 추억이 있는 분들의 사연을 모집합니다!\n\n6월 27일(월)부터 7월 6일(목)까지\n소시탐탐 홈페이지 [소원이 말해봐] 게시판에 사연을 올려주세요!\n👉 https://t.co/Qf0IyQMv0C https://t.co/RToHNeGV7I"
+	},
+	{
 		"created_at": "Fri Jun 24 12:44:57 +0000 2022",
 		"id": 1540304163480797200,
 		"id_str": "1540315036740206592",
