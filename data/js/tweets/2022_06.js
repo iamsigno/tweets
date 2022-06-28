@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 10:07:13 +0000 2022",
+		"id": 1541715439901745200,
+		"id_str": "1541724896065110020",
+		"full_text": "[#EVENT] 🎉 Happy Seo Hyun Day 🎉\n\n생일을 맞이해 팬분들을 위한 깜짝 이벤트를 준비한 서현 배우! (말해 모해 서다정...♥)\n'행운의 여신'이 준비한 이벤트가 궁금하시다면?\n나무엑터스 유튜브 커뮤니티에서 자세한 사항을 확인해 주세요~🎈\n\n#서현 #SEOHYUN #행운의여신_서현아_소원을말해봐 https://t.co/D6Ta3c2MXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						147,
+						150
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"text": "행운의여신_서현아_소원을말해봐",
+					"indices": [
+						160,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541715416195616800,
+					"id_str": "1541715416195616768",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541715416195616800,
+					"id_str": "1541715416195616768",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGAK8VUAASNsJ.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541715416426225700,
+					"id_str": "1541715416426225665",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGALzUIAEbqiR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGALzUIAEbqiR.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541715416568844300,
+					"id_str": "1541715416568844288",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGAMVUUAAgnRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGAMVUUAAgnRO.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1541715416904392700,
+					"id_str": "1541715416904392704",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FWVGANlUYAAGOpw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWVGANlUYAAGOpw.jpg",
+					"url": "https://t.co/D6Ta3c2MXF",
+					"display_url": "pic.twitter.com/D6Ta3c2MXF",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1541715439901745152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1541715078663110700,
+		"in_reply_to_status_id_str": "1541715078663110656",
+		"in_reply_to_user_id": 465359487,
+		"in_reply_to_user_id_str": "465359487",
+		"in_reply_to_screen_name": "NAMOOACTORS2004",
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60891,
+			"friends_count": 12,
+			"listed_count": 271,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 466,
+		"favorite_count": 542,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT] 🎉 Happy Seo Hyun Day 🎉\n\n생일을 맞이해 팬분들을 위한 깜짝 이벤트를 준비한 서현 배우! (말해 모해 서다정...♥)\n'행운의 여신'이 준비한 이벤트가 궁금하시다면?\n나무엑터스 유튜브 커뮤니티에서 자세한 사항을 확인해 주세요~🎈\n\n#서현 #SEOHYUN #행운의여신_서현아_소원을말해봐 https://t.co/D6Ta3c2MXF"
+	},
+	{
 		"created_at": "Tue Jun 28 09:07:08 +0000 2022",
 		"id": 1541708620282601500,
 		"id_str": "1541709776022867970",
