@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 01:07:08 +0000 2022",
+		"id": 1541949570246054000,
+		"id_str": "1541951367266410501",
+		"full_text": "The 1st teaser clip of MBC's new Friday, Saturday drama ‘The Big Mouth’ has been released!\n\n📺 To be premiered on 7/29 (Fri) at 9:50 PM KST!\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/uaFUPY6LNi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						157,
+						162
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						182,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541727941453058000,
+					"id_str": "1541727941453058048",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541727941453058048/pu/img/Ea-wgv8-ZZIW4L7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541727941453058048/pu/img/Ea-wgv8-ZZIW4L7B.jpg",
+					"url": "https://t.co/uaFUPY6LNi",
+					"display_url": "pic.twitter.com/uaFUPY6LNi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1541949570246053890/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541727941453058000,
+					"id_str": "1541727941453058048",
+					"indices": [
+						199,
+						222
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1541727941453058048/pu/img/Ea-wgv8-ZZIW4L7B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1541727941453058048/pu/img/Ea-wgv8-ZZIW4L7B.jpg",
+					"url": "https://t.co/uaFUPY6LNi",
+					"display_url": "pic.twitter.com/uaFUPY6LNi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1541949570246053890/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40040,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541727941453058048/pu/vid/640x360/p5xYZAw9K9NH5z6Z.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1541727941453058048/pu/pl/0YgfAyF6lQlvyUcR.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541727941453058048/pu/vid/1280x720/OpBRexwjkNhRMg5p.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1541727941453058048/pu/vid/480x270/bjmaQtSoJ9YxK-xG.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10942408,
+			"friends_count": 56,
+			"listed_count": 12355,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 675,
+		"favorite_count": 1203,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 1st teaser clip of MBC's new Friday, Saturday drama ‘The Big Mouth’ has been released!\n\n📺 To be premiered on 7/29 (Fri) at 9:50 PM KST!\n\n#임윤아 #LIMYOONA \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/uaFUPY6LNi"
+	},
+	{
 		"created_at": "Tue Jun 28 11:07:08 +0000 2022",
 		"id": 1541735660733620200,
 		"id_str": "1541739974306963456",
