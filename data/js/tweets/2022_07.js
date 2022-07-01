@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 08:07:09 +0000 2022",
+		"id": 1542770214311706600,
+		"id_str": "1542781841027080192",
+		"full_text": "‘ZOOM’ - Jessi vs ‘INVU’ - TAEYEON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1542770211165978600,
+		"in_reply_to_status_id_str": "1542770211165978624",
+		"in_reply_to_user_id": 978459450871697400,
+		"in_reply_to_user_id_str": "978459450871697408",
+		"in_reply_to_screen_name": "SpotifyKpop",
+		"user": {
+			"id": 978459450871697400,
+			"id_str": "978459450871697408",
+			"name": "Spotify ❤️ K-Pop",
+			"screen_name": "SpotifyKpop",
+			"location": "",
+			"description": "Annyeong! ✨ Welcome to the colorful world of music, standom, community, and more. Turn on the movement! #SpotifyKPop",
+			"url": "https://t.co/OXiIJ12IEA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OXiIJ12IEA",
+							"expanded_url": "http://spoti.fi/KPOP",
+							"display_url": "spoti.fi/KPOP",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425356,
+			"friends_count": 240,
+			"listed_count": 451,
+			"created_at": "Tue Mar 27 02:31:26 +0000 2018",
+			"favourites_count": 4537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1539821638128398336/WVIuSCQ8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/978459450871697408/1655957063",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 111,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und",
+		"text": "‘ZOOM’ - Jessi vs ‘INVU’ - TAEYEON"
+	},
+	{
 		"created_at": "Fri Jul 01 02:07:08 +0000 2022",
 		"id": 1542683657407791000,
 		"id_str": "1542691243439919105",
