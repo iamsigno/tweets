@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 04 03:07:09 +0000 2022",
+		"id": 1543792908825833500,
+		"id_str": "1543793508728901632",
+		"full_text": "🗓금요일 \n✔️ &lt;지금 당신의 음악, 박선영입니다&gt; 68화 #박선영 #김기태 #박현규\n\n🗓토요일 \n✔️ &lt;후야 TV: 창의공방&gt; 유리 1회 #소녀시대 #유리\n\n구독👍과 알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요! \n🔗https://t.co/Coo1ZHYiOD https://t.co/cH4XzizM7y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박선영",
+					"indices": [
+						39,
+						43
+					]
+				},
+				{
+					"text": "김기태",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "박현규",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						90,
+						95
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						96,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Coo1ZHYiOD",
+					"expanded_url": "https://www.youtube.com/SMCCStudio",
+					"display_url": "youtube.com/SMCCStudio",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1543792897274695700,
+					"id_str": "1543792897274695682",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FWyndfDUUAIMMsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWyndfDUUAIMMsj.jpg",
+					"url": "https://t.co/cH4XzizM7y",
+					"display_url": "pic.twitter.com/cH4XzizM7y",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1543792908825833472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1543792897274695700,
+					"id_str": "1543792897274695682",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FWyndfDUUAIMMsj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWyndfDUUAIMMsj.jpg",
+					"url": "https://t.co/cH4XzizM7y",
+					"display_url": "pic.twitter.com/cH4XzizM7y",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1543792908825833472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1543792897266307000,
+					"id_str": "1543792897266307072",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FWyndfBUUAAAhHi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWyndfBUUAAAhHi.jpg",
+					"url": "https://t.co/cH4XzizM7y",
+					"display_url": "pic.twitter.com/cH4XzizM7y",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1543792908825833472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1543791713814163500,
+		"in_reply_to_status_id_str": "1543791713814163456",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                   🚘리얼나우 🗺엑사세3 ☕️신과함께",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52529,
+			"friends_count": 0,
+			"listed_count": 79,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1306,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1649040267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗓금요일 \n✔️ &lt;지금 당신의 음악, 박선영입니다&gt; 68화 #박선영 #김기태 #박현규\n\n🗓토요일 \n✔️ &lt;후야 TV: 창의공방&gt; 유리 1회 #소녀시대 #유리\n\n구독👍과 알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요! \n🔗https://t.co/Coo1ZHYiOD https://t.co/cH4XzizM7y"
+	},
+	{
 		"created_at": "Mon Jul 04 01:44:56 +0000 2022",
 		"id": 1543762488755380200,
 		"id_str": "1543772820135632896",
