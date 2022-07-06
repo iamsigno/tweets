@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 03:07:09 +0000 2022",
+		"id": 1544507124470128600,
+		"id_str": "1544518283231219712",
+		"full_text": "\"전생에 나는 가시덤불. 날 만지면 상처 입으니ㄲr..\"\n그때 그 시절 희철이의 미니홈피 백문백답🤣\n\nSBS &lt;신발 벗고 돌싱포맨&gt;\n☞ 매주 [화] 밤 10시 방송\n\n#신발벗고돌싱포맨 #돌싱포맨 #돌싱 \n#탁재훈 #임원희 #이상민 #김준호 \n#김희철 #효연 #소유 #습피드 https://t.co/la1e6LMmiV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "신발벗고돌싱포맨",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "돌싱포맨",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "돌싱",
+					"indices": [
+						115,
+						118
+					]
+				},
+				{
+					"text": "탁재훈",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "임원희",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "이상민",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "김준호",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "김희철",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						146,
+						149
+					]
+				},
+				{
+					"text": "소유",
+					"indices": [
+						150,
+						153
+					]
+				},
+				{
+					"text": "습피드",
+					"indices": [
+						154,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544505455728545800,
+					"id_str": "1544505455728545792",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8xAEOakAACFO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8xAEOakAACFO-.jpg",
+					"url": "https://t.co/la1e6LMmiV",
+					"display_url": "pic.twitter.com/la1e6LMmiV",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1544507124470128640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544505455728545800,
+					"id_str": "1544505455728545792",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FW8xAEOakAACFO-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FW8xAEOakAACFO-.jpg",
+					"url": "https://t.co/la1e6LMmiV",
+					"display_url": "pic.twitter.com/la1e6LMmiV",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1544507124470128640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 93293,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544505455728545792/vid/1280x720/3_i_EbCMKREtTgbo.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544505455728545792/vid/640x360/TjC6V7KREBBoh_kZ.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1544505455728545792/vid/480x270/lb2QO8b0b3lQ_-0r.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1544505455728545792/pl/75O7D-ENGt0yEUSM.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBS",
+			"screen_name": "SBSNOW",
+			"location": "",
+			"description": "스브스 특) 재밌는 거만 올림",
+			"url": "https://t.co/AkJkvgxMcs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AkJkvgxMcs",
+							"expanded_url": "https://linktr.ee/sbsnow",
+							"display_url": "linktr.ee/sbsnow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1774929,
+			"friends_count": 119,
+			"listed_count": 3157,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518519570142679041/43pNt_LN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518519570142679041/43pNt_LN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1650931859",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "\"전생에 나는 가시덤불. 날 만지면 상처 입으니ㄲr..\"\n그때 그 시절 희철이의 미니홈피 백문백답🤣\n\nSBS &lt;신발 벗고 돌싱포맨&gt;\n☞ 매주 [화] 밤 10시 방송\n\n#신발벗고돌싱포맨 #돌싱포맨 #돌싱 \n#탁재훈 #임원희 #이상민 #김준호 \n#김희철 #효연 #소유 #습피드 https://t.co/la1e6LMmiV"
+	},
+	{
 		"created_at": "Wed Jul 06 02:07:09 +0000 2022",
 		"id": 1544502643120390100,
 		"id_str": "1544503183187345409",
