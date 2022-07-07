@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 07:07:16 +0000 2022",
+		"id": 1544931722147627000,
+		"id_str": "1544941098698960897",
+		"full_text": "[#NEWS] [투데이TV]'징크스의 연인' 서현X나인우, 적신호 켜진 애정전선 '관계 위기'\n▶ https://t.co/I7UHn2CZbS\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/4YRJUwgsHk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						80,
+						83
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						84,
+						91
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I7UHn2CZbS",
+					"expanded_url": "http://naver.me/52MfdV5e",
+					"display_url": "naver.me/52MfdV5e",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1544926569084309500,
+					"id_str": "1544926569084309504",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"url": "https://t.co/4YRJUwgsHk",
+					"display_url": "pic.twitter.com/4YRJUwgsHk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544931722147627009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544926569084309500,
+					"id_str": "1544926569084309504",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCuh3pVUAAZGeD.jpg",
+					"url": "https://t.co/4YRJUwgsHk",
+					"display_url": "pic.twitter.com/4YRJUwgsHk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544931722147627009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544926569176584200,
+					"id_str": "1544926569176584192",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCuh3_VUAA_oy-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCuh3_VUAA_oy-.jpg",
+					"url": "https://t.co/4YRJUwgsHk",
+					"display_url": "pic.twitter.com/4YRJUwgsHk",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1544931722147627009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61097,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] [투데이TV]'징크스의 연인' 서현X나인우, 적신호 켜진 애정전선 '관계 위기'\n▶ https://t.co/I7UHn2CZbS\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/4YRJUwgsHk"
+	},
+	{
 		"created_at": "Thu Jul 07 06:07:18 +0000 2022",
 		"id": 1544925672719536000,
 		"id_str": "1544926009820323840",
