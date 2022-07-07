@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 06:07:18 +0000 2022",
+		"id": 1544925672719536000,
+		"id_str": "1544926009820323840",
+		"full_text": "수비 커플에게 찾아온 시련꒦ິȏ꒦ິ\n\n수광에게 진실을 털어놓은 슬비와\n그 진실 때문에 혼란스러워하는 수광😢\n\n판타지 희망 로맨스 #징크스의연인\n오늘 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/kghgaaHTm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "징크스의연인",
+					"indices": [
+						72,
+						79
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "KBS드라마",
+					"indices": [
+						125,
+						132
+					]
+				},
+				{
+					"text": "KBSdrama",
+					"indices": [
+						133,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1544925571410407400,
+					"id_str": "1544925571410407424",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1544925571410407400,
+					"id_str": "1544925571410407424",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtnzBVsAAXIjQ.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925591689777200,
+					"id_str": "1544925591689777153",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCto-kUUAE83z7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCto-kUUAE83z7.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925611725992000,
+					"id_str": "1544925611725991936",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtqJNUsAA0NBE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtqJNUsAA0NBE.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1544925627945390000,
+					"id_str": "1544925627945390081",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/FXCtrFoVEAEMOGH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXCtrFoVEAEMOGH.jpg",
+					"url": "https://t.co/kghgaaHTm2",
+					"display_url": "pic.twitter.com/kghgaaHTm2",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1544925672719536128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Ykps",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Ykps",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106196,
+			"friends_count": 56808,
+			"listed_count": 2127,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657068747",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "수비 커플에게 찾아온 시련꒦ິȏ꒦ິ\n\n수광에게 진실을 털어놓은 슬비와\n그 진실 때문에 혼란스러워하는 수광😢\n\n판타지 희망 로맨스 #징크스의연인\n오늘 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/kghgaaHTm2"
+	},
+	{
+		"created_at": "Thu Jul 07 06:07:15 +0000 2022",
+		"id": 1544924800715436000,
+		"id_str": "1544925995781980160",
+		"full_text": "[#EVENT] 행운의 여신 서현 배우가 직접 꾸민 '손 편지'와 '폴라로이드' 당첨자가 발표되었습니다🥳\n참여해주신 모든 분들께 진심으로 감사드립니다ෆ\n\n▶ https://t.co/SnZrLMJISV\n\n#서현 #SEOHYUN #해피서현데이",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EVENT",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						113,
+						116
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "해피서현데이",
+					"indices": [
+						126,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SnZrLMJISV",
+					"expanded_url": "https://bit.ly/3akJmt7",
+					"display_url": "bit.ly/3akJmt7",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61093,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#EVENT] 행운의 여신 서현 배우가 직접 꾸민 '손 편지'와 '폴라로이드' 당첨자가 발표되었습니다🥳\n참여해주신 모든 분들께 진심으로 감사드립니다ෆ\n\n▶ https://t.co/SnZrLMJISV\n\n#서현 #SEOHYUN #해피서현데이"
+	},
+	{
 		"created_at": "Thu Jul 07 02:07:17 +0000 2022",
 		"id": 1544865031119986700,
 		"id_str": "1544865608629616640",
