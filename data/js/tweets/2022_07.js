@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 10:07:08 +0000 2022",
+		"id": 1546784680090943500,
+		"id_str": "1546798305916735488",
+		"full_text": "[#DRAMA] [메이킹] 천국과 지옥을 오가는 서현x나인우의 드로잉 인터뷰 l #징크스의연인 #KBS2TV #수목드라마\n▶ https://t.co/0BP8jKEQ9K\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DRAMA",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"text": "KBS2TV",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						61,
+						67
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						95,
+						98
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0BP8jKEQ9K",
+					"expanded_url": "https://youtu.be/E-JnJEIQvEA",
+					"display_url": "youtu.be/E-JnJEIQvEA",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61365,
+			"friends_count": 12,
+			"listed_count": 273,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#DRAMA] [메이킹] 천국과 지옥을 오가는 서현x나인우의 드로잉 인터뷰 l #징크스의연인 #KBS2TV #수목드라마\n▶ https://t.co/0BP8jKEQ9K\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst"
+	},
+	{
 		"created_at": "Tue Jul 12 07:07:08 +0000 2022",
 		"id": 1546751216327266300,
 		"id_str": "1546753007634862082",
