@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 00:07:09 +0000 2022",
+		"id": 1546645609570238500,
+		"id_str": "1546647313682137089",
+		"full_text": "&lt;‘SMTOWN LIVE 2022 : SMCU EXPRESS@HUMAN CITY_SUWON’ LINE-UP&gt;\n\n\n\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration \n#GirlsGeneration_TAEYEON_HYOYEON  \n#SHINee_KEY_MINHO #EXO_SUHO_XIUMIN_CHEN_DO_KAI\n#RedVelvet\n#NCT\n#aespa\n#GOT_the_beat \n#HYO #Raiden #GINJO #IMLAY #JEB https://t.co/pFGvfeW7Yu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KANGTA",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "BoA",
+					"indices": [
+						78,
+						82
+					]
+				},
+				{
+					"text": "TVXQ",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "SUPERJUNIOR",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "GirlsGeneration_TAEYEON_HYOYEON",
+					"indices": [
+						121,
+						153
+					]
+				},
+				{
+					"text": "SHINee_KEY_MINHO",
+					"indices": [
+						156,
+						173
+					]
+				},
+				{
+					"text": "EXO_SUHO_XIUMIN_CHEN_DO_KAI",
+					"indices": [
+						174,
+						202
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"text": "NCT",
+					"indices": [
+						214,
+						218
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						219,
+						225
+					]
+				},
+				{
+					"text": "GOT_the_beat",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"text": "HYO",
+					"indices": [
+						241,
+						245
+					]
+				},
+				{
+					"text": "Raiden",
+					"indices": [
+						246,
+						253
+					]
+				},
+				{
+					"text": "GINJO",
+					"indices": [
+						254,
+						260
+					]
+				},
+				{
+					"text": "IMLAY",
+					"indices": [
+						261,
+						267
+					]
+				},
+				{
+					"text": "JEB",
+					"indices": [
+						268,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1546641493670400000,
+					"id_str": "1546641493670400000",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FXbGPnkakAAYOVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXbGPnkakAAYOVB.jpg",
+					"url": "https://t.co/pFGvfeW7Yu",
+					"display_url": "pic.twitter.com/pFGvfeW7Yu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1546645609570238464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1338,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1546641493670400000,
+					"id_str": "1546641493670400000",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/FXbGPnkakAAYOVB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXbGPnkakAAYOVB.jpg",
+					"url": "https://t.co/pFGvfeW7Yu",
+					"display_url": "pic.twitter.com/pFGvfeW7Yu",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1546645609570238464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1338,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 444,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 784,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10999788,
+			"friends_count": 56,
+			"listed_count": 12412,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1064,
+		"favorite_count": 2026,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&lt;‘SMTOWN LIVE 2022 : SMCU EXPRESS@HUMAN CITY_SUWON’ LINE-UP&gt;\n\n\n\n#KANGTA #BoA #TVXQ! #SUPERJUNIOR #GirlsGeneration \n#GirlsGeneration_TAEYEON_HYOYEON  \n#SHINee_KEY_MINHO #EXO_SUHO_XIUMIN_CHEN_DO_KAI\n#RedVelvet\n#NCT\n#aespa\n#GOT_the_beat \n#HYO #Raiden #GINJO #IMLAY #JEB https://t.co/pFGvfeW7Yu"
+	},
+	{
 		"created_at": "Mon Jul 11 06:07:08 +0000 2022",
 		"id": 1546367063664386000,
 		"id_str": "1546375519649800192",
