@@ -1,10 +1,308 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 13 02:07:09 +0000 2022",
+		"id": 1547036925558608000,
+		"id_str": "1547039900083568640",
+		"full_text": "⭐️당신이 소원을 말하면 #지창욱 시점 티저 공개⭐️\n\n가시밭길 #윤겨레 인생에 봄날이 찾아올 수 있을까요?\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송!\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #최수영 #성동일 #원지안 #kbsdrama #kbs드라마 https://t.co/TCplhruA5V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지창욱",
+					"indices": [
+						14,
+						18
+					]
+				},
+				{
+					"text": "윤겨레",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						74,
+						84
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						128,
+						132
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						133,
+						149
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						180,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547036864074248200,
+					"id_str": "1547036864074248193",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547036864074248193/pu/img/CSQFCXdrvjD0HPdy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547036864074248193/pu/img/CSQFCXdrvjD0HPdy.jpg",
+					"url": "https://t.co/TCplhruA5V",
+					"display_url": "pic.twitter.com/TCplhruA5V",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1547036925558607875/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547036864074248200,
+					"id_str": "1547036864074248193",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547036864074248193/pu/img/CSQFCXdrvjD0HPdy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547036864074248193/pu/img/CSQFCXdrvjD0HPdy.jpg",
+					"url": "https://t.co/TCplhruA5V",
+					"display_url": "pic.twitter.com/TCplhruA5V",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1547036925558607875/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 20103,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1547036864074248193/pu/pl/N-_sZrTRWQ21Pejq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547036864074248193/pu/vid/480x270/TMm7q597_X-gK1u5.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547036864074248193/pu/vid/1280x720/Xr4R26a6ZaE9Rb6I.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1547036864074248193/pu/vid/640x360/aHWFPSr0SAtMFNzB.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106273,
+			"friends_count": 56795,
+			"listed_count": 2125,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657257496",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "⭐️당신이 소원을 말하면 #지창욱 시점 티저 공개⭐️\n\n가시밭길 #윤겨레 인생에 봄날이 찾아올 수 있을까요?\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송!\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #최수영 #성동일 #원지안 #kbsdrama #kbs드라마 https://t.co/TCplhruA5V"
+	},
+	{
 		"created_at": "Wed Jul 13 01:07:33 +0000 2022",
 		"id": 1547023007071162400,
 		"id_str": "1547024902942752769",
-		"full_text": "충격! 요리하고 있는 #유리 머리카락💇‍♀\n'#태연'하게 커팅 완✂\n\n▶️매주 화요일 밤 𝟵시\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/5E7Qe8GDUn",
+		"full_text": "충격! 요리하고 있는 #유리 머리카락💇♀\n'#태연'하게 커팅 완✂\n\n▶️매주 화요일 밤 𝟵시\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/5E7Qe8GDUn",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -234,7 +532,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "충격! 요리하고 있는 #유리 머리카락💇‍♀\n'#태연'하게 커팅 완✂\n\n▶️매주 화요일 밤 𝟵시\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/5E7Qe8GDUn"
+		"text": "충격! 요리하고 있는 #유리 머리카락💇♀\n'#태연'하게 커팅 완✂\n\n▶️매주 화요일 밤 𝟵시\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/5E7Qe8GDUn"
 	},
 	{
 		"created_at": "Wed Jul 13 01:07:17 +0000 2022",
