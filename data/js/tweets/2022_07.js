@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 05:07:09 +0000 2022",
+		"id": 1547445788451782700,
+		"id_str": "1547447585111154688",
+		"full_text": "[#슬비로운_슬비생활🧸]\n\n슬비 손을 잡고 있으면 그 어디라도💙\n날아갈 수 있을 것 같아🛫\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/a3FSl6T4i4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "슬비로운_슬비생활",
+					"indices": [
+						1,
+						11
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						52,
+						55
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						56,
+						63
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						64,
+						72
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						73,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547406682556285000,
+					"id_str": "1547406682556284928",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FXl-LeTVQAAzYgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXl-LeTVQAAzYgC.jpg",
+					"url": "https://t.co/a3FSl6T4i4",
+					"display_url": "pic.twitter.com/a3FSl6T4i4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547445788451782656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547406682556285000,
+					"id_str": "1547406682556284928",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FXl-LeTVQAAzYgC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXl-LeTVQAAzYgC.jpg",
+					"url": "https://t.co/a3FSl6T4i4",
+					"display_url": "pic.twitter.com/a3FSl6T4i4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547445788451782656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547406682656977000,
+					"id_str": "1547406682656976897",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FXl-LerVsAEWeT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXl-LerVsAEWeT5.jpg",
+					"url": "https://t.co/a3FSl6T4i4",
+					"display_url": "pic.twitter.com/a3FSl6T4i4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1547445788451782656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61433,
+			"friends_count": 12,
+			"listed_count": 272,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#슬비로운_슬비생활🧸]\n\n슬비 손을 잡고 있으면 그 어디라도💙\n날아갈 수 있을 것 같아🛫\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/a3FSl6T4i4"
+	},
+	{
 		"created_at": "Thu Jul 14 03:07:08 +0000 2022",
 		"id": 1547405520880935000,
 		"id_str": "1547417385325535232",
