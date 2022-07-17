@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 02:07:09 +0000 2022",
+		"id": 1548487651069726700,
+		"id_str": "1548489450442743812",
+		"full_text": "#청룡시리즈어워즈 #네이버NOW #전현무 #윤아 \n\n국내 최초로 개최되는\n스트리밍 콘텐츠 시상식!\n\n\nK콘텐츠 선전을 이끈 작품들과 \n출연 배우·예능인들이 모였습니다👏\n\n알림 설정하고\n레드 카펫 현장 놓치지 마세요!\n\n☑️7/19(화) 오후 6시 NOW. 에서 본방사수! \n🔔알림 설정🔔https://t.co/w2kCkuMGXA https://t.co/DefW5EgMHs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "청룡시리즈어워즈",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "네이버NOW",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						18,
+						22
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						23,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w2kCkuMGXA",
+					"expanded_url": "http://now.naver.com/s/now.6449",
+					"display_url": "now.naver.com/s/now.6449",
+					"indices": [
+						160,
+						183
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548346785252356000,
+					"id_str": "1548346785252356097",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FXzVMpwVsAE_wUu.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXzVMpwVsAE_wUu.png",
+					"url": "https://t.co/DefW5EgMHs",
+					"display_url": "pic.twitter.com/DefW5EgMHs",
+					"expanded_url": "https://twitter.com/kr_now/status/1548487651069726720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548346785252356000,
+					"id_str": "1548346785252356097",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FXzVMpwVsAE_wUu.png",
+					"media_url_https": "https://pbs.twimg.com/media/FXzVMpwVsAE_wUu.png",
+					"url": "https://t.co/DefW5EgMHs",
+					"display_url": "pic.twitter.com/DefW5EgMHs",
+					"expanded_url": "https://twitter.com/kr_now/status/1548487651069726720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1159646410414817300,
+			"id_str": "1159646410414817281",
+			"name": "NOW.",
+			"screen_name": "kr_now",
+			"location": "",
+			"description": "네이버앱은 지금 방송 중 #네이버NOW",
+			"url": "https://t.co/PTf4ELLDJt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PTf4ELLDJt",
+							"expanded_url": "https://bit.ly/35YqTh2",
+							"display_url": "bit.ly/35YqTh2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196001,
+			"friends_count": 1,
+			"listed_count": 331,
+			"created_at": "Fri Aug 09 02:03:44 +0000 2019",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164016940198666242/ElqZ-oIg_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1159646410414817281/1603177066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#청룡시리즈어워즈 #네이버NOW #전현무 #윤아 \n\n국내 최초로 개최되는\n스트리밍 콘텐츠 시상식!\n\n\nK콘텐츠 선전을 이끈 작품들과 \n출연 배우·예능인들이 모였습니다👏\n\n알림 설정하고\n레드 카펫 현장 놓치지 마세요!\n\n☑️7/19(화) 오후 6시 NOW. 에서 본방사수! \n🔔알림 설정🔔https://t.co/w2kCkuMGXA https://t.co/DefW5EgMHs"
+	},
+	{
 		"created_at": "Sat Jul 16 10:45:05 +0000 2022",
 		"id": 1548249554906013700,
 		"id_str": "1548257405888212993",
