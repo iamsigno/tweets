@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 03:07:09 +0000 2022",
+		"id": 1548865447465853000,
+		"id_str": "1548866937664446465",
+		"full_text": "🗓토요일 \n✔️ &lt;후야 TV: 창의공방&gt; 유리 3회 #소녀시대 #유리\n\n구독👍과 알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요! \n🔗https://t.co/Coo1ZHYiOD https://t.co/K3RTUsNlDQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						35,
+						40
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						41,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Coo1ZHYiOD",
+					"expanded_url": "https://www.youtube.com/SMCCStudio",
+					"display_url": "youtube.com/SMCCStudio",
+					"indices": [
+						96,
+						119
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1548865438246793200,
+					"id_str": "1548865438246793217",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6s6OuUcAEADZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6s6OuUcAEADZe.jpg",
+					"url": "https://t.co/K3RTUsNlDQ",
+					"display_url": "pic.twitter.com/K3RTUsNlDQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1548865447465852928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1548865438246793200,
+					"id_str": "1548865438246793217",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FX6s6OuUcAEADZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX6s6OuUcAEADZe.jpg",
+					"url": "https://t.co/K3RTUsNlDQ",
+					"display_url": "pic.twitter.com/K3RTUsNlDQ",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1548865447465852928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1548865140438745000,
+		"in_reply_to_status_id_str": "1548865140438745094",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page                                                                                   🚘리얼나우 🗺엑사세3 ☕️신과함께",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52749,
+			"friends_count": 0,
+			"listed_count": 79,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1649040267",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗓토요일 \n✔️ &lt;후야 TV: 창의공방&gt; 유리 3회 #소녀시대 #유리\n\n구독👍과 알림 설정⏰과 함께 \nSM C&amp;C STUDIO의 콘텐츠를 만나보세요! \n🔗https://t.co/Coo1ZHYiOD https://t.co/K3RTUsNlDQ"
+	},
+	{
 		"created_at": "Mon Jul 18 02:07:09 +0000 2022",
 		"id": 1548846117256700000,
 		"id_str": "1548851837595443200",
