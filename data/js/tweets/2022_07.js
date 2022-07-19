@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 02:07:09 +0000 2022",
+		"id": 1549212629066924000,
+		"id_str": "1549214225599430663",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 3인 포스터 공개!✨\n\n지창욱X성동일X최수영, 벅차오르는 감정!\n“마지막 순간, 반짝일 수 있도록”\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/3W17iTu1NJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						131,
+						141
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						142,
+						146
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						164,
+						168
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						169,
+						173
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						174,
+						178
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						179,
+						183
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						184,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549212546019643400,
+					"id_str": "1549212546019643394",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"url": "https://t.co/3W17iTu1NJ",
+					"display_url": "pic.twitter.com/3W17iTu1NJ",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549212629066924032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549212546019643400,
+					"id_str": "1549212546019643394",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FX_omj8UUAIDPC1.jpg",
+					"url": "https://t.co/3W17iTu1NJ",
+					"display_url": "pic.twitter.com/3W17iTu1NJ",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1549212629066924032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106182,
+			"friends_count": 56785,
+			"listed_count": 2123,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1657257496",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 3인 포스터 공개!✨\n\n지창욱X성동일X최수영, 벅차오르는 감정!\n“마지막 순간, 반짝일 수 있도록”\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫 방송\n\n#kbs #당신이소원을말하면 #당소말 #IfYouWishUponMe\n#지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/3W17iTu1NJ"
+	},
+	{
 		"created_at": "Mon Jul 18 03:07:09 +0000 2022",
 		"id": 1548865447465853000,
 		"id_str": "1548866937664446465",
