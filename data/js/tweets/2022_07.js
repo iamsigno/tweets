@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 06:07:09 +0000 2022",
+		"id": 1549623377924542500,
+		"id_str": "1549637012940103682",
+		"full_text": "YOONA Tampil Sebagai MC di ‘Bluedragon Series Awards’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/uDlo2bnYMP\n\n@GirlsGeneration \n#LIMYOONA #GirlsGeneration \n#BlueDragonSeriesAwards https://t.co/iNmP7m2DY7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						167,
+						183
+					]
+				},
+				{
+					"text": "BlueDragonSeriesAwards",
+					"indices": [
+						185,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uDlo2bnYMP",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid02dyegkzWpGx6BDHz75aY768yuu5Cam5jWvFPY5HKVN854XKQkwoiN5TSdAvYkgspul",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549623339181691000,
+					"id_str": "1549623339181690882",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFeN3uUUAIrJEg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFeN3uUUAIrJEg.jpg",
+					"url": "https://t.co/iNmP7m2DY7",
+					"display_url": "pic.twitter.com/iNmP7m2DY7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1549623377924542464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549623339181691000,
+					"id_str": "1549623339181690882",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFeN3uUUAIrJEg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFeN3uUUAIrJEg.jpg",
+					"url": "https://t.co/iNmP7m2DY7",
+					"display_url": "pic.twitter.com/iNmP7m2DY7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1549623377924542464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1549623355791134700,
+					"id_str": "1549623355791134721",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FYFeO1mUUAEqxsJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYFeO1mUUAEqxsJ.jpg",
+					"url": "https://t.co/iNmP7m2DY7",
+					"display_url": "pic.twitter.com/iNmP7m2DY7",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1549623377924542464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1070546,
+			"friends_count": 37,
+			"listed_count": 652,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "YOONA Tampil Sebagai MC di ‘Bluedragon Series Awards’\n\nInfo lengkap di Official Facebook Page SMTOWN Indonesia\n👉🏻 https://t.co/uDlo2bnYMP\n\n@GirlsGeneration \n#LIMYOONA #GirlsGeneration \n#BlueDragonSeriesAwards https://t.co/iNmP7m2DY7"
+	},
+	{
 		"created_at": "Wed Jul 20 03:07:08 +0000 2022",
 		"id": 1549576828058222600,
 		"id_str": "1549591712334495744",
