@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 08:07:09 +0000 2022",
+		"id": 1550390187779248000,
+		"id_str": "1550391986061983745",
+		"full_text": "[#아낌없이주는나무]\n\n서현 배우 좋아하지마..\n그게 뭔데 그거 어떻게 하는 건데..\n서현 배우에게 반해버린 나무의 그 시절 주접 모음💗\n\n#서현 #듀엘 #SEOHYUN #DEWL https://t.co/qgSw8a6ZeT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아낌없이주는나무",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						78,
+						81
+					]
+				},
+				{
+					"text": "듀엘",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"text": "DEWL",
+					"indices": [
+						95,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550315412004360200,
+					"id_str": "1550315412004360192",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYPTpz5VUAAxtKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYPTpz5VUAAxtKh.jpg",
+					"url": "https://t.co/qgSw8a6ZeT",
+					"display_url": "pic.twitter.com/qgSw8a6ZeT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1550390187779248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550315412004360200,
+					"id_str": "1550315412004360192",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYPTpz5VUAAxtKh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYPTpz5VUAAxtKh.jpg",
+					"url": "https://t.co/qgSw8a6ZeT",
+					"display_url": "pic.twitter.com/qgSw8a6ZeT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1550390187779248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550315411962417200,
+					"id_str": "1550315411962417152",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYPTpzvVUAA29kK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYPTpzvVUAA29kK.jpg",
+					"url": "https://t.co/qgSw8a6ZeT",
+					"display_url": "pic.twitter.com/qgSw8a6ZeT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1550390187779248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550315411958145000,
+					"id_str": "1550315411958145025",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYPTpzuUIAE-nFX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYPTpzuUIAE-nFX.jpg",
+					"url": "https://t.co/qgSw8a6ZeT",
+					"display_url": "pic.twitter.com/qgSw8a6ZeT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1550390187779248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550315411979194400,
+					"id_str": "1550315411979194368",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FYPTpzzVUAA4Dgm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYPTpzzVUAA4Dgm.jpg",
+					"url": "https://t.co/qgSw8a6ZeT",
+					"display_url": "pic.twitter.com/qgSw8a6ZeT",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1550390187779248128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61797,
+			"friends_count": 12,
+			"listed_count": 275,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16078,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아낌없이주는나무]\n\n서현 배우 좋아하지마..\n그게 뭔데 그거 어떻게 하는 건데..\n서현 배우에게 반해버린 나무의 그 시절 주접 모음💗\n\n#서현 #듀엘 #SEOHYUN #DEWL https://t.co/qgSw8a6ZeT"
+	},
+	{
 		"created_at": "Fri Jul 22 06:07:09 +0000 2022",
 		"id": 1550359003716518000,
 		"id_str": "1550361787564007424",
