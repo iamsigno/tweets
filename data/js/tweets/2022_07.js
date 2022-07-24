@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 24 01:07:08 +0000 2022",
+		"id": 1551005896251125800,
+		"id_str": "1551011064573300736",
+		"full_text": "#MBC표준FM #아이돌스테이션\n7월 29일 금요일 새벽 2시 \n케이팝 작사만 20년차! #조윤경 작사가님을 모십니다\n궁금하게 있으신 케이팝 고인물들 질문 남겨주세요!\n다 털어보겠습니다!!\nhttps://t.co/V33v2bNeVb\n#보아 #엑소 #샤이니 #소녀시대 #태연 #NCTDREAM #RedVelvet https://t.co/ocB10lYhVA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC표준FM",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "아이돌스테이션",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "조윤경",
+					"indices": [
+						50,
+						54
+					]
+				},
+				{
+					"text": "보아",
+					"indices": [
+						130,
+						133
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						138,
+						142
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						149,
+						152
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						153,
+						162
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						163,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V33v2bNeVb",
+					"expanded_url": "https://www.instagram.com/p/CgVv8FfFXVs/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/CgVv8FfFXVs/…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551005858191945700,
+					"id_str": "1551005858191945728",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FYZHnEYUsAAAz4k.png",
+					"media_url_https": "https://pbs.twimg.com/media/FYZHnEYUsAAAz4k.png",
+					"url": "https://t.co/ocB10lYhVA",
+					"display_url": "pic.twitter.com/ocB10lYhVA",
+					"expanded_url": "https://twitter.com/radiombc/status/1551005896251125760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 666,
+							"h": 773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 666,
+							"h": 773,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551005858191945700,
+					"id_str": "1551005858191945728",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FYZHnEYUsAAAz4k.png",
+					"media_url_https": "https://pbs.twimg.com/media/FYZHnEYUsAAAz4k.png",
+					"url": "https://t.co/ocB10lYhVA",
+					"display_url": "pic.twitter.com/ocB10lYhVA",
+					"expanded_url": "https://twitter.com/radiombc/status/1551005896251125760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 666,
+							"h": 773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 586,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 666,
+							"h": 773,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/2wJXwJ7Js1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2wJXwJ7Js1",
+							"expanded_url": "https://www.youtube.com/c/MBCRadio_BONGCHUN",
+							"display_url": "youtube.com/c/MBCRadio_BON…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80508,
+			"friends_count": 43,
+			"listed_count": 601,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC표준FM #아이돌스테이션\n7월 29일 금요일 새벽 2시 \n케이팝 작사만 20년차! #조윤경 작사가님을 모십니다\n궁금하게 있으신 케이팝 고인물들 질문 남겨주세요!\n다 털어보겠습니다!!\nhttps://t.co/V33v2bNeVb\n#보아 #엑소 #샤이니 #소녀시대 #태연 #NCTDREAM #RedVelvet https://t.co/ocB10lYhVA"
+	},
+	{
 		"created_at": "Fri Jul 22 08:07:09 +0000 2022",
 		"id": 1550390187779248000,
 		"id_str": "1550391986061983745",
