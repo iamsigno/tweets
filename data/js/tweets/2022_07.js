@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 07:07:09 +0000 2022",
+		"id": 1551455338624614400,
+		"id_str": "1551464050319671296",
+		"full_text": "การกลับมาของ 'เกิร์ลกรุ๊ปในตำนานระดับท็อป' #GirlsGeneration พร้อมอัลบั้มเต็มชุดที่ 7 'FOREVER 1' ในวันที่ 8 สิงหาคมนี้!\n\nเริ่มต้นการคัมแบ็กครบรอบเดบิวต์ 15 ปีอย่างเป็นทางการ!!\n\n💖 https://t.co/P0Jk3biZfD\n\n#소녀시대\n#FOREVER1 https://t.co/6mBGCKFq4J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						43,
+						59
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P0Jk3biZfD",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/pfbid02YFSGK8673u2GdpGFXbG57sLzXhsjrmXZ1MLKkfhGZN6Pg2db2AkwxPemmqRKkY6tl",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1551454847186378800,
+					"id_str": "1551454847186378752",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FYff9quaIAAPfhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYff9quaIAAPfhR.jpg",
+					"url": "https://t.co/6mBGCKFq4J",
+					"display_url": "pic.twitter.com/6mBGCKFq4J",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1551455338624614402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551454847186378800,
+					"id_str": "1551454847186378752",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FYff9quaIAAPfhR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYff9quaIAAPfhR.jpg",
+					"url": "https://t.co/6mBGCKFq4J",
+					"display_url": "pic.twitter.com/6mBGCKFq4J",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1551455338624614402/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96922,
+			"friends_count": 51,
+			"listed_count": 152,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11780,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "การกลับมาของ 'เกิร์ลกรุ๊ปในตำนานระดับท็อป' #GirlsGeneration พร้อมอัลบั้มเต็มชุดที่ 7 'FOREVER 1' ในวันที่ 8 สิงหาคมนี้!\n\nเริ่มต้นการคัมแบ็กครบรอบเดบิวต์ 15 ปีอย่างเป็นทางการ!!\n\n💖 https://t.co/P0Jk3biZfD\n\n#소녀시대\n#FOREVER1 https://t.co/6mBGCKFq4J"
+	},
+	{
 		"created_at": "Mon Jul 25 06:07:08 +0000 2022",
 		"id": 1551440896838668300,
 		"id_str": "1551448950154170369",
