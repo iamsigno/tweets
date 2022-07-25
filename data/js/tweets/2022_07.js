@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 03:07:18 +0000 2022",
+		"id": 1551401855690883000,
+		"id_str": "1551403689922990083",
+		"full_text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO \n機材席開放につき、追加販売受付 (抽選)スタート！ \n\n受付期間：7/25(月)12:00～7/31(日)23:59\n▼ticket申し込みはこちら\nhttps://t.co/hwdSNvUOmv\n\n#少女時代\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						163,
+						175
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						176,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hwdSNvUOmv",
+					"expanded_url": "https://ticket.tickebo.jp/smtown2022_tb/sr/",
+					"display_url": "ticket.tickebo.jp/smtown2022_tb/…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/nUrgRiOH3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nUrgRiOH3R",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113997,
+			"friends_count": 0,
+			"listed_count": 522,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222720577078611968/5QXkaKkC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1505360281",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 212,
+		"favorite_count": 327,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "SMTOWN LIVE 2022 : SMCU EXPRESS@TOKYO \n機材席開放につき、追加販売受付 (抽選)スタート！ \n\n受付期間：7/25(月)12:00～7/31(日)23:59\n▼ticket申し込みはこちら\nhttps://t.co/hwdSNvUOmv\n\n#少女時代\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE\n#SMCU_EXPRESS_TOKYO"
+	},
+	{
 		"created_at": "Sun Jul 24 15:07:08 +0000 2022",
 		"id": 1551220661015548000,
 		"id_str": "1551222457348067328",
