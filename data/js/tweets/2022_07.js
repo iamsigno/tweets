@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 08:07:09 +0000 2022",
+		"id": 1552199639356432400,
+		"id_str": "1552203927134912516",
+		"full_text": "#GirlsGeneration ฉลองครบรอบเดบิวต์ 15 ปี ด้วยเพลงไตเติล ‘FOREVER 1’ คำมั่นสัญญาถึงความรักอันเป็นนิรันดร์\n\nภาพทีเซอร์ #TAEYEON, #SOOYOUNG และ #SEOHYUN ที่ได้รับการพูดถึงอย่างร้อนแรง!\n\n💖 https://t.co/RTt5J1OyDP\n\n📀 สั่งซื้ออัลบั้มได้ทาง https://t.co/LM2zhRbheR\n\n#소녀시대\n#FOREVER1 https://t.co/LslbAHhqWH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						259,
+						264
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						265,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RTt5J1OyDP",
+					"expanded_url": "http://facebook.com/smtruethailand/posts/pfbid0TqZNjxvWzVNDsEyecqgxPuLNn6GWut3avjwDiR6bm634uZmnoELc613YK7pUoEnql",
+					"display_url": "facebook.com/smtruethailand…",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/LM2zhRbheR",
+					"expanded_url": "http://shopee.co.th/smtrue?page=0&shopCollection=10460435",
+					"display_url": "shopee.co.th/smtrue?page=0&…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552198501072744400,
+					"id_str": "1552198501072744453",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqEUBVVsAU2hdk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqEUBVVsAU2hdk.jpg",
+					"url": "https://t.co/LslbAHhqWH",
+					"display_url": "pic.twitter.com/LslbAHhqWH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1552199639356432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552198501072744400,
+					"id_str": "1552198501072744453",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqEUBVVsAU2hdk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqEUBVVsAU2hdk.jpg",
+					"url": "https://t.co/LslbAHhqWH",
+					"display_url": "pic.twitter.com/LslbAHhqWH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1552199639356432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552198522891432000,
+					"id_str": "1552198522891431938",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqEVSnUcAIFdaw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqEVSnUcAIFdaw.jpg",
+					"url": "https://t.co/LslbAHhqWH",
+					"display_url": "pic.twitter.com/LslbAHhqWH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1552199639356432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 714,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552198537261158400,
+					"id_str": "1552198537261158400",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FYqEWIJVEAA1ve1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYqEWIJVEAA1ve1.jpg",
+					"url": "https://t.co/LslbAHhqWH",
+					"display_url": "pic.twitter.com/LslbAHhqWH",
+					"expanded_url": "https://twitter.com/SMTrueThailand/status/1552199639356432384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1093456514700828700,
+			"id_str": "1093456514700828672",
+			"name": "SM True",
+			"screen_name": "SMTrueThailand",
+			"location": "Bangkok, Thailand",
+			"description": "SM True Official Twitter Page",
+			"url": "https://t.co/fe1MwqbQdx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fe1MwqbQdx",
+							"expanded_url": "https://www.facebook.com/smtruethailand",
+							"display_url": "facebook.com/smtruethailand",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96986,
+			"friends_count": 51,
+			"listed_count": 152,
+			"created_at": "Thu Feb 07 10:28:43 +0000 2019",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093456621932503041/xWi5ewdL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1093456514700828672/1562743620",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#GirlsGeneration ฉลองครบรอบเดบิวต์ 15 ปี ด้วยเพลงไตเติล ‘FOREVER 1’ คำมั่นสัญญาถึงความรักอันเป็นนิรันดร์\n\nภาพทีเซอร์ #TAEYEON, #SOOYOUNG และ #SEOHYUN ที่ได้รับการพูดถึงอย่างร้อนแรง!\n\n💖 https://t.co/RTt5J1OyDP\n\n📀 สั่งซื้ออัลบั้มได้ทาง https://t.co/LM2zhRbheR\n\n#소녀시대\n#FOREVER1 https://t.co/LslbAHhqWH"
+	},
+	{
 		"created_at": "Wed Jul 27 03:07:17 +0000 2022",
 		"id": 1552122394281922600,
 		"id_str": "1552128461673795585",
