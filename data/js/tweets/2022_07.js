@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 02:07:17 +0000 2022",
+		"id": 1552111530044313600,
+		"id_str": "1552113362070388738",
+		"full_text": "〈헬로 베이비〉 이후 처음 만난\n아빠 #민호 와 아들 유근이💙\n남의 아들 보고 눈물 흘린 #소녀시대 ㅋㅋ\n\n▶️매주 화요일 밤 𝟵시\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/0BQ747ogPe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "민호",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						50,
+						55
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552088385891836000,
+					"id_str": "1552088385891835904",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FYohAOVUUAEQVDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYohAOVUUAEQVDR.jpg",
+					"url": "https://t.co/0BQ747ogPe",
+					"display_url": "pic.twitter.com/0BQ747ogPe",
+					"expanded_url": "https://twitter.com/jtbclove/status/1552111530044313600/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552088385891836000,
+					"id_str": "1552088385891835904",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FYohAOVUUAEQVDR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYohAOVUUAEQVDR.jpg",
+					"url": "https://t.co/0BQ747ogPe",
+					"display_url": "pic.twitter.com/0BQ747ogPe",
+					"expanded_url": "https://twitter.com/jtbclove/status/1552111530044313600/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 69436,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1552088385891835904/vid/1280x720/K6I98jFQEgykhxu5.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1552088385891835904/vid/640x360/Y9JeYB5nBwrkhbz4.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1552088385891835904/pl/ZfWtPf1-4BmTlrPf.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1552088385891835904/vid/480x270/zFAI1P0MlWJibSEN.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[소시탐탐] 〈헬로 베이비〉 이후 처음 만난 아빠 민호와 아들 유근이💙 | JTBC 220726 방송",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/28176891"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472707,
+			"friends_count": 108,
+			"listed_count": 814,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1654762580",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "〈헬로 베이비〉 이후 처음 만난\n아빠 #민호 와 아들 유근이💙\n남의 아들 보고 눈물 흘린 #소녀시대 ㅋㅋ\n\n▶️매주 화요일 밤 𝟵시\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/0BQ747ogPe"
+	},
+	{
 		"created_at": "Wed Jul 27 01:07:09 +0000 2022",
 		"id": 1552096436631781400,
 		"id_str": "1552098229550026754",
