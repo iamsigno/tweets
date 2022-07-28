@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 02:07:13 +0000 2022",
+		"id": 1552474924811333600,
+		"id_str": "1552475734332956673",
+		"full_text": "[#NEWS] 배우 서현→소녀시대 서현, 올라운드의 정석\n▶ https://t.co/IfnOr5MPoI\n\n#서현 #SEOHYUN https://t.co/kWB1eKdAUN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						63,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IfnOr5MPoI",
+					"expanded_url": "https://naver.me/FbuEYyMJ",
+					"display_url": "naver.me/FbuEYyMJ",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552472953572700200,
+					"id_str": "1552472953572700161",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FYt97QkaMAEYXm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYt97QkaMAEYXm7.jpg",
+					"url": "https://t.co/kWB1eKdAUN",
+					"display_url": "pic.twitter.com/kWB1eKdAUN",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1552474924811333632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552472953572700200,
+					"id_str": "1552472953572700161",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FYt97QkaMAEYXm7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYt97QkaMAEYXm7.jpg",
+					"url": "https://t.co/kWB1eKdAUN",
+					"display_url": "pic.twitter.com/kWB1eKdAUN",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1552474924811333632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552472953576882200,
+					"id_str": "1552472953576882176",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FYt97QlaAAAa3eA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYt97QlaAAAa3eA.jpg",
+					"url": "https://t.co/kWB1eKdAUN",
+					"display_url": "pic.twitter.com/kWB1eKdAUN",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1552474924811333632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1552472953560105000,
+					"id_str": "1552472953560104961",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FYt97QhaAAEU5lT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYt97QhaAAEU5lT.jpg",
+					"url": "https://t.co/kWB1eKdAUN",
+					"display_url": "pic.twitter.com/kWB1eKdAUN",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1552474924811333632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62070,
+			"friends_count": 12,
+			"listed_count": 276,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 배우 서현→소녀시대 서현, 올라운드의 정석\n▶ https://t.co/IfnOr5MPoI\n\n#서현 #SEOHYUN https://t.co/kWB1eKdAUN"
+	},
+	{
 		"created_at": "Wed Jul 27 15:07:36 +0000 2022",
 		"id": 1552308136778018800,
 		"id_str": "1552309736183414784",
