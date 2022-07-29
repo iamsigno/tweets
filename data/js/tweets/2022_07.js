@@ -1,6 +1,237 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 29 15:07:09 +0000 2022",
+		"id": 1553032621268930600,
+		"id_str": "1553034397611352064",
+		"full_text": "Girls' Generation 소녀시대 'FOREVER 1' Mood Sampler - Into The New World\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#GirlsGeneration #소녀시대\n#FOREVER1 https://t.co/mmk4zeNNqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						197,
+						213
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						214,
+						219
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						220,
+						229
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553026557584629800,
+					"id_str": "1553026557584629760",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FY14n6nUcAI9t2j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY14n6nUcAI9t2j.jpg",
+					"url": "https://t.co/mmk4zeNNqi",
+					"display_url": "pic.twitter.com/mmk4zeNNqi",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1553032621268930560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553026557584629800,
+					"id_str": "1553026557584629760",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FY14n6nUcAI9t2j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY14n6nUcAI9t2j.jpg",
+					"url": "https://t.co/mmk4zeNNqi",
+					"display_url": "pic.twitter.com/mmk4zeNNqi",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1553032621268930560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 115073,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1553026557584629760/vid/480x270/GqX0N2aAX5tYBJdP.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1553026557584629760/pl/L15DaEfbzElcpUsL.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1553026557584629760/vid/1280x720/WLD8Zfv586KLhC3d.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1553026557584629760/vid/640x360/pbBNrdGLnfisPZs-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3832985,
+			"friends_count": 5,
+			"listed_count": 6068,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13974,
+		"favorite_count": 16969,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls' Generation 소녀시대 'FOREVER 1' Mood Sampler - Into The New World\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#GirlsGeneration #소녀시대\n#FOREVER1 https://t.co/mmk4zeNNqi"
+	},
+	{
 		"created_at": "Fri Jul 29 11:07:09 +0000 2022",
 		"id": 1552972209974542300,
 		"id_str": "1552974000502018049",
