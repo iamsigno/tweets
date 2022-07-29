@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 29 11:07:09 +0000 2022",
+		"id": 1552972209974542300,
+		"id_str": "1552974000502018049",
+		"full_text": "4세대 신인은 런닝머신 라이브까지 가능해야 해?\n새싹신인🌱 #첫사랑 의 데뷔무대를 위한 고군분투 #신인심판\n런닝머신에서 '소녀시대 - 힘내' 부르기라니\n05아기들에게 가혹한 거 아닌가요😭\nWatch #CSR(@CSR_offcl)'s #The_First_Judgement now!\n\n신인심판 Ep.1 Full Ver 👉 https://t.co/EsRr7n9qWg https://t.co/OPNRWFx37L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "첫사랑",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "신인심판",
+					"indices": [
+						54,
+						59
+					]
+				},
+				{
+					"text": "CSR",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "The_First_Judgement",
+					"indices": [
+						130,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CSR_offcl",
+					"name": "첫사랑",
+					"id": 1534717807518429200,
+					"id_str": "1534717807518429186",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EsRr7n9qWg",
+					"expanded_url": "http://youtu.be/v358YfEYGus",
+					"display_url": "youtu.be/v358YfEYGus",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1552900607165743000,
+					"id_str": "1552900607165743104",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FY0YHMPaQAIjHl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY0YHMPaQAIjHl-.jpg",
+					"url": "https://t.co/OPNRWFx37L",
+					"display_url": "pic.twitter.com/OPNRWFx37L",
+					"expanded_url": "https://twitter.com/1theK/status/1552972209974542336/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552900607165743000,
+					"id_str": "1552900607165743104",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FY0YHMPaQAIjHl-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY0YHMPaQAIjHl-.jpg",
+					"url": "https://t.co/OPNRWFx37L",
+					"display_url": "pic.twitter.com/OPNRWFx37L",
+					"expanded_url": "https://twitter.com/1theK/status/1552972209974542336/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 66766,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1552900607165743104/vid/1280x720/P90CYRHbDz4DoZrc.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1552900607165743104/vid/480x270/tFvu8fopoTY8Li4-.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1552900607165743104/pl/guc7Zc4X6Im_rxdo.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1552900607165743104/vid/640x360/Tgd9Lz8OxmkqRuJX.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "https://youtu.be/v358YfEYGus"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0LNeFc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0LNeFc",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2340308,
+			"friends_count": 819,
+			"listed_count": 2235,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24576,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1659092475",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "4세대 신인은 런닝머신 라이브까지 가능해야 해?\n새싹신인🌱 #첫사랑 의 데뷔무대를 위한 고군분투 #신인심판\n런닝머신에서 '소녀시대 - 힘내' 부르기라니\n05아기들에게 가혹한 거 아닌가요😭\nWatch #CSR(@CSR_offcl)'s #The_First_Judgement now!\n\n신인심판 Ep.1 Full Ver 👉 https://t.co/EsRr7n9qWg https://t.co/OPNRWFx37L"
+	},
+	{
 		"created_at": "Fri Jul 29 10:07:09 +0000 2022",
 		"id": 1552954585089577000,
 		"id_str": "1552958900500156416",
