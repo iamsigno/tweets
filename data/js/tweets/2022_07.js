@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sat Jul 30 10:44:57 +0000 2022",
+		"id": 1553319760640692200,
+		"id_str": "1553330802045423617",
+		"full_text": "ㄴŁ…오늘도 받쓰를 ㉭Łㄷr… 📝\n오ዞㄴㅑ… ㄴr는… 누구보⊂ㅏ 힙ㅎr니ㄲr…🤟\n\n그㉣ㅐ도 난… 7 ㅅ ㅣ 3o 분 놀토ㄱㅏ 좋ㄷr…\n잊ㅈ ㅣ말고… ㄱ ㄱ ㅎrㅈr...\n\n#태연 #TAEYEON\n#놀라운토요일 #AmazingSaturday https://t.co/6oRu4w3Qz0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						96,
+						99
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						117,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553319638426996700,
+					"id_str": "1553319638426996736",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FY5_-zcUUAAUdKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY5_-zcUUAAUdKR.jpg",
+					"url": "https://t.co/6oRu4w3Qz0",
+					"display_url": "pic.twitter.com/6oRu4w3Qz0",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1553319760640692226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553319638426996700,
+					"id_str": "1553319638426996736",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FY5_-zcUUAAUdKR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY5_-zcUUAAUdKR.jpg",
+					"url": "https://t.co/6oRu4w3Qz0",
+					"display_url": "pic.twitter.com/6oRu4w3Qz0",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1553319760640692226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553319683951972400,
+					"id_str": "1553319683951972354",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FY6ABdCUUAIj_uZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY6ABdCUUAIj_uZ.jpg",
+					"url": "https://t.co/6oRu4w3Qz0",
+					"display_url": "pic.twitter.com/6oRu4w3Qz0",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1553319760640692226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1553319721457438700,
+					"id_str": "1553319721457438720",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FY6ADowUUAAaext.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY6ADowUUAAaext.jpg",
+					"url": "https://t.co/6oRu4w3Qz0",
+					"display_url": "pic.twitter.com/6oRu4w3Qz0",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1553319760640692226/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126459,
+			"friends_count": 2,
+			"listed_count": 394,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 62,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3386,
+		"favorite_count": 6124,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ㄴŁ…오늘도 받쓰를 ㉭Łㄷr… 📝\n오ዞㄴㅑ… ㄴr는… 누구보⊂ㅏ 힙ㅎr니ㄲr…🤟\n\n그㉣ㅐ도 난… 7 ㅅ ㅣ 3o 분 놀토ㄱㅏ 좋ㄷr…\n잊ㅈ ㅣ말고… ㄱ ㄱ ㅎrㅈr...\n\n#태연 #TAEYEON\n#놀라운토요일 #AmazingSaturday https://t.co/6oRu4w3Qz0"
+	},
+	{
 		"created_at": "Sat Jul 30 07:07:09 +0000 2022",
 		"id": 1553272906217508900,
 		"id_str": "1553275990150991873",
