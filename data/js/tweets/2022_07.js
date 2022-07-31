@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 31 07:44:57 +0000 2022",
+		"id": 1553639845867573200,
+		"id_str": "1553647890219896832",
+		"full_text": "지금은소녀시대🥹💗 https://t.co/74D2n7snBd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1553639835893923800,
+					"id_str": "1553639835893923840",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/FY-jMv9agAA39Xo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY-jMv9agAA39Xo.jpg",
+					"url": "https://t.co/74D2n7snBd",
+					"display_url": "pic.twitter.com/74D2n7snBd",
+					"expanded_url": "https://twitter.com/sychoiofficial/status/1553639845867573249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553639835893923800,
+					"id_str": "1553639835893923840",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/FY-jMv9agAA39Xo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY-jMv9agAA39Xo.jpg",
+					"url": "https://t.co/74D2n7snBd",
+					"display_url": "pic.twitter.com/74D2n7snBd",
+					"expanded_url": "https://twitter.com/sychoiofficial/status/1553639845867573249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1075285323016335400,
+			"id_str": "1075285323016335360",
+			"name": "sooyoung choi",
+			"screen_name": "sychoiofficial",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74797,
+			"friends_count": 4,
+			"listed_count": 341,
+			"created_at": "Wed Dec 19 07:02:53 +0000 2018",
+			"favourites_count": 19,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450005862559334403/ubQLx8LA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450005862559334403/ubQLx8LA_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2571,
+		"favorite_count": 4104,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금은소녀시대🥹💗 https://t.co/74D2n7snBd"
+	},
+	{
 		"created_at": "Sun Jul 31 03:07:09 +0000 2022",
 		"id": 1553577133208789000,
 		"id_str": "1553577980265463808",
