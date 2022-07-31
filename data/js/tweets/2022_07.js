@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 31 03:07:09 +0000 2022",
+		"id": 1553577133208789000,
+		"id_str": "1553577980265463808",
+		"full_text": "‘#TheBigMouth’ LIM YOONA shows off her problem-solving skills, filling the small screen with refreshing new characters. \n#LIMYOONA shines as a girl crush with beauty, intelligence, and athleticism! \n\nhttps://t.co/TC2iTgM9cL\n\n#임윤아 \n#빅마우스\n#소녀시대 #GirlsGeneration https://t.co/ju2NHRbRvH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						121,
+						130
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						225,
+						229
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						237,
+						242
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						243,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TC2iTgM9cL",
+					"expanded_url": "https://bit.ly/3zHRbDa",
+					"display_url": "bit.ly/3zHRbDa",
+					"indices": [
+						200,
+						223
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1553577127118680000,
+					"id_str": "1553577127118680067",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FY9qKnkUsAMaVOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY9qKnkUsAMaVOj.jpg",
+					"url": "https://t.co/ju2NHRbRvH",
+					"display_url": "pic.twitter.com/ju2NHRbRvH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1553577133208788992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 762,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 446,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 253,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1553577127118680000,
+					"id_str": "1553577127118680067",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/media/FY9qKnkUsAMaVOj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY9qKnkUsAMaVOj.jpg",
+					"url": "https://t.co/ju2NHRbRvH",
+					"display_url": "pic.twitter.com/ju2NHRbRvH",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1553577133208788992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 762,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 446,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 253,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11055792,
+			"friends_count": 56,
+			"listed_count": 12478,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘#TheBigMouth’ LIM YOONA shows off her problem-solving skills, filling the small screen with refreshing new characters. \n#LIMYOONA shines as a girl crush with beauty, intelligence, and athleticism! \n\nhttps://t.co/TC2iTgM9cL\n\n#임윤아 \n#빅마우스\n#소녀시대 #GirlsGeneration https://t.co/ju2NHRbRvH"
+	},
+	{
 		"created_at": "Sat Jul 30 15:07:37 +0000 2022",
 		"id": 1553395439600226300,
 		"id_str": "1553396906004553728",
