@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 02 15:07:09 +0000 2022",
+		"id": 1554482164674318300,
+		"id_str": "1554483950713802753",
+		"full_text": "COSMIC FESTA - #GirlsGeneration\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#소녀시대\n#FOREVER1 https://t.co/vPO8EPAcbU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						160,
+						165
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						166,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554468477771325400,
+					"id_str": "1554468477771325442",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKU2DgaIAIEBoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKU2DgaIAIEBoU.jpg",
+					"url": "https://t.co/vPO8EPAcbU",
+					"display_url": "pic.twitter.com/vPO8EPAcbU",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554482164674318342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554468477771325400,
+					"id_str": "1554468477771325442",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKU2DgaIAIEBoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKU2DgaIAIEBoU.jpg",
+					"url": "https://t.co/vPO8EPAcbU",
+					"display_url": "pic.twitter.com/vPO8EPAcbU",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554482164674318342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 484,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1458,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554468477754548200,
+					"id_str": "1554468477754548224",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/FZKU2DcaIAASPED.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZKU2DcaIAASPED.jpg",
+					"url": "https://t.co/vPO8EPAcbU",
+					"display_url": "pic.twitter.com/vPO8EPAcbU",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554482164674318342/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 524,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1577,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 924,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3844465,
+			"friends_count": 5,
+			"listed_count": 6087,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2944,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9599,
+		"favorite_count": 12771,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "COSMIC FESTA - #GirlsGeneration\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#소녀시대\n#FOREVER1 https://t.co/vPO8EPAcbU"
+	},
+	{
 		"created_at": "Tue Aug 02 08:07:11 +0000 2022",
 		"id": 1554376462307938300,
 		"id_str": "1554378264747065345",
