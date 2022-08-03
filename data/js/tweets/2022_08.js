@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 01:07:11 +0000 2022",
+		"id": 1554633459330859000,
+		"id_str": "1554634954574798850",
+		"full_text": "소녀시대 정규 7집 ‘FOREVER 1’ 다채로운 음악 색깔로 매력 UP!\n리드미컬한 ‘Closer’, 몽환적인 ‘Freedom’, 스윗한 ‘완벽한 장면’ 수록!\n\nhttps://t.co/lVmQDzLFnI\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#Closer \n#Freedom  \n#완벽한장면 #SummerNight",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						117,
+						133
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "Closer",
+					"indices": [
+						150,
+						157
+					]
+				},
+				{
+					"text": "Freedom",
+					"indices": [
+						159,
+						167
+					]
+				},
+				{
+					"text": "완벽한장면",
+					"indices": [
+						170,
+						176
+					]
+				},
+				{
+					"text": "SummerNight",
+					"indices": [
+						177,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lVmQDzLFnI",
+					"expanded_url": "https://bit.ly/3Qc5bdN",
+					"display_url": "bit.ly/3Qc5bdN",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3844868,
+			"friends_count": 5,
+			"listed_count": 6087,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 456,
+		"favorite_count": 916,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 정규 7집 ‘FOREVER 1’ 다채로운 음악 색깔로 매력 UP!\n리드미컬한 ‘Closer’, 몽환적인 ‘Freedom’, 스윗한 ‘완벽한 장면’ 수록!\n\nhttps://t.co/lVmQDzLFnI\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#Closer \n#Freedom  \n#완벽한장면 #SummerNight"
+	},
+	{
 		"created_at": "Wed Aug 03 00:07:15 +0000 2022",
 		"id": 1554617386602758100,
 		"id_str": "1554619873048858624",
