@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 15:07:09 +0000 2022",
+		"id": 1554844550530797600,
+		"id_str": "1554846337182621698",
+		"full_text": "Girls' Generation 소녀시대 'FOREVER 1' MV Teaser #1\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#소녀시대\n#FOREVER1 https://t.co/aUT8EcuVmp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						176,
+						181
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						182,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554823802630324200,
+					"id_str": "1554823802630324224",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FZPYvVqacAAuO0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZPYvVqacAAuO0f.jpg",
+					"url": "https://t.co/aUT8EcuVmp",
+					"display_url": "pic.twitter.com/aUT8EcuVmp",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554844550530797569/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554823802630324200,
+					"id_str": "1554823802630324224",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/FZPYvVqacAAuO0f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZPYvVqacAAuO0f.jpg",
+					"url": "https://t.co/aUT8EcuVmp",
+					"display_url": "pic.twitter.com/aUT8EcuVmp",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1554844550530797569/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 31364,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554823802630324224/vid/640x360/3q43dPNrD9AlRBDg.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554823802630324224/vid/480x270/ycR6UWIVatp0GSFc.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554823802630324224/vid/1280x720/Wy3IPJNPUCUdMv3h.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1554823802630324224/pl/-NltybBSg6MxQ15p.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3845605,
+			"friends_count": 5,
+			"listed_count": 6093,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15235,
+		"favorite_count": 18840,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls' Generation 소녀시대 'FOREVER 1' MV Teaser #1\n\nGirls' Generation 소녀시대 The 7th Album\n〖FOREVER 1〗 \n\nDigital Album &amp; MV ➫ 2022.08.05 6PM (KST)\nPhysical Album ➫ 2022.08.08 \n\n#소녀시대\n#FOREVER1 https://t.co/aUT8EcuVmp"
+	},
+	{
 		"created_at": "Wed Aug 03 08:07:09 +0000 2022",
 		"id": 1554730566448447500,
 		"id_str": "1554740641371983872",
