@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 02:07:26 +0000 2022",
+		"id": 1554648247842623500,
+		"id_str": "1554650117248106497",
+		"full_text": "띠용👀 오늘부터 #태연 은\n소시탐탐 「서기→쌈닭」 담당\n\n▶️매주 화요일 밤 𝟴시 𝟱𝟬분\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/ER9DvdBIFb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						9,
+						12
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						54,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554626791410520000,
+					"id_str": "1554626791410520065",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FZMmLYOUIAAf7RR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZMmLYOUIAAf7RR.jpg",
+					"url": "https://t.co/ER9DvdBIFb",
+					"display_url": "pic.twitter.com/ER9DvdBIFb",
+					"expanded_url": "https://twitter.com/jtbclove/status/1554648247842623493/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554626791410520000,
+					"id_str": "1554626791410520065",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FZMmLYOUIAAf7RR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZMmLYOUIAAf7RR.jpg",
+					"url": "https://t.co/ER9DvdBIFb",
+					"display_url": "pic.twitter.com/ER9DvdBIFb",
+					"expanded_url": "https://twitter.com/jtbclove/status/1554648247842623493/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 64330,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554626791410520065/vid/480x270/9Shg8PIiQiPDtYBd.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554626791410520065/vid/1280x720/5csfuKfUVPORsbup.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1554626791410520065/pl/qgpk2vmhKh3xifRO.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1554626791410520065/vid/640x360/emyXXAISaAKx9-pH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[소시탐탐] (띠용👀) 오늘부터 태연은 소시탐탐 「서기→쌈닭」 담당 | JTBC 220802 방송",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/28324997"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472813,
+			"friends_count": 108,
+			"listed_count": 818,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1659403714",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "띠용👀 오늘부터 #태연 은\n소시탐탐 「서기→쌈닭」 담당\n\n▶️매주 화요일 밤 𝟴시 𝟱𝟬분\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/ER9DvdBIFb"
+	},
+	{
+		"created_at": "Wed Aug 03 02:07:12 +0000 2022",
+		"id": 1554643798184960000,
+		"id_str": "1554650057646948352",
+		"full_text": "[선공개]\n비주얼 케미에 설렘 증폭💞\n다 잊도록 해 슬비야👌🏻👌🏻\n\n🔮 풀버전은 유튜브 &amp; 네이버 TV에서\n\n판타지 희망 로맨스 #징크스의연인\n매주 수목 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/tm0GENvVw5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "징크스의연인",
+					"indices": [
+						76,
+						83
+					]
+				},
+				{
+					"text": "KBS",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "수목드라마",
+					"indices": [
+						108,
+						114
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						123,
+						126
+					]
+				},
+				{
+					"text": "나인우",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "KBS드라마",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "KBSdrama",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554643686016761900,
+					"id_str": "1554643686016761856",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554643686016761856/pu/img/O9yKb1EtUBOAGvG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554643686016761856/pu/img/O9yKb1EtUBOAGvG4.jpg",
+					"url": "https://t.co/tm0GENvVw5",
+					"display_url": "pic.twitter.com/tm0GENvVw5",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1554643798184960000/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554643686016761900,
+					"id_str": "1554643686016761856",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1554643686016761856/pu/img/O9yKb1EtUBOAGvG4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1554643686016761856/pu/img/O9yKb1EtUBOAGvG4.jpg",
+					"url": "https://t.co/tm0GENvVw5",
+					"display_url": "pic.twitter.com/tm0GENvVw5",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1554643798184960000/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60073,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1554643686016761856/pu/pl/nQmFO_E0NE82YCcd.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554643686016761856/pu/vid/480x270/eCkZTb0kURKcwNlU.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554643686016761856/pu/vid/1280x720/SBVn5P-YptbXzp5x.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1554643686016761856/pu/vid/640x360/4YM0AaSEgexZVDn5.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105744,
+			"friends_count": 56732,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개]\n비주얼 케미에 설렘 증폭💞\n다 잊도록 해 슬비야👌🏻👌🏻\n\n🔮 풀버전은 유튜브 &amp; 네이버 TV에서\n\n판타지 희망 로맨스 #징크스의연인\n매주 수목 밤 9시 50분 방송\n\n#KBS #수목드라마 #징크스의연인 #서현 #나인우 #KBS드라마 #KBSdrama https://t.co/tm0GENvVw5"
+	},
+	{
 		"created_at": "Wed Aug 03 01:07:11 +0000 2022",
 		"id": 1554633459330859000,
 		"id_str": "1554634954574798850",
