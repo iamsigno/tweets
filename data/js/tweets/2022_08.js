@@ -1,6 +1,156 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 03 03:07:09 +0000 2022",
+		"id": 1554664052030201900,
+		"id_str": "1554665144285859842",
+		"full_text": "[임윤아] 생활력 만렙 간호사! 내가 고미호다!\n\n포스트 보러 가기 👉🏻 https://t.co/IHCK7el1UI\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						66,
+						70
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						81,
+						86
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						106,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IHCK7el1UI",
+					"expanded_url": "https://naver.me/5MDgMwCH",
+					"display_url": "naver.me/5MDgMwCH",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11061150,
+			"friends_count": 56,
+			"listed_count": 12487,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 234,
+		"favorite_count": 683,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[임윤아] 생활력 만렙 간호사! 내가 고미호다!\n\n포스트 보러 가기 👉🏻 https://t.co/IHCK7el1UI\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration"
+	},
+	{
 		"created_at": "Wed Aug 03 02:07:26 +0000 2022",
 		"id": 1554648247842623500,
 		"id_str": "1554650117248106497",
