@@ -1,6 +1,367 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 02:07:09 +0000 2022",
+		"id": 1555010632612581400,
+		"id_str": "1555012432279621633",
+		"full_text": "melon_music 8월 컴백 아티스트 공개🍈😎\n📍1주차 : #NewJeans #YENA #소녀시대 \n📍2주차 : #골든차일드 #키노 \n📍3주차 : #더보이즈 #BAE173 \n📍4주차 : #IVE #CIX #TWICE \n📍8월 선공개 예정 : #BLACKPINK https://t.co/mgomrAr4nO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewJeans",
+					"indices": [
+						35,
+						44
+					]
+				},
+				{
+					"text": "YENA",
+					"indices": [
+						45,
+						50
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						51,
+						56
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "키노",
+					"indices": [
+						72,
+						75
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						84,
+						89
+					]
+				},
+				{
+					"text": "BAE173",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "IVE",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "CIX",
+					"indices": [
+						111,
+						115
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						116,
+						122
+					]
+				},
+				{
+					"text": "BLACKPINK",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1554705282659283000,
+					"id_str": "1554705282659282944",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNsN6dUcAA8b2s.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZNsN6dUcAA8b2s.png",
+					"url": "https://t.co/mgomrAr4nO",
+					"display_url": "pic.twitter.com/mgomrAr4nO",
+					"expanded_url": "https://twitter.com/melon/status/1555010632612581376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1554705282659283000,
+					"id_str": "1554705282659282944",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNsN6dUcAA8b2s.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZNsN6dUcAA8b2s.png",
+					"url": "https://t.co/mgomrAr4nO",
+					"display_url": "pic.twitter.com/mgomrAr4nO",
+					"expanded_url": "https://twitter.com/melon/status/1555010632612581376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1554705282659283000,
+					"id_str": "1554705282659282945",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNsN6dUcAEI9ZM.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZNsN6dUcAEI9ZM.png",
+					"url": "https://t.co/mgomrAr4nO",
+					"display_url": "pic.twitter.com/mgomrAr4nO",
+					"expanded_url": "https://twitter.com/melon/status/1555010632612581376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1554705282663559200,
+					"id_str": "1554705282663559168",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNsN6eVsAAzbJt.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZNsN6eVsAAzbJt.png",
+					"url": "https://t.co/mgomrAr4nO",
+					"display_url": "pic.twitter.com/mgomrAr4nO",
+					"expanded_url": "https://twitter.com/melon/status/1555010632612581376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1554705282667667500,
+					"id_str": "1554705282667667461",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FZNsN6fUYAUxO_B.png",
+					"media_url_https": "https://pbs.twimg.com/media/FZNsN6fUYAUxO_B.png",
+					"url": "https://t.co/mgomrAr4nO",
+					"display_url": "pic.twitter.com/mgomrAr4nO",
+					"expanded_url": "https://twitter.com/melon/status/1555010632612581376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론💚",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 197897,
+			"friends_count": 71,
+			"listed_count": 675,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 301,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 17954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1654228776",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "melon_music 8월 컴백 아티스트 공개🍈😎\n📍1주차 : #NewJeans #YENA #소녀시대 \n📍2주차 : #골든차일드 #키노 \n📍3주차 : #더보이즈 #BAE173 \n📍4주차 : #IVE #CIX #TWICE \n📍8월 선공개 예정 : #BLACKPINK https://t.co/mgomrAr4nO"
+	},
+	{
 		"created_at": "Thu Aug 04 01:07:09 +0000 2022",
 		"id": 1554996459019255800,
 		"id_str": "1554997333078704128",
