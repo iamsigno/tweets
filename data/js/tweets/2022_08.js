@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 04:07:19 +0000 2022",
+		"id": 1555039912889442300,
+		"id_str": "1555042676222971905",
+		"full_text": "‘The Big Mouth’ ranks 1st in TV ratings among the shows aired concurrently and 1st on hot topic searches among the Friday-Saturday dramas! \n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/x11vIG1mIh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						156,
+						161
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						175,
+						180
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						181,
+						197
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555039907768180700,
+					"id_str": "1555039907768180738",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"url": "https://t.co/x11vIG1mIh",
+					"display_url": "pic.twitter.com/x11vIG1mIh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039912889442306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555039907768180700,
+					"id_str": "1555039907768180738",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScjqIUIAIvwYg.jpg",
+					"url": "https://t.co/x11vIG1mIh",
+					"display_url": "pic.twitter.com/x11vIG1mIh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039912889442306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555039907776569300,
+					"id_str": "1555039907776569345",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FZScjqKUIAEwnhq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZScjqKUIAEwnhq.jpg",
+					"url": "https://t.co/x11vIG1mIh",
+					"display_url": "pic.twitter.com/x11vIG1mIh",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555039912889442306/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 908,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 301,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 532,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1555039730089111600,
+		"in_reply_to_status_id_str": "1555039730089111553",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11062666,
+			"friends_count": 56,
+			"listed_count": 12493,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 438,
+		"favorite_count": 897,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Big Mouth’ ranks 1st in TV ratings among the shows aired concurrently and 1st on hot topic searches among the Friday-Saturday dramas! \n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/x11vIG1mIh"
+	},
+	{
 		"created_at": "Thu Aug 04 03:07:09 +0000 2022",
 		"id": 1555018819344601000,
 		"id_str": "1555027531589459968",
