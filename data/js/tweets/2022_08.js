@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 12:07:11 +0000 2022",
+		"id": 1555525575703335000,
+		"id_str": "1555525823964368897",
+		"full_text": "[playlist] 지금은 소녀시대~ Forever 1💕 영원히 소녀시대~💘ㅣ소녀시대 노래 모음 ‘다시 만난 세계’부터 ‘FOREVER 1’까쥐~ㅣSNSD Songs Playlist ㅣmarji. 마르지\n \n💿 https://t.co/KzlhAQcKd5\n \n#GirlsGeneration #소녀시대\n#FOREVER1\n#marji #마르지 @Bugs_play https://t.co/ASQZdkawPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						144,
+						160
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						161,
+						166
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "marji",
+					"indices": [
+						177,
+						183
+					]
+				},
+				{
+					"text": "마르지",
+					"indices": [
+						184,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bugs_play",
+					"name": "벅스",
+					"id": 54490933,
+					"id_str": "54490933",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KzlhAQcKd5",
+					"expanded_url": "https://bugs.kr/!gg220805sm_twitter",
+					"display_url": "bugs.kr/!gg220805sm_tw…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555525146118463500,
+					"id_str": "1555525146118463489",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZV4P2UIAEwb5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZV4P2UIAEwb5t.jpg",
+					"url": "https://t.co/ASQZdkawPQ",
+					"display_url": "pic.twitter.com/ASQZdkawPQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555525575703334912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555525146118463500,
+					"id_str": "1555525146118463489",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZV4P2UIAEwb5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZV4P2UIAEwb5t.jpg",
+					"url": "https://t.co/ASQZdkawPQ",
+					"display_url": "pic.twitter.com/ASQZdkawPQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555525575703334912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3854395,
+			"friends_count": 5,
+			"listed_count": 6101,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 551,
+		"favorite_count": 911,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[playlist] 지금은 소녀시대~ Forever 1💕 영원히 소녀시대~💘ㅣ소녀시대 노래 모음 ‘다시 만난 세계’부터 ‘FOREVER 1’까쥐~ㅣSNSD Songs Playlist ㅣmarji. 마르지\n \n💿 https://t.co/KzlhAQcKd5\n \n#GirlsGeneration #소녀시대\n#FOREVER1\n#marji #마르지 @Bugs_play https://t.co/ASQZdkawPQ"
+	},
+	{
 		"created_at": "Fri Aug 05 11:07:09 +0000 2022",
 		"id": 1555508922764722200,
 		"id_str": "1555510715594711041",
