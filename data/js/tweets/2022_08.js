@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 12:44:59 +0000 2022",
+		"id": 1555529135769804800,
+		"id_str": "1555535336880672774",
+		"full_text": "🧳출장십오야2 X 소녀시대💗\n잠시 후 오늘 밤 10시 30분 \nComing soon tonight at 10:30 PM KST \n\n🧳예고ㅣ'사랑해 널 이 출장 이대로' 다시만난(땡)세계ㅣ🧳출장십오야2 X 소녀시대\n➫ https://t.co/lZZHdcSLSI\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#출장십오야 https://t.co/LA64jGUnb9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						163,
+						168
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "출장십오야",
+					"indices": [
+						180,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lZZHdcSLSI",
+					"expanded_url": "https://youtu.be/hSa2YNyqTtU",
+					"display_url": "youtu.be/hSa2YNyqTtU",
+					"indices": [
+						121,
+						144
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555526962562547700,
+					"id_str": "1555526962562547713",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZXh-oVQAEnzN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZXh-oVQAEnzN7.jpg",
+					"url": "https://t.co/LA64jGUnb9",
+					"display_url": "pic.twitter.com/LA64jGUnb9",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555529135769804801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555526962562547700,
+					"id_str": "1555526962562547713",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FZZXh-oVQAEnzN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZZXh-oVQAEnzN7.jpg",
+					"url": "https://t.co/LA64jGUnb9",
+					"display_url": "pic.twitter.com/LA64jGUnb9",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555529135769804801/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3854905,
+			"friends_count": 5,
+			"listed_count": 6109,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4725,
+		"favorite_count": 8356,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧳출장십오야2 X 소녀시대💗\n잠시 후 오늘 밤 10시 30분 \nComing soon tonight at 10:30 PM KST \n\n🧳예고ㅣ'사랑해 널 이 출장 이대로' 다시만난(땡)세계ㅣ🧳출장십오야2 X 소녀시대\n➫ https://t.co/lZZHdcSLSI\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#출장십오야 https://t.co/LA64jGUnb9"
+	},
+	{
 		"created_at": "Fri Aug 05 12:07:11 +0000 2022",
 		"id": 1555525575703335000,
 		"id_str": "1555525823964368897",
