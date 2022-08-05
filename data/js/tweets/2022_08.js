@@ -1,6 +1,1361 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 07:07:38 +0000 2022",
+		"id": 1555443026180583400,
+		"id_str": "1555450441470803968",
+		"full_text": "[#LIVE] Girls' Generation 소녀시대 'FOREVER 1' Countdown Live | 8/5(금) 오후 4시 30분!\n▶ https://t.co/WU3WyurIYH\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration #소녀시대_FOREVER1_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIVE",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						105,
+						108
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						109,
+						114
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						125,
+						133
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "소녀시대_FOREVER1_6PM",
+					"indices": [
+						151,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WU3WyurIYH",
+					"expanded_url": "https://youtu.be/0qmjFQOin8w",
+					"display_url": "youtu.be/0qmjFQOin8w",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62951,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 186,
+		"favorite_count": 176,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#LIVE] Girls' Generation 소녀시대 'FOREVER 1' Countdown Live | 8/5(금) 오후 4시 30분!\n▶ https://t.co/WU3WyurIYH\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration #소녀시대_FOREVER1_6PM"
+	},
+	{
+		"created_at": "Fri Aug 05 07:07:36 +0000 2022",
+		"id": 1555442983272853500,
+		"id_str": "1555450432629129216",
+		"full_text": "[#NEWS] '징크스의 연인' 서현X나인우, 운명 뛰어넘고 해피엔딩 \"행복했다\"\n▶ https://t.co/ScQOicu24g\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/uXtaWyJVm4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						73,
+						76
+					]
+				},
+				{
+					"text": "징크스의연인",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						85,
+						93
+					]
+				},
+				{
+					"text": "JinxedatFirst",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ScQOicu24g",
+					"expanded_url": "http://naver.me/FWvAYMNW",
+					"display_url": "naver.me/FWvAYMNW",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555442892906561500,
+					"id_str": "1555442892906561536",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYLEewaAAAT60K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYLEewaAAAT60K.jpg",
+					"url": "https://t.co/uXtaWyJVm4",
+					"display_url": "pic.twitter.com/uXtaWyJVm4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555442983272853504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555442892906561500,
+					"id_str": "1555442892906561536",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYLEewaAAAT60K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYLEewaAAAT60K.jpg",
+					"url": "https://t.co/uXtaWyJVm4",
+					"display_url": "pic.twitter.com/uXtaWyJVm4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555442983272853504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555442892894015500,
+					"id_str": "1555442892894015489",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYLEetakAEJTeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYLEetakAEJTeI.jpg",
+					"url": "https://t.co/uXtaWyJVm4",
+					"display_url": "pic.twitter.com/uXtaWyJVm4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555442983272853504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555442892919156700,
+					"id_str": "1555442892919156736",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYLEezaMAA3yGB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYLEezaMAA3yGB.jpg",
+					"url": "https://t.co/uXtaWyJVm4",
+					"display_url": "pic.twitter.com/uXtaWyJVm4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555442983272853504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555442892944310300,
+					"id_str": "1555442892944310273",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYLEe5aAAEUqXM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYLEe5aAAEUqXM.jpg",
+					"url": "https://t.co/uXtaWyJVm4",
+					"display_url": "pic.twitter.com/uXtaWyJVm4",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1555442983272853504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62951,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118,
+		"favorite_count": 139,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '징크스의 연인' 서현X나인우, 운명 뛰어넘고 해피엔딩 \"행복했다\"\n▶ https://t.co/ScQOicu24g\n\n#서현 #징크스의연인 #SEOHYUN #JinxedatFirst https://t.co/uXtaWyJVm4"
+	},
+	{
+		"created_at": "Fri Aug 05 07:07:28 +0000 2022",
+		"id": 1555437226816745500,
+		"id_str": "1555450398558887936",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆‍♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						110,
+						120
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						148,
+						152
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						158,
+						162
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						163,
+						172
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						173,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555437202569474000,
+					"id_str": "1555437202569474049",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYF5QmUsAEVlzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYF5QmUsAEVlzT.jpg",
+					"url": "https://t.co/5KFycwzdxp",
+					"display_url": "pic.twitter.com/5KFycwzdxp",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555437226816745472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555437202569474000,
+					"id_str": "1555437202569474049",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYF5QmUsAEVlzT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYF5QmUsAEVlzT.jpg",
+					"url": "https://t.co/5KFycwzdxp",
+					"display_url": "pic.twitter.com/5KFycwzdxp",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555437226816745472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105680,
+			"friends_count": 56728,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 93,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆‍♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp"
+	},
+	{
+		"created_at": "Fri Aug 05 07:07:19 +0000 2022",
+		"id": 1555437066862809000,
+		"id_str": "1555450360336089089",
+		"full_text": "인물소개로 &lt;당신이 소원을 말하면&gt; 예습하기!🔍\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/rpJ4nUIUTM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						135,
+						139
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						140,
+						149
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555436976110571500,
+					"id_str": "1555436976110571520",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYFsE-UEAAkGPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYFsE-UEAAkGPr.jpg",
+					"url": "https://t.co/rpJ4nUIUTM",
+					"display_url": "pic.twitter.com/rpJ4nUIUTM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555437066862809088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555436976110571500,
+					"id_str": "1555436976110571520",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYFsE-UEAAkGPr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYFsE-UEAAkGPr.jpg",
+					"url": "https://t.co/rpJ4nUIUTM",
+					"display_url": "pic.twitter.com/rpJ4nUIUTM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555437066862809088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555436993986699300,
+					"id_str": "1555436993986699264",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYFtHkUIAAsL_D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYFtHkUIAAsL_D.jpg",
+					"url": "https://t.co/rpJ4nUIUTM",
+					"display_url": "pic.twitter.com/rpJ4nUIUTM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555437066862809088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555437009358823400,
+					"id_str": "1555437009358823424",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYFuA1UIAAH7Gu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYFuA1UIAAH7Gu.jpg",
+					"url": "https://t.co/rpJ4nUIUTM",
+					"display_url": "pic.twitter.com/rpJ4nUIUTM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555437066862809088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555437032121327600,
+					"id_str": "1555437032121327617",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYFvVoUYAEunUi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYFvVoUYAEunUi.jpg",
+					"url": "https://t.co/rpJ4nUIUTM",
+					"display_url": "pic.twitter.com/rpJ4nUIUTM",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555437066862809088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105680,
+			"friends_count": 56728,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "인물소개로 &lt;당신이 소원을 말하면&gt; 예습하기!🔍\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/rpJ4nUIUTM"
+	},
+	{
+		"created_at": "Fri Aug 05 07:07:15 +0000 2022",
+		"id": 1555435686680883200,
+		"id_str": "1555450343030415361",
+		"full_text": "[GIRLS’ GENERATION 15th Anniversary]💕\n\n영원한 S♡NE의 청춘, 소녀시대의 데뷔 15주년을 축하합니다!🎉\n특별한 날을 기념할 수 있는 15주년 MD를 SMTOWN &amp;STORE 온라인에서 만나보세요!\n\n🔹판매기간: 2022. 08. 05 (FRI) 15:00 ~ 2022. 08. 07 (SUN) 23:59 (KST)\nhttps://t.co/zPuGyFJfiT https://t.co/5kyXuVXtq3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zPuGyFJfiT",
+					"expanded_url": "https://bit.ly/3vH3fCa",
+					"display_url": "bit.ly/3vH3fCa",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555435665986240500,
+					"id_str": "1555435665986240512",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYEf0YVQAA1omI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYEf0YVQAA1omI.jpg",
+					"url": "https://t.co/5kyXuVXtq3",
+					"display_url": "pic.twitter.com/5kyXuVXtq3",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1555435686680883201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555435665986240500,
+					"id_str": "1555435665986240512",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYEf0YVQAA1omI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYEf0YVQAA1omI.jpg",
+					"url": "https://t.co/5kyXuVXtq3",
+					"display_url": "pic.twitter.com/5kyXuVXtq3",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1555435686680883201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555435666128875500,
+					"id_str": "1555435666128875520",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYEf06VsAAhneC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYEf06VsAAhneC.jpg",
+					"url": "https://t.co/5kyXuVXtq3",
+					"display_url": "pic.twitter.com/5kyXuVXtq3",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1555435686680883201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555435666258899000,
+					"id_str": "1555435666258898946",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYEf1ZVsAI5ocx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYEf1ZVsAI5ocx.jpg",
+					"url": "https://t.co/5kyXuVXtq3",
+					"display_url": "pic.twitter.com/5kyXuVXtq3",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1555435686680883201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1555435676253925400,
+		"in_reply_to_status_id_str": "1555435676253925376",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 248970,
+			"friends_count": 0,
+			"listed_count": 405,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 373,
+		"favorite_count": 537,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GIRLS’ GENERATION 15th Anniversary]💕\n\n영원한 S♡NE의 청춘, 소녀시대의 데뷔 15주년을 축하합니다!🎉\n특별한 날을 기념할 수 있는 15주년 MD를 SMTOWN &amp;STORE 온라인에서 만나보세요!\n\n🔹판매기간: 2022. 08. 05 (FRI) 15:00 ~ 2022. 08. 07 (SUN) 23:59 (KST)\nhttps://t.co/zPuGyFJfiT https://t.co/5kyXuVXtq3"
+	},
+	{
 		"created_at": "Fri Aug 05 06:07:39 +0000 2022",
 		"id": 1555434684489744400,
 		"id_str": "1555435345239490561",
