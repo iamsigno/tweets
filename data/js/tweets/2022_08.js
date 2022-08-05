@@ -1,6 +1,1046 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 06:07:39 +0000 2022",
+		"id": 1555434684489744400,
+		"id_str": "1555435345239490561",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n어딘가 모르게 서늘한 분위기 #하준경\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/N4bUsPv7gr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "하준경",
+					"indices": [
+						48,
+						52
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						140,
+						144
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						170,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555434663526535200,
+					"id_str": "1555434663526535168",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDld7UEAASmyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDld7UEAASmyr.jpg",
+					"url": "https://t.co/N4bUsPv7gr",
+					"display_url": "pic.twitter.com/N4bUsPv7gr",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434684489744385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555434663526535200,
+					"id_str": "1555434663526535168",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDld7UEAASmyr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDld7UEAASmyr.jpg",
+					"url": "https://t.co/N4bUsPv7gr",
+					"display_url": "pic.twitter.com/N4bUsPv7gr",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434684489744385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105677,
+			"friends_count": 56728,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n어딘가 모르게 서늘한 분위기 #하준경\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/N4bUsPv7gr"
+	},
+	{
+		"created_at": "Fri Aug 05 06:07:33 +0000 2022",
+		"id": 1555434617292828700,
+		"id_str": "1555435319515832320",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n밝고 긍정적인 에너지 #서연주\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/UJU9TZnT2X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "서연주",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555434592621932500,
+					"id_str": "1555434592621932545",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDhVyVsAENA-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDhVyVsAENA-r.jpg",
+					"url": "https://t.co/UJU9TZnT2X",
+					"display_url": "pic.twitter.com/UJU9TZnT2X",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434617292828672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555434592621932500,
+					"id_str": "1555434592621932545",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDhVyVsAENA-r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDhVyVsAENA-r.jpg",
+					"url": "https://t.co/UJU9TZnT2X",
+					"display_url": "pic.twitter.com/UJU9TZnT2X",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434617292828672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105677,
+			"friends_count": 56728,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n밝고 긍정적인 에너지 #서연주\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/UJU9TZnT2X"
+	},
+	{
+		"created_at": "Fri Aug 05 06:07:26 +0000 2022",
+		"id": 1555434540784500700,
+		"id_str": "1555435289681723398",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n팀 지니를 이끄는 열혈 자원봉사 반장 #강태식\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/W9zEWBleGV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "강태식",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						112,
+						122
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						128,
+						144
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						150,
+						154
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						155,
+						159
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						160,
+						164
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						175,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555434521461371000,
+					"id_str": "1555434521461370885",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDdMsVsAUv1c_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDdMsVsAUv1c_.jpg",
+					"url": "https://t.co/W9zEWBleGV",
+					"display_url": "pic.twitter.com/W9zEWBleGV",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434540784500736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555434521461371000,
+					"id_str": "1555434521461370885",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDdMsVsAUv1c_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDdMsVsAUv1c_.jpg",
+					"url": "https://t.co/W9zEWBleGV",
+					"display_url": "pic.twitter.com/W9zEWBleGV",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434540784500736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105677,
+			"friends_count": 56728,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n팀 지니를 이끄는 열혈 자원봉사 반장 #강태식\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/W9zEWBleGV"
+	},
+	{
+		"created_at": "Fri Aug 05 06:07:21 +0000 2022",
+		"id": 1555434484886954000,
+		"id_str": "1555435268269817857",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n은은한 미소를 머금은 #윤겨레\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/QNbdn4S4NV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤겨레",
+					"indices": [
+						44,
+						48
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						119,
+						135
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						151,
+						155
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						156,
+						165
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						166,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555434431569019000,
+					"id_str": "1555434431569018880",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDX90VQAAyhmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDX90VQAAyhmr.jpg",
+					"url": "https://t.co/QNbdn4S4NV",
+					"display_url": "pic.twitter.com/QNbdn4S4NV",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434484886953990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555434431569019000,
+					"id_str": "1555434431569018880",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYDX90VQAAyhmr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYDX90VQAAyhmr.jpg",
+					"url": "https://t.co/QNbdn4S4NV",
+					"display_url": "pic.twitter.com/QNbdn4S4NV",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1555434484886953990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1430,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 475,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 838,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105677,
+			"friends_count": 56728,
+			"listed_count": 2124,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1659319185",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 캐릭터 포스터 공개✨\n은은한 미소를 머금은 #윤겨레\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/QNbdn4S4NV"
+	},
+	{
 		"created_at": "Fri Aug 05 04:44:57 +0000 2022",
 		"id": 1555403220272365600,
 		"id_str": "1555414531672793090",
