@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 11:07:09 +0000 2022",
+		"id": 1555508922764722200,
+		"id_str": "1555510715594711041",
+		"full_text": "Check out our new song 'FOREVER 1' on @Spotify \"K-Pop ON (온)\" playlist! 💗\n \n🔗 https://t.co/umXy3kmqkX\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 \n@SpotifyKpop\n@SpotifyKR https://t.co/rldibRskNG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "SpotifyKpop",
+					"name": "Spotify ❤️ K-Pop",
+					"id": 978459450871697400,
+					"id_str": "978459450871697408",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"screen_name": "SpotifyKR",
+					"name": "Spotify Korea",
+					"id": 1207908245118963700,
+					"id_str": "1207908245118963712",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/umXy3kmqkX",
+					"expanded_url": "http://spoti.fi/3NRltap",
+					"display_url": "spoti.fi/3NRltap",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555477975339962400,
+					"id_str": "1555477975339962368",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYq-jAVEAANx5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYq-jAVEAANx5s.jpg",
+					"url": "https://t.co/rldibRskNG",
+					"display_url": "pic.twitter.com/rldibRskNG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555508922764722177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555477975339962400,
+					"id_str": "1555477975339962368",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FZYq-jAVEAANx5s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZYq-jAVEAANx5s.jpg",
+					"url": "https://t.co/rldibRskNG",
+					"display_url": "pic.twitter.com/rldibRskNG",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1555508922764722177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3853820,
+			"friends_count": 5,
+			"listed_count": 6104,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1625,
+		"favorite_count": 2868,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out our new song 'FOREVER 1' on @Spotify \"K-Pop ON (온)\" playlist! 💗\n \n🔗 https://t.co/umXy3kmqkX\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 \n@SpotifyKpop\n@SpotifyKR https://t.co/rldibRskNG"
+	},
+	{
 		"created_at": "Fri Aug 05 10:07:40 +0000 2022",
 		"id": 1555493828597104600,
 		"id_str": "1555495748921352192",
