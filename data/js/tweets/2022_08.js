@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 05 09:07:27 +0000 2022",
+		"id": 1555480160081612800,
+		"id_str": "1555480594032857088",
+		"full_text": "Girls' Generation 소녀시대 The 7th Album 〖FOREVER 1〗 \n\nMelon➫ https://t.co/esbOIGZEE0\nFLO➫ https://t.co/V6Dfpc1S0n\ngenie➫ https://t.co/Zx8hAP5n7U\nBugs➫ https://t.co/0ZiDv5oyso\nNAVER VIBE➫ https://t.co/EZpuyzulp4 \n\n#GirlsGeneration #소녀시대 \n#FOREVER1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						210,
+						226
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						227,
+						232
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/esbOIGZEE0",
+					"expanded_url": "http://kko.to/32Nye3C4a",
+					"display_url": "kko.to/32Nye3C4a",
+					"indices": [
+						58,
+						81
+					]
+				},
+				{
+					"url": "https://t.co/V6Dfpc1S0n",
+					"expanded_url": "http://flomuz.io/s/a.BP5Qk",
+					"display_url": "flomuz.io/s/a.BP5Qk",
+					"indices": [
+						87,
+						110
+					]
+				},
+				{
+					"url": "https://t.co/Zx8hAP5n7U",
+					"expanded_url": "http://www.genie.co.kr/47R8H7",
+					"display_url": "genie.co.kr/47R8H7",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/0ZiDv5oyso",
+					"expanded_url": "https://music.bugs.co.kr/album/20484595",
+					"display_url": "music.bugs.co.kr/album/20484595",
+					"indices": [
+						148,
+						171
+					]
+				},
+				{
+					"url": "https://t.co/EZpuyzulp4",
+					"expanded_url": "https://naver.me/5Cb0PVtR",
+					"display_url": "naver.me/5Cb0PVtR",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3851687,
+			"friends_count": 5,
+			"listed_count": 6102,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2964,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2020,
+		"favorite_count": 2245,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls' Generation 소녀시대 The 7th Album 〖FOREVER 1〗 \n\nMelon➫ https://t.co/esbOIGZEE0\nFLO➫ https://t.co/V6Dfpc1S0n\ngenie➫ https://t.co/Zx8hAP5n7U\nBugs➫ https://t.co/0ZiDv5oyso\nNAVER VIBE➫ https://t.co/EZpuyzulp4 \n\n#GirlsGeneration #소녀시대 \n#FOREVER1"
+	},
+	{
+		"created_at": "Fri Aug 05 09:07:23 +0000 2022",
+		"id": 1555479881613332500,
+		"id_str": "1555480576802652160",
+		"full_text": "少女時代7th Album「FOREVER 1」のデジタル配信がスタート🎧\n「FOREVER 1」のMusic Videoも公開🎥\nそして、SONE JAPANのみなさんに少女時代から動画コメントも到着しました💗\n#少女時代 #GirlsGeneration #소녀시대 #FOREVER1 \n\n🎧https://t.co/sEVlnRscqk\n🎥https://t.co/LbOZsdlIyu https://t.co/5TbA84i7am",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						113,
+						129
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sEVlnRscqk",
+					"expanded_url": "https://lnk.to/snsd_f1",
+					"display_url": "lnk.to/snsd_f1",
+					"indices": [
+						149,
+						172
+					]
+				},
+				{
+					"url": "https://t.co/LbOZsdlIyu",
+					"expanded_url": "https://youtu.be/Qpf26PtBXgo",
+					"display_url": "youtu.be/Qpf26PtBXgo",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1555479447544811500,
+					"id_str": "1555479447544811522",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555479447544811522/pu/img/-qeTar-gKz04XTdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555479447544811522/pu/img/-qeTar-gKz04XTdX.jpg",
+					"url": "https://t.co/5TbA84i7am",
+					"display_url": "pic.twitter.com/5TbA84i7am",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1555479881613332480/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555479447544811500,
+					"id_str": "1555479447544811522",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1555479447544811522/pu/img/-qeTar-gKz04XTdX.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1555479447544811522/pu/img/-qeTar-gKz04XTdX.jpg",
+					"url": "https://t.co/5TbA84i7am",
+					"display_url": "pic.twitter.com/5TbA84i7am",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1555479881613332480/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 54020,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1555479447544811522/pu/pl/JxgpNS77k1IWNoCD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555479447544811522/pu/vid/1280x720/AQxdEjvsdKY-0Mqs.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555479447544811522/pu/vid/480x270/7IsIIBzFw1qzwMOj.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1555479447544811522/pu/vid/640x360/4zNt5AdIRAN5FIvT.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115690,
+			"friends_count": 0,
+			"listed_count": 526,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 910,
+		"favorite_count": 1030,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "少女時代7th Album「FOREVER 1」のデジタル配信がスタート🎧\n「FOREVER 1」のMusic Videoも公開🎥\nそして、SONE JAPANのみなさんに少女時代から動画コメントも到着しました💗\n#少女時代 #GirlsGeneration #소녀시대 #FOREVER1 \n\n🎧https://t.co/sEVlnRscqk\n🎥https://t.co/LbOZsdlIyu https://t.co/5TbA84i7am"
+	},
+	{
+		"created_at": "Fri Aug 05 09:07:13 +0000 2022",
+		"id": 1555479196620636200,
+		"id_str": "1555480533999751170",
+		"full_text": "[#VIDEO] Girls' Generation 소녀시대 'FOREVER 1' MV\n▶ https://t.co/zBNYSSDXwN\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration #소녀시대_FOREVER1_6PM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						78,
+						83
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						94,
+						102
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "소녀시대_FOREVER1_6PM",
+					"indices": [
+						120,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zBNYSSDXwN",
+					"expanded_url": "https://youtu.be/Qpf26PtBXgo",
+					"display_url": "youtu.be/Qpf26PtBXgo",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 62962,
+			"friends_count": 12,
+			"listed_count": 277,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16156,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 85,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] Girls' Generation 소녀시대 'FOREVER 1' MV\n▶ https://t.co/zBNYSSDXwN\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration #소녀시대_FOREVER1_6PM"
+	},
+	{
 		"created_at": "Fri Aug 05 07:07:38 +0000 2022",
 		"id": 1555443026180583400,
 		"id_str": "1555450441470803968",
@@ -488,7 +1063,7 @@ Grailbird.data.tweets_2022_08 =
 		"created_at": "Fri Aug 05 07:07:28 +0000 2022",
 		"id": 1555437226816745500,
 		"id_str": "1555450398558887936",
-		"full_text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆‍♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -735,7 +1310,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆‍♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp"
+		"text": "&lt;당신이 소원을 말하면&gt; 제작발표회 Live✨\n당소말 궁금했던 사람들 모두 모여!🙆♂️\n\nKBS 새 수목드라마 #당신이소원을말하면\n8월 10일 [수] 밤 9시 50분 첫방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/5KFycwzdxp"
 	},
 	{
 		"created_at": "Fri Aug 05 07:07:19 +0000 2022",
