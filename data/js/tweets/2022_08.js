@@ -1,6 +1,135 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 03:45:06 +0000 2022",
+		"id": 1555761209302913000,
+		"id_str": "1555761858400976898",
+		"full_text": "역시 ‘소녀시대’! 정규 7집 ‘FOREVER 1’ 1위 점령! 5년만 컴백에도 명불허전 파워 입증!\n아이튠즈 전 세계 31개 지역 1위!\n국내 음원차트 1위+중국, 일본 차트도 1위!\n\nhttps://t.co/2P6b3LIKpG\n\n#GirlsGeneration #소녀시대\n#FOREVER1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						130,
+						146
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						147,
+						152
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						153,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2P6b3LIKpG",
+					"expanded_url": "https://bit.ly/3BIw3hx",
+					"display_url": "bit.ly/3BIw3hx",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3858566,
+			"friends_count": 5,
+			"listed_count": 6105,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1364,
+		"favorite_count": 3400,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "역시 ‘소녀시대’! 정규 7집 ‘FOREVER 1’ 1위 점령! 5년만 컴백에도 명불허전 파워 입증!\n아이튠즈 전 세계 31개 지역 1위!\n국내 음원차트 1위+중국, 일본 차트도 1위!\n\nhttps://t.co/2P6b3LIKpG\n\n#GirlsGeneration #소녀시대\n#FOREVER1"
+	},
+	{
 		"created_at": "Sat Aug 06 03:07:36 +0000 2022",
 		"id": 1555750515413340200,
 		"id_str": "1555752422584201216",
