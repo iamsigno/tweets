@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 10:44:57 +0000 2022",
+		"id": 1555853694750429200,
+		"id_str": "1555867517091995649",
+		"full_text": "어맛❗️\n이 '소녀'는 어느 \n'시대'에 살고 있는 소녀일까요❓️💜\n\n이 궁금증을 풀고 싶다면\n잠시 후 7:30PM\n놀라운 토요일에서 확인해 볼까요?\n👒\n\n#태연 #TAEYEON\n#놀라운토요일 #AmazingSaturday https://t.co/WvDdZkMEOm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						87,
+						90
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						91,
+						99
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555853536486760400,
+					"id_str": "1555853536486760449",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FZeAjFTUIAEXJfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZeAjFTUIAEXJfj.jpg",
+					"url": "https://t.co/WvDdZkMEOm",
+					"display_url": "pic.twitter.com/WvDdZkMEOm",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1555853694750429184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555853536486760400,
+					"id_str": "1555853536486760449",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FZeAjFTUIAEXJfj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZeAjFTUIAEXJfj.jpg",
+					"url": "https://t.co/WvDdZkMEOm",
+					"display_url": "pic.twitter.com/WvDdZkMEOm",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1555853694750429184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555853585891528700,
+					"id_str": "1555853585891528705",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FZeAl9WVEAEyExB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZeAl9WVEAEyExB.jpg",
+					"url": "https://t.co/WvDdZkMEOm",
+					"display_url": "pic.twitter.com/WvDdZkMEOm",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1555853694750429184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555853636168650800,
+					"id_str": "1555853636168650752",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FZeAo4pVEAAo6I2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZeAo4pVEAAo6I2.jpg",
+					"url": "https://t.co/WvDdZkMEOm",
+					"display_url": "pic.twitter.com/WvDdZkMEOm",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1555853694750429184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1555853664866029600,
+					"id_str": "1555853664866029570",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/FZeAqjjUUAIqxep.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZeAqjjUUAIqxep.jpg",
+					"url": "https://t.co/WvDdZkMEOm",
+					"display_url": "pic.twitter.com/WvDdZkMEOm",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1555853694750429184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130842,
+			"friends_count": 2,
+			"listed_count": 415,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3582,
+		"favorite_count": 6478,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "어맛❗️\n이 '소녀'는 어느 \n'시대'에 살고 있는 소녀일까요❓️💜\n\n이 궁금증을 풀고 싶다면\n잠시 후 7:30PM\n놀라운 토요일에서 확인해 볼까요?\n👒\n\n#태연 #TAEYEON\n#놀라운토요일 #AmazingSaturday https://t.co/WvDdZkMEOm"
+	},
+	{
 		"created_at": "Sat Aug 06 09:07:11 +0000 2022",
 		"id": 1555842319206690800,
 		"id_str": "1555842913367724033",
