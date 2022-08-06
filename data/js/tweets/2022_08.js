@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 03:07:36 +0000 2022",
+		"id": 1555750515413340200,
+		"id_str": "1555752422584201216",
+		"full_text": "UNIVERSAL MUSIC STOREにて、『FOREVER 1』を限定特典付きで9/2(金)に発売することが決定💗\n日本初の「VIDEO CALL EVENT（オンライントーク会）」が抽選で当たる特典もご用意しているのでぜひチェックしてください✔️\n#少女時代 #GirlsGeneration #소녀시대 #FOREVER1 \n\n🔗https://t.co/GTMmf7zC0o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						134,
+						150
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						151,
+						156
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						157,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GTMmf7zC0o",
+					"expanded_url": "https://girls-generation.jp/news/3972",
+					"display_url": "girls-generation.jp/news/3972",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 117932,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 326,
+		"favorite_count": 491,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "UNIVERSAL MUSIC STOREにて、『FOREVER 1』を限定特典付きで9/2(金)に発売することが決定💗\n日本初の「VIDEO CALL EVENT（オンライントーク会）」が抽選で当たる特典もご用意しているのでぜひチェックしてください✔️\n#少女時代 #GirlsGeneration #소녀시대 #FOREVER1 \n\n🔗https://t.co/GTMmf7zC0o"
+	},
+	{
 		"created_at": "Fri Aug 05 15:44:57 +0000 2022",
 		"id": 1555569444885106700,
 		"id_str": "1555580627197591553",
