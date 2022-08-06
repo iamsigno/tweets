@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 09:07:11 +0000 2022",
+		"id": 1555842319206690800,
+		"id_str": "1555842913367724033",
+		"full_text": "#SHINDONGYEOB, #TAEYEON, #SUNNY &amp; #KEY at #AmazingSaturday✌️📸 \n\nComing soon today at 7:30PM KST!\n\n#신동엽 #태연 #써니 #키 #GirlsGeneration #소녀시대 @GirlsGeneration\n#SHINee #샤이니 @SHINee\n#놀라운토요일 https://t.co/hA9HSMoX86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SHINDONGYEOB",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"text": "SUNNY",
+					"indices": [
+						25,
+						31
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						38,
+						42
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						46,
+						62
+					]
+				},
+				{
+					"text": "신동엽",
+					"indices": [
+						102,
+						106
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						107,
+						110
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						115,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						158,
+						165
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						166,
+						170
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						179,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555841784680370200,
+					"id_str": "1555841784680370176",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"url": "https://t.co/hA9HSMoX86",
+					"display_url": "pic.twitter.com/hA9HSMoX86",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555842319206690816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555841784680370200,
+					"id_str": "1555841784680370176",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZd13CaVUAAsFNr.jpg",
+					"url": "https://t.co/hA9HSMoX86",
+					"display_url": "pic.twitter.com/hA9HSMoX86",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1555842319206690816/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11067933,
+			"friends_count": 56,
+			"listed_count": 12499,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12617,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 599,
+		"favorite_count": 1125,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SHINDONGYEOB, #TAEYEON, #SUNNY &amp; #KEY at #AmazingSaturday✌️📸 \n\nComing soon today at 7:30PM KST!\n\n#신동엽 #태연 #써니 #키 #GirlsGeneration #소녀시대 @GirlsGeneration\n#SHINee #샤이니 @SHINee\n#놀라운토요일 https://t.co/hA9HSMoX86"
+	},
+	{
 		"created_at": "Sat Aug 06 07:07:09 +0000 2022",
 		"id": 1555800935015653400,
 		"id_str": "1555812705411469313",
