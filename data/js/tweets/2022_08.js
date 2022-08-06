@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 06 07:07:09 +0000 2022",
+		"id": 1555800935015653400,
+		"id_str": "1555812705411469313",
+		"full_text": "กรี๊ด!!! โซชิที่เราคิดถึง 💕 ปักหมุดรอเลย พบกับสัมภาษณ์พิเศษ #GirlsGeneration  ส่งตรงถึงโซวอนไทย อ้อนขนาดนี้เอาใจแอดดี้ไปเลยค่ะ 🥰 ใน #เที่ยงบันเทิงสด จันทร์ที่ 8 ส.ค. นี้ เวลา 12.05 น. #คิดถึงโซวอนไทยมากๆ #소녀시대\n#FOREVER1 #GG4EVA\n#SMTrue @SMTrueThailand #Ch7HDEntertainment https://t.co/m3CYK7YNH0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"text": "เที่ยงบันเทิงสด",
+					"indices": [
+						132,
+						148
+					]
+				},
+				{
+					"text": "คิดถึงโซวอนไทยมากๆ",
+					"indices": [
+						184,
+						203
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						204,
+						209
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						210,
+						219
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						220,
+						227
+					]
+				},
+				{
+					"text": "SMTrue",
+					"indices": [
+						228,
+						235
+					]
+				},
+				{
+					"text": "Ch7HDEntertainment",
+					"indices": [
+						252,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTrueThailand",
+					"name": "SM True",
+					"id": 1093456514700828700,
+					"id_str": "1093456514700828672",
+					"indices": [
+						236,
+						251
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1555800929261080600,
+					"id_str": "1555800929261080576",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FZdQs8HUUAAzS9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZdQs8HUUAAzS9A.jpg",
+					"url": "https://t.co/m3CYK7YNH0",
+					"display_url": "pic.twitter.com/m3CYK7YNH0",
+					"expanded_url": "https://twitter.com/Ch7HDEntertain/status/1555800935015653376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1915,
+							"h": 1077,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1555800929261080600,
+					"id_str": "1555800929261080576",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/FZdQs8HUUAAzS9A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZdQs8HUUAAzS9A.jpg",
+					"url": "https://t.co/m3CYK7YNH0",
+					"display_url": "pic.twitter.com/m3CYK7YNH0",
+					"expanded_url": "https://twitter.com/Ch7HDEntertain/status/1555800935015653376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1915,
+							"h": 1077,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154740428,
+			"id_str": "154740428",
+			"name": "Ch7HD Entertainment",
+			"screen_name": "Ch7HDEntertain",
+			"location": "",
+			"description": "ติดตามความบันเทิงครบรส และหลายหลายรายการสุดสนุกของช่อง 7HD 📱Fanpage/IG : Ch7HD Entertainment #Ch7HDEntertainment",
+			"url": "https://t.co/Sth7B9Kc7I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sth7B9Kc7I",
+							"expanded_url": "http://shows.ch7.com",
+							"display_url": "shows.ch7.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44557,
+			"friends_count": 93,
+			"listed_count": 61,
+			"created_at": "Sat Jun 12 02:31:47 +0000 2010",
+			"favourites_count": 851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18123,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007585952405942273/J_KbNIM-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007585952405942273/J_KbNIM-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154740428/1529062183",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 522,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "กรี๊ด!!! โซชิที่เราคิดถึง 💕 ปักหมุดรอเลย พบกับสัมภาษณ์พิเศษ #GirlsGeneration  ส่งตรงถึงโซวอนไทย อ้อนขนาดนี้เอาใจแอดดี้ไปเลยค่ะ 🥰 ใน #เที่ยงบันเทิงสด จันทร์ที่ 8 ส.ค. นี้ เวลา 12.05 น. #คิดถึงโซวอนไทยมากๆ #소녀시대\n#FOREVER1 #GG4EVA\n#SMTrue @SMTrueThailand #Ch7HDEntertainment https://t.co/m3CYK7YNH0"
+	},
+	{
 		"created_at": "Sat Aug 06 03:45:06 +0000 2022",
 		"id": 1555761209302913000,
 		"id_str": "1555761858400976898",
