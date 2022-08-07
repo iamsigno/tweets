@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 09:07:18 +0000 2022",
+		"id": 1556203684127592400,
+		"id_str": "1556205330425577472",
+		"full_text": "[GIRLS’ GENERATION 15th Anniversary]💕\n\n영원한 S♡NE의 청춘, \n소녀시대 데뷔 15주년 기념 MD는 오늘까지만!!\n놓치지 말고 지금 바로 SMTOWN &amp;STORE 온라인에서 만나보세요!\n\n🔹판매기간: 2022. 08. 05 (FRI) 15:00 ~ 2022. 08. 07 (SUN) 23:59 (KST)\nhttps://t.co/zPuGyFJfiT https://t.co/7W6YfBh8LZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zPuGyFJfiT",
+					"expanded_url": "https://bit.ly/3vH3fCa",
+					"display_url": "bit.ly/3vH3fCa",
+					"indices": [
+						192,
+						215
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556203679661047800,
+					"id_str": "1556203679661047813",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FZi_AGRaQAUR_uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZi_AGRaQAUR_uw.jpg",
+					"url": "https://t.co/7W6YfBh8LZ",
+					"display_url": "pic.twitter.com/7W6YfBh8LZ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1556203684127592448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556203679661047800,
+					"id_str": "1556203679661047813",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FZi_AGRaQAUR_uw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZi_AGRaQAUR_uw.jpg",
+					"url": "https://t.co/7W6YfBh8LZ",
+					"display_url": "pic.twitter.com/7W6YfBh8LZ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1556203684127592448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556203679463899100,
+					"id_str": "1556203679463899137",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FZi_AFiaAAEoLRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZi_AFiaAAEoLRb.jpg",
+					"url": "https://t.co/7W6YfBh8LZ",
+					"display_url": "pic.twitter.com/7W6YfBh8LZ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1556203684127592448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2047,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1199,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1556203679480709000,
+					"id_str": "1556203679480709121",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FZi_AFmagAE-bNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZi_AFmagAE-bNV.jpg",
+					"url": "https://t.co/7W6YfBh8LZ",
+					"display_url": "pic.twitter.com/7W6YfBh8LZ",
+					"expanded_url": "https://twitter.com/SMTOWNandSTORE/status/1556203684127592448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1556203676166865000,
+		"in_reply_to_status_id_str": "1556203676166864896",
+		"in_reply_to_user_id": 1113723889245278200,
+		"in_reply_to_user_id_str": "1113723889245278209",
+		"in_reply_to_screen_name": "SMTOWNandSTORE",
+		"user": {
+			"id": 1113723889245278200,
+			"id_str": "1113723889245278209",
+			"name": "SMTOWN &STORE",
+			"screen_name": "SMTOWNandSTORE",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/Ee3t6o418Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ee3t6o418Q",
+							"expanded_url": "http://www.SMTOWNandSTORE.com",
+							"display_url": "SMTOWNandSTORE.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 249043,
+			"friends_count": 0,
+			"listed_count": 406,
+			"created_at": "Thu Apr 04 08:44:01 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113741967370797057/sjT8judc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113723889245278209/1554705745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[GIRLS’ GENERATION 15th Anniversary]💕\n\n영원한 S♡NE의 청춘, \n소녀시대 데뷔 15주년 기념 MD는 오늘까지만!!\n놓치지 말고 지금 바로 SMTOWN &amp;STORE 온라인에서 만나보세요!\n\n🔹판매기간: 2022. 08. 05 (FRI) 15:00 ~ 2022. 08. 07 (SUN) 23:59 (KST)\nhttps://t.co/zPuGyFJfiT https://t.co/7W6YfBh8LZ"
+	},
+	{
 		"created_at": "Sun Aug 07 08:07:17 +0000 2022",
 		"id": 1556188628631847000,
 		"id_str": "1556190227588423682",
