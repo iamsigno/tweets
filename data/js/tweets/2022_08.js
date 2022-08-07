@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 04:07:09 +0000 2022",
+		"id": 1556125307303653400,
+		"id_str": "1556129794898665474",
+		"full_text": "LIM YOONA’s first noir challenge is a success with 'The Big Mouth' breaking its own highest ratings in the latest episode! LIM YOONA showcases an excellent character digestion of confident and bold 고미호!\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/VFju3ZLiI1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						209,
+						218
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						219,
+						224
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						225,
+						237
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						238,
+						243
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						244,
+						260
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556125299816902700,
+					"id_str": "1556125299816902656",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FZh3tymVsAAzRYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZh3tymVsAAzRYv.jpg",
+					"url": "https://t.co/VFju3ZLiI1",
+					"display_url": "pic.twitter.com/VFju3ZLiI1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556125307303653376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 431,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556125299816902700,
+					"id_str": "1556125299816902656",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/FZh3tymVsAAzRYv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZh3tymVsAAzRYv.jpg",
+					"url": "https://t.co/VFju3ZLiI1",
+					"display_url": "pic.twitter.com/VFju3ZLiI1",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1556125307303653376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 431,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11069439,
+			"friends_count": 56,
+			"listed_count": 12500,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 574,
+		"favorite_count": 1797,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIM YOONA’s first noir challenge is a success with 'The Big Mouth' breaking its own highest ratings in the latest episode! LIM YOONA showcases an excellent character digestion of confident and bold 고미호!\n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/VFju3ZLiI1"
+	},
+	{
 		"created_at": "Sun Aug 07 02:07:09 +0000 2022",
 		"id": 1556092045881577500,
 		"id_str": "1556099595528458240",
