@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 06:44:57 +0000 2022",
+		"id": 1556167478408986600,
+		"id_str": "1556169507802054656",
+		"full_text": "👧🏖🌴🌊\n\n#GirlsGeneration #소녀시대\n#놀라운토요일 #AmazingSaturday \n#FOREVER1 https://t.co/mhJ16mu0JT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "놀라운토요일",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "AmazingSaturday",
+					"indices": [
+						37,
+						53
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						55,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1556167296774598700,
+					"id_str": "1556167296774598656",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FZid6VdUcAAOrCd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZid6VdUcAAOrCd.jpg",
+					"url": "https://t.co/mhJ16mu0JT",
+					"display_url": "pic.twitter.com/mhJ16mu0JT",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1556167478408986624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556167296774598700,
+					"id_str": "1556167296774598656",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/FZid6VdUcAAOrCd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZid6VdUcAAOrCd.jpg",
+					"url": "https://t.co/mhJ16mu0JT",
+					"display_url": "pic.twitter.com/mhJ16mu0JT",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1556167478408986624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3862183,
+			"friends_count": 5,
+			"listed_count": 6113,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6193,
+		"favorite_count": 12279,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👧🏖🌴🌊\n\n#GirlsGeneration #소녀시대\n#놀라운토요일 #AmazingSaturday \n#FOREVER1 https://t.co/mhJ16mu0JT"
+	},
+	{
 		"created_at": "Sun Aug 07 04:07:09 +0000 2022",
 		"id": 1556125307303653400,
 		"id_str": "1556129794898665474",
