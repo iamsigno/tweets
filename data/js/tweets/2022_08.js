@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 03:07:09 +0000 2022",
+		"id": 1556474381601472500,
+		"id_str": "1556477084595376130",
+		"full_text": "#MBC표준FM #아이돌스테이션 #소시노래추천\n\n데뷔 15주년 그리고 컴백을 기념하며\n#소녀시대특집 #소녀시대노래몰아듣기\n\n8월 12일 금요일 새벽 2시에\n함께 들으면 좋을 소시 노래 추천해주세요!\nhttps://t.co/O5uNTGE7ot\n\n#소녀시대 #SNSD #FOREVER1 https://t.co/BH6s2DrPVN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MBC표준FM",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "아이돌스테이션",
+					"indices": [
+						9,
+						17
+					]
+				},
+				{
+					"text": "소시노래추천",
+					"indices": [
+						18,
+						25
+					]
+				},
+				{
+					"text": "소녀시대특집",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "소녀시대노래몰아듣기",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						136,
+						141
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						148,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O5uNTGE7ot",
+					"expanded_url": "https://www.instagram.com/p/Cg8tD59l7XX/?utm_source=ig_web_copy_link",
+					"display_url": "instagram.com/p/Cg8tD59l7XX/…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556474327125880800,
+					"id_str": "1556474327125880832",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"url": "https://t.co/BH6s2DrPVN",
+					"display_url": "pic.twitter.com/BH6s2DrPVN",
+					"expanded_url": "https://twitter.com/radiombc/status/1556474381601472514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556474327125880800,
+					"id_str": "1556474327125880832",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZm1J2pacAA3Hsq.jpg",
+					"url": "https://t.co/BH6s2DrPVN",
+					"display_url": "pic.twitter.com/BH6s2DrPVN",
+					"expanded_url": "https://twitter.com/radiombc/status/1556474381601472514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145925496,
+			"id_str": "145925496",
+			"name": "MBC RADIO 봉춘라디오",
+			"screen_name": "radiombc",
+			"location": "MBC RADIO",
+			"description": "MBC RADIO Official #MBCRADIO #봉춘라디오\nK-pop just beside you",
+			"url": "https://t.co/2wJXwJ7Js1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2wJXwJ7Js1",
+							"expanded_url": "https://www.youtube.com/c/MBCRadio_BONGCHUN",
+							"display_url": "youtube.com/c/MBCRadio_BON…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80822,
+			"friends_count": 43,
+			"listed_count": 602,
+			"created_at": "Thu May 20 06:02:35 +0000 2010",
+			"favourites_count": 12,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524982425587429377/6BseJcmt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145925496/1596436707",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#MBC표준FM #아이돌스테이션 #소시노래추천\n\n데뷔 15주년 그리고 컴백을 기념하며\n#소녀시대특집 #소녀시대노래몰아듣기\n\n8월 12일 금요일 새벽 2시에\n함께 들으면 좋을 소시 노래 추천해주세요!\nhttps://t.co/O5uNTGE7ot\n\n#소녀시대 #SNSD #FOREVER1 https://t.co/BH6s2DrPVN"
+	},
+	{
 		"created_at": "Mon Aug 08 02:07:22 +0000 2022",
 		"id": 1556461039838933000,
 		"id_str": "1556462038767075330",
