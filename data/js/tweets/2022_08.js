@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 07:07:21 +0000 2022",
+		"id": 1556526636119470000,
+		"id_str": "1556537531608473603",
+		"full_text": "#GirlsGeneration คัมแบคในรอบ 5 ปี มาพร้อมผลงานใหม่ #FOREVER1 ติดตามสัมภาษณ์พิเศษแบบเต็มๆ ใน   https://t.co/CGQw2utiXu นะคะ 💕😍 #GirlsGeneration #소녀시대\n#GG4EVA\n#SMTrue @SMTrueThailand #Ch7HDEntertainment https://t.co/jD31nRumf7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						126,
+						142
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						143,
+						148
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"text": "SMTrue",
+					"indices": [
+						157,
+						164
+					]
+				},
+				{
+					"text": "Ch7HDEntertainment",
+					"indices": [
+						181,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SMTrueThailand",
+					"name": "SM True",
+					"id": 1093456514700828700,
+					"id_str": "1093456514700828672",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CGQw2utiXu",
+					"expanded_url": "https://fb.watch/eMo_aChysy/",
+					"display_url": "fb.watch/eMo_aChysy/",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556526627818901500,
+					"id_str": "1556526627818901504",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnkuJ6VEAAWVAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnkuJ6VEAAWVAT.jpg",
+					"url": "https://t.co/jD31nRumf7",
+					"display_url": "pic.twitter.com/jD31nRumf7",
+					"expanded_url": "https://twitter.com/Ch7HDEntertain/status/1556526636119470080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1911,
+							"h": 1069,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556526627818901500,
+					"id_str": "1556526627818901504",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FZnkuJ6VEAAWVAT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZnkuJ6VEAAWVAT.jpg",
+					"url": "https://t.co/jD31nRumf7",
+					"display_url": "pic.twitter.com/jD31nRumf7",
+					"expanded_url": "https://twitter.com/Ch7HDEntertain/status/1556526636119470080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1911,
+							"h": 1069,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154740428,
+			"id_str": "154740428",
+			"name": "Ch7HD Entertainment",
+			"screen_name": "Ch7HDEntertain",
+			"location": "",
+			"description": "ติดตามความบันเทิงครบรส และหลายหลายรายการสุดสนุกของช่อง 7HD 📱Fanpage/IG : Ch7HD Entertainment #Ch7HDEntertainment",
+			"url": "https://t.co/Sth7B9Kc7I",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sth7B9Kc7I",
+							"expanded_url": "http://shows.ch7.com",
+							"display_url": "shows.ch7.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44570,
+			"friends_count": 93,
+			"listed_count": 61,
+			"created_at": "Sat Jun 12 02:31:47 +0000 2010",
+			"favourites_count": 853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007585952405942273/J_KbNIM-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007585952405942273/J_KbNIM-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154740428/1529062183",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 386,
+		"favorite_count": 270,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "#GirlsGeneration คัมแบคในรอบ 5 ปี มาพร้อมผลงานใหม่ #FOREVER1 ติดตามสัมภาษณ์พิเศษแบบเต็มๆ ใน   https://t.co/CGQw2utiXu นะคะ 💕😍 #GirlsGeneration #소녀시대\n#GG4EVA\n#SMTrue @SMTrueThailand #Ch7HDEntertainment https://t.co/jD31nRumf7"
+	},
+	{
 		"created_at": "Mon Aug 08 06:07:14 +0000 2022",
 		"id": 1556522319115260000,
 		"id_str": "1556522404897325056",
