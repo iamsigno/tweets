@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 08 11:07:09 +0000 2022",
+		"id": 1556596081361727500,
+		"id_str": "1556597878293794818",
+		"full_text": "[주간아.zip] 소원을~말해봐~Gee gee♬ 4세대 아이돌이 커버하는 레전드 소녀시대 커버 댄스 모음.ZIP\n\n소원을~말해봐~Gee gee♬\n레전드 소녀시대 커버 댄스 모아보기♥ \n📽️https://t.co/fJEc9WDsi4\n\n#주간아 #소녀시대 #SNSD #소녀시대커버댄스 https://t.co/3gWXHCoXqf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "주간아",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						141,
+						146
+					]
+				},
+				{
+					"text": "소녀시대커버댄스",
+					"indices": [
+						147,
+						156
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fJEc9WDsi4",
+					"expanded_url": "https://youtu.be/vrHtTI7CR0s",
+					"display_url": "youtu.be/vrHtTI7CR0s",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1556551864065597400,
+					"id_str": "1556551864065597440",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"url": "https://t.co/3gWXHCoXqf",
+					"display_url": "pic.twitter.com/3gWXHCoXqf",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556596081361727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1556551864065597400,
+					"id_str": "1556551864065597440",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZn7rGQaIAAS453.jpg",
+					"url": "https://t.co/3gWXHCoXqf",
+					"display_url": "pic.twitter.com/3gWXHCoXqf",
+					"expanded_url": "https://twitter.com/ALLTHEKPOP/status/1556596081361727488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 744928926,
+			"id_str": "744928926",
+			"name": "ALL THE K-POP 올더케이팝",
+			"screen_name": "ALLTHEKPOP",
+			"location": "",
+			"description": "✨ALL about K-POP, ALL THE K-POP✨\n\n🎶 24/7 K-POP LIVE STREAMING\n\n💕 POPPIN' WEDNESDAY\n      📌 SHOW CHAMPION, 6PM KST\n      📌 WEEKLY IDOL, 7:30PM KST",
+			"url": "https://t.co/0kbjbCEhaR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0kbjbCEhaR",
+							"expanded_url": "http://www.youtube.com/allthekpop",
+							"display_url": "youtube.com/allthekpop",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 129039,
+			"friends_count": 347,
+			"listed_count": 402,
+			"created_at": "Wed Aug 08 10:28:32 +0000 2012",
+			"favourites_count": 7842,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035092488409632769/sDzylGOZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/744928926/1659919168",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[주간아.zip] 소원을~말해봐~Gee gee♬ 4세대 아이돌이 커버하는 레전드 소녀시대 커버 댄스 모음.ZIP\n\n소원을~말해봐~Gee gee♬\n레전드 소녀시대 커버 댄스 모아보기♥ \n📽️https://t.co/fJEc9WDsi4\n\n#주간아 #소녀시대 #SNSD #소녀시대커버댄스 https://t.co/3gWXHCoXqf"
+	},
+	{
 		"created_at": "Mon Aug 08 09:07:17 +0000 2022",
 		"id": 1556567535587184600,
 		"id_str": "1556567715913015296",
