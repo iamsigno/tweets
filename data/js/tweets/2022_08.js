@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 04:07:09 +0000 2022",
+		"id": 1556689064690073600,
+		"id_str": "1556854571246436352",
+		"full_text": ".@GirlsGeneration talk about their reunion after five years in a new Q&amp;A. \n\n\"Before, I approached everything as a job,\" says Taeyeon. \"But this time, it's just fun to get together.\" https://t.co/CGPtw2gW0D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						1,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CGPtw2gW0D",
+					"expanded_url": "https://rol.st/3Qq6vK6",
+					"display_url": "rol.st/3Qq6vK6",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14780915,
+			"id_str": "14780915",
+			"name": "Rolling Stone",
+			"screen_name": "RollingStone",
+			"location": "New York, New York",
+			"description": "The latest news and more from Rolling Stone magazine and https://t.co/yJnSOtbi68. Got a tip? Share it here: https://t.co/4pKrTBMI3A",
+			"url": "https://t.co/HPZh9kIhYX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HPZh9kIhYX",
+							"expanded_url": "http://www.rollingstone.com",
+							"display_url": "rollingstone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yJnSOtbi68",
+							"expanded_url": "http://RollingStone.com",
+							"display_url": "RollingStone.com",
+							"indices": [
+								57,
+								80
+							]
+						},
+						{
+							"url": "https://t.co/4pKrTBMI3A",
+							"expanded_url": "http://rol.st/tips",
+							"display_url": "rol.st/tips",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6405380,
+			"friends_count": 459,
+			"listed_count": 35627,
+			"created_at": "Thu May 15 02:52:27 +0000 2008",
+			"favourites_count": 596,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 174818,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "0B0B0E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370123166316691468/qGl0Vuhf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14780915/1655298002",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3342,
+		"favorite_count": 6303,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@GirlsGeneration talk about their reunion after five years in a new Q&amp;A. \n\n\"Before, I approached everything as a job,\" says Taeyeon. \"But this time, it's just fun to get together.\" https://t.co/CGPtw2gW0D"
+	},
+	{
 		"created_at": "Tue Aug 09 03:07:18 +0000 2022",
 		"id": 1556826192183193600,
 		"id_str": "1556839509702197249",
