@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 08:07:15 +0000 2022",
+		"id": 1556914423561760800,
+		"id_str": "1556914995702759424",
+		"full_text": "🌴우리는 영원 🏖 We are one☝🏻 with KEY 🦊 \n\nhttps://t.co/cvo9le6mss\n\n#TAEYEON #태연  \n#HYOYEON #효연 \n#KEY #키 \n#GirlsGeneration #소녀시대\n#SHINee #샤이니 @SHINee\n#FOREVER1 #FOREVER1challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						95,
+						97
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						99,
+						115
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						122,
+						129
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						153,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SHINee",
+					"name": "SHINee",
+					"id": 887973863824306200,
+					"id_str": "887973863824306176",
+					"indices": [
+						135,
+						142
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cvo9le6mss",
+					"expanded_url": "https://vt.tiktok.com/ZSRMcjpKT/?k=1",
+					"display_url": "vt.tiktok.com/ZSRMcjpKT/?k=1",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3866999,
+			"friends_count": 5,
+			"listed_count": 6123,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1138,
+		"favorite_count": 1442,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🌴우리는 영원 🏖 We are one☝🏻 with KEY 🦊 \n\nhttps://t.co/cvo9le6mss\n\n#TAEYEON #태연  \n#HYOYEON #효연 \n#KEY #키 \n#GirlsGeneration #소녀시대\n#SHINee #샤이니 @SHINee\n#FOREVER1 #FOREVER1challenge"
+	},
+	{
 		"created_at": "Tue Aug 09 04:07:09 +0000 2022",
 		"id": 1556689064690073600,
 		"id_str": "1556854571246436352",
