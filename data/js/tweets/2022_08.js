@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 01:07:09 +0000 2022",
+		"id": 1557532266385264600,
+		"id_str": "1557534047785684993",
+		"full_text": "우즈(WOODZ)의 청량 보이스와\n딱 맞는 찰떡 선곡 'Weekend'🌊💖\n\n[비긴어게인] 구독하기 ▶️ https://t.co/FM21vxEjy8\n\n#비긴어게인 #오픈마이크 #Beginagain\n#우즈 #WOODZ #Weekend #태연 https://t.co/24aMnER29D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "비긴어게인",
+					"indices": [
+						84,
+						90
+					]
+				},
+				{
+					"text": "오픈마이크",
+					"indices": [
+						91,
+						97
+					]
+				},
+				{
+					"text": "Beginagain",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"text": "우즈",
+					"indices": [
+						110,
+						113
+					]
+				},
+				{
+					"text": "WOODZ",
+					"indices": [
+						114,
+						120
+					]
+				},
+				{
+					"text": "Weekend",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						130,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FM21vxEjy8",
+					"expanded_url": "https://bit.ly/35Uzq4q",
+					"display_url": "bit.ly/35Uzq4q",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1557530350431371300,
+					"id_str": "1557530350431371264",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ12xJcaIAE0H1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ12xJcaIAE0H1f.jpg",
+					"url": "https://t.co/24aMnER29D",
+					"display_url": "pic.twitter.com/24aMnER29D",
+					"expanded_url": "https://twitter.com/jtbclove/status/1557532266385264640/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557530350431371300,
+					"id_str": "1557530350431371264",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ12xJcaIAE0H1f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ12xJcaIAE0H1f.jpg",
+					"url": "https://t.co/24aMnER29D",
+					"display_url": "pic.twitter.com/24aMnER29D",
+					"expanded_url": "https://twitter.com/jtbclove/status/1557532266385264640/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 295194,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557530350431371264/vid/640x360/lBfacA_HcGzqhUHb.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557530350431371264/vid/480x270/P53IVr2VBjCBZlzy.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557530350431371264/vid/1280x720/tRo7eW0VSG6_9L_d.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1557530350431371264/pl/U_vH9efHF_AFuyGY.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[비긴어게인 오픈마이크] 우즈(WOODZ)의 청량 보이스와 딱 맞는 찰떡 선곡 'Weekend'♬ ",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/iVDsOp0UU3I"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472734,
+			"friends_count": 108,
+			"listed_count": 820,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1659577702",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "우즈(WOODZ)의 청량 보이스와\n딱 맞는 찰떡 선곡 'Weekend'🌊💖\n\n[비긴어게인] 구독하기 ▶️ https://t.co/FM21vxEjy8\n\n#비긴어게인 #오픈마이크 #Beginagain\n#우즈 #WOODZ #Weekend #태연 https://t.co/24aMnER29D"
+	},
+	{
 		"created_at": "Wed Aug 10 14:07:09 +0000 2022",
 		"id": 1557366678790344700,
 		"id_str": "1557367953804361730",
