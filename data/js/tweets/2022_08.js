@@ -1,10 +1,146 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 04:44:57 +0000 2022",
+		"id": 1557582828640280600,
+		"id_str": "1557588859088683010",
+		"full_text": "이번 주 토요일 저녁 8시 50분 소녀시대 x 아는형님\nGirls' Generation coming to 'Knowing Bros' this Saturday at 8:50PM KST!\n\n【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\nhttps://t.co/unBOTLzuDE\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#아는형님",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						182,
+						198
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						206,
+						215
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						216,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/unBOTLzuDE",
+					"expanded_url": "https://youtu.be/qfszP-fV1RY",
+					"display_url": "youtu.be/qfszP-fV1RY",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3869473,
+			"friends_count": 5,
+			"listed_count": 6127,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2119,
+		"favorite_count": 3830,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이번 주 토요일 저녁 8시 50분 소녀시대 x 아는형님\nGirls' Generation coming to 'Knowing Bros' this Saturday at 8:50PM KST!\n\n【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\nhttps://t.co/unBOTLzuDE\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#아는형님"
+	},
+	{
 		"created_at": "Thu Aug 11 03:07:09 +0000 2022",
 		"id": 1557560630734831600,
 		"id_str": "1557564246451519493",
-		"full_text": "[#VIDEO] 【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\n▶ https://t.co/u7AChqbTdi\n\n#서현 #아는형님 #SEOHYUN",
+		"full_text": "[#VIDEO] 【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯♀ 이건 봐야지..💕\n▶ https://t.co/u7AChqbTdi\n\n#서현 #아는형님 #SEOHYUN",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -133,7 +269,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[#VIDEO] 【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\n▶ https://t.co/u7AChqbTdi\n\n#서현 #아는형님 #SEOHYUN"
+		"text": "[#VIDEO] 【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯♀ 이건 봐야지..💕\n▶ https://t.co/u7AChqbTdi\n\n#서현 #아는형님 #SEOHYUN"
 	},
 	{
 		"created_at": "Thu Aug 11 02:07:09 +0000 2022",
