@@ -1,10 +1,499 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 11 09:07:24 +0000 2022",
+		"id": 1557647481290121200,
+		"id_str": "1557654907334819841",
+		"full_text": "지창욱, 호스피스 병원 입성?\n\n어른아이 윤겨레의 마음을\n팀지니가 녹일 수 있을까요🌟\n\n힐링드라마 #당신이소원을말하면\n매주 [수목] 밤 9시 50분 KBS 2TV 방송\n\n#kbs드라마 #당신이소원을말하면 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/s1kT81KuJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						95,
+						102
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						114,
+						130
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						141,
+						145
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						146,
+						150
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						151,
+						160
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557647462466105300,
+					"id_str": "1557647462466105344",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1522,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557647462466105300,
+					"id_str": "1557647462466105344",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUWUsAAnfql.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1522,
+							"h": 1142,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557647462487101400,
+					"id_str": "1557647462487101441",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUbVEAEIyg0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUbVEAEIyg0.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557647462487076900,
+					"id_str": "1557647462487076864",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHUbUsAAn4v5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHUbUsAAn4v5.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1557647462617141200,
+					"id_str": "1557647462617141248",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ3gHU6VUAABciB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ3gHU6VUAABciB.jpg",
+					"url": "https://t.co/s1kT81KuJG",
+					"display_url": "pic.twitter.com/s1kT81KuJG",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1557647481290121217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1537,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105562,
+			"friends_count": 56710,
+			"listed_count": 2125,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1660026706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지창욱, 호스피스 병원 입성?\n\n어른아이 윤겨레의 마음을\n팀지니가 녹일 수 있을까요🌟\n\n힐링드라마 #당신이소원을말하면\n매주 [수목] 밤 9시 50분 KBS 2TV 방송\n\n#kbs드라마 #당신이소원을말하면 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama https://t.co/s1kT81KuJG"
+	},
+	{
+		"created_at": "Thu Aug 11 09:07:15 +0000 2022",
+		"id": 1557643262386933800,
+		"id_str": "1557654868533329921",
+		"full_text": "[#VIDEO] (ENG)재재 드디어 소녀시대 완전체 만나서 고삐 풀린 망아지가 되었다는 소식 전해드립니다 이번 편 존잼각(존경스럽게 재밌다는 뜻) / [문명특급 EP.259]\n▶ https://t.co/uw5LN5At6t\n\n#서현 #문명특급 #SEOHYUN #Mmtg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "문명특급",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						136,
+						144
+					]
+				},
+				{
+					"text": "Mmtg",
+					"indices": [
+						145,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uw5LN5At6t",
+					"expanded_url": "https://youtu.be/z-qbxW2SP5Y",
+					"display_url": "youtu.be/z-qbxW2SP5Y",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63669,
+			"friends_count": 12,
+			"listed_count": 280,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16201,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 167,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] (ENG)재재 드디어 소녀시대 완전체 만나서 고삐 풀린 망아지가 되었다는 소식 전해드립니다 이번 편 존잼각(존경스럽게 재밌다는 뜻) / [문명특급 EP.259]\n▶ https://t.co/uw5LN5At6t\n\n#서현 #문명특급 #SEOHYUN #Mmtg"
+	},
+	{
 		"created_at": "Thu Aug 11 04:44:57 +0000 2022",
 		"id": 1557582828640280600,
 		"id_str": "1557588859088683010",
-		"full_text": "이번 주 토요일 저녁 8시 50분 소녀시대 x 아는형님\nGirls' Generation coming to 'Knowing Bros' this Saturday at 8:50PM KST!\n\n【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\nhttps://t.co/unBOTLzuDE\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#아는형님",
+		"full_text": "이번 주 토요일 저녁 8시 50분 소녀시대 x 아는형님\nGirls' Generation coming to 'Knowing Bros' this Saturday at 8:50PM KST!\n\n【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯♀ 이건 봐야지..💕\nhttps://t.co/unBOTLzuDE\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#아는형님",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -134,7 +623,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "이번 주 토요일 저녁 8시 50분 소녀시대 x 아는형님\nGirls' Generation coming to 'Knowing Bros' this Saturday at 8:50PM KST!\n\n【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕\nhttps://t.co/unBOTLzuDE\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#아는형님"
+		"text": "이번 주 토요일 저녁 8시 50분 소녀시대 x 아는형님\nGirls' Generation coming to 'Knowing Bros' this Saturday at 8:50PM KST!\n\n【형친소】 ep01 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯♀ 이건 봐야지..💕\nhttps://t.co/unBOTLzuDE\n\n#GirlsGeneration #소녀시대 \n#FOREVER1\n#아는형님"
 	},
 	{
 		"created_at": "Thu Aug 11 03:07:09 +0000 2022",
