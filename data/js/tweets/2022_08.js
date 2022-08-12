@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 12:07:09 +0000 2022",
+		"id": 1558057682887536600,
+		"id_str": "1558062530580430848",
+		"full_text": "🧳출장십오야2 X 소녀시대 EP 2💗\n 잠시 후 오늘 밤 10시 30분 \nComing soon tonight at 10:30 PM KST \n\n🧳예고ㅣ쿵하면 짝하는 15년 차 케미가 막아버린 퇴근 십오야..ㅣ🧳출장십오야2 X 소녀시대\nhttps://t.co/0d7cwjNDTz\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 #출장십오야",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						179,
+						188
+					]
+				},
+				{
+					"text": "출장십오야",
+					"indices": [
+						189,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0d7cwjNDTz",
+					"expanded_url": "https://youtu.be/Y0veZ8kPVmE",
+					"display_url": "youtu.be/Y0veZ8kPVmE",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3871420,
+			"friends_count": 5,
+			"listed_count": 6125,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1490,
+		"favorite_count": 2383,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🧳출장십오야2 X 소녀시대 EP 2💗\n 잠시 후 오늘 밤 10시 30분 \nComing soon tonight at 10:30 PM KST \n\n🧳예고ㅣ쿵하면 짝하는 15년 차 케미가 막아버린 퇴근 십오야..ㅣ🧳출장십오야2 X 소녀시대\nhttps://t.co/0d7cwjNDTz\n\n#GirlsGeneration #소녀시대 \n#FOREVER1 #출장십오야"
+	},
+	{
 		"created_at": "Fri Aug 12 09:07:11 +0000 2022",
 		"id": 1558016148377333800,
 		"id_str": "1558017241949536256",
