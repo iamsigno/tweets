@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 09:07:11 +0000 2022",
+		"id": 1558016148377333800,
+		"id_str": "1558017241949536256",
+		"full_text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」のグッズ販売が決定！\n\n8月16日(火)18:00よりSMTOWN OFFICIAL ONLINE STOREにて販売を行いますのでぜひチェックしてみてくださいね！\n\n▼詳細はこちら\nhttps://t.co/PQ3Fq3pysY\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/4NNNN2Pqe8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						154,
+						162
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						172,
+						184
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						185,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PQ3Fq3pysY",
+					"expanded_url": "https://smtown-official.jp/smtownlive_2022/",
+					"display_url": "smtown-official.jp/smtownlive_202…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1558016138520690700,
+					"id_str": "1558016138520690688",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"url": "https://t.co/4NNNN2Pqe8",
+					"display_url": "pic.twitter.com/4NNNN2Pqe8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1558016148377333760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 2009,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1558016138520690700,
+					"id_str": "1558016138520690688",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ8vbFraAAAJbgt.jpg",
+					"url": "https://t.co/4NNNN2Pqe8",
+					"display_url": "pic.twitter.com/4NNNN2Pqe8",
+					"expanded_url": "https://twitter.com/gg_official_jp/status/1558016148377333760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 535,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 303,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 895,
+							"h": 2009,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119677,
+			"friends_count": 0,
+			"listed_count": 0,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 154,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」のグッズ販売が決定！\n\n8月16日(火)18:00よりSMTOWN OFFICIAL ONLINE STOREにて販売を行いますのでぜひチェックしてみてくださいね！\n\n▼詳細はこちら\nhttps://t.co/PQ3Fq3pysY\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO https://t.co/4NNNN2Pqe8"
+	},
+	{
 		"created_at": "Fri Aug 12 07:07:09 +0000 2022",
 		"id": 1557985236595576800,
 		"id_str": "1557987032177205249",
@@ -135,7 +349,7 @@ Grailbird.data.tweets_2022_08 =
 						]
 					},
 					"additional_media_info": {
-						"title": "[아는 형님 - 형.친.소] 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕",
+						"title": "[아는 형님 - 형.친.소] 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯♀ 이건 봐야지..💕",
 						"description": "",
 						"call_to_actions": {
 							"visit_site": {
