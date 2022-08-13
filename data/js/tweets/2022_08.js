@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 13 06:07:09 +0000 2022",
+		"id": 1558332523607982000,
+		"id_str": "1558334320493748224",
+		"full_text": "소녀시대 15주년 기념.. 큰 거 온다..🔥\n#소녀시대 형님 학교 입성✨\n환상의 케미부터 대 환장 케미까지💗\n\n5년만에 돌아온 소녀시대가 만들어갈 이야기는?! \n▶️오늘 저녁 𝟴시 𝟱𝟬분 &lt;#아는형님&gt; 본방사수 👀 https://t.co/COpSJeKEXW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557936856792449000,
+					"id_str": "1557936856792449024",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7o-C6aQAAd-s6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7o-C6aQAAd-s6.jpg",
+					"url": "https://t.co/COpSJeKEXW",
+					"display_url": "pic.twitter.com/COpSJeKEXW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1558332523607982080/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557936856792449000,
+					"id_str": "1557936856792449024",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FZ7o-C6aQAAd-s6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZ7o-C6aQAAd-s6.jpg",
+					"url": "https://t.co/COpSJeKEXW",
+					"display_url": "pic.twitter.com/COpSJeKEXW",
+					"expanded_url": "https://twitter.com/jtbclove/status/1558332523607982080/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 104037,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557936856792449024/vid/1280x720/rtnbbQsYS-FgNL_h.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1557936856792449024/pl/6f5jihLTXp-_YVcT.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557936856792449024/vid/480x270/6NWXWpIRpXT77OHr.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1557936856792449024/vid/640x360/_kTv6Gn88OA91seH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[아는 형님] 345회 예고",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://youtu.be/KPfolYODyKU"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472748,
+			"friends_count": 108,
+			"listed_count": 822,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25144,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1659577702",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 15주년 기념.. 큰 거 온다..🔥\n#소녀시대 형님 학교 입성✨\n환상의 케미부터 대 환장 케미까지💗\n\n5년만에 돌아온 소녀시대가 만들어갈 이야기는?! \n▶️오늘 저녁 𝟴시 𝟱𝟬분 &lt;#아는형님&gt; 본방사수 👀 https://t.co/COpSJeKEXW"
+	},
+	{
 		"created_at": "Sat Aug 13 03:44:57 +0000 2022",
 		"id": 1558298326511935500,
 		"id_str": "1558298536181207040",
