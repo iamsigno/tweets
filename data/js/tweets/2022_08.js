@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 10:07:09 +0000 2022",
+		"id": 1559477171932233700,
+		"id_str": "1559481882529652738",
+		"full_text": "💗2022 Girls’ Generation Special Event : Long Lasting Love💗\n\n\"Long Lasting Love\" 에서 만나요 S♡NE ~\n\n📆 9/3 (SAT) 7PM KST\n\n#GirlsGeneration #소녀시대\n#Long_Lasting_Love #FANMEETING\n\n🎫 Ticket sales : 8/16 (TUE) 8PM KST~\n🔗 https://t.co/u9Lh0lmNrz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						116,
+						132
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						133,
+						138
+					]
+				},
+				{
+					"text": "Long_Lasting_Love",
+					"indices": [
+						139,
+						157
+					]
+				},
+				{
+					"text": "FANMEETING",
+					"indices": [
+						158,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/u9Lh0lmNrz",
+					"expanded_url": "https://ticket.yes24.com/Perf/43124",
+					"display_url": "ticket.yes24.com/Perf/43124",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3875610,
+			"friends_count": 5,
+			"listed_count": 6136,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1086,
+		"favorite_count": 2016,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💗2022 Girls’ Generation Special Event : Long Lasting Love💗\n\n\"Long Lasting Love\" 에서 만나요 S♡NE ~\n\n📆 9/3 (SAT) 7PM KST\n\n#GirlsGeneration #소녀시대\n#Long_Lasting_Love #FANMEETING\n\n🎫 Ticket sales : 8/16 (TUE) 8PM KST~\n🔗 https://t.co/u9Lh0lmNrz"
+	},
+	{
 		"created_at": "Tue Aug 16 08:07:09 +0000 2022",
 		"id": 1559449891667169300,
 		"id_str": "1559451684295802881",
