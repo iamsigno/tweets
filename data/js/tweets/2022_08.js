@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 01:07:11 +0000 2022",
+		"id": 1559345069655699500,
+		"id_str": "1559345998350221313",
+		"full_text": "The main poster of the Disney+ original variety show &lt;The Zone : Survival Mission&gt; starring KWONYURI has been released! \nThe show will be out on September 8th! \n\n#권유리 \n#소녀시대 #GirlsGeneration\n#더존버텨야산다 #TheZone_SurvivalMission \n#디즈니플러스 #DisneyPlus https://t.co/i18JKSQlCs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"text": "더존버텨야산다",
+					"indices": [
+						197,
+						205
+					]
+				},
+				{
+					"text": "TheZone_SurvivalMission",
+					"indices": [
+						206,
+						230
+					]
+				},
+				{
+					"text": "디즈니플러스",
+					"indices": [
+						232,
+						239
+					]
+				},
+				{
+					"text": "DisneyPlus",
+					"indices": [
+						240,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559345053448802300,
+					"id_str": "1559345053448802304",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FaPoEHkUEAADR0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaPoEHkUEAADR0v.jpg",
+					"url": "https://t.co/i18JKSQlCs",
+					"display_url": "pic.twitter.com/i18JKSQlCs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559345069655699456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559345053448802300,
+					"id_str": "1559345053448802304",
+					"indices": [
+						252,
+						275
+					],
+					"media_url": "http://pbs.twimg.com/media/FaPoEHkUEAADR0v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaPoEHkUEAADR0v.jpg",
+					"url": "https://t.co/i18JKSQlCs",
+					"display_url": "pic.twitter.com/i18JKSQlCs",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1559345069655699456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11086228,
+			"friends_count": 56,
+			"listed_count": 12513,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 140,
+		"favorite_count": 474,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The main poster of the Disney+ original variety show &lt;The Zone : Survival Mission&gt; starring KWONYURI has been released! \nThe show will be out on September 8th! \n\n#권유리 \n#소녀시대 #GirlsGeneration\n#더존버텨야산다 #TheZone_SurvivalMission \n#디즈니플러스 #DisneyPlus https://t.co/i18JKSQlCs"
+	},
+	{
 		"created_at": "Sun Aug 14 13:07:09 +0000 2022",
 		"id": 1558801546053202000,
 		"id_str": "1558802404384149506",
