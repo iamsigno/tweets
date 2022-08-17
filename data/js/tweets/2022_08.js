@@ -1,6 +1,650 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 09:07:11 +0000 2022",
+		"id": 1559827464054251500,
+		"id_str": "1559829179985788928",
+		"full_text": "ScreaM TOGETHER!\n\n8/19 SHOWME S2 #01 DJ는 IMLAY(임레이)와 SUNGYOO(성유)입니다.\nScreaM Records 소속 프로듀서 겸 DJ IMLAY는 최근 컨셉 싱글 ‘Heart’s On Fire (Feat. Alex Karlsson)’를 발매하였으며 NCT DREAM - Beatbox, 소녀시대 - Seventeen에 참여하는 등 다양한 음악 활동을 하고 있습니다 https://t.co/svSWwgIrfj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559823190968668200,
+					"id_str": "1559823190968668160",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559823190968668200,
+					"id_str": "1559823190968668160",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa7YoakAAeNtO.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559823196815511600,
+					"id_str": "1559823196815511553",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa7uaaUAE8275.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa7uaaUAE8275.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559823207104139300,
+					"id_str": "1559823207104139264",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa8UvaUAANjUq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa8UvaUAANjUq.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559823216528736300,
+					"id_str": "1559823216528736256",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWa832aQAANUH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWa832aQAANUH8.jpg",
+					"url": "https://t.co/svSWwgIrfj",
+					"display_url": "pic.twitter.com/svSWwgIrfj",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1559827464054251521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247789684672974800,
+			"id_str": "1247789684672974851",
+			"name": "Beyond_LIVE",
+			"screen_name": "Beyond_LIVE",
+			"location": "",
+			"description": "\"A new era of live concert begins\"",
+			"url": "https://t.co/oa8CdfHBJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oa8CdfHBJH",
+							"expanded_url": "https://beyondlive.com",
+							"display_url": "beyondlive.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49747,
+			"friends_count": 18,
+			"listed_count": 80,
+			"created_at": "Wed Apr 08 07:33:56 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1183,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247789684672974851/1587525142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "ScreaM TOGETHER!\n\n8/19 SHOWME S2 #01 DJ는 IMLAY(임레이)와 SUNGYOO(성유)입니다.\nScreaM Records 소속 프로듀서 겸 DJ IMLAY는 최근 컨셉 싱글 ‘Heart’s On Fire (Feat. Alex Karlsson)’를 발매하였으며 NCT DREAM - Beatbox, 소녀시대 - Seventeen에 참여하는 등 다양한 음악 활동을 하고 있습니다 https://t.co/svSWwgIrfj"
+	},
+	{
+		"created_at": "Wed Aug 17 09:07:09 +0000 2022",
+		"id": 1559825132809363500,
+		"id_str": "1559829171060281345",
+		"full_text": "박진주, 시한부 환자로 본격 등장!\n그녀의 마지막 소원은?🥺\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/sQ7IG5FH9f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						93,
+						109
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						130,
+						139
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						140,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559824812465197000,
+					"id_str": "1559824812465197057",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWcZxLUEAEBqoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWcZxLUEAEBqoU.jpg",
+					"url": "https://t.co/sQ7IG5FH9f",
+					"display_url": "pic.twitter.com/sQ7IG5FH9f",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1559825132809363457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559824812465197000,
+					"id_str": "1559824812465197057",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWcZxLUEAEBqoU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWcZxLUEAEBqoU.jpg",
+					"url": "https://t.co/sQ7IG5FH9f",
+					"display_url": "pic.twitter.com/sQ7IG5FH9f",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1559825132809363457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559825074781180000,
+					"id_str": "1559825074781179905",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWcpCYUUAEIvgS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWcpCYUUAEIvgS.jpg",
+					"url": "https://t.co/sQ7IG5FH9f",
+					"display_url": "pic.twitter.com/sQ7IG5FH9f",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1559825132809363457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559825092552450000,
+					"id_str": "1559825092552450048",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWcqElUYAA9Sze.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWcqElUYAA9Sze.jpg",
+					"url": "https://t.co/sQ7IG5FH9f",
+					"display_url": "pic.twitter.com/sQ7IG5FH9f",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1559825132809363457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559825106712404000,
+					"id_str": "1559825106712403968",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWcq5VUIAASqrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWcq5VUIAASqrn.jpg",
+					"url": "https://t.co/sQ7IG5FH9f",
+					"display_url": "pic.twitter.com/sQ7IG5FH9f",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1559825132809363457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105404,
+			"friends_count": 56696,
+			"listed_count": 2123,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1660026706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "박진주, 시한부 환자로 본격 등장!\n그녀의 마지막 소원은?🥺\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/sQ7IG5FH9f"
+	},
+	{
 		"created_at": "Wed Aug 17 08:07:09 +0000 2022",
 		"id": 1559812517580488700,
 		"id_str": "1559814071431696384",
