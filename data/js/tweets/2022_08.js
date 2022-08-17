@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 05:44:57 +0000 2022",
+		"id": 1559769106634530800,
+		"id_str": "1559778285818712064",
+		"full_text": "🤷🏻‍♀️I love🤷🏻 너의 모든 것, 내 전부인 너💗with LEE GIKWANG🎴\n \nhttps://t.co/st8FUL7j27\n\n#SUNNY #써니\n#TIFFANY #티파니\n#LEEGIKWANG #이기광\n#GirlsGeneration #소녀시대\n#HIGHLIGHT #하이라이트 @Highlight_AUent\n#FOREVER1 #FOREVER1challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SUNNY",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "TIFFANY",
+					"indices": [
+						87,
+						95
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "LEEGIKWANG",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "이기광",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						118,
+						134
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "HIGHLIGHT",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"text": "하이라이트",
+					"indices": [
+						152,
+						158
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						176,
+						185
+					]
+				},
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						186,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Highlight_AUent",
+					"name": "하이라이트 (Highlight)",
+					"id": 810768862572462100,
+					"id_str": "810768862572462080",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/st8FUL7j27",
+					"expanded_url": "https://vt.tiktok.com/ZSRkcTcRa/",
+					"display_url": "vt.tiktok.com/ZSRkcTcRa/",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3876250,
+			"friends_count": 5,
+			"listed_count": 6137,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3035,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1938,
+		"favorite_count": 3018,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🤷🏻‍♀️I love🤷🏻 너의 모든 것, 내 전부인 너💗with LEE GIKWANG🎴\n \nhttps://t.co/st8FUL7j27\n\n#SUNNY #써니\n#TIFFANY #티파니\n#LEEGIKWANG #이기광\n#GirlsGeneration #소녀시대\n#HIGHLIGHT #하이라이트 @Highlight_AUent\n#FOREVER1 #FOREVER1challenge"
+	},
+	{
 		"created_at": "Wed Aug 17 03:07:18 +0000 2022",
 		"id": 1559737264816922600,
 		"id_str": "1559738613042233344",
