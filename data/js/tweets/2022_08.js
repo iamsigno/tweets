@@ -1,6 +1,409 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 03:07:18 +0000 2022",
+		"id": 1559737264816922600,
+		"id_str": "1559738613042233344",
+		"full_text": "[권유리]의 유리한 여름\n\n포스트 보러 가기 👉🏻 https://t.co/0wSdxSHaGA\n\n#권유리 #KWONYURI \n#유리 #YURI \n#GirlsGeneration #소녀시대",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						53,
+						57
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						58,
+						67
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						73,
+						78
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						97,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0wSdxSHaGA",
+					"expanded_url": "https://naver.me/FzIMfN6p",
+					"display_url": "naver.me/FzIMfN6p",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3876140,
+			"friends_count": 5,
+			"listed_count": 6140,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 329,
+		"favorite_count": 704,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[권유리]의 유리한 여름\n\n포스트 보러 가기 👉🏻 https://t.co/0wSdxSHaGA\n\n#권유리 #KWONYURI \n#유리 #YURI \n#GirlsGeneration #소녀시대"
+	},
+	{
+		"created_at": "Wed Aug 17 03:07:12 +0000 2022",
+		"id": 1559724839497130000,
+		"id_str": "1559738587465322496",
+		"full_text": "&lt;당신이 소원을 말하면&gt; 3회 미리 보기!👀\n호스피스 금쪽이 빨리 보고 싶다!!!👏\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/gWta04ShbN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						112,
+						128
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						129,
+						133
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						134,
+						138
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						139,
+						143
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						144,
+						148
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						149,
+						158
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						159,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559724812645257200,
+					"id_str": "1559724812645257216",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FaVBdA0VUAAE5F6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaVBdA0VUAAE5F6.jpg",
+					"url": "https://t.co/gWta04ShbN",
+					"display_url": "pic.twitter.com/gWta04ShbN",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1559724839497129984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559724812645257200,
+					"id_str": "1559724812645257216",
+					"indices": [
+						167,
+						190
+					],
+					"media_url": "http://pbs.twimg.com/media/FaVBdA0VUAAE5F6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaVBdA0VUAAE5F6.jpg",
+					"url": "https://t.co/gWta04ShbN",
+					"display_url": "pic.twitter.com/gWta04ShbN",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1559724839497129984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1920,
+							"h": 1920,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105479,
+			"friends_count": 56695,
+			"listed_count": 2123,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1660026706",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;당신이 소원을 말하면&gt; 3회 미리 보기!👀\n호스피스 금쪽이 빨리 보고 싶다!!!👏\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/gWta04ShbN"
+	},
+	{
 		"created_at": "Wed Aug 17 02:07:11 +0000 2022",
 		"id": 1559721677449269200,
 		"id_str": "1559723485336846337",
