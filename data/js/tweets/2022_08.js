@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 02:07:11 +0000 2022",
+		"id": 1559721677449269200,
+		"id_str": "1559723485336846337",
+		"full_text": "#써니 의 밝은 모습 뒤에 \n감춰져 있던 고충들😢\n＂손 떨리고…\"\n\n▶️매주 화요일 밤 𝟴시 𝟱𝟬분\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/CNbEiYKzKV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "써니",
+					"indices": [
+						0,
+						3
+					]
+				},
+				{
+					"text": "소시탐탐",
+					"indices": [
+						60,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559700709863436300,
+					"id_str": "1559700709863436288",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FaUr8ixUUAAvcpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaUr8ixUUAAvcpd.jpg",
+					"url": "https://t.co/CNbEiYKzKV",
+					"display_url": "pic.twitter.com/CNbEiYKzKV",
+					"expanded_url": "https://twitter.com/jtbclove/status/1559721677449269249/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559700709863436300,
+					"id_str": "1559700709863436288",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FaUr8ixUUAAvcpd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaUr8ixUUAAvcpd.jpg",
+					"url": "https://t.co/CNbEiYKzKV",
+					"display_url": "pic.twitter.com/CNbEiYKzKV",
+					"expanded_url": "https://twitter.com/jtbclove/status/1559721677449269249/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 68568,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559700709863436288/vid/480x270/gucoqLiRCP7u6yfV.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559700709863436288/vid/1280x720/ZQlYKd6uxsdMnCEr.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1559700709863436288/pl/LbGbK2mlUWKhXODl.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1559700709863436288/vid/640x360/RevmPFQMxC0u3eih.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[소시탐탐] 써니의 밝은 모습 뒤에 감춰져 있던 고충들 ＂손 떨리고…＂ | JTBC 220816 방송",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/28597598"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472664,
+			"friends_count": 108,
+			"listed_count": 823,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1659577702",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#써니 의 밝은 모습 뒤에 \n감춰져 있던 고충들😢\n＂손 떨리고…\"\n\n▶️매주 화요일 밤 𝟴시 𝟱𝟬분\n&lt;#소시탐탐&gt; 본방사수👑 https://t.co/CNbEiYKzKV"
+	},
+	{
 		"created_at": "Tue Aug 16 10:07:09 +0000 2022",
 		"id": 1559477171932233700,
 		"id_str": "1559481882529652738",
