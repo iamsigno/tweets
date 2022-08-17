@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 08:07:09 +0000 2022",
+		"id": 1559812517580488700,
+		"id_str": "1559814071431696384",
+		"full_text": "【少女時代】\n15周年記念アルバム『FOREVER 1』\n当ストア限定特典付きで本日8/17（水）17時より予約販売スタート！\n\n💗2形態セット\nhttps://t.co/wHTWknjwtQ\n💗DELUXE Ver.\nhttps://t.co/NbjtQE7qEK\n💗STANDARD Ver.\nhttps://t.co/rMci8FnVo8\n\n#少女時代 #GirlsGeneration #소녀시대 #FOREVER1 https://t.co/N4alBQolYG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "少女時代",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						203,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wHTWknjwtQ",
+					"expanded_url": "https://bit.ly/3c2xe0O",
+					"display_url": "bit.ly/3c2xe0O",
+					"indices": [
+						73,
+						96
+					]
+				},
+				{
+					"url": "https://t.co/NbjtQE7qEK",
+					"expanded_url": "https://bit.ly/3AoDn0G",
+					"display_url": "bit.ly/3AoDn0G",
+					"indices": [
+						110,
+						133
+					]
+				},
+				{
+					"url": "https://t.co/rMci8FnVo8",
+					"expanded_url": "https://bit.ly/3wcs5u2",
+					"display_url": "bit.ly/3wcs5u2",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1559812514543812600,
+					"id_str": "1559812514543812608",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWRN72XwAA94T8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWRN72XwAA94T8.jpg",
+					"url": "https://t.co/N4alBQolYG",
+					"display_url": "pic.twitter.com/N4alBQolYG",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1559812517580488704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559812514543812600,
+					"id_str": "1559812514543812608",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWRN72XwAA94T8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWRN72XwAA94T8.jpg",
+					"url": "https://t.co/N4alBQolYG",
+					"display_url": "pic.twitter.com/N4alBQolYG",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1559812517580488704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1559812514598342700,
+					"id_str": "1559812514598342656",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWRN8DX0AAcL8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWRN8DX0AAcL8Q.jpg",
+					"url": "https://t.co/N4alBQolYG",
+					"display_url": "pic.twitter.com/N4alBQolYG",
+					"expanded_url": "https://twitter.com/UM_STORE_JP/status/1559812517580488704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 492856584,
+			"id_str": "492856584",
+			"name": "UNIVERSAL MUSIC STORE",
+			"screen_name": "UM_STORE_JP",
+			"location": "Tokyo Harajuku",
+			"description": "UNIVERSAL MUSIC JAPANの公式オンラインストアサイトです。お問合せはこちらまで⇒ https://t.co/iJx48PmrVE \n※ツイッターでのお問合せには回答・返信は行っておりません。",
+			"url": "https://t.co/Rw6lIjLnut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rw6lIjLnut",
+							"expanded_url": "https://store.universal-music.co.jp/",
+							"display_url": "store.universal-music.co.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iJx48PmrVE",
+							"expanded_url": "https://store.universal-music.co.jp/InquiryInput.jsp",
+							"display_url": "store.universal-music.co.jp/InquiryInput.j…",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40567,
+			"friends_count": 157,
+			"listed_count": 263,
+			"created_at": "Wed Feb 15 06:07:34 +0000 2012",
+			"favourites_count": 33,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9D08B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234376667176427520/_NRTviW4_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/492856584/1583133659",
+			"profile_link_color": "1E1F1F",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "【少女時代】\n15周年記念アルバム『FOREVER 1』\n当ストア限定特典付きで本日8/17（水）17時より予約販売スタート！\n\n💗2形態セット\nhttps://t.co/wHTWknjwtQ\n💗DELUXE Ver.\nhttps://t.co/NbjtQE7qEK\n💗STANDARD Ver.\nhttps://t.co/rMci8FnVo8\n\n#少女時代 #GirlsGeneration #소녀시대 #FOREVER1 https://t.co/N4alBQolYG"
+	},
+	{
 		"created_at": "Wed Aug 17 07:07:16 +0000 2022",
 		"id": 1559795756839493600,
 		"id_str": "1559799003092598784",
