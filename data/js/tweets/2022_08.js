@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 05:07:18 +0000 2022",
+		"id": 1560128578733256700,
+		"id_str": "1560131199426871296",
+		"full_text": "Menggali Daya Tarik YOONA dalam Drama ‘Big Mouth’\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/SN8rxnt4SC\n\n@GirlsGeneration \n#LIMYOONA #TheBigMouth https://t.co/8ICNRsMgzQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						159,
+						168
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						169,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						141,
+						157
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SN8rxnt4SC",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid024fQqttf4hH9U1wz3vSiyiZohWS2xdasbzeN45DVSCfUV7MGvksbyGkXm6pT9Cm5Yl",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560128553701613600,
+					"id_str": "1560128553701613568",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Faawp1dUIAAWFsp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faawp1dUIAAWFsp.jpg",
+					"url": "https://t.co/8ICNRsMgzQ",
+					"display_url": "pic.twitter.com/8ICNRsMgzQ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1560128578733256704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1274,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560128553701613600,
+					"id_str": "1560128553701613568",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Faawp1dUIAAWFsp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faawp1dUIAAWFsp.jpg",
+					"url": "https://t.co/8ICNRsMgzQ",
+					"display_url": "pic.twitter.com/8ICNRsMgzQ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1560128578733256704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1274,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560128553705828400,
+					"id_str": "1560128553705828352",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Faawp1eUcAAqg2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faawp1eUcAAqg2f.jpg",
+					"url": "https://t.co/8ICNRsMgzQ",
+					"display_url": "pic.twitter.com/8ICNRsMgzQ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1560128578733256704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560128553911341000,
+					"id_str": "1560128553911341057",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Faawp2PUUAE5y9U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faawp2PUUAE5y9U.jpg",
+					"url": "https://t.co/8ICNRsMgzQ",
+					"display_url": "pic.twitter.com/8ICNRsMgzQ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1560128578733256704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560128554079113200,
+					"id_str": "1560128554079113217",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/Faawp23UUAE7mPz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Faawp23UUAE7mPz.jpg",
+					"url": "https://t.co/8ICNRsMgzQ",
+					"display_url": "pic.twitter.com/8ICNRsMgzQ",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1560128578733256704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1085799,
+			"friends_count": 37,
+			"listed_count": 666,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 89,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Menggali Daya Tarik YOONA dalam Drama ‘Big Mouth’\n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/SN8rxnt4SC\n\n@GirlsGeneration \n#LIMYOONA #TheBigMouth https://t.co/8ICNRsMgzQ"
+	},
+	{
 		"created_at": "Thu Aug 18 04:07:18 +0000 2022",
 		"id": 1560108026559811600,
 		"id_str": "1560116099907207168",
