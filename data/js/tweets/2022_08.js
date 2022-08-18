@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 18 10:07:16 +0000 2022",
+		"id": 1560205179878002700,
+		"id_str": "1560206688573079552",
+		"full_text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」、会場でのグッズ販売は一般販売と事前予約注文での「会場受取」がご利用いただけます。\n会場受取をお考えの方は、詳細をご一読いただき、お忘れなくお申し込みください！\n\nhttps://t.co/BxOu45ieYg\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						153,
+						161
+					]
+				},
+				{
+					"text": "SMTOWN_LIVE",
+					"indices": [
+						162,
+						174
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS_TOKYO",
+					"indices": [
+						175,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BxOu45ieYg",
+					"expanded_url": "https://girls-generation.jp/news/3988",
+					"display_url": "girls-generation.jp/news/3988",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2585025200,
+			"id_str": "2585025200",
+			"name": "少女時代 JAPAN OFFICIAL",
+			"screen_name": "gg_official_jp",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/T70Fo3NBNn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T70Fo3NBNn",
+							"expanded_url": "http://www.girls-generation.jp/",
+							"display_url": "girls-generation.jp",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120346,
+			"friends_count": 0,
+			"listed_count": 531,
+			"created_at": "Tue Jun 24 03:33:35 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555086105711886337/zo-mAiti_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2585025200/1659596396",
+			"profile_link_color": "0024B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 165,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ja",
+		"text": "「SMTOWN LIVE 2022：SMCU EXPRESS＠TOKYO」、会場でのグッズ販売は一般販売と事前予約注文での「会場受取」がご利用いただけます。\n会場受取をお考えの方は、詳細をご一読いただき、お忘れなくお申し込みください！\n\nhttps://t.co/BxOu45ieYg\n\n#TAEYEON\n#HYOYEON\n#SMTOWN_LIVE #SMCU_EXPRESS_TOKYO"
+	},
+	{
+		"created_at": "Thu Aug 18 10:07:14 +0000 2022",
+		"id": 1560203859426812000,
+		"id_str": "1560206679735734273",
+		"full_text": "[#VIDEO] (ENG) 2⃣어머 얘 좀 봐라 얘? 드디어 재재 수영이랑 I Got A Boy 궁금해 죽겠네 같이 함ㅋㅋㅋㅋ 소녀시대 노래 여기서 탈탈 털렸쥬? / [문명특급 EP.260]\n▶ https://t.co/HHp1vQYiSD\n\n#서현 #문명특급 #SEOHYUN #Mmtg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						134,
+						137
+					]
+				},
+				{
+					"text": "문명특급",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "Mmtg",
+					"indices": [
+						153,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HHp1vQYiSD",
+					"expanded_url": "https://youtu.be/MtVjGhr3tHY",
+					"display_url": "youtu.be/MtVjGhr3tHY",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64539,
+			"friends_count": 12,
+			"listed_count": 282,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] (ENG) 2⃣어머 얘 좀 봐라 얘? 드디어 재재 수영이랑 I Got A Boy 궁금해 죽겠네 같이 함ㅋㅋㅋㅋ 소녀시대 노래 여기서 탈탈 털렸쥬? / [문명특급 EP.260]\n▶ https://t.co/HHp1vQYiSD\n\n#서현 #문명특급 #SEOHYUN #Mmtg"
+	},
+	{
 		"created_at": "Thu Aug 18 08:07:09 +0000 2022",
 		"id": 1560166333735526400,
 		"id_str": "1560176459527995393",
