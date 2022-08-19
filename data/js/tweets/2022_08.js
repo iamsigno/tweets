@@ -1,10 +1,381 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 10:07:09 +0000 2022",
+		"id": 1560557986287784000,
+		"id_str": "1560569045363171330",
+		"full_text": "[#VIDEO] [K-Fancam] 소녀시대 서현 직캠 'FOREVER 1' (Girls' Generation SEOHYUN Fancam) l @MusicBank 220819\n▶ https://t.co/81VJtyITj4\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						125,
+						128
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						129,
+						134
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						135,
+						144
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						145,
+						153
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						154,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "musicbank",
+					"name": "K톡: z1678 출장샵 출장마사지 출장업소 출장만남 출장아가씨 출장서비스 애인대행",
+					"id": 137529912,
+					"id_str": "137529912",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/81VJtyITj4",
+					"expanded_url": "https://youtu.be/Ng9ynpYV5Js",
+					"display_url": "youtu.be/Ng9ynpYV5Js",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64701,
+			"friends_count": 12,
+			"listed_count": 282,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 621,
+		"favorite_count": 721,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] [K-Fancam] 소녀시대 서현 직캠 'FOREVER 1' (Girls' Generation SEOHYUN Fancam) l @MusicBank 220819\n▶ https://t.co/81VJtyITj4\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration"
+	},
+	{
+		"created_at": "Fri Aug 19 09:45:03 +0000 2022",
+		"id": 1560562773490561000,
+		"id_str": "1560563484613541888",
+		"full_text": "🛸💖🪐\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n#뮤직뱅크 #MusicBank https://t.co/7jrSG8qcyQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						5,
+						21
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "뮤직뱅크",
+					"indices": [
+						39,
+						44
+					]
+				},
+				{
+					"text": "MusicBank",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560561900265799700,
+					"id_str": "1560561900265799680",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Fag6x7NaAAAhMAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fag6x7NaAAAhMAq.jpg",
+					"url": "https://t.co/7jrSG8qcyQ",
+					"display_url": "pic.twitter.com/7jrSG8qcyQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1560562773490561024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560561900265799700,
+					"id_str": "1560561900265799680",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/Fag6x7NaAAAhMAq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fag6x7NaAAAhMAq.jpg",
+					"url": "https://t.co/7jrSG8qcyQ",
+					"display_url": "pic.twitter.com/7jrSG8qcyQ",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1560562773490561024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3877944,
+			"friends_count": 5,
+			"listed_count": 6143,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11209,
+		"favorite_count": 17340,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🛸💖🪐\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n#뮤직뱅크 #MusicBank https://t.co/7jrSG8qcyQ"
+	},
+	{
 		"created_at": "Fri Aug 19 07:07:09 +0000 2022",
 		"id": 1560521953978376200,
 		"id_str": "1560523747257450496",
-		"full_text": "★팀에 이은 ♥의 춤으로 말해요👯‍♀\n상큼, 큐티, 발랄 그냥 언니들 다 해...\n💓지.소.앞.소.영.소💓\n\n&lt;아는 형님&gt; 홈페이지에서\n댓글 이벤트 참여하고\n#소녀시대 사인 폴라로이드 받기📸\n👉 https://t.co/NdeCaWVXQk\n\n이번 주 토요일 저녁 𝟴시 𝟱𝟬분\n&lt;#아는형님&gt; 본.방.사.수.✨ https://t.co/f84Ex1Q5Ep",
+		"full_text": "★팀에 이은 ♥의 춤으로 말해요👯♀\n상큼, 큐티, 발랄 그냥 언니들 다 해...\n💓지.소.앞.소.영.소💓\n\n&lt;아는 형님&gt; 홈페이지에서\n댓글 이벤트 참여하고\n#소녀시대 사인 폴라로이드 받기📸\n👉 https://t.co/NdeCaWVXQk\n\n이번 주 토요일 저녁 𝟴시 𝟱𝟬분\n&lt;#아는형님&gt; 본.방.사.수.✨ https://t.co/f84Ex1Q5Ep",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -145,7 +516,7 @@ Grailbird.data.tweets_2022_08 =
 						]
 					},
 					"additional_media_info": {
-						"title": "[아는 형님 - EVENT | 형.친.소] 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯‍♀ 이건 봐야지..💕",
+						"title": "[아는 형님 - EVENT | 형.친.소] 소녀시대 완.전.체가 형친소에서 '춤으로 말해요'?👯♀ 이건 봐야지..💕",
 						"description": "",
 						"call_to_actions": {
 							"visit_site": {
@@ -237,7 +608,7 @@ Grailbird.data.tweets_2022_08 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "★팀에 이은 ♥의 춤으로 말해요👯‍♀\n상큼, 큐티, 발랄 그냥 언니들 다 해...\n💓지.소.앞.소.영.소💓\n\n&lt;아는 형님&gt; 홈페이지에서\n댓글 이벤트 참여하고\n#소녀시대 사인 폴라로이드 받기📸\n👉 https://t.co/NdeCaWVXQk\n\n이번 주 토요일 저녁 𝟴시 𝟱𝟬분\n&lt;#아는형님&gt; 본.방.사.수.✨ https://t.co/f84Ex1Q5Ep"
+		"text": "★팀에 이은 ♥의 춤으로 말해요👯♀\n상큼, 큐티, 발랄 그냥 언니들 다 해...\n💓지.소.앞.소.영.소💓\n\n&lt;아는 형님&gt; 홈페이지에서\n댓글 이벤트 참여하고\n#소녀시대 사인 폴라로이드 받기📸\n👉 https://t.co/NdeCaWVXQk\n\n이번 주 토요일 저녁 𝟴시 𝟱𝟬분\n&lt;#아는형님&gt; 본.방.사.수.✨ https://t.co/f84Ex1Q5Ep"
 	},
 	{
 		"created_at": "Fri Aug 19 06:07:09 +0000 2022",
