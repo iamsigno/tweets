@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 11:45:07 +0000 2022",
+		"id": 1560586395671941000,
+		"id_str": "1560593701314912256",
+		"full_text": "Oh my baby 달려가 안을게☺️❣️\n\nhttps://t.co/IKSgGy8Knl\n\n#TAEYEON #태연\n#TIFFANY #티파니\n#SEOHYUN #서현\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						49,
+						57
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						58,
+						61
+					]
+				},
+				{
+					"text": "TIFFANY",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						71,
+						75
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						89,
+						105
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						106,
+						111
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						122,
+						140
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IKSgGy8Knl",
+					"expanded_url": "https://vt.tiktok.com/ZSRBpgSTy/",
+					"display_url": "vt.tiktok.com/ZSRBpgSTy/",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3878624,
+			"friends_count": 5,
+			"listed_count": 6147,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2965,
+		"favorite_count": 4802,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "Oh my baby 달려가 안을게☺️❣️\n\nhttps://t.co/IKSgGy8Knl\n\n#TAEYEON #태연\n#TIFFANY #티파니\n#SEOHYUN #서현\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge"
+	},
+	{
+		"created_at": "Fri Aug 19 11:45:03 +0000 2022",
+		"id": 1560585534254092300,
+		"id_str": "1560593684093177858",
+		"full_text": "Girls, We are forever 🤍✨\n\nhttps://t.co/M92OBoyXey\n\n#HYOYEON #효연\n#YURI #유리\n#SOOYOUNG #수영\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYOYEON",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						60,
+						63
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						64,
+						69
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						84,
+						87
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						111,
+						120
+					]
+				},
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						121,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M92OBoyXey",
+					"expanded_url": "https://vt.tiktok.com/ZSRBsFrfC/",
+					"display_url": "vt.tiktok.com/ZSRBsFrfC/",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3878624,
+			"friends_count": 5,
+			"listed_count": 6147,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2754,
+		"favorite_count": 4701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls, We are forever 🤍✨\n\nhttps://t.co/M92OBoyXey\n\n#HYOYEON #효연\n#YURI #유리\n#SOOYOUNG #수영\n#GirlsGeneration #소녀시대\n#FOREVER1 #FOREVER1challenge"
+	},
+	{
 		"created_at": "Fri Aug 19 10:44:57 +0000 2022",
 		"id": 1560572769183871000,
 		"id_str": "1560578559852552194",
