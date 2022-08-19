@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 19 04:07:09 +0000 2022",
+		"id": 1560467491746304000,
+		"id_str": "1560478449675997185",
+		"full_text": "KWON YURI becomes the main MC of ‘2022 APAN STAR AWARDS’ with JUNG IL WOO! \nThe event will take place on September 29th! \n\n#KWONYURI #권유리 \n#YURI #유리 \n#GirlsGeneration #소녀시대 \n#2022APANStarAwards https://t.co/EqncY0VLfi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						133,
+						137
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						139,
+						144
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						145,
+						148
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						150,
+						166
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "2022APANStarAwards",
+					"indices": [
+						174,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560467236891922400,
+					"id_str": "1560467236891922432",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"url": "https://t.co/EqncY0VLfi",
+					"display_url": "pic.twitter.com/EqncY0VLfi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560467491746304003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560467236891922400,
+					"id_str": "1560467236891922432",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafkryqUEAAJ3UW.jpg",
+					"url": "https://t.co/EqncY0VLfi",
+					"display_url": "pic.twitter.com/EqncY0VLfi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560467491746304003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1560467263433502700,
+					"id_str": "1560467263433502720",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FafktViUcAAEWcw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FafktViUcAAEWcw.jpg",
+					"url": "https://t.co/EqncY0VLfi",
+					"display_url": "pic.twitter.com/EqncY0VLfi",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560467491746304003/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11091949,
+			"friends_count": 56,
+			"listed_count": 12523,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 948,
+		"favorite_count": 3131,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "KWON YURI becomes the main MC of ‘2022 APAN STAR AWARDS’ with JUNG IL WOO! \nThe event will take place on September 29th! \n\n#KWONYURI #권유리 \n#YURI #유리 \n#GirlsGeneration #소녀시대 \n#2022APANStarAwards https://t.co/EqncY0VLfi"
+	},
+	{
 		"created_at": "Fri Aug 19 01:07:09 +0000 2022",
 		"id": 1560432700841808000,
 		"id_str": "1560433152224526338",
