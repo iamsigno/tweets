@@ -1,6 +1,1219 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sat Aug 20 08:07:47 +0000 2022",
+		"id": 1560899744779477000,
+		"id_str": "1560901394021883905",
+		"full_text": "💗소녀시대 x 아는 형님💗\n오늘 저녁 8시 50분! \nComing soon tonight at 8:50PM KST! \n\n[선공개] ＂씹어 먹어버릴 테니까＂ 신들린 이수근에 반격하는 '광란의 쉐킷걸' 서현🔥 | 아는 형님 346회 \n\nhttps://t.co/gUWMqbCs7M\n\n#GirlsGeneration #소녀시대\n#아는형님",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						155,
+						171
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						172,
+						177
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						178,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gUWMqbCs7M",
+					"expanded_url": "https://youtu.be/QpaDGBAyxMc",
+					"display_url": "youtu.be/QpaDGBAyxMc",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880560,
+			"friends_count": 5,
+			"listed_count": 6151,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 921,
+		"favorite_count": 1509,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "💗소녀시대 x 아는 형님💗\n오늘 저녁 8시 50분! \nComing soon tonight at 8:50PM KST! \n\n[선공개] ＂씹어 먹어버릴 테니까＂ 신들린 이수근에 반격하는 '광란의 쉐킷걸' 서현🔥 | 아는 형님 346회 \n\nhttps://t.co/gUWMqbCs7M\n\n#GirlsGeneration #소녀시대\n#아는형님"
+	},
+	{
+		"created_at": "Sat Aug 20 08:07:41 +0000 2022",
+		"id": 1560898258645692400,
+		"id_str": "1560901368336027648",
+		"full_text": "[#VIDEO] [예능연구소] GIRLS’ GENERATION SEOHYUN - FOREVER 1(소녀시대 서현 - 포에버 원) FanCam | Show! MusicCore MBC220820방송\n▶ https://t.co/zLD2IIMYF6\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						136,
+						139
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						165,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zLD2IIMYF6",
+					"expanded_url": "https://youtu.be/0ClbxbXyYH4",
+					"display_url": "youtu.be/0ClbxbXyYH4",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64797,
+			"friends_count": 12,
+			"listed_count": 282,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] [예능연구소] GIRLS’ GENERATION SEOHYUN - FOREVER 1(소녀시대 서현 - 포에버 원) FanCam | Show! MusicCore MBC220820방송\n▶ https://t.co/zLD2IIMYF6\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration"
+	},
+	{
+		"created_at": "Sat Aug 20 08:07:31 +0000 2022",
+		"id": 1560896640869073000,
+		"id_str": "1560901330037792768",
+		"full_text": "220820🔍[예능연구소 4K 세로캠]\n\n‘소녀시대 – FOREVER 1’\n#태연▶https://t.co/8zGGURtNnF\n#유리▶https://t.co/w4BjkAemvR\n#수영▶https://t.co/f314Hzazvg\n#서현▶https://t.co/b0HWMgVTyj\n\n#쇼음악중심 #음중 #소녀시대 #GirlsGeneration #FOREVER1 @GirlsGeneration https://t.co/5TSZIbXbxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						98,
+						101
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						155,
+						161
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						162,
+						165
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						166,
+						171
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						172,
+						188
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						199,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8zGGURtNnF",
+					"expanded_url": "https://youtu.be/y89cEICNZFM",
+					"display_url": "youtu.be/y89cEICNZFM",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/w4BjkAemvR",
+					"expanded_url": "https://youtu.be/A1AxVW5XroY",
+					"display_url": "youtu.be/A1AxVW5XroY",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/f314Hzazvg",
+					"expanded_url": "https://youtu.be/ZNU1O7XSp-s",
+					"display_url": "youtu.be/ZNU1O7XSp-s",
+					"indices": [
+						102,
+						125
+					]
+				},
+				{
+					"url": "https://t.co/b0HWMgVTyj",
+					"expanded_url": "https://youtu.be/0ClbxbXyYH4",
+					"display_url": "youtu.be/0ClbxbXyYH4",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560896593901285400,
+					"id_str": "1560896593901285377",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FalrLqKacAEwLfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FalrLqKacAEwLfx.jpg",
+					"url": "https://t.co/5TSZIbXbxG",
+					"display_url": "pic.twitter.com/5TSZIbXbxG",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1560896640869072896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560896593901285400,
+					"id_str": "1560896593901285377",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FalrLqKacAEwLfx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FalrLqKacAEwLfx.jpg",
+					"url": "https://t.co/5TSZIbXbxG",
+					"display_url": "pic.twitter.com/5TSZIbXbxG",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1560896640869072896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1560896475982631000,
+		"in_reply_to_status_id_str": "1560896475982630912",
+		"in_reply_to_user_id": 4144012572,
+		"in_reply_to_user_id_str": "4144012572",
+		"in_reply_to_screen_name": "MBC_entertain",
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 946247,
+			"friends_count": 5,
+			"listed_count": 1055,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 573,
+		"favorite_count": 516,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "220820🔍[예능연구소 4K 세로캠]\n\n‘소녀시대 – FOREVER 1’\n#태연▶https://t.co/8zGGURtNnF\n#유리▶https://t.co/w4BjkAemvR\n#수영▶https://t.co/f314Hzazvg\n#서현▶https://t.co/b0HWMgVTyj\n\n#쇼음악중심 #음중 #소녀시대 #GirlsGeneration #FOREVER1 @GirlsGeneration https://t.co/5TSZIbXbxG"
+	},
+	{
+		"created_at": "Sat Aug 20 08:07:25 +0000 2022",
+		"id": 1560896475982631000,
+		"id_str": "1560901304389705729",
+		"full_text": "220820🔍[예능연구소 4K 세로캠]\n\n‘소녀시대 – FOREVER 1’\n#윤아▶https://t.co/Xja8WPMG3i\n#써니▶https://t.co/J45SqoEkFz\n#티파니▶https://t.co/5CgLTd87Mn\n#효연▶https://t.co/rCY5YR3EaG\n\n#쇼음악중심 #음중 #소녀시대 #GirlsGeneration #FOREVER1 @GirlsGeneration https://t.co/Oi3TglVOzc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "윤아",
+					"indices": [
+						42,
+						45
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						70,
+						73
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						127,
+						130
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "음중",
+					"indices": [
+						163,
+						166
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						167,
+						172
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						173,
+						189
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						190,
+						199
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						200,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Xja8WPMG3i",
+					"expanded_url": "https://youtu.be/iP_ZrQj9Q5o",
+					"display_url": "youtu.be/iP_ZrQj9Q5o",
+					"indices": [
+						46,
+						69
+					]
+				},
+				{
+					"url": "https://t.co/J45SqoEkFz",
+					"expanded_url": "https://youtu.be/QbRpijw2Qko",
+					"display_url": "youtu.be/QbRpijw2Qko",
+					"indices": [
+						74,
+						97
+					]
+				},
+				{
+					"url": "https://t.co/5CgLTd87Mn",
+					"expanded_url": "https://youtu.be/SSi2D-mskx0",
+					"display_url": "youtu.be/SSi2D-mskx0",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/rCY5YR3EaG",
+					"expanded_url": "https://youtu.be/gc3_tUgOpYs",
+					"display_url": "youtu.be/gc3_tUgOpYs",
+					"indices": [
+						131,
+						154
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1560896358936363000,
+					"id_str": "1560896358936363009",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Falq9-2aQAEveb6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Falq9-2aQAEveb6.jpg",
+					"url": "https://t.co/Oi3TglVOzc",
+					"display_url": "pic.twitter.com/Oi3TglVOzc",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1560896475982630912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560896358936363000,
+					"id_str": "1560896358936363009",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/Falq9-2aQAEveb6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Falq9-2aQAEveb6.jpg",
+					"url": "https://t.co/Oi3TglVOzc",
+					"display_url": "pic.twitter.com/Oi3TglVOzc",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1560896475982630912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 946247,
+			"friends_count": 5,
+			"listed_count": 1055,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 799,
+		"favorite_count": 882,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "220820🔍[예능연구소 4K 세로캠]\n\n‘소녀시대 – FOREVER 1’\n#윤아▶https://t.co/Xja8WPMG3i\n#써니▶https://t.co/J45SqoEkFz\n#티파니▶https://t.co/5CgLTd87Mn\n#효연▶https://t.co/rCY5YR3EaG\n\n#쇼음악중심 #음중 #소녀시대 #GirlsGeneration #FOREVER1 @GirlsGeneration https://t.co/Oi3TglVOzc"
+	},
+	{
+		"created_at": "Sat Aug 20 08:07:17 +0000 2022",
+		"id": 1560896100369805300,
+		"id_str": "1560901270306787331",
+		"full_text": "소녀시대 - 포에버 원 (Girls' Generation - FOREVER 1), MBC 220820 방송\n\nhttps://t.co/JPTwEgW8eJ\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n#쇼음악중심 #MusicCore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						109,
+						118
+					]
+				},
+				{
+					"text": "쇼음악중심",
+					"indices": [
+						120,
+						126
+					]
+				},
+				{
+					"text": "MusicCore",
+					"indices": [
+						127,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JPTwEgW8eJ",
+					"expanded_url": "https://naver.me/585xbNXa",
+					"display_url": "naver.me/585xbNXa",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3880560,
+			"friends_count": 5,
+			"listed_count": 6151,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2459,
+		"favorite_count": 3585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 - 포에버 원 (Girls' Generation - FOREVER 1), MBC 220820 방송\n\nhttps://t.co/JPTwEgW8eJ\n\n#GirlsGeneration #소녀시대\n#FOREVER1 \n#쇼음악중심 #MusicCore"
+	},
+	{
+		"created_at": "Sat Aug 20 08:07:09 +0000 2022",
+		"id": 1560894741557850000,
+		"id_str": "1560901236274208768",
+		"full_text": "From romance to action, ‘The Big Mouth’ LIM YOONA excels in portraying her proactive and smart character! The latest episode broke its highest ratings, proving the show’s high popularity! \n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/L0B35aFkrk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						190,
+						194
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						195,
+						204
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						205,
+						210
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						211,
+						223
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						224,
+						229
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						230,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1560894736344309800,
+					"id_str": "1560894736344309762",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FalpfiOUYAIidDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FalpfiOUYAIidDA.jpg",
+					"url": "https://t.co/L0B35aFkrk",
+					"display_url": "pic.twitter.com/L0B35aFkrk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560894741557850112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1560894736344309800,
+					"id_str": "1560894736344309762",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/FalpfiOUYAIidDA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FalpfiOUYAIidDA.jpg",
+					"url": "https://t.co/L0B35aFkrk",
+					"display_url": "pic.twitter.com/L0B35aFkrk",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1560894741557850112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11095651,
+			"friends_count": 55,
+			"listed_count": 12521,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 497,
+		"favorite_count": 1779,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From romance to action, ‘The Big Mouth’ LIM YOONA excels in portraying her proactive and smart character! The latest episode broke its highest ratings, proving the show’s high popularity! \n\n#임윤아 #LIMYOONA\n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/L0B35aFkrk"
+	},
+	{
 		"created_at": "Sat Aug 20 06:07:09 +0000 2022",
 		"id": 1560869241930268700,
 		"id_str": "1560871036505186304",
