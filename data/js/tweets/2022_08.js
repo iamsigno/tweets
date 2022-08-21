@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 21 10:07:09 +0000 2022",
+		"id": 1561285739349889000,
+		"id_str": "1561293822348644354",
+		"full_text": "[#VIDEO] [안방1열 직캠4K] 소녀시대 서현 'FOREVER 1' (Girls' Generation SEOHYUN FanCam) @SBS Inkigayo 220821\n▶ https://t.co/VMINLSGEyg\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "VIDEO",
+					"indices": [
+						1,
+						7
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						124,
+						127
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						128,
+						133
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						134,
+						143
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						144,
+						152
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						153,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SBS",
+					"name": "SBS Australia",
+					"id": 2576461,
+					"id_str": "2576461",
+					"indices": [
+						76,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VMINLSGEyg",
+					"expanded_url": "https://youtu.be/OJ3QkLwWL_o",
+					"display_url": "youtu.be/OJ3QkLwWL_o",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64849,
+			"friends_count": 12,
+			"listed_count": 0,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 130,
+		"favorite_count": 185,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#VIDEO] [안방1열 직캠4K] 소녀시대 서현 'FOREVER 1' (Girls' Generation SEOHYUN FanCam) @SBS Inkigayo 220821\n▶ https://t.co/VMINLSGEyg\n\n#서현 #소녀시대 #FOREVER1 #SEOHYUN #GirlsGeneration"
+	},
+	{
 		"created_at": "Sun Aug 21 09:07:26 +0000 2022",
 		"id": 1561273264604819500,
 		"id_str": "1561278794773794816",
