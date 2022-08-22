@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 22 02:07:09 +0000 2022",
+		"id": 1561533614449467400,
+		"id_str": "1561535415450050561",
+		"full_text": "'비주얼 꼴찌'는 못 참지🔥\n한 글자도 안 틀리고\n정확히 반응한 #유리 ㅋㅋㅋ\n\n▶️매주 토요일 저녁 𝟴시 𝟰𝟬분\n&lt;#아는형님&gt; 놓치지 마세요❣️ https://t.co/88LWmvhBcA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "유리",
+					"indices": [
+						36,
+						39
+					]
+				},
+				{
+					"text": "아는형님",
+					"indices": [
+						68,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1561515789601349600,
+					"id_str": "1561515789601349638",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FauesFVacAAtcrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FauesFVacAAtcrn.jpg",
+					"url": "https://t.co/88LWmvhBcA",
+					"display_url": "pic.twitter.com/88LWmvhBcA",
+					"expanded_url": "https://twitter.com/jtbclove/status/1561533614449467392/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561515789601349600,
+					"id_str": "1561515789601349638",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FauesFVacAAtcrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FauesFVacAAtcrn.jpg",
+					"url": "https://t.co/88LWmvhBcA",
+					"display_url": "pic.twitter.com/88LWmvhBcA",
+					"expanded_url": "https://twitter.com/jtbclove/status/1561533614449467392/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 69736,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1561515789601349638/vid/1280x720/t1kSDuxJa_m-kFuw.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1561515789601349638/pl/darDMzgnMz9MxV_e.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1561515789601349638/vid/480x270/WhEliYLQRQ4OI8QU.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1561515789601349638/vid/640x360/2r-SUuwChUQHhH3D.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "[아는 형님] '비주얼 꼴찌'는 못 참지🔥 한 글자도 안 틀리고 정확히 반응한 유리ㅋㅋㅋ | JTBC 220820 방송",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://tv.naver.com/v/28688897"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418488729,
+			"id_str": "418488729",
+			"name": "@jtbclove",
+			"screen_name": "jtbclove",
+			"location": "Korea",
+			"description": "JTBC 공식 트위터",
+			"url": "https://t.co/b1UaW0h6ia",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b1UaW0h6ia",
+							"expanded_url": "http://www.jtbc.co.kr",
+							"display_url": "jtbc.co.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 472558,
+			"friends_count": 108,
+			"listed_count": 826,
+			"created_at": "Tue Nov 22 07:18:13 +0000 2011",
+			"favourites_count": 585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1476711305403060226/mIeKdvX8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418488729/1659577702",
+			"profile_link_color": "2785BB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'비주얼 꼴찌'는 못 참지🔥\n한 글자도 안 틀리고\n정확히 반응한 #유리 ㅋㅋㅋ\n\n▶️매주 토요일 저녁 𝟴시 𝟰𝟬분\n&lt;#아는형님&gt; 놓치지 마세요❣️ https://t.co/88LWmvhBcA"
+	},
+	{
 		"created_at": "Mon Aug 22 01:07:09 +0000 2022",
 		"id": 1561518519467929600,
 		"id_str": "1561520315322322944",
