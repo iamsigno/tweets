@@ -1,6 +1,524 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 07:07:25 +0000 2022",
+		"id": 1561972622900211700,
+		"id_str": "1561973367179288576",
+		"full_text": "Beyond LIVE - 2022 Girls’ Generation Special Event – “Long Lasting Love” : Invitation 💌\n\n📆 9/3 (SAT) 7PM KST\n📍 #Beyond_LIVE\n🎫 Ticket sales : 8/19 (FRI) 3PM KST\n🔗 https://t.co/itD2S937FA\n \n#소녀시대 #Girls’_Generation\n#Long_Lasting_Love #FANMEETING\n#BeyondLIVE #비욘드라이브 https://t.co/KNLaagf8Qu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "Girls",
+					"indices": [
+						194,
+						200
+					]
+				},
+				{
+					"text": "Long_Lasting_Love",
+					"indices": [
+						213,
+						231
+					]
+				},
+				{
+					"text": "FANMEETING",
+					"indices": [
+						232,
+						243
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						244,
+						255
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						256,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/itD2S937FA",
+					"expanded_url": "https://beyondlive.com",
+					"display_url": "beyondlive.com",
+					"indices": [
+						162,
+						185
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1561972124864356400,
+					"id_str": "1561972124864356352",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1561972124864356352/pu/img/tkZhEYrHnfNPW-3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1561972124864356352/pu/img/tkZhEYrHnfNPW-3B.jpg",
+					"url": "https://t.co/KNLaagf8Qu",
+					"display_url": "pic.twitter.com/KNLaagf8Qu",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1561972622900211713/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561972124864356400,
+					"id_str": "1561972124864356352",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1561972124864356352/pu/img/tkZhEYrHnfNPW-3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1561972124864356352/pu/img/tkZhEYrHnfNPW-3B.jpg",
+					"url": "https://t.co/KNLaagf8Qu",
+					"display_url": "pic.twitter.com/KNLaagf8Qu",
+					"expanded_url": "https://twitter.com/Beyond_LIVE/status/1561972622900211713/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 64931,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1561972124864356352/pu/vid/480x270/tcWeevc0mwnEpuFv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1561972124864356352/pu/pl/kAfedGY52zjR9kx3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1561972124864356352/pu/vid/1280x720/NGz6CyycmNRB0gRg.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1561972124864356352/pu/vid/640x360/eNxlIv8l_XWhBdsQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247789684672974800,
+			"id_str": "1247789684672974851",
+			"name": "Beyond_LIVE",
+			"screen_name": "Beyond_LIVE",
+			"location": "",
+			"description": "\"A new era of live concert begins\"",
+			"url": "https://t.co/oa8CdfHBJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oa8CdfHBJH",
+							"expanded_url": "https://beyondlive.com",
+							"display_url": "beyondlive.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49857,
+			"friends_count": 18,
+			"listed_count": 81,
+			"created_at": "Wed Apr 08 07:33:56 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247789684672974851/1587525142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beyond LIVE - 2022 Girls’ Generation Special Event – “Long Lasting Love” : Invitation 💌\n\n📆 9/3 (SAT) 7PM KST\n📍 #Beyond_LIVE\n🎫 Ticket sales : 8/19 (FRI) 3PM KST\n🔗 https://t.co/itD2S937FA\n \n#소녀시대 #Girls’_Generation\n#Long_Lasting_Love #FANMEETING\n#BeyondLIVE #비욘드라이브 https://t.co/KNLaagf8Qu"
+	},
+	{
+		"created_at": "Tue Aug 23 07:07:20 +0000 2022",
+		"id": 1561972184976789500,
+		"id_str": "1561973345763090433",
+		"full_text": "2022 Girls’ Generation Special Event – “Long Lasting Love” : Invitation 💌\n\n소녀시대가 보낸 초대장이 도착하였습니다 🔔\nS♡NE, 우리 'L . L . L .'에서 함께해요 💗\n\n📆 9/3 SAT 7PM (KST)\n\n#소녀시대 #GirlsGeneration\n#Long_Lasting_Love #FANMEETING\n#BeyondLIVE #비욘드라이브 https://t.co/F9rOQxQr6y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						153,
+						158
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"text": "Long_Lasting_Love",
+					"indices": [
+						176,
+						194
+					]
+				},
+				{
+					"text": "FANMEETING",
+					"indices": [
+						195,
+						206
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						207,
+						218
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						219,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1561965678151606300,
+					"id_str": "1561965678151606272",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa038phUsAEQ9Wv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa038phUsAEQ9Wv.jpg",
+					"url": "https://t.co/F9rOQxQr6y",
+					"display_url": "pic.twitter.com/F9rOQxQr6y",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1561972184976789504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561965678151606300,
+					"id_str": "1561965678151606272",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa038phUsAEQ9Wv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa038phUsAEQ9Wv.jpg",
+					"url": "https://t.co/F9rOQxQr6y",
+					"display_url": "pic.twitter.com/F9rOQxQr6y",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1561972184976789504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 59976,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1561965678151606272/vid/1280x720/A7-Ib-tqFrVgOs7l.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1561965678151606272/pl/zRqnAN2LNGsHlr57.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1561965678151606272/vid/640x360/Iqf6-Is9nUdaPFC0.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1561965678151606272/vid/480x270/CI_dtx8JDrW8kfxf.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3886435,
+			"friends_count": 5,
+			"listed_count": 6169,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1326,
+		"favorite_count": 1844,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "2022 Girls’ Generation Special Event – “Long Lasting Love” : Invitation 💌\n\n소녀시대가 보낸 초대장이 도착하였습니다 🔔\nS♡NE, 우리 'L . L . L .'에서 함께해요 💗\n\n📆 9/3 SAT 7PM (KST)\n\n#소녀시대 #GirlsGeneration\n#Long_Lasting_Love #FANMEETING\n#BeyondLIVE #비욘드라이브 https://t.co/F9rOQxQr6y"
+	},
+	{
 		"created_at": "Tue Aug 23 03:07:12 +0000 2022",
 		"id": 1561910502384492500,
 		"id_str": "1561912916043079681",
