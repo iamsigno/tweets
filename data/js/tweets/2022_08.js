@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 03:07:12 +0000 2022",
+		"id": 1561910502384492500,
+		"id_str": "1561912916043079681",
+		"full_text": "'대세’ 임윤아의 해사한 미소! 설렘 가득 비하인드 사진 공개\n금토극 최강자 ‘빅마우스’ 촬영 현장 밝히는 긍정 에너지!\n\n‘The Big Mouth’ LIM YOONA’s behind photos with full of positive energy have been released! \n\n#임윤아 #LIMYOONA  \n#빅마우스 #TheBigMouth \n#소녀시대 #GirlsGeneration https://t.co/mORRUrxOhr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						167,
+						176
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						179,
+						184
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						185,
+						197
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						199,
+						204
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						205,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1561910494352797700,
+					"id_str": "1561910494352797697",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa0FUbracAEjnxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa0FUbracAEjnxM.jpg",
+					"url": "https://t.co/mORRUrxOhr",
+					"display_url": "pic.twitter.com/mORRUrxOhr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1561910502384492544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561910494352797700,
+					"id_str": "1561910494352797697",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/Fa0FUbracAEjnxM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fa0FUbracAEjnxM.jpg",
+					"url": "https://t.co/mORRUrxOhr",
+					"display_url": "pic.twitter.com/mORRUrxOhr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1561910502384492544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11105692,
+			"friends_count": 55,
+			"listed_count": 12547,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 509,
+		"favorite_count": 1589,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "'대세’ 임윤아의 해사한 미소! 설렘 가득 비하인드 사진 공개\n금토극 최강자 ‘빅마우스’ 촬영 현장 밝히는 긍정 에너지!\n\n‘The Big Mouth’ LIM YOONA’s behind photos with full of positive energy have been released! \n\n#임윤아 #LIMYOONA  \n#빅마우스 #TheBigMouth \n#소녀시대 #GirlsGeneration https://t.co/mORRUrxOhr"
+	},
+	{
 		"created_at": "Tue Aug 23 01:07:09 +0000 2022",
 		"id": 1561881279951319000,
 		"id_str": "1561882702663532544",
