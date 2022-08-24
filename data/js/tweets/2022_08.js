@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 24 10:07:16 +0000 2022",
+		"id": 1562380303653515300,
+		"id_str": "1562381016853286912",
+		"full_text": "#FOREVER1challenge with MINHO🔥\n\nhttps://t.co/WvTPGaLjaS\n\n#YOONA #윤아\n#YURI #유리\n#MINHO #민호 \n#SHINee #샤이니\n#GirlsGeneration #소녀시대\n#FOREVER1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "YOONA",
+					"indices": [
+						57,
+						63
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						64,
+						67
+					]
+				},
+				{
+					"text": "YURI",
+					"indices": [
+						68,
+						73
+					]
+				},
+				{
+					"text": "유리",
+					"indices": [
+						74,
+						77
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						78,
+						84
+					]
+				},
+				{
+					"text": "민호",
+					"indices": [
+						85,
+						88
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						90,
+						97
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						120,
+						125
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WvTPGaLjaS",
+					"expanded_url": "https://vt.tiktok.com/ZSRAuwdak/",
+					"display_url": "vt.tiktok.com/ZSRAuwdak/",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3887714,
+			"friends_count": 5,
+			"listed_count": 6171,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1571,
+		"favorite_count": 2058,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FOREVER1challenge with MINHO🔥\n\nhttps://t.co/WvTPGaLjaS\n\n#YOONA #윤아\n#YURI #유리\n#MINHO #민호 \n#SHINee #샤이니\n#GirlsGeneration #소녀시대\n#FOREVER1"
+	},
+	{
+		"created_at": "Wed Aug 24 09:45:06 +0000 2022",
+		"id": 1562374765163061200,
+		"id_str": "1562375438324084738",
+		"full_text": "#FOREVER1challenge with KARINA 💙\n\nhttps://t.co/Rlstzw8f5U\n\n#TIFFANY #티파니\n#SOOYOUNG #수영\n#KARINA #카리나 \n#aespa #에스파 @aespa_official\n#GirlsGeneration #소녀시대\n#FOREVER1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FOREVER1challenge",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "TIFFANY",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						68,
+						72
+					]
+				},
+				{
+					"text": "SOOYOUNG",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "수영",
+					"indices": [
+						83,
+						86
+					]
+				},
+				{
+					"text": "KARINA",
+					"indices": [
+						87,
+						94
+					]
+				},
+				{
+					"text": "카리나",
+					"indices": [
+						95,
+						99
+					]
+				},
+				{
+					"text": "aespa",
+					"indices": [
+						101,
+						107
+					]
+				},
+				{
+					"text": "에스파",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						129,
+						145
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						146,
+						151
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						152,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aespa_official",
+					"name": "aespa",
+					"id": 1277453652924366800,
+					"id_str": "1277453652924366848",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rlstzw8f5U",
+					"expanded_url": "https://vt.tiktok.com/ZSRAuuGfj/",
+					"display_url": "vt.tiktok.com/ZSRAuuGfj/",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3887714,
+			"friends_count": 5,
+			"listed_count": 6171,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4069,
+		"favorite_count": 6142,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#FOREVER1challenge with KARINA 💙\n\nhttps://t.co/Rlstzw8f5U\n\n#TIFFANY #티파니\n#SOOYOUNG #수영\n#KARINA #카리나 \n#aespa #에스파 @aespa_official\n#GirlsGeneration #소녀시대\n#FOREVER1"
+	},
+	{
 		"created_at": "Wed Aug 24 09:07:12 +0000 2022",
 		"id": 1562364338916036600,
 		"id_str": "1562365901080764419",
