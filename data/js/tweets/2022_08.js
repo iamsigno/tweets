@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 25 02:07:09 +0000 2022",
+		"id": 1562619214371819500,
+		"id_str": "1562622577277009920",
+		"full_text": "[8/25(목) 엠뮤톡] 14시 22분 시작~! 최예나/블리처스/아이브/골든차일드/뉴진스/더보이즈/블랙핑크/방탄소년단/소녀시대/박재범 (낰낰) 뮤치니들 안녕.. 나야 엠피디.. 잘 지냈지? 엠피디 생존신고 하러 왔어..🚨 나를 잊지않았다면 늦지않게 와주기!🥲",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 589808615,
+			"id_str": "589808615",
+			"name": "MPD(엠피디)",
+			"screen_name": "M2MPD",
+			"location": "",
+			"description": "Mnet M2 프로듀서, MPD! 🎥 엠투에서 일해요💕",
+			"url": "https://t.co/nXPGvwY8oY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nXPGvwY8oY",
+							"expanded_url": "https://www.youtube.com/MnetM2",
+							"display_url": "youtube.com/MnetM2",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1257632,
+			"friends_count": 467,
+			"listed_count": 1590,
+			"created_at": "Fri May 25 08:21:17 +0000 2012",
+			"favourites_count": 985,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277993052171235328/R6a3Ds1T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/589808615/1610345190",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "[8/25(목) 엠뮤톡] 14시 22분 시작~! 최예나/블리처스/아이브/골든차일드/뉴진스/더보이즈/블랙핑크/방탄소년단/소녀시대/박재범 (낰낰) 뮤치니들 안녕.. 나야 엠피디.. 잘 지냈지? 엠피디 생존신고 하러 왔어..🚨 나를 잊지않았다면 늦지않게 와주기!🥲"
+	},
+	{
 		"created_at": "Wed Aug 24 10:07:16 +0000 2022",
 		"id": 1562380303653515300,
 		"id_str": "1562381016853286912",
