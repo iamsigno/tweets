@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 09:07:17 +0000 2022",
+		"id": 1563088873860739000,
+		"id_str": "1563090696634265600",
+		"full_text": "🗓️8월 4주차\n#스브스케이팝매거진 #SBSKPOP_MAGAZINE\n\n❤스브스케이팝 ZOOM의 위클리 매거진을 확인해 보세요❤\n🔗https://t.co/8OCE0KbUUz\n\n#소녀시대 #더보이즈 #비에이이173 #유나이트 #골든차일드 #뉴진스 #최예나 #크랙시 https://t.co/8oxr8Qu3IA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "스브스케이팝매거진",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"text": "SBSKPOP_MAGAZINE",
+					"indices": [
+						20,
+						37
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						103,
+						108
+					]
+				},
+				{
+					"text": "비에이이173",
+					"indices": [
+						109,
+						117
+					]
+				},
+				{
+					"text": "유나이트",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "골든차일드",
+					"indices": [
+						124,
+						130
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "최예나",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "크랙시",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8OCE0KbUUz",
+					"expanded_url": "https://drive.google.com/file/d/1NoUDfo9jPXWZOu_Q59tWyeyCm2J188YP/view?usp=sharing",
+					"display_url": "drive.google.com/file/d/1NoUDfo…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1563086786871537700,
+					"id_str": "1563086786871537664",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FbEzJqyVsAAF8dC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbEzJqyVsAAF8dC.jpg",
+					"url": "https://t.co/8oxr8Qu3IA",
+					"display_url": "pic.twitter.com/8oxr8Qu3IA",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1563088873860739072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563086786871537700,
+					"id_str": "1563086786871537664",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FbEzJqyVsAAF8dC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbEzJqyVsAAF8dC.jpg",
+					"url": "https://t.co/8oxr8Qu3IA",
+					"display_url": "pic.twitter.com/8oxr8Qu3IA",
+					"expanded_url": "https://twitter.com/kpop_sbs/status/1563088873860739072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1131475077650772000,
+			"id_str": "1131475077650771968",
+			"name": "스브스케이팝 X INKIGAYO",
+			"screen_name": "kpop_sbs",
+			"location": "",
+			"description": "♡ 스브스케이팝 / SBS KPOP 공식 트위터 ♡ \nSBS의 예능/음악방송을 여러분께 더 많이 공유하고 소통하기 위한 채널입니다 :)",
+			"url": "https://t.co/dXfdxsnRTm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dXfdxsnRTm",
+							"expanded_url": "https://www.youtube.com/user/SBSMusic1",
+							"display_url": "youtube.com/user/SBSMusic1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 724705,
+			"friends_count": 79,
+			"listed_count": 847,
+			"created_at": "Thu May 23 08:20:55 +0000 2019",
+			"favourites_count": 6147,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 6116,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179341775138818/Ry7b4M3d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1131475077650771968/1661054592",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🗓️8월 4주차\n#스브스케이팝매거진 #SBSKPOP_MAGAZINE\n\n❤스브스케이팝 ZOOM의 위클리 매거진을 확인해 보세요❤\n🔗https://t.co/8OCE0KbUUz\n\n#소녀시대 #더보이즈 #비에이이173 #유나이트 #골든차일드 #뉴진스 #최예나 #크랙시 https://t.co/8oxr8Qu3IA"
+	},
+	{
 		"created_at": "Fri Aug 26 04:07:09 +0000 2022",
 		"id": 1563003878462804000,
 		"id_str": "1563015164143624192",
