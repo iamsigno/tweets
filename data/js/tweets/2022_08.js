@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 10:07:17 +0000 2022",
+		"id": 1563104561203556400,
+		"id_str": "1563105795809484800",
+		"full_text": "남프랑스로 떠난 소녀시대✈️\n그들의 진솔한 이야기🥂\n&lt;소녀포레스트&gt;\n\n파타야로 여행을 떠난🧳 레벨이들의 유쾌발랄 스토리🌴\n&lt;레벨업 프로젝트 시즌 1&gt;\n\n👍구독과 ⏰알림 설정과 함께\n매일 오후 1시 라이브 스트리밍으로 만나는 SM C&amp;C STUDIO의 콘텐츠✨ https://t.co/G19B56G4m1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563104521080868900,
+					"id_str": "1563104521080868864",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FbFDR73VEAA86Mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbFDR73VEAA86Mo.jpg",
+					"url": "https://t.co/G19B56G4m1",
+					"display_url": "pic.twitter.com/G19B56G4m1",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1563104561203556352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563104521080868900,
+					"id_str": "1563104521080868864",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FbFDR73VEAA86Mo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbFDR73VEAA86Mo.jpg",
+					"url": "https://t.co/G19B56G4m1",
+					"display_url": "pic.twitter.com/G19B56G4m1",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1563104561203556352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563104521097662500,
+					"id_str": "1563104521097662464",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FbFDR77VUAA4M2J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbFDR77VUAA4M2J.jpg",
+					"url": "https://t.co/G19B56G4m1",
+					"display_url": "pic.twitter.com/G19B56G4m1",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1563104561203556352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563104521068224500,
+					"id_str": "1563104521068224515",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FbFDR70UIAMdWk9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbFDR70UIAMdWk9.jpg",
+					"url": "https://t.co/G19B56G4m1",
+					"display_url": "pic.twitter.com/G19B56G4m1",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1563104561203556352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563104521068261400,
+					"id_str": "1563104521068261376",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/FbFDR70UsAAUebC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbFDR70UsAAUebC.jpg",
+					"url": "https://t.co/G19B56G4m1",
+					"display_url": "pic.twitter.com/G19B56G4m1",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1563104561203556352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1563103964127797200,
+		"in_reply_to_status_id_str": "1563103964127797248",
+		"in_reply_to_user_id": 1192288122756681700,
+		"in_reply_to_user_id_str": "1192288122756681728",
+		"in_reply_to_screen_name": "smcnc_studio",
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53349,
+			"friends_count": 0,
+			"listed_count": 85,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1659318705",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "남프랑스로 떠난 소녀시대✈️\n그들의 진솔한 이야기🥂\n&lt;소녀포레스트&gt;\n\n파타야로 여행을 떠난🧳 레벨이들의 유쾌발랄 스토리🌴\n&lt;레벨업 프로젝트 시즌 1&gt;\n\n👍구독과 ⏰알림 설정과 함께\n매일 오후 1시 라이브 스트리밍으로 만나는 SM C&amp;C STUDIO의 콘텐츠✨ https://t.co/G19B56G4m1"
+	},
+	{
 		"created_at": "Fri Aug 26 09:07:17 +0000 2022",
 		"id": 1563088873860739000,
 		"id_str": "1563090696634265600",
