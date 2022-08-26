@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 26 04:07:09 +0000 2022",
+		"id": 1563003878462804000,
+		"id_str": "1563015164143624192",
+		"full_text": "The drama ‘The Big Mouth’ makes its halfway point, with LIM YOONA’s character carrying on her fight alone! \nLIM YOONA proves her character’s true value in every episode, showing off her various charms! \n\n#임윤아   \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/KFBi4efEN4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						204,
+						208
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						212,
+						217
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						218,
+						230
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						237,
+						253
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563003737878122500,
+					"id_str": "1563003737878122496",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FbDnnlLVUAAPYFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbDnnlLVUAAPYFM.jpg",
+					"url": "https://t.co/KFBi4efEN4",
+					"display_url": "pic.twitter.com/KFBi4efEN4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1563003878462803969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563003737878122500,
+					"id_str": "1563003737878122496",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FbDnnlLVUAAPYFM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbDnnlLVUAAPYFM.jpg",
+					"url": "https://t.co/KFBi4efEN4",
+					"display_url": "pic.twitter.com/KFBi4efEN4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1563003878462803969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563003737857151000,
+					"id_str": "1563003737857150976",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FbDnnlGVUAAZEgj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbDnnlGVUAAZEgj.jpg",
+					"url": "https://t.co/KFBi4efEN4",
+					"display_url": "pic.twitter.com/KFBi4efEN4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1563003878462803969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563003737882239000,
+					"id_str": "1563003737882238977",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FbDnnlMUIAEXAjv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbDnnlMUIAEXAjv.jpg",
+					"url": "https://t.co/KFBi4efEN4",
+					"display_url": "pic.twitter.com/KFBi4efEN4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1563003878462803969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1563003737873928200,
+					"id_str": "1563003737873928192",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/FbDnnlKVUAAS3_J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbDnnlKVUAAS3_J.jpg",
+					"url": "https://t.co/KFBi4efEN4",
+					"display_url": "pic.twitter.com/KFBi4efEN4",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1563003878462803969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11110101,
+			"friends_count": 55,
+			"listed_count": 12552,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 937,
+		"favorite_count": 2989,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The drama ‘The Big Mouth’ makes its halfway point, with LIM YOONA’s character carrying on her fight alone! \nLIM YOONA proves her character’s true value in every episode, showing off her various charms! \n\n#임윤아   \n#빅마우스 #TheBigMouth\n#소녀시대 #GirlsGeneration https://t.co/KFBi4efEN4"
+	},
+	{
 		"created_at": "Fri Aug 26 03:07:09 +0000 2022",
 		"id": 1562988660688969700,
 		"id_str": "1563000063873662979",
