@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 28 03:07:09 +0000 2022",
+		"id": 1563721507423268900,
+		"id_str": "1563724840854511618",
+		"full_text": "‘The Big Mouth’ LIM YOONA captivates the audience with her bold and strong acting! \nIn the latest episode, #LIMYOONA was quick to handle an emergency situation at a prison, showing off the charm of her character in one episode after another. \n\n#임윤아 \n#빅마우스 #TheBigMouth https://t.co/mDfgftt7vo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						244,
+						248
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						250,
+						255
+					]
+				},
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						256,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1563721502532374500,
+					"id_str": "1563721502532374528",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FbN0a-4VEAA-Q78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbN0a-4VEAA-Q78.jpg",
+					"url": "https://t.co/mDfgftt7vo",
+					"display_url": "pic.twitter.com/mDfgftt7vo",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1563721507423268864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 431,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1563721502532374500,
+					"id_str": "1563721502532374528",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FbN0a-4VEAA-Q78.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbN0a-4VEAA-Q78.jpg",
+					"url": "https://t.co/mDfgftt7vo",
+					"display_url": "pic.twitter.com/mDfgftt7vo",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1563721507423268864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 431,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11116914,
+			"friends_count": 55,
+			"listed_count": 12560,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12746,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 241,
+		"favorite_count": 957,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Big Mouth’ LIM YOONA captivates the audience with her bold and strong acting! \nIn the latest episode, #LIMYOONA was quick to handle an emergency situation at a prison, showing off the charm of her character in one episode after another. \n\n#임윤아 \n#빅마우스 #TheBigMouth https://t.co/mDfgftt7vo"
+	},
+	{
 		"created_at": "Fri Aug 26 11:07:09 +0000 2022",
 		"id": 1563120320369893400,
 		"id_str": "1563120860671901696",
