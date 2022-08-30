@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 30 04:07:09 +0000 2022",
+		"id": 1564453490478706700,
+		"id_str": "1564464714905796608",
+		"full_text": "The character poster of PARK SOOYOUNG for KakaoTV Original ‘어쩌다 전원일기' has been released!\n‘어쩌다 전원일기' premieres on KakaoTV on 9/5 at 7PM (KST)!\n\n#박수영 #PARKSOOYOUNG  \n#조이 #JOY \n#레드벨벳 #RedVelvet \n#어쩌다전원일기 https://t.co/xt8IAD88z6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						143,
+						147
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						148,
+						161
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						164,
+						167
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						168,
+						172
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						180,
+						190
+					]
+				},
+				{
+					"text": "어쩌다전원일기",
+					"indices": [
+						192,
+						200
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1564453482039750700,
+					"id_str": "1564453482039750656",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FbYOJzCaMAAJqG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbYOJzCaMAAJqG2.jpg",
+					"url": "https://t.co/xt8IAD88z6",
+					"display_url": "pic.twitter.com/xt8IAD88z6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1564453490478706690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 939,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564453482039750700,
+					"id_str": "1564453482039750656",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/FbYOJzCaMAAJqG2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbYOJzCaMAAJqG2.jpg",
+					"url": "https://t.co/xt8IAD88z6",
+					"display_url": "pic.twitter.com/xt8IAD88z6",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1564453490478706690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 939,
+							"h": 1336,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 843,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11122823,
+			"friends_count": 55,
+			"listed_count": 12562,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1455,
+		"favorite_count": 4143,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "The character poster of PARK SOOYOUNG for KakaoTV Original ‘어쩌다 전원일기' has been released!\n‘어쩌다 전원일기' premieres on KakaoTV on 9/5 at 7PM (KST)!\n\n#박수영 #PARKSOOYOUNG  \n#조이 #JOY \n#레드벨벳 #RedVelvet \n#어쩌다전원일기 https://t.co/xt8IAD88z6"
+	},
+	{
 		"created_at": "Tue Aug 30 02:07:09 +0000 2022",
 		"id": 1564431697432625200,
 		"id_str": "1564434518894940160",
