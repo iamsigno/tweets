@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 30 07:47:27 +0000 2022",
+		"id": 1564517462145568800,
+		"id_str": "1564520155442470913",
+		"full_text": "🎤✌🏻✨\n\n\n\n#TAEYEON #태연 \n#HYOYEON #효연\n#GirlsGeneration #소녀시대 \n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE #SMTOWNLIVE2022_TOKYO https://t.co/kcGeSgWkOy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						17,
+						20
+					]
+				},
+				{
+					"text": "HYOYEON",
+					"indices": [
+						22,
+						30
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						31,
+						34
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						52,
+						57
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						59,
+						66
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_TOKYO",
+					"indices": [
+						93,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1564515974274945000,
+					"id_str": "1564515974274945025",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZG_UwVEAEVu4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZG_UwVEAEVu4m.jpg",
+					"url": "https://t.co/kcGeSgWkOy",
+					"display_url": "pic.twitter.com/kcGeSgWkOy",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564517462145568769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564515974274945000,
+					"id_str": "1564515974274945025",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FbZG_UwVEAEVu4m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbZG_UwVEAEVu4m.jpg",
+					"url": "https://t.co/kcGeSgWkOy",
+					"display_url": "pic.twitter.com/kcGeSgWkOy",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564517462145568769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3891427,
+			"friends_count": 5,
+			"listed_count": 6186,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4947,
+		"favorite_count": 12461,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🎤✌🏻✨\n\n\n\n#TAEYEON #태연 \n#HYOYEON #효연\n#GirlsGeneration #소녀시대 \n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE #SMTOWNLIVE2022_TOKYO https://t.co/kcGeSgWkOy"
+	},
+	{
 		"created_at": "Tue Aug 30 06:07:09 +0000 2022",
 		"id": 1564494183037309000,
 		"id_str": "1564494914334900224",
