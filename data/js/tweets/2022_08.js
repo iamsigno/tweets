@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 07:07:18 +0000 2022",
+		"id": 1564867066292629500,
+		"id_str": "1564872440441962496",
+		"full_text": "로맨스는 병간호를 타고~~💖\n\n쓰러진 겨레 극진 간호!\n연주의 애틋한 눈빛! 👀\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/ZyldkMRdA3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						83,
+						87
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						99,
+						103
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						104,
+						120
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						121,
+						125
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						131,
+						135
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						136,
+						140
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						141,
+						150
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1564867041512661000,
+					"id_str": "1564867041512660993",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FbeGSIIUIAEykyD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbeGSIIUIAEykyD.jpg",
+					"url": "https://t.co/ZyldkMRdA3",
+					"display_url": "pic.twitter.com/ZyldkMRdA3",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1564867066292629504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564867041512661000,
+					"id_str": "1564867041512660993",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FbeGSIIUIAEykyD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbeGSIIUIAEykyD.jpg",
+					"url": "https://t.co/ZyldkMRdA3",
+					"display_url": "pic.twitter.com/ZyldkMRdA3",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1564867066292629504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1564867041542058000,
+					"id_str": "1564867041542057984",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FbeGSIPUsAAkRb7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbeGSIPUsAAkRb7.jpg",
+					"url": "https://t.co/ZyldkMRdA3",
+					"display_url": "pic.twitter.com/ZyldkMRdA3",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1564867066292629504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1564867041655263200,
+					"id_str": "1564867041655263233",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FbeGSIqUEAEEKsv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbeGSIqUEAEEKsv.jpg",
+					"url": "https://t.co/ZyldkMRdA3",
+					"display_url": "pic.twitter.com/ZyldkMRdA3",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1564867066292629504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105398,
+			"friends_count": 56651,
+			"listed_count": 2121,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 54932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1661321204",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 40,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "로맨스는 병간호를 타고~~💖\n\n쓰러진 겨레 극진 간호!\n연주의 애틋한 눈빛! 👀\n\nKBS 수목드라마 #당신이소원을말하면\n오늘 밤 9시 50분 방송\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/ZyldkMRdA3"
+	},
+	{
 		"created_at": "Wed Aug 31 06:07:09 +0000 2022",
 		"id": 1564855695857823700,
 		"id_str": "1564857302179536896",
