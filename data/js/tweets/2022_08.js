@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 04:44:57 +0000 2022",
+		"id": 1564825321035051000,
+		"id_str": "1564836616757288962",
+		"full_text": "2022 Girls’ Generation Special Event : Long Lasting Love \nOFFICIAL MD ONLINE SALES NOTICE\n\n▶ Sales Day\nMD 1st LINE UP\n2022. 08. 31 (WED) 15:00 ~ 2022. 09. 05 (MON) 23:59 [KST]\nMD 2nd LINE UP\n2022. 09. 05 (MON) 15:00 ~ 2022. 09. 13 (TUE) 23:59 [KST] https://t.co/L45LVYf48C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1564819794620125200,
+					"id_str": "1564819794620125184",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FbdbT_vVEAAmPFd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbdbT_vVEAAmPFd.jpg",
+					"url": "https://t.co/L45LVYf48C",
+					"display_url": "pic.twitter.com/L45LVYf48C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564825321035051011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 223,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564819794620125200,
+					"id_str": "1564819794620125184",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FbdbT_vVEAAmPFd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbdbT_vVEAAmPFd.jpg",
+					"url": "https://t.co/L45LVYf48C",
+					"display_url": "pic.twitter.com/L45LVYf48C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564825321035051011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 223,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 673,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 394,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1564819833023127600,
+					"id_str": "1564819833023127553",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FbdbWOzUYAEqRy7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbdbWOzUYAEqRy7.jpg",
+					"url": "https://t.co/L45LVYf48C",
+					"display_url": "pic.twitter.com/L45LVYf48C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564825321035051011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 247,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 436,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 744,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1564819870230855700,
+					"id_str": "1564819870230855680",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FbdbYZaVQAAxjGO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbdbYZaVQAAxjGO.jpg",
+					"url": "https://t.co/L45LVYf48C",
+					"display_url": "pic.twitter.com/L45LVYf48C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564825321035051011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 493,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 289,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 164,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1564819892355809300,
+					"id_str": "1564819892355809287",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/FbdbZr1VQAc0q-b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbdbZr1VQAc0q-b.jpg",
+					"url": "https://t.co/L45LVYf48C",
+					"display_url": "pic.twitter.com/L45LVYf48C",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564825321035051011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 321,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 547,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 182,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3891957,
+			"friends_count": 5,
+			"listed_count": 6192,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2075,
+		"favorite_count": 4018,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "2022 Girls’ Generation Special Event : Long Lasting Love \nOFFICIAL MD ONLINE SALES NOTICE\n\n▶ Sales Day\nMD 1st LINE UP\n2022. 08. 31 (WED) 15:00 ~ 2022. 09. 05 (MON) 23:59 [KST]\nMD 2nd LINE UP\n2022. 09. 05 (MON) 15:00 ~ 2022. 09. 13 (TUE) 23:59 [KST] https://t.co/L45LVYf48C"
+	},
+	{
 		"created_at": "Wed Aug 31 04:07:09 +0000 2022",
 		"id": 1564813887853080600,
 		"id_str": "1564827102939156481",
