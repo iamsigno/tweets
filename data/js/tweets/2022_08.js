@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 14:07:09 +0000 2022",
+		"id": 1564976469649997800,
+		"id_str": "1564978099627900932",
+		"full_text": "Girls' Generation 소녀시대 'FOREVER 1' Dance Practice Behind The Scenes\n\nhttps://t.co/N0Rb3t9A2H\n\n#소녀시대 #GirlsGeneration\n#DancePractice #Behind\n#FOREVER1 https://t.co/vhyk7JpwFo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						100,
+						116
+					]
+				},
+				{
+					"text": "DancePractice",
+					"indices": [
+						117,
+						131
+					]
+				},
+				{
+					"text": "Behind",
+					"indices": [
+						132,
+						139
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N0Rb3t9A2H",
+					"expanded_url": "https://youtu.be/g63tfuQndHE",
+					"display_url": "youtu.be/g63tfuQndHE",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1564975779741454300,
+					"id_str": "1564975779741454337",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FbfpLhmUUAEQggv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbfpLhmUUAEQggv.jpg",
+					"url": "https://t.co/vhyk7JpwFo",
+					"display_url": "pic.twitter.com/vhyk7JpwFo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564976469649997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564975779741454300,
+					"id_str": "1564975779741454337",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FbfpLhmUUAEQggv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbfpLhmUUAEQggv.jpg",
+					"url": "https://t.co/vhyk7JpwFo",
+					"display_url": "pic.twitter.com/vhyk7JpwFo",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1564976469649997824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3892228,
+			"friends_count": 5,
+			"listed_count": 6190,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3383,
+		"favorite_count": 4808,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Girls' Generation 소녀시대 'FOREVER 1' Dance Practice Behind The Scenes\n\nhttps://t.co/N0Rb3t9A2H\n\n#소녀시대 #GirlsGeneration\n#DancePractice #Behind\n#FOREVER1 https://t.co/vhyk7JpwFo"
+	},
+	{
+		"created_at": "Wed Aug 31 13:46:56 +0000 2022",
+		"id": 1564955070537814000,
+		"id_str": "1564973011853135872",
+		"full_text": "태연이 최애라고 하면 엄청 좋아해ㅋㅋㅋㅋㅋ 15년동안 최애였냐고 막 물어보고 최애가 바뀐거였냐고 묻고 진짜 절레절레하면서 절대 아니다 15년동안 계속 좋아했다고 손흔들고 하니깐 장난이라고 막 웃어 귀여워ㅠㅠㅠㅜ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 869027121062006800,
+			"id_str": "869027121062006784",
+			"name": "오롱",
+			"screen_name": "2hasmha6",
+			"location": "SMTOWN",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112,
+			"friends_count": 609,
+			"listed_count": 0,
+			"created_at": "Mon May 29 03:06:26 +0000 2017",
+			"favourites_count": 25666,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 41430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1179182371377012736/AJOS43Pi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1179182371377012736/AJOS43Pi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/869027121062006784/1646394774",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 218,
+		"favorite_count": 230,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "태연이 최애라고 하면 엄청 좋아해ㅋㅋㅋㅋㅋ 15년동안 최애였냐고 막 물어보고 최애가 바뀐거였냐고 묻고 진짜 절레절레하면서 절대 아니다 15년동안 계속 좋아했다고 손흔들고 하니깐 장난이라고 막 웃어 귀여워ㅠㅠㅠㅜ"
+	},
+	{
 		"created_at": "Wed Aug 31 09:44:57 +0000 2022",
 		"id": 1564900803260780500,
 		"id_str": "1564912114053091329",
