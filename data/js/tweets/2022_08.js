@@ -1,6 +1,262 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 02:07:09 +0000 2022",
+		"id": 1564795338384322600,
+		"id_str": "1564796905191776262",
+		"full_text": "지금은💗 앞으로도👍 영원히 소녀시대~🥰\n#소녀시대 를 향한 우리의 뜨거운 마음들🔥❤️\n#멜론 내 앨범 &amp; 곡 좋아요💕 무려 9,192,561개🙊\n\n(그룹/솔로/유닛 멜론 내 앨범 &amp;곡 좋아요 합산, 8/22 기준)\n\n@ S♡NE을 생각하면 강해져💫\n👉🏻https://t.co/VmYy9firkA\n\n#Melon #멜론데이터랩 @GirlsGeneration https://t.co/SSYRBZoZEf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						22,
+						27
+					]
+				},
+				{
+					"text": "멜론",
+					"indices": [
+						48,
+						51
+					]
+				},
+				{
+					"text": "Melon",
+					"indices": [
+						174,
+						180
+					]
+				},
+				{
+					"text": "멜론데이터랩",
+					"indices": [
+						181,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						189,
+						205
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VmYy9firkA",
+					"expanded_url": "http://kko.to/o-JPCLnPV",
+					"display_url": "kko.to/o-JPCLnPV",
+					"indices": [
+						149,
+						172
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1564785910478041000,
+					"id_str": "1564785910478041089",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1564785910478041089/pu/img/DQ9U9DSlfGgt12q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1564785910478041089/pu/img/DQ9U9DSlfGgt12q0.jpg",
+					"url": "https://t.co/SSYRBZoZEf",
+					"display_url": "pic.twitter.com/SSYRBZoZEf",
+					"expanded_url": "https://twitter.com/melon/status/1564795338384322561/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1564785910478041000,
+					"id_str": "1564785910478041089",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1564785910478041089/pu/img/DQ9U9DSlfGgt12q0.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1564785910478041089/pu/img/DQ9U9DSlfGgt12q0.jpg",
+					"url": "https://t.co/SSYRBZoZEf",
+					"display_url": "pic.twitter.com/SSYRBZoZEf",
+					"expanded_url": "https://twitter.com/melon/status/1564795338384322561/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 14000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1564785910478041089/pu/pl/4euabZc6azSP5GAM.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1564785910478041089/pu/vid/480x600/g2winhYo4e3Aejmo.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1564785910478041089/pu/vid/720x900/U8iRvupo5ng7WyGo.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1564785910478041089/pu/vid/320x400/J2b5PuqbZe5V2HOI.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 118953366,
+			"id_str": "118953366",
+			"name": "Melon",
+			"screen_name": "melon",
+			"location": "Seoul, Korea",
+			"description": "세상의 모든 TOP100, 멜론💚",
+			"url": "https://t.co/7eLGETkiu5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7eLGETkiu5",
+							"expanded_url": "http://melon.com",
+							"display_url": "melon.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 202743,
+			"friends_count": 76,
+			"listed_count": 679,
+			"created_at": "Tue Mar 02 06:13:44 +0000 2010",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/777742232484843520/B2B_FOZY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/118953366/1661247119",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 88,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "지금은💗 앞으로도👍 영원히 소녀시대~🥰\n#소녀시대 를 향한 우리의 뜨거운 마음들🔥❤️\n#멜론 내 앨범 &amp; 곡 좋아요💕 무려 9,192,561개🙊\n\n(그룹/솔로/유닛 멜론 내 앨범 &amp;곡 좋아요 합산, 8/22 기준)\n\n@ S♡NE을 생각하면 강해져💫\n👉🏻https://t.co/VmYy9firkA\n\n#Melon #멜론데이터랩 @GirlsGeneration https://t.co/SSYRBZoZEf"
+	},
+	{
 		"created_at": "Tue Aug 30 07:47:27 +0000 2022",
 		"id": 1564517462145568800,
 		"id_str": "1564520155442470913",
