@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 04:07:09 +0000 2022",
+		"id": 1565543601693937700,
+		"id_str": "1565551879605702659",
+		"full_text": "‘Good Job' #KWONYURI led the rise in ratings with her excellent acting in all genres, from comic to anger! \nIn the latest episode, she was officially selected as a detective’s assistant, hyping up for her full-fledged investigative activity!\n\n#권유리 \n#굿잡 #GoodJob \n#소녀시대 https://t.co/x5lVNeOg2g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KWONYURI",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						243,
+						247
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						249,
+						252
+					]
+				},
+				{
+					"text": "GoodJob",
+					"indices": [
+						253,
+						261
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						263,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565543593837662200,
+					"id_str": "1565543593837662208",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbntmp8VEAA366C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbntmp8VEAA366C.jpg",
+					"url": "https://t.co/x5lVNeOg2g",
+					"display_url": "pic.twitter.com/x5lVNeOg2g",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1565543601693937664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 728,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565543593837662200,
+					"id_str": "1565543593837662208",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbntmp8VEAA366C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbntmp8VEAA366C.jpg",
+					"url": "https://t.co/x5lVNeOg2g",
+					"display_url": "pic.twitter.com/x5lVNeOg2g",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1565543601693937664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 242,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 427,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 728,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11130406,
+			"friends_count": 55,
+			"listed_count": 12567,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 993,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Good Job' #KWONYURI led the rise in ratings with her excellent acting in all genres, from comic to anger! \nIn the latest episode, she was officially selected as a detective’s assistant, hyping up for her full-fledged investigative activity!\n\n#권유리 \n#굿잡 #GoodJob \n#소녀시대 https://t.co/x5lVNeOg2g"
+	},
+	{
 		"created_at": "Fri Sep 02 02:07:09 +0000 2022",
 		"id": 1565513278616260600,
 		"id_str": "1565521679983562753",
