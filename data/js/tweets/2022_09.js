@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 02 15:18:31 +0000 2022",
+		"id": 1565720836535091200,
+		"id_str": "1565720836535091201",
+		"full_text": "소녀시대 응원법 요청해주셔서 공유합니다. \nhttps://t.co/yIocRO0rhk \n(PDF만) https://t.co/ASlTrt8JEI \n\n15년 11월 업데이트가 마지막입니다. \n빠진 곡의 응원법은 인터넷에서 가져왔습니다. \n\n[빠진 응원법] \nHoliday \nAll Night \nFOREVER 1 \n\n#소녀시대 #소녀시대응원법 #소시응원법",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						174,
+						179
+					]
+				},
+				{
+					"text": "소녀시대응원법",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "소시응원법",
+					"indices": [
+						189,
+						195
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yIocRO0rhk",
+					"expanded_url": "https://bit.ly/SNSD_FanChantGuide",
+					"display_url": "bit.ly/SNSD_FanChantG…",
+					"indices": [
+						24,
+						47
+					]
+				},
+				{
+					"url": "https://t.co/ASlTrt8JEI",
+					"expanded_url": "https://bit.ly/SNSD_FanChant",
+					"display_url": "bit.ly/SNSD_FanChant",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270405347,
+			"id_str": "270405347",
+			"name": "SIGNO",
+			"screen_name": "IAMSIGNO",
+			"location": "",
+			"description": "소녀시대(Girls' Generation) S❤NE\n\n#소녀시대 #GirlsGeneration\n@GirlsGeneration @gg_official_jp",
+			"url": "https://t.co/6TifdAFXqL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6TifdAFXqL",
+							"expanded_url": "https://iamsigno.wordpress.com/",
+							"display_url": "iamsigno.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 486,
+			"friends_count": 444,
+			"listed_count": 3,
+			"created_at": "Tue Mar 22 15:18:36 +0000 2011",
+			"favourites_count": 1903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1201460639044005888/RTQPfRgI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270405347/1578714265",
+			"profile_link_color": "777777",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDE9D1",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대 응원법 요청해주셔서 공유합니다. \nhttps://t.co/yIocRO0rhk \n(PDF만) https://t.co/ASlTrt8JEI \n\n15년 11월 업데이트가 마지막입니다. \n빠진 곡의 응원법은 인터넷에서 가져왔습니다. \n\n[빠진 응원법] \nHoliday \nAll Night \nFOREVER 1 \n\n#소녀시대 #소녀시대응원법 #소시응원법"
+	},
+	{
 		"created_at": "Fri Sep 02 14:55:16 +0000 2022",
 		"id": 1565656533178122200,
 		"id_str": "1565714982779912192",
