@@ -1,6 +1,840 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 09:06:47 +0000 2022",
+		"id": 1565941625892716500,
+		"id_str": "1565989675160190976",
+		"full_text": "오늘 올공 소시랑 몬엑콘인데\n걍 이거 아님 ? https://t.co/P9X1aCF7to",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565941620599431200,
+					"id_str": "1565941620599431168",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtXm3LUIAAtpUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtXm3LUIAAtpUU.jpg",
+					"url": "https://t.co/P9X1aCF7to",
+					"display_url": "pic.twitter.com/P9X1aCF7to",
+					"expanded_url": "https://twitter.com/merrygohana/status/1565941625892716544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565941620599431200,
+					"id_str": "1565941620599431168",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtXm3LUIAAtpUU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtXm3LUIAAtpUU.jpg",
+					"url": "https://t.co/P9X1aCF7to",
+					"display_url": "pic.twitter.com/P9X1aCF7to",
+					"expanded_url": "https://twitter.com/merrygohana/status/1565941625892716544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 125207242,
+			"id_str": "125207242",
+			"name": "hana",
+			"screen_name": "merrygohana",
+			"location": "9979.214.209.20011122.178",
+			"description": "그만 할래 그만하고 싶다 진짜로 나도 내 인생 살아야지",
+			"url": "https://t.co/6ZnRMKSIZE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6ZnRMKSIZE",
+							"expanded_url": "https://peing.net/ko/merrygohana",
+							"display_url": "peing.net/ko/merrygohana",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1107,
+			"friends_count": 1104,
+			"listed_count": 14,
+			"created_at": "Mon Mar 22 02:20:28 +0000 2010",
+			"favourites_count": 69779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 291015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472559658619797511/cFJS1hJg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472559658619797511/cFJS1hJg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/125207242/1595333630",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 708,
+		"favorite_count": 321,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오늘 올공 소시랑 몬엑콘인데\n걍 이거 아님 ? https://t.co/P9X1aCF7to"
+	},
+	{
+		"created_at": "Sat Sep 03 08:53:48 +0000 2022",
+		"id": 1565969538243776500,
+		"id_str": "1565986405461131264",
+		"full_text": "오니까 저는 그냥 평범 그 잡채였네요😢\n\n#소녀시대 #LongLastingLove #GG4EVA\n#소녀시대_팬미팅 #핑크코스믹페스타 https://t.co/rkiGqdESct",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						23,
+						28
+					]
+				},
+				{
+					"text": "LongLastingLove",
+					"indices": [
+						29,
+						45
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						46,
+						53
+					]
+				},
+				{
+					"text": "소녀시대_팬미팅",
+					"indices": [
+						54,
+						63
+					]
+				},
+				{
+					"text": "핑크코스믹페스타",
+					"indices": [
+						64,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565969521210298400,
+					"id_str": "1565969521210298368",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbtw-5DUEAAChV9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbtw-5DUEAAChV9.jpg",
+					"url": "https://t.co/rkiGqdESct",
+					"display_url": "pic.twitter.com/rkiGqdESct",
+					"expanded_url": "https://twitter.com/_0wone/status/1565969538243776512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565969521210298400,
+					"id_str": "1565969521210298368",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbtw-5DUEAAChV9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbtw-5DUEAAChV9.jpg",
+					"url": "https://t.co/rkiGqdESct",
+					"display_url": "pic.twitter.com/rkiGqdESct",
+					"expanded_url": "https://twitter.com/_0wone/status/1565969538243776512/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1555523559786573800,
+			"id_str": "1555523559786573829",
+			"name": "𝟶𝚆♡𝙽𝙴",
+			"screen_name": "_0wone",
+			"location": "나의 청춘 소녀시대",
+			"description": "𝘚𝘪𝘯𝘤𝘦 2007~ #소녀시대 #SNSD #GG4EVA #GirlsGeneration",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103,
+			"friends_count": 106,
+			"listed_count": 0,
+			"created_at": "Fri Aug 05 11:58:25 +0000 2022",
+			"favourites_count": 1591,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565618039730581505/hDLHV8GY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565618039730581505/hDLHV8GY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1555523559786573829/1661077446",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 309,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "오니까 저는 그냥 평범 그 잡채였네요😢\n\n#소녀시대 #LongLastingLove #GG4EVA\n#소녀시대_팬미팅 #핑크코스믹페스타 https://t.co/rkiGqdESct"
+	},
+	{
+		"created_at": "Sat Sep 03 08:53:45 +0000 2022",
+		"id": 1565963114826592300,
+		"id_str": "1565986393457061888",
+		"full_text": "PINK COSMIC \n#LongLastingLove #GirlsGeneration​ #GG4EVA #소녀시대 https://t.co/zLd8YiKxau",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LongLastingLove",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"text": "GG4EVA",
+					"indices": [
+						48,
+						55
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						56,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565962945334739000,
+					"id_str": "1565962945334738944",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtrAIAaAAAdr1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtrAIAaAAAdr1H.jpg",
+					"url": "https://t.co/zLd8YiKxau",
+					"display_url": "pic.twitter.com/zLd8YiKxau",
+					"expanded_url": "https://twitter.com/JuMzlloll/status/1565963114826592258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565962945334739000,
+					"id_str": "1565962945334738944",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtrAIAaAAAdr1H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtrAIAaAAAdr1H.jpg",
+					"url": "https://t.co/zLd8YiKxau",
+					"display_url": "pic.twitter.com/zLd8YiKxau",
+					"expanded_url": "https://twitter.com/JuMzlloll/status/1565963114826592258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565962979631591400,
+					"id_str": "1565962979631591424",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtrCHxacAAyEii.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtrCHxacAAyEii.jpg",
+					"url": "https://t.co/zLd8YiKxau",
+					"display_url": "pic.twitter.com/zLd8YiKxau",
+					"expanded_url": "https://twitter.com/JuMzlloll/status/1565963114826592258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565963025110433800,
+					"id_str": "1565963025110433793",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtrExMagAEnbJH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtrExMagAEnbJH.jpg",
+					"url": "https://t.co/zLd8YiKxau",
+					"display_url": "pic.twitter.com/zLd8YiKxau",
+					"expanded_url": "https://twitter.com/JuMzlloll/status/1565963114826592258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565963066994741200,
+					"id_str": "1565963066994741248",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/FbtrHNOaUAAQy1j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbtrHNOaUAAQy1j.jpg",
+					"url": "https://t.co/zLd8YiKxau",
+					"display_url": "pic.twitter.com/zLd8YiKxau",
+					"expanded_url": "https://twitter.com/JuMzlloll/status/1565963114826592258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239026890,
+			"id_str": "239026890",
+			"name": "Jumzlloll",
+			"screen_name": "JuMzlloll",
+			"location": "",
+			"description": "Sone ★ RedVelvet★Aespa❤WJSN❗",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 668,
+			"friends_count": 413,
+			"listed_count": 2,
+			"created_at": "Sun Jan 16 16:44:22 +0000 2011",
+			"favourites_count": 27669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 91541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559396887429783552/LgFeXpPQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559396887429783552/LgFeXpPQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239026890/1358182001",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1154,
+		"favorite_count": 1487,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PINK COSMIC \n#LongLastingLove #GirlsGeneration​ #GG4EVA #소녀시대 https://t.co/zLd8YiKxau"
+	},
+	{
+		"created_at": "Sat Sep 03 08:53:44 +0000 2022",
+		"id": 1565984920962764800,
+		"id_str": "1565986387438243840",
+		"full_text": "널 생각하면 강해져💪🏻 https://t.co/6V1op2uIxL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565984910208561200,
+					"id_str": "1565984910208561153",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbt--piacAEr0EC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbt--piacAEr0EC.jpg",
+					"url": "https://t.co/6V1op2uIxL",
+					"display_url": "pic.twitter.com/6V1op2uIxL",
+					"expanded_url": "https://twitter.com/upggty/status/1565984920962764806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1994,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565984910208561200,
+					"id_str": "1565984910208561153",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbt--piacAEr0EC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbt--piacAEr0EC.jpg",
+					"url": "https://t.co/6V1op2uIxL",
+					"display_url": "pic.twitter.com/6V1op2uIxL",
+					"expanded_url": "https://twitter.com/upggty/status/1565984920962764806/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 662,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1994,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 499012418,
+			"id_str": "499012418",
+			"name": "큰 위로",
+			"screen_name": "upggty",
+			"location": "",
+			"description": "사랑하는 너에게",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2259,
+			"friends_count": 150,
+			"listed_count": 19,
+			"created_at": "Tue Feb 21 17:36:25 +0000 2012",
+			"favourites_count": 3509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562194394031091717/HPGmipuf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562194394031091717/HPGmipuf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/499012418/1654079176",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 874,
+		"favorite_count": 1016,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "널 생각하면 강해져💪🏻 https://t.co/6V1op2uIxL"
+	},
+	{
 		"created_at": "Sat Sep 03 07:07:17 +0000 2022",
 		"id": 1565958188280983600,
 		"id_str": "1565959600905617408",
