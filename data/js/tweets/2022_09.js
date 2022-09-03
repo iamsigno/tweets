@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 01:07:09 +0000 2022",
+		"id": 1565867174455136300,
+		"id_str": "1565868968073633792",
+		"full_text": "[예고] 귀차니즘 근데 성실함을 곁들인.. 최수영의 일상🔥\n곡소리가 절로 나는💦 이국주의 뉴 하우스의 정체는!?\n#전지적참견시점 토요일 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/W8pRZZxSKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "이영자",
+					"indices": [
+						88,
+						92
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						93,
+						97
+					]
+				},
+				{
+					"text": "송은이",
+					"indices": [
+						98,
+						102
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "유병재",
+					"indices": [
+						108,
+						112
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "한효주",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "진서연",
+					"indices": [
+						123,
+						127
+					]
+				},
+				{
+					"text": "이국주",
+					"indices": [
+						128,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565605299247087600,
+					"id_str": "1565605299247087616",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FbomC4xaQAYSRm4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbomC4xaQAYSRm4.jpg",
+					"url": "https://t.co/W8pRZZxSKq",
+					"display_url": "pic.twitter.com/W8pRZZxSKq",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565867174455136256/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565605299247087600,
+					"id_str": "1565605299247087616",
+					"indices": [
+						145,
+						168
+					],
+					"media_url": "http://pbs.twimg.com/media/FbomC4xaQAYSRm4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbomC4xaQAYSRm4.jpg",
+					"url": "https://t.co/W8pRZZxSKq",
+					"display_url": "pic.twitter.com/W8pRZZxSKq",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565867174455136256/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 320,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 59993,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565605299247087616/vid/720x900/5ipIIBoJV9LOLohx.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1565605299247087616/pl/PKAmoF7CNN2PNkf7.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565605299247087616/vid/480x600/ZM3e_p9msRUGtMyb.mp4?tag=14"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1565605299247087616/vid/320x400/W9XFu7cpDNTHAlt5.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 946273,
+			"friends_count": 5,
+			"listed_count": 1056,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18391,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[예고] 귀차니즘 근데 성실함을 곁들인.. 최수영의 일상🔥\n곡소리가 절로 나는💦 이국주의 뉴 하우스의 정체는!?\n#전지적참견시점 토요일 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/W8pRZZxSKq"
+	},
+	{
 		"created_at": "Fri Sep 02 15:18:31 +0000 2022",
 		"id": 1565720836535091200,
 		"id_str": "1565720836535091201",
