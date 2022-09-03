@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 07:07:17 +0000 2022",
+		"id": 1565958188280983600,
+		"id_str": "1565959600905617408",
+		"full_text": "※ 2022년 9월 3일(토) 19:30(KST)까지 구매 가능합니다\n※ You can purchase until September 3, 2022 (SAT) 19:30(KST)\n\n#소녀시대 #GirlsGeneration #SNSD #GG \n#2022_GirlsGeneration_Special_Event_Long_Lasting_Love\n#BeyondLIVE #Beyond_LIVE #비욘드라이브 \n#Beyond_LIVE_Long_Lasting_Love",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						123,
+						128
+					]
+				},
+				{
+					"text": "GG",
+					"indices": [
+						129,
+						132
+					]
+				},
+				{
+					"text": "2022_GirlsGeneration_Special_Event_Long_Lasting_Love",
+					"indices": [
+						134,
+						187
+					]
+				},
+				{
+					"text": "BeyondLIVE",
+					"indices": [
+						188,
+						199
+					]
+				},
+				{
+					"text": "Beyond_LIVE",
+					"indices": [
+						200,
+						212
+					]
+				},
+				{
+					"text": "비욘드라이브",
+					"indices": [
+						213,
+						220
+					]
+				},
+				{
+					"text": "Beyond_LIVE_Long_Lasting_Love",
+					"indices": [
+						222,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1565958185093337000,
+		"in_reply_to_status_id_str": "1565958185093337090",
+		"in_reply_to_user_id": 1247789684672974800,
+		"in_reply_to_user_id_str": "1247789684672974851",
+		"in_reply_to_screen_name": "Beyond_LIVE",
+		"user": {
+			"id": 1247789684672974800,
+			"id_str": "1247789684672974851",
+			"name": "Beyond_LIVE",
+			"screen_name": "Beyond_LIVE",
+			"location": "",
+			"description": "\"A new era of live concert begins\"",
+			"url": "https://t.co/oa8CdfHBJH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oa8CdfHBJH",
+							"expanded_url": "https://beyondlive.com",
+							"display_url": "beyondlive.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 50063,
+			"friends_count": 19,
+			"listed_count": 85,
+			"created_at": "Wed Apr 08 07:33:56 +0000 2020",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252797350583525376/SllRRCwI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247789684672974851/1587525142",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "ko",
+		"text": "※ 2022년 9월 3일(토) 19:30(KST)까지 구매 가능합니다\n※ You can purchase until September 3, 2022 (SAT) 19:30(KST)\n\n#소녀시대 #GirlsGeneration #SNSD #GG \n#2022_GirlsGeneration_Special_Event_Long_Lasting_Love\n#BeyondLIVE #Beyond_LIVE #비욘드라이브 \n#Beyond_LIVE_Long_Lasting_Love"
+	},
+	{
 		"created_at": "Sat Sep 03 06:07:09 +0000 2022",
 		"id": 1565942844581646300,
 		"id_str": "1565944466447409154",
