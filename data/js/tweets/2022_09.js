@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 04:07:09 +0000 2022",
+		"id": 1565912470060880000,
+		"id_str": "1565914266682679296",
+		"full_text": "귀차니즘에 성실함 한 스푼 추가한 최수영의 극과 극 일상🤩\nMBC #전지적참견시점 오늘 밤 11시 10분 본방사수❣\n#전참시 #최수영 https://t.co/ckCxLGP2NB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "전참시",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						70,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1565500929608421400,
+					"id_str": "1565500929608421378",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnGzRTakAIwsvi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnGzRTakAIwsvi.jpg",
+					"url": "https://t.co/ckCxLGP2NB",
+					"display_url": "pic.twitter.com/ckCxLGP2NB",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565912470060879872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1565500929608421400,
+					"id_str": "1565500929608421378",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnGzRTakAIwsvi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnGzRTakAIwsvi.jpg",
+					"url": "https://t.co/ckCxLGP2NB",
+					"display_url": "pic.twitter.com/ckCxLGP2NB",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565912470060879872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565500929721647000,
+					"id_str": "1565500929721647105",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnGzRuaQAEMvVp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnGzRuaQAEMvVp.jpg",
+					"url": "https://t.co/ckCxLGP2NB",
+					"display_url": "pic.twitter.com/ckCxLGP2NB",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565912470060879872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1565500929801334800,
+					"id_str": "1565500929801334784",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FbnGzSBaMAAvTEE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbnGzSBaMAAvTEE.jpg",
+					"url": "https://t.co/ckCxLGP2NB",
+					"display_url": "pic.twitter.com/ckCxLGP2NB",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1565912470060879872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 946273,
+			"friends_count": 5,
+			"listed_count": 1056,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "귀차니즘에 성실함 한 스푼 추가한 최수영의 극과 극 일상🤩\nMBC #전지적참견시점 오늘 밤 11시 10분 본방사수❣\n#전참시 #최수영 https://t.co/ckCxLGP2NB"
+	},
+	{
 		"created_at": "Sat Sep 03 03:07:22 +0000 2022",
 		"id": 1565892031830179800,
 		"id_str": "1565899222758612992",
@@ -284,7 +553,7 @@ Grailbird.data.tweets_2022_09 =
 		"created_at": "Sat Sep 03 03:07:15 +0000 2022",
 		"id": 1565890595456921600,
 		"id_str": "1565899192685547520",
-		"full_text": "[선공개] 자기관리의 끝판왕 수영을 반겨주는 엄청난 운동 메이트들💪\n수영&amp;진서연&amp;한효주 그리고 양치승이 함께하는 운동 현장 대공개❤️‍🔥🥊\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/L7Wpcx5HEz",
+		"full_text": "[선공개] 자기관리의 끝판왕 수영을 반겨주는 엄청난 운동 메이트들💪\n수영&amp;진서연&amp;한효주 그리고 양치승이 함께하는 운동 현장 대공개❤️🔥🥊\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/L7Wpcx5HEz",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -558,7 +827,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "[선공개] 자기관리의 끝판왕 수영을 반겨주는 엄청난 운동 메이트들💪\n수영&amp;진서연&amp;한효주 그리고 양치승이 함께하는 운동 현장 대공개❤️‍🔥🥊\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/L7Wpcx5HEz"
+		"text": "[선공개] 자기관리의 끝판왕 수영을 반겨주는 엄청난 운동 메이트들💪\n수영&amp;진서연&amp;한효주 그리고 양치승이 함께하는 운동 현장 대공개❤️🔥🥊\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#최수영 #한효주 #진서연 #이국주\nMBC220903방송 https://t.co/L7Wpcx5HEz"
 	},
 	{
 		"created_at": "Sat Sep 03 01:07:09 +0000 2022",
