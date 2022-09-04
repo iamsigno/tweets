@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 05:44:57 +0000 2022",
+		"id": 1566293187224031200,
+		"id_str": "1566301268003504128",
+		"full_text": "소녀시대, 시야제한석까지 전석 매진! 전 세계 96개 지역에서 온라인으로도 함께 시청! 대규모 스페셜 팬이벤트로 데뷔 15주년 활동 화려한 피날레!\n \n“소원 덕분에 소녀시대 15번째 여름이 행복했다”\n“빠른 시일 내에 다시 모이는 것을 약속하겠다”\n\n#GirlsGeneration #소녀시대 \n#Long_Lasting_Love https://t.co/EXOjLun0wu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						141,
+						157
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						158,
+						163
+					]
+				},
+				{
+					"text": "Long_Lasting_Love",
+					"indices": [
+						165,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566293049042698200,
+					"id_str": "1566293049042698241",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyXOsJagAEwdh-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyXOsJagAEwdh-.jpg",
+					"url": "https://t.co/EXOjLun0wu",
+					"display_url": "pic.twitter.com/EXOjLun0wu",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1566293187224031232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566293049042698200,
+					"id_str": "1566293049042698241",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyXOsJagAEwdh-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyXOsJagAEwdh-.jpg",
+					"url": "https://t.co/EXOjLun0wu",
+					"display_url": "pic.twitter.com/EXOjLun0wu",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1566293187224031232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566293049164320800,
+					"id_str": "1566293049164320774",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyXOsmaUAY3Hun.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyXOsmaUAY3Hun.jpg",
+					"url": "https://t.co/EXOjLun0wu",
+					"display_url": "pic.twitter.com/EXOjLun0wu",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1566293187224031232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566293049357246500,
+					"id_str": "1566293049357246469",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyXOtUaIAUcYMA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyXOtUaIAUcYMA.jpg",
+					"url": "https://t.co/EXOjLun0wu",
+					"display_url": "pic.twitter.com/EXOjLun0wu",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1566293187224031232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 667,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3897278,
+			"friends_count": 5,
+			"listed_count": 6192,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6128,
+		"favorite_count": 11880,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "소녀시대, 시야제한석까지 전석 매진! 전 세계 96개 지역에서 온라인으로도 함께 시청! 대규모 스페셜 팬이벤트로 데뷔 15주년 활동 화려한 피날레!\n \n“소원 덕분에 소녀시대 15번째 여름이 행복했다”\n“빠른 시일 내에 다시 모이는 것을 약속하겠다”\n\n#GirlsGeneration #소녀시대 \n#Long_Lasting_Love https://t.co/EXOjLun0wu"
+	},
+	{
 		"created_at": "Sun Sep 04 05:07:09 +0000 2022",
 		"id": 1566289710867026000,
 		"id_str": "1566291754197950464",
