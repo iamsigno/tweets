@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 04 05:07:09 +0000 2022",
+		"id": 1566289710867026000,
+		"id_str": "1566291754197950464",
+		"full_text": "#TheBigMouth #LIMYOONA proves herself as an irreplaceable actress with her deep acting and action skills! She grabs the attention of the audience as a fearless problem solver who follows her instinct, leading to another record-breaking ratings!\n\n#임윤아 \n#빅마우스 \n#소녀시대 https://t.co/awBXpjShrO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigMouth",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"text": "임윤아",
+					"indices": [
+						246,
+						250
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						252,
+						257
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						259,
+						264
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566289704797892600,
+					"id_str": "1566289704797892609",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyUMB3UcAE90Jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyUMB3UcAE90Jc.jpg",
+					"url": "https://t.co/awBXpjShrO",
+					"display_url": "pic.twitter.com/awBXpjShrO",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566289710867025920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566289704797892600,
+					"id_str": "1566289704797892609",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FbyUMB3UcAE90Jc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FbyUMB3UcAE90Jc.jpg",
+					"url": "https://t.co/awBXpjShrO",
+					"display_url": "pic.twitter.com/awBXpjShrO",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566289710867025920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 241,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 726,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 425,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11137947,
+			"friends_count": 55,
+			"listed_count": 12573,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 156,
+		"favorite_count": 706,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TheBigMouth #LIMYOONA proves herself as an irreplaceable actress with her deep acting and action skills! She grabs the attention of the audience as a fearless problem solver who follows her instinct, leading to another record-breaking ratings!\n\n#임윤아 \n#빅마우스 \n#소녀시대 https://t.co/awBXpjShrO"
+	},
+	{
 		"created_at": "Sat Sep 03 15:45:16 +0000 2022",
 		"id": 1566088397164540000,
 		"id_str": "1566089956443004932",
