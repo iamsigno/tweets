@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 05 04:07:15 +0000 2022",
+		"id": 1566626170409734100,
+		"id_str": "1566639068007616515",
+		"full_text": "LIM YOONA is on the cover of magazines for the 5th time this year alone! She has set an unprecedented record in all genres, from movies, dramas, music, to fashion!\n\n#임윤아 #LIMYOONA\n#소녀시대 #GirlsGeneration https://t.co/uARCeYgxxr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						165,
+						169
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566626164793233400,
+					"id_str": "1566626164793233414",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"url": "https://t.co/uARCeYgxxr",
+					"display_url": "pic.twitter.com/uARCeYgxxr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566626170409734144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566626164793233400,
+					"id_str": "1566626164793233414",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3GMlBVUAYR7IE.jpg",
+					"url": "https://t.co/uARCeYgxxr",
+					"display_url": "pic.twitter.com/uARCeYgxxr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566626170409734144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 782,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566626164805816300,
+					"id_str": "1566626164805816320",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb3GMlEVUAA0iX6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb3GMlEVUAA0iX6.jpg",
+					"url": "https://t.co/uARCeYgxxr",
+					"display_url": "pic.twitter.com/uARCeYgxxr",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566626170409734144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 545,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 820,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566626081012338700,
+		"in_reply_to_status_id_str": "1566626081012338690",
+		"in_reply_to_user_id": 884378714,
+		"in_reply_to_user_id_str": "884378714",
+		"in_reply_to_screen_name": "SMTOWNGLOBAL",
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11141788,
+			"friends_count": 55,
+			"listed_count": 12574,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1057,
+		"favorite_count": 2890,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIM YOONA is on the cover of magazines for the 5th time this year alone! She has set an unprecedented record in all genres, from movies, dramas, music, to fashion!\n\n#임윤아 #LIMYOONA\n#소녀시대 #GirlsGeneration https://t.co/uARCeYgxxr"
+	},
+	{
 		"created_at": "Sun Sep 04 06:44:57 +0000 2022",
 		"id": 1566305646999654400,
 		"id_str": "1566316366587633664",
