@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 09:07:09 +0000 2022",
+		"id": 1567076863201390600,
+		"id_str": "1567076927994843136",
+		"full_text": "[어딜맨 EP.08] 아이브의 ELEVEN이 데뷔곡이 되지 못할 뻔\n[ADM EP.08] 'Eleven' may not have been IVE's debut song.\n#KPOP #라이언전 #IVE #OHMYGIRL #태연 #IU #어딜맨 #CIRCLECHART\nhttps://t.co/yaBxyDGEKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPOP",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "라이언전",
+					"indices": [
+						101,
+						106
+					]
+				},
+				{
+					"text": "IVE",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "OHMYGIRL",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "IU",
+					"indices": [
+						126,
+						129
+					]
+				},
+				{
+					"text": "어딜맨",
+					"indices": [
+						130,
+						134
+					]
+				},
+				{
+					"text": "CIRCLECHART",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yaBxyDGEKQ",
+					"expanded_url": "https://youtu.be/Qndd4yJuz2c",
+					"display_url": "youtu.be/Qndd4yJuz2c",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3435012852,
+			"id_str": "3435012852",
+			"name": "CIRCLE CHART",
+			"screen_name": "CIRCLE_CHART",
+			"location": "대한민국",
+			"description": "Korea Music Content Association\nhttps://t.co/7JMmIBGvPc\nhttps://t.co/gIoX7PLKtq\nhttps://t.co/e2m08ZBI9s",
+			"url": "https://t.co/tomHXaN9w8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tomHXaN9w8",
+							"expanded_url": "https://circlechart.kr",
+							"display_url": "circlechart.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7JMmIBGvPc",
+							"expanded_url": "http://facebook.com/circlechart.kr",
+							"display_url": "facebook.com/circlechart.kr",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/gIoX7PLKtq",
+							"expanded_url": "http://instagram.com/circlechart",
+							"display_url": "instagram.com/circlechart",
+							"indices": [
+								56,
+								79
+							]
+						},
+						{
+							"url": "https://t.co/e2m08ZBI9s",
+							"expanded_url": "http://youtube.com/c/CIRCLECHART",
+							"display_url": "youtube.com/c/CIRCLECHART",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22654,
+			"friends_count": 5,
+			"listed_count": 54,
+			"created_at": "Thu Sep 03 08:42:20 +0000 2015",
+			"favourites_count": 22,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 387,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562632563088572416/_i5lS1jt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562632563088572416/_i5lS1jt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3435012852/1658111849",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[어딜맨 EP.08] 아이브의 ELEVEN이 데뷔곡이 되지 못할 뻔\n[ADM EP.08] 'Eleven' may not have been IVE's debut song.\n#KPOP #라이언전 #IVE #OHMYGIRL #태연 #IU #어딜맨 #CIRCLECHART\nhttps://t.co/yaBxyDGEKQ"
+	},
+	{
 		"created_at": "Tue Sep 06 08:07:09 +0000 2022",
 		"id": 1567058012346482700,
 		"id_str": "1567061828735303681",
