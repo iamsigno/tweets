@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 03:07:09 +0000 2022",
+		"id": 1566980581145342000,
+		"id_str": "1566986332336971783",
+		"full_text": "PARK SOOYOUNG in ‘Once Upon a Small Town’ captivates the audience with her intense first appearance! She has mastered portraying complicated emotions of her character and her subtle change of heart!\n\n#박수영 #PARKSOOYOUNG  \n#조이 #JOY \n#레드벨벳 #RedVelvet \n#어쩌다전원일기 https://t.co/WpN67zROMG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "박수영",
+					"indices": [
+						200,
+						204
+					]
+				},
+				{
+					"text": "PARKSOOYOUNG",
+					"indices": [
+						205,
+						218
+					]
+				},
+				{
+					"text": "조이",
+					"indices": [
+						221,
+						224
+					]
+				},
+				{
+					"text": "JOY",
+					"indices": [
+						225,
+						229
+					]
+				},
+				{
+					"text": "레드벨벳",
+					"indices": [
+						231,
+						236
+					]
+				},
+				{
+					"text": "RedVelvet",
+					"indices": [
+						237,
+						247
+					]
+				},
+				{
+					"text": "어쩌다전원일기",
+					"indices": [
+						249,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566980572219871200,
+					"id_str": "1566980572219871235",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8IhzkakAMuB3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8IhzkakAMuB3C.jpg",
+					"url": "https://t.co/WpN67zROMG",
+					"display_url": "pic.twitter.com/WpN67zROMG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566980581145341952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 479,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566980572219871200,
+					"id_str": "1566980572219871235",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/Fb8IhzkakAMuB3C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fb8IhzkakAMuB3C.jpg",
+					"url": "https://t.co/WpN67zROMG",
+					"display_url": "pic.twitter.com/WpN67zROMG",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1566980581145341952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 818,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 272,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 479,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11144961,
+			"friends_count": 55,
+			"listed_count": 12580,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1262,
+		"favorite_count": 3384,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PARK SOOYOUNG in ‘Once Upon a Small Town’ captivates the audience with her intense first appearance! She has mastered portraying complicated emotions of her character and her subtle change of heart!\n\n#박수영 #PARKSOOYOUNG  \n#조이 #JOY \n#레드벨벳 #RedVelvet \n#어쩌다전원일기 https://t.co/WpN67zROMG"
+	},
+	{
 		"created_at": "Tue Sep 06 01:07:09 +0000 2022",
 		"id": 1566954773064319000,
 		"id_str": "1566956131498528768",
