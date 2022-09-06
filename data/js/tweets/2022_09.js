@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 06 08:07:09 +0000 2022",
+		"id": 1567058012346482700,
+		"id_str": "1567061828735303681",
+		"full_text": "이 노래들 없었으면 \n지난 8월이 무슨 의미가 있나\n\n&lt;틱톡 주간 차트 30&gt; 8월 ver.\n\n🎵 Attention - New Jeans @NewJeans_ADOR\n🎵 Summer - Paul Blanco #PaulBlanco\n🎵 Oh! - 소녀시대 @GirlsGeneration\n🎵 After Like - IVE @IVEstarship\n\n자세한 틱톡 주간 차트는 \n멜론 트렌드 탭에서 확인! https://t.co/tUuEqDtTUY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PaulBlanco",
+					"indices": [
+						121,
+						132
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewJeans_ADOR",
+					"name": "NewJeans",
+					"id": 1476476838180696000,
+					"id_str": "1476476838180696073",
+					"indices": [
+						83,
+						97
+					]
+				},
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"screen_name": "IVEstarship",
+					"name": "IVE OFFICIAL",
+					"id": 1402182579265048600,
+					"id_str": "1402182579265048598",
+					"indices": [
+						182,
+						194
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567057921732640800,
+					"id_str": "1567057921732640770",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567057921732640770/pu/img/8P6oW8-1shvLtWGM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567057921732640770/pu/img/8P6oW8-1shvLtWGM.jpg",
+					"url": "https://t.co/tUuEqDtTUY",
+					"display_url": "pic.twitter.com/tUuEqDtTUY",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1567058012346482689/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567057921732640800,
+					"id_str": "1567057921732640770",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567057921732640770/pu/img/8P6oW8-1shvLtWGM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567057921732640770/pu/img/8P6oW8-1shvLtWGM.jpg",
+					"url": "https://t.co/tUuEqDtTUY",
+					"display_url": "pic.twitter.com/tUuEqDtTUY",
+					"expanded_url": "https://twitter.com/TiktokKR/status/1567058012346482689/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 58324,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567057921732640770/pu/vid/480x852/Qxusdvy-uNIR5beB.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567057921732640770/pu/vid/720x1280/cmjdiKJNja1CRW2C.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1567057921732640770/pu/pl/wHEiV8gyHGE4ZMWd.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1567057921732640770/pu/vid/320x568/yu_B8qJRCJr86qeU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 895890154639966200,
+			"id_str": "895890154639966208",
+			"name": "TikTok_Korea",
+			"screen_name": "TiktokKR",
+			"location": "",
+			"description": "당신의 모든 것을 존중 🤍",
+			"url": "https://t.co/18DZ3syY4Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/18DZ3syY4Z",
+							"expanded_url": "https://linktr.ee/TikTok_kr",
+							"display_url": "linktr.ee/TikTok_kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 215681,
+			"friends_count": 161,
+			"listed_count": 174,
+			"created_at": "Fri Aug 11 06:10:32 +0000 2017",
+			"favourites_count": 2378,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472094214175727617/RXVSA4vt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472094214175727617/RXVSA4vt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/895890154639966208/1655104455",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이 노래들 없었으면 \n지난 8월이 무슨 의미가 있나\n\n&lt;틱톡 주간 차트 30&gt; 8월 ver.\n\n🎵 Attention - New Jeans @NewJeans_ADOR\n🎵 Summer - Paul Blanco #PaulBlanco\n🎵 Oh! - 소녀시대 @GirlsGeneration\n🎵 After Like - IVE @IVEstarship\n\n자세한 틱톡 주간 차트는 \n멜론 트렌드 탭에서 확인! https://t.co/tUuEqDtTUY"
+	},
+	{
 		"created_at": "Tue Sep 06 03:07:09 +0000 2022",
 		"id": 1566980581145342000,
 		"id_str": "1566986332336971783",
