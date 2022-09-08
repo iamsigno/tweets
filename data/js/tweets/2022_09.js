@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 03:07:09 +0000 2022",
+		"id": 1567709110556295200,
+		"id_str": "1567711108215066627",
+		"full_text": "1151회 #핫스테이지  1위 🏆✨\nThank you S♡NE 🫶🏻\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#인기가요 #Inkigayo https://t.co/SvoQPxbuLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "핫스테이지",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						39,
+						55
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						56,
+						61
+					]
+				},
+				{
+					"text": "FOREVER1",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"text": "인기가요",
+					"indices": [
+						72,
+						77
+					]
+				},
+				{
+					"text": "Inkigayo",
+					"indices": [
+						78,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567707549302136800,
+					"id_str": "1567707549302136832",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGdtcPaIAAMdF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGdtcPaIAAMdF2.jpg",
+					"url": "https://t.co/SvoQPxbuLm",
+					"display_url": "pic.twitter.com/SvoQPxbuLm",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1567709110556295170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567707549302136800,
+					"id_str": "1567707549302136832",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FcGdtcPaIAAMdF2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcGdtcPaIAAMdF2.jpg",
+					"url": "https://t.co/SvoQPxbuLm",
+					"display_url": "pic.twitter.com/SvoQPxbuLm",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1567709110556295170/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3900629,
+			"friends_count": 5,
+			"listed_count": 6202,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 63,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3723,
+		"favorite_count": 6365,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "1151회 #핫스테이지  1위 🏆✨\nThank you S♡NE 🫶🏻\n\n#GirlsGeneration #소녀시대\n#FOREVER1\n#인기가요 #Inkigayo https://t.co/SvoQPxbuLm"
+	},
+	{
 		"created_at": "Thu Sep 08 01:07:09 +0000 2022",
 		"id": 1567667928816033800,
 		"id_str": "1567680908366434305",
