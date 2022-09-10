@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 02:07:16 +0000 2022",
+		"id": 1568417474848366600,
+		"id_str": "1568420813262716928",
+		"full_text": "[선공개] 시끌벅쩍하게 시작된 나단과 파트리샤의 집들이🏡\n시작은 집들이였으나 그 끝은 삼각관계의 지옥...⁉️\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#다니엘헤니 #현빈 #윤아 #조나단 #파트리샤 #유규선 #안젤리나 #문상훈\nMBC220910방송 https://t.co/USkIkfQuW7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						62,
+						70
+					]
+				},
+				{
+					"text": "이영자",
+					"indices": [
+						86,
+						90
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						91,
+						95
+					]
+				},
+				{
+					"text": "송은이",
+					"indices": [
+						96,
+						100
+					]
+				},
+				{
+					"text": "양세형",
+					"indices": [
+						101,
+						105
+					]
+				},
+				{
+					"text": "유병재",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						111,
+						117
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						118,
+						121
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						122,
+						125
+					]
+				},
+				{
+					"text": "조나단",
+					"indices": [
+						126,
+						130
+					]
+				},
+				{
+					"text": "파트리샤",
+					"indices": [
+						131,
+						136
+					]
+				},
+				{
+					"text": "유규선",
+					"indices": [
+						137,
+						141
+					]
+				},
+				{
+					"text": "안젤리나",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "문상훈",
+					"indices": [
+						148,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1568416646167150600,
+					"id_str": "1568416646167150594",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQjULEaMAEmuDN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQjULEaMAEmuDN.jpg",
+					"url": "https://t.co/USkIkfQuW7",
+					"display_url": "pic.twitter.com/USkIkfQuW7",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1568417474848366592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1568416646167150600,
+					"id_str": "1568416646167150594",
+					"indices": [
+						165,
+						188
+					],
+					"media_url": "http://pbs.twimg.com/media/FcQjULEaMAEmuDN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcQjULEaMAEmuDN.jpg",
+					"url": "https://t.co/USkIkfQuW7",
+					"display_url": "pic.twitter.com/USkIkfQuW7",
+					"expanded_url": "https://twitter.com/MBC_entertain/status/1568417474848366592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 245745,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1568416646167150594/pl/9kYKfePyP5Z-cr9n.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1568416646167150594/vid/480x270/t7z0xa9j-6HNav8c.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1568416646167150594/vid/640x360/lwGhlytoV66Uu0y3.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1568416646167150594/vid/1280x720/n7rZwtgcESXOb3YR.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4144012572,
+			"id_str": "4144012572",
+			"name": "MBC 예능연구소",
+			"screen_name": "MBC_entertain",
+			"location": "",
+			"description": "MBC 예능의 꿀잼만 모아 드림 official",
+			"url": "https://t.co/0qhNQRu9qS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0qhNQRu9qS",
+							"expanded_url": "http://facebook.com/MBCentertain",
+							"display_url": "facebook.com/MBCentertain",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 953961,
+			"friends_count": 5,
+			"listed_count": 1068,
+			"created_at": "Fri Nov 06 08:21:55 +0000 2015",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 18520,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1527172111193628672/wxzcfTTF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4144012572/1652920917",
+			"profile_link_color": "45B7DE",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[선공개] 시끌벅쩍하게 시작된 나단과 파트리샤의 집들이🏡\n시작은 집들이였으나 그 끝은 삼각관계의 지옥...⁉️\n#전지적참견시점 오늘 밤 11시 10분~📺\n#이영자 #전현무 #송은이 #양세형 #유병재\n#다니엘헤니 #현빈 #윤아 #조나단 #파트리샤 #유규선 #안젤리나 #문상훈\nMBC220910방송 https://t.co/USkIkfQuW7"
+	},
+	{
 		"created_at": "Sat Sep 10 01:07:09 +0000 2022",
 		"id": 1568403893662486500,
 		"id_str": "1568405683367804930",
