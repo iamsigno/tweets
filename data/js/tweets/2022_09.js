@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 11 04:07:09 +0000 2022",
+		"id": 1568811822412619800,
+		"id_str": "1568813370437935106",
+		"full_text": "[#TMINEWSSHOW/28회] 코로나 시국의 필수템! 말하자마자 8,000개가 팔린 티파니 영의 완판템은?\n\n📍 영상 보러가기\n▶️ https://t.co/8PEKnrm1qS\n▶️ https://t.co/JBozKMZxpn\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #티파니 #티파니영 #소녀시대 https://t.co/yM3XhF8jh9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TMINEWSSHOW",
+					"indices": [
+						1,
+						13
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						142,
+						147
+					]
+				},
+				{
+					"text": "붐",
+					"indices": [
+						182,
+						184
+					]
+				},
+				{
+					"text": "미주",
+					"indices": [
+						185,
+						188
+					]
+				},
+				{
+					"text": "티파니",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "티파니영",
+					"indices": [
+						194,
+						199
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						200,
+						205
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8PEKnrm1qS",
+					"expanded_url": "http://youtu.be/POTIr95-J7o",
+					"display_url": "youtu.be/POTIr95-J7o",
+					"indices": [
+						76,
+						99
+					]
+				},
+				{
+					"url": "https://t.co/JBozKMZxpn",
+					"expanded_url": "http://tv.naver.com/v/29080829",
+					"display_url": "tv.naver.com/v/29080829",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567753470710784000,
+					"id_str": "1567753470710784001",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHHea0aIAESon8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHHea0aIAESon8.jpg",
+					"url": "https://t.co/yM3XhF8jh9",
+					"display_url": "pic.twitter.com/yM3XhF8jh9",
+					"expanded_url": "https://twitter.com/MnetKR/status/1568811822412619776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567753470710784000,
+					"id_str": "1567753470710784001",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHHea0aIAESon8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcHHea0aIAESon8.jpg",
+					"url": "https://t.co/yM3XhF8jh9",
+					"display_url": "pic.twitter.com/yM3XhF8jh9",
+					"expanded_url": "https://twitter.com/MnetKR/status/1568811822412619776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128466223,
+			"id_str": "128466223",
+			"name": "Mnet",
+			"screen_name": "MnetKR",
+			"location": "Seoul, Korea",
+			"description": "Official Twitter of Mnet, Asia`s #1 Music Channel.",
+			"url": "http://t.co/596v5W1yWN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/596v5W1yWN",
+							"expanded_url": "http://www.mnet.com",
+							"display_url": "mnet.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3067824,
+			"friends_count": 20822,
+			"listed_count": 3042,
+			"created_at": "Thu Apr 01 05:53:04 +0000 2010",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272335418474721280/wWS9b90j_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128466223/1592183300",
+			"profile_link_color": "E40076",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5DCE7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#TMINEWSSHOW/28회] 코로나 시국의 필수템! 말하자마자 8,000개가 팔린 티파니 영의 완판템은?\n\n📍 영상 보러가기\n▶️ https://t.co/8PEKnrm1qS\n▶️ https://t.co/JBozKMZxpn\n\n과몰입 유발 아이돌 차트 #Mnet 〈TMI NEWS SHOW〉\n매주 수요일 저녁 8시 본방송\n\n#붐 #미주 #티파니 #티파니영 #소녀시대 https://t.co/yM3XhF8jh9"
+	},
+	{
 		"created_at": "Sat Sep 10 02:07:16 +0000 2022",
 		"id": 1568417474848366600,
 		"id_str": "1568420813262716928",
