@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 08:07:09 +0000 2022",
+		"id": 1569959142604808200,
+		"id_str": "1569960931995668480",
+		"full_text": "#내이름은김삼순 에서 만났었던 두 사람의 재회💞\n#공조2:인터내셔날 시사회까지🎬 #전참시 에서 만나요📺\n\n&lt;#전지적참견시점&gt; 토요일 밤 11시 10분 방송 👀\n#다니엘헤니 #현빈 #유해진 #윤아(of #소녀시대) #진선규\nMBC 220910 방송 https://t.co/oK5jQQ1MLm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "내이름은김삼순",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						27,
+						31
+					]
+				},
+				{
+					"text": "전참시",
+					"indices": [
+						45,
+						49
+					]
+				},
+				{
+					"text": "전지적참견시점",
+					"indices": [
+						63,
+						71
+					]
+				},
+				{
+					"text": "다니엘헤니",
+					"indices": [
+						95,
+						101
+					]
+				},
+				{
+					"text": "현빈",
+					"indices": [
+						102,
+						105
+					]
+				},
+				{
+					"text": "유해진",
+					"indices": [
+						106,
+						110
+					]
+				},
+				{
+					"text": "윤아",
+					"indices": [
+						111,
+						114
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "진선규",
+					"indices": [
+						125,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569875810701693000,
+					"id_str": "1569875810701692934",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FclSG9oaMAAAOF4.png",
+					"media_url_https": "https://pbs.twimg.com/media/FclSG9oaMAAAOF4.png",
+					"url": "https://t.co/oK5jQQ1MLm",
+					"display_url": "pic.twitter.com/oK5jQQ1MLm",
+					"expanded_url": "https://twitter.com/withMBC/status/1569959142604808192/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569875810701693000,
+					"id_str": "1569875810701692934",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FclSG9oaMAAAOF4.png",
+					"media_url_https": "https://pbs.twimg.com/media/FclSG9oaMAAAOF4.png",
+					"url": "https://t.co/oK5jQQ1MLm",
+					"display_url": "pic.twitter.com/oK5jQQ1MLm",
+					"expanded_url": "https://twitter.com/withMBC/status/1569959142604808192/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 60026,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569875810701692934/vid/320x320/3qqiq5k1XF85oAqk.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569875810701692934/vid/540x540/7jPENwzBOQ0zXR3P.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1569875810701692934/vid/720x720/126OSg64GRMkwByD.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1569875810701692934/pl/76eO1Q07p3O3EEpQ.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1003933,
+			"friends_count": 9821,
+			"listed_count": 4197,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1657170907",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#내이름은김삼순 에서 만났었던 두 사람의 재회💞\n#공조2:인터내셔날 시사회까지🎬 #전참시 에서 만나요📺\n\n&lt;#전지적참견시점&gt; 토요일 밤 11시 10분 방송 👀\n#다니엘헤니 #현빈 #유해진 #윤아(of #소녀시대) #진선규\nMBC 220910 방송 https://t.co/oK5jQQ1MLm"
+	},
+	{
 		"created_at": "Wed Sep 14 03:07:09 +0000 2022",
 		"id": 1569877805655269400,
 		"id_str": "1569885435958284291",
