@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 04:07:09 +0000 2022",
+		"id": 1570612745393021000,
+		"id_str": "1570625311338909701",
+		"full_text": "‘#GoodJob’ KWON YURI captivates the audience with her acting spanning from action, romance, to comedy!\nIn the latest episode, she rushes to save the kidnapped Jung Il-Woo, showing a proactive, independent side of her character!\n\n#권유리 #KWONYURI\n#굿잡\n#소녀시대 #GirlsGeneration https://t.co/vKxGvkwM2M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodJob",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "권유리",
+					"indices": [
+						229,
+						233
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						234,
+						243
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						244,
+						247
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						248,
+						253
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						254,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570612738417913900,
+					"id_str": "1570612738417913857",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"url": "https://t.co/vKxGvkwM2M",
+					"display_url": "pic.twitter.com/vKxGvkwM2M",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1570612745393020928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570612738417913900,
+					"id_str": "1570612738417913857",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcvv9tEacAEi2qO.jpg",
+					"url": "https://t.co/vKxGvkwM2M",
+					"display_url": "pic.twitter.com/vKxGvkwM2M",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1570612745393020928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 430,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 734,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11176622,
+			"friends_count": 55,
+			"listed_count": 12611,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 257,
+		"favorite_count": 1241,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘#GoodJob’ KWON YURI captivates the audience with her acting spanning from action, romance, to comedy!\nIn the latest episode, she rushes to save the kidnapped Jung Il-Woo, showing a proactive, independent side of her character!\n\n#권유리 #KWONYURI\n#굿잡\n#소녀시대 #GirlsGeneration https://t.co/vKxGvkwM2M"
+	},
+	{
 		"created_at": "Thu Sep 15 15:07:09 +0000 2022",
 		"id": 1570419793500463000,
 		"id_str": "1570429015575629825",
