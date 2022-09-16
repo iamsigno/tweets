@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 16 10:07:09 +0000 2022",
+		"id": 1570661766719471600,
+		"id_str": "1570715906875002881",
+		"full_text": "Na na na na na na na na~🎵💗 \nwith #소녀시대 #효연 #서현 \n\nhttps://t.co/E6PZc6Vt5w\n\n#NCT127 #질주 #NCT127_질주\n#NCT127_질주_2Baddies\n#NeoSeoulChallenge\n#NCT127Challenge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "소녀시대",
+					"indices": [
+						33,
+						38
+					]
+				},
+				{
+					"text": "효연",
+					"indices": [
+						39,
+						42
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						43,
+						46
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						74,
+						81
+					]
+				},
+				{
+					"text": "질주",
+					"indices": [
+						82,
+						85
+					]
+				},
+				{
+					"text": "NCT127_질주",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "NCT127_질주_2Baddies",
+					"indices": [
+						97,
+						116
+					]
+				},
+				{
+					"text": "NeoSeoulChallenge",
+					"indices": [
+						117,
+						135
+					]
+				},
+				{
+					"text": "NCT127Challenge",
+					"indices": [
+						136,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E6PZc6Vt5w",
+					"expanded_url": "https://vt.tiktok.com/ZSRue9k8Q/",
+					"display_url": "vt.tiktok.com/ZSRue9k8Q/",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 869875390465982500,
+			"id_str": "869875390465982465",
+			"name": "NCT 127",
+			"screen_name": "NCTsmtown_127",
+			"location": "",
+			"description": "NCT 127 〖질주 (2 Baddies) - The 4th Album〗 ➫ 2022.09.16 1PM (KST)",
+			"url": "https://t.co/ISGWTHU2r5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ISGWTHU2r5",
+							"expanded_url": "https://youtu.be/FRilMXZqNhA",
+							"display_url": "youtu.be/FRilMXZqNhA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8246845,
+			"friends_count": 5,
+			"listed_count": 25312,
+			"created_at": "Wed May 31 11:17:09 +0000 2017",
+			"favourites_count": 123,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6397,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560280364857589765/1TNSlkob_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560280364857589765/1TNSlkob_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/869875390465982465/1660834803",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12882,
+		"favorite_count": 27341,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Na na na na na na na na~🎵💗 \nwith #소녀시대 #효연 #서현 \n\nhttps://t.co/E6PZc6Vt5w\n\n#NCT127 #질주 #NCT127_질주\n#NCT127_질주_2Baddies\n#NeoSeoulChallenge\n#NCT127Challenge"
+	},
+	{
 		"created_at": "Fri Sep 16 09:07:09 +0000 2022",
 		"id": 1570692148416381000,
 		"id_str": "1570700807649243139",
