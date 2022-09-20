@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 03:07:09 +0000 2022",
+		"id": 1572057973689651200,
+		"id_str": "1572059761872363520",
+		"full_text": "[#지당음🎶]\n\n우리 꼭 영원하자~💖 \n솟부심 차오르는 떼창 현장\n소시 하는 삶이 Lucky like that✨\n\n🔗https://t.co/jDjJhTGwrV\n🔗https://t.co/7ng8UaHSA1\n\n💜지당음은 매주 화, 목 정오에 공개됩니다!\n🎧풀버전은 #FLO에서 오디오 콘텐츠로 만나보세요!\n\n#박선영 #권순일 #소녀시대\n@flo_official https://t.co/wtBlgBtOIT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "지당음",
+					"indices": [
+						1,
+						5
+					]
+				},
+				{
+					"text": "FLO에서",
+					"indices": [
+						146,
+						152
+					]
+				},
+				{
+					"text": "박선영",
+					"indices": [
+						170,
+						174
+					]
+				},
+				{
+					"text": "권순일",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						180,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "flo_official",
+					"name": "FLO 플로",
+					"id": 1062908686366990300,
+					"id_str": "1062908686366990336",
+					"indices": [
+						186,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jDjJhTGwrV",
+					"expanded_url": "https://youtu.be/X_5I-ULazYU",
+					"display_url": "youtu.be/X_5I-ULazYU",
+					"indices": [
+						65,
+						88
+					]
+				},
+				{
+					"url": "https://t.co/7ng8UaHSA1",
+					"expanded_url": "http://flomuz.io/s/v.IpP",
+					"display_url": "flomuz.io/s/v.IpP",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572056932139282400,
+					"id_str": "1572056932139282433",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FdERc17aMAEUhIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdERc17aMAEUhIA.jpg",
+					"url": "https://t.co/wtBlgBtOIT",
+					"display_url": "pic.twitter.com/wtBlgBtOIT",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1572057973689651206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572056932139282400,
+					"id_str": "1572056932139282433",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FdERc17aMAEUhIA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdERc17aMAEUhIA.jpg",
+					"url": "https://t.co/wtBlgBtOIT",
+					"display_url": "pic.twitter.com/wtBlgBtOIT",
+					"expanded_url": "https://twitter.com/smcnc_studio/status/1572057973689651206/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1192288122756681700,
+			"id_str": "1192288122756681728",
+			"name": "SM C&C STUDIO",
+			"screen_name": "smcnc_studio",
+			"location": "",
+			"description": "SM C&C STUDIO Official Twitter Page",
+			"url": "https://t.co/aSIDBTQnMl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aSIDBTQnMl",
+							"expanded_url": "https://www.youtube.com/c/SMCCStudio",
+							"display_url": "youtube.com/c/SMCCStudio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53481,
+			"friends_count": 0,
+			"listed_count": 88,
+			"created_at": "Thu Nov 07 03:50:32 +0000 2019",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470986237993385987/zcnhNwJk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1192288122756681728/1663121196",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#지당음🎶]\n\n우리 꼭 영원하자~💖 \n솟부심 차오르는 떼창 현장\n소시 하는 삶이 Lucky like that✨\n\n🔗https://t.co/jDjJhTGwrV\n🔗https://t.co/7ng8UaHSA1\n\n💜지당음은 매주 화, 목 정오에 공개됩니다!\n🎧풀버전은 #FLO에서 오디오 콘텐츠로 만나보세요!\n\n#박선영 #권순일 #소녀시대\n@flo_official https://t.co/wtBlgBtOIT"
+	},
+	{
 		"created_at": "Sun Sep 18 05:07:09 +0000 2022",
 		"id": 1571359748611776500,
 		"id_str": "1571365184043905024",
