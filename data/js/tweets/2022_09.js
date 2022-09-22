@@ -1,10 +1,252 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 03:07:17 +0000 2022",
+		"id": 1572773677967372300,
+		"id_str": "1572784571275526152",
+		"full_text": "[#NEWS] 안방도 '지금은 소녀시대'\n▶ https://t.co/HdwPpN0Om5\n\n#서현 #SEOHYUN https://t.co/afXn8oziXg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						50,
+						53
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HdwPpN0Om5",
+					"expanded_url": "http://naver.me/xw9yQqFM",
+					"display_url": "naver.me/xw9yQqFM",
+					"indices": [
+						25,
+						48
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572769017680765000,
+					"id_str": "1572769017680764928",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOZFrSaIAAXOCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOZFrSaIAAXOCH.jpg",
+					"url": "https://t.co/afXn8oziXg",
+					"display_url": "pic.twitter.com/afXn8oziXg",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1572773677967372288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572769017680765000,
+					"id_str": "1572769017680764928",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOZFrSaIAAXOCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOZFrSaIAAXOCH.jpg",
+					"url": "https://t.co/afXn8oziXg",
+					"display_url": "pic.twitter.com/afXn8oziXg",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1572773677967372288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572770018110378000,
+					"id_str": "1572770018110377984",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/FdOZ_6LakAA-A3f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdOZ_6LakAA-A3f.jpg",
+					"url": "https://t.co/afXn8oziXg",
+					"display_url": "pic.twitter.com/afXn8oziXg",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1572773677967372288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 483,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 852,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1454,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66046,
+			"friends_count": 14,
+			"listed_count": 281,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 261,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] 안방도 '지금은 소녀시대'\n▶ https://t.co/HdwPpN0Om5\n\n#서현 #SEOHYUN https://t.co/afXn8oziXg"
+	},
+	{
 		"created_at": "Thu Sep 22 02:07:08 +0000 2022",
 		"id": 1572767643987329000,
 		"id_str": "1572769436590919681",
-		"full_text": "1R) 벅찬 감동💧\n마음을 위로하는 여린의\n#태연 〈#만약에〉♪\n\n▶️매주 수요일 밤 𝟴시 𝟱𝟬분\n&lt;#스타탄생&gt; 본방사수🧑‍🎤 https://t.co/fvNthfid8X",
+		"full_text": "1R) 벅찬 감동💧\n마음을 위로하는 여린의\n#태연 〈#만약에〉♪\n\n▶️매주 수요일 밤 𝟴시 𝟱𝟬분\n&lt;#스타탄생&gt; 본방사수🧑🎤 https://t.co/fvNthfid8X",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -234,7 +476,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "ko",
-		"text": "1R) 벅찬 감동💧\n마음을 위로하는 여린의\n#태연 〈#만약에〉♪\n\n▶️매주 수요일 밤 𝟴시 𝟱𝟬분\n&lt;#스타탄생&gt; 본방사수🧑‍🎤 https://t.co/fvNthfid8X"
+		"text": "1R) 벅찬 감동💧\n마음을 위로하는 여린의\n#태연 〈#만약에〉♪\n\n▶️매주 수요일 밤 𝟴시 𝟱𝟬분\n&lt;#스타탄생&gt; 본방사수🧑🎤 https://t.co/fvNthfid8X"
 	},
 	{
 		"created_at": "Thu Sep 22 01:07:08 +0000 2022",
