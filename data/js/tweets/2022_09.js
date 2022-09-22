@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 22 05:07:12 +0000 2022",
+		"id": 1572807445533315000,
+		"id_str": "1572814749842411521",
+		"full_text": "#LIMYOONA’s ‘Confidential Assignment 2: International’ sells 5M tickets, proving ‘LIM YOONA power’ with numbers and digestibility with no limits! In the midst of her success in both movies &amp; dramas, she ranks first on hot topic searches among actors in dramas! \n\n#공조2 #빅마우스 https://t.co/whXuM9eYY7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "공조2",
+					"indices": [
+						267,
+						271
+					]
+				},
+				{
+					"text": "빅마우스",
+					"indices": [
+						272,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572807421306712000,
+					"id_str": "1572807421306712064",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO8BD8VsAAUfOh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO8BD8VsAAUfOh.jpg",
+					"url": "https://t.co/whXuM9eYY7",
+					"display_url": "pic.twitter.com/whXuM9eYY7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572807445533315076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572807421306712000,
+					"id_str": "1572807421306712064",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO8BD8VsAAUfOh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO8BD8VsAAUfOh.jpg",
+					"url": "https://t.co/whXuM9eYY7",
+					"display_url": "pic.twitter.com/whXuM9eYY7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572807445533315076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572807421315014700,
+					"id_str": "1572807421315014656",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO8BD-UYAAkYEi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO8BD-UYAAkYEi.jpg",
+					"url": "https://t.co/whXuM9eYY7",
+					"display_url": "pic.twitter.com/whXuM9eYY7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572807445533315076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1572807421310906400,
+					"id_str": "1572807421310906368",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FdO8BD9VsAAKtGm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdO8BD9VsAAKtGm.jpg",
+					"url": "https://t.co/whXuM9eYY7",
+					"display_url": "pic.twitter.com/whXuM9eYY7",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1572807445533315076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1364,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11185995,
+			"friends_count": 55,
+			"listed_count": 12607,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 430,
+		"favorite_count": 1599,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LIMYOONA’s ‘Confidential Assignment 2: International’ sells 5M tickets, proving ‘LIM YOONA power’ with numbers and digestibility with no limits! In the midst of her success in both movies &amp; dramas, she ranks first on hot topic searches among actors in dramas! \n\n#공조2 #빅마우스 https://t.co/whXuM9eYY7"
+	},
+	{
 		"created_at": "Thu Sep 22 03:07:17 +0000 2022",
 		"id": 1572773677967372300,
 		"id_str": "1572784571275526152",
