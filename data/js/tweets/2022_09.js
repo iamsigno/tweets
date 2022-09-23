@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 02:07:09 +0000 2022",
+		"id": 1573123336846057500,
+		"id_str": "1573131825366564864",
+		"full_text": "[#아이돌챔프_스타나눔]\n✧ 기부증서 왔어요 ✧\n\n스타의 선한 영향력에 \n아챔과 함께 동참해요\n ╰(*´︶`*)╯\n\n#NCT드림 #NCTDREAM\n#소녀시대 #SNSD\n#트와이스 #TWICE\n#트레저 #TREASURE https://t.co/EFEKrWEO9A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "아이돌챔프_스타나눔",
+					"indices": [
+						1,
+						12
+					]
+				},
+				{
+					"text": "NCT드림",
+					"indices": [
+						65,
+						71
+					]
+				},
+				{
+					"text": "NCTDREAM",
+					"indices": [
+						72,
+						81
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "SNSD",
+					"indices": [
+						88,
+						93
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "TWICE",
+					"indices": [
+						100,
+						106
+					]
+				},
+				{
+					"text": "트레저",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "TREASURE",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573123291031621600,
+					"id_str": "1573123291031621632",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTbTGXVUAA5o2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTbTGXVUAA5o2f.jpg",
+					"url": "https://t.co/EFEKrWEO9A",
+					"display_url": "pic.twitter.com/EFEKrWEO9A",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1573123336846057473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573123291031621600,
+					"id_str": "1573123291031621632",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTbTGXVUAA5o2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTbTGXVUAA5o2f.jpg",
+					"url": "https://t.co/EFEKrWEO9A",
+					"display_url": "pic.twitter.com/EFEKrWEO9A",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1573123336846057473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573123291023257600,
+					"id_str": "1573123291023257600",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTbTGVVsAABoHF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTbTGVVsAABoHF.jpg",
+					"url": "https://t.co/EFEKrWEO9A",
+					"display_url": "pic.twitter.com/EFEKrWEO9A",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1573123336846057473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573123291040354300,
+					"id_str": "1573123291040354309",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTbTGZakAUn8bb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTbTGZakAUn8bb.jpg",
+					"url": "https://t.co/EFEKrWEO9A",
+					"display_url": "pic.twitter.com/EFEKrWEO9A",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1573123336846057473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1573123291006439400,
+					"id_str": "1573123291006439425",
+					"indices": [
+						122,
+						145
+					],
+					"media_url": "http://pbs.twimg.com/media/FdTbTGRVEAEBDL8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdTbTGRVEAEBDL8.jpg",
+					"url": "https://t.co/EFEKrWEO9A",
+					"display_url": "pic.twitter.com/EFEKrWEO9A",
+					"expanded_url": "https://twitter.com/idolchamp1/status/1573123336846057473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 481,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1573121218223345700,
+		"in_reply_to_status_id_str": "1573121218223345665",
+		"in_reply_to_user_id": 842271014520148000,
+		"in_reply_to_user_id_str": "842271014520147968",
+		"in_reply_to_screen_name": "idolchamp1",
+		"user": {
+			"id": 842271014520148000,
+			"id_str": "842271014520147968",
+			"name": "아이돌챔프",
+			"screen_name": "idolchamp1",
+			"location": "아이돌 맴 속",
+			"description": "MBC M 쇼챔피언 사전투표, 주간아이돌 출연진 싸인사진 이벤트 진행 중",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101524,
+			"friends_count": 111,
+			"listed_count": 269,
+			"created_at": "Thu Mar 16 07:07:13 +0000 2017",
+			"favourites_count": 283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1224930538693120002/l0ij6CAt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/842271014520147968/1661144480",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#아이돌챔프_스타나눔]\n✧ 기부증서 왔어요 ✧\n\n스타의 선한 영향력에 \n아챔과 함께 동참해요\n ╰(*´︶`*)╯\n\n#NCT드림 #NCTDREAM\n#소녀시대 #SNSD\n#트와이스 #TWICE\n#트레저 #TREASURE https://t.co/EFEKrWEO9A"
+	},
+	{
 		"created_at": "Fri Sep 23 01:07:11 +0000 2022",
 		"id": 1573111564554875000,
 		"id_str": "1573116736790208513",
