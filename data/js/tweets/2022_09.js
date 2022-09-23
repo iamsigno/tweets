@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 09:07:20 +0000 2022",
+		"id": 1573236088692682800,
+		"id_str": "1573237568094801920",
+		"full_text": "HYO 효연 'DEEP (h4rdy Remix)' Visualizer\n\nhttps://t.co/LPzx0nn2c2\n\n#HYO #DEEP \n#4B\n#h4rdy \n#Remix\n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/m8DUfWXBKQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HYO",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "DEEP",
+					"indices": [
+						70,
+						75
+					]
+				},
+				{
+					"text": "4B",
+					"indices": [
+						77,
+						80
+					]
+				},
+				{
+					"text": "h4rdy",
+					"indices": [
+						81,
+						87
+					]
+				},
+				{
+					"text": "Remix",
+					"indices": [
+						89,
+						95
+					]
+				},
+				{
+					"text": "iScreaM",
+					"indices": [
+						96,
+						104
+					]
+				},
+				{
+					"text": "ScreaMRecords",
+					"indices": [
+						105,
+						119
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LPzx0nn2c2",
+					"expanded_url": "https://youtu.be/jkeQZOD8VzY",
+					"display_url": "youtu.be/jkeQZOD8VzY",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573236083231694800,
+					"id_str": "1573236083231694856",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVB4eDaIAgUeZN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVB4eDaIAgUeZN.jpg",
+					"url": "https://t.co/m8DUfWXBKQ",
+					"display_url": "pic.twitter.com/m8DUfWXBKQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1573236088692682752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573236083231694800,
+					"id_str": "1573236083231694856",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FdVB4eDaIAgUeZN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdVB4eDaIAgUeZN.jpg",
+					"url": "https://t.co/m8DUfWXBKQ",
+					"display_url": "pic.twitter.com/m8DUfWXBKQ",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1573236088692682752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11188930,
+			"friends_count": 55,
+			"listed_count": 12611,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 192,
+		"favorite_count": 606,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HYO 효연 'DEEP (h4rdy Remix)' Visualizer\n\nhttps://t.co/LPzx0nn2c2\n\n#HYO #DEEP \n#4B\n#h4rdy \n#Remix\n#iScreaM\n#ScreaMRecords \n#SMTOWN https://t.co/m8DUfWXBKQ"
+	},
+	{
 		"created_at": "Fri Sep 23 06:07:09 +0000 2022",
 		"id": 1573185832391151600,
 		"id_str": "1573192222832566272",
