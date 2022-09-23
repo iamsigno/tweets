@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 01:07:11 +0000 2022",
+		"id": 1573111564554875000,
+		"id_str": "1573116736790208513",
+		"full_text": "[15회 예고]\n너 나랑 진짜 가족 할래?\n\n힐링드라마 #당신이소원을말하면\n매주 수목 밤 9시 50분 (KBS20220928방송)\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/ispHehXoMh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"text": "kbs",
+					"indices": [
+						74,
+						78
+					]
+				},
+				{
+					"text": "당신이소원을말하면",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "당소말",
+					"indices": [
+						90,
+						94
+					]
+				},
+				{
+					"text": "IfYouWishUponMe",
+					"indices": [
+						95,
+						111
+					]
+				},
+				{
+					"text": "지창욱",
+					"indices": [
+						112,
+						116
+					]
+				},
+				{
+					"text": "성동일",
+					"indices": [
+						117,
+						121
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						122,
+						126
+					]
+				},
+				{
+					"text": "원지안",
+					"indices": [
+						127,
+						131
+					]
+				},
+				{
+					"text": "kbsdrama",
+					"indices": [
+						132,
+						141
+					]
+				},
+				{
+					"text": "kbs드라마",
+					"indices": [
+						142,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573111422849949700,
+					"id_str": "1573111422849949696",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573111422849949696/pu/img/NNiJUeQQXEX6kozQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573111422849949696/pu/img/NNiJUeQQXEX6kozQ.jpg",
+					"url": "https://t.co/ispHehXoMh",
+					"display_url": "pic.twitter.com/ispHehXoMh",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1573111564554874880/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573111422849949700,
+					"id_str": "1573111422849949696",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573111422849949696/pu/img/NNiJUeQQXEX6kozQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573111422849949696/pu/img/NNiJUeQQXEX6kozQ.jpg",
+					"url": "https://t.co/ispHehXoMh",
+					"display_url": "pic.twitter.com/ispHehXoMh",
+					"expanded_url": "https://twitter.com/MyloveKBS/status/1573111564554874880/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 35412,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573111422849949696/pu/vid/1280x720/yMqzz40YNSPcFIQI.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573111422849949696/pu/vid/480x270/dkXbXwGNLAosGpoB.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1573111422849949696/pu/vid/640x360/YbYyJ8yN7QEQPOih.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1573111422849949696/pu/pl/FsegQyXC_eU4utSv.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 158284325,
+			"id_str": "158284325",
+			"name": "KBS 한국방송",
+			"screen_name": "MyloveKBS",
+			"location": "",
+			"description": "대한민국 대표 공영방송 KBS 공식 트위터",
+			"url": "https://t.co/QZdiw0Hhns",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QZdiw0Hhns",
+							"expanded_url": "http://twtkr.com/MyloveKBS",
+							"display_url": "twtkr.com/MyloveKBS",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105448,
+			"friends_count": 56554,
+			"listed_count": 2119,
+			"created_at": "Tue Jun 22 07:45:48 +0000 2010",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55143,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1520993049010065408/83_NUsR2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/158284325/1663570145",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[15회 예고]\n너 나랑 진짜 가족 할래?\n\n힐링드라마 #당신이소원을말하면\n매주 수목 밤 9시 50분 (KBS20220928방송)\n\n#kbs #당신이소원을말하면\n#당소말 #IfYouWishUponMe #지창욱 #성동일 #최수영 #원지안 #kbsdrama #kbs드라마 https://t.co/ispHehXoMh"
+	},
+	{
 		"created_at": "Thu Sep 22 10:44:57 +0000 2022",
 		"id": 1572886663306842000,
 		"id_str": "1572899748566405120",
