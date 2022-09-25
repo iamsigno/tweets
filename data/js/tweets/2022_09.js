@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 25 03:07:09 +0000 2022",
+		"id": 1573871557885456400,
+		"id_str": "1573871700298633216",
+		"full_text": "🕶️최애 아이돌 콘서트 VR로 보면 어떨까?\n설문조사 참여하고 에어팟 받아가세요!!\n당첨확률 up up\n\n👉https://t.co/dsbDqTjSB3\n\n#방탄소년단 #세븐틴 #소녀시대 #아이브 #JayB #블랙핑크 #아이유 #뉴진스 #트와이스 #NCT127 #ITZY #몬스타엑스 #샤이니 #더보이즈 #엑소 #온앤오프 https://t.co/Aebxu40tdk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "방탄소년단",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "세븐틴",
+					"indices": [
+						92,
+						96
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "아이브",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "JayB",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"text": "블랙핑크",
+					"indices": [
+						114,
+						119
+					]
+				},
+				{
+					"text": "아이유",
+					"indices": [
+						120,
+						124
+					]
+				},
+				{
+					"text": "뉴진스",
+					"indices": [
+						125,
+						129
+					]
+				},
+				{
+					"text": "트와이스",
+					"indices": [
+						130,
+						135
+					]
+				},
+				{
+					"text": "NCT127",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"text": "ITZY",
+					"indices": [
+						144,
+						149
+					]
+				},
+				{
+					"text": "몬스타엑스",
+					"indices": [
+						150,
+						156
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						157,
+						161
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						162,
+						167
+					]
+				},
+				{
+					"text": "엑소",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "온앤오프",
+					"indices": [
+						172,
+						177
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dsbDqTjSB3",
+					"expanded_url": "https://fdback.me/r/ala56G5i664",
+					"display_url": "fdback.me/r/ala56G5i664",
+					"indices": [
+						60,
+						83
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1573871553024262100,
+					"id_str": "1573871553024262145",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FdeD1rgagAEQplf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdeD1rgagAEQplf.jpg",
+					"url": "https://t.co/Aebxu40tdk",
+					"display_url": "pic.twitter.com/Aebxu40tdk",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1573871557885456385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 798,
+							"h": 603,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573871553024262100,
+					"id_str": "1573871553024262145",
+					"indices": [
+						178,
+						201
+					],
+					"media_url": "http://pbs.twimg.com/media/FdeD1rgagAEQplf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdeD1rgagAEQplf.jpg",
+					"url": "https://t.co/Aebxu40tdk",
+					"display_url": "pic.twitter.com/Aebxu40tdk",
+					"expanded_url": "https://twitter.com/idolchartrank/status/1573871557885456385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 798,
+							"h": 603,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 798,
+							"h": 603,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 969495055047180300,
+			"id_str": "969495055047180291",
+			"name": "아이돌차트",
+			"screen_name": "idolchartrank",
+			"location": "대한민국",
+			"description": "한주간 가장 인기있는 가수를 확인하는 방법 ‘아차’  PC☞ https://t.co/WVnybfPteA 모바일☞ https://t.co/w6GT45pXif",
+			"url": "https://t.co/mjoHwDLYTO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mjoHwDLYTO",
+							"expanded_url": "http://www.idol-chart.com/",
+							"display_url": "idol-chart.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/WVnybfPteA",
+							"expanded_url": "http://www.idol-chart.com",
+							"display_url": "idol-chart.com",
+							"indices": [
+								34,
+								57
+							]
+						},
+						{
+							"url": "https://t.co/w6GT45pXif",
+							"expanded_url": "http://m.idol-chart.com",
+							"display_url": "m.idol-chart.com",
+							"indices": [
+								63,
+								86
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1728,
+			"friends_count": 78,
+			"listed_count": 0,
+			"created_at": "Fri Mar 02 08:50:08 +0000 2018",
+			"favourites_count": 466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1846,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051652028491911168/ORh47Rb2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/969495055047180291/1577944144",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "🕶️최애 아이돌 콘서트 VR로 보면 어떨까?\n설문조사 참여하고 에어팟 받아가세요!!\n당첨확률 up up\n\n👉https://t.co/dsbDqTjSB3\n\n#방탄소년단 #세븐틴 #소녀시대 #아이브 #JayB #블랙핑크 #아이유 #뉴진스 #트와이스 #NCT127 #ITZY #몬스타엑스 #샤이니 #더보이즈 #엑소 #온앤오프 https://t.co/Aebxu40tdk"
+	},
+	{
 		"created_at": "Fri Sep 23 09:07:20 +0000 2022",
 		"id": 1573236088692682800,
 		"id_str": "1573237568094801920",
