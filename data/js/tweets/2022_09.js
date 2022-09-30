@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 30 03:07:09 +0000 2022",
+		"id": 1575679795181998000,
+		"id_str": "1575683642155831296",
+		"full_text": "‘굿잡’ 종영 권유리, 성공적인 연기 변신 이뤄냈다! 일문일답 공개  \n“배우로서 성장할 수 있게 해준 작품, ‘돈세라’ 덕분에 많이 배워” 소감 전해\n“장점이 훨씬 많았던 정일우와의 재회, 함께한 배우들 덕분에 많이 웃었다”\n\nhttps://t.co/fvvOCOjwlu\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob \n#소녀시대 https://t.co/nVCvdtbRHl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						153,
+						157
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						158,
+						167
+					]
+				},
+				{
+					"text": "굿잡",
+					"indices": [
+						168,
+						171
+					]
+				},
+				{
+					"text": "GoodJob",
+					"indices": [
+						172,
+						180
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						182,
+						187
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fvvOCOjwlu",
+					"expanded_url": "https://bit.ly/3BUDCQv",
+					"display_url": "bit.ly/3BUDCQv",
+					"indices": [
+						128,
+						151
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1575679768594239500,
+					"id_str": "1575679768594239489",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd3wZrbUUAEH-tp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd3wZrbUUAEH-tp.jpg",
+					"url": "https://t.co/nVCvdtbRHl",
+					"display_url": "pic.twitter.com/nVCvdtbRHl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1575679795181998080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575679768594239500,
+					"id_str": "1575679768594239489",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd3wZrbUUAEH-tp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd3wZrbUUAEH-tp.jpg",
+					"url": "https://t.co/nVCvdtbRHl",
+					"display_url": "pic.twitter.com/nVCvdtbRHl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1575679795181998080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575679768594305000,
+					"id_str": "1575679768594305024",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd3wZrbVUAAnsju.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd3wZrbVUAAnsju.jpg",
+					"url": "https://t.co/nVCvdtbRHl",
+					"display_url": "pic.twitter.com/nVCvdtbRHl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1575679795181998080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1575679768590049300,
+					"id_str": "1575679768590049280",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/Fd3wZraUYAAZrN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fd3wZraUYAAZrN4.jpg",
+					"url": "https://t.co/nVCvdtbRHl",
+					"display_url": "pic.twitter.com/nVCvdtbRHl",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1575679795181998080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11200931,
+			"friends_count": 55,
+			"listed_count": 12615,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12997,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 150,
+		"favorite_count": 873,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "‘굿잡’ 종영 권유리, 성공적인 연기 변신 이뤄냈다! 일문일답 공개  \n“배우로서 성장할 수 있게 해준 작품, ‘돈세라’ 덕분에 많이 배워” 소감 전해\n“장점이 훨씬 많았던 정일우와의 재회, 함께한 배우들 덕분에 많이 웃었다”\n\nhttps://t.co/fvvOCOjwlu\n\n#권유리 #KWONYURI\n#굿잡 #GoodJob \n#소녀시대 https://t.co/nVCvdtbRHl"
+	},
+	{
 		"created_at": "Thu Sep 29 11:07:09 +0000 2022",
 		"id": 1575440252516212700,
 		"id_str": "1575442048714432513",
