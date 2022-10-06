@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 04:07:09 +0000 2022",
+		"id": 1577859761340440600,
+		"id_str": "1577873067375837184",
+		"full_text": "#임윤아, 미우미우 엠버서더로 파리 패션위크 참석! ‘글로벌 퀸’ 저력 입증\n파리에서도 지금은 ‘윤아시대’! 현지 매료시킨 독보적 아우라\n\n‘Global Queen’ #LIMYOONA attends Paris Fashion Week as a Miu Miu ambassador!  \nShe captivates the local audience with her unique aura!\n\n#소녀시대 https://t.co/RtKDppSO7R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "임윤아",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						93,
+						102
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						214,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1577859748258451500,
+					"id_str": "1577859748258451456",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577859748258451500,
+					"id_str": "1577859748258451456",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMhVEAA_NDq.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577859748287770600,
+					"id_str": "1577859748287770625",
+					"indices": [
+						220,
+						243
+					],
+					"media_url": "http://pbs.twimg.com/media/FeWvFMoUcAEiQmc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeWvFMoUcAEiQmc.jpg",
+					"url": "https://t.co/RtKDppSO7R",
+					"display_url": "pic.twitter.com/RtKDppSO7R",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1577859761340440576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 799,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1364,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11211121,
+			"friends_count": 55,
+			"listed_count": 12629,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 850,
+		"favorite_count": 2387,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#임윤아, 미우미우 엠버서더로 파리 패션위크 참석! ‘글로벌 퀸’ 저력 입증\n파리에서도 지금은 ‘윤아시대’! 현지 매료시킨 독보적 아우라\n\n‘Global Queen’ #LIMYOONA attends Paris Fashion Week as a Miu Miu ambassador!  \nShe captivates the local audience with her unique aura!\n\n#소녀시대 https://t.co/RtKDppSO7R"
+	},
+	{
 		"created_at": "Thu Oct 06 02:07:09 +0000 2022",
 		"id": 1577830715248738300,
 		"id_str": "1577842867275530240",
