@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 05:07:08 +0000 2022",
+		"id": 1577879024235610000,
+		"id_str": "1577888165087641600",
+		"full_text": "YOONA Berpartisipasi dalam Paris Fashion Walk Sebagai Brand Ambassador Miu Miu \n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/7sfcr4QCHu\n\n@GirlsGeneration \n#LIMYOONA #GirlsGeneration https://t.co/xbK24tnLyl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LIMYOONA",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						199,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						171,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7sfcr4QCHu",
+					"expanded_url": "https://www.facebook.com/smtown.idn/posts/pfbid07LX5fkMc2Ptzs3Hp2WjQ8rtwrwQpT88HwyNeAgsQwqEScggTKuPMKmthiMNdDayzl",
+					"display_url": "facebook.com/smtown.idn/pos…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577878966152880000,
+					"id_str": "1577878966152880128",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXAj0waYAAhGNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXAj0waYAAhGNP.jpg",
+					"url": "https://t.co/xbK24tnLyl",
+					"display_url": "pic.twitter.com/xbK24tnLyl",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1577879024235610112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577878966152880000,
+					"id_str": "1577878966152880128",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXAj0waYAAhGNP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXAj0waYAAhGNP.jpg",
+					"url": "https://t.co/xbK24tnLyl",
+					"display_url": "pic.twitter.com/xbK24tnLyl",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1577879024235610112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 454,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1799,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1577879004472049700,
+					"id_str": "1577879004472049664",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/FeXAmDgagAAj4Cs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeXAmDgagAAj4Cs.jpg",
+					"url": "https://t.co/xbK24tnLyl",
+					"display_url": "pic.twitter.com/xbK24tnLyl",
+					"expanded_url": "https://twitter.com/SMTOWN_Idn/status/1577879024235610112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1064828006487609300,
+			"id_str": "1064828006487609345",
+			"name": "SMTOWN Indonesia",
+			"screen_name": "SMTOWN_Idn",
+			"location": "FX Sudirman Mall F5 #18B",
+			"description": "SM Entertainment Indonesia Official Twitter Page",
+			"url": "https://t.co/BGCHmjauKM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BGCHmjauKM",
+							"expanded_url": "http://bit.ly/AngketSM2022",
+							"display_url": "bit.ly/AngketSM2022",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1106240,
+			"friends_count": 38,
+			"listed_count": 674,
+			"created_at": "Tue Nov 20 10:29:15 +0000 2018",
+			"favourites_count": 99,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100927655610744832/D4iRym3b_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1064828006487609345/1551316595",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 183,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "YOONA Berpartisipasi dalam Paris Fashion Walk Sebagai Brand Ambassador Miu Miu \n\nCek info lengkapnya di Official Facebook Page SMTOWN Indonesia\n👉🏻https://t.co/7sfcr4QCHu\n\n@GirlsGeneration \n#LIMYOONA #GirlsGeneration https://t.co/xbK24tnLyl"
+	},
+	{
 		"created_at": "Thu Oct 06 04:07:09 +0000 2022",
 		"id": 1577859761340440600,
 		"id_str": "1577873067375837184",
