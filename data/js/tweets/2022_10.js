@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 07 03:44:57 +0000 2022",
+		"id": 1578218556503851000,
+		"id_str": "1578229869514821633",
+		"full_text": "이건 내 선물 😙\n솔로 데뷔 7주년 축하해 줘서 고마워요 💜\n나랑 777주년까지 가보자고\n\n#태연 #TAEYEON https://t.co/KbQCdo8Db5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "태연",
+					"indices": [
+						51,
+						54
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						55,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578033518495813600,
+					"id_str": "1578033518495813639",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZNH9GaUAcEWFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZNH9GaUAcEWFo.jpg",
+					"url": "https://t.co/KbQCdo8Db5",
+					"display_url": "pic.twitter.com/KbQCdo8Db5",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1578218556503851008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578033518495813600,
+					"id_str": "1578033518495813639",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZNH9GaUAcEWFo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZNH9GaUAcEWFo.jpg",
+					"url": "https://t.co/KbQCdo8Db5",
+					"display_url": "pic.twitter.com/KbQCdo8Db5",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1578218556503851008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1578033518516789200,
+					"id_str": "1578033518516789250",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZNH9LaYAIbFdz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZNH9LaYAIbFdz.jpg",
+					"url": "https://t.co/KbQCdo8Db5",
+					"display_url": "pic.twitter.com/KbQCdo8Db5",
+					"expanded_url": "https://twitter.com/TAEYEONsmtown/status/1578218556503851008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1496499777965822000,
+			"id_str": "1496499777965821956",
+			"name": "TAEYEON Official",
+			"screen_name": "TAEYEONsmtown",
+			"location": "",
+			"description": "TAEYEON The 3rd Album 'INVU'",
+			"url": "https://t.co/c1nmkKMaGi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c1nmkKMaGi",
+							"expanded_url": "https://youtu.be/AbZH7XWDW_k",
+							"display_url": "youtu.be/AbZH7XWDW_k",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148414,
+			"friends_count": 2,
+			"listed_count": 485,
+			"created_at": "Wed Feb 23 14:59:02 +0000 2022",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 67,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496687188041678849/ngLIpota_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1496499777965821956/1645673016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3360,
+		"favorite_count": 5712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "이건 내 선물 😙\n솔로 데뷔 7주년 축하해 줘서 고마워요 💜\n나랑 777주년까지 가보자고\n\n#태연 #TAEYEON https://t.co/KbQCdo8Db5"
+	},
+	{
 		"created_at": "Fri Oct 07 02:07:09 +0000 2022",
 		"id": 1578200225784639500,
 		"id_str": "1578205255841505282",
