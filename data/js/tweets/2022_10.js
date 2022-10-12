@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 04:07:09 +0000 2022",
+		"id": 1580038523805016000,
+		"id_str": "1580047394917339137",
+		"full_text": "‘The Zone: Survival Mission’ Finale D-DAY, KWON YURI has proved herself as an entertainer on the rise, keeping the audience curious about her next steps! \n\n#권유리 #KWONYURI\n#더존_버텨야산다\n#소녀시대 #GirlsGeneration https://t.co/6R2H8dvoFt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "권유리",
+					"indices": [
+						156,
+						160
+					]
+				},
+				{
+					"text": "KWONYURI",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "더존_버텨야산다",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						181,
+						186
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						187,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580038512534909000,
+					"id_str": "1580038512534908930",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580038512534909000,
+					"id_str": "1580038512534908930",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp98UcAIeXnV.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580038512534954000,
+					"id_str": "1580038512534953984",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp98VIAAnMFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp98VIAAnMFw.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1580038512497242000,
+					"id_str": "1580038512497242112",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe1sp9zVsAAtTBS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe1sp9zVsAAtTBS.jpg",
+					"url": "https://t.co/6R2H8dvoFt",
+					"display_url": "pic.twitter.com/6R2H8dvoFt",
+					"expanded_url": "https://twitter.com/SMTOWNGLOBAL/status/1580038523805016064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 999,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884378714,
+			"id_str": "884378714",
+			"name": "SMTOWN",
+			"screen_name": "SMTOWNGLOBAL",
+			"location": "",
+			"description": "SMEntertainment Group Official Twitter",
+			"url": "https://t.co/zjb7YW3ApX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zjb7YW3ApX",
+							"expanded_url": "http://www.smtown.com",
+							"display_url": "smtown.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11219931,
+			"friends_count": 55,
+			"listed_count": 12637,
+			"created_at": "Tue Oct 16 12:49:45 +0000 2012",
+			"favourites_count": 2091,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "F08BA0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1537993544555560963/XHzYSZjH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884378714/1655521211",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 449,
+		"favorite_count": 1563,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘The Zone: Survival Mission’ Finale D-DAY, KWON YURI has proved herself as an entertainer on the rise, keeping the audience curious about her next steps! \n\n#권유리 #KWONYURI\n#더존_버텨야산다\n#소녀시대 #GirlsGeneration https://t.co/6R2H8dvoFt"
+	},
+	{
 		"created_at": "Tue Oct 11 12:07:09 +0000 2022",
 		"id": 1579791039468294100,
 		"id_str": "1579805802105569280",
