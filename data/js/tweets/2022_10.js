@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 14 11:07:14 +0000 2022",
+		"id": 1580876324042076200,
+		"id_str": "1580877887133356034",
+		"full_text": "보컬🎤부터 댄스💃까지 능력치 916% 신인 #미미로즈 #인효리 의\n소녀시대 태연 '11:11’ &amp; ‘INVU’ 롤모델 커버💞\n통기타 소녀였는데요.. 퍼포 장인이었습니다🤩\n\n두 곡 중 풀버전으로 보고 싶은 곡에 투표하세요🗳\n#mimiirose(@mimiirose_YESIM) #InnHyoRi #롤모델커버VS https://t.co/15KUj0qAe3 https://t.co/AZurzJpey6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "미미로즈",
+					"indices": [
+						24,
+						29
+					]
+				},
+				{
+					"text": "인효리",
+					"indices": [
+						30,
+						34
+					]
+				},
+				{
+					"text": "mimiirose",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"text": "InnHyoRi",
+					"indices": [
+						157,
+						166
+					]
+				},
+				{
+					"text": "롤모델커버VS",
+					"indices": [
+						167,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mimiirose_YESIM",
+					"name": "mimiirose (미미로즈)",
+					"id": 1548510000355504000,
+					"id_str": "1548510000355504129",
+					"indices": [
+						139,
+						155
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/15KUj0qAe3",
+					"expanded_url": "https://twitter.com/1thek/status/1580876105850187777",
+					"display_url": "twitter.com/1thek/status/1…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1580876179707670500,
+					"id_str": "1580876179707670529",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"url": "https://t.co/AZurzJpey6",
+					"display_url": "pic.twitter.com/AZurzJpey6",
+					"expanded_url": "https://twitter.com/1theK/status/1580876324042076160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580876179707670500,
+					"id_str": "1580876179707670529",
+					"indices": [
+						200,
+						223
+					],
+					"media_url": "http://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfBm9m9aEAAfZwR.jpg",
+					"url": "https://t.co/AZurzJpey6",
+					"display_url": "pic.twitter.com/AZurzJpey6",
+					"expanded_url": "https://twitter.com/1theK/status/1580876324042076160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 84916,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/vid/640x360/0WFL_p2DTZRVJZgb.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/vid/1280x720/7VJdLPlrOwXiMPHU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/pl/4KOy_G4EYFb_I4pp.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1580876179707670529/pu/vid/480x270/lj8mQfGeUhOi47hU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349751,
+			"friends_count": 818,
+			"listed_count": 2262,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1665741592",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580876105850187800,
+		"quoted_status_id_str": "1580876105850187777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/15KUj0qAe3",
+			"expanded": "https://twitter.com/1thek/status/1580876105850187777",
+			"display": "twitter.com/1thek/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 14 11:00:09 +0000 2022",
+			"id": 1580876105850187800,
+			"id_str": "1580876105850187777",
+			"full_text": "풀버전으로 보고 싶은 미미로즈 인효리의 롤모델 소녀시대 태연 커버곡은?\nVote for 1 song you want to see in full version! ☞ https://t.co/HVbcJqlltb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HVbcJqlltb",
+						"expanded_url": "https://youtu.be/_VJtbZdDA1o",
+						"display_url": "youtu.be/_VJtbZdDA1o",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568871711,
+				"id_str": "568871711",
+				"name": "1theK(원더케이)",
+				"screen_name": "1theK",
+				"location": "Korea",
+				"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+				"url": "https://t.co/BmRz0M5nTk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BmRz0M5nTk",
+								"expanded_url": "http://www.youtube.com/1thek",
+								"display_url": "youtube.com/1thek",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2349751,
+				"friends_count": 818,
+				"listed_count": 2262,
+				"created_at": "Wed May 02 07:04:27 +0000 2012",
+				"favourites_count": 14598,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24938,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1665741592",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ko"
+		},
+		"retweet_count": 13,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "보컬🎤부터 댄스💃까지 능력치 916% 신인 #미미로즈 #인효리 의\n소녀시대 태연 '11:11’ &amp; ‘INVU’ 롤모델 커버💞\n통기타 소녀였는데요.. 퍼포 장인이었습니다🤩\n\n두 곡 중 풀버전으로 보고 싶은 곡에 투표하세요🗳\n#mimiirose(@mimiirose_YESIM) #InnHyoRi #롤모델커버VS https://t.co/15KUj0qAe3 https://t.co/AZurzJpey6"
+	},
+	{
 		"created_at": "Wed Oct 12 04:07:09 +0000 2022",
 		"id": 1580038523805016000,
 		"id_str": "1580047394917339137",
