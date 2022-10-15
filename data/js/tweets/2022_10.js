@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 08:45:06 +0000 2022",
+		"id": 1581194922140795000,
+		"id_str": "1581204506351898624",
+		"full_text": "SM엔터테인먼트입니다. https://t.co/H0STy3toMY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1581194883989020700,
+					"id_str": "1581194883989020672",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FfGIXpTUoAAKwo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfGIXpTUoAAKwo6.jpg",
+					"url": "https://t.co/H0STy3toMY",
+					"display_url": "pic.twitter.com/H0STy3toMY",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1581194922140794885/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 257,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 775,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581194883989020700,
+					"id_str": "1581194883989020672",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/FfGIXpTUoAAKwo6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfGIXpTUoAAKwo6.jpg",
+					"url": "https://t.co/H0STy3toMY",
+					"display_url": "pic.twitter.com/H0STy3toMY",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1581194922140794885/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 257,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 775,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3910743,
+			"friends_count": 5,
+			"listed_count": 6260,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3407,
+		"favorite_count": 6495,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "SM엔터테인먼트입니다. https://t.co/H0STy3toMY"
+	},
+	{
 		"created_at": "Sat Oct 15 04:07:09 +0000 2022",
 		"id": 1581124319240863700,
 		"id_str": "1581134558401286144",
