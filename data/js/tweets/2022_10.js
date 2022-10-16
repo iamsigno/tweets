@@ -1,6 +1,227 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 16 09:45:02 +0000 2022",
+		"id": 1581570830445645800,
+		"id_str": "1581581977827745792",
+		"full_text": "❤️가족이 되어줘서 고마워요❤️ | Secret Message Center @ TOKYO 💌 EP. 02 \n\nhttps://t.co/aedKJyGB3h\n\n#SecretMessageCenter\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_TOKYO https://t.co/ti8bU4ybZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SecretMessageCenter",
+					"indices": [
+						86,
+						106
+					]
+				},
+				{
+					"text": "SMTOWN",
+					"indices": [
+						107,
+						114
+					]
+				},
+				{
+					"text": "SMCU_EXPRESS",
+					"indices": [
+						115,
+						128
+					]
+				},
+				{
+					"text": "SMTOWNLIVE",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "SMTOWNLIVE2022_TOKYO",
+					"indices": [
+						141,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aedKJyGB3h",
+					"expanded_url": "https://youtu.be/qAEK4asYNcc",
+					"display_url": "youtu.be/qAEK4asYNcc",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1581567010625884200,
+					"id_str": "1581567010625884160",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"url": "https://t.co/ti8bU4ybZy",
+					"display_url": "pic.twitter.com/ti8bU4ybZy",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1581570830445645826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1581567010625884200,
+					"id_str": "1581567010625884160",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfLa0RDVEAAl4yY.jpg",
+					"url": "https://t.co/ti8bU4ybZy",
+					"display_url": "pic.twitter.com/ti8bU4ybZy",
+					"expanded_url": "https://twitter.com/GirlsGeneration/status/1581570830445645826/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 391115625,
+			"id_str": "391115625",
+			"name": "Girls' Generation",
+			"screen_name": "GirlsGeneration",
+			"location": "",
+			"description": "No.1 girl group, Girls’ Generation!",
+			"url": "https://t.co/itXzBV3cSH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/itXzBV3cSH",
+							"expanded_url": "https://youtube.com/user/GIRLSGENERATION",
+							"display_url": "youtube.com/user/GIRLSGENE…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3911192,
+			"friends_count": 5,
+			"listed_count": 6269,
+			"created_at": "Sat Oct 15 02:28:18 +0000 2011",
+			"favourites_count": 156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1C171E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551220686538276865/mAgQFVeM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/391115625/1658674834",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2156,
+		"favorite_count": 3864,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "❤️가족이 되어줘서 고마워요❤️ | Secret Message Center @ TOKYO 💌 EP. 02 \n\nhttps://t.co/aedKJyGB3h\n\n#SecretMessageCenter\n#SMTOWN #SMCU_EXPRESS\n#SMTOWNLIVE\n#SMTOWNLIVE2022_TOKYO https://t.co/ti8bU4ybZy"
+	},
+	{
 		"created_at": "Sat Oct 15 08:45:06 +0000 2022",
 		"id": 1581194922140795000,
 		"id_str": "1581204506351898624",
