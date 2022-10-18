@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 10:07:09 +0000 2022",
+		"id": 1582299998707777500,
+		"id_str": "1582312320755040256",
+		"full_text": "예측불허 미스터리 이야기를 들으러\n'혹' 아지트에 찾아온 써니💛\n\nSBS &lt;당신이 혹하는 사이 시즌 4&gt;\n☞ 매주 [토] 밤 8시 35분\n\n#당신이혹하는사이 #당혹사4\n#전현무 #변영주 #봉태규 #주우재 \n#소녀시대 #써니 https://t.co/CetpOJuTDA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "당신이혹하는사이",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"text": "당혹사4",
+					"indices": [
+						94,
+						99
+					]
+				},
+				{
+					"text": "전현무",
+					"indices": [
+						100,
+						104
+					]
+				},
+				{
+					"text": "변영주",
+					"indices": [
+						105,
+						109
+					]
+				},
+				{
+					"text": "봉태규",
+					"indices": [
+						110,
+						114
+					]
+				},
+				{
+					"text": "주우재",
+					"indices": [
+						115,
+						119
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						121,
+						126
+					]
+				},
+				{
+					"text": "써니",
+					"indices": [
+						127,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582299723116867600,
+					"id_str": "1582299723116867584",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FfV1NvyUcAA6a0G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfV1NvyUcAA6a0G.jpg",
+					"url": "https://t.co/CetpOJuTDA",
+					"display_url": "pic.twitter.com/CetpOJuTDA",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1582299998707777537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582299723116867600,
+					"id_str": "1582299723116867584",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FfV1NvyUcAA6a0G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfV1NvyUcAA6a0G.jpg",
+					"url": "https://t.co/CetpOJuTDA",
+					"display_url": "pic.twitter.com/CetpOJuTDA",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1582299998707777537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1582299723104284700,
+					"id_str": "1582299723104284672",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FfV1NvvUcAAdsXJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfV1NvvUcAAdsXJ.jpg",
+					"url": "https://t.co/CetpOJuTDA",
+					"display_url": "pic.twitter.com/CetpOJuTDA",
+					"expanded_url": "https://twitter.com/SBSNOW/status/1582299998707777537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 113259902,
+			"id_str": "113259902",
+			"name": "SBSNOW",
+			"screen_name": "SBSNOW",
+			"location": "",
+			"description": "스브스 특) 재밌는 거만 올림",
+			"url": "https://t.co/AkJkvggJas",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AkJkvggJas",
+							"expanded_url": "https://linktr.ee/sbsnow",
+							"display_url": "linktr.ee/sbsnow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1768935,
+			"friends_count": 118,
+			"listed_count": 3162,
+			"created_at": "Thu Feb 11 06:04:28 +0000 2010",
+			"favourites_count": 1259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FAFAFA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569305054649421824/eqIW8xvr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569305054649421824/eqIW8xvr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/113259902/1650931859",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 110,
+		"favorite_count": 150,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "예측불허 미스터리 이야기를 들으러\n'혹' 아지트에 찾아온 써니💛\n\nSBS &lt;당신이 혹하는 사이 시즌 4&gt;\n☞ 매주 [토] 밤 8시 35분\n\n#당신이혹하는사이 #당혹사4\n#전현무 #변영주 #봉태규 #주우재 \n#소녀시대 #써니 https://t.co/CetpOJuTDA"
+	},
+	{
 		"created_at": "Tue Oct 18 09:07:09 +0000 2022",
 		"id": 1582295426606039000,
 		"id_str": "1582297219772092417",
