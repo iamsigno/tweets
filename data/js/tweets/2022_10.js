@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 09:07:09 +0000 2022",
+		"id": 1582295426606039000,
+		"id_str": "1582297219772092417",
+		"full_text": "&lt;Role Model Cover VS&gt; #롤모델커버VS #미미로즈 #인효리 편 투표 결과 공개🗳\n‘태연 - INVU’ 커버 풀버전이 추후 #mimiirose(@mimiirose_YESIM) 공식 유튜브 채널에 공개됩니다!\nmimiirose #InnHyoRi ’s ‘TAEYEON - INVU’ Coming soon!\n&lt;롤모델 커버VS&gt; 다시보기 👉 https://t.co/HVbcJq3cf3 https://t.co/iBeZznwhDW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "롤모델커버VS",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"text": "미미로즈",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "인효리",
+					"indices": [
+						43,
+						47
+					]
+				},
+				{
+					"text": "mimiirose",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"text": "InnHyoRi",
+					"indices": [
+						140,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mimiirose_YESIM",
+					"name": "mimiirose (미미로즈)",
+					"id": 1548510000355504000,
+					"id_str": "1548510000355504129",
+					"indices": [
+						94,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HVbcJq3cf3",
+					"expanded_url": "https://youtu.be/_VJtbZdDA1o",
+					"display_url": "youtu.be/_VJtbZdDA1o",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1582240102881063000,
+					"id_str": "1582240102881062912",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FfU-_ZGacAAEzU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfU-_ZGacAAEzU6.jpg",
+					"url": "https://t.co/iBeZznwhDW",
+					"display_url": "pic.twitter.com/iBeZznwhDW",
+					"expanded_url": "https://twitter.com/1theK/status/1582295426606039040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582240102881063000,
+					"id_str": "1582240102881062912",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FfU-_ZGacAAEzU6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfU-_ZGacAAEzU6.jpg",
+					"url": "https://t.co/iBeZznwhDW",
+					"display_url": "pic.twitter.com/iBeZznwhDW",
+					"expanded_url": "https://twitter.com/1theK/status/1582295426606039040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 568871711,
+			"id_str": "568871711",
+			"name": "1theK(원더케이)",
+			"screen_name": "1theK",
+			"location": "Korea",
+			"description": "K-POP Wonderland 1theK(원더케이)’s Official Twitter! *Business Contact : 1theK.ad@kakaoent.com",
+			"url": "https://t.co/BmRz0M5nTk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BmRz0M5nTk",
+							"expanded_url": "http://www.youtube.com/1thek",
+							"display_url": "youtube.com/1thek",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2350348,
+			"friends_count": 818,
+			"listed_count": 2260,
+			"created_at": "Wed May 02 07:04:27 +0000 2012",
+			"favourites_count": 14593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 24954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197786931045662720/Zls9URZD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/568871711/1665741592",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;Role Model Cover VS&gt; #롤모델커버VS #미미로즈 #인효리 편 투표 결과 공개🗳\n‘태연 - INVU’ 커버 풀버전이 추후 #mimiirose(@mimiirose_YESIM) 공식 유튜브 채널에 공개됩니다!\nmimiirose #InnHyoRi ’s ‘TAEYEON - INVU’ Coming soon!\n&lt;롤모델 커버VS&gt; 다시보기 👉 https://t.co/HVbcJq3cf3 https://t.co/iBeZznwhDW"
+	},
+	{
 		"created_at": "Sun Oct 16 09:45:02 +0000 2022",
 		"id": 1581570830445645800,
 		"id_str": "1581581977827745792",
