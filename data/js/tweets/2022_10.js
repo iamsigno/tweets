@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 01:07:09 +0000 2022",
+		"id": 1582899403064545300,
+		"id_str": "1582901199371915265",
+		"full_text": "&lt;팬레터를 보내주세요&gt; 티저 포스터 공개💌\n\n탈덕 방지 로맨틱 코미디 &lt;#팬레터를보내주세요&gt;💝\n11월 26일 (토) 밤 8시 40분 첫 방송✍️\n\n#최수영 #윤박 #팬레터 #팬레터를보내주세요\n#MBC드라마 #MBC https://t.co/xhQ8L1tNab",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "팬레터를보내주세요",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"text": "최수영",
+					"indices": [
+						94,
+						98
+					]
+				},
+				{
+					"text": "윤박",
+					"indices": [
+						99,
+						102
+					]
+				},
+				{
+					"text": "팬레터",
+					"indices": [
+						103,
+						107
+					]
+				},
+				{
+					"text": "팬레터를보내주세요",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"text": "MBC드라마",
+					"indices": [
+						119,
+						126
+					]
+				},
+				{
+					"text": "MBC",
+					"indices": [
+						127,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582893457907282000,
+					"id_str": "1582893457907281921",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FfeRNqPacAE-4Ny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfeRNqPacAE-4Ny.jpg",
+					"url": "https://t.co/xhQ8L1tNab",
+					"display_url": "pic.twitter.com/xhQ8L1tNab",
+					"expanded_url": "https://twitter.com/withMBC/status/1582899403064545280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1373,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582893457907282000,
+					"id_str": "1582893457907281921",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/FfeRNqPacAE-4Ny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfeRNqPacAE-4Ny.jpg",
+					"url": "https://t.co/xhQ8L1tNab",
+					"display_url": "pic.twitter.com/xhQ8L1tNab",
+					"expanded_url": "https://twitter.com/withMBC/status/1582899403064545280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 804,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1373,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104673579,
+			"id_str": "104673579",
+			"name": "withMBC",
+			"screen_name": "withMBC",
+			"location": "상암동",
+			"description": "📺𝖮𝖿𝖿𝗂𝖼𝗂𝖺𝗅 Twitter 𝗈𝖿 𝖬𝗎𝗇𝗁𝗐𝖺 𝖡𝗋𝗈𝖺𝖽𝖼𝖺𝗌𝗍𝗂𝗇𝗀 𝖢𝗈𝗋𝗉.",
+			"url": "https://t.co/6dtNDitrVn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6dtNDitrVn",
+							"expanded_url": "http://www.imbc.com",
+							"display_url": "imbc.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1002800,
+			"friends_count": 9788,
+			"listed_count": 4191,
+			"created_at": "Thu Jan 14 01:40:58 +0000 2010",
+			"favourites_count": 125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 49114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326085413245612034/W0IFxoZo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/104673579/1663728081",
+			"profile_link_color": "1B3E8F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FCFCFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "&lt;팬레터를 보내주세요&gt; 티저 포스터 공개💌\n\n탈덕 방지 로맨틱 코미디 &lt;#팬레터를보내주세요&gt;💝\n11월 26일 (토) 밤 8시 40분 첫 방송✍️\n\n#최수영 #윤박 #팬레터 #팬레터를보내주세요\n#MBC드라마 #MBC https://t.co/xhQ8L1tNab"
+	},
+	{
 		"created_at": "Tue Oct 18 10:07:09 +0000 2022",
 		"id": 1582299998707777500,
 		"id_str": "1582312320755040256",
