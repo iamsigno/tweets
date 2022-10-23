@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 23 13:07:09 +0000 2022",
+		"id": 1584155846316945400,
+		"id_str": "1584169557198897152",
+		"full_text": "G.O.A.T. (Greatest Of All Time) IN THE KEYLAND\nwith #TAEYEON #CODEKUNST 🌟💙\n\n#KEY #키 \n#MINHO #민호 \n#ONEW #온유\n#TAEYEON #태연 \n#GirlsGeneration #소녀시대 @GirlsGeneration \n#CODEKUNST #코드쿤스트\n#KEYLAND #키랜드\n#GOAT_IN_THE_KEYLAND\n#SHINee #샤이니 https://t.co/QIbZBMYQCR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TAEYEON",
+					"indices": [
+						52,
+						60
+					]
+				},
+				{
+					"text": "CODEKUNST",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"text": "KEY",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "키",
+					"indices": [
+						81,
+						83
+					]
+				},
+				{
+					"text": "MINHO",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "민호",
+					"indices": [
+						92,
+						95
+					]
+				},
+				{
+					"text": "ONEW",
+					"indices": [
+						97,
+						102
+					]
+				},
+				{
+					"text": "온유",
+					"indices": [
+						103,
+						106
+					]
+				},
+				{
+					"text": "TAEYEON",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						116,
+						119
+					]
+				},
+				{
+					"text": "GirlsGeneration",
+					"indices": [
+						121,
+						137
+					]
+				},
+				{
+					"text": "소녀시대",
+					"indices": [
+						138,
+						143
+					]
+				},
+				{
+					"text": "CODEKUNST",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"text": "코드쿤스트",
+					"indices": [
+						173,
+						179
+					]
+				},
+				{
+					"text": "KEYLAND",
+					"indices": [
+						180,
+						188
+					]
+				},
+				{
+					"text": "키랜드",
+					"indices": [
+						189,
+						193
+					]
+				},
+				{
+					"text": "GOAT_IN_THE_KEYLAND",
+					"indices": [
+						194,
+						214
+					]
+				},
+				{
+					"text": "SHINee",
+					"indices": [
+						215,
+						222
+					]
+				},
+				{
+					"text": "샤이니",
+					"indices": [
+						223,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GirlsGeneration",
+					"name": "Girls' Generation",
+					"id": 391115625,
+					"id_str": "391115625",
+					"indices": [
+						144,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584155837383049200,
+					"id_str": "1584155837383049216",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FfwNV0QUAAAujm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfwNV0QUAAAujm9.jpg",
+					"url": "https://t.co/QIbZBMYQCR",
+					"display_url": "pic.twitter.com/QIbZBMYQCR",
+					"expanded_url": "https://twitter.com/SHINee/status/1584155846316945408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584155837383049200,
+					"id_str": "1584155837383049216",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FfwNV0QUAAAujm9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfwNV0QUAAAujm9.jpg",
+					"url": "https://t.co/QIbZBMYQCR",
+					"display_url": "pic.twitter.com/QIbZBMYQCR",
+					"expanded_url": "https://twitter.com/SHINee/status/1584155846316945408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 792,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887973863824306200,
+			"id_str": "887973863824306176",
+			"name": "SHINee",
+			"screen_name": "SHINee",
+			"location": "SHINeeisBACK",
+			"description": "KEY 키 The 2nd Album 〖Gasoline〗",
+			"url": "https://t.co/9wXASkfVaG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9wXASkfVaG",
+							"expanded_url": "https://www.youtube.com/SHINee",
+							"display_url": "youtube.com/SHINee",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2307331,
+			"friends_count": 2,
+			"listed_count": 5912,
+			"created_at": "Thu Jul 20 09:54:01 +0000 2017",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 2829,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1556656521966395394/u5-a-Upl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1556656521966395394/u5-a-Upl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887973863824306176/1659970812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5994,
+		"favorite_count": 11013,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "G.O.A.T. (Greatest Of All Time) IN THE KEYLAND\nwith #TAEYEON #CODEKUNST 🌟💙\n\n#KEY #키 \n#MINHO #민호 \n#ONEW #온유\n#TAEYEON #태연 \n#GirlsGeneration #소녀시대 @GirlsGeneration \n#CODEKUNST #코드쿤스트\n#KEYLAND #키랜드\n#GOAT_IN_THE_KEYLAND\n#SHINee #샤이니 https://t.co/QIbZBMYQCR"
+	},
+	{
 		"created_at": "Thu Oct 20 01:07:09 +0000 2022",
 		"id": 1582899403064545300,
 		"id_str": "1582901199371915265",
