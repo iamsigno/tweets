@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 10:07:17 +0000 2022",
+		"id": 1584477113444622300,
+		"id_str": "1584486680618098688",
+		"full_text": "[#2022MAMA] Best Vocal Performance Solo Nominee l #taeyeon #태연 #INVU\n\nWorld's No.1 K-POP Awards\n2022 MAMA AWARDS\n2022.11.29(TUE)-30(WED)\n\n✅ Mnet Plus 앱 다운로드 받고\n2022 MAMA AWARDS 투표에 참여하세요\n#2022MAMA #MAMAAWARDS #Mnet https://t.co/zJtKysGyWX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "2022MAMA",
+					"indices": [
+						1,
+						10
+					]
+				},
+				{
+					"text": "taeyeon",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "INVU",
+					"indices": [
+						63,
+						68
+					]
+				},
+				{
+					"text": "2022MAMA",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "MAMAAWARDS",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "Mnet",
+					"indices": [
+						209,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1584477104397488000,
+					"id_str": "1584477104397488129",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"url": "https://t.co/zJtKysGyWX",
+					"display_url": "pic.twitter.com/zJtKysGyWX",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1584477113444622336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584477104397488000,
+					"id_str": "1584477104397488129",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff0xiBJaEAEOHsm.jpg",
+					"url": "https://t.co/zJtKysGyWX",
+					"display_url": "pic.twitter.com/zJtKysGyWX",
+					"expanded_url": "https://twitter.com/MnetMAMA/status/1584477113444622336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 128487133,
+			"id_str": "128487133",
+			"name": "MAMA AWARDS",
+			"screen_name": "MnetMAMA",
+			"location": "Seoul, South Korea",
+			"description": "MAMA AWARDS Official Twitter \n2022.11.29-30",
+			"url": "https://t.co/sZOg3I5lbo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sZOg3I5lbo",
+							"expanded_url": "http://2022mama.com",
+							"display_url": "2022mama.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2498490,
+			"friends_count": 101,
+			"listed_count": 2305,
+			"created_at": "Thu Apr 01 07:54:34 +0000 2010",
+			"favourites_count": 3,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562343149011636225/C2jJobl4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562343149011636225/C2jJobl4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/128487133/1661326610",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "D4D4D4",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2563,
+		"favorite_count": 4105,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#2022MAMA] Best Vocal Performance Solo Nominee l #taeyeon #태연 #INVU\n\nWorld's No.1 K-POP Awards\n2022 MAMA AWARDS\n2022.11.29(TUE)-30(WED)\n\n✅ Mnet Plus 앱 다운로드 받고\n2022 MAMA AWARDS 투표에 참여하세요\n#2022MAMA #MAMAAWARDS #Mnet https://t.co/zJtKysGyWX"
+	},
+	{
 		"created_at": "Sun Oct 23 13:07:09 +0000 2022",
 		"id": 1584155846316945400,
 		"id_str": "1584169557198897152",
