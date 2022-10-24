@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 24 11:07:09 +0000 2022",
+		"id": 1584499951739936800,
+		"id_str": "1584501745354305536",
+		"full_text": "#OUTNOW | @JOYURI_offcl\n막 던지는 아무말 인터뷰에\n더한 아무말로 대답해주는 쪼율!\n\n당황한 동공༎ຶ‿༎ຶ,\nBUT 은근 태연한 답변이\n킬포고 귀여우니까 꼭 봐주기💕\nhttps://t.co/95aPienysZ\n\n#OUTNOW Jo Yuri 다시 보기는\n네이버 NOW에서📺\n#조유리 #JOYURI #Loveable https://t.co/1T46llQyzh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OUTNOW",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"text": "OUTNOW",
+					"indices": [
+						128,
+						135
+					]
+				},
+				{
+					"text": "조유리",
+					"indices": [
+						162,
+						166
+					]
+				},
+				{
+					"text": "JOYURI",
+					"indices": [
+						167,
+						174
+					]
+				},
+				{
+					"text": "Loveable",
+					"indices": [
+						175,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JOYURI_offcl",
+					"name": "조유리 JO YURI",
+					"id": 1407320908935569400,
+					"id_str": "1407320908935569412",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/95aPienysZ",
+					"expanded_url": "https://youtu.be/ey6EFBFwNGs",
+					"display_url": "youtu.be/ey6EFBFwNGs",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584489838048579600,
+					"id_str": "1584489838048579584",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff09HNsaEAAzr9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff09HNsaEAAzr9a.jpg",
+					"url": "https://t.co/1T46llQyzh",
+					"display_url": "pic.twitter.com/1T46llQyzh",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1584499951739936768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584489838048579600,
+					"id_str": "1584489838048579584",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff09HNsaEAAzr9a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff09HNsaEAAzr9a.jpg",
+					"url": "https://t.co/1T46llQyzh",
+					"display_url": "pic.twitter.com/1T46llQyzh",
+					"expanded_url": "https://twitter.com/MUPLY_PLAYLIST/status/1584499951739936768/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1112618601356226600,
+			"id_str": "1112618601356226561",
+			"name": "MUPLY 뮤플리",
+			"screen_name": "MUPLY_PLAYLIST",
+			"location": "",
+			"description": "PLAY YOUR MUSIC #MUPLY #뮤플리 💜 #돌들의침묵 #플리예고LIVE #OUTNOW",
+			"url": "https://t.co/0hfNihIe33",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0hfNihIe33",
+							"expanded_url": "http://bit.ly/MUPLY_YouTube",
+							"display_url": "bit.ly/MUPLY_YouTube",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36914,
+			"friends_count": 87,
+			"listed_count": 83,
+			"created_at": "Mon Apr 01 07:32:00 +0000 2019",
+			"favourites_count": 561,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1475285350310617091/e0WPgRG-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475285350310617091/e0WPgRG-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1112618601356226561/1640570413",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 183,
+		"favorite_count": 352,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "#OUTNOW | @JOYURI_offcl\n막 던지는 아무말 인터뷰에\n더한 아무말로 대답해주는 쪼율!\n\n당황한 동공༎ຶ‿༎ຶ,\nBUT 은근 태연한 답변이\n킬포고 귀여우니까 꼭 봐주기💕\nhttps://t.co/95aPienysZ\n\n#OUTNOW Jo Yuri 다시 보기는\n네이버 NOW에서📺\n#조유리 #JOYURI #Loveable https://t.co/1T46llQyzh"
+	},
+	{
 		"created_at": "Mon Oct 24 10:07:17 +0000 2022",
 		"id": 1584477113444622300,
 		"id_str": "1584486680618098688",
