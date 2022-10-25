@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 02:07:09 +0000 2022",
+		"id": 1584722403690967000,
+		"id_str": "1584728237212672000",
+		"full_text": "[#NEWS] '사랑스러움 한가득' 서현 \"모든 순간 행복 있었다\"\n▶ https://t.co/wk0PgLG5AP\n\n#서현 #맵스 #SEOHYUN #Maps https://t.co/QocoRf5t6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NEWS",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "서현",
+					"indices": [
+						65,
+						68
+					]
+				},
+				{
+					"text": "맵스",
+					"indices": [
+						69,
+						72
+					]
+				},
+				{
+					"text": "SEOHYUN",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"text": "Maps",
+					"indices": [
+						82,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wk0PgLG5AP",
+					"expanded_url": "http://naver.me/GA6gkzOI",
+					"display_url": "naver.me/GA6gkzOI",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1584721984642248700,
+					"id_str": "1584721984642248704",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff4QP7JacAAAFkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff4QP7JacAAAFkZ.jpg",
+					"url": "https://t.co/QocoRf5t6p",
+					"display_url": "pic.twitter.com/QocoRf5t6p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1584722403690967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1531,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1584721984642248700,
+					"id_str": "1584721984642248704",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff4QP7JacAAAFkZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff4QP7JacAAAFkZ.jpg",
+					"url": "https://t.co/QocoRf5t6p",
+					"display_url": "pic.twitter.com/QocoRf5t6p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1584722403690967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1531,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584721984638029800,
+					"id_str": "1584721984638029825",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff4QP7IaEAEkS5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff4QP7IaEAEkS5t.jpg",
+					"url": "https://t.co/QocoRf5t6p",
+					"display_url": "pic.twitter.com/QocoRf5t6p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1584722403690967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584721984654815200,
+					"id_str": "1584721984654815234",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff4QP7MaMAIQGbM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff4QP7MaMAIQGbM.jpg",
+					"url": "https://t.co/QocoRf5t6p",
+					"display_url": "pic.twitter.com/QocoRf5t6p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1584722403690967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1366,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1584721984667390000,
+					"id_str": "1584721984667389953",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/Ff4QP7PaEAEJByF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ff4QP7PaEAEJByF.jpg",
+					"url": "https://t.co/QocoRf5t6p",
+					"display_url": "pic.twitter.com/QocoRf5t6p",
+					"expanded_url": "https://twitter.com/NAMOOACTORS2004/status/1584722403690967041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 508,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1531,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 897,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465359487,
+			"id_str": "465359487",
+			"name": "NAMOOACTORS",
+			"screen_name": "NAMOOACTORS2004",
+			"location": "Seoul, KOREA",
+			"description": "NAMOOACTORS 공식 덕질 계정 4차 산업혁명 시대에 발맞춰 나가는 \"어덕행덕\" \"덕라밸\"을 이뤄내겠습니다. 📸 고화질 아니면 죽음을 달라 \ninstagram: @namooactors youtube: namooofficial",
+			"url": "https://t.co/jYLf4TGV0Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jYLf4TGV0Y",
+							"expanded_url": "https://twitter.com/NAMOOACTORS2004",
+							"display_url": "twitter.com/NAMOOACTORS2004",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66750,
+			"friends_count": 14,
+			"listed_count": 282,
+			"created_at": "Mon Jan 16 08:03:15 +0000 2012",
+			"favourites_count": 130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16521,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1758741819/Untitled-5_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 184,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[#NEWS] '사랑스러움 한가득' 서현 \"모든 순간 행복 있었다\"\n▶ https://t.co/wk0PgLG5AP\n\n#서현 #맵스 #SEOHYUN #Maps https://t.co/QocoRf5t6p"
+	},
+	{
 		"created_at": "Mon Oct 24 11:07:09 +0000 2022",
 		"id": 1584499951739936800,
 		"id_str": "1584501745354305536",
