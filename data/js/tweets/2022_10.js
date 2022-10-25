@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 25 09:07:09 +0000 2022",
+		"id": 1584832681594192000,
+		"id_str": "1584833933564428288",
+		"full_text": "[어딜맨 EP.15] 성덕 작사가 조윤경이 말하는 덕업일치\n[ADM EP.15] Lyricist Cho Yoon-kyung talks about her life from fan to pro.\n#KPOP #조윤경 #더보이즈 #TheBoyz #태연 #Taeyeon #CIRCLECHART\nhttps://t.co/ihGAuFW0l5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KPOP",
+					"indices": [
+						107,
+						112
+					]
+				},
+				{
+					"text": "조윤경",
+					"indices": [
+						113,
+						117
+					]
+				},
+				{
+					"text": "더보이즈",
+					"indices": [
+						118,
+						123
+					]
+				},
+				{
+					"text": "TheBoyz",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "태연",
+					"indices": [
+						133,
+						136
+					]
+				},
+				{
+					"text": "Taeyeon",
+					"indices": [
+						137,
+						145
+					]
+				},
+				{
+					"text": "CIRCLECHART",
+					"indices": [
+						146,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ihGAuFW0l5",
+					"expanded_url": "https://youtu.be/JGTjERXsHMI",
+					"display_url": "youtu.be/JGTjERXsHMI",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3435012852,
+			"id_str": "3435012852",
+			"name": "CIRCLE CHART",
+			"screen_name": "CIRCLE_CHART",
+			"location": "대한민국",
+			"description": "Korea Music Content Association\nhttps://t.co/7JMmIBGvPc\nhttps://t.co/gIoX7PLKtq\nhttps://t.co/e2m08ZBI9s",
+			"url": "https://t.co/tomHXaN9w8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tomHXaN9w8",
+							"expanded_url": "https://circlechart.kr",
+							"display_url": "circlechart.kr",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7JMmIBGvPc",
+							"expanded_url": "http://facebook.com/circlechart.kr",
+							"display_url": "facebook.com/circlechart.kr",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/gIoX7PLKtq",
+							"expanded_url": "http://instagram.com/circlechart",
+							"display_url": "instagram.com/circlechart",
+							"indices": [
+								56,
+								79
+							]
+						},
+						{
+							"url": "https://t.co/e2m08ZBI9s",
+							"expanded_url": "http://youtube.com/c/CIRCLECHART",
+							"display_url": "youtube.com/c/CIRCLECHART",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22637,
+			"friends_count": 5,
+			"listed_count": 53,
+			"created_at": "Thu Sep 03 08:42:20 +0000 2015",
+			"favourites_count": 27,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1562632563088572416/_i5lS1jt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1562632563088572416/_i5lS1jt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3435012852/1658111849",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ko",
+		"text": "[어딜맨 EP.15] 성덕 작사가 조윤경이 말하는 덕업일치\n[ADM EP.15] Lyricist Cho Yoon-kyung talks about her life from fan to pro.\n#KPOP #조윤경 #더보이즈 #TheBoyz #태연 #Taeyeon #CIRCLECHART\nhttps://t.co/ihGAuFW0l5"
+	},
+	{
 		"created_at": "Tue Oct 25 02:07:09 +0000 2022",
 		"id": 1584722403690967000,
 		"id_str": "1584728237212672000",
